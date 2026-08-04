@@ -1,0 +1,595 @@
+{
+ "pasarea-colibri": {
+  "tab": {
+   "id": 190,
+   "name": "Pasărea Colibri",
+   "slug": "pasarea-colibri",
+   "tabCount": 158,
+   "requestCount": 1
+  },
+  "caiet_names": [
+   "Pasărea Colibri (15)",
+   "Pasarea Colibri (1)"
+  ]
+ },
+ "phoenix": {
+  "tab": {
+   "id": 222,
+   "name": "Phoenix",
+   "slug": "phoenix",
+   "tabCount": 175,
+   "requestCount": 16
+  },
+  "caiet_names": [
+   "Phoenix (11)"
+  ]
+ },
+ "karma": {
+  "tab": {
+   "id": 336,
+   "name": "Karma",
+   "slug": "karma",
+   "tabCount": 61,
+   "requestCount": 6
+  },
+  "caiet_names": [
+   "Karma (9)"
+  ]
+ },
+ "cargo": {
+  "tab": {
+   "id": 203,
+   "name": "Cargo",
+   "slug": "cargo",
+   "tabCount": 83,
+   "requestCount": 11
+  },
+  "caiet_names": [
+   "Cargo (4)"
+  ]
+ },
+ "holograf": {
+  "tab": {
+   "id": 218,
+   "name": "Holograf",
+   "slug": "holograf",
+   "tabCount": 92,
+   "requestCount": 20
+  },
+  "caiet_names": [
+   "Holograf (4)"
+  ]
+ },
+ "simon": {
+  "tab": {
+   "id": 419,
+   "name": "Simon",
+   "slug": "simon",
+   "tabCount": 1,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Simon (4)"
+  ]
+ },
+ "vama-veche": {
+  "tab": {
+   "id": 196,
+   "name": "Vama Veche",
+   "slug": "vama-veche",
+   "tabCount": 77,
+   "requestCount": 3
+  },
+  "caiet_names": [
+   "Vama Veche (3)"
+  ]
+ },
+ "mihai-margineanu": {
+  "tab": {
+   "id": 278,
+   "name": "Mihai Mărgineanu",
+   "slug": "mihai-margineanu",
+   "tabCount": 74,
+   "requestCount": 5
+  },
+  "caiet_names": [
+   "Mihai Mărgineanu (3)",
+   "Mihai Margineanu (1)"
+  ]
+ },
+ "costica-david": {
+  "tab": {
+   "id": 453,
+   "name": "Costică David",
+   "slug": "costica-david",
+   "tabCount": 10,
+   "requestCount": 5
+  },
+  "caiet_names": [
+   "Costică David (3)",
+   "Costica David (1)"
+  ]
+ },
+ "focul-viu": {
+  "tab": {
+   "id": 448,
+   "name": "Focul Viu",
+   "slug": "focul-viu",
+   "tabCount": 39,
+   "requestCount": 1
+  },
+  "caiet_names": [
+   "Focul Viu (3)"
+  ]
+ },
+ "ducu-bertzi": {
+  "tab": {
+   "id": 204,
+   "name": "Ducu Bertzi",
+   "slug": "ducu-bertzi",
+   "tabCount": 94,
+   "requestCount": 2
+  },
+  "caiet_names": [
+   "Ducu Berti (3)"
+  ]
+ },
+ "ursul-trubadur": {
+  "tab": {
+   "id": 488,
+   "name": "Ursul Trubadur",
+   "slug": "ursul-trubadur",
+   "tabCount": 9,
+   "requestCount": 2
+  },
+  "caiet_names": [
+   "Ursul Trubadur (3)"
+  ]
+ },
+ "roza-vanturilor": {
+  "tab": {
+   "id": 194,
+   "name": "Roza Vânturilor",
+   "slug": "roza-vanturilor",
+   "tabCount": 13,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Roza Vânturilor (3)"
+  ]
+ },
+ "madalina-amon": {
+  "tab": {
+   "id": 1076,
+   "name": "Mădălina Amon",
+   "slug": "madalina-amon",
+   "tabCount": 41,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Mădălina Amon (2)"
+  ]
+ },
+ "vali-serban": {
+  "tab": {
+   "id": 1217,
+   "name": "Vali Șerban",
+   "slug": "vali-serban",
+   "tabCount": 13,
+   "requestCount": 2
+  },
+  "caiet_names": [
+   "Vali Șerban (2)"
+  ]
+ },
+ "iris": {
+  "tab": {
+   "id": 191,
+   "name": "Iris",
+   "slug": "iris",
+   "tabCount": 104,
+   "requestCount": 18
+  },
+  "caiet_names": [
+   "Iris (2)"
+  ]
+ },
+ "vasile-mardare": {
+  "tab": {
+   "id": 463,
+   "name": "Vasile Mardare",
+   "slug": "vasile-mardare",
+   "tabCount": 30,
+   "requestCount": 9
+  },
+  "caiet_names": [
+   "Vasile Mărdare (2)"
+  ]
+ },
+ "emeric-imre": {
+  "tab": {
+   "id": 333,
+   "name": "Emeric Imre",
+   "slug": "emeric-imre",
+   "tabCount": 54,
+   "requestCount": 12
+  },
+  "caiet_names": [
+   "Emeric Imre (2)"
+  ]
+ },
+ "semnal-m": {
+  "tab": {
+   "id": 225,
+   "name": "Semnal M",
+   "slug": "semnal-m",
+   "tabCount": 51,
+   "requestCount": 4
+  },
+  "caiet_names": [
+   "Semnal M (2)"
+  ]
+ },
+ "florian-pittis": {
+  "tab": {
+   "id": 1326,
+   "name": "Florian Pittiș",
+   "slug": "florian-pittis",
+   "tabCount": 4,
+   "requestCount": 2
+  },
+  "caiet_names": [
+   "Florian Pitiș (2)"
+  ]
+ },
+ "valeriu-sterian": {
+  "tab": {
+   "id": 298,
+   "name": "Valeriu Sterian",
+   "slug": "valeriu-sterian",
+   "tabCount": 110,
+   "requestCount": 7
+  },
+  "caiet_names": [
+   "Valeriu Sterian (1)"
+  ]
+ },
+ "mondial": {
+  "tab": {
+   "id": 281,
+   "name": "Mondial",
+   "slug": "mondial",
+   "tabCount": 16,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Mondial (1)"
+  ]
+ },
+ "bosquito": {
+  "tab": {
+   "id": 242,
+   "name": "Bosquito",
+   "slug": "bosquito",
+   "tabCount": 82,
+   "requestCount": 8
+  },
+  "caiet_names": [
+   "Bosquito (1)"
+  ]
+ },
+ "carmen-ciocolata": {
+  "tab": {
+   "id": 1855,
+   "name": "Carmen Ciocolata",
+   "slug": "carmen-ciocolata",
+   "tabCount": 3,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Carmen Silva CIocolată (1)",
+   "Carmen Ciocolata (1)"
+  ]
+ },
+ "taine-folk": {
+  "tab": {
+   "id": 1302,
+   "name": "Taine Folk",
+   "slug": "taine-folk",
+   "tabCount": 11,
+   "requestCount": 1
+  },
+  "caiet_names": [
+   "Taine Folk (1)"
+  ]
+ },
+ "sorina-moldvai": {
+  "tab": {
+   "id": 1410,
+   "name": "Sorina Moldvai",
+   "slug": "sorina-moldvai",
+   "tabCount": 3,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Sorina Moldvai (1)"
+  ]
+ },
+ "catalin-crisan": {
+  "tab": {
+   "id": 357,
+   "name": "Cătălin Crișan",
+   "slug": "catalin-crisan",
+   "tabCount": 5,
+   "requestCount": 7
+  },
+  "caiet_names": [
+   "Cătălin Crișan (1)"
+  ]
+ },
+ "vasile-seicaru": {
+  "tab": {
+   "id": 300,
+   "name": "Vasile Șeicaru",
+   "slug": "vasile-seicaru",
+   "tabCount": 103,
+   "requestCount": 3
+  },
+  "caiet_names": [
+   "Vasile Șeicaru (1)"
+  ]
+ },
+ "odyssey": {
+  "tab": {
+   "id": 1040,
+   "name": "Odyssey",
+   "slug": "odyssey",
+   "tabCount": 30,
+   "requestCount": 9
+  },
+  "caiet_names": [
+   "Odyssey (1)"
+  ]
+ },
+ "nicu-alifantis": {
+  "tab": {
+   "id": 211,
+   "name": "Nicu Alifantis",
+   "slug": "nicu-alifantis",
+   "tabCount": 130,
+   "requestCount": 7
+  },
+  "caiet_names": [
+   "Nicu Alifantis (1)"
+  ]
+ },
+ "compact": {
+  "tab": {
+   "id": 265,
+   "name": "Compact",
+   "slug": "compact",
+   "tabCount": 68,
+   "requestCount": 15
+  },
+  "caiet_names": [
+   "Compact (1)"
+  ]
+ },
+ "varf-carpatin": {
+  "tab": {
+   "id": 244,
+   "name": "Vârf Carpatin",
+   "slug": "varf-carpatin",
+   "tabCount": 13,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Varf Carpatin (1)",
+   "Vârf Carpatin (1)"
+  ]
+ },
+ "timpuri-noi": {
+  "tab": {
+   "id": 302,
+   "name": "Timpuri Noi",
+   "slug": "timpuri-noi",
+   "tabCount": 37,
+   "requestCount": 16
+  },
+  "caiet_names": [
+   "Timpuri Noi (1)"
+  ]
+ },
+ "titus-constantin": {
+  "tab": {
+   "id": 1438,
+   "name": "Titus Constantin",
+   "slug": "titus-constantin",
+   "tabCount": 4,
+   "requestCount": 4
+  },
+  "caiet_names": [
+   "Titus Constantin (1)"
+  ]
+ },
+ "sentiment": {
+  "tab": {
+   "id": 294,
+   "name": "Sentiment",
+   "slug": "sentiment",
+   "tabCount": 2,
+   "requestCount": 3
+  },
+  "caiet_names": [
+   "Sentiment (1)"
+  ]
+ },
+ "victor-socaciu": {
+  "tab": {
+   "id": 291,
+   "name": "Victor Socaciu",
+   "slug": "victor-socaciu",
+   "tabCount": 43,
+   "requestCount": 17
+  },
+  "caiet_names": [
+   "Victor Socaciu (1)"
+  ]
+ },
+ "contrapunct": {
+  "tab": {
+   "id": 394,
+   "name": "Contrapunct",
+   "slug": "contrapunct",
+   "tabCount": 5,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Contrapunct (1)"
+  ]
+ },
+ "vampy": {
+  "tab": {
+   "id": 2579,
+   "name": "Vampy",
+   "slug": "vampy",
+   "tabCount": 1,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Vampy (1)"
+  ]
+ },
+ "narcisa-suciu": {
+  "tab": {
+   "id": 334,
+   "name": "Narcisa Suciu",
+   "slug": "narcisa-suciu",
+   "tabCount": 14,
+   "requestCount": 4
+  },
+  "caiet_names": [
+   "Narcisa Suciu (1)"
+  ]
+ },
+ "luna-amara": {
+  "tab": {
+   "id": 202,
+   "name": "Luna Amară",
+   "slug": "luna-amara",
+   "tabCount": 53,
+   "requestCount": 10
+  },
+  "caiet_names": [
+   "Luna amară (1)"
+  ]
+ },
+ "radu-ilie": {
+  "tab": {
+   "id": 193,
+   "name": "Radu Ilie",
+   "slug": "radu-ilie",
+   "tabCount": 4,
+   "requestCount": 5
+  },
+  "caiet_names": [
+   "Radu Ilie (1)"
+  ]
+ },
+ "radu-pietreanu": {
+  "tab": {
+   "id": 2597,
+   "name": "Radu Pietreanu",
+   "slug": "radu-pietreanu",
+   "tabCount": 9,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Radu Pietreanu (1)"
+  ]
+ },
+ "unde": {
+  "tab": {
+   "id": 389,
+   "name": "Unde",
+   "slug": "unde",
+   "tabCount": 7,
+   "requestCount": 2
+  },
+  "caiet_names": [
+   "Unde (1)"
+  ]
+ },
+ "marina": {
+  "tab": {
+   "id": 1947,
+   "name": "Marina",
+   "slug": "marina",
+   "tabCount": 1,
+   "requestCount": 0
+  },
+  "caiet_names": [
+   "Maria (1)"
+  ]
+ },
+ "conexiuni": {
+  "tab": {
+   "id": 266,
+   "name": "Conexiuni",
+   "slug": "conexiuni",
+   "tabCount": 19,
+   "requestCount": 2
+  },
+  "caiet_names": [
+   "Conexiuni (1)"
+  ]
+ },
+ "stefan-hrusca": {
+  "tab": {
+   "id": 260,
+   "name": "Ștefan Hrușcă",
+   "slug": "stefan-hrusca",
+   "tabCount": 140,
+   "requestCount": 17
+  },
+  "caiet_names": [
+   "Stefan Hrușcă (1)"
+  ]
+ },
+ "calendar": {
+  "tab": {
+   "id": 1860,
+   "name": "CALEnDAR",
+   "slug": "calendar",
+   "tabCount": 21,
+   "requestCount": 4
+  },
+  "caiet_names": [
+   "CALEnDAR (1)"
+  ]
+ },
+ "catalin-condret": {
+  "tab": {
+   "id": 483,
+   "name": "Cătălin Condreț",
+   "slug": "catalin-condret",
+   "tabCount": 1,
+   "requestCount": 1
+  },
+  "caiet_names": [
+   "Cătălin Condreț (1)"
+  ]
+ },
+ "cantece-de-munte": {
+  "tab": {
+   "id": 245,
+   "name": "Cântece de munte",
+   "slug": "cantece-de-munte",
+   "tabCount": 154,
+   "requestCount": 14
+  },
+  "caiet_names": [
+   "(cerut explicit)"
+  ]
+ }
+}
