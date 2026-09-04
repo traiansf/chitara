@@ -33,6 +33,11 @@ OUT = "/home/traian/chitara/Caiet-chitara.pdf"
 CHROME = "google-chrome-stable"
 MONO_STACK = "'Iosevka Fixed', 'DejaVu Sans Mono', monospace"
 
+# the book's parts, in order; a part with no songs is skipped
+PARTS = [(1, "Partea I — Cântece de munte și folk românesc"),
+         (2, "Partea a II-a — Repertoriu internațional"),
+         (3, "Partea a III-a — Colinde și cântece de iarnă")]
+
 # --- geometry (mm) ---
 PAGE_W = 210.0
 MARG_X, MARG_TOP, MARG_BOT = 8.0, 8.0, 8.0
@@ -90,6 +95,17 @@ def parse(md_path):
 
     intro = [l for l in lines[:lines.index("## Cuprins")] if l.strip()]
 
+    part_at = {}
+    cur_part = 1
+    for i, l in enumerate(lines):
+        if l.startswith("## Partea a III"):
+            cur_part = 3
+        elif l.startswith("## Partea a II"):
+            cur_part = 2
+        elif l.startswith("## Partea I"):
+            cur_part = 1
+        part_at[i] = cur_part
+
     songs = []
     starts = [i for i, l in enumerate(lines) if re.match(r"^### \d+\. ", l)]
     for k, i in enumerate(starts):
@@ -118,7 +134,7 @@ def parse(md_path):
         while body and not body[0]:
             body.pop(0)
         songs.append(dict(num=num, title=title, meta=meta, uke=uke,
-                          body=body, shrink=1.0))
+                          body=body, shrink=1.0, part=part_at[i]))
 
     def section(start_pat, stop_pat):
         s = re.search(start_pat, text)
@@ -156,13 +172,18 @@ def wrap_pair(chord, lyric, maxw):
             yield (cur_t or None), cur_l
             return
         brk = cur_l.rfind(" ", 1, maxw + 1)
-        if brk <= 0:
-            brk = cur_l.find(" ", maxw)
+        if brk <= 0 or not cur_l[:brk].strip():
+            # the only space in range is the continuation indent itself:
+            # breaking there would rebuild the same line forever
+            brk = cur_l.find(" ", max(brk, 0) + 1)
         if brk <= 0:
             yield (cur_t or None), cur_l
             return
         keep_l = cur_l[:brk].rstrip()
         rest_l = cur_l[brk:].lstrip()
+        if len(rest_l) + INDENT >= len(cur_l):
+            yield (cur_t or None), cur_l      # a word wider than the column
+            return
         shift = len(cur_l) - len(rest_l) - INDENT
         keep_t = [(p, t) for p, t in cur_t if p < brk]
         yield (keep_t or None), keep_l
@@ -175,12 +196,17 @@ def wrap_plain(ln, maxw):
     out, cur = [], ln.rstrip()
     while len(cur) > maxw:
         brk = cur.rfind(" ", 1, maxw + 1)
-        if brk <= 0:
-            brk = cur.find(" ", maxw)
+        if brk <= 0 or not cur[:brk].strip():
+            # the only space in range is the continuation indent itself:
+            # breaking there would rebuild the same line forever
+            brk = cur.find(" ", max(brk, 0) + 1)
         if brk <= 0:
             break
+        nxt = " " * INDENT + cur[brk:].lstrip()
+        if len(nxt) >= len(cur):
+            break                             # a word wider than the column
         out.append(cur[:brk].rstrip())
-        cur = " " * INDENT + cur[brk:].lstrip()
+        cur = nxt
     out.append(cur)
     return out
 
@@ -398,8 +424,8 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
             P.append(f"<p>{mini_md(ln)}</p>")
     P.append("</div></div>")
 
-    part1 = [s for s in songs if s["num"] <= 313]
-    part2 = [s for s in songs if s["num"] > 313]
+    parts = [(t, [s for s in songs if s["part"] == n]) for n, t in PARTS]
+    parts = [(t, ss) for t, ss in parts if ss]
 
     def toc_entries(ss):
         es = []
@@ -417,27 +443,21 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
                       f'<span class="pg">{pg}</span></div>')
         return "\n".join(es)
 
-    P.append('<div class="page"><h1 class="toc-h">Cuprins</h1>'
-             '<h2 class="toc-part">Partea I — Cântece de munte și folk '
-             'românesc (313)</h2>'
-             f'<div class="toc">{toc_entries(part1)}</div>'
-             '<h2 class="toc-part">Partea a II-a — Repertoriu internațional '
-             '(92)</h2>'
-             f'<div class="toc">{toc_entries(part2)}</div></div>')
+    toc = ['<div class="page"><h1 class="toc-h">Cuprins</h1>']
+    for title, ss in parts:
+        toc.append(f'<h2 class="toc-part">{title} ({len(ss)})</h2>'
+                   f'<div class="toc">{toc_entries(ss)}</div>')
+    P.append("".join(toc) + "</div>")
 
-    P.append('<div class="page divider" id="partea-i"><h1>Partea I<br>'
-             'Cântece de munte și folk românesc</h1></div>')
     stats = []
-    for s in part1:
-        pg, fs, cols, wrapped = song_page(s)
-        P.append(pg)
-        stats.append((s["num"], fs, cols, wrapped))
-    P.append('<div class="page divider" id="partea-ii"><h1>Partea a II-a'
-             '<br>Repertoriu internațional</h1></div>')
-    for s in part2:
-        pg, fs, cols, wrapped = song_page(s)
-        P.append(pg)
-        stats.append((s["num"], fs, cols, wrapped))
+    for title, ss in parts:
+        head, _, sub = title.partition(" — ")
+        P.append(f'<div class="page divider" id="{slug(head)}">'
+                 f'<h1>{html.escape(head)}<br>{html.escape(sub)}</h1></div>')
+        for s in ss:
+            pg, fs, cols, wrapped = song_page(s)
+            P.append(pg)
+            stats.append((s["num"], fs, cols, wrapped))
 
     P.append('<div class="page" id="index-pe-artiști">'
              '<span class="mk">§IDX§</span>'
@@ -535,16 +555,22 @@ def verify(pdf_path, songs):
         page_of[s["num"]] = pl[0] if pl else -1
         if len(pl) != 1 or pl[0] in wide_pages:
             bad.add(s["num"])
+    # a song takes exactly one page, except where a part divider comes
+    # between two of them
+    first_of_part = {ss[0]["num"] for ss in
+                     ([s for s in songs if s["part"] == n] for n in (1, 2, 3))
+                     if ss}
     for k in range(1, len(songs)):
         a, b = page_of[songs[k - 1]["num"]], page_of[songs[k]["num"]]
         if a < 0 or b < 0:
             continue
-        expected = 2 if songs[k]["num"] == 314 else 1
+        expected = 2 if songs[k]["num"] in first_of_part else 1
         if b - a != expected:
             bad.add(songs[k - 1]["num"])
-    if idx_page > 0 and page_of.get(405, -1) > 0 \
-            and idx_page - page_of[405] != 1:
-        bad.add(405)
+    last = songs[-1]["num"]
+    if idx_page > 0 and page_of.get(last, -1) > 0 \
+            and idx_page - page_of[last] != 1:
+        bad.add(last)
     return page_of, sorted(bad), total
 
 
