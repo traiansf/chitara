@@ -15544,7 +15544,7 @@ That I should have been home yesterday, yesterday.
 Am       Dm
 Talk to me softly
 G             C   G/B
-There's something in your eye
+There's something in your eyes
 Am         Dm
 Don't hang your head in sorrow
 G        C  G/B
@@ -15554,18 +15554,18 @@ I know how you feel inside I've
 G          C    G/B
 I've been there before
 Am      Dm
-Somethin' is changin' inside yo
+Somethin' is changin' inside you
 G      C    G/B
 And don't you know
 
 CHORUS:
 
 F     G   Am
-Don't you cry tonight I still love
+Don't you cry tonight I still love you
 baby
 F     G   Am
 Don't you cry tonight
-F     G   C         G/B   Am
+F     G   C         G/B   Am       G
 Don't you cry tonight there's a
 heaven above you baby
 F      G    Am
@@ -15580,7 +15580,6 @@ And please don't take it so bad
 
 I'll still be thinkin' of you
 And the times we had... Baby
-s
 And CHORUS
 
 And please remember
@@ -15589,18 +15588,18 @@ And please remember
 How I felt inside now honey
 You gotta make it your own way
 But you'll be alright now sugar
-u                  You'll feel better tomorrow
+You'll feel better tomorrow
 Come the morning light now baby
 
 And don't you cry tonight
 F      G    Am
 And don't you cry tonight
-                 F      G    C         G/B   Am       G
-you              And don't you cry tonight there's a
+F      G    C         G/B   Am       G
+And don't you cry tonight there's a
 heaven above you baby
 F      G
 And don't you cry
-G F       G
+F       G
 Don't you ever cry
 F     G   E
 Don't you cry tonight
