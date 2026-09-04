@@ -1,6 +1,11 @@
 # -*- coding: utf-8 -*-
 """Merge both Karban volumes into Caiet-chitara.md.
 
+Run this against the caiet *before* the Karban songs were added: it reads the
+markdown as its starting point, so running it over its own output would merge
+the two volumes in a second time.  ``git checkout <commit-before> --
+Caiet-chitara.md`` first.
+
 Songs that already exist in the caiet are kept side by side with Karban's
 reading as ``<titlu> (I)`` / ``(II)``, unless the two share a chord progression
 in the same key *and* near-identical words, in which case one entry is enough.

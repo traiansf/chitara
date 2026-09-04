@@ -25,6 +25,12 @@ SKIP_SECTIONS = {"Notiuni teoretice"}
 
 DIA = {"k": "â", "v": "î", "Ì": "Î", "\x81": "ü"}
 
+# every song ends with a chord dictionary for the chords it uses; the caiet
+# has its own annex, so it is dropped rather than read as part of the song
+CHORD_DICT = re.compile(r"^[\s\-•]*Dic[țt]ionar de acorduri")
+# the Cărticica writes plain t for ț, and is only accented later
+FOOTER = re.compile(r"^\s*(\d+\s+)?Visit my homepage|eugenkarban\.de\s*\d*\s*$")
+
 
 def decode(c):
     return chr(ord(c) + 29) if 3 <= ord(c) <= 95 else DIA.get(c, c)
@@ -76,6 +82,11 @@ def main():
                             if not m.startswith(("(", "-"))), None) or s["section"]
         s["composer"] = next((m for m in meta if m.startswith("(")), None)
         s["credits"] = [m for m in meta if m.startswith("-")]
+        body = [l for l in body if not FOOTER.search(l)]
+        for i, l in enumerate(body):
+            if CHORD_DICT.match(l):
+                body = body[:i]
+                break
         while body and not body[0].strip():
             body.pop(0)
         while body and not body[-1].strip():

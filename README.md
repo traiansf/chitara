@@ -1,12 +1,12 @@
 # Caiet de cântece pentru chitară
 
-Un caiet de **744 de cântece** cu acorduri — munte, folk românesc, repertoriu
+Un caiet de **740 de cântece** cu acorduri — munte, folk românesc, repertoriu
 internațional și colinde — compilat din cinci culegeri tipărite și scanate.
 
 📖 **[Caiet-chitara.md](Caiet-chitara.md)** — caietul, cu cuprins, index pe
 artiști și dicționar de acorduri
 🖨️ **[Caiet-chitara.pdf](Caiet-chitara.pdf)** — același caiet pentru tipărit,
-761 de pagini, un cântec pe pagină
+757 de pagini, un cântec pe pagină
 🔗 **[Caiet-chitara-addendum.md](Caiet-chitara-addendum.md)** — 1755 de piese
 ale acelorași artiști, cu linkuri către tabulaturi.ro
 
@@ -14,15 +14,23 @@ ale acelorași artiști, cu linkuri către tabulaturi.ro
 
 | Partea | Cântece |
 |---|---|
-| I — Cântece de munte și folk românesc | 532 |
+| I — Cântece de munte și folk românesc | 529 |
 | II — Repertoriu internațional | 95 |
-| III — Colinde și cântece de iarnă | 117 |
+| III — Colinde și cântece de iarnă | 116 |
 
-179 de artiști în index, 556 de cântece atribuite. Fiecare cântec are
-digitațiile pentru ukulele calculate din acordurile lui.
+179 de artiști în index, 552 de cântece atribuite. Fiecare cântec poartă
+digitațiile acordurilor lui, pentru chitară și pentru ukulele:
+
+```
+**Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231 · G 320003
+**Ukulele:** Am 2000 · E 4442 · C 0003 · Dm 2210 · G 0232
+```
+
+Cifrele sunt poziția pe corzi, de la coarda groasă la cea subțire; `x` =
+coarda nu se cântă.
 
 În PDF fiecare cântec stă pe o singură pagină: fontul se alege cât de mare
-încape, iar cele lungi trec pe două coloane — 723 de cântece la 12pt, 76 pe
+încape, iar cele lungi trec pe două coloane — 729 de cântece la 12pt, 49 pe
 două coloane.
 
 Acordurile stau fie pe rândul de deasupra versului, aliniate pe silaba unde se
@@ -46,9 +54,9 @@ sursa și pagina notate la fiecare cântec.
 
 | Sursă | Cântece |
 |---|---|
-| **Cărticică de cântece pentru chitară** — Eugen Karban, v2.0, [eugenkarban.de](http://www.eugenkarban.de) | 245 |
-| **Caiet Christian Adventure** — red. Adelina Flavia Iancu | 193 |
-| **Caiet cabană RO** — *caiet_cantececabana_RO*, 1998 | 179 |
+| **Cărticică de cântece pentru chitară** — Eugen Karban, v2.0, [eugenkarban.de](http://www.eugenkarban.de) | 244 |
+| **Caiet Christian Adventure** — red. Adelina Flavia Iancu | 191 |
+| **Caiet cabană RO** — *caiet_cantececabana_RO*, 1998 | 178 |
 | **Colinde, cântece de Crăciun și de iarnă** — Eugen Karban, 2008 | 100 |
 | **Caiet cabană EN** — *Caieteng*, 1998, aceeași echipă | 76 |
 
@@ -77,7 +85,9 @@ tri-licențiat GPL 2.0 / LGPL 2.1 / MPL 1.1 — vezi
   Karban, care scrie doar â și î; `ro_wordlist.py` expandează dicționarul
   hunspell la formele flexionate; `normalize_verses.py`, `polish_two_col.py`.
 - **compilare** — `compile_caiet.py`, `karban_merge.py`,
-  `merge_addendum_index.py`, `add_ukulele_chords.py`.
+  `merge_addendum_index.py`, `add_guitar_chords.py`, `add_ukulele_chords.py`
+  (ultimele două verifică digitațiile contra notelor pe care le produc:
+  `add_guitar_chords.py --check`).
 - **duplicate** — `chord_seq.py` compară succesiunile de acorduri (inclusiv
   transpuse), `dedup_songs.py` și `karban_dedup.py` găsesc și grupează
   cântecele care se repetă.

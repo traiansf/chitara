@@ -116,7 +116,7 @@ def parse(md_path):
                 break
         m = re.match(r"^### (\d+)\. (.*)", lines[i])
         num, title = int(m.group(1)), m.group(2).strip()
-        meta = uke = ""
+        meta = uke = gtr = ""
         body, in_f = [], False
         for j in range(i + 1, end):
             ln = lines[j]
@@ -127,13 +127,15 @@ def parse(md_path):
                 body.append(ln.rstrip())
             elif ln.startswith("**Ukulele:**"):
                 uke = ln
+            elif ln.startswith("**Chitară:**"):
+                gtr = ln
             elif ln.strip() and not meta:
                 meta = ln.strip()
         while body and not body[-1]:
             body.pop()
         while body and not body[0]:
             body.pop(0)
-        songs.append(dict(num=num, title=title, meta=meta, uke=uke,
+        songs.append(dict(num=num, title=title, meta=meta, uke=uke, gtr=gtr,
                           body=body, shrink=1.0, part=part_at[i]))
 
     def section(start_pat, stop_pat):
@@ -288,8 +290,8 @@ def split_two_cols(body):
 
 
 def header_mm(s):
-    uke_lines = (1 + len(s["uke"]) // 135) if s["uke"] else 0
-    return 5.6 + (3.7 if s["meta"] else 0) + 3.7 * uke_lines + 6.5
+    chord_lines = sum((1 + len(s[k]) // 135) for k in ("gtr", "uke") if s[k])
+    return 5.6 + (3.7 if s["meta"] else 0) + 3.7 * chord_lines + 6.5
 
 
 def best_layout(s):
@@ -396,8 +398,9 @@ def song_page(s):
                  f'{html.escape(s["title"])}</h2>')
     if s["meta"]:
         parts.append(f'<div class="meta">{mini_md(s["meta"])}</div>')
-    if s["uke"]:
-        parts.append(f'<div class="uke">{mini_md(s["uke"])}</div>')
+    for key in ("gtr", "uke"):
+        if s[key]:
+            parts.append(f'<div class="uke">{mini_md(s[key])}</div>')
     parts.append(f'<div class="rule"><span class="mk">§{s["num"]}§</span>'
                  f'</div>')
     style = f'font-size:{fs:.2f}pt'

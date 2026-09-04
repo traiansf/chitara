@@ -49,9 +49,16 @@ def build_dictionary(keys):
 
 
 def corpus_lines():
+    """Accented reference text: the caiet, minus what this script produced.
+
+    Once the Cărticica is merged in, the caiet contains its own restored
+    output; feeding that back would let a wrong guess reinforce itself.
+    Karban's colinde stay — their diacritics come from the source.
+    """
     lines = load(CAIET)
-    out = [body(lines, s) for s in parse_songs(lines)]
-    text = [l for b in out for l in b]
+    text = [l for s in parse_songs(lines)
+            if "Cărticica Karban" not in s["meta"]
+            for l in body(lines, s)]
     for s in json.load(open(COLINDE)):
         text += s["body"] + [s["title"], s["artist"] or "", s["composer"] or ""]
     return [[w.lower() for w in WORD.findall(CHORD_MARK.sub(" ", l))] for l in text]

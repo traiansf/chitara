@@ -28,6 +28,11 @@ F_CHORD = "CMR7"
 # the rest are performance notes ("Intro C", "Urarea se recită pe cadența:…")
 # and belong with the song, not in its byline
 ATTRIB = re.compile(r"^\(|^(tradi[țt]ional|popular|necunoscut)\b", re.I)
+
+# as in the Cărticica, each song closes with a dictionary of its own chords
+CHORD_DICT = re.compile(r"^[\s\-•]*Dic[țt]ionar de acorduri")
+# the Cărticica writes plain t for ț, and is only accented later
+FOOTER = re.compile(r"eugenkarban\.de")
 F_LYRIC = "Helvetica"
 DECOR = {"LCIRCLE10", "CMSY10", "CMSY7", "CMR10", "CMR5", "CMMI7", "CMMI10"}
 
@@ -174,6 +179,11 @@ def main():
 
     for s in songs:
         s["title"] = re.sub(r"\s+", " ", s["title"])
+        s["body"] = [l for l in s["body"] if not FOOTER.search(l)]
+        for i, l in enumerate(s["body"]):
+            if CHORD_DICT.match(l):
+                s["body"] = s["body"][:i]
+                break
         while s["body"] and not s["body"][0].strip():
             s["body"].pop(0)
         while s["body"] and not s["body"][-1].strip():
