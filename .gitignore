@@ -1,0 +1,7 @@
+__pycache__/
+tools/_pdf_work/
+tools/page_dumps/
+.playwright-mcp/
+
+# regenerated from ro_RO.dic + ro_RO.aff by tools/ro_wordlist.py (27 MB)
+tools/data/ro_forms.txt
