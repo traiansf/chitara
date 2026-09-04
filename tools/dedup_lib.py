@@ -35,6 +35,8 @@ def parse_songs(lines):
     for i, l in enumerate(lines):
         if l.startswith("## Partea I"):
             part = 1
+        elif l.startswith("## Partea a III"):
+            part = 3
         elif l.startswith("## Partea a II"):
             part = 2
         elif l.startswith("## "):

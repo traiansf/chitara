@@ -24,6 +24,10 @@ FIRST_PAGE, LAST_PAGE = 6, 113
 F_TITLE = "Helvetica-Bold"
 F_NOTE = "Helvetica-Oblique"
 F_CHORD = "CMR7"
+# an italic line before the body is an attribution only if it looks like one;
+# the rest are performance notes ("Intro C", "Urarea se recită pe cadența:…")
+# and belong with the song, not in its byline
+ATTRIB = re.compile(r"^\(|^(tradi[țt]ional|popular|necunoscut)\b", re.I)
 F_LYRIC = "Helvetica"
 DECOR = {"LCIRCLE10", "CMSY10", "CMSY7", "CMR10", "CMR5", "CMMI7", "CMMI10"}
 
@@ -150,17 +154,18 @@ def main():
             if it["kind"] == "artist" and not cur["body"]:
                 cur["artist"] = None if t == "***" else t
             elif it["kind"] == "note" and not cur["body"]:
-                (cur["credits"] if t.startswith("-") else
-                 cur.__setitem__("composer", t)) if t.startswith("-") else None
                 if t.startswith("-"):
                     cur["credits"].append(t)
-                else:
+                elif ATTRIB.match(t) and cur["composer"] is None:
                     cur["composer"] = t
+                elif t != "***":
+                    cur["body"].append(t)
             elif it["kind"] == "chord":
                 nxt = items[j + 1] if j + 1 < len(items) else None
                 if nxt and nxt["kind"] in ("lyric", "artist", "note") and nxt["y"] - it["y"] < 15:
-                    cur["body"].append(align_chords(it["line"], nxt["text"],
-                                                    nxt["xs"], it["line"]["chars"][0][1], {}))
+                    cur["body"].append(align_chords(it["line"], nxt["text"], nxt["xs"],
+                                                    it["line"]["chars"][0][1], {},
+                                                    tok_gap=0.5))
                     nxt["kind"] = "lyric"
                 else:
                     cur["body"].append(standalone_chord_text(it["line"], it["line"]["chars"][0][1], {}))

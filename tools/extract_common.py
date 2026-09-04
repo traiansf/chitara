@@ -113,8 +113,14 @@ def is_chord_text(text):
     return all(CHORD_TOKEN.match(t) for t in core)
 
 
-def align_chords(chord_line, lyric_text, lyric_xs, left_x, font_maps, space_w=SPACE_W):
-    """Place chord tokens of chord_line above lyric_text using x coordinates."""
+def align_chords(chord_line, lyric_text, lyric_xs, left_x, font_maps, space_w=SPACE_W,
+                 tok_gap=2.0):
+    """Place chord tokens of chord_line above lyric_text using x coordinates.
+
+    `tok_gap` is the gap that separates two chords; it has to be smaller than
+    the spacing of the book at hand, or neighbouring chords run together into
+    one token (Karban's colinde set them as little as 1.3 apart).
+    """
     # build tokens from chord line chars
     toks = []
     cur = ""
@@ -129,7 +135,12 @@ def align_chords(chord_line, lyric_text, lyric_xs, left_x, font_maps, space_w=SP
                 cur = ""
             prev_x1 = x1
             continue
-        if prev_x1 is not None and cur and x0 - prev_x1 > 2.0:
+        split = prev_x1 is not None and cur and x0 - prev_x1 > tok_gap
+        # chords are sometimes set so tight that they touch or overlap, and no
+        # gap can separate them; there the chord itself says where it ends
+        if not split and cur and CHORD_TOKEN.match(cur) and not CHORD_TOKEN.match(cur + c):
+            split = True
+        if split:
             toks.append((cur, cur_x))
             cur = ""
         if not cur:
