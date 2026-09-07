@@ -95,7 +95,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("page", type=int, help="printed page number (PDF page = page)")
     ap.add_argument("--split", type=float, default=310.0)
-    ap.add_argument("--pdf", default="/home/traian/chitara/caiet-christian-adventure.pdf")
+    ap.add_argument("--pdf", default="/home/traian/chitara/surse/caiet-christian-adventure.pdf")
     ap.add_argument("--no-join", action="store_true",
                     help="disable wrap-joining (pages whose line pitch equals the wrap gap)")
     ap.add_argument("--stanza-gap", type=float, default=None)

@@ -1,4 +1,8 @@
-"""Compile the unified Markdown caiet + addendum from merged data."""
+"""Compile the unified Markdown caiet + addendum from merged data.
+.. note:: This runs before tools/reorganize_parts.py, on the flat three-part
+   layout with songs at ``###``.  reorganize_parts.py reads either level, so the
+   pipeline order is: this step, then the reorganization.
+"""
 import json, re, unicodedata, collections, subprocess, datetime
 
 def norm(t):
@@ -321,7 +325,7 @@ out.append("")
 
 # chord dictionary annex from Caietrom pages 171-172
 res = subprocess.run(["pdftotext", "-layout", "-f", "171", "-l", "172",
-                      "/home/traian/chitara/Caietrom.pdf", "-"],
+                      "/home/traian/chitara/surse/Caietrom.pdf", "-"],
                      capture_output=True, text=True)
 annex = []
 for l in res.stdout.replace("\x0c", "").split("\n"):

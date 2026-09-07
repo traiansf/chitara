@@ -102,12 +102,12 @@ def main():
     lines = open(path, encoding="utf-8").read().split("\n")
 
     song_starts = [i for i, ln in enumerate(lines)
-                   if re.match(r"^### \d+\. ", ln)]
+                   if re.match(r"^#### \d+\. ", ln)]
     bounds = []
     for k, start in enumerate(song_starts):
         end = len(lines)
         for j in range(start + 1, len(lines)):
-            if lines[j].startswith("### ") or lines[j].startswith("## "):
+            if lines[j].startswith(("#### ", "### ", "## ")):
                 end = j
                 break
         bounds.append((start, end))

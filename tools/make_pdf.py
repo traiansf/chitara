@@ -33,10 +33,18 @@ OUT = "/home/traian/chitara/Caiet-chitara.pdf"
 CHROME = "google-chrome-stable"
 MONO_STACK = "'Iosevka Fixed', 'DejaVu Sans Mono', monospace"
 
-# the book's parts, in order; a part with no songs is skipped
-PARTS = [(1, "Partea I — Cântece de munte și folk românesc"),
-         (2, "Partea a II-a — Repertoriu internațional"),
-         (3, "Partea a III-a — Colinde și cântece de iarnă")]
+# the book's sections, in order; a section with no songs is skipped.  Each gets
+# one divider page: the two strings are its upper and lower line.  Part I's three
+# subsections share the part line, so the part itself needs no page of its own.
+SECTIONS = [("I.1", "Partea I — Cântece de cabană", "I.1 — De munte și de drum"),
+            ("I.2", "Partea I — Cântece de cabană", "I.2 — Naționaliste și de dor de țară"),
+            ("I.3", "Partea I — Cântece de cabană", "I.3 — Studențești, de chef și deocheate"),
+            ("II", "Partea a II-a", "Repertoriu românesc"),
+            ("III", "Partea a III-a", "Repertoriu internațional"),
+            ("IV", "Partea a IV-a", "Colinde și cântece de iarnă")]
+PART_H = re.compile(r"^## Partea (I|a II-a|a III-a|a IV-a) — ")
+SUB_H = re.compile(r"^### (I\.\d) — ")
+PART_KEY = {"I": "I", "a II-a": "II", "a III-a": "III", "a IV-a": "IV"}
 
 # --- geometry (mm) ---
 PAGE_W = 210.0
@@ -96,25 +104,23 @@ def parse(md_path):
     intro = [l for l in lines[:lines.index("## Cuprins")] if l.strip()]
 
     part_at = {}
-    cur_part = 1
+    cur_part = SECTIONS[0][0]
     for i, l in enumerate(lines):
-        if l.startswith("## Partea a III"):
-            cur_part = 3
-        elif l.startswith("## Partea a II"):
-            cur_part = 2
-        elif l.startswith("## Partea I"):
-            cur_part = 1
+        if m := PART_H.match(l):
+            cur_part = PART_KEY[m.group(1)]
+        elif m := SUB_H.match(l):
+            cur_part = m.group(1)
         part_at[i] = cur_part
 
     songs = []
-    starts = [i for i, l in enumerate(lines) if re.match(r"^### \d+\. ", l)]
+    starts = [i for i, l in enumerate(lines) if re.match(r"^#### \d+\. ", l)]
     for k, i in enumerate(starts):
         end = starts[k + 1] if k + 1 < len(starts) else len(lines)
         for j in range(i + 1, end):
-            if lines[j].startswith("## "):
+            if lines[j].startswith("## ") or SUB_H.match(lines[j]):
                 end = j
                 break
-        m = re.match(r"^### (\d+)\. (.*)", lines[i])
+        m = re.match(r"^#### (\d+)\. (.*)", lines[i])
         num, title = int(m.group(1)), m.group(2).strip()
         meta = uke = gtr = ""
         body, in_f = [], False
@@ -427,8 +433,9 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
             P.append(f"<p>{mini_md(ln)}</p>")
     P.append("</div></div>")
 
-    parts = [(t, [s for s in songs if s["part"] == n]) for n, t in PARTS]
-    parts = [(t, ss) for t, ss in parts if ss]
+    parts = [(top, low, [s for s in songs if s["part"] == n])
+             for n, top, low in SECTIONS]
+    parts = [(top, low, ss) for top, low, ss in parts if ss]
 
     def toc_entries(ss):
         es = []
@@ -447,16 +454,16 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
         return "\n".join(es)
 
     toc = ['<div class="page"><h1 class="toc-h">Cuprins</h1>']
-    for title, ss in parts:
-        toc.append(f'<h2 class="toc-part">{title} ({len(ss)})</h2>'
+    for top, low, ss in parts:
+        title = low if low.startswith("I.") else f"{top} — {low}"
+        toc.append(f'<h2 class="toc-part">{html.escape(title)} ({len(ss)})</h2>'
                    f'<div class="toc">{toc_entries(ss)}</div>')
     P.append("".join(toc) + "</div>")
 
     stats = []
-    for title, ss in parts:
-        head, _, sub = title.partition(" — ")
-        P.append(f'<div class="page divider" id="{slug(head)}">'
-                 f'<h1>{html.escape(head)}<br>{html.escape(sub)}</h1></div>')
+    for top, low, ss in parts:
+        P.append(f'<div class="page divider" id="{slug(low)}">'
+                 f'<h1>{html.escape(top)}<br>{html.escape(low)}</h1></div>')
         for s in ss:
             pg, fs, cols, wrapped = song_page(s)
             P.append(pg)
@@ -561,7 +568,7 @@ def verify(pdf_path, songs):
     # a song takes exactly one page, except where a part divider comes
     # between two of them
     first_of_part = {ss[0]["num"] for ss in
-                     ([s for s in songs if s["part"] == n] for n in (1, 2, 3))
+                     ([s for s in songs if s["part"] == n] for n, _, _ in SECTIONS)
                      if ss}
     for k in range(1, len(songs)):
         a, b = page_of[songs[k - 1]["num"]], page_of[songs[k]["num"]]

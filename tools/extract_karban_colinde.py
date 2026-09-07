@@ -17,7 +17,7 @@ sys.path.insert(0, "/home/traian/chitara/tools")
 from extract_common import (page_lines, line_text_and_map, align_chords,
                             standalone_chord_text, is_chord_text)
 
-PDF = "/home/traian/chitara/Eugen Karban - culegere-de-colinde-si-cantece-de-iarna-100.pdf"
+PDF = "/home/traian/chitara/surse/Eugen Karban - culegere-de-colinde-si-cantece-de-iarna-100.pdf"
 OUT = "/home/traian/chitara/tools/karban_colinde.json"
 FIRST_PAGE, LAST_PAGE = 6, 113
 

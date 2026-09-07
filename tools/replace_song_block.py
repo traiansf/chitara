@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Replace the ```text block of a song in Caiet-chitara.md.
 
-Usage: replace_song_block.py '<header prefix, e.g. "### 176. Miruna">' <content-file>
+Usage: replace_song_block.py '<header prefix, e.g. "#### 176. Miruna">' <content-file>
 """
 import sys
 

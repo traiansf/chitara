@@ -12,7 +12,7 @@ import fitz, json, re, sys
 sys.path.insert(0, "/home/traian/chitara/tools")
 from extract_common import page_lines
 
-PDF = "/home/traian/chitara/Eugen Karban - carticica-de-cantece-pentru-chitara-200.pdf"
+PDF = "/home/traian/chitara/surse/Eugen Karban - carticica-de-cantece-pentru-chitara-200.pdf"
 OUT = "/home/traian/chitara/tools/karban_carticica.json"
 FIRST_PAGE = 8
 

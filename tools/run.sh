@@ -3,7 +3,7 @@
 # Needs: python3 with pymupdf (pip install pymupdf), pdftotext (poppler).
 set -e
 cd "$(dirname "$0")"
-pdftotext -layout ../caiet-christian-adventure.pdf caiet-christian-adventure.txt
+pdftotext -layout ../surse/caiet-christian-adventure.pdf caiet-christian-adventure.txt
 python3 extract_caietrom.py
 python3 extract_caieteng.py
 python3 extract_caiet3.py

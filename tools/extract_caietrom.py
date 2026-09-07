@@ -11,7 +11,7 @@ FONT_MAPS = {
 
 TITLE_RE = re.compile(r"^\s*(\d+)\s*\.\s*(.+)$")
 
-doc = fitz.open("/home/traian/chitara/Caietrom.pdf")
+doc = fitz.open("/home/traian/chitara/surse/Caietrom.pdf")
 songs = []
 cur = None
 

@@ -46,7 +46,7 @@ for i, ln in enumerate(lines):
 print(f"index entries: {len(idx)} (part1: {sum(1 for v in idx.values() if v['part']==1)}, part2: {sum(1 for v in idx.values() if v['part']==2)})")
 
 # ---------- 2. extract pages ----------
-doc = fitz.open("/home/traian/chitara/caiet-christian-adventure.pdf")
+doc = fitz.open("/home/traian/chitara/surse/caiet-christian-adventure.pdf")
 songs = []
 
 def split_columns(lines_all):

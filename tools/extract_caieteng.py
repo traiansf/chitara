@@ -6,7 +6,7 @@ from extract_common import (page_lines, line_text_and_map, is_chord_text,
 FONT_MAPS = {}  # no Romanian diacritic hacks in this book
 TITLE_RE = re.compile(r"^\s*(\d+)\s*\.\s*(.+)$")
 
-doc = fitz.open("/home/traian/chitara/Caieteng.pdf")
+doc = fitz.open("/home/traian/chitara/surse/Caieteng.pdf")
 songs = []
 cur = None
 

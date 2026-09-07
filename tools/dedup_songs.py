@@ -10,6 +10,10 @@ and moved next to each other, following the caiet's existing convention for
 same-titled songs.
 
 Song bodies are never touched: inline ``[C]`` chord markers stay as they are.
+
+.. note:: This runs before tools/reorganize_parts.py, on the flat three-part
+   layout with songs at ``###``.  reorganize_parts.py reads either level, so the
+   pipeline order is: this step, then the reorganization.
 """
 import collections, re, sys
 

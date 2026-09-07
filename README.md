@@ -1,7 +1,8 @@
 # Caiet de cântece pentru chitară
 
-Un caiet de **740 de cântece** cu acorduri — munte, folk românesc, repertoriu
-internațional și colinde — compilat din cinci culegeri tipărite și scanate.
+Un caiet de **740 de cântece** cu acorduri — de cabană, folk românesc,
+repertoriu internațional și colinde — compilat din cinci culegeri tipărite și
+scanate.
 
 📖 **[Caiet-chitara.md](Caiet-chitara.md)** — caietul, cu cuprins, index pe
 artiști și dicționar de acorduri
@@ -14,9 +15,13 @@ ale acelorași artiști, cu linkuri către tabulaturi.ro
 
 | Partea | Cântece |
 |---|---|
-| I — Cântece de munte și folk românesc | 529 |
-| II — Repertoriu internațional | 95 |
-| III — Colinde și cântece de iarnă | 116 |
+| **I — Cântece de cabană** | **162** |
+| &nbsp;&nbsp;I.1 — De munte și de drum | 86 |
+| &nbsp;&nbsp;I.2 — Naționaliste și de dor de țară | 20 |
+| &nbsp;&nbsp;I.3 — Studențești, de chef și deocheate | 56 |
+| II — Repertoriu românesc | 367 |
+| III — Repertoriu internațional | 95 |
+| IV — Colinde și cântece de iarnă | 116 |
 
 179 de artiști în index, 552 de cântece atribuite. Fiecare cântec poartă
 digitațiile acordurilor lui, pentru chitară și pentru ukulele:
@@ -50,7 +55,9 @@ succesiune de acorduri în aceeași tonalitate.
 ## Surse
 
 Caietul nu conține material propriu: e o compilație a cinci culegeri, cu
-sursa și pagina notate la fiecare cântec.
+sursa și pagina notate la fiecare cântec. La unele cântece acordurile au
+fost înlocuite cu variante văzute pe YouTube, așa că sursa notată acoperă
+versurile, nu neapărat acordurile.
 
 | Sursă | Cântece |
 |---|---|

@@ -11,6 +11,10 @@ reading as ``<titlu> (I)`` / ``(II)``, unless the two share a chord progression
 in the same key *and* near-identical words, in which case one entry is enough.
 Karban's metadata wins wherever the two disagree.  The colinde become a third
 part of the book, and the caiet's own carols move there with them.
+
+.. note:: This runs before tools/reorganize_parts.py, on the flat three-part
+   layout with songs at ``###``.  reorganize_parts.py reads either level, so the
+   pipeline order is: this step, then the reorganization.
 """
 import collections, json, re, sys
 

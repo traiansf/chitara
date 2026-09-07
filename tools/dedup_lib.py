@@ -2,7 +2,13 @@
 import re, unicodedata, collections
 
 SRC = "/home/traian/chitara/Caiet-chitara.md"
-HEAD_RE = re.compile(r"^### (\d+)\. (.+)$")
+# Songs sit one level below their part's subsection since tools/reorganize_parts.py
+# introduced Part I's three subsections; ### is still accepted so that the older
+# pipeline steps, which write the flat layout, can be read back.
+HEAD_RE = re.compile(r"^#{3,4} (\d+)\. (.+)$")
+PART_H = re.compile(r"^## Partea (I|a II-a|a III-a|a IV-a) — ")
+SUB_H = re.compile(r"^### (I\.\d) — ")
+PART_KEY = {"I": "I", "a II-a": "II", "a III-a": "III", "a IV-a": "IV"}
 
 
 def gh_slug(text, anchors=None):
@@ -28,17 +34,19 @@ def load(path=SRC):
 
 
 def parse_songs(lines):
-    """-> list of dicts: num, title, part, start, end, meta_idx, meta, artist."""
+    """-> list of dicts: num, title, part, start, end, meta_idx, meta, artist.
+
+    ``part`` is the section key the song sits in: "I.1", "I.2", "I.3", "II",
+    "III" or "IV".
+    """
     heads = [(i, m) for i, l in enumerate(lines) if (m := HEAD_RE.match(l))]
     part_of = {}
     part = None
     for i, l in enumerate(lines):
-        if l.startswith("## Partea I"):
-            part = 1
-        elif l.startswith("## Partea a III"):
-            part = 3
-        elif l.startswith("## Partea a II"):
-            part = 2
+        if m := PART_H.match(l):
+            part = PART_KEY[m.group(1)]
+        elif m := SUB_H.match(l):
+            part = m.group(1)
         elif l.startswith("## "):
             part = None
         part_of[i] = part
@@ -49,7 +57,7 @@ def parse_songs(lines):
             continue
         end = heads[k + 1][0] if k + 1 < len(heads) else len(lines)
         for j in range(i + 1, end):
-            if lines[j].startswith("## "):
+            if lines[j].startswith("## ") or SUB_H.match(lines[j]):
                 end = j
                 break
         meta_idx, meta = None, ""
