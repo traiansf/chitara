@@ -20,13 +20,13 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (162 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (187 cântece)
 
-- [I.1 — De munte și de drum](#i1--de-munte-și-de-drum) (86 cântece)
+- [I.1 — De munte și de drum](#i1--de-munte-și-de-drum) (94 cântece)
 - [I.2 — Naționaliste și de dor de țară](#i2--naționaliste-și-de-dor-de-țară) (20 cântece)
-- [I.3 — Studențești, de chef și deocheate](#i3--studențești-de-chef-și-deocheate) (56 cântece)
+- [I.3 — Studențești, de chef și deocheate](#i3--studențești-de-chef-și-deocheate) (73 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (367 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (342 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
 
@@ -46,532 +46,532 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 8. [Amintiri din Făgăraș (II)](#8-amintiri-din-făgăraș-ii)
 9. [Andri Popa (I)](#9-andri-popa-i)
 10. [Andri Popa (II)](#10-andri-popa-ii)
-11. [Bătrânul refugiu](#11-bătrânul-refugiu)
-12. [Bucegii mei](#12-bucegii-mei)
-13. [Bun rămas cabanei](#13-bun-rămas-cabanei)
-14. [Cabana](#14-cabana)
-15. [Cabana Mălăiești](#15-cabana-mălăiești)
-16. [Cabana Schiorilor](#16-cabana-schiorilor)
-17. [Călător](#17-călător)
-18. [Când te scuturi de zăpadă](#18-când-te-scuturi-de-zăpadă)
-19. [Cântec pentru prieteni](#19-cântec-pentru-prieteni)
-20. [Cântec uitat de lume](#20-cântec-uitat-de-lume)
-21. [Ce frumos e sus la munte](#21-ce-frumos-e-sus-la-munte)
-22. [Cine nu iubește muntele](#22-cine-nu-iubește-muntele)
-23. [Colind](#23-colind)
-24. [Copil hoinar](#24-copil-hoinar)
-25. [Copilul munților](#25-copilul-munților)
-26. [Dar nu-s normali](#26-dar-nu-s-normali)
-27. [Din copilărie](#27-din-copilărie)
-28. [Dor de ducă (I)](#28-dor-de-ducă-i)
-29. [Dor de ducă (II)](#29-dor-de-ducă-ii)
-30. [Dor de munți](#30-dor-de-munți)
-31. [Dor de munții mei](#31-dor-de-munții-mei)
-32. [Evadare](#32-evadare)
-33. [Fata din Caraiman](#33-fata-din-caraiman)
-34. [Fata munților (I)](#34-fata-munților-i)
-35. [Fata munților (II)](#35-fata-munților-ii)
-36. [Floare de colț (I)](#36-floare-de-colț-i)
-37. [Floare de colț (II)](#37-floare-de-colț-ii)
-38. [Freamătă pădurea](#38-freamătă-pădurea)
-39. [Hai dihai (I)](#39-hai-dihai-i)
-40. [Hai dihai (II)](#40-hai-dihai-ii)
-41. [Imnul Bucegilor](#41-imnul-bucegilor)
-42. [Imnul Dianei (I)](#42-imnul-dianei-i)
-43. [Imnul Dianei (II)](#43-imnul-dianei-ii)
-44. [Imnul ghizilor](#44-imnul-ghizilor)
-45. [Imnul Pietrei Craiului](#45-imnul-pietrei-craiului)
-46. [Imnul prieteniei](#46-imnul-prieteniei)
-47. [În codrul verde](#47-în-codrul-verde)
-48. [În loc de bun rămas](#48-în-loc-de-bun-rămas)
-49. [Legenda Craiului](#49-legenda-craiului)
-50. [Libertate-n vârf de munți](#50-libertate-n-vârf-de-munți)
-51. [Luna în cascade](#51-luna-în-cascade)
-52. [Mă întorc la tine, muntele meu drag](#52-mă-întorc-la-tine-muntele-meu-drag)
-53. [Mă întorc și pașii-s grei](#53-mă-întorc-și-pașii-s-grei)
-54. [Mi-e dragă pădurea](#54-mi-e-dragă-pădurea)
-55. [Micul prinț](#55-micul-prinț)
-56. [Moartea unui alpinist (I)](#56-moartea-unui-alpinist-i)
-57. [Moartea unui alpinist (II)](#57-moartea-unui-alpinist-ii)
-58. [Munții mei](#58-munții-mei)
-59. [Numai noi](#59-numai-noi)
-60. [Nunta pe Caraiman (I)](#60-nunta-pe-caraiman-i)
-61. [Nunta pe Caraiman (II)](#61-nunta-pe-caraiman-ii)
-62. [O nouă viață](#62-o-nouă-viață)
-63. [Om bun (I)](#63-om-bun-i)
-64. [Om bun (II)](#64-om-bun-ii)
-65. [Om bun (III)](#65-om-bun-iii)
-66. [Omagiul unui alpinist](#66-omagiul-unui-alpinist)
-67. [Pădure nebună](#67-pădure-nebună)
-68. [Pe cine și câte cărări](#68-pe-cine-și-câte-cărări)
-69. [Prieteni buni](#69-prieteni-buni)
-70. [Râpa](#70-râpa)
-71. [Să-ntoarcem timpul](#71-să-ntoarcem-timpul)
-72. [Strunga (I)](#72-strunga-i)
-73. [Strunga (II)](#73-strunga-ii)
-74. [Trenul dragostei](#74-trenul-dragostei)
-75. [Tropa trop](#75-tropa-trop)
-76. [Tropa trop spre cabană](#76-tropa-trop-spre-cabană)
-77. [Uiuiui brădui](#77-uiuiui-brădui)
-78. [Ultima zi](#78-ultima-zi)
-79. [Un munte așternut](#79-un-munte-așternut)
-80. [Viață de haiduc](#80-viață-de-haiduc)
-81. [Viață de vagabond](#81-viață-de-vagabond)
-82. [Vino, vino (I)](#82-vino-vino-i)
-83. [Visul (I)](#83-visul-i)
-84. [Visul (II)](#84-visul-ii)
-85. [Visul (III)](#85-visul-iii)
-86. [Vulturul](#86-vulturul)
+11. [Balada fulgerată de vânt (I)](#11-balada-fulgerată-de-vânt-i)
+12. [Balada fulgerată de vânt (II)](#12-balada-fulgerată-de-vânt-ii)
+13. [Bătrânul refugiu](#13-bătrânul-refugiu)
+14. [Bucegii mei](#14-bucegii-mei)
+15. [Bun rămas cabanei](#15-bun-rămas-cabanei)
+16. [Cabana](#16-cabana)
+17. [Cabana Mălăiești](#17-cabana-mălăiești)
+18. [Cabana Schiorilor](#18-cabana-schiorilor)
+19. [Călător](#19-călător)
+20. [Când te scuturi de zăpadă](#20-când-te-scuturi-de-zăpadă)
+21. [Cântec pentru prieteni](#21-cântec-pentru-prieteni)
+22. [Cântec uitat de lume](#22-cântec-uitat-de-lume)
+23. [Ce frumos e sus la munte](#23-ce-frumos-e-sus-la-munte)
+24. [Cine nu iubește muntele](#24-cine-nu-iubește-muntele)
+25. [Colind](#25-colind)
+26. [Copil hoinar](#26-copil-hoinar)
+27. [Copilul munților](#27-copilul-munților)
+28. [Dar nu-s normali](#28-dar-nu-s-normali)
+29. [Din copilărie](#29-din-copilărie)
+30. [Dor de ducă (I)](#30-dor-de-ducă-i)
+31. [Dor de ducă (II)](#31-dor-de-ducă-ii)
+32. [Dor de munți](#32-dor-de-munți)
+33. [Dor de munții mei](#33-dor-de-munții-mei)
+34. [Evadare](#34-evadare)
+35. [Fără petale (I)](#35-fără-petale-i)
+36. [Fără petale (II)](#36-fără-petale-ii)
+37. [Fata din Caraiman](#37-fata-din-caraiman)
+38. [Fata munților (I)](#38-fata-munților-i)
+39. [Fata munților (II)](#39-fata-munților-ii)
+40. [Fată verde (I)](#40-fată-verde-i)
+41. [Fată verde (II)](#41-fată-verde-ii)
+42. [Fată verde (III)](#42-fată-verde-iii)
+43. [Floare de colț (I)](#43-floare-de-colț-i)
+44. [Floare de colț (II)](#44-floare-de-colț-ii)
+45. [Freamătă pădurea](#45-freamătă-pădurea)
+46. [Hai dihai (I)](#46-hai-dihai-i)
+47. [Hai dihai (II)](#47-hai-dihai-ii)
+48. [Imnul Bucegilor](#48-imnul-bucegilor)
+49. [Imnul Dianei (I)](#49-imnul-dianei-i)
+50. [Imnul Dianei (II)](#50-imnul-dianei-ii)
+51. [Imnul ghizilor](#51-imnul-ghizilor)
+52. [Imnul Pietrei Craiului](#52-imnul-pietrei-craiului)
+53. [Imnul prieteniei](#53-imnul-prieteniei)
+54. [În codrul verde](#54-în-codrul-verde)
+55. [În loc de bun rămas](#55-în-loc-de-bun-rămas)
+56. [Legenda Craiului](#56-legenda-craiului)
+57. [Libertate-n vârf de munți](#57-libertate-n-vârf-de-munți)
+58. [Luna în cascade](#58-luna-în-cascade)
+59. [M-a ținut mama acasă](#59-m-a-ținut-mama-acasă)
+60. [Mă întorc la tine, muntele meu drag](#60-mă-întorc-la-tine-muntele-meu-drag)
+61. [Mă întorc și pașii-s grei](#61-mă-întorc-și-pașii-s-grei)
+62. [Mi-e dragă pădurea](#62-mi-e-dragă-pădurea)
+63. [Micul prinț](#63-micul-prinț)
+64. [Moartea unui alpinist (I)](#64-moartea-unui-alpinist-i)
+65. [Moartea unui alpinist (II)](#65-moartea-unui-alpinist-ii)
+66. [Munții mei](#66-munții-mei)
+67. [Numai noi](#67-numai-noi)
+68. [Nunta pe Caraiman (I)](#68-nunta-pe-caraiman-i)
+69. [Nunta pe Caraiman (II)](#69-nunta-pe-caraiman-ii)
+70. [O nouă viață](#70-o-nouă-viață)
+71. [Om bun (I)](#71-om-bun-i)
+72. [Om bun (II)](#72-om-bun-ii)
+73. [Om bun (III)](#73-om-bun-iii)
+74. [Omagiul unui alpinist](#74-omagiul-unui-alpinist)
+75. [Pădure nebună](#75-pădure-nebună)
+76. [Pe cine și câte cărări](#76-pe-cine-și-câte-cărări)
+77. [Prieteni buni](#77-prieteni-buni)
+78. [Râpa](#78-râpa)
+79. [Să-ntoarcem timpul](#79-să-ntoarcem-timpul)
+80. [Strunga (I)](#80-strunga-i)
+81. [Strunga (II)](#81-strunga-ii)
+82. [Trenul dragostei](#82-trenul-dragostei)
+83. [Tropa trop](#83-tropa-trop)
+84. [Tropa trop spre cabană](#84-tropa-trop-spre-cabană)
+85. [Uiuiui brădui](#85-uiuiui-brădui)
+86. [Ultima zi](#86-ultima-zi)
+87. [Un munte așternut](#87-un-munte-așternut)
+88. [Viață de haiduc](#88-viață-de-haiduc)
+89. [Viață de vagabond](#89-viață-de-vagabond)
+90. [Vino, vino (I)](#90-vino-vino-i)
+91. [Visul (I)](#91-visul-i)
+92. [Visul (II)](#92-visul-ii)
+93. [Visul (III)](#93-visul-iii)
+94. [Vulturul](#94-vulturul)
 
 ### I.2 — Naționaliste și de dor de țară (alfabetic)
 
-87. [Avram Iancu](#87-avram-iancu)
-88. [Cântec de oameni](#88-cântec-de-oameni)
-89. [Colindul mâinilor truditoare](#89-colindul-mâinilor-truditoare)
-90. [Dacii liberi](#90-dacii-liberi)
-91. [Deșteaptă-te române (I)](#91-deșteaptă-te-române-i)
-92. [Deșteaptă-te române (II)](#92-deșteaptă-te-române-ii)
-93. [Dor de Eminescu](#93-dor-de-eminescu)
-94. [Hai să-ntindem hora mare](#94-hai-să-ntindem-hora-mare)
-95. [Hora unirii](#95-hora-unirii)
-96. [Imnul golanilor](#96-imnul-golanilor)
-97. [În umbra marelui URSS](#97-în-umbra-marelui-urss)
-98. [Întoarcerea țăranului](#98-întoarcerea-țăranului)
-99. [Jurământ la Putna](#99-jurământ-la-putna)
-100. [Toamna la șuior](#100-toamna-la-șuior)
-101. [Treceți batalioane române Carpații (I)](#101-treceți-batalioane-române-carpații-i)
-102. [Treceți batalioane române Carpații (II)](#102-treceți-batalioane-române-carpații-ii)
-103. [Tricolorul](#103-tricolorul)
-104. [Tron în Apuseni (I)](#104-tron-în-apuseni-i)
-105. [Tron în Apuseni (II)](#105-tron-în-apuseni-ii)
-106. [Tu Ardeal](#106-tu-ardeal)
+95. [Avram Iancu](#95-avram-iancu)
+96. [Cântec de oameni](#96-cântec-de-oameni)
+97. [Colindul mâinilor truditoare](#97-colindul-mâinilor-truditoare)
+98. [Dacii liberi](#98-dacii-liberi)
+99. [Deșteaptă-te române (I)](#99-deșteaptă-te-române-i)
+100. [Deșteaptă-te române (II)](#100-deșteaptă-te-române-ii)
+101. [Dor de Eminescu](#101-dor-de-eminescu)
+102. [Hai să-ntindem hora mare](#102-hai-să-ntindem-hora-mare)
+103. [Hora unirii](#103-hora-unirii)
+104. [Imnul golanilor](#104-imnul-golanilor)
+105. [În umbra marelui URSS](#105-în-umbra-marelui-urss)
+106. [Întoarcerea țăranului](#106-întoarcerea-țăranului)
+107. [Jurământ la Putna](#107-jurământ-la-putna)
+108. [Toamna la șuior](#108-toamna-la-șuior)
+109. [Treceți batalioane române Carpații (I)](#109-treceți-batalioane-române-carpații-i)
+110. [Treceți batalioane române Carpații (II)](#110-treceți-batalioane-române-carpații-ii)
+111. [Tricolorul](#111-tricolorul)
+112. [Tron în Apuseni (I)](#112-tron-în-apuseni-i)
+113. [Tron în Apuseni (II)](#113-tron-în-apuseni-ii)
+114. [Tu Ardeal](#114-tu-ardeal)
 
 ### I.3 — Studențești, de chef și deocheate (alfabetic)
 
-107. [Alcool](#107-alcool)
-108. [Alice](#108-alice)
-109. [Apă de izvor](#109-apă-de-izvor)
-110. [Aproape de voi](#110-aproape-de-voi)
-111. [Așa beu oamenii buni](#111-așa-beu-oamenii-buni)
-112. [Bărbățelul](#112-bărbățelul)
-113. [Bing bang (I)](#113-bing-bang-i)
-114. [Bing bang (II)](#114-bing-bang-ii)
-115. [Călugărul din vechiul schit](#115-călugărul-din-vechiul-schit)
-116. [Cana cu vin (I)](#116-cana-cu-vin-i)
-117. [Cana cu vin (II)](#117-cana-cu-vin-ii)
-118. [Cântecul vacii](#118-cântecul-vacii)
-119. [Carolina (I)](#119-carolina-i)
-120. [Carolina (II)](#120-carolina-ii)
-121. [Cavaleri ai mesei rotunde (I)](#121-cavaleri-ai-mesei-rotunde-i)
-122. [Cavaleri ai mesei rotunde (II)](#122-cavaleri-ai-mesei-rotunde-ii)
-123. [Ce facem cu studentul beat?](#123-ce-facem-cu-studentul-beat)
-124. [Ce nasoala ești](#124-ce-nasoala-ești)
-125. [Ceata noastră (I)](#125-ceata-noastră-i)
-126. [Ceata noastră (II)](#126-ceata-noastră-ii)
-127. [Cine-i născut în...](#127-cine-i-născut-în)
-128. [Copacul](#128-copacul)
-129. [Copilița fără minte](#129-copilița-fără-minte)
-130. [Cu galeata în mână](#130-cu-galeata-în-mână)
-131. [Din prea mult sau prea puțin](#131-din-prea-mult-sau-prea-puțin)
-132. [Doi olteni](#132-doi-olteni)
-133. [Doi olteni (variantă)](#133-doi-olteni-variantă)
-134. [Dragu-mii veselia](#134-dragu-mii-veselia)
-135. [Du-mă acasă mai tramvai](#135-du-mă-acasă-mai-tramvai)
-136. [Eu așa și ea așa](#136-eu-așa-și-ea-așa)
-137. [Felia](#137-felia)
-138. [Fetița franceză](#138-fetița-franceză)
-139. [Gașca](#139-gașca)
-140. [Hora bețivilor](#140-hora-bețivilor)
-141. [Imnul reșițenilor](#141-imnul-reșițenilor)
-142. [În pădurea verde](#142-în-pădurea-verde)
-143. [Jean frizerul](#143-jean-frizerul)
-144. [Katiusa](#144-katiusa)
-145. [Katiusa (variantă)](#145-katiusa-variantă)
-146. [M-am dus să tai un copac](#146-m-am-dus-să-tai-un-copac)
-147. [Mi-a zis mama că mi-o da](#147-mi-a-zis-mama-că-mi-o-da)
-148. [O, mama](#148-o-mama)
-149. [Prietenii](#149-prietenii)
-150. [Puștoaică de liceu](#150-puștoaică-de-liceu)
-151. [Reclame](#151-reclame)
-152. [S-o facem lată](#152-s-o-facem-lată)
-153. [Să nu uităm](#153-să-nu-uităm)
-154. [Și-alta dată](#154-și-alta-dată)
-155. [Sobița](#155-sobița)
-156. [Suzana](#156-suzana)
-157. [Te-am cunoscut în troleibuz (I)](#157-te-am-cunoscut-în-troleibuz-i)
-158. [Te-am cunoscut în troleibuz (II)](#158-te-am-cunoscut-în-troleibuz-ii)
-159. [Trăiască berea](#159-trăiască-berea)
-160. [Un elefant... (II)](#160-un-elefant-ii)
-161. [Un kil de rom](#161-un-kil-de-rom)
-162. [Vino, vino (II)](#162-vino-vino-ii)
+115. [Alcool](#115-alcool)
+116. [Alice](#116-alice)
+117. [Apă de izvor](#117-apă-de-izvor)
+118. [Aproape de voi](#118-aproape-de-voi)
+119. [Așa beu oamenii buni](#119-așa-beu-oamenii-buni)
+120. [Bade pălărie nouă](#120-bade-pălărie-nouă)
+121. [Bărbățelul](#121-bărbățelul)
+122. [Bing bang (I)](#122-bing-bang-i)
+123. [Bing bang (II)](#123-bing-bang-ii)
+124. [Bosquito](#124-bosquito)
+125. [Călugărul din vechiul schit](#125-călugărul-din-vechiul-schit)
+126. [Cana cu vin (I)](#126-cana-cu-vin-i)
+127. [Cana cu vin (II)](#127-cana-cu-vin-ii)
+128. [Cântecul vacii](#128-cântecul-vacii)
+129. [Caravanele (I)](#129-caravanele-i)
+130. [Caravanele (II)](#130-caravanele-ii)
+131. [Carolina (I)](#131-carolina-i)
+132. [Carolina (II)](#132-carolina-ii)
+133. [Cavaleri ai mesei rotunde (I)](#133-cavaleri-ai-mesei-rotunde-i)
+134. [Cavaleri ai mesei rotunde (II)](#134-cavaleri-ai-mesei-rotunde-ii)
+135. [Ce facem cu studentul beat?](#135-ce-facem-cu-studentul-beat)
+136. [Ce mult te-am iubit Paraschivo (I)](#136-ce-mult-te-am-iubit-paraschivo-i)
+137. [Ce mult te-am iubit Paraschivo (II)](#137-ce-mult-te-am-iubit-paraschivo-ii)
+138. [Ce nasoala ești](#138-ce-nasoala-ești)
+139. [Ceata noastră (I)](#139-ceata-noastră-i)
+140. [Ceata noastră (II)](#140-ceata-noastră-ii)
+141. [Cine-i născut în...](#141-cine-i-născut-în)
+142. [Copacul](#142-copacul)
+143. [Copilița fără minte](#143-copilița-fără-minte)
+144. [Cu galeata în mână](#144-cu-galeata-în-mână)
+145. [Din prea mult sau prea puțin](#145-din-prea-mult-sau-prea-puțin)
+146. [Doi olteni](#146-doi-olteni)
+147. [Doi olteni (variantă)](#147-doi-olteni-variantă)
+148. [Dragu-mii veselia](#148-dragu-mii-veselia)
+149. [Du-mă acasă mai tramvai](#149-du-mă-acasă-mai-tramvai)
+150. [Eu așa și ea așa](#150-eu-așa-și-ea-așa)
+151. [Felia](#151-felia)
+152. [Femei, femei](#152-femei-femei)
+153. [Fetița franceză](#153-fetița-franceză)
+154. [Floare albă, floare neagră](#154-floare-albă-floare-neagră)
+155. [Gașca](#155-gașca)
+156. [Hora bețivilor](#156-hora-bețivilor)
+157. [Imnul reșițenilor](#157-imnul-reșițenilor)
+158. [În pădurea verde](#158-în-pădurea-verde)
+159. [Inimă de țigancă (I)](#159-inimă-de-țigancă-i)
+160. [Inimă de țigancă (II)](#160-inimă-de-țigancă-ii)
+161. [Jean frizerul](#161-jean-frizerul)
+162. [Katiusa](#162-katiusa)
+163. [Katiusa (variantă)](#163-katiusa-variantă)
+164. [M-am dus să tai un copac](#164-m-am-dus-să-tai-un-copac)
+165. [Mi-a zis mama că mi-o da](#165-mi-a-zis-mama-că-mi-o-da)
+166. [O, mama](#166-o-mama)
+167. [Prietenii](#167-prietenii)
+168. [Puștoaică de liceu](#168-puștoaică-de-liceu)
+169. [Reclame](#169-reclame)
+170. [S-o facem lată](#170-s-o-facem-lată)
+171. [Să nu uităm](#171-să-nu-uităm)
+172. [Șatra (I)](#172-șatra-i)
+173. [Șatra (II)](#173-șatra-ii)
+174. [Și-alta dată](#174-și-alta-dată)
+175. [Sobița](#175-sobița)
+176. [Suzana](#176-suzana)
+177. [Tango țigan](#177-tango-țigan)
+178. [Te-am cunoscut în troleibuz (I)](#178-te-am-cunoscut-în-troleibuz-i)
+179. [Te-am cunoscut în troleibuz (II)](#179-te-am-cunoscut-în-troleibuz-ii)
+180. [Țigăncușa (I)](#180-țigăncușa-i)
+181. [Țigăncușa (II)](#181-țigăncușa-ii)
+182. [Trăiască berea](#182-trăiască-berea)
+183. [Trec țiganii](#183-trec-țiganii)
+184. [Un elefant... (II)](#184-un-elefant-ii)
+185. [Un kil de rom](#185-un-kil-de-rom)
+186. [Vino, vino (II)](#186-vino-vino-ii)
+187. [Zece negri mititei](#187-zece-negri-mititei)
 
 ### Partea a II-a — Repertoriu românesc (alfabetic)
 
-163. [2000 de ani](#163-2000-de-ani)
-164. [38](#164-38)
-165. [A ruginit frunza din vii](#165-a-ruginit-frunza-din-vii)
-166. [Actorul](#166-actorul)
-167. [Adelina](#167-adelina)
-168. [Adio, deci pe curând (I)](#168-adio-deci-pe-curând-i)
-169. [Adio, deci pe curând (II)](#169-adio-deci-pe-curând-ii)
-170. [Ai venit](#170-ai-venit)
-171. [Aiurit și aburit](#171-aiurit-și-aburit)
-172. [Alo! Ei a mea!](#172-alo-ei-a-mea)
-173. [Alte clipe trăite alt epilog](#173-alte-clipe-trăite-alt-epilog)
-174. [Alunelul](#174-alunelul)
-175. [Am doar 18 ani](#175-am-doar-18-ani)
-176. [Am nevoie de tine](#176-am-nevoie-de-tine)
-177. [Amintire de fum](#177-amintire-de-fum)
-178. [Amintirea paradisului](#178-amintirea-paradisului)
-179. [Amintiri](#179-amintiri)
-180. [Amorul cubist](#180-amorul-cubist)
-181. [Ana lui Manole](#181-ana-lui-manole)
-182. [Antiprimăvara](#182-antiprimăvara)
-183. [Anxietate](#183-anxietate)
-184. [Aproape liniște (I)](#184-aproape-liniște-i)
-185. [Aproape liniște (II)](#185-aproape-liniște-ii)
-186. [Arsură (I)](#186-arsură-i)
-187. [Arsură (II)](#187-arsură-ii)
-188. [Arsură (III)](#188-arsură-iii)
-189. [Asta-s eu](#189-asta-s-eu)
-190. [Astăzi și mâine](#190-astăzi-și-mâine)
-191. [Atât de fragedă](#191-atât-de-fragedă)
-192. [Azi](#192-azi)
-193. [Baby](#193-baby)
-194. [Bade pălărie nouă](#194-bade-pălărie-nouă)
-195. [Balada blondelor iubiri](#195-balada-blondelor-iubiri)
-196. [Balada fulgerată de vânt (I)](#196-balada-fulgerată-de-vânt-i)
-197. [Balada fulgerată de vânt (II)](#197-balada-fulgerată-de-vânt-ii)
-198. [Bat la poarta ta](#198-bat-la-poarta-ta)
-199. [Bătălia s-a sfârșit, soldatul...](#199-bătălia-s-a-sfârșit-soldatul)
-200. [Biletul de tren](#200-biletul-de-tren)
-201. [Bosquito](#201-bosquito)
-202. [Boxerul](#202-boxerul)
-203. [Bunica](#203-bunica)
-204. [Ca o stea](#204-ca-o-stea)
-205. [Caii liberi](#205-caii-liberi)
-206. [Calul din Malboro](#206-calul-din-malboro)
-207. [Canadiana](#207-canadiana)
-208. [Canarul (I)](#208-canarul-i)
-209. [Canarul (II)](#209-canarul-ii)
-210. [Când s-o-mpărțit norocu'](#210-când-s-o-mpărțit-norocu)
-211. [Când se lasă seara](#211-când-se-lasă-seara)
-212. [Cântec bătrânesc](#212-cântec-bătrânesc)
-213. [Cântec în noapte](#213-cântec-în-noapte)
-214. [Cântec pentru Charlie Chaplin](#214-cântec-pentru-charlie-chaplin)
-215. [Cântec pentru tine](#215-cântec-pentru-tine)
-216. [Cântec șoptit (I)](#216-cântec-șoptit-i)
-217. [Cântec șoptit (II)](#217-cântec-șoptit-ii)
-218. [Cântecul bufonului (I)](#218-cântecul-bufonului-i)
-219. [Cântecul bufonului (II)](#219-cântecul-bufonului-ii)
-220. [Caravanele (I)](#220-caravanele-i)
-221. [Caravanele (II)](#221-caravanele-ii)
-222. [Castelul](#222-castelul)
-223. [Casuta din pădure](#223-casuta-din-pădure)
-224. [Ce de lupi se înconjoară](#224-ce-de-lupi-se-înconjoară)
-225. [Ce mult te-am iubit Paraschivo (I)](#225-ce-mult-te-am-iubit-paraschivo-i)
-226. [Ce mult te-am iubit Paraschivo (II)](#226-ce-mult-te-am-iubit-paraschivo-ii)
-227. [Ceasornicarul (I)](#227-ceasornicarul-i)
-228. [Ceasornicarul (II)](#228-ceasornicarul-ii)
-229. [Cerbul](#229-cerbul)
-230. [Ciobănaș cu trei sute de oi](#230-ciobănaș-cu-trei-sute-de-oi)
-231. [Cireșarii](#231-cireșarii)
-232. [Cireșul](#232-cireșul)
-233. [Ciuleandra](#233-ciuleandra)
-234. [Colo-n vale](#234-colo-n-vale)
-235. [Copacii fără pădure](#235-copacii-fără-pădure)
-236. [Copacul îndrăgostit](#236-copacul-îndrăgostit)
-237. [Corina](#237-corina)
-238. [Cu tine în gând](#238-cu-tine-în-gând)
-239. [Cucul](#239-cucul)
-240. [Cucule pasăre grasă](#240-cucule-pasăre-grasă)
-241. [Dacă ai ghici](#241-dacă-ai-ghici)
-242. [Dacă dragoste nu e...](#242-dacă-dragoste-nu-e)
-243. [Dacă n-ai amintiri](#243-dacă-n-ai-amintiri)
-244. [Dacă pleci](#244-dacă-pleci)
-245. [Dacă vrei](#245-dacă-vrei)
-246. [Dacă vrei să pleci](#246-dacă-vrei-să-pleci)
-247. [Dans](#247-dans)
-248. [Dansul codrilor](#248-dansul-codrilor)
-249. [De ce](#249-de-ce)
-250. [De ce?](#250-de-ce)
-251. [De-ar fi mândra-n deal la cruce](#251-de-ar-fi-mândra-n-deal-la-cruce)
-252. [Dealul cu dor](#252-dealul-cu-dor)
-253. [Deku](#253-deku)
-254. [Delir](#254-delir)
-255. [Delirul](#255-delirul)
-256. [Departe](#256-departe)
-257. [Dintr-o cafea (I)](#257-dintr-o-cafea-i)
-258. [Dintr-o cafea (II)](#258-dintr-o-cafea-ii)
-259. [Dintre sute de catarge](#259-dintre-sute-de-catarge)
-260. [Doi ochi căprui](#260-doi-ochi-căprui)
-261. [Dona, dona (I)](#261-dona-dona-i)
-262. [Dona, dona (II)](#262-dona-dona-ii)
-263. [Dorul](#263-dorul)
-264. [Dracula blues](#264-dracula-blues)
-265. [Dragă Otee](#265-dragă-otee)
-266. [Dragoste în fân (I)](#266-dragoste-în-fân-i)
-267. [Dragoste în fân (II)](#267-dragoste-în-fân-ii)
-268. [Dragostea cu patru foi](#268-dragostea-cu-patru-foi)
-269. [Dragostea e o salata](#269-dragostea-e-o-salata)
-270. [Dragostea pasarii](#270-dragostea-pasarii)
-271. [După pui de moroșan](#271-după-pui-de-moroșan)
-272. [Emoție de toamnă (I)](#272-emoție-de-toamnă-i)
-273. [Emoție de toamnă (II)](#273-emoție-de-toamnă-ii)
-274. [Emoție de toamnă (III)](#274-emoție-de-toamnă-iii)
-275. [Epilog](#275-epilog)
-276. [Era Vasile om frumos](#276-era-vasile-om-frumos)
-277. [Esarfa în dar](#277-esarfa-în-dar)
-278. [Ești așa frumoasă](#278-ești-așa-frumoasă)
-279. [Fără petale (I)](#279-fără-petale-i)
-280. [Fără petale (II)](#280-fără-petale-ii)
-281. [Fata din vis](#281-fata-din-vis)
-282. [Fata morgană](#282-fata-morgană)
-283. [Fată verde (I)](#283-fată-verde-i)
-284. [Fată verde (II)](#284-fată-verde-ii)
-285. [Fată verde (III)](#285-fată-verde-iii)
-286. [Femei, femei](#286-femei-femei)
-287. [Floare albă, floare neagră](#287-floare-albă-floare-neagră)
-288. [Floarea](#288-floarea)
-289. [Fluier în cer](#289-fluier-în-cer)
-290. [Focul vânăt (I)](#290-focul-vânăt-i)
-291. [Focul vânăt (II)](#291-focul-vânăt-ii)
-292. [Focuri vii](#292-focuri-vii)
-293. [Fostele iubiri](#293-fostele-iubiri)
-294. [Frumoasă-i vecina noastră](#294-frumoasă-i-vecina-noastră)
-295. [Frunza](#295-frunza)
-296. [Frunza (I)](#296-frunza-i)
-297. [Frunza (II)](#297-frunza-ii)
-298. [Gara](#298-gara)
-299. [Ghezesu'](#299-ghezesu)
-300. [Glosă](#300-glosă)
-301. [Grasă](#301-grasă)
-302. [Hai să ne imaginăm](#302-hai-să-ne-imaginăm)
-303. [Hai, mândruțo!](#303-hai-mândruțo)
-304. [Hăituit](#304-hăituit)
-305. [Hanul lui Manuc](#305-hanul-lui-manuc)
-306. [Hei trenule](#306-hei-trenule)
-307. [Iepuraș coconaș](#307-iepuraș-coconaș)
-308. [Iertările](#308-iertările)
-309. [Îmi pare rău](#309-îmi-pare-rău)
-310. [Imposibila nuntă](#310-imposibila-nuntă)
-311. [Împreună](#311-împreună)
-312. [În tren](#312-în-tren)
-313. [Inimă de țigancă (I)](#313-inimă-de-țigancă-i)
-314. [Inimă de țigancă (II)](#314-inimă-de-țigancă-ii)
-315. [Înserarea](#315-înserarea)
-316. [Înțelegere (I)](#316-înțelegere-i)
-317. [Înțelegere (II)](#317-înțelegere-ii)
-318. [Întoarcere la orient (I)](#318-întoarcere-la-orient-i)
-319. [Întoarcere la orient (II)](#319-întoarcere-la-orient-ii)
-320. [Învață de la toate](#320-învață-de-la-toate)
-321. [Iubesc ploile](#321-iubesc-ploile)
-322. [Iubire-ideal](#322-iubire-ideal)
-323. [Iubirea cea mare](#323-iubirea-cea-mare)
-324. [Iubita mea, ți-am cumpărat un munte](#324-iubita-mea-ți-am-cumpărat-un-munte)
-325. [Iubito](#325-iubito)
-326. [Joc de copil](#326-joc-de-copil)
-327. [Jocul](#327-jocul)
-328. [Jumătate tu, jumătate eu](#328-jumătate-tu-jumătate-eu)
-329. [La adio](#329-la-adio)
-330. [La fereastra ta (I)](#330-la-fereastra-ta-i)
-331. [La fereastra ta (II)](#331-la-fereastra-ta-ii)
-332. [La Mulți Ani!](#332-la-mulți-ani)
-333. [La nunta ta](#333-la-nunta-ta)
-334. [La război](#334-la-război)
-335. [La un ceai](#335-la-un-ceai)
-336. [Lacrimi și surâs](#336-lacrimi-și-surâs)
-337. [Lângă mine](#337-lângă-mine)
-338. [Lăsați-mă să cânt](#338-lăsați-mă-să-cânt)
-339. [Lavinia](#339-lavinia)
-340. [Lordul John](#340-lordul-john)
-341. [Lumină (I)](#341-lumină-i)
-342. [Lumină (II)](#342-lumină-ii)
-343. [Lumină (III)](#343-lumină-iii)
-344. [M-a ținut mama acasă](#344-m-a-ținut-mama-acasă)
-345. [M-am îndrăgostit numai de ea](#345-m-am-îndrăgostit-numai-de-ea)
-346. [Mă duse-i să trec la Olt](#346-mă-duse-i-să-trec-la-olt)
-347. [Madama de pică](#347-madama-de-pică)
-348. [Mai stai](#348-mai-stai)
-349. [Mama, mama](#349-mama-mama)
-350. [Marea](#350-marea)
-351. [Mi-e dor de ochii tăi](#351-mi-e-dor-de-ochii-tăi)
-352. [Mica țiganiadă](#352-mica-țiganiadă)
-353. [Micuța blondă](#353-micuța-blondă)
-354. [Mielul (I)](#354-mielul-i)
-355. [Mielul (II)](#355-mielul-ii)
-356. [Mihai, câți copii îmi dai?](#356-mihai-câți-copii-îmi-dai)
-357. [Miruna (I)](#357-miruna-i)
-358. [Miruna (II)](#358-miruna-ii)
-359. [Mistrețul galben](#359-mistrețul-galben)
-360. [Mr. Tambourine Man](#360-mr-tambourine-man)
-361. [Mugur de fluier (I)](#361-mugur-de-fluier-i)
-362. [Mugur de fluier (II)](#362-mugur-de-fluier-ii)
-363. [Muntele alb](#363-muntele-alb)
-364. [Muzică și muzichia](#364-muzică-și-muzichia)
-365. [Nebunul cu ochi închiși (I)](#365-nebunul-cu-ochi-închiși-i)
-366. [Nebunul cu ochi închiși (II)](#366-nebunul-cu-ochi-închiși-ii)
-367. [Nebunul de alb](#367-nebunul-de-alb)
-368. [Noapte de iubire](#368-noapte-de-iubire)
-369. [Noapte la mare, noapte la munte](#369-noapte-la-mare-noapte-la-munte)
-370. [Nopți (I)](#370-nopți-i)
-371. [Nopți (II)](#371-nopți-ii)
-372. [Nu am cer](#372-nu-am-cer)
-373. [Nu am chef azi](#373-nu-am-chef-azi)
-374. [Nu am mai fost acasă demult](#374-nu-am-mai-fost-acasă-demult)
-375. [Nu mă-ntreba](#375-nu-mă-ntreba)
-376. [Nu te mai iubesc (I)](#376-nu-te-mai-iubesc-i)
-377. [Nu te mai iubesc (II)](#377-nu-te-mai-iubesc-ii)
-378. [Nu-i nimic, asta e! (I)](#378-nu-i-nimic-asta-e-i)
-379. [Nu-i nimic, asta e! (II)](#379-nu-i-nimic-asta-e-ii)
-380. [Nu-mi mai pasă](#380-nu-mi-mai-pasă)
-381. [Nunta (I)](#381-nunta-i)
-382. [Nunta (II)](#382-nunta-ii)
-383. [Oaia mică](#383-oaia-mică)
-384. [Oameni](#384-oameni)
-385. [Oameni buni](#385-oameni-buni)
-386. [Oameni de zăpadă (I)](#386-oameni-de-zăpadă-i)
-387. [Oameni de zăpadă (II)](#387-oameni-de-zăpadă-ii)
-388. [Obsesia](#388-obsesia)
-389. [Ochii tăi](#389-ochii-tăi)
-390. [Ochii tăi (I)](#390-ochii-tăi-i)
-391. [Ochii tăi (II)](#391-ochii-tăi-ii)
-392. [Ochii verzi](#392-ochii-verzi)
-393. [Om în amurg](#393-om-în-amurg)
-394. [Omul bun și pomul copt](#394-omul-bun-și-pomul-copt)
-395. [Omul pădurii (I)](#395-omul-pădurii-i)
-396. [Omul pădurii (II)](#396-omul-pădurii-ii)
-397. [Oprește-mă la tine](#397-oprește-mă-la-tine)
-398. [Ordinea de zi](#398-ordinea-de-zi)
-399. [Pădure de argint](#399-pădure-de-argint)
-400. [Pădure liniștitoare](#400-pădure-liniștitoare)
-401. [Pământul deocamdată](#401-pământul-deocamdată)
-402. [Păpușa](#402-păpușa)
-403. [Păpușarii](#403-păpușarii)
-404. [Păsări de fum](#404-păsări-de-fum)
-405. [Pat de flori](#405-pat-de-flori)
-406. [Pe corso (I)](#406-pe-corso-i)
-407. [Pe corso (II)](#407-pe-corso-ii)
-408. [Pe deal pe la Cornățel](#408-pe-deal-pe-la-cornățel)
-409. [Peste răbdări](#409-peste-răbdări)
-410. [Peste-al nostru sărut](#410-peste-al-nostru-sărut)
-411. [Piața Romană nr.9](#411-piața-romană-nr9)
-412. [Pisică neagră](#412-pisică-neagră)
-413. [Ploaia](#413-ploaia)
-414. [Ploaia (II)](#414-ploaia-ii)
-415. [Ploaia care va veni (I)](#415-ploaia-care-va-veni-i)
-416. [Ploaia care va veni (II)](#416-ploaia-care-va-veni-ii)
-417. [Ploaie în luna lui marte](#417-ploaie-în-luna-lui-marte)
-418. [Podul de piatra](#418-podul-de-piatra)
-419. [Podul de piatra](#419-podul-de-piatra)
-420. [Poveste](#420-poveste)
-421. [Prietene](#421-prietene)
-422. [Primavara - Paparuga](#422-primavara---paparuga)
-423. [Proverbe](#423-proverbe)
-424. [Pseudofabula](#424-pseudofabula)
-425. [Puștoaico](#425-puștoaico)
-426. [Puterea să alegi](#426-puterea-să-alegi)
-427. [Rănitul dintre linii (I)](#427-rănitul-dintre-linii-i)
-428. [Rănitul dintre linii (II)](#428-rănitul-dintre-linii-ii)
-429. [Rar](#429-rar)
-430. [Resemnare paternă](#430-resemnare-paternă)
-431. [Romanță de toamnă](#431-romanță-de-toamnă)
-432. [Romanță între două trenuri (I)](#432-romanță-între-două-trenuri-i)
-433. [Romanță între două trenuri (II)](#433-romanță-între-două-trenuri-ii)
-434. [Roșu aprins](#434-roșu-aprins)
-435. [Rugă pentru părinți (I)](#435-rugă-pentru-părinți-i)
-436. [Rugă pentru părinți (II)](#436-rugă-pentru-părinți-ii)
-437. [Să nu-mi iei niciodată dragostea](#437-să-nu-mi-iei-niciodată-dragostea)
-438. [Să trosnească lemne-n foc (I)](#438-să-trosnească-lemne-n-foc-i)
-439. [Să trosnească lemne-n foc (II)](#439-să-trosnească-lemne-n-foc-ii)
-440. [Sala pașilor pierduți](#440-sala-pașilor-pierduți)
-441. [Săracă inima me' (I)](#441-săracă-inima-me-i)
-442. [Săracă inima me' (II)](#442-săracă-inima-me-ii)
-443. [Șatra (I)](#443-șatra-i)
-444. [Șatra (II)](#444-șatra-ii)
-445. [Scândura](#445-scândura)
-446. [Scrisoare de rămas bun (I)](#446-scrisoare-de-rămas-bun-i)
-447. [Scrisoare de rămas bun (II)](#447-scrisoare-de-rămas-bun-ii)
-448. [Scrisoare de rămas bun (III)](#448-scrisoare-de-rămas-bun-iii)
-449. [Seara de mai](#449-seara-de-mai)
-450. [Sfârșitul nu-i aici](#450-sfârșitul-nu-i-aici)
-451. [Și dacă (I)](#451-și-dacă-i)
-452. [Și dacă (II)](#452-și-dacă-ii)
-453. [Și de-ar fi (I)](#453-și-de-ar-fi-i)
-454. [Și de-ar fi (II)](#454-și-de-ar-fi-ii)
-455. [Și-am iubit o ardeleancă](#455-și-am-iubit-o-ardeleancă)
-456. [Singur în noapte (I)](#456-singur-în-noapte-i)
-457. [Singur în noapte (II)](#457-singur-în-noapte-ii)
-458. [Singură](#458-singură)
-459. [Spune ce vrei](#459-spune-ce-vrei)
-460. [Spune-mi cine ești (I)](#460-spune-mi-cine-ești-i)
-461. [Spune-mi cine ești (II)](#461-spune-mi-cine-ești-ii)
-462. [Strada Popa Nan (I)](#462-strada-popa-nan-i)
-463. [Strada Popa Nan (II)](#463-strada-popa-nan-ii)
-464. [Strada ta (I)](#464-strada-ta-i)
-465. [Strada ta (II)](#465-strada-ta-ii)
-466. [Suflet fără chei](#466-suflet-fără-chei)
-467. [Sunt sărac](#467-sunt-sărac)
-468. [Supărat](#468-supărat)
-469. [Tăcut](#469-tăcut)
-470. [Taina (I)](#470-taina-i)
-471. [Taina (II)](#471-taina-ii)
-472. [Tango retoric](#472-tango-retoric)
-473. [Tango țigan](#473-tango-țigan)
-474. [Țăranul e pe câmp](#474-țăranul-e-pe-câmp)
-475. [Tardive](#475-tardive)
-476. [Târg de sclavi](#476-târg-de-sclavi)
-477. [Te întreb pe tine soare (I)](#477-te-întreb-pe-tine-soare-i)
-478. [Te întreb pe tine soare (II)](#478-te-întreb-pe-tine-soare-ii)
-479. [Te voi aștepta](#479-te-voi-aștepta)
-480. [Teama](#480-teama)
-481. [Ți-am spus adio de mult](#481-ți-am-spus-adio-de-mult)
-482. [Țigăncușa](#482-țigăncușa)
-483. [Tigancusa](#483-tigancusa)
-484. [Tigano](#484-tigano)
-485. [Timișoara](#485-timișoara)
-486. [Toți suntem puțin luați](#486-toți-suntem-puțin-luați)
-487. [Totuși, iubirea](#487-totuși-iubirea)
-488. [Trandafir de la Moldova](#488-trandafir-de-la-moldova)
-489. [Trandafirul albastru](#489-trandafirul-albastru)
-490. [Trec țiganii](#490-trec-țiganii)
-491. [Trece vremea](#491-trece-vremea)
-492. [Tristă fiară](#492-tristă-fiară)
-493. [Tu](#493-tu)
-494. [Țurțuri metalici](#494-țurțuri-metalici)
-495. [Umbra (I)](#495-umbra-i)
-496. [Umbra (II)](#496-umbra-ii)
-497. [Umbra (III)](#497-umbra-iii)
-498. [Un alt început](#498-un-alt-început)
-499. [Un elefant... (I)](#499-un-elefant-i)
-500. [Un lup](#500-un-lup)
-501. [Un om pe niște scări (I)](#501-un-om-pe-niște-scări-i)
-502. [Un om pe niște scări (II)](#502-un-om-pe-niște-scări-ii)
-503. [Un zvon](#503-un-zvon)
-504. [Urare pentru îndrăgostiți](#504-urare-pentru-îndrăgostiți)
-505. [Vagabonzi](#505-vagabonzi)
-506. [Vara](#506-vara)
-507. [Vara promisă (I)](#507-vara-promisă-i)
-508. [Vara promisă (II)](#508-vara-promisă-ii)
-509. [Vara sufletului meu](#509-vara-sufletului-meu)
-510. [Verde crud (I)](#510-verde-crud-i)
-511. [Verde crud (II)](#511-verde-crud-ii)
-512. [Viata complicată](#512-viata-complicată)
-513. [Viața la țară (I)](#513-viața-la-țară-i)
-514. [Viața la țară (II)](#514-viața-la-țară-ii)
-515. [Vine o zi](#515-vine-o-zi)
-516. [Vino să dansăm, iubito](#516-vino-să-dansăm-iubito)
-517. [Vinovații fără vină](#517-vinovații-fără-vină)
-518. [Vis de primăvară (I)](#518-vis-de-primăvară-i)
-519. [Vis de primăvară (II)](#519-vis-de-primăvară-ii)
-520. [Vis pierdut](#520-vis-pierdut)
-521. [Voi pluti](#521-voi-pluti)
-522. [Voi suferi](#522-voi-suferi)
-523. [Vreau o minune!](#523-vreau-o-minune)
-524. [Vreau să trecem marea](#524-vreau-să-trecem-marea)
-525. [Vremuri (I)](#525-vremuri-i)
-526. [Vremuri (II)](#526-vremuri-ii)
-527. [Zece negri mititei](#527-zece-negri-mititei)
+188. [2000 de ani](#188-2000-de-ani)
+189. [38](#189-38)
+190. [A ruginit frunza din vii](#190-a-ruginit-frunza-din-vii)
+191. [Actorul](#191-actorul)
+192. [Adelina](#192-adelina)
+193. [Adio, deci pe curând (I)](#193-adio-deci-pe-curând-i)
+194. [Adio, deci pe curând (II)](#194-adio-deci-pe-curând-ii)
+195. [Ai venit](#195-ai-venit)
+196. [Aiurit și aburit](#196-aiurit-și-aburit)
+197. [Alo! Ei a mea!](#197-alo-ei-a-mea)
+198. [Alte clipe trăite alt epilog](#198-alte-clipe-trăite-alt-epilog)
+199. [Alunelul](#199-alunelul)
+200. [Am doar 18 ani](#200-am-doar-18-ani)
+201. [Am nevoie de tine](#201-am-nevoie-de-tine)
+202. [Amintire de fum](#202-amintire-de-fum)
+203. [Amintirea paradisului](#203-amintirea-paradisului)
+204. [Amintiri](#204-amintiri)
+205. [Amorul cubist](#205-amorul-cubist)
+206. [Ana lui Manole](#206-ana-lui-manole)
+207. [Antiprimăvara](#207-antiprimăvara)
+208. [Anxietate](#208-anxietate)
+209. [Aproape liniște (I)](#209-aproape-liniște-i)
+210. [Aproape liniște (II)](#210-aproape-liniște-ii)
+211. [Arsură (I)](#211-arsură-i)
+212. [Arsură (II)](#212-arsură-ii)
+213. [Arsură (III)](#213-arsură-iii)
+214. [Asta-s eu](#214-asta-s-eu)
+215. [Astăzi și mâine](#215-astăzi-și-mâine)
+216. [Atât de fragedă](#216-atât-de-fragedă)
+217. [Azi](#217-azi)
+218. [Baby](#218-baby)
+219. [Balada blondelor iubiri](#219-balada-blondelor-iubiri)
+220. [Bat la poarta ta](#220-bat-la-poarta-ta)
+221. [Bătălia s-a sfârșit, soldatul...](#221-bătălia-s-a-sfârșit-soldatul)
+222. [Biletul de tren](#222-biletul-de-tren)
+223. [Boxerul](#223-boxerul)
+224. [Bunica](#224-bunica)
+225. [Ca o stea](#225-ca-o-stea)
+226. [Caii liberi](#226-caii-liberi)
+227. [Calul din Malboro](#227-calul-din-malboro)
+228. [Canadiana](#228-canadiana)
+229. [Canarul (I)](#229-canarul-i)
+230. [Canarul (II)](#230-canarul-ii)
+231. [Când s-o-mpărțit norocu'](#231-când-s-o-mpărțit-norocu)
+232. [Când se lasă seara](#232-când-se-lasă-seara)
+233. [Cântec bătrânesc](#233-cântec-bătrânesc)
+234. [Cântec în noapte](#234-cântec-în-noapte)
+235. [Cântec pentru Charlie Chaplin](#235-cântec-pentru-charlie-chaplin)
+236. [Cântec pentru tine](#236-cântec-pentru-tine)
+237. [Cântec șoptit (I)](#237-cântec-șoptit-i)
+238. [Cântec șoptit (II)](#238-cântec-șoptit-ii)
+239. [Cântecul bufonului (I)](#239-cântecul-bufonului-i)
+240. [Cântecul bufonului (II)](#240-cântecul-bufonului-ii)
+241. [Castelul](#241-castelul)
+242. [Casuta din pădure](#242-casuta-din-pădure)
+243. [Ce de lupi se înconjoară](#243-ce-de-lupi-se-înconjoară)
+244. [Ceasornicarul (I)](#244-ceasornicarul-i)
+245. [Ceasornicarul (II)](#245-ceasornicarul-ii)
+246. [Cerbul](#246-cerbul)
+247. [Ciobănaș cu trei sute de oi](#247-ciobănaș-cu-trei-sute-de-oi)
+248. [Cireșarii](#248-cireșarii)
+249. [Cireșul](#249-cireșul)
+250. [Ciuleandra](#250-ciuleandra)
+251. [Colo-n vale](#251-colo-n-vale)
+252. [Copacii fără pădure](#252-copacii-fără-pădure)
+253. [Copacul îndrăgostit](#253-copacul-îndrăgostit)
+254. [Corina](#254-corina)
+255. [Cu tine în gând](#255-cu-tine-în-gând)
+256. [Cucul](#256-cucul)
+257. [Cucule pasăre grasă](#257-cucule-pasăre-grasă)
+258. [Dacă ai ghici](#258-dacă-ai-ghici)
+259. [Dacă dragoste nu e...](#259-dacă-dragoste-nu-e)
+260. [Dacă n-ai amintiri](#260-dacă-n-ai-amintiri)
+261. [Dacă pleci](#261-dacă-pleci)
+262. [Dacă vrei](#262-dacă-vrei)
+263. [Dacă vrei să pleci](#263-dacă-vrei-să-pleci)
+264. [Dans](#264-dans)
+265. [Dansul codrilor](#265-dansul-codrilor)
+266. [De ce](#266-de-ce)
+267. [De ce?](#267-de-ce)
+268. [De-ar fi mândra-n deal la cruce](#268-de-ar-fi-mândra-n-deal-la-cruce)
+269. [Dealul cu dor](#269-dealul-cu-dor)
+270. [Deku](#270-deku)
+271. [Delir](#271-delir)
+272. [Delirul](#272-delirul)
+273. [Departe](#273-departe)
+274. [Dintr-o cafea (I)](#274-dintr-o-cafea-i)
+275. [Dintr-o cafea (II)](#275-dintr-o-cafea-ii)
+276. [Dintre sute de catarge](#276-dintre-sute-de-catarge)
+277. [Doi ochi căprui](#277-doi-ochi-căprui)
+278. [Dona, dona (I)](#278-dona-dona-i)
+279. [Dona, dona (II)](#279-dona-dona-ii)
+280. [Dorul](#280-dorul)
+281. [Dracula blues](#281-dracula-blues)
+282. [Dragă Otee](#282-dragă-otee)
+283. [Dragoste în fân (I)](#283-dragoste-în-fân-i)
+284. [Dragoste în fân (II)](#284-dragoste-în-fân-ii)
+285. [Dragostea cu patru foi](#285-dragostea-cu-patru-foi)
+286. [Dragostea e o salata](#286-dragostea-e-o-salata)
+287. [Dragostea pasarii](#287-dragostea-pasarii)
+288. [După pui de moroșan](#288-după-pui-de-moroșan)
+289. [Emoție de toamnă (I)](#289-emoție-de-toamnă-i)
+290. [Emoție de toamnă (II)](#290-emoție-de-toamnă-ii)
+291. [Emoție de toamnă (III)](#291-emoție-de-toamnă-iii)
+292. [Epilog](#292-epilog)
+293. [Era Vasile om frumos](#293-era-vasile-om-frumos)
+294. [Esarfa în dar](#294-esarfa-în-dar)
+295. [Ești așa frumoasă](#295-ești-așa-frumoasă)
+296. [Fata din vis](#296-fata-din-vis)
+297. [Fata morgană](#297-fata-morgană)
+298. [Floarea](#298-floarea)
+299. [Fluier în cer](#299-fluier-în-cer)
+300. [Focul vânăt (I)](#300-focul-vânăt-i)
+301. [Focul vânăt (II)](#301-focul-vânăt-ii)
+302. [Focuri vii](#302-focuri-vii)
+303. [Fostele iubiri](#303-fostele-iubiri)
+304. [Frumoasă-i vecina noastră](#304-frumoasă-i-vecina-noastră)
+305. [Frunza](#305-frunza)
+306. [Frunza (I)](#306-frunza-i)
+307. [Frunza (II)](#307-frunza-ii)
+308. [Gara](#308-gara)
+309. [Ghezesu'](#309-ghezesu)
+310. [Glosă](#310-glosă)
+311. [Grasă](#311-grasă)
+312. [Hai să ne imaginăm](#312-hai-să-ne-imaginăm)
+313. [Hai, mândruțo!](#313-hai-mândruțo)
+314. [Hăituit](#314-hăituit)
+315. [Hanul lui Manuc](#315-hanul-lui-manuc)
+316. [Hei trenule](#316-hei-trenule)
+317. [Iepuraș coconaș](#317-iepuraș-coconaș)
+318. [Iertările](#318-iertările)
+319. [Îmi pare rău](#319-îmi-pare-rău)
+320. [Imposibila nuntă](#320-imposibila-nuntă)
+321. [Împreună](#321-împreună)
+322. [În tren](#322-în-tren)
+323. [Înserarea](#323-înserarea)
+324. [Înțelegere (I)](#324-înțelegere-i)
+325. [Înțelegere (II)](#325-înțelegere-ii)
+326. [Întoarcere la orient (I)](#326-întoarcere-la-orient-i)
+327. [Întoarcere la orient (II)](#327-întoarcere-la-orient-ii)
+328. [Învață de la toate](#328-învață-de-la-toate)
+329. [Iubesc ploile](#329-iubesc-ploile)
+330. [Iubire-ideal](#330-iubire-ideal)
+331. [Iubirea cea mare](#331-iubirea-cea-mare)
+332. [Iubita mea, ți-am cumpărat un munte](#332-iubita-mea-ți-am-cumpărat-un-munte)
+333. [Iubito](#333-iubito)
+334. [Joc de copil](#334-joc-de-copil)
+335. [Jocul](#335-jocul)
+336. [Jumătate tu, jumătate eu](#336-jumătate-tu-jumătate-eu)
+337. [La adio](#337-la-adio)
+338. [La fereastra ta (I)](#338-la-fereastra-ta-i)
+339. [La fereastra ta (II)](#339-la-fereastra-ta-ii)
+340. [La Mulți Ani!](#340-la-mulți-ani)
+341. [La nunta ta](#341-la-nunta-ta)
+342. [La război](#342-la-război)
+343. [La un ceai](#343-la-un-ceai)
+344. [Lacrimi și surâs](#344-lacrimi-și-surâs)
+345. [Lângă mine](#345-lângă-mine)
+346. [Lăsați-mă să cânt](#346-lăsați-mă-să-cânt)
+347. [Lavinia](#347-lavinia)
+348. [Lordul John](#348-lordul-john)
+349. [Lumină (I)](#349-lumină-i)
+350. [Lumină (II)](#350-lumină-ii)
+351. [Lumină (III)](#351-lumină-iii)
+352. [M-am îndrăgostit numai de ea](#352-m-am-îndrăgostit-numai-de-ea)
+353. [Mă duse-i să trec la Olt](#353-mă-duse-i-să-trec-la-olt)
+354. [Madama de pică](#354-madama-de-pică)
+355. [Mai stai](#355-mai-stai)
+356. [Mama, mama](#356-mama-mama)
+357. [Marea](#357-marea)
+358. [Mi-e dor de ochii tăi](#358-mi-e-dor-de-ochii-tăi)
+359. [Mica țiganiadă](#359-mica-țiganiadă)
+360. [Micuța blondă](#360-micuța-blondă)
+361. [Mielul (I)](#361-mielul-i)
+362. [Mielul (II)](#362-mielul-ii)
+363. [Mihai, câți copii îmi dai?](#363-mihai-câți-copii-îmi-dai)
+364. [Miruna (I)](#364-miruna-i)
+365. [Miruna (II)](#365-miruna-ii)
+366. [Mistrețul galben](#366-mistrețul-galben)
+367. [Mr. Tambourine Man](#367-mr-tambourine-man)
+368. [Mugur de fluier (I)](#368-mugur-de-fluier-i)
+369. [Mugur de fluier (II)](#369-mugur-de-fluier-ii)
+370. [Muntele alb](#370-muntele-alb)
+371. [Muzică și muzichia](#371-muzică-și-muzichia)
+372. [Nebunul cu ochi închiși (I)](#372-nebunul-cu-ochi-închiși-i)
+373. [Nebunul cu ochi închiși (II)](#373-nebunul-cu-ochi-închiși-ii)
+374. [Nebunul de alb](#374-nebunul-de-alb)
+375. [Noapte de iubire](#375-noapte-de-iubire)
+376. [Noapte la mare, noapte la munte](#376-noapte-la-mare-noapte-la-munte)
+377. [Nopți (I)](#377-nopți-i)
+378. [Nopți (II)](#378-nopți-ii)
+379. [Nu am cer](#379-nu-am-cer)
+380. [Nu am chef azi](#380-nu-am-chef-azi)
+381. [Nu am mai fost acasă demult](#381-nu-am-mai-fost-acasă-demult)
+382. [Nu mă-ntreba](#382-nu-mă-ntreba)
+383. [Nu te mai iubesc (I)](#383-nu-te-mai-iubesc-i)
+384. [Nu te mai iubesc (II)](#384-nu-te-mai-iubesc-ii)
+385. [Nu-i nimic, asta e! (I)](#385-nu-i-nimic-asta-e-i)
+386. [Nu-i nimic, asta e! (II)](#386-nu-i-nimic-asta-e-ii)
+387. [Nu-mi mai pasă](#387-nu-mi-mai-pasă)
+388. [Nunta (I)](#388-nunta-i)
+389. [Nunta (II)](#389-nunta-ii)
+390. [Oaia mică](#390-oaia-mică)
+391. [Oameni](#391-oameni)
+392. [Oameni buni](#392-oameni-buni)
+393. [Oameni de zăpadă (I)](#393-oameni-de-zăpadă-i)
+394. [Oameni de zăpadă (II)](#394-oameni-de-zăpadă-ii)
+395. [Obsesia](#395-obsesia)
+396. [Ochii tăi](#396-ochii-tăi)
+397. [Ochii tăi (I)](#397-ochii-tăi-i)
+398. [Ochii tăi (II)](#398-ochii-tăi-ii)
+399. [Ochii verzi](#399-ochii-verzi)
+400. [Om în amurg](#400-om-în-amurg)
+401. [Omul bun și pomul copt](#401-omul-bun-și-pomul-copt)
+402. [Omul pădurii (I)](#402-omul-pădurii-i)
+403. [Omul pădurii (II)](#403-omul-pădurii-ii)
+404. [Oprește-mă la tine](#404-oprește-mă-la-tine)
+405. [Ordinea de zi](#405-ordinea-de-zi)
+406. [Pădure de argint](#406-pădure-de-argint)
+407. [Pădure liniștitoare](#407-pădure-liniștitoare)
+408. [Pământul deocamdată](#408-pământul-deocamdată)
+409. [Păpușa](#409-păpușa)
+410. [Păpușarii](#410-păpușarii)
+411. [Păsări de fum](#411-păsări-de-fum)
+412. [Pat de flori](#412-pat-de-flori)
+413. [Pe corso (I)](#413-pe-corso-i)
+414. [Pe corso (II)](#414-pe-corso-ii)
+415. [Pe deal pe la Cornățel](#415-pe-deal-pe-la-cornățel)
+416. [Peste răbdări](#416-peste-răbdări)
+417. [Peste-al nostru sărut](#417-peste-al-nostru-sărut)
+418. [Piața Romană nr.9](#418-piața-romană-nr9)
+419. [Pisică neagră](#419-pisică-neagră)
+420. [Ploaia](#420-ploaia)
+421. [Ploaia (II)](#421-ploaia-ii)
+422. [Ploaia care va veni (I)](#422-ploaia-care-va-veni-i)
+423. [Ploaia care va veni (II)](#423-ploaia-care-va-veni-ii)
+424. [Ploaie în luna lui marte](#424-ploaie-în-luna-lui-marte)
+425. [Podul de piatra](#425-podul-de-piatra)
+426. [Podul de piatra](#426-podul-de-piatra)
+427. [Poveste](#427-poveste)
+428. [Prietene](#428-prietene)
+429. [Primavara - Paparuga](#429-primavara---paparuga)
+430. [Proverbe](#430-proverbe)
+431. [Pseudofabula](#431-pseudofabula)
+432. [Puștoaico](#432-puștoaico)
+433. [Puterea să alegi](#433-puterea-să-alegi)
+434. [Rănitul dintre linii (I)](#434-rănitul-dintre-linii-i)
+435. [Rănitul dintre linii (II)](#435-rănitul-dintre-linii-ii)
+436. [Rar](#436-rar)
+437. [Resemnare paternă](#437-resemnare-paternă)
+438. [Romanță de toamnă](#438-romanță-de-toamnă)
+439. [Romanță între două trenuri (I)](#439-romanță-între-două-trenuri-i)
+440. [Romanță între două trenuri (II)](#440-romanță-între-două-trenuri-ii)
+441. [Roșu aprins](#441-roșu-aprins)
+442. [Rugă pentru părinți (I)](#442-rugă-pentru-părinți-i)
+443. [Rugă pentru părinți (II)](#443-rugă-pentru-părinți-ii)
+444. [Să nu-mi iei niciodată dragostea](#444-să-nu-mi-iei-niciodată-dragostea)
+445. [Să trosnească lemne-n foc (I)](#445-să-trosnească-lemne-n-foc-i)
+446. [Să trosnească lemne-n foc (II)](#446-să-trosnească-lemne-n-foc-ii)
+447. [Sala pașilor pierduți](#447-sala-pașilor-pierduți)
+448. [Săracă inima me' (I)](#448-săracă-inima-me-i)
+449. [Săracă inima me' (II)](#449-săracă-inima-me-ii)
+450. [Scândura](#450-scândura)
+451. [Scrisoare de rămas bun (I)](#451-scrisoare-de-rămas-bun-i)
+452. [Scrisoare de rămas bun (II)](#452-scrisoare-de-rămas-bun-ii)
+453. [Scrisoare de rămas bun (III)](#453-scrisoare-de-rămas-bun-iii)
+454. [Seara de mai](#454-seara-de-mai)
+455. [Sfârșitul nu-i aici](#455-sfârșitul-nu-i-aici)
+456. [Și dacă (I)](#456-și-dacă-i)
+457. [Și dacă (II)](#457-și-dacă-ii)
+458. [Și de-ar fi (I)](#458-și-de-ar-fi-i)
+459. [Și de-ar fi (II)](#459-și-de-ar-fi-ii)
+460. [Și-am iubit o ardeleancă](#460-și-am-iubit-o-ardeleancă)
+461. [Singur în noapte (I)](#461-singur-în-noapte-i)
+462. [Singur în noapte (II)](#462-singur-în-noapte-ii)
+463. [Singură](#463-singură)
+464. [Spune ce vrei](#464-spune-ce-vrei)
+465. [Spune-mi cine ești (I)](#465-spune-mi-cine-ești-i)
+466. [Spune-mi cine ești (II)](#466-spune-mi-cine-ești-ii)
+467. [Strada Popa Nan (I)](#467-strada-popa-nan-i)
+468. [Strada Popa Nan (II)](#468-strada-popa-nan-ii)
+469. [Strada ta (I)](#469-strada-ta-i)
+470. [Strada ta (II)](#470-strada-ta-ii)
+471. [Suflet fără chei](#471-suflet-fără-chei)
+472. [Sunt sărac](#472-sunt-sărac)
+473. [Supărat](#473-supărat)
+474. [Tăcut](#474-tăcut)
+475. [Taina (I)](#475-taina-i)
+476. [Taina (II)](#476-taina-ii)
+477. [Tango retoric](#477-tango-retoric)
+478. [Țăranul e pe câmp](#478-țăranul-e-pe-câmp)
+479. [Tardive](#479-tardive)
+480. [Târg de sclavi](#480-târg-de-sclavi)
+481. [Te întreb pe tine soare (I)](#481-te-întreb-pe-tine-soare-i)
+482. [Te întreb pe tine soare (II)](#482-te-întreb-pe-tine-soare-ii)
+483. [Te voi aștepta](#483-te-voi-aștepta)
+484. [Teama](#484-teama)
+485. [Ți-am spus adio de mult](#485-ți-am-spus-adio-de-mult)
+486. [Tigano](#486-tigano)
+487. [Timișoara](#487-timișoara)
+488. [Toți suntem puțin luați](#488-toți-suntem-puțin-luați)
+489. [Totuși, iubirea](#489-totuși-iubirea)
+490. [Trandafir de la Moldova](#490-trandafir-de-la-moldova)
+491. [Trandafirul albastru](#491-trandafirul-albastru)
+492. [Trece vremea](#492-trece-vremea)
+493. [Tristă fiară](#493-tristă-fiară)
+494. [Tu](#494-tu)
+495. [Țurțuri metalici](#495-țurțuri-metalici)
+496. [Umbra (I)](#496-umbra-i)
+497. [Umbra (II)](#497-umbra-ii)
+498. [Umbra (III)](#498-umbra-iii)
+499. [Un alt început](#499-un-alt-început)
+500. [Un elefant... (I)](#500-un-elefant-i)
+501. [Un lup](#501-un-lup)
+502. [Un om pe niște scări (I)](#502-un-om-pe-niște-scări-i)
+503. [Un om pe niște scări (II)](#503-un-om-pe-niște-scări-ii)
+504. [Un zvon](#504-un-zvon)
+505. [Urare pentru îndrăgostiți](#505-urare-pentru-îndrăgostiți)
+506. [Vagabonzi](#506-vagabonzi)
+507. [Vara](#507-vara)
+508. [Vara promisă (I)](#508-vara-promisă-i)
+509. [Vara promisă (II)](#509-vara-promisă-ii)
+510. [Vara sufletului meu](#510-vara-sufletului-meu)
+511. [Verde crud (I)](#511-verde-crud-i)
+512. [Verde crud (II)](#512-verde-crud-ii)
+513. [Viata complicată](#513-viata-complicată)
+514. [Viața la țară (I)](#514-viața-la-țară-i)
+515. [Viața la țară (II)](#515-viața-la-țară-ii)
+516. [Vine o zi](#516-vine-o-zi)
+517. [Vino să dansăm, iubito](#517-vino-să-dansăm-iubito)
+518. [Vinovații fără vină](#518-vinovații-fără-vină)
+519. [Vis de primăvară (I)](#519-vis-de-primăvară-i)
+520. [Vis de primăvară (II)](#520-vis-de-primăvară-ii)
+521. [Vis pierdut](#521-vis-pierdut)
+522. [Voi pluti](#522-voi-pluti)
+523. [Voi suferi](#523-voi-suferi)
+524. [Vreau o minune!](#524-vreau-o-minune)
+525. [Vreau să trecem marea](#525-vreau-să-trecem-marea)
+526. [Vremuri (I)](#526-vremuri-i)
+527. [Vremuri (II)](#527-vremuri-ii)
 528. [Ziua](#528-ziua)
 529. [Zori de zi](#529-zori-de-zi)
 
@@ -1221,7 +1221,95 @@ Refren:
 [A]Andrii Popa [D]cel voinic.
 ```
 
-#### 11. Bătrânul refugiu
+#### 11. Balada fulgerată de vânt (I)
+
+**Vârf Carpatin** · Sursa: Caiet cabană RO, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/varf-carpatin/balada-fulgerata-de-vant-317)
+
+**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
+
+**Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000
+
+```text
+
+1.
+RĂu mă [C]dor ochii mă [C]dor   [F]
+De dure[G]rea frunze[C]lor.
+
+R:
+Și mă [Am]duc (si ma duc) și iar mă [G]duc (si iar ma duuu[F]uc)
+Până [G]la izvor sub [C]nuc
+Și mă fac și iar mă fac
+Lemn de brad și lemn de fag.
+2.
+RĂu mă dor picioarele
+De bătut cărările.
+3.
+RĂu mă dor ochii mă dor
+De lumina stelelor.
+
+4.
+Unde au plecat nu știu
+Dar mi-e sufletul pustiu.
+
+5.
+Și-am să merg fără să știu
+Dus de dorul meu târziu.
+```
+
+#### 12. Balada fulgerată de vânt (II)
+
+**Narcisa Suciu** · variantă a cântecului „Balada fulgerată de vânt”, cu titlul „Rău mă dor ochii mă dor” · Sursa: Caiet Christian Adventure, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/rau-ma-dor-ochii-ma-dor-8810)
+
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+
+**Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
+
+```text
+C                       G
+/Rău mă dor ochii, mă dor
+G                 C
+De durerea frunzelor/ x2
+
+Refren:
+
+       Am                      G
+Și mă duc, și ma duc,și iar ma duc, și iar
+        F
+mă duc
+     G             C
+Până la izvor sub nuc
+       Am                      G
+Și mă fac,și mă fac,și iar mă fac,și iar mă
+     F
+fac
+         G               C
+Lemn de brad și lemn de fag
+
+/Rău mă dor picioarele
+De bătut cărările/ x2
+
+/Rău mă dor ochii, mă dor
+De lumina stelelor/ x2
+
+Refren
+
+/Rău mă doare inima
+Că iubești pe-altcineva/ x2
+
+Refren
+
+/Cu cine ai plecat nu știu
+Dar mi-e sufletul pustiu/ x2
+
+Refren
+
+/Și-am să plec fără să știu
+Dus de dorul meu târziu/ x2
+
+Refren x2
+```
+
+#### 13. Bătrânul refugiu
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 27 · Caiet cabană RO, p. 25 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/batranul-refugiu-318)
 
@@ -1257,7 +1345,7 @@ Să urci cât mai sus către creste.
 Refren x2
 ```
 
-#### 12. Bucegii mei
+#### 14. Bucegii mei
 
 Sursa: Caiet cabană RO, p. 12 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/bucegii-mei-2693)
 
@@ -1298,7 +1386,7 @@ Usor s-a dus înspre apus
 Prin văi și chei, Bucegii mei.
 ```
 
-#### 13. Bun rămas cabanei
+#### 15. Bun rămas cabanei
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 29
 
@@ -1349,7 +1437,7 @@ Rămân în urmă regrete și-un mic suspin
 Și-o amintire cu cer senin
 ```
 
-#### 14. Cabana
+#### 16. Cabana
 
 **Vasile Mărdare** · Sursa: Caiet Christian Adventure, p. 30 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/cabana-3170)
 
@@ -1403,7 +1491,7 @@ Dintr-o casă de lemn într-un tron de ciment
 Refren
 ```
 
-#### 15. Cabana Mălăiești
+#### 17. Cabana Mălăiești
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 31
 
@@ -1445,7 +1533,7 @@ Tineretul Mălăiești
 Refren
 ```
 
-#### 16. Cabana Schiorilor
+#### 18. Cabana Schiorilor
 
 **Carmen Silva Ciocolată** · Sursa: Caiet Christian Adventure, p. 32
 
@@ -1489,7 +1577,7 @@ Frumusețea munților
 Refren
 ```
 
-#### 17. Călător
+#### 19. Călător
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 37 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/calator-3193)
 
@@ -1539,7 +1627,7 @@ Viața ta s-o contopești cu-a munților.
 Refren x4
 ```
 
-#### 18. Când te scuturi de zăpadă
+#### 20. Când te scuturi de zăpadă
 
 **Carmen Ciocolata** · alt titlu: „Ninge” · Sursa: Caiet Christian Adventure, p. 38 · Caiet cabană RO, p. 29 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/cand-te-scuturi-de-zapada-2817) · [tabulaturi.ro („Ninge”)](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ninge-596)
 
@@ -1575,7 +1663,7 @@ Să ne logodim iubito sus în vârful muntelui.
 Refren x2
 ```
 
-#### 19. Cântec pentru prieteni
+#### 21. Cântec pentru prieteni
 
 **Compact** · Sursa: Caiet cabană RO, p. 98 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/cantec-pentru-prieteni-391)
 
@@ -1609,7 +1697,7 @@ SĂ-l simți aproape de tine
 Când viața greu te va-ncerca.
 ```
 
-#### 20. Cântec uitat de lume
+#### 22. Cântec uitat de lume
 
 **Taine Folk** · Sursa: Caiet Christian Adventure, p. 40 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/taine-folk/cantec-de-uitat-de-lume-5855)
 
@@ -1658,7 +1746,7 @@ Iară visele-au fost în culori
 Refren x2
 ```
 
-#### 21. Ce frumos e sus la munte
+#### 23. Ce frumos e sus la munte
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 43 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ce-frumos-e-sus-la-munte-9329)
 
@@ -1730,7 +1818,7 @@ Muntele te-așteaptă
 /Drum bun, timp bun/ x2
 ```
 
-#### 22. Cine nu iubește muntele
+#### 24. Cine nu iubește muntele
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 46
 
@@ -1773,7 +1861,7 @@ Nu va avea niciodată amintiri
 Refren x2
 ```
 
-#### 23. Colind
+#### 25. Colind
 
 Sursa: Caiet cabană RO, p. 37 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/colind-5401)
 
@@ -1808,7 +1896,7 @@ Parfum și mângâiere
 Și-aleg iubirea toatã.
 ```
 
-#### 24. Copil hoinar
+#### 26. Copil hoinar
 
 **Sorina Moldvai** · Sursa: Caiet Christian Adventure, p. 48 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/sorina-moldvai/copil-hoinar-4700)
 
@@ -1871,7 +1959,7 @@ Să mă apinda să mă stingă
 din nou.
 ```
 
-#### 25. Copilul munților
+#### 27. Copilul munților
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 50
 
@@ -1936,7 +2024,7 @@ Vom hoinări prin munți
 Refren
 ```
 
-#### 26. Dar nu-s normali
+#### 28. Dar nu-s normali
 
 **Costica David** · Sursa: Caiet Christian Adventure, p. 55
 
@@ -1971,7 +2059,7 @@ Numai pentru-atâta sunt montaniard
 Refren x2
 ```
 
-#### 27. Din copilărie
+#### 29. Din copilărie
 
 Sursa: Caiet cabană RO, p. 18 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/din-copilarie-4448)
 
@@ -2023,7 +2111,7 @@ Dar și-atunci când în raft voi vedea
 Iar mersul de trenuri din noi voi pleca.
 ```
 
-#### 28. Dor de ducă (I)
+#### 30. Dor de ducă (I)
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 62
 
@@ -2076,7 +2164,7 @@ Dar privește-n ochii mei și nu vede teama-n ei,
 Refren
 ```
 
-#### 29. Dor de ducă (II)
+#### 31. Dor de ducă (II)
 
 **Odyssey** · Sursa: Caiet Christian Adventure, p. 63
 
@@ -2124,7 +2212,7 @@ Pe sub cetina de brad…
 Refren x2
 ```
 
-#### 30. Dor de munți
+#### 32. Dor de munți
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 64 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/dor-de-munti-8397)
 
@@ -2171,7 +2259,7 @@ Când trenul merge-ncet, parcă ar fi un melc
 Refren x2
 ```
 
-#### 31. Dor de munții mei
+#### 33. Dor de munții mei
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 65
 
@@ -2207,7 +2295,7 @@ Cu tot soarele în piept
 Refren x2
 ```
 
-#### 32. Evadare
+#### 34. Evadare
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 70
 
@@ -2253,7 +2341,61 @@ Crestele bătute de ninsori.
 Refren
 ```
 
-#### 33. Fata din Caraiman
+#### 35. Fără petale (I)
+
+**Doru Stănculescu** · Sursa: Caiet cabană RO, p. 150
+
+**Chitară:** C x32010 · E 022100 · Am x02210 · F 133211 · G7 320001
+
+**Ukulele:** C 0003 · E 4442 · Am 2000 · F 2010 · G7 0212
+
+```text
+Doru Stănculescu
+1.
+    C       E  Am       F
+Nisipul fin a oftat
+    C             G7           C          G7
+Zâmbește-n el o urmă de păcat
+E semn c-aici în zadar
+ÎȘi cheamă luna lupii la altar.
+R:
+Cearcăn, cearcăn, piaptănă
+Ochii ei mă-ncearcănă.
+
+2.
+Stropi de vină îngropat
+Ciorchini de sare fața i-au spălat
+Cristale reci țes în fum
+Coperți de aur pe-un sicriu de scrum.
+```
+
+#### 36. Fără petale (II)
+
+**Doru Stănculescu** · muzica/versuri: Doru Stănculescu/??? · Sursa: Cărticica Karban, p. 153
+
+**Chitară:** C x32010 · Em 022000 · Am x02210 · F 133211 · G 320003
+
+**Ukulele:** C 0003 · Em 0432 · Am 2000 · F 2010 · G 0232
+
+```text
+[C]Nisipul [Em]fin a [Am]oftat
+[F]Zâmbește-n [C]el o ur[G]ma de pă[C]cat
+[C]E semn c-[Em]aici în [Am]zadar
+[F]Își cheamă luna [C]lupii [G]la al[C]tar
+[C]Un strop de [Em]vină îngro[Am]pat
+[F]Ciorchini de [C]sare
+[G]Fata i-au spă[C]lat
+[C]Cristale recii [Em]țes în [Am]fum
+[F]Coperta-n [C]aur și-n [G]sicriu de [C]scrum.
+Refren:
+[C]Încearcă, încearcă, îmi [Em]piaptănă
+Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a, aaa[G]a, aaa[C]a, aaa[G]a [C]
+[C]Încearcă, încearcă, îmi [Em]piaptănă
+Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a, aaa[G]a, aaa[C]a, aaa[G]a [C]
+Da capo al fine + 2xRefren
+```
+
+#### 37. Fata din Caraiman
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 71 · Caiet cabană RO, p. 21 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fata-din-caraiman-2697)
 
@@ -2321,7 +2463,7 @@ Lăsară totu-acasă
 Refren
 ```
 
-#### 34. Fata munților (I)
+#### 38. Fata munților (I)
 
 Sursa: Caiet cabană RO, p. 8 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/carmen-ciocolata/fata-muntilor-12345)
 
@@ -2370,7 +2512,7 @@ O fată și-un băiat pe-un cal înaripat
 Și-un cântec vechi de la străbuni lăsat.
 ```
 
-#### 35. Fata munților (II)
+#### 39. Fata munților (II)
 
 **Anonim** · variantă a cântecului „Fata munților”, cu titlul „Fata din Crai” · Sursa: Caiet Christian Adventure, p. 72
 
@@ -2408,7 +2550,108 @@ Trecut-au zile lungi și ani de-atunci
 Și-un cântec vechi lăsat de la străbuni/ x2
 ```
 
-#### 36. Floare de colț (I)
+#### 40. Fată verde (I)
+
+**Phoenix** · Sursa: Caiet Christian Adventure, p. 74 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fata-verde-451)
+
+**Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
+
+**Ukulele:** Am 2000 · C 0003 · G 0232 · F 2010
+
+```text
+Am          C     G
+Fată verde cu părul pădure
+Fată verde cu părul pădure
+Simți cu privirea lor vrea să te fure
+
+Refren:
+ F        C G   Am
+Noaptea-n ei țese ie
+Zburătorii ca să vie
+Noaptea-n ei țese ie
+Nimeni urma să le-o știe
+
+Fată verde ei te sărută
+Cu privirea lor cea mută
+Ochii negrii, ochi de țigani
+
+Refren
+
+        G             C
+Bridge: Umezi sunt de dor
+          F         G
+Și-al lor vis plin de zbor
+G          C
+Noapte ei se scaldă
+În sclipiri ca de salbă
+      F      G
+În sclipiri de salbă
+
+Fată verde cu părul pădure
+Fată verde cu părul pădure
+Simți cum privirea lor vrea să te fure
+
+Refren
+```
+
+#### 41. Fată verde (II)
+
+**Phoenix** · variantă a cântecului „Fată verde”, cu titlul „Ochi negri, ochi de țigan” · Sursa: Caiet cabană RO, p. 81 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/ochi-negri-ochi-de-tigan-8786)
+
+**Chitară:** Am x02210 · C x32010 · G 320003 · E 022100 · F 133211
+
+**Ukulele:** Am 2000 · C 0003 · G 0232 · E 4442 · F 2010
+
+```text
+Phoenix
+1.
+Am          C       G
+Fată verde cu părul pădure
+Fată verde cu părul pădure
+Simți cum privirea lor vrea să te fure.
+
+R:
+          Am       E         G       F       E
+Noaptea-n ei țese ie, nimeni urma să ne-o știe
+Noaptea-n ei țese ie, zburătorii ca să vie.
+    G           C             F      C     G
+Umezi sunt de dor și-al lor vis plin de zbor
+Noaptea-n ei se scaldă în priviri ca de salbă.
+
+2.
+Fată verde ei te sărută
+Cu privirea lor cea mută
+Ochii negri, ochi de țigan.
+```
+
+#### 42. Fată verde (III)
+
+**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 126
+
+**Chitară:** Em 022000 · G 320003 · D xx0232 · C x32010 · Am x02210
+
+**Ukulele:** Em 0432 · G 0232 · D 2220 · C 0003 · Am 2000
+
+```text
+[Em]Fată verde cu [G]părul [D]pădure
+[Em]Fată verde cu [G]părul [D]pădure
+[Em]Simți cum privirea lor [G]vrea să te [D]fure
+Refren:
+[G]Noaptea-n ei [D]țese [Em]ie
+[G]Zburătorii [D]ca să [Em]vie
+[G]Noaptea-n ei [D]țese [Em]ie
+Nimeni [G]urma [D]să le-o [Em]știe
+[Em]Fată verde [G]ei te să[D]rută
+[Em]Cu privirea [G]lor cea [D]mută
+[Em]Ochii negri, [G]ochi de [D]țigan
+Refren:
+[D]Umezi sunt de [G]dor
+Și-al lor [C]vis [G]plin de [Am]zbor
+[D]Noaptea-n ei se [G]scaldă
+În scli[C]piri [G]ca de [Am]salbă
+```
+
+#### 43. Floare de colț (I)
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 78 · Caiet cabană RO, p. 31 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/floare-de-colt-301)
 
@@ -2459,7 +2702,7 @@ Te-ntâlnesc odată-n viață
 Refren x2 xn.. :)
 ```
 
-#### 37. Floare de colț (II)
+#### 44. Floare de colț (II)
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 45
 
@@ -2491,7 +2734,7 @@ Refren:
 [E]Te-ntâlnesc o dată-n [Am]viata
 ```
 
-#### 38. Freamătă pădurea
+#### 45. Freamătă pădurea
 
 **Yoyo** · Sursa: Caiet Christian Adventure, p. 80 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/freamata-padurea-11859)
 
@@ -2531,7 +2774,7 @@ Se aude prin stejari...
 Tradăti de frunziș, cu puii uciși.
 ```
 
-#### 39. Hai dihai (I)
+#### 46. Hai dihai (I)
 
 **Doru Stănculescu** · Sursa: Caiet cabană RO, p. 23
 
@@ -2558,7 +2801,7 @@ Bine c-a-nfrunzit pădurea
 Numai or vedea că nu-s.
 ```
 
-#### 40. Hai dihai (II)
+#### 47. Hai dihai (II)
 
 **Doru Stănculescu** · muzica/versuri: Doru Stănculescu/??? · Sursa: Cărticica Karban, p. 154
 
@@ -2582,7 +2825,7 @@ Refren:
 Notă:D7 - Se cantă la repetarea refrenului
 ```
 
-#### 41. Imnul Bucegilor
+#### 48. Imnul Bucegilor
 
 **Axa** · Sursa: Caiet Christian Adventure, p. 83 · Caiet cabană RO, p. 22 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-bucegilor-2699)
 
@@ -2650,7 +2893,7 @@ Nu uita să pui măcar o floare
 Pentru cel ce muntele-a iubit.
 ```
 
-#### 42. Imnul Dianei (I)
+#### 49. Imnul Dianei (I)
 
 Sursa: Caiet cabană RO, p. 7 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-dianei-3288)
 
@@ -2702,7 +2945,7 @@ Am aprins a tinereții torță
 De îndată ce-am ajuns în Crai.
 ```
 
-#### 43. Imnul Dianei (II)
+#### 50. Imnul Dianei (II)
 
 **Roza Vânturilor** · variantă a cântecului „Imnul Dianei”, cu titlul „Refugiul Diana” · Sursa: Caiet Christian Adventure, p. 136 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/refugiul-diana-940)
 
@@ -2763,7 +3006,7 @@ De îndată ce-am ajuns în Crai./ x2
 Refren x2
 ```
 
-#### 44. Imnul ghizilor
+#### 51. Imnul ghizilor
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 84
 
@@ -2819,7 +3062,7 @@ Tinereții ce-o trăim
 Refren
 ```
 
-#### 45. Imnul Pietrei Craiului
+#### 52. Imnul Pietrei Craiului
 
 **Varf Carpatin** · Sursa: Caiet Christian Adventure, p. 85 · Caiet cabană RO, p. 20 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-pietrei-craiului-319)
 
@@ -2865,7 +3108,7 @@ La crucea unei fete să-ngenuchezi odată
 Refren
 ```
 
-#### 46. Imnul prieteniei
+#### 53. Imnul prieteniei
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 86 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-prieteniei-4038)
 
@@ -2913,7 +3156,7 @@ Peste toată România
 Refren x2
 ```
 
-#### 47. În codrul verde
+#### 54. În codrul verde
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 88
 
@@ -2949,7 +3192,7 @@ Ia-ne tristețea și fugi cu ea
 Refren x2
 ```
 
-#### 48. În loc de bun rămas
+#### 55. În loc de bun rămas
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 89
 
@@ -2992,7 +3235,7 @@ Pe orice brad lacrimi de montaniard
 Refren
 ```
 
-#### 49. Legenda Craiului
+#### 56. Legenda Craiului
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 93 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/legenda-craiului-3305)
 
@@ -3040,7 +3283,7 @@ Izvoarele ți le-ngrijesc
 Refren x2
 ```
 
-#### 50. Libertate-n vârf de munți
+#### 57. Libertate-n vârf de munți
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 94
 
@@ -3074,7 +3317,7 @@ Vor fi oameni doritori
 De libertate-n vârf de munți.
 ```
 
-#### 51. Luna în cascade
+#### 58. Luna în cascade
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 96 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/titus-constantin/luna-in-cascade-7497)
 
@@ -3120,7 +3363,51 @@ Când moare un brad
 Refren xn
 ```
 
-#### 52. Mă întorc la tine, muntele meu drag
+#### 59. M-a ținut mama acasă
+
+**Ion Cioroiu** · Sursa: Caiet Christian Adventure, p. 98 · Caiet cabană RO, p. 13 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/m-a-tinut-mama-acasa-3290)
+
+**Chitară:** C x32010 · F 133211 · G 320003
+
+**Ukulele:** C 0003 · F 2010 · G 0232
+
+```text
+C          F
+/M-a ținut mama acasă
+G            C
+Să nu vin la tine
+Însă eu am tot rugat-o
+Pân' s-a săturat de mine./ x2
+
+Refren x2:
+Nu mai pot
+Să mai suport
+La munte vreau
+Să mă întorc.
+
+/Dacă ai un ghid nebun
+Și-un nebun să-ți cânte
+Orice-ar face-ai tăi parinti
+Ai să te întorci la munte./ x2
+
+Refren x2
+
+/Sâmbătă voi sta acasă
+Singur voi petrece
+Altfel risc ca să mă treacă
+Ai mei pe hrană rece./ x2
+
+Refren x2
+
+/Poate acuma să ma lege
+Să mă bată-n cuie
+Am sa fug și-ntotdeauna
+Am să mă întorc la munte./ x2
+
+Refren x2
+```
+
+#### 60. Mă întorc la tine, muntele meu drag
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 100 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ma-ntorc-la-tine-muntele-meu-drag-8491)
 
@@ -3166,7 +3453,7 @@ La brazii tai, la măreția ta
 Refren x2
 ```
 
-#### 53. Mă întorc și pașii-s grei
+#### 61. Mă întorc și pașii-s grei
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 101 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ma-intorc-si-pasii-s-grei-3678)
 
@@ -3209,7 +3496,7 @@ Rucsacul m-apasă greu
 Refren x2
 ```
 
-#### 54. Mi-e dragă pădurea
+#### 62. Mi-e dragă pădurea
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 102 · Caiet cabană RO, p. 32
 
@@ -3243,7 +3530,7 @@ Căci cântul mi-e veșnic tovarăș de drum
 Mereu e cu mine la bine și greu./ x2
 ```
 
-#### 55. Micul prinț
+#### 63. Micul prinț
 
 Sursa: Caiet cabană RO, p. 159 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/micul-print-5425)
 
@@ -3275,7 +3562,7 @@ Mai am o carte ce-i foarte subțire
 "Da", zise prințul, "ești prietena mea".
 ```
 
-#### 56. Moartea unui alpinist (I)
+#### 64. Moartea unui alpinist (I)
 
 Sursa: Caiet cabană RO, p. 17 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/moartea-unui-alpinist-1661)
 
@@ -3322,7 +3609,7 @@ CĂtre culmea vieții mergem înainte
 Până-n ziua-n care stânca ne-o trăda.
 ```
 
-#### 57. Moartea unui alpinist (II)
+#### 65. Moartea unui alpinist (II)
 
 **Victor Socaciu** · variantă a cântecului „Moartea unui alpinist”, cu titlul „Omagiul unui alpinist” · Sursa: Caiet Christian Adventure, p. 116
 
@@ -3372,7 +3659,7 @@ Până-n cllipa-n care stânca ne-o trăda.
 Refren
 ```
 
-#### 58. Munții mei
+#### 66. Munții mei
 
 **Titus Constantin** · Sursa: Caiet Christian Adventure, p. 107 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/titus-constantin/muntii-mei-9147)
 
@@ -3458,7 +3745,7 @@ Doamne suntem niște zmei.
 Hei, hei.
 ```
 
-#### 59. Numai noi
+#### 67. Numai noi
 
 **Roza Vânturilor** · Sursa: Caiet Christian Adventure, p. 113 · Caiet cabană RO, p. 10 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/numai-noi-228)
 
@@ -3504,7 +3791,7 @@ Suntem doi..fericiți în munte
 Refren x2
 ```
 
-#### 60. Nunta pe Caraiman (I)
+#### 68. Nunta pe Caraiman (I)
 
 Sursa: Caiet cabană RO, p. 24 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/nunta-pe-caraiman-4447)
 
@@ -3565,7 +3852,7 @@ Urmându-ne unica izbândă
 Și să uităm că prea triști vom fi fost..
 ```
 
-#### 61. Nunta pe Caraiman (II)
+#### 69. Nunta pe Caraiman (II)
 
 **Dragoș Bălan** · variantă a cântecului „Nunta pe Caraiman”, cu titlul „Logodnă pe Caraiman” · Sursa: Caiet Christian Adventure, p. 95 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/logodna-pe-caraiman-6428)
 
@@ -3642,7 +3929,7 @@ fost.
 Refren B + Refren F
 ```
 
-#### 62. O nouă viață
+#### 70. O nouă viață
 
 **Mădălina Amon** · Sursa: Caiet Christian Adventure, p. 120
 
@@ -3685,7 +3972,7 @@ Când te vei pierde printre brazi, pe poteci. x2
 Refren x2
 ```
 
-#### 63. Om bun (I)
+#### 71. Om bun (I)
 
 **Dan Andrei Aldea** · Sursa: Caiet cabană RO, p. 15
 
@@ -3732,7 +4019,7 @@ Veșnic pe drum asta ni-i soarta
 Veșnic pe drum căutând un castel.
 ```
 
-#### 64. Om bun (II)
+#### 72. Om bun (II)
 
 **Dan Andrei Aldea** · muzica/versuri: Dan Andrei Aldea/??? · Sursa: Cărticica Karban, p. 11
 
@@ -3763,7 +4050,7 @@ Veșnic pe drum căutând un castel.
 [Dm]Veșnic pe [Am]drum cău[E]tând un [Am]castel.
 ```
 
-#### 65. Om bun (III)
+#### 73. Om bun (III)
 
 **Dan Andrei Aldea/ Sfinx** · muzica/versuri: Dan Andrei Aldea/??? · Sursa: Cărticica Karban, p. 12
 
@@ -3794,7 +4081,7 @@ Om [Am]bun des[C]chide-[G]ne poar[Am]ta
 [G]Veșnic pe [C]drum cău[Am]tând un cas[Am]tel.
 ```
 
-#### 66. Omagiul unui alpinist
+#### 74. Omagiul unui alpinist
 
 **Darwin** · Sursa: Caiet Christian Adventure, p. 117
 
@@ -3856,7 +4143,7 @@ lasă
 Iubito, tu să stai cuminte-n casă/ x2
 ```
 
-#### 67. Pădure nebună
+#### 75. Pădure nebună
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 123 · Caiet cabană RO, p. 9 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/padure-nebuna-4050)
 
@@ -3903,7 +4190,7 @@ Voi veni, voi veni, nu te mai tângui pădure nebună./ x2
 Refren x2
 ```
 
-#### 68. Pe cine și câte cărări
+#### 76. Pe cine și câte cărări
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 14 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/pe-cine-si-cate-carari-2528)
 
@@ -3950,7 +4237,7 @@ De aceea pe cine și câte cărări las în urmă nu-mi pasă
 Și-mi plac numai mie și numai cu florile-n cască.
 ```
 
-#### 69. Prieteni buni
+#### 77. Prieteni buni
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 131
 
@@ -3989,7 +4276,7 @@ Dacă vrei să mai asculți un cântec
 Te-așteptăm, revino printre noi.
 ```
 
-#### 70. Râpa
+#### 78. Râpa
 
 **Roza Vânturilor** · Sursa: Caiet Christian Adventure, p. 135 · Caiet cabană RO, p. 19 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/rapa-469)
 
@@ -4035,7 +4322,7 @@ Trec printre oameni și mă socot
 Înapoi să mă-ntorc n-are rost./ x2
 ```
 
-#### 71. Să-ntoarcem timpul
+#### 79. Să-ntoarcem timpul
 
 Sursa: Caiet cabană RO, p. 126 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/sa-intoarcem-timpul-5417)
 
@@ -4079,7 +4366,7 @@ RĂmâne doar clipa din noi
 SĂ-ntoarcem timpul înapoi.
 ```
 
-#### 72. Strunga (I)
+#### 80. Strunga (I)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 144 · Caiet cabană RO, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/strunga-457)
 
@@ -4120,7 +4407,7 @@ Ce slujește fără pungă, Hei...
 Fără luptă, fara pungă, Hei...
 ```
 
-#### 73. Strunga (II)
+#### 81. Strunga (II)
 
 **Phoenix** · Sursa: Cărticica Karban, p. 130
 
@@ -4151,7 +4438,7 @@ Fără luptă, fara pungă, Hei...
 [Em]Și mi-e [G]inima-[F]ncolț[Em]ită.
 ```
 
-#### 74. Trenul dragostei
+#### 82. Trenul dragostei
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/trenul-dragostei-3303)
 
@@ -4200,7 +4487,7 @@ Refren
 Un tren ce dragostea îl cere, un tren ce are-ntârziere an de an
 ```
 
-#### 75. Tropa trop
+#### 83. Tropa trop
 
 **Supa & Maria** · Sursa: Caiet Christian Adventure, p. 156
 
@@ -4263,7 +4550,7 @@ cântat
 Refren
 ```
 
-#### 76. Tropa trop spre cabană
+#### 84. Tropa trop spre cabană
 
 **Yoyo** · Sursa: Caiet Christian Adventure, p. 157 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/tropa-trop-spre-cabana-3847)
 
@@ -4316,7 +4603,7 @@ Un cântec și-o prietenie...
 Refren x2
 ```
 
-#### 77. Uiuiui brădui
+#### 85. Uiuiui brădui
 
 **Albatros** · Sursa: Caiet Christian Adventure, p. 161
 
@@ -4383,7 +4670,7 @@ Ca să te sărut cu dor, măi
 Trili lili lila
 ```
 
-#### 78. Ultima zi
+#### 86. Ultima zi
 
 Sursa: Caiet cabană RO, p. 46 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ultima-zi-5404)
 
@@ -4423,7 +4710,7 @@ Viața noastră-n doi va avea apoi
 Un târziu zadarnic happy end.
 ```
 
-#### 79. Un munte așternut
+#### 87. Un munte așternut
 
 **CALEnDAR** · Sursa: Caiet Christian Adventure, p. 165 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/calendar/un-munte-asternut-12346)
 
@@ -4468,7 +4755,7 @@ Cioplim o amintire-n piatră
 Refren x2
 ```
 
-#### 80. Viață de haiduc
+#### 88. Viață de haiduc
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 168 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/viata-de-haiduc-6181)
 
@@ -4544,7 +4831,7 @@ S-aduc mama cailor
 Refren x2
 ```
 
-#### 81. Viață de vagabond
+#### 89. Viață de vagabond
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 169 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/viata-de-vagabond-4049)
 
@@ -4587,7 +4874,7 @@ Un copil făcut în pripă fără niciun fel de frică
 Refren
 ```
 
-#### 82. Vino, vino (I)
+#### 90. Vino, vino (I)
 
 Sursa: Cărticica Karban, p. 218
 
@@ -4618,7 +4905,7 @@ Notă: o variantă simplificata poate fi cântata numai cu D în loc de C și C7
 A7 în loc de G7 și G în loc de F...
 ```
 
-#### 83. Visul (I)
+#### 91. Visul (I)
 
 **Cătălin Condreț** · Sursa: Caiet Christian Adventure, p. 173 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
@@ -4666,7 +4953,7 @@ Să dăinuiți pe veci.
 /Sa dăinuiți dirim diram dirariram, dirariararidam, ooo.../ x2
 ```
 
-#### 84. Visul (II)
+#### 92. Visul (II)
 
 variantă a cântecului „Visul” · Sursa: Caiet cabană RO, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
@@ -4703,7 +4990,7 @@ R:
 SĂ nu vă destrămați ușor ...
 ```
 
-#### 85. Visul (III)
+#### 93. Visul (III)
 
 alt cântec cu același titlu · Sursa: Caiet cabană RO, p. 129 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
@@ -4751,7 +5038,7 @@ CĂ mă-nsoțești în drumul meu pribeag
 Și te sărut al tău cu drag ... cu drag ...
 ```
 
-#### 86. Vulturul
+#### 94. Vulturul
 
 **Vârf Carpatin** · Sursa: Caiet Christian Adventure, p. 177 · Caiet cabană RO, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/varf-carpatin/vulturul-323)
 
@@ -4798,7 +5085,7 @@ Refren x2 +
 
 ### I.2 — Naționaliste și de dor de țară
 
-#### 87. Avram Iancu
+#### 95. Avram Iancu
 
 **Vali Șerban** · Sursa: Caiet Christian Adventure, p. 18 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/avram-iancu-10369)
 
@@ -4884,7 +5171,7 @@ Devine ARDEAL!
 Refren
 ```
 
-#### 88. Cântec de oameni
+#### 96. Cântec de oameni
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/Valeriu Sterian · Sursa: Cărticica Karban, p. 146
 
@@ -4914,7 +5201,7 @@ Ca [G]pâinea naște [Am]pâine
 Refren:
 ```
 
-#### 89. Colindul mâinilor truditoare
+#### 97. Colindul mâinilor truditoare
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 45 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/colindul-mainilor-truditoare-1927)
 
@@ -4946,7 +5233,7 @@ Semnul vostru e blazonul sfânt la mulți ani și soare
 Al puterii noastre pe pământ mâini nemuritoare.
 ```
 
-#### 90. Dacii liberi
+#### 98. Dacii liberi
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 54 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/dacii-liberi-2918)
 
@@ -5015,7 +5302,7 @@ Strigăm că libertatea-i lucru sfânt
 Refren
 ```
 
-#### 91. Deșteaptă-te române (I)
+#### 99. Deșteaptă-te române (I)
 
 **Andrei Mureșan** · Sursa: Caiet Christian Adventure, p. 58
 
@@ -5088,7 +5375,7 @@ Murim mai bine-n luptă, cu glorie deplină,
 Decât să fim sclavi iarăşi în vechiul nost' pământ!
 ```
 
-#### 92. Deșteaptă-te române (II)
+#### 100. Deșteaptă-te române (II)
 
 **Andrei Mureșanu** · Sursa: Cărticica Karban, p. 188
 
@@ -5135,7 +5422,7 @@ Decât să fim sclavi iarăşi în vechiul nost' pământ!
 [E]Pe-al nostru scump pă[Am]mânt.
 ```
 
-#### 93. Dor de Eminescu
+#### 101. Dor de Eminescu
 
 Sursa: Caiet cabană RO, p. 50
 
@@ -5168,7 +5455,7 @@ L-a-nfiat întreg Ardealul, Eminescu-i peste tot
 Eminescu-i România tăinuită în cuvânt.
 ```
 
-#### 94. Hai să-ntindem hora mare
+#### 102. Hai să-ntindem hora mare
 
 **popular** · Sursa: Cărticica Karban, p. 189
 
@@ -5194,7 +5481,7 @@ Eminescu-i România tăinuită în cuvânt.
 [Am]A lu[C]ptat pen[G]tru u[C]nire și pentru [G]pământul [C]sfânt.
 ```
 
-#### 95. Hora unirii
+#### 103. Hora unirii
 
 Sursa: Cărticica Karban, p. 190
 
@@ -5237,7 +5524,7 @@ Hora noastră cea frateasca,
 [A]Pe câmpia româ[D]neasca.
 ```
 
-#### 96. Imnul golanilor
+#### 104. Imnul golanilor
 
 **Cristian Paturca** · muzica/versuri: Cristian Paturca/Laura Botolan · Sursa: Cărticica Karban, p. 115
 
@@ -5272,7 +5559,7 @@ Să [G]nu mai fie [C]cum a fost, mă[D]celul de a[G]tunci.
 Refren
 ```
 
-#### 97. În umbra marelui URSS
+#### 105. În umbra marelui URSS
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 91 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/in-umbra-marelui-urss-748)
 
@@ -5356,7 +5643,7 @@ Dar ghearele v-au rămas
 Astăzi doare sărutul pe obraz/ x2
 ```
 
-#### 98. Întoarcerea țăranului
+#### 106. Întoarcerea țăranului
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Adrian Păunescu · Sursa: Cărticica Karban, p. 76
 
@@ -5408,7 +5695,7 @@ prin tine tara va [G7]dură,
 că tu ai [F]palma cât o [C]tara
 ```
 
-#### 99. Jurământ la Putna
+#### 107. Jurământ la Putna
 
 Sursa: Caiet cabană RO, p. 50
 
@@ -5448,7 +5735,7 @@ Cu înnoită putere neamul întreg să tresară
 De la mormântul lui ștefan să ne rugăm pentru țară.
 ```
 
-#### 100. Toamna la șuior
+#### 108. Toamna la șuior
 
 **Radu Pietreanu** · Sursa: Caiet Christian Adventure, p. 150
 
@@ -5494,7 +5781,7 @@ Iar noi prietenia s-o cântăm.
 Refren x2
 ```
 
-#### 101. Treceți batalioane române Carpații (I)
+#### 109. Treceți batalioane române Carpații (I)
 
 Sursa: Cărticica Karban, p. 191
 
@@ -5557,7 +5844,7 @@ cu[Am]lori.
 cu[Am]lori.
 ```
 
-#### 102. Treceți batalioane române Carpații (II)
+#### 110. Treceți batalioane române Carpații (II)
 
 Sursa: Cărticica Karban, p. 192
 
@@ -5585,7 +5872,7 @@ De-o [Em]fi să ne-ngropăm de [Am]vii.
 Notă: O variantă simplă pentru începători și cu versurile originale.
 ```
 
-#### 103. Tricolorul
+#### 111. Tricolorul
 
 muzica/versuri: Ciprian Porumbescu/??? · Sursa: Cărticica Karban, p. 194
 
@@ -5614,7 +5901,7 @@ Notă:Aici cu versurile în original.
 Păcat că anumite epoci au făcut din acest cântec frumos o amintire tristă.
 ```
 
-#### 104. Tron în Apuseni (I)
+#### 112. Tron în Apuseni (I)
 
 **Unde** · Sursa: Caiet Christian Adventure, p. 154 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/tron-in-apuseni-6561)
 
@@ -5675,7 +5962,7 @@ Aici in Carpați
 Refren x2
 ```
 
-#### 105. Tron în Apuseni (II)
+#### 113. Tron în Apuseni (II)
 
 **Vali Șerban** · Sursa: Caiet Christian Adventure, p. 155 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/tron-in-apuseni-6561)
 
@@ -5760,7 +6047,7 @@ Dulce fâlfâit de tricolor
 Refren
 ```
 
-#### 106. Tu Ardeal
+#### 114. Tu Ardeal
 
 **Refren:** · Sursa: Cărticica Karban, p. 193
 
@@ -5799,7 +6086,7 @@ Imnul "Desteptati-va [Am]români".
 
 ### I.3 — Studențești, de chef și deocheate
 
-#### 107. Alcool
+#### 115. Alcool
 
 **Pasărea Colibri** · muzica/versuri: Ray Davies/The Kinks/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 102
 
@@ -5847,7 +6134,7 @@ Dar [E7]banii când s-au [E]dus, l-a [E7]și lăsat [Am]prin [E7]șan[Am]țuri.
 [E7]Vai, ce păcat!
 ```
 
-#### 108. Alice
+#### 116. Alice
 
 muzica/versuri: Melodia "Living Net Door To Alice"/Smokie · Sursa: Cărticica Karban, p. 232
 
@@ -5879,7 +6166,7 @@ Bea [D]vodcă, fumează și [C]înjura de [G]sfinți...
 Mai [D]are un picior... o [C]mână și-[G]atât...
 ```
 
-#### 109. Apă de izvor
+#### 117. Apă de izvor
 
 **adaptat** · Sursa: Caiet Christian Adventure, p. 20
 
@@ -5972,7 +6259,7 @@ Fata popii cea mai mică
 Ca să scoată castronelul
 ```
 
-#### 110. Aproape de voi
+#### 118. Aproape de voi
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 21 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/aproape-de-voi-574)
 
@@ -6017,7 +6304,7 @@ Că mi va dat prieteni buni
 Refren x2
 ```
 
-#### 111. Așa beu oamenii buni
+#### 119. Așa beu oamenii buni
 
 **Popular din maramureș** · Sursa: Cărticica Karban, p. 195
 
@@ -6055,7 +6342,34 @@ Variantă studenteasca:
 [A]As în[D]vață [E]și eu [A]carte, [A]as în[E]vață [A]și eu carte.
 ```
 
-#### 112. Bărbățelul
+#### 120. Bade pălărie nouă
+
+Sursa: Cărticica Karban, p. 202
+
+**Chitară:** D xx0232 · A x02220 · G 320003
+
+**Ukulele:** D 2220 · A 2100 · G 0232
+
+```text
+[D]Bade pălărie nouă,
+[A]Să, ri da ri da ri [D]da
+[D]Tu mi-ai rupt inima-n două,
+[A]Să, ri da ri da ri [D]da
+[D]Tu mi-ai [G]rupt-o, tu mi-o coase,
+[D]Cu fir roșu de mătase,
+[A]Să di ra [D]Să di ra di da
+[A]Să di ra di da di [D]ra
+[D]Badea-i om de omenie,
+[A]Să, ri da ri da ri [D]da
+[D]Dar sărutul nu-l prea știe,
+[A]Să, ri da ri da ri [D]da
+[D]Și mă [G]roagă ziua toată,
+[D]Ca să-l mai sărut odată,
+[A]Să di ra [D]Să di ra di da
+[A]Să di ra di da di [D]ra
+```
+
+#### 121. Bărbățelul
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 26
 
@@ -6117,7 +6431,7 @@ Mamă de ce m-ai măritat/x2
 Refren
 ```
 
-#### 113. Bing bang (I)
+#### 122. Bing bang (I)
 
 **Cântece Horror** · Sursa: Caiet cabană RO, p. 65
 
@@ -6155,7 +6469,7 @@ Tu m-ai mușcat , bing-bang
 Involuntar, bing-bang.
 ```
 
-#### 114. Bing bang (II)
+#### 123. Bing bang (II)
 
 Sursa: Cărticica Karban, p. 229
 
@@ -6183,7 +6497,53 @@ R:
 [C]Involun[G]tar, [C]bing-[G]bang.
 ```
 
-#### 115. Călugărul din vechiul schit
+#### 124. Bosquito
+
+**Bosquito** · Sursa: Caiet Christian Adventure, p. 28 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/bosquito/bosquito-309)
+
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · E7 020100 · C x32010 · E 022100
+
+**Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · E7 1202 · C 0003 · E 4442
+
+```text
+Am                    G          Am
+Când eram băiat acasă tare bine mai era
+G                              Am
+Aveam o gagică grasă care mă iubea
+Dm             Am           Dm         Am
+Dar când am plecat în lume ursitoarea m-a mințit
+Dm             Am        Dm     F   E7
+C-o s-ajung un barosan bogat și fericit
+
+Refren:
+       Am    E7        Am
+Însă bănuțul nu s-a arătat
+       C     G             C
+Și fericirea iute s-a stricat
+ C                  Dm       E Am
+Așa că beau, beau, golesc paharele
+         F     E        Am
+Cu pretenarii și cu fetele.
+
+Ce-mi plăcea s-o facem lată, asta-mi era boala
+Unde n-ajungeam vreodată, asta era școala
+N-am nici bani, n-am nici mașină și de datorii sunt full
+Am o gașcă și-o chitară și-asta mi-e destul
+
+Refren:
+Însă bănuțul nu s-a arătat
+Și fericirea iute s-a stricat
+/Așa că beau, beau, golesc paharele
+Cu pretenarii și cu fetele/ x3
+
+Refren:
+Însă banuțul nu s-a arătat
+Și fericirea iute s-a stricat
+Așa că beau, beau, și-mi bag picioarele
+În tot ce ține de tranziție
+```
+
+#### 125. Călugărul din vechiul schit
 
 Sursa: Caiet cabană RO, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/calugarul-din-vechiul-schit-4740)
 
@@ -6212,7 +6572,7 @@ L-au plâns nebuni, l-au plâns sihaștrii
 Dar cel mai mult doi ochi albaștri.
 ```
 
-#### 116. Cana cu vin (I)
+#### 126. Cana cu vin (I)
 
 **Ecoul** · Sursa: Caiet cabană RO, p. 102
 
@@ -6259,7 +6619,7 @@ Mi-am pierdut și timpul
 Și tot nu m-ai iubit.
 ```
 
-#### 117. Cana cu vin (II)
+#### 127. Cana cu vin (II)
 
 **Ecoul** · muzica/versuri: Sorina Claudia Blaj/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 66
 
@@ -6303,7 +6663,7 @@ E||-----------------||
 exemplificat aici pentru acordul C.
 ```
 
-#### 118. Cântecul vacii
+#### 128. Cântecul vacii
 
 Sursa: Cărticica Karban, p. 238
 
@@ -6334,7 +6694,101 @@ Sursa: Cărticica Karban, p. 238
 [Am]Cât de tare-n stângă [E]mi-s, [Am]mai [E]doda [Am]mai...
 ```
 
-#### 119. Carolina (I)
+#### 129. Caravanele (I)
+
+**populara?/traditonal?** · Sursa: Caiet cabană RO, p. 72
+
+**Chitară:** A x02220 · D xx0232 · E 022100
+
+**Ukulele:** A 2100 · D 2220 · E 4442
+
+```text
+1.
+    A
+Și-aseară au venit
+     D        E       A
+Țiganii în satul meu
+Câinii toți lătrau
+Și țigăncile dansau.
+
+R:
+Caravanele, caravanele
+Ia uitați țigăncile!
+Caravanele, caravanele
+Cum le joacă fustele.
+
+2.
+Și-n șatră era
+O Țigancă frumușa
+Cine o vedea
+De ea se îndrăgostea.
+
+3.
+Și-un băiat din sat
+De țigancă a aflat
+Și la ea s-a dus
+Și norocul i l-a spus.
+
+4.
+Constantin te cheamă
+Dragă călătorule
+EȘti băiat de seamă
+Dar te strică fetele.
+
+5.
+Și-aseară au plecat
+Țiganii din satul meu
+Câinii toți lătrau
+Și țigăncile dansau.
+```
+
+#### 130. Caravanele (II)
+
+**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 222
+
+**Chitară:** A x02220 · E 022100 · D xx0232
+
+**Ukulele:** A 2100 · E 4442 · D 2220
+
+```text
+[A]Și-aseară au venit
+[E]Și-aseară au venit
+[D]Țiga[E]nii în satul [A]meu
+[A]Câinii toți lătrau
+[E]Câinii toți lătrau
+[D]Și ți[E]găncile dan[A]sau.
+Refren:
+[A]Caravanele, [E]caravanele
+[D]Ia ui[E]tați țigăn[A]cile!
+[A]Caravanele, [E]caravanele
+[D]Cum le [E]joacă fus[A]tele.
+[A]Și-n satra era
+[E]Și-n satra era
+[D]O ți[E]gancă fru[A]mușa
+[A]Cine o vedea
+[E]Cine o vedea
+[D]De ea [E]se îndrăgos[A]tea.
+[A]Și-un băiat din sat
+[E]Și-un băiat din sat
+[D]De ți[E]gancă a a[A]flat
+[A]Și la ea s-a dus
+[E]Și la ea s-a dus
+[D]Și no[E]rocul i l-a [A]spus.
+[A]Constantin te cheamă
+[E]Constantin te cheamă
+[D]Dragă [E]călătoru[A]le
+[A]Ești băiat de seama
+[E]Ești băiat de seama
+[D]Dar te [E]strică fete[A]le.
+[A]Și-aseară au plecat
+[E]Și-aseară au plecat
+[D]Țiga[E]nii din satul [A]meu
+[A]Câinii toți lătrau
+[E]Câinii toți lătrau
+[D]Și ți[E]găncile dan[A]sau.
+```
+
+#### 131. Carolina (I)
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/carolina-1237)
 
@@ -6414,7 +6868,7 @@ nu se-ndură
 Refren
 ```
 
-#### 120. Carolina (II)
+#### 132. Carolina (II)
 
 Sursa: Cărticica Karban, p. 213
 
@@ -6458,7 +6912,7 @@ Note:Fie care strofa se poate cânta de două ori. Așa poți face loc în cânt
 și la variantele de la strofe.
 ```
 
-#### 121. Cavaleri ai mesei rotunde (I)
+#### 133. Cavaleri ai mesei rotunde (I)
 
 Sursa: Cărticica Karban, p. 233
 
@@ -6506,7 +6960,7 @@ Notă:Ultimele trei versuri de la fiecare strofă au și rolul de refren și se
 repetă...
 ```
 
-#### 122. Cavaleri ai mesei rotunde (II)
+#### 134. Cavaleri ai mesei rotunde (II)
 
 Sursa: Cărticica Karban, p. 234
 
@@ -6562,7 +7016,7 @@ internațional.
 Personal prefer variantă transpusa de mine J
 ```
 
-#### 123. Ce facem cu studentul beat?
+#### 135. Ce facem cu studentul beat?
 
 muzica/versuri: Melodia: "What shall we do to the drunken sailor?" · Sursa: Cărticica Karban, p. 214
 
@@ -6603,7 +7057,115 @@ E||------------------------|------------------------|------------------------|--
 Exemplificat aici pentru acordurile Dm și C
 ```
 
-#### 124. Ce nasoala ești
+#### 136. Ce mult te-am iubit Paraschivo (I)
+
+**Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 44 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/ce-mult-te-am-iubit-paraschivo-4914)
+
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
+
+**Ukulele:** Am 2000 · E 4442 · Dm 2210
+
+```text
+Am                         E
+Ce mult te-am iubit, Paraschivo
+Dm                      Am
+Ți-am zis-o de-o mie de ori
+Dm
+Și ca drept dovadă
+Am
+Ți-am adus grămadă
+E                    Am
+Vreo 3 basculante de flori
+Dm
+Și ca drept dovadă
+Am
+Ți-am adus gramadă
+        E               Am
+Bă vreo 3 basculante de flori.
+
+Te-am luat de la mă-ta de-acasă
+În fustă și făr' de jupon
+Ți-am luat și poșetă,
+Ți-am luat și jachetă
+Și-o geacă mișto de nailon.
+Ți-am luat și poșetă,
+Ți-am luat și jachetă
+Și-o rochie mișto de nailon.
+
+Te-am si cultivat, Paraschivo
+Te-am dus la chermeză și meci
+Ți-am luat și bomboane, fă
+Ți-am luat și sămânță
+Tu faci pe nasoala și pleci
+
+Ți-am luat și bomboane,
+Ți-am luat și sămânța
+Fă, tu faci pe nasoala și pleci.
+
+La dragostea mea aia mare
+Mai spun 2 vorbe si atat
+Când iese luna
+Îmi scot brăcinarii
+Bă, mă spânzur cu mă-ta de gat
+Că când iese luna
+Îmi scot brăcinarii
+Mă spânzur cu mă-ta de gât.
+
+Când tac-tu' blonav de holeră
+În 3-4 zile a crăpat
+Și bani de tămaie,
+Și bani de colivă
+Tot Mandea săracu' ți-a dat
+Și bani de colivă,
+Și bani de tămaie
+Tot Mandea săracu' ți-a dat.
+
+Dar dacă te prind Paraschivo
+La braț cu alt gealan
+Îti iau și pșseta,
+Îti bat și gagiul
+Și... o sută de pumni iei în cap
+Îti bat și poșeta,
+Îti iau și gagiul
+Și o sută de pumni iei în cap!
+```
+
+#### 137. Ce mult te-am iubit Paraschivo (II)
+
+Sursa: Cărticica Karban, p. 248
+
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
+
+**Ukulele:** Am 2000 · Dm 2210 · E 4442
+
+```text
+[No Chord]Eu te-am iubit Paraschivo[Am]
+[No Chord]Ți-am zis-o de-o-mie de dați[Dm]
+[Dm]Și drept ca dovadă ți-am [Am]luat marmelada
+Ți-am [E]luat și-o bascula cu [Am]flori.
+[Dm]Și drept ca dovadă ți-am [Am]luat marmelada
+Ți-am [E]luat și-o bascula cu [Am]flori.
+[No Chord]Te-am luat de la mata de-acasă[Am]
+[No Chord]În fusta și fără jupon[Dm]
+[Dm]Ți-am luat țoale-n casă, [Am]ciorapi de mătasă
+Și-o fusta, [E]mișto, de [Am]naylon.
+[Dm]Ți-am luat țoale-n casă, [Am]ciorapi de mătasă
+Și-o fusta, [E]mișto, de [Am]naylon.
+[No Chord]Te-am cultivat Paraschivo[Am]
+[No Chord]Te-am dus la teatru și la meci[Dm]
+[Dm]Ți-am luat înghețată ți-am [Am]luat și semințe
+Tu [E]faci pe nasoala și [Am]pleci.
+[Dm]Ți-am luat înghețată ți-am [Am]luat și semințe
+Tu [E]faci pe nasoala și [Am]pleci.
+[No Chord]De te-aș prinde eu Paraschivo[Am]
+[No Chord]Braț la braț cu-un alt bărbat[Dm]
+[Dm]Ți-aș bate gagiu, ți-aș [Am]rupe juponu,
+Ți-aș [E]spune [No Chord]hai bâshti și-aș [Am]pleca.
+[Dm]Ți-aș bate gagiu, ți-aș [Am]rupe juponu,
+Ți-aș [E]spune [No Chord]hai bâshti și-aș [Am]pleca.
+```
+
+#### 138. Ce nasoala ești
 
 **Intro: E - A - E - B7 - A - E** · Sursa: Cărticica Karban, p. 237
 
@@ -6637,7 +7199,7 @@ Partea dintre strofe am adăugat-o ca și trecere deși în original este pe
 versuri.
 ```
 
-#### 125. Ceata noastră (I)
+#### 139. Ceata noastră (I)
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 42
 
@@ -6705,7 +7267,7 @@ Le-a intrat o țeapă-n (ce mă?)...gleznă
 /Că era-ntuneric beznă./ x2
 ```
 
-#### 126. Ceata noastră (II)
+#### 140. Ceata noastră (II)
 
 Sursa: Cărticica Karban, p. 235
 
@@ -6764,7 +7326,7 @@ Le-a intrat o țeapă-n [A](ce mă?) ... glezna
 [A]Ca era-ntuneric [D]beznă.
 ```
 
-#### 127. Cine-i născut în...
+#### 141. Cine-i născut în...
 
 Sursa: Cărticica Karban, p. 196
 
@@ -6791,7 +7353,7 @@ Iți [C]mulțu[D]mim fru[G]mos.
 [G]Și cine-o să se nască [C]iar, hai [D]sus, hai [D7]sus, hai [G]sus.
 ```
 
-#### 128. Copacul
+#### 142. Copacul
 
 **Necunoscut** · Sursa: Cărticica Karban, p. 252
 
@@ -6822,7 +7384,7 @@ Hei m-am [G]dus hei m-am [Em]dus să [C]beau un co[D]niac
 Refren
 ```
 
-#### 129. Copilița fără minte
+#### 143. Copilița fără minte
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 49 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/copilita-fara-minte-1441)
 
@@ -6897,7 +7459,7 @@ ahhh pe mine... )
 ahh s-a terminat... BINEEE)
 ```
 
-#### 130. Cu galeata în mână
+#### 144. Cu galeata în mână
 
 **Este unul din cântecele mele preferate dar destul de greu de explicat cum se** · muzica/versuri: Pe Maria or gasitu' · Sursa: Cărticica Karban, p. 242
 
@@ -6959,7 +7521,7 @@ Notă:Refrenul se poate "înfrumuseta" cu diferite versuri finale de la
 strofele următoare și poate fi cântat și pe mai multe voci J
 ```
 
-#### 131. Din prea mult sau prea puțin
+#### 145. Din prea mult sau prea puțin
 
 **Vasile Șeicaru** · Sursa: Caiet Christian Adventure, p. 59 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/din-prea-mult-sau-prea-putin-745)
 
@@ -7021,7 +7583,7 @@ Prerefren
 Refren x2
 ```
 
-#### 132. Doi olteni
+#### 146. Doi olteni
 
 Sursa: Cărticica Karban, p. 240
 
@@ -7050,7 +7612,7 @@ Mai lăsați oltenii-n [Dm]paaceeeeeeee
 Că-s și [Am]alte [E]dobito[Am]ace
 ```
 
-#### 133. Doi olteni (variantă)
+#### 147. Doi olteni (variantă)
 
 Sursa: Cărticica Karban, p. 239
 
@@ -7080,7 +7642,7 @@ De aceea eu rămân la variantă mea.
 Pentru cei care știu acest cântec în aceasta forma, mai sus sunt acordurile.
 ```
 
-#### 134. Dragu-mii veselia
+#### 148. Dragu-mii veselia
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 44
 
@@ -7118,7 +7680,7 @@ Notă: Din nou foarte important ritmul melodiei precum și "timing"-ul!
 Referitor la timing după primul vers prinde bine o pauza J
 ```
 
-#### 135. Du-mă acasă mai tramvai
+#### 149. Du-mă acasă mai tramvai
 
 **tradițional** · Sursa: Cărticica Karban, p. 197
 
@@ -7170,7 +7732,7 @@ E||-----------------|-----------------|--0--------------|-----------------||
 ...exemplificat aici pentru primele două versuri.
 ```
 
-#### 136. Eu așa și ea așa
+#### 150. Eu așa și ea așa
 
 Sursa: Cărticica Karban, p. 240
 
@@ -7220,7 +7782,7 @@ inregistrarea e una de studio.
 A, să nu uit: în locul acordului A7 merge folosit și un A.
 ```
 
-#### 137. Felia
+#### 151. Felia
 
 Sursa: Caiet cabană RO, p. 64 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/felia-1650)
 
@@ -7266,7 +7828,77 @@ Gagicile să mă iubească
 Și toți nașii să mă cinstească.
 ```
 
-#### 138. Fetița franceză
+#### 152. Femei, femei
+
+**Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 75 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/femei-femei-2707)
+
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
+
+**Ukulele:** Am 2000 · Dm 2210 · E 4442
+
+```text
+Am             Dm
+Nu e nimeni pe stradă
+                     Am
+Ochii triști să mi-i vadă...
+    E
+A, nu-i nimeni pe stradă
+               Am
+Să mă vadă cum plâng.
+
+Doar un gabor de seară,
+Ce-a venit ca să-mi ceară
+Să-și aprind-o țigară
+M-a văzut lăcrimând...
+
+Refren:
+
+Femei, femei, (asa...)
+E plină lumea de nebune, (da' cum.
+Cine v-a adus pe lume, (cine?)
+Cine oare v-a făcut? (cine oare, ce
+oare?)
+Femei, femei,
+E plină lumea de nebune, (buneee)
+Cine v-a adus pe lume,
+Cine oare v-a făcut? (eu nu)
+
+Și-acel gabor de seară, (a gabor)
+Ce-a venit ca să-mi ceară, (aaa)
+A zis râzând către mine (a, deci
+
+gaboru' a zis râzând)
+"Wai, decât să-ți fie rău mai bine
+să-ți fie bine!" (al dracu' băi)
+
+Refren:
+
+Femei, femei, (ia zi bă ce)
+E plină lumea de nebune, (ei nu
+mai spune, frate)
+Cine v-a adus pe lume, (hai, bă,
+fii serios acuma)
+Cine oare v-a făcut? (aha, aha!
+aha...)
+Bărbati, bărbati, (aicea,
+hahahaha)
+E plină lumea de ratați, (aoleu)
+De supărați și de-ncordați, (ia
+..)
+vezi, alo...)
+Nu știți decât să vă-mbătați! (ia
+stai să te prind o dată beat să
+vezi tu care-i treaba...)
+
+Refren:
+
+Bărbați, bărbați,
+E plină lumea de ratați,
+De supărați și de-ncordați,
+Nu știti decât să vă-mbătați!
+```
+
+#### 153. Fetița franceză
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fetita-franceza-5454)
 
@@ -7302,7 +7934,44 @@ A prins o turcoaică și-a tras-o de /flo...riola, floriola/ x2
 Vă spun poftă bună că merg să mă /ca...riola, cariola/ x2
 ```
 
-#### 139. Gașca
+#### 154. Floare albă, floare neagră
+
+Sursa: Cărticica Karban, p. 228
+
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
+
+**Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
+
+```text
+[Am]Floare albă, [G]floare [C]neagră
+[F]Tu mi-ai spus că [C]îți sunt dragă
+[Dm]Și-ai să furi din [Am]cer cinci stele
+[E]Să-mi faci [Am]salbă [E]și mar[Am]gele.
+[Am]Eu pe tine [G]nu te mai do[C]resc
+[F]Mie-mi place [C]viata să-mi trăiesc
+[Dm]Eu pe tine [Am]nu te mai doresc
+[E]Fără ba[Am]ni eu nu [E]te mai iu[Am]besc
+Refren:
+[Am]Lai la la la [G]lai la la [C]lai
+[F]Lai la la la [C]lai lai
+[Dm]Lai la la la [Am]la lai
+[E]Lai la [Am]la [E]la la [Am]lai
+Note:^Cântecul este de fapt identic cu melodia "Satra" și este doar o
+variantă cu alte versuri.
+-Se poate acompania cu un ritm (tip brushing cu/sau fără bass alternativ) de
+forma "bum chak-a" (vezi tabulatura, exemplificat aici pentru Am):
+P       ^          ^
+E||-------0--0-------0--0--||
+B||-------1--1-------1--1--||
+G||-------2--2-------2--2--||
+D||-------------2----------||
+A||--0---------------------||
+E||------------------------||
+-În filmul "Satra" melodia se cheamă "Nane tsokha" adică "N-am cercei"  (Info
+de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
+```
+
+#### 155. Gașca
 
 Sursa: Caiet cabană RO, p. 66 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/gasca-1652)
 
@@ -7360,7 +8029,7 @@ Dar noi ne vom aduna
 Și astfel vom cânta:
 ```
 
-#### 140. Hora bețivilor
+#### 156. Hora bețivilor
 
 Sursa: Cărticica Karban, p. 245
 
@@ -7379,7 +8048,7 @@ Unde-s doi puterea creste
 [A]Și butoiul se go[D]lește.
 ```
 
-#### 141. Imnul reșițenilor
+#### 157. Imnul reșițenilor
 
 **Beatles(Yelow submarine)** · Sursa: Cărticica Karban, p. 243
 
@@ -7411,7 +8080,7 @@ Cred oricum ca acest cântec avea mai multe strofe. Cine își mai amintește
 poate să mi le trimita...
 ```
 
-#### 142. În pădurea verde
+#### 158. În pădurea verde
 
 **Melodia este una de la un cântec destul de cunoscut din anii de grădiniță.** · Sursa: Cărticica Karban, p. 230
 
@@ -7444,7 +8113,100 @@ folosind următoarea prograsie de acorduri:
 s.a.m.d.
 ```
 
-#### 143. Jean frizerul
+#### 159. Inimă de țigancă (I)
+
+**populara?/traditonal?** · Sursa: Caiet cabană RO, p. 67
+
+**Chitară:** A x02220 · E 022100 · D xx0232
+
+**Ukulele:** A 2100 · E 4442 · D 2220
+
+```text
+1.
+  A       E     A                D        A
+Inimă de țigancă, inimă de romancă
+                D                        A
+Inima mea te vrea, să-mi fii alăturea
+         E       A
+Inimă de țigancă .
+
+2.
+Și mama a fost neagră, lui tata i-a fost dragă
+Pe mine m-au făcut să beau să râd să cânt
+Inimă de țigancă .
+
+3.
+I am a lovely gipsy, I am a lovely gipsy
+I sing I sing for you, I dance I dance with you
+I am a lovely gipsy .
+
+4.
+Je suis une belle gitanne, je suis une belle gitanne
+Je chante, je chante pour toi, je dance, je dance pour toi
+Je suis une belle gitanne .
+
+5.
+Io sono la gitanna, io sono la gitanna
+Io amo, amo te, io canto, canto te
+Io sono la gitanna .
+```
+
+#### 160. Inimă de țigancă (II)
+
+**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 223
+
+**Chitară:** A x02220 · E 022100 · D xx0232
+
+**Ukulele:** A 2100 · E 4442 · D 2220
+
+```text
+[A]Inimă de [E]țigan[A]că,
+[A]Inimă de [E]țigan[A]că
+[A]Te cheamă și te [D]vrea
+Să fim ală[A]turea
+[A]Inimă de [E]țigan[A]că:|
+[A]Și mama a fost [E]nea[A]gră
+[A]Și tatii i-a fost [E]dra[A]gă
+[A]Și findca s-au plă[D]cut
+Pe mine m-au fă[A]cut
+[A]Și spun că lor li-s [E]dra[A]gă
+[A]Mai sunt fete ne[E]gru[A]țe
+[A]Mai mari și mai mi[E]cu[A]țe
+[A]Dar toate știu c-ar [D]vrea
+Să aibe inima [A]mea
+[A]Inimă de [E]țigan[A]că
+[A]Când înfloresc cas[E]ta[A]nii
+[A]Se-adună toți ți[E]ga[A]nii
+[A]Și fac afară un [D]foc
+Și se încing la [A]joc
+[A]Inimă de [E]țigan[A]că
+[A]Duminica la [E]nun[A]ta
+[A]Cu toți țiganii [E]cân[A]ta
+[A]Cânta se vese[D]lesc
+Findca ei se iu[A]besc
+[A]Inimă de [E]țigan[A]că
+Și aici și variantele în engleza, franceză și italiana luate din "Caietul de
+cântece de munte"
+[A]I am a lovely [E]gip[A]sy,
+[A]I am a lovely [E]gi[A]psy
+[A]I sing I sing for [D]you,
+I dance I dance with [A]you
+[A]I am a lovely [E]gi[A]psy.
+[A]Je suiș une belle [E]git[A]anne,
+[A]Je suiș une belle [E]git[A]anne
+[A]Je chante, je chante pour [D]toi,
+Je dance, je dance pour [A]toi
+[A]Je suiș une belle [E]git[A]anne.
+[A]Io sono la gi[E]tan[A]na,
+[A]Io sono la gi[E]tan[A]na,
+[A]Io amo, amo [D]te,
+Io canto, canto [A]te
+[A]Io sono la gi[E]tan[A]na,
+Notă: Acordul D poate fi înflorit la penultima bătaie cu o notă Ab și se
+prinde în acest caz după cum urmează: D = X X 0 2 3 4
+```
+
+#### 161. Jean frizerul
 
 Sursa: Cărticica Karban, p. 231
 
@@ -7472,7 +8234,7 @@ Plangeau și caii de la [D]dricu,
 Plângea și ultimu [G]calicu.
 ```
 
-#### 144. Katiusa
+#### 162. Katiusa
 
 Sursa: Cărticica Karban, p. 246
 
@@ -7503,7 +8265,7 @@ Notă: se poate cântă cu un bass alternativ acelerând ritmul spre sfârșitul
 strofei și începând o strofa nouă cu un ritm mai lent
 ```
 
-#### 145. Katiusa (variantă)
+#### 163. Katiusa (variantă)
 
 **...ca și completare la Katiusa (prima variantă)** · Sursa: Cărticica Karban, p. 247
 
@@ -7549,7 +8311,7 @@ Cântata din Em variațiunile sunt mai simplu de prins decât în versiunea mea
 (simplificata din Am).
 ```
 
-#### 146. M-am dus să tai un copac
+#### 164. M-am dus să tai un copac
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 99 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/m-am-dus-sa-tai-un-copac-3195)
 
@@ -7597,7 +8359,7 @@ Dă-te mă că cade,dă-te mă că cade
 Cade cade cade cade cade copacul
 ```
 
-#### 147. Mi-a zis mama că mi-o da
+#### 165. Mi-a zis mama că mi-o da
 
 **Tradițional** · Sursa: Cărticica Karban, p. 211
 
@@ -7632,7 +8394,7 @@ Cade cade cade cade cade copacul
 [D]Vă[A]leu [D]vă[A]leu [D]valeleu
 ```
 
-#### 148. O, mama
+#### 166. O, mama
 
 **Albatros** · Sursa: Caiet Christian Adventure, p. 118 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/o-mama-3011)
 
@@ -7694,7 +8456,7 @@ Să nu fie Doamne cu păcat
 Refren
 ```
 
-#### 149. Prietenii
+#### 167. Prietenii
 
 **Spitalul de urgenta** · muzica/versuri: Spitalul de urgenta/Spitalul de urgenta · Sursa: Cărticica Karban, p. 156
 
@@ -7733,7 +8495,7 @@ Solo
 Refren 2X
 ```
 
-#### 150. Puștoaică de liceu
+#### 168. Puștoaică de liceu
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 133 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/pustoaica-de-liceu-3091)
 
@@ -7784,7 +8546,7 @@ F G Fill C
 Tu ai 16 ani, iar eu am dublul tău.
 ```
 
-#### 151. Reclame
+#### 169. Reclame
 
 **Reclamele sunt mici cântecele care la susținerea unui "concert" se cântă** · Sursa: Cărticica Karban, p. 249
 
@@ -7913,7 +8675,7 @@ E sutienul pentru țâțe
 Bea la bar o Coca-Cola
 ```
 
-#### 152. S-o facem lată
+#### 170. S-o facem lată
 
 **Ștefan Banică** · Sursa: Caiet Christian Adventure, p. 141
 
@@ -7960,7 +8722,7 @@ Așa...
 Refren x3
 ```
 
-#### 153. Să nu uităm
+#### 171. Să nu uităm
 
 **???** · muzica/versuri: Melodia: "Să nu uităm să iubim trandafirii" · Sursa: Cărticica Karban, p. 216
 
@@ -7982,7 +8744,102 @@ amintesc...
 Dacă îți aduci aminte tu...vezi adresă de e-mail de mai sus.
 ```
 
-#### 154. Și-alta dată
+#### 172. Șatra (I)
+
+**populara?/traditonal?** · Sursa: Caiet cabană RO, p. 71
+
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
+
+**Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
+
+```text
+1.
+   Am          G        C
+Trece șatra de țigani
+    F             C
+Azi aici mâine colea
+   Dm                Am
+Cu țigănci cu flori în păr
+      E        Am  E    Am
+Și cu sânii ca un măr.
+
+2.
+N-am nici haine nici pantofi
+N-am nici casă nici noroc
+În căruță m-am născut
+Din căruță știu să cânt.
+
+3.
+Țiganco cu bani în păr
+Și cu sânul ca un măr
+Hai cu mine-n lumea mare
+SĂ bem viața din pahare.
+
+4.
+MĂi române, măi române
+Du-te singur fără mine
+Nu las eu țiganii mei
+Nici să-i dai tu mii de lei.
+```
+
+#### 173. Șatra (II)
+
+**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 225
+
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
+
+**Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
+
+```text
+[Am]Trece satra [G]de ți[C]gani
+[F]Azi aici mâi[C]ne colea
+[Dm]Cu țigănci cu [Am]flori în păr
+[E]Și cu [Am]sânii [E]ca un [Am]măr.
+Refren:
+[Am]Lai la la la [G]lai la la [C]lai
+[F]Lai la la la [C]lai lai
+[Dm]Lai la la la [Am]la lai
+[E]Lai la [Am]la [E]la la [Am]lai
+[Am]N-am nici haine [G]nici pan[C]tofi
+[F]N-am nici casa [C]nici noroc
+[Dm]În căruță m-[Am]am născut
+[E]Din că[Am]ruță [E]știu să [Am]cânt.
+[Am]Țigănco cu [G]bani în [C]păr
+[F]Și cu sânul [C]ca un măr
+[Dm]Hai cu mine-n [Am]lumea mare
+[E]Să bem [Am]viata [E]din pa[Am]hare.
+[Am]Mai române, [G]mai ro[C]mâne
+[F]Du-te singur [C]fără mine
+[Dm]Nu las eu [Am]țiganii mei
+[E]Nici să-mi [Am]dai tu [E]mii de [Am]lei.
+Note: Refrenul se cântă la fel ca și strofele. În continuare mici variațiuni
+de la ultimele trei strofe:
+[Am]N-am nici rochii [G]nici pan[C]tofi
+[F]Nici castel cu [C]slujitori
+[Dm]În căruță m-[Am]am născut
+[E]Din că[Am]ruță [E]știu să [Am]cânt.
+[Am]Țigănco cu [G]bani în [C]păr
+[F]Și cu sânul [C]ca de măr
+[Dm]Hai cu mine-n [Am]lumea mare
+[E]Să vezi [Am]cum e [E]cu pa[Am]rale.
+[Am]Mai străine, [G]mai stră[C]ine
+[F]Stai în lumea [C]ta cu bine
+[Dm]Eu nu-mi las eu [Am]țiganii mei
+[E]Nici să-mi [Am]dai tu [E]mii de [Am]lei.
+Note:Se poate acompania cu un ritm (tip brushing cu/sau fără bass alternativ)
+de forma "bum chak-a" (vezi tabulatura exemplificat aici pentru Am):
+P       ^          ^
+E||-------0--0-------0--0--||
+B||-------1--1-------1--1--||
+G||-------2--2-------2--2--||
+D||-------------2----------||
+A||--0---------------------||
+E||------------------------||
+-În filmul "Satra" melodia se cheamă "Nane tsokha" adică "N-am cercei"  (Info
+de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
+```
+
+#### 174. Și-alta dată
 
 Sursa: Cărticica Karban, p. 200
 
@@ -8007,7 +8864,7 @@ Sursa: Cărticica Karban, p. 200
 [C]Vinul [F]se bea, [G]se bea din pa[C]hare.
 ```
 
-#### 155. Sobița
+#### 175. Sobița
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 140 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/sobita-2703)
 
@@ -8072,7 +8929,7 @@ Noroc că-s ghizi la BTT
 Refren x2
 ```
 
-#### 156. Suzana
+#### 176. Suzana
 
 **tradus de la Stephen Foster** · Sursa: Caiet Christian Adventure, p. 146
 
@@ -8128,7 +8985,63 @@ La noapte evadez
 Refren x3
 ```
 
-#### 157. Te-am cunoscut în troleibuz (I)
+#### 177. Tango țigan
+
+Sursa: Caiet cabană RO, p. 70
+
+**Chitară:** Em 022000 · C x32010 · D xx0232
+
+**Ukulele:** Em 0432 · C 0003 · D 2220
+
+```text
+1.
+   Em                C
+Cândva de mult un crâng de brazi
+       D            Em
+PĂrea un vechi castel
+Și-o ceată de țigani nomazi
+Au poposit la el.
+
+R:
+la la ...
+
+2.
+Și-aveau țiganii ochi adânci
+Și galbeni prinși în plete
+Și-aveau cu ei un cârd de țânci
+Și-un cârd de negre fete.
+
+3.
+Cândva un tânăr castelan
+Privind prin vechi ferestre
+ZĂri o fată de țigan
+Frumoasă ca-n poveste.
+
+4.
+Iubita mea, frumoasa mea
+Cu drag să fii aș vrea
+Stăpână de acum mereu
+A sufletului meu.
+
+5.
+Trecu un an mai mult de-atunci
+Și-n patul de mătasă
+Frumoasa fată de țigan
+Era de-acum crăiasă.
+
+6.
+Trecu încă doi ani de atunci
+Țiganii plini de praf și fum
+Lângă castelul solitar
+Au poposit în drum.
+7.
+Odorul meu, iubitul meu
+Eu libertate vreau
+SĂ hoinăresc mereu mereu
+Adio, dregul meu.
+```
+
+#### 178. Te-am cunoscut în troleibuz (I)
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 149
 
@@ -8192,7 +9105,7 @@ Venea miros urât.
 Refren
 ```
 
-#### 158. Te-am cunoscut în troleibuz (II)
+#### 179. Te-am cunoscut în troleibuz (II)
 
 **Intro:** · muzica/versuri: "Raindrops Keep Falling On My Head" · Sursa: Cărticica Karban, p. 253
 
@@ -8225,7 +9138,132 @@ Mi-ai zâm[Em7]bit
 [G]Cred că m-am [F]îndrăgos[G]tit [Em7]=[A7]=[Dm7]=[G7/4]=[G7]
 ```
 
-#### 159. Trăiască berea
+#### 180. Țigăncușa (I)
+
+**Romanegila** · Sursa: Caiet Christian Adventure, p. 160 · Caiet cabană RO, p. 69
+
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
+
+**Ukulele:** Am 2000 · E 4442 · Dm 2210
+
+```text
+Am        E
+La o margine de sat
+             Am
+Este-o șatră de țigani
+Dm           Am
+Și-o țigancă frumușică
+E              Am
+Mi-a ghicit pe sub castani
+Dm           Am
+Și-o țigancă frumușică
+E              Am  E   Am
+Mi-a ghicit pe sub castani
+
+            Dm
+Refren1 x2: Țigăncușă ești frumoasă,
+Am
+Țigăncușa mea
+E            Am
+Te iubesc și nu te pot uita, Hei...
+
+Refren2 x2: La-rai-ra...
+
+Țigăncușă ești frumoasă
+Și știi bine să ghicești
+/Și cu ochii tăi cei negri
+Pe oricine cucerești /x2
+
+Refren1 x2 + Refren 2 x2
+
+Trece iarna, vine vara
+Vine șatra de țigani
+/Țigăncușa mea frumoasă
+A fugit cu alt țigan.../ x2
+
+Refren1 x2 + Refren2 x4
+```
+
+#### 181. Țigăncușa (II)
+
+**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 226
+
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · Em 022000 · A x02220
+
+**Ukulele:** Am 2000 · E 4442 · Dm 2210 · Em 0432 · A 2100
+
+```text
+[Am]La o margi[E]ne de sat
+[Am]Sta o satra [E]de ți[Am]gani
+[Dm]Și-o țigancă [Am]frumușică
+[E]Mi-a zâmbit de [Am]sub [E]cas[Am]tani.
+[Dm]Și-o țigancă [Am]frumușică
+[E]Mi-a zâmbit de [Am]sub [E]cas[Am]tani.
+Refren:
+[Dm]Tigancusa ești frumoasă
+[Am]Tigancusa mea
+[E]Te iubesc
+Și [Am]nu te [E]pot [Am]uita.
+[Dm]Tigancusa ești frumoasă
+[Am]Tigancusa mea
+[E]Te iubesc
+Și [Am]nu te [E]pot [Am]uita.
+[Am]Tigancusa [E]ești frumoasă
+[Am]Și știi bine [E]să ghi[Am]cești
+[Dm]Și cu ochii [Am]tăi cei negrii
+[E]Pe oricine [Am]cu[E]ce[Am]rești.
+[Dm]Și cu ochii [Am]tăi cei negrii
+[E]Pe oricine [Am]cu[E]ce[Am]rești.
+[Am]Trece vara, [E]vine iarna,
+[Am]Pleacă satra [E]de ți[Am]gani
+[Dm]Și cu ea plea[Am]că țigancă
+[E]Ce-am iubit-o [Am]sub [Em]cas[Am]tani.
+[Dm]Și cu ea plea[Am]că țigancă
+[E]Ce-am iubit-o [Am]sub [Em]cas[Am]tani.
+[Am]Trece iarna, [E]vine vara,
+[Am]Vine satra [E]de ți[Am]gani
+[Dm]Dar țigancă [Am]frumușică
+[E]A fugit cu [Am]alt [E]ți[Am]gan.
+[Dm]Dar țigancă [Am]frumușică
+[E]A fugit cu [Am]alt [E]ți[Am]gan.
+Note: Ritmul este o parte interesanta a acestei melodii. Se accelerează și se
+încetinește după simt. Acompaniamentul se poate face folosind o tehnică cu
+bas alternativ după cum urmează:
+Am                                            E
+E||-------0---------0----|-------0---------0----|-------0---------0----|-------0---------0----||
+B||-------1---------1----|-------1---------1----|-------0---------0----|-------0---------0----||
+G||-------2---------2----|-------2---------2----|-------1---------1----|-------1---------1----||
+D||------------2---------|------------2---------|----------------------|----------------------||
+A||--0-------------------|--0-------------------|------------2---------|------------2---------||
+E||----------------------|----------------------|--0-------------------|--0-------------------||
+La        o            măr       gi           ne        de           să-       -
+at.......etc...
+Am                                            E                      A
+E||-------0---------0----|-------0---------0----|-------0---------0----|-------0---------0----||
+B||-------1---------1----|-------1---------1----|-------0---------0----|-------1---------1----||
+G||-------2---------2----|-------2---------2----|-------1---------1----|-------2---------2----||
+D||------------2---------|------------2---------|----------------------|------------2---------||
+A||--0-------------------|--0-------------------|------------2---------|--0-------------------||
+E||----------------------|----------------------|--0-------------------|----------------------||
+Dm                                            Am
+E||-------1---------1----|-------1---------1----|-------0---------0----|-------0---------0----||
+B||-------3---------3----|-------3---------3----|-------1---------1----|-------1---------1----||
+G||-------2---------2----|-------2---------2----|-------2---------2----|-------2---------2----||
+D||--0-------------------|--0-------------------|------------2---------|------------2---------||
+A||------------0---------|------------0---------|--0-------------------|--0-------------------||
+E||----------------------|----------------------|----------------------|----------------------||
+E                                             Am          E          Am
+E||-------0---------0----|-------0---------0----|-------0---------0----|-------0---------0----||
+B||-------0---------0----|-------0---------0----|-------1---------0----|-------1---------1----||
+G||-------1---------1----|-------1---------1----|-------2---------1----|-------2---------2----||
+D||----------------------|----------------------|----------------------|------------0---------||
+A||------------2---------|------------2---------|--0-------------------|--0-------------------||
+E||--0-------------------|--0-------------------|------------0---------|----------------------||
+exemplificat aici pentru primele patru strofe ale melodiei. Ultimele două se
+repetă J
+```
+
+#### 182. Trăiască berea
 
 **Spitalul de urgenta** · muzica/versuri: Spitalul de urgenta · Sursa: Cărticica Karban, p. 157
 
@@ -8268,7 +9306,75 @@ Tot ți-o fura ci[Am]neva
 [E(I)]La televi[E(I)]zor
 ```
 
-#### 160. Un elefant... (II)
+#### 183. Trec țiganii
+
+**Autentic** · Sursa: Caiet Christian Adventure, p. 151 · Caiet cabană RO, p. 68
+
+**Chitară:** Am x02210 · E 022100 · E7 020100 · Dm xx0231 · A7 x02020 · G 320003 · C x32010
+
+**Ukulele:** Am 2000 · E 4442 · E7 1202 · Dm 2210 · A7 0100 · G 0232 · C 0003
+
+```text
+Am                 E
+În căruțe colorate trec țiganii
+E7                      Am
+O țigancă-n părul ei și-adună banii
+Dm                         Am
+Alta șade într-un colț, dă cu ghiocul
+E                         Am
+Să-i ghicească unei fete mari norocul
+Dm                       Am
+Un țigan cântă cu foc dintr-o vioară
+E                    Am E Am
+De cu zori și pân-se lasă seara.
+
+Refren1:
+
+Am             E
+Trec țiganii, trec,
+E7         Am
+Se duc și petrec
+ A7            Dm
+Trec țiganii, nu se mai opresc
+E             Am
+Dar ei se iubesc.
+
+Refren2 x2:
+
+A7  Dm   G   C      Am   Dm  E Am
+La-lalalalalalai - lalalalalalai....
+
+La o margine de drum au aprins
+focul
+Și în jurul focului au încins jocul
+Noaptea e cu lună plină
+fermecată
+Seara cu țiganii n-o uiți niciodată
+Caii pasc la iarbă verde liniștiți,
+Iar țiganii cânta și sunt fericiți.
+
+Refren1 x2
+
+Refren3:
+
+    A7     Dm
+Se-aude o vioară
+    G          C
+Se-aude un țambal
+   Am         Dm
+Se-aude vocea caldă
+   E       Am
+A unui lăutar
+
+Se-aude o vioară
+Se-aude un arcuș
+Se-aude glasul dulce
+Al unui țigănuș
+
+Refren2 x2
+```
+
+#### 184. Un elefant... (II)
 
 muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 217
 
@@ -8300,7 +9406,7 @@ altfel...
 Dacă cineva își aduce aminte îl rog să îmi scrie.
 ```
 
-#### 161. Un kil de rom
+#### 185. Un kil de rom
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 163 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/un-kil-de-rom-4307)
 
@@ -8363,7 +9469,7 @@ Am fost și eu tânăr candva, un kil de rom
 Refren
 ```
 
-#### 162. Vino, vino (II)
+#### 186. Vino, vino (II)
 
 Sursa: Cărticica Karban, p. 254
 
@@ -8392,11 +9498,65 @@ Notă: o variantă simplificata poate fi cântata numai cu D în loc de C și C7
 A7 în loc de G7 și G în loc de F...
 ```
 
+#### 187. Zece negri mititei
+
+muzica/versuri: din folclorul copiilor · Sursa: Cărticica Karban, p. 261
+
+**Chitară:** C x32010 · F 133211 · G 320003
+
+**Ukulele:** C 0003 · F 2010 · G 0232
+
+```text
+[C]Un negru mititel
+[F]S-a-nsurat o[C]dată
+[G]Și nevasta [C]i-a făcut
+[G]Zece negri-[C]o dată.
+[C]Zece negri mititei
+[F]S-au jucat în [C]roua,
+[G]Unul a căzut [C]din ei,
+[G]Și-au rămas doar [C]nouă.
+[C]Nouă negri mititei
+[F]Mâncă porumb [C]copt,
+[G]Unul s-a-necat [C]din ei,
+[G]Și-au rămas doar [C]opt.
+[C]Opt negri mititei
+[F]Beau cafea cu [C]lapte,
+[G]Unul s-a-necat [C]din ei,
+[G]Și-au rămas doar [C]șapte.
+[C]Șapte negri mititei
+[F]S-au dus la [C]Tănase,
+[G]Unul a murit [C]de râs,
+[G]Și-au rămas doar [C]sase.
+[C]Sase negri mititei
+[F]Au încălțat [C]opinci,
+[G]Unul s-a-mpiedicat [C]din ei,
+[G]Și-au rămas doar [C]cinci.
+[C]Cinci negri mititei
+[F]S-au dus la [C]teatru
+[G]Unul s-a făcut [C]artist,
+[G]Și-au rămas doar [C]patru.
+[C]Patru negri mititei
+[F]S-au suit în [C]tei,
+[G]Unul a căzut [C]din ei,
+[G]Și-au rămas doar [C]trei.
+[C]Trei negri mititei
+[F]S-au dus la [C]oi,
+[G]Unul s-a făcut [C]cioban,
+[G]Și-au rămas doar [C]doi.
+[C]Doi negri mititei
+[F]Au tras cu [C]tunul,
+[G]Unul s-a-mpuscat din ei,
+[G]Și-a rămas doar unul.
+[C]Un negru mititel
+[F]S-a-nsurat odată...
+Notă: Măsura cântecului e 2/4
+```
+
 ---
 
 ## Partea a II-a — Repertoriu românesc
 
-#### 163. 2000 de ani
+#### 188. 2000 de ani
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 66 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/2000-de-ani-241)
 
@@ -8444,7 +9604,7 @@ Fără doar și poate ești a mea.
 Refren x2
 ```
 
-#### 164. 38
+#### 189. 38
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 162
 
@@ -8488,7 +9648,7 @@ Pe mine [F]foarte
 Refren:
 ```
 
-#### 165. A ruginit frunza din vii
+#### 190. A ruginit frunza din vii
 
 **Versuri Artur Stavri/melodie populara** · Sursa: Cărticica Karban, p. 201
 
@@ -8518,7 +9678,7 @@ Notă: Cântecul e în măsura 3/4. Deși se pot folosi și acordurile clasice e
 le recomand pe cele barate. Astfel:
 ```
 
-#### 166. Actorul
+#### 191. Actorul
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 39 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/actorul-499)
 
@@ -8571,7 +9731,7 @@ I-au aruncat un fel de plată:
 "LĂsați-l dracu', e-un actor!"
 ```
 
-#### 167. Adelina
+#### 192. Adelina
 
 Sursa: Caiet cabană RO, p. 55 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/adelina-1605)
 
@@ -8604,7 +9764,7 @@ Din acea zi pentru mine totul s-a schimbat
 Adelina e cu mine, totul e minunat.
 ```
 
-#### 168. Adio, deci pe curând (I)
+#### 193. Adio, deci pe curând (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 11 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/adio-deci-pe-curand-1454)
 
@@ -8672,7 +9832,7 @@ Da, pe curând!
 Refren x4
 ```
 
-#### 169. Adio, deci pe curând (II)
+#### 194. Adio, deci pe curând (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 164
 
@@ -8720,7 +9880,7 @@ Da, pe curând!
 Refren
 ```
 
-#### 170. Ai venit
+#### 195. Ai venit
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 93
 
@@ -8757,7 +9917,7 @@ Ai venit și ai ple[G]cat [D]
 Refren 2X
 ```
 
-#### 171. Aiurit și aburit
+#### 196. Aiurit și aburit
 
 Sursa: Caiet cabană RO, p. 108
 
@@ -8790,7 +9950,7 @@ Le culegeam ca niște mere.
 Nici cu piciorul drept.
 ```
 
-#### 172. Alo! Ei a mea!
+#### 197. Alo! Ei a mea!
 
 **Pasărea Colibri** · muzica/versuri: în original: She Belongs to Me · Sursa: Cărticica Karban, p. 103
 
@@ -8846,7 +10006,7 @@ s = șaisprezecime
 Celelalte loviri (nemarcate) se fac de jos în sus
 ```
 
-#### 173. Alte clipe trăite alt epilog
+#### 198. Alte clipe trăite alt epilog
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 163
 
@@ -8881,7 +10041,7 @@ Dacă [C]v-a făcut plă[Am]cere,
 "Pe cu[C]rând! La reve[G]dere!"
 ```
 
-#### 174. Alunelul
+#### 199. Alunelul
 
 Sursa: Cărticica Karban, p. 255
 
@@ -8905,7 +10065,7 @@ Sursa: Cărticica Karban, p. 255
 Notă: Măsura cântecului e 2/4
 ```
 
-#### 175. Am doar 18 ani
+#### 200. Am doar 18 ani
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 14
 
@@ -8983,7 +10143,7 @@ Visul meu îl trăiesc chiar acum
 Refren x2
 ```
 
-#### 176. Am nevoie de tine
+#### 201. Am nevoie de tine
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 59
 
@@ -9025,7 +10185,7 @@ A||---------------------------------------------------------------||
 E||---------------------------------------------------------------||
 ```
 
-#### 177. Amintire de fum
+#### 202. Amintire de fum
 
 **Mădălina Amon** · Sursa: Caiet Christian Adventure, p. 16 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/madalina-amon/amintire-de-fum-7370)
 
@@ -9062,7 +10222,7 @@ Toate dorm mai adânc sub ninsori.
 Refren
 ```
 
-#### 178. Amintirea paradisului
+#### 203. Amintirea paradisului
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Cezar Ivanescu · Sursa: Cărticica Karban, p. 92
 
@@ -9093,7 +10253,7 @@ Notă: O piesa foarte frumoasă și simplă; cred că cei mai bătrâni și-o
 amintesc.
 ```
 
-#### 179. Amintiri
+#### 204. Amintiri
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 94
 
@@ -9129,7 +10289,7 @@ Refren
 [Am]Spala-ți pașii [B7]azi în bucu[Em]rie
 ```
 
-#### 180. Amorul cubist
+#### 205. Amorul cubist
 
 Sursa: Caiet cabană RO, p. 130
 
@@ -9171,7 +10331,7 @@ S-o inventăm întreagă cât ești, cât mai exist
 Îmbracă-te aiurea și hai în mahalale.
 ```
 
-#### 181. Ana lui Manole
+#### 206. Ana lui Manole
 
 Sursa: Caiet cabană RO, p. 160
 
@@ -9226,7 +10386,7 @@ Voi plecați către alt Rai
 Eu din zid abia vă mai aud.
 ```
 
-#### 182. Antiprimăvara
+#### 207. Antiprimăvara
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 38 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/antiprimavara-500)
 
@@ -9277,7 +10437,7 @@ Ia-ți înflorirea, primăvară
 Și toți cocorii emigranți.
 ```
 
-#### 183. Anxietate
+#### 208. Anxietate
 
 **Valeriu Sterian** · Sursa: Caiet cabană RO, p. 147 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/anxietate-3681)
 
@@ -9317,7 +10477,7 @@ Bucuria din suflet să n-o alungi
 Mai încearcă să trăiești atât cât mai poți.
 ```
 
-#### 184. Aproape liniște (I)
+#### 209. Aproape liniște (I)
 
 **Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 13
 
@@ -9370,7 +10530,7 @@ succes... va vor trebui, evident, două chitare. Cum eu cânt de unul singur și
 doar pe chitara acustica, nu m-a preocupat ideea..J
 ```
 
-#### 185. Aproape liniște (II)
+#### 210. Aproape liniște (II)
 
 **Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 15
 
@@ -9412,7 +10572,7 @@ Bridge
 Refren
 ```
 
-#### 186. Arsură (I)
+#### 211. Arsură (I)
 
 **Adrian Ivanițchi** · Sursa: Caiet cabană RO, p. 167
 
@@ -9451,7 +10611,7 @@ După ce se va fi stins toată în țărână
 Veți mai simți o arsură pe mână.
 ```
 
-#### 187. Arsură (II)
+#### 212. Arsură (II)
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 90
 
@@ -9480,7 +10640,7 @@ Ca [F]păsările mort voi cântă[G]rii mai greu decât [C]viu
 [F]Veți mai simți [G]o arsura pe [C]mâna.
 ```
 
-#### 188. Arsură (III)
+#### 213. Arsură (III)
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 91
 
@@ -9518,7 +10678,7 @@ Ca [F]păsările mort voi cântă[G]rii mai greu decât [C]viu
 Note:O transcriere de notă 10+ J
 ```
 
-#### 189. Asta-s eu
+#### 214. Asta-s eu
 
 **Ștefan Banica jr.** · muzica/versuri: Ștefan Banica jr./??? · Sursa: Cărticica Karban, p. 29
 
@@ -9572,7 +10732,7 @@ Ce ți-a dat Dumnezeu
 "Frate, [D]asta-[C]s [G]eu!"
 ```
 
-#### 190. Astăzi și mâine
+#### 215. Astăzi și mâine
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 22 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/astazi-si-maine-146)
 
@@ -9620,7 +10780,7 @@ Tot ce-a fost s-a petrecut
 Refren
 ```
 
-#### 191. Atât de fragedă
+#### 216. Atât de fragedă
 
 **Mondial** · Sursa: Caiet Christian Adventure, p. 23 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mondial/atat-de-frageda-987)
 
@@ -9690,7 +10850,7 @@ Unde te duci? Când o să vii?/ x2
 Unde te duci? Când o să vii?/ x2
 ```
 
-#### 192. Azi
+#### 217. Azi
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 179
 
@@ -9718,7 +10878,7 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 193. Baby
+#### 218. Baby
 
 **Iris** · Sursa: Caiet Christian Adventure, p. 24 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/baby-375)
 
@@ -9762,34 +10922,7 @@ Bridge: E toamnă-n viața mea, totul este scrum
 Refren x4
 ```
 
-#### 194. Bade pălărie nouă
-
-Sursa: Cărticica Karban, p. 202
-
-**Chitară:** D xx0232 · A x02220 · G 320003
-
-**Ukulele:** D 2220 · A 2100 · G 0232
-
-```text
-[D]Bade pălărie nouă,
-[A]Să, ri da ri da ri [D]da
-[D]Tu mi-ai rupt inima-n două,
-[A]Să, ri da ri da ri [D]da
-[D]Tu mi-ai [G]rupt-o, tu mi-o coase,
-[D]Cu fir roșu de mătase,
-[A]Să di ra [D]Să di ra di da
-[A]Să di ra di da di [D]ra
-[D]Badea-i om de omenie,
-[A]Să, ri da ri da ri [D]da
-[D]Dar sărutul nu-l prea știe,
-[A]Să, ri da ri da ri [D]da
-[D]Și mă [G]roagă ziua toată,
-[D]Ca să-l mai sărut odată,
-[A]Să di ra [D]Să di ra di da
-[A]Să di ra di da di [D]ra
-```
-
-#### 195. Balada blondelor iubiri
+#### 219. Balada blondelor iubiri
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 166 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/balada-blondelor-iubiri-1849)
 
@@ -9843,95 +10976,7 @@ Sub fruntea mea se face noapte
 Ce stele ne-ar putea păzi.
 ```
 
-#### 196. Balada fulgerată de vânt (I)
-
-**Vârf Carpatin** · Sursa: Caiet cabană RO, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/varf-carpatin/balada-fulgerata-de-vant-317)
-
-**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
-
-**Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000
-
-```text
-
-1.
-RĂu mă [C]dor ochii mă [C]dor   [F]
-De dure[G]rea frunze[C]lor.
-
-R:
-Și mă [Am]duc (si ma duc) și iar mă [G]duc (si iar ma duuu[F]uc)
-Până [G]la izvor sub [C]nuc
-Și mă fac și iar mă fac
-Lemn de brad și lemn de fag.
-2.
-RĂu mă dor picioarele
-De bătut cărările.
-3.
-RĂu mă dor ochii mă dor
-De lumina stelelor.
-
-4.
-Unde au plecat nu știu
-Dar mi-e sufletul pustiu.
-
-5.
-Și-am să merg fără să știu
-Dus de dorul meu târziu.
-```
-
-#### 197. Balada fulgerată de vânt (II)
-
-**Narcisa Suciu** · variantă a cântecului „Balada fulgerată de vânt”, cu titlul „Rău mă dor ochii mă dor” · Sursa: Caiet Christian Adventure, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/rau-ma-dor-ochii-ma-dor-8810)
-
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
-
-**Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
-
-```text
-C                       G
-/Rău mă dor ochii, mă dor
-G                 C
-De durerea frunzelor/ x2
-
-Refren:
-
-       Am                      G
-Și mă duc, și ma duc,și iar ma duc, și iar
-        F
-mă duc
-     G             C
-Până la izvor sub nuc
-       Am                      G
-Și mă fac,și mă fac,și iar mă fac,și iar mă
-     F
-fac
-         G               C
-Lemn de brad și lemn de fag
-
-/Rău mă dor picioarele
-De bătut cărările/ x2
-
-/Rău mă dor ochii, mă dor
-De lumina stelelor/ x2
-
-Refren
-
-/Rău mă doare inima
-Că iubești pe-altcineva/ x2
-
-Refren
-
-/Cu cine ai plecat nu știu
-Dar mi-e sufletul pustiu/ x2
-
-Refren
-
-/Și-am să plec fără să știu
-Dus de dorul meu târziu/ x2
-
-Refren x2
-```
-
-#### 198. Bat la poarta ta
+#### 220. Bat la poarta ta
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 25 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/bat-la-poarta-ta-3061)
 
@@ -9971,7 +11016,7 @@ Ce bine-ar fi atunci să te ajute cineva.
 Refren
 ```
 
-#### 199. Bătălia s-a sfârșit, soldatul...
+#### 221. Bătălia s-a sfârșit, soldatul...
 
 Sursa: Caiet cabană RO, p. 107
 
@@ -10025,7 +11070,7 @@ Deasupra cerul gol și soarele
 Nici ochi să vadă, nici buze.
 ```
 
-#### 200. Biletul de tren
+#### 222. Biletul de tren
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 113 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/biletul-de-tren-5415)
 
@@ -10073,53 +11118,7 @@ Luminați în jur c-o floare
 Și nu-mi dați nimic în schimb.
 ```
 
-#### 201. Bosquito
-
-**Bosquito** · Sursa: Caiet Christian Adventure, p. 28 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/bosquito/bosquito-309)
-
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · E7 020100 · C x32010 · E 022100
-
-**Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · E7 1202 · C 0003 · E 4442
-
-```text
-Am                    G          Am
-Când eram băiat acasă tare bine mai era
-G                              Am
-Aveam o gagică grasă care mă iubea
-Dm             Am           Dm         Am
-Dar când am plecat în lume ursitoarea m-a mințit
-Dm             Am        Dm     F   E7
-C-o s-ajung un barosan bogat și fericit
-
-Refren:
-       Am    E7        Am
-Însă bănuțul nu s-a arătat
-       C     G             C
-Și fericirea iute s-a stricat
- C                  Dm       E Am
-Așa că beau, beau, golesc paharele
-         F     E        Am
-Cu pretenarii și cu fetele.
-
-Ce-mi plăcea s-o facem lată, asta-mi era boala
-Unde n-ajungeam vreodată, asta era școala
-N-am nici bani, n-am nici mașină și de datorii sunt full
-Am o gașcă și-o chitară și-asta mi-e destul
-
-Refren:
-Însă bănuțul nu s-a arătat
-Și fericirea iute s-a stricat
-/Așa că beau, beau, golesc paharele
-Cu pretenarii și cu fetele/ x3
-
-Refren:
-Însă banuțul nu s-a arătat
-Și fericirea iute s-a stricat
-Așa că beau, beau, și-mi bag picioarele
-În tot ce ține de tranziție
-```
-
-#### 202. Boxerul
+#### 223. Boxerul
 
 **Pasărea Colibri** · muzica/versuri: Paul Simon/Paul Simon/trad. Florian Pittis · Sursa: Cărticica Karban, p. 104
 
@@ -10172,7 +11171,7 @@ Dar ră[F]mâne pumnul [C]strâns lai lai [G]lai lai [F]lai lai [C]lai lai
 Refren:
 ```
 
-#### 203. Bunica
+#### 224. Bunica
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 95
 
@@ -10215,7 +11214,7 @@ Refren 2X +
 [G]Mă ierți bu[Em]nico [C]mă ie[D]rți
 ```
 
-#### 204. Ca o stea
+#### 225. Ca o stea
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/ca-o-stea-2655)
 
@@ -10261,7 +11260,7 @@ Sau aripi să-mi creasca să zbor
 Refren x2
 ```
 
-#### 205. Caii liberi
+#### 226. Caii liberi
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 146 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/caii-liberi-1645)
 
@@ -10314,7 +11313,7 @@ Caii liberi nu se vând
 Caii sunt un ideal.
 ```
 
-#### 206. Calul din Malboro
+#### 227. Calul din Malboro
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 35 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/calul-din-marlboro-520)
 
@@ -10348,7 +11347,7 @@ De-atuncea pân-acum în oraș eu rătăcesc
 E fum și este scrum și simt că-nebunesc
 ```
 
-#### 207. Canadiana
+#### 228. Canadiana
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 33 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/canadiana-1561)
 
@@ -10417,7 +11416,7 @@ Cu prefix de la Canada
 Refren Xn
 ```
 
-#### 208. Canarul (I)
+#### 229. Canarul (I)
 
 **Phoenix/Pasărea Colibri** · Sursa: Cărticica Karban, p. 117
 
@@ -10446,7 +11445,7 @@ Refren Xn
 [C]Și viersu-i [Em7]se [F]pierdea în [C]vânt
 ```
 
-#### 209. Canarul (II)
+#### 230. Canarul (II)
 
 **Phoenix/Pasărea Colibri** · muzica/versuri: F. Bordeianu, N. Covaci/V. Suvagau · Sursa: Cărticica Karban, p. 118
 
@@ -10476,7 +11475,7 @@ Refren
 Notă:O variantă mai simplă a melodiei. Recomandata pentru începători J
 ```
 
-#### 210. Când s-o-mpărțit norocu'
+#### 231. Când s-o-mpărțit norocu'
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 75 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/cand-s-o-mpartit-norocu-299)
 
@@ -10526,7 +11525,7 @@ D'a mea parte norii bat.
 SĂ plec pe păduri cântând.
 ```
 
-#### 211. Când se lasă seara
+#### 232. Când se lasă seara
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Cărticica Karban, p. 165
 
@@ -10576,7 +11575,7 @@ Refren:
 Refren:
 ```
 
-#### 212. Cântec bătrânesc
+#### 233. Cântec bătrânesc
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 42
 
@@ -10601,7 +11600,7 @@ Păi c-așa-i viața omului, c-așa-i viața omului
 Ca și floarea câmpului, astăzi este pa mâini nu-i.
 ```
 
-#### 213. Cântec în noapte
+#### 234. Cântec în noapte
 
 **Unde** · Sursa: Caiet cabană RO, p. 149 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/unde/cantec-in-noapte-1614)
 
@@ -10636,7 +11635,7 @@ Greu se lasă, greu se lasă
 Dumnezeul pietrelor.
 ```
 
-#### 214. Cântec pentru Charlie Chaplin
+#### 235. Cântec pentru Charlie Chaplin
 
 **Victor Socaciu** · muzica/versuri: Victor Socaciu/? · Sursa: Cărticica Karban, p. 148
 
@@ -10678,7 +11677,7 @@ Refren
 Refren
 ```
 
-#### 215. Cântec pentru tine
+#### 236. Cântec pentru tine
 
 Sursa: Caiet cabană RO, p. 148 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/odyssey/cantec-pentru-tine-7966)
 
@@ -10737,7 +11736,7 @@ R:
 Niciodată, câteodată, soțul tău, uneori.
 ```
 
-#### 216. Cântec șoptit (I)
+#### 237. Cântec șoptit (I)
 
 **Poesis(Pasărea Colibri** · variantă a cântecului „Cântec șoptit”, cu titlul „Odată am ucis o vrabie...” · Sursa: Caiet cabană RO, p. 109
 
@@ -10775,7 +11774,7 @@ Soarele apune după niște mări
 Și răsare-n flăcări din mare.
 ```
 
-#### 217. Cântec șoptit (II)
+#### 238. Cântec șoptit (II)
 
 **Poesis(Pasărea Colibri** · muzica/versuri: Marius Bătu/Zaharia Stancu · Sursa: Cărticica Karban, p. 133
 
@@ -10804,7 +11803,7 @@ Soarele apune după niște mări
 [G]Și răsare-n [A]flăcări din [D]mare
 ```
 
-#### 218. Cântecul bufonului (I)
+#### 239. Cântecul bufonului (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/cantecul-bufonului-436)
 
@@ -10850,7 +11849,7 @@ Dacă v-au plăcut bufonii
 Mai poftiți și-n altă seară !
 ```
 
-#### 219. Cântecul bufonului (II)
+#### 240. Cântecul bufonului (II)
 
 **Dan Andrei Aldea/Pasărea Colibri** · muzica/versuri: Dan Andrei Aldea/W. Shakespeare trad. Mihnea Gheorghiu · Sursa: Cărticica Karban, p. 10
 
@@ -10883,101 +11882,7 @@ Notă: O forma simplificata de a cânta acest cântec este folosind doar cu
 acordul C la fiecare prim vers al strofelor.
 ```
 
-#### 220. Caravanele (I)
-
-**populara?/traditonal?** · Sursa: Caiet cabană RO, p. 72
-
-**Chitară:** A x02220 · D xx0232 · E 022100
-
-**Ukulele:** A 2100 · D 2220 · E 4442
-
-```text
-1.
-    A
-Și-aseară au venit
-     D        E       A
-Țiganii în satul meu
-Câinii toți lătrau
-Și țigăncile dansau.
-
-R:
-Caravanele, caravanele
-Ia uitați țigăncile!
-Caravanele, caravanele
-Cum le joacă fustele.
-
-2.
-Și-n șatră era
-O Țigancă frumușa
-Cine o vedea
-De ea se îndrăgostea.
-
-3.
-Și-un băiat din sat
-De țigancă a aflat
-Și la ea s-a dus
-Și norocul i l-a spus.
-
-4.
-Constantin te cheamă
-Dragă călătorule
-EȘti băiat de seamă
-Dar te strică fetele.
-
-5.
-Și-aseară au plecat
-Țiganii din satul meu
-Câinii toți lătrau
-Și țigăncile dansau.
-```
-
-#### 221. Caravanele (II)
-
-**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 222
-
-**Chitară:** A x02220 · E 022100 · D xx0232
-
-**Ukulele:** A 2100 · E 4442 · D 2220
-
-```text
-[A]Și-aseară au venit
-[E]Și-aseară au venit
-[D]Țiga[E]nii în satul [A]meu
-[A]Câinii toți lătrau
-[E]Câinii toți lătrau
-[D]Și ți[E]găncile dan[A]sau.
-Refren:
-[A]Caravanele, [E]caravanele
-[D]Ia ui[E]tați țigăn[A]cile!
-[A]Caravanele, [E]caravanele
-[D]Cum le [E]joacă fus[A]tele.
-[A]Și-n satra era
-[E]Și-n satra era
-[D]O ți[E]gancă fru[A]mușa
-[A]Cine o vedea
-[E]Cine o vedea
-[D]De ea [E]se îndrăgos[A]tea.
-[A]Și-un băiat din sat
-[E]Și-un băiat din sat
-[D]De ți[E]gancă a a[A]flat
-[A]Și la ea s-a dus
-[E]Și la ea s-a dus
-[D]Și no[E]rocul i l-a [A]spus.
-[A]Constantin te cheamă
-[E]Constantin te cheamă
-[D]Dragă [E]călătoru[A]le
-[A]Ești băiat de seama
-[E]Ești băiat de seama
-[D]Dar te [E]strică fete[A]le.
-[A]Și-aseară au plecat
-[E]Și-aseară au plecat
-[D]Țiga[E]nii din satul [A]meu
-[A]Câinii toți lătrau
-[E]Câinii toți lătrau
-[D]Și ți[E]găncile dan[A]sau.
-```
-
-#### 222. Castelul
+#### 241. Castelul
 
 Sursa: Caiet cabană RO, p. 139 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/castelul-6640)
 
@@ -11021,7 +11926,7 @@ Scăldată de ultimul brio
 Și "La revedere" și "Adio".
 ```
 
-#### 223. Casuta din pădure
+#### 242. Casuta din pădure
 
 muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
 
@@ -11065,7 +11970,7 @@ muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
 Notă: Măsura cântecului e 2/4
 ```
 
-#### 224. Ce de lupi se înconjoară
+#### 243. Ce de lupi se înconjoară
 
 **Pasărea Colibri** · muzica/versuri: Nicu Vladimir/Nicu Vladimir · Sursa: Cărticica Karban, p. 105
 
@@ -11112,115 +12017,7 @@ Notă: Măsura cântecului e 2/4
 [F]Nu te-opri a[Em]cum, [F]nu te-opri a[Em]cum
 ```
 
-#### 225. Ce mult te-am iubit Paraschivo (I)
-
-**Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 44 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/ce-mult-te-am-iubit-paraschivo-4914)
-
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
-
-**Ukulele:** Am 2000 · E 4442 · Dm 2210
-
-```text
-Am                         E
-Ce mult te-am iubit, Paraschivo
-Dm                      Am
-Ți-am zis-o de-o mie de ori
-Dm
-Și ca drept dovadă
-Am
-Ți-am adus grămadă
-E                    Am
-Vreo 3 basculante de flori
-Dm
-Și ca drept dovadă
-Am
-Ți-am adus gramadă
-        E               Am
-Bă vreo 3 basculante de flori.
-
-Te-am luat de la mă-ta de-acasă
-În fustă și făr' de jupon
-Ți-am luat și poșetă,
-Ți-am luat și jachetă
-Și-o geacă mișto de nailon.
-Ți-am luat și poșetă,
-Ți-am luat și jachetă
-Și-o rochie mișto de nailon.
-
-Te-am si cultivat, Paraschivo
-Te-am dus la chermeză și meci
-Ți-am luat și bomboane, fă
-Ți-am luat și sămânță
-Tu faci pe nasoala și pleci
-
-Ți-am luat și bomboane,
-Ți-am luat și sămânța
-Fă, tu faci pe nasoala și pleci.
-
-La dragostea mea aia mare
-Mai spun 2 vorbe si atat
-Când iese luna
-Îmi scot brăcinarii
-Bă, mă spânzur cu mă-ta de gat
-Că când iese luna
-Îmi scot brăcinarii
-Mă spânzur cu mă-ta de gât.
-
-Când tac-tu' blonav de holeră
-În 3-4 zile a crăpat
-Și bani de tămaie,
-Și bani de colivă
-Tot Mandea săracu' ți-a dat
-Și bani de colivă,
-Și bani de tămaie
-Tot Mandea săracu' ți-a dat.
-
-Dar dacă te prind Paraschivo
-La braț cu alt gealan
-Îti iau și pșseta,
-Îti bat și gagiul
-Și... o sută de pumni iei în cap
-Îti bat și poșeta,
-Îti iau și gagiul
-Și o sută de pumni iei în cap!
-```
-
-#### 226. Ce mult te-am iubit Paraschivo (II)
-
-Sursa: Cărticica Karban, p. 248
-
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
-
-**Ukulele:** Am 2000 · Dm 2210 · E 4442
-
-```text
-[No Chord]Eu te-am iubit Paraschivo[Am]
-[No Chord]Ți-am zis-o de-o-mie de dați[Dm]
-[Dm]Și drept ca dovadă ți-am [Am]luat marmelada
-Ți-am [E]luat și-o bascula cu [Am]flori.
-[Dm]Și drept ca dovadă ți-am [Am]luat marmelada
-Ți-am [E]luat și-o bascula cu [Am]flori.
-[No Chord]Te-am luat de la mata de-acasă[Am]
-[No Chord]În fusta și fără jupon[Dm]
-[Dm]Ți-am luat țoale-n casă, [Am]ciorapi de mătasă
-Și-o fusta, [E]mișto, de [Am]naylon.
-[Dm]Ți-am luat țoale-n casă, [Am]ciorapi de mătasă
-Și-o fusta, [E]mișto, de [Am]naylon.
-[No Chord]Te-am cultivat Paraschivo[Am]
-[No Chord]Te-am dus la teatru și la meci[Dm]
-[Dm]Ți-am luat înghețată ți-am [Am]luat și semințe
-Tu [E]faci pe nasoala și [Am]pleci.
-[Dm]Ți-am luat înghețată ți-am [Am]luat și semințe
-Tu [E]faci pe nasoala și [Am]pleci.
-[No Chord]De te-aș prinde eu Paraschivo[Am]
-[No Chord]Braț la braț cu-un alt bărbat[Dm]
-[Dm]Ți-aș bate gagiu, ți-aș [Am]rupe juponu,
-Ți-aș [E]spune [No Chord]hai bâshti și-aș [Am]pleca.
-[Dm]Ți-aș bate gagiu, ți-aș [Am]rupe juponu,
-Ți-aș [E]spune [No Chord]hai bâshti și-aș [Am]pleca.
-```
-
-#### 227. Ceasornicarul (I)
+#### 244. Ceasornicarul (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 41 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/ceasornicarul-2977)
 
@@ -11280,7 +12077,7 @@ Tu ia-ti secunda fi vesnic prin ea
 Secunda-i mireasa ta
 ```
 
-#### 228. Ceasornicarul (II)
+#### 245. Ceasornicarul (II)
 
 **Mircea Baniciu** · Sursa: Cărticica Karban, p. 38
 
@@ -11324,7 +12121,7 @@ Refren:
 [E]Secunda-i mireasa [Am]ta
 ```
 
-#### 229. Cerbul
+#### 246. Cerbul
 
 **Craii Dianei** · Sursa: Caiet Christian Adventure, p. 45 · Caiet cabană RO, p. 162 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/cerbul-2694)
 
@@ -11413,7 +12210,7 @@ Milos și bun și iubitor
 Și de podoaba codrilor/ x2
 ```
 
-#### 230. Ciobănaș cu trei sute de oi
+#### 247. Ciobănaș cu trei sute de oi
 
 **Tradițional** · Sursa: Cărticica Karban, p. 203
 
@@ -11438,7 +12235,7 @@ Notă: Măsura 3/4. Cântecul e foarte simplu merge cântat și folosind o
 progresie D A7 C în locul celei D G7 F
 ```
 
-#### 231. Cireșarii
+#### 248. Cireșarii
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ciresarii-3702)
 
@@ -11476,7 +12273,7 @@ Cât aș vrea din nou să-mi semeni c-o oglindă uriașă
 Doar cireșii când îi scuturi ochii tăi, copilărie.
 ```
 
-#### 232. Cireșul
+#### 249. Cireșul
 
 Sursa: Caiet cabană RO, p. 62
 
@@ -11524,7 +12321,7 @@ Legalizată-n orice parlament
 Această conspirație în doi.
 ```
 
-#### 233. Ciuleandra
+#### 250. Ciuleandra
 
 Sursa: Cărticica Karban, p. 204
 
@@ -11551,7 +12348,7 @@ Sursa: Cărticica Karban, p. 204
 [Am]La la la la [C]la [Am]hop [E]s-a[Am]șa!
 ```
 
-#### 234. Colo-n vale
+#### 251. Colo-n vale
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 47 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/colo-n-vale-3664)
 
@@ -11608,7 +12405,7 @@ Drumul ți l-aș fereca
 Refren + Refren 2
 ```
 
-#### 235. Copacii fără pădure
+#### 252. Copacii fără pădure
 
 Sursa: Caiet cabană RO, p. 124
 
@@ -11661,7 +12458,7 @@ FĂră brațe cu ochii pustii
 N-am să am ce întinde spre tine.
 ```
 
-#### 236. Copacul îndrăgostit
+#### 253. Copacul îndrăgostit
 
 **Ștefan Hrușcă** · muzica/versuri: Un copac cu flori · Sursa: Cărticica Karban, p. 81
 
@@ -11704,7 +12501,7 @@ Lasă-mi doar acest noroc
 Să-nflor[C]esc la poarta [G]ta
 ```
 
-#### 237. Corina
+#### 254. Corina
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 184
 
@@ -11741,7 +12538,7 @@ Poate [D]tu doar tu Co[G]rina. [Em]
 Refren
 ```
 
-#### 238. Cu tine în gând
+#### 255. Cu tine în gând
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 51
 
@@ -11814,7 +12611,7 @@ Mă trezesc, singur, din nou cu
 tine în gând
 ```
 
-#### 239. Cucul
+#### 256. Cucul
 
 Sursa: Cărticica Karban, p. 257
 
@@ -11850,7 +12647,7 @@ Cu-cu, cu-cu!
 Notă: Măsura cântecului e 3/4
 ```
 
-#### 240. Cucule pasăre grasă
+#### 257. Cucule pasăre grasă
 
 muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
 
@@ -11880,7 +12677,7 @@ muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
 Notă:Măsura cântecului e 3/4
 ```
 
-#### 241. Dacă ai ghici
+#### 258. Dacă ai ghici
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 137 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/daca-ai-ghici-1453)
 
@@ -11934,7 +12731,7 @@ Puneți-l în păr
 Lângă o cunună de măr.
 ```
 
-#### 242. Dacă dragoste nu e...
+#### 259. Dacă dragoste nu e...
 
 Sursa: Caiet cabană RO, p. 132
 
@@ -11983,7 +12780,7 @@ Luau duminici cu-mprumuturi
 SĂ le transforme în săruturi.
 ```
 
-#### 243. Dacă n-ai amintiri
+#### 260. Dacă n-ai amintiri
 
 **Anotimpul 5** · Sursa: Caiet Christian Adventure, p. 52 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/daca-n-ai-amintiri-3667)
 
@@ -12029,7 +12826,7 @@ Dacă n-ai ars niciodată
 Refren x2
 ```
 
-#### 244. Dacă pleci
+#### 261. Dacă pleci
 
 **Cătălin Crișan** · Sursa: Caiet Christian Adventure, p. 53 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/catalin-crisan/daca-pleci-1004)
 
@@ -12065,7 +12862,7 @@ Nu te-aș ierta.
 Refren x2
 ```
 
-#### 245. Dacă vrei
+#### 262. Dacă vrei
 
 **Celelalte Cuvinte** · muzica/versuri: Marcel Breazu, Marcel Breazu · Sursa: Cărticica Karban, p. 56
 
@@ -12095,7 +12892,7 @@ Refren x2
 [D]lasă-mă să [Am]cânt[G]...
 ```
 
-#### 246. Dacă vrei să pleci
+#### 263. Dacă vrei să pleci
 
 Sursa: Caiet cabană RO, p. 125 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/daca-vrei-sa-pleci-5416)
 
@@ -12137,7 +12934,7 @@ MĂ zbat acum și tu-mi vei răspunde
 Cu-acea privire ne-nțeleasă.
 ```
 
-#### 247. Dans
+#### 264. Dans
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/??? · Sursa: Cărticica Karban, p. 43
 
@@ -12169,7 +12966,7 @@ Refren:
 [F]În nisip scrâsnita, lasă [G]remuș[C]care.
 ```
 
-#### 248. Dansul codrilor
+#### 265. Dansul codrilor
 
 **Phoenix** · Sursa: Cărticica Karban, p. 132
 
@@ -12193,7 +12990,7 @@ He Heeee
 [Em]Zeci de [D]umbre [Em]negre.
 ```
 
-#### 249. De ce
+#### 266. De ce
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 186
 
@@ -12222,7 +13019,7 @@ De [C]ce, de [Am]ce
 De [C]ce.
 ```
 
-#### 250. De ce?
+#### 267. De ce?
 
 Sursa: Caiet cabană RO, p. 157 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/de-ce-2931)
 
@@ -12255,7 +13052,7 @@ De ce pe stradă oriunde mergând?
 De ce îmi stai mereu în gând?
 ```
 
-#### 251. De-ar fi mândra-n deal la cruce
+#### 268. De-ar fi mândra-n deal la cruce
 
 Sursa: Cărticica Karban, p. 205
 
@@ -12294,7 +13091,7 @@ Sursa: Cărticica Karban, p. 205
 [D]Scrisa cu la[A]crimi de-a mele, [E]la, la, la, [A]la.
 ```
 
-#### 252. Dealul cu dor
+#### 269. Dealul cu dor
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 30
 
@@ -12331,7 +13128,7 @@ Refren:
 Refren:
 ```
 
-#### 253. Deku
+#### 270. Deku
 
 **ROA** · Sursa: Caiet Christian Adventure, p. 57
 
@@ -12371,7 +13168,7 @@ Luna pe cer i-adună..
 Refren x2
 ```
 
-#### 254. Delir
+#### 271. Delir
 
 Sursa: Caiet cabană RO, p. 53
 
@@ -12414,7 +13211,7 @@ Obrazul și-n vis ți-l văd delirând
 Iar tu in visare nu vezi decât alta.
 ```
 
-#### 255. Delirul
+#### 272. Delirul
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 56 · Caiet cabană RO, p. 60 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/delirul-672)
 
@@ -12477,7 +13274,7 @@ Te-aștept să te întorci mereu.
 Refren x2
 ```
 
-#### 256. Departe
+#### 273. Departe
 
 **Hara** · muzica/versuri: Tudor Runcanu/Tudor Runcanu · Sursa: Cărticica Karban, p. 72
 
@@ -12511,7 +13308,7 @@ trucuri la intro și pe la mijloc dar poate ca astea nu sunt neapărat
 necesare.
 ```
 
-#### 257. Dintr-o cafea (I)
+#### 274. Dintr-o cafea (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 60 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/dintr-o-cafea-1394)
 
@@ -12571,7 +13368,7 @@ Clanța-n mâna dreaptă mi-a rămas.
 Refren
 ```
 
-#### 258. Dintr-o cafea (II)
+#### 275. Dintr-o cafea (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 166
 
@@ -12608,7 +13405,7 @@ Cu[Am]reaua,
 Refren:
 ```
 
-#### 259. Dintre sute de catarge
+#### 276. Dintre sute de catarge
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 134
 
@@ -12635,7 +13432,7 @@ Refren:
 [Am]Valurile, [E]vânturi[Am]le.
 ```
 
-#### 260. Doi ochi căprui
+#### 277. Doi ochi căprui
 
 **Bmby** · alt titlu: „Ochii căprui” · Sursa: Caiet Christian Adventure, p. 61 · Caiet cabană RO, p. 54
 
@@ -12684,7 +13481,7 @@ Iar eu ca-ntotdeauna îi credeam
 Refren
 ```
 
-#### 261. Dona, dona (I)
+#### 278. Dona, dona (I)
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 145
 
@@ -12727,7 +13524,7 @@ De ce n-ai ca rândunica
 Aripi ca zborul să-l înveți.
 ```
 
-#### 262. Dona, dona (II)
+#### 279. Dona, dona (II)
 
 **Victor Socaciu** · muzica/versuri: Sholom Secunda/Sholom Secunda/trad. ? · Sursa: Cărticica Karban, p. 149
 
@@ -12765,7 +13562,7 @@ urmatoarul model:
 ------------
 ```
 
-#### 263. Dorul
+#### 280. Dorul
 
 **Aurelian Andreescu** · muzica/versuri: ???/??? · Sursa: Cărticica Karban, p. 23
 
@@ -12805,7 +13602,7 @@ Bridge
 Refren
 ```
 
-#### 264. Dracula blues
+#### 281. Dracula blues
 
 **Alexandru Andrieș** · muzica/versuri: Alexandru Andrieș/Alexandru Andrieș · Sursa: Cărticica Karban, p. 25
 
@@ -12853,7 +13650,7 @@ Dacă îți place o forma mai "rock" poți folosi și acordurile A5, D5(în pozi
 a 5-a) și E5(în poziția a 7-a)...vezi punctul de "powerchords"...
 ```
 
-#### 265. Dragă Otee
+#### 282. Dragă Otee
 
 **Zdub&Zdob** · muzica/versuri: Zdub&Zdob/Zdub&Zdob · Sursa: Cărticica Karban, p. 178
 
@@ -12904,7 +13701,7 @@ Melodie transpusa în Em (din C#m cred)
 Legenda tab: O-optime; P-pătrime; S-șaisprezecime
 ```
 
-#### 266. Dragoste în fân (I)
+#### 283. Dragoste în fân (I)
 
 **Dragoș Bălan** · Sursa: Caiet Christian Adventure, p. 67
 
@@ -12955,7 +13752,7 @@ Privindu-te în luciul blând de coasă
 Refren
 ```
 
-#### 267. Dragoste în fân (II)
+#### 284. Dragoste în fân (II)
 
 variantă a cântecului „Dragoste în fân”, cu titlul „La strâns de fân” · Sursa: Caiet cabană RO, p. 26
 
@@ -13004,7 +13801,7 @@ Am Dm
 E Am
 ```
 
-#### 268. Dragostea cu patru foi
+#### 285. Dragostea cu patru foi
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/Dan Verona · Sursa: Cărticica Karban, p. 138
 
@@ -13034,7 +13831,7 @@ Refren:
 Refren
 ```
 
-#### 269. Dragostea e o salata
+#### 286. Dragostea e o salata
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Horia Stoicanu/Horia Stoicanu · Sursa: Cărticica Karban, p. 167
 
@@ -13067,7 +13864,7 @@ Iar [Am]fetele, [Am]dragă, [Dm]fetele, [Dm]oh
 [F]Și mă înva[G]ță iar și [C]iar [G]ca...
 ```
 
-#### 270. Dragostea pasarii
+#### 287. Dragostea pasarii
 
 **Mircea Bodolan** · muzica/versuri: Mircea Bodolan/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 52
 
@@ -13124,7 +13921,7 @@ C       Em/B    Am     G
 |-------------------------3----------|
 ```
 
-#### 271. După pui de moroșan
+#### 288. După pui de moroșan
 
 **Popular din maramureș** · Sursa: Cărticica Karban, p. 208
 
@@ -13182,7 +13979,7 @@ C       Em/B    Am     G
 [D]Hai țurai, ta!
 ```
 
-#### 272. Emoție de toamnă (I)
+#### 289. Emoție de toamnă (I)
 
 **Nicu Alifantis** · Sursa: Caiet Christian Adventure, p. 68 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/emotie-de-toamna-3223)
 
@@ -13222,7 +14019,7 @@ Refren
 Strofa 2
 ```
 
-#### 273. Emoție de toamnă (II)
+#### 290. Emoție de toamnă (II)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Nichita Stanescu · Sursa: Cărticica Karban, p. 17
 
@@ -13250,7 +14047,7 @@ Strofa 2
 Notă: Strofele se repetă o dată în aceeași ordine.
 ```
 
-#### 274. Emoție de toamnă (III)
+#### 291. Emoție de toamnă (III)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Nichita Stanescu · Sursa: Cărticica Karban, p. 18
 
@@ -13286,7 +14083,7 @@ A||----------------||
 E||----------------||
 ```
 
-#### 275. Epilog
+#### 292. Epilog
 
 Sursa: Caiet cabană RO, p. 59 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/epilog-658)
 
@@ -13320,7 +14117,7 @@ Peste valuri călător
 Prada moartă-n gheare...
 ```
 
-#### 276. Era Vasile om frumos
+#### 293. Era Vasile om frumos
 
 **Ada Milea** · muzica/versuri: Ada Milea/Ada Milea · Sursa: Cărticica Karban, p. 99
 
@@ -13353,7 +14150,7 @@ A           D           E
 -----------|-----------|-0---------|
 ```
 
-#### 277. Esarfa în dar
+#### 294. Esarfa în dar
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Victor Carcu · Sursa: Cărticica Karban, p. 31
 
@@ -13400,7 +14197,7 @@ Pe chipul tău [Em]drag,
 Notă: Pentru tonalitatea originala folosește capo în poziția a 2-a.
 ```
 
-#### 278. Ești așa frumoasă
+#### 295. Ești așa frumoasă
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 69
 
@@ -13450,61 +14247,7 @@ Esti așa frumoasă și dacă m-ai iubi, aș atinge luna
 Ești așa frumoasă și ne-am iubi o viață într-o zi
 ```
 
-#### 279. Fără petale (I)
-
-**Doru Stănculescu** · Sursa: Caiet cabană RO, p. 150
-
-**Chitară:** C x32010 · E 022100 · Am x02210 · F 133211 · G7 320001
-
-**Ukulele:** C 0003 · E 4442 · Am 2000 · F 2010 · G7 0212
-
-```text
-Doru Stănculescu
-1.
-    C       E  Am       F
-Nisipul fin a oftat
-    C             G7           C          G7
-Zâmbește-n el o urmă de păcat
-E semn c-aici în zadar
-ÎȘi cheamă luna lupii la altar.
-R:
-Cearcăn, cearcăn, piaptănă
-Ochii ei mă-ncearcănă.
-
-2.
-Stropi de vină îngropat
-Ciorchini de sare fața i-au spălat
-Cristale reci țes în fum
-Coperți de aur pe-un sicriu de scrum.
-```
-
-#### 280. Fără petale (II)
-
-**Doru Stănculescu** · muzica/versuri: Doru Stănculescu/??? · Sursa: Cărticica Karban, p. 153
-
-**Chitară:** C x32010 · Em 022000 · Am x02210 · F 133211 · G 320003
-
-**Ukulele:** C 0003 · Em 0432 · Am 2000 · F 2010 · G 0232
-
-```text
-[C]Nisipul [Em]fin a [Am]oftat
-[F]Zâmbește-n [C]el o ur[G]ma de pă[C]cat
-[C]E semn c-[Em]aici în [Am]zadar
-[F]Își cheamă luna [C]lupii [G]la al[C]tar
-[C]Un strop de [Em]vină îngro[Am]pat
-[F]Ciorchini de [C]sare
-[G]Fata i-au spă[C]lat
-[C]Cristale recii [Em]țes în [Am]fum
-[F]Coperta-n [C]aur și-n [G]sicriu de [C]scrum.
-Refren:
-[C]Încearcă, încearcă, îmi [Em]piaptănă
-Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a, aaa[G]a, aaa[C]a, aaa[G]a [C]
-[C]Încearcă, încearcă, îmi [Em]piaptănă
-Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a, aaa[G]a, aaa[C]a, aaa[G]a [C]
-Da capo al fine + 2xRefren
-```
-
-#### 281. Fata din vis
+#### 296. Fata din vis
 
 **Compact** · Sursa: Caiet Christian Adventure, p. 73 · Caiet cabană RO, p. 99 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/fata-din-vis-603)
 
@@ -13558,7 +14301,7 @@ Dacă vrei, dacă vrei
 Voi sta lânga tine.
 ```
 
-#### 282. Fata morgană
+#### 297. Fata morgană
 
 Sursa: Caiet cabană RO, p. 156 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fata-morgana-2222)
 
@@ -13598,215 +14341,7 @@ De-atunci eu stau la fereastră, bentița roșie-o aștept
 Ea vine-odată cu fata ce-aduce soarele-n piept.
 ```
 
-#### 283. Fată verde (I)
-
-**Phoenix** · Sursa: Caiet Christian Adventure, p. 74 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fata-verde-451)
-
-**Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
-
-**Ukulele:** Am 2000 · C 0003 · G 0232 · F 2010
-
-```text
-Am          C     G
-Fată verde cu părul pădure
-Fată verde cu părul pădure
-Simți cu privirea lor vrea să te fure
-
-Refren:
- F        C G   Am
-Noaptea-n ei țese ie
-Zburătorii ca să vie
-Noaptea-n ei țese ie
-Nimeni urma să le-o știe
-
-Fată verde ei te sărută
-Cu privirea lor cea mută
-Ochii negrii, ochi de țigani
-
-Refren
-
-        G             C
-Bridge: Umezi sunt de dor
-          F         G
-Și-al lor vis plin de zbor
-G          C
-Noapte ei se scaldă
-În sclipiri ca de salbă
-      F      G
-În sclipiri de salbă
-
-Fată verde cu părul pădure
-Fată verde cu părul pădure
-Simți cum privirea lor vrea să te fure
-
-Refren
-```
-
-#### 284. Fată verde (II)
-
-**Phoenix** · variantă a cântecului „Fată verde”, cu titlul „Ochi negri, ochi de țigan” · Sursa: Caiet cabană RO, p. 81 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/ochi-negri-ochi-de-tigan-8786)
-
-**Chitară:** Am x02210 · C x32010 · G 320003 · E 022100 · F 133211
-
-**Ukulele:** Am 2000 · C 0003 · G 0232 · E 4442 · F 2010
-
-```text
-Phoenix
-1.
-Am          C       G
-Fată verde cu părul pădure
-Fată verde cu părul pădure
-Simți cum privirea lor vrea să te fure.
-
-R:
-          Am       E         G       F       E
-Noaptea-n ei țese ie, nimeni urma să ne-o știe
-Noaptea-n ei țese ie, zburătorii ca să vie.
-    G           C             F      C     G
-Umezi sunt de dor și-al lor vis plin de zbor
-Noaptea-n ei se scaldă în priviri ca de salbă.
-
-2.
-Fată verde ei te sărută
-Cu privirea lor cea mută
-Ochii negri, ochi de țigan.
-```
-
-#### 285. Fată verde (III)
-
-**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 126
-
-**Chitară:** Em 022000 · G 320003 · D xx0232 · C x32010 · Am x02210
-
-**Ukulele:** Em 0432 · G 0232 · D 2220 · C 0003 · Am 2000
-
-```text
-[Em]Fată verde cu [G]părul [D]pădure
-[Em]Fată verde cu [G]părul [D]pădure
-[Em]Simți cum privirea lor [G]vrea să te [D]fure
-Refren:
-[G]Noaptea-n ei [D]țese [Em]ie
-[G]Zburătorii [D]ca să [Em]vie
-[G]Noaptea-n ei [D]țese [Em]ie
-Nimeni [G]urma [D]să le-o [Em]știe
-[Em]Fată verde [G]ei te să[D]rută
-[Em]Cu privirea [G]lor cea [D]mută
-[Em]Ochii negri, [G]ochi de [D]țigan
-Refren:
-[D]Umezi sunt de [G]dor
-Și-al lor [C]vis [G]plin de [Am]zbor
-[D]Noaptea-n ei se [G]scaldă
-În scli[C]piri [G]ca de [Am]salbă
-```
-
-#### 286. Femei, femei
-
-**Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 75 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/femei-femei-2707)
-
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
-
-**Ukulele:** Am 2000 · Dm 2210 · E 4442
-
-```text
-Am             Dm
-Nu e nimeni pe stradă
-                     Am
-Ochii triști să mi-i vadă...
-    E
-A, nu-i nimeni pe stradă
-               Am
-Să mă vadă cum plâng.
-
-Doar un gabor de seară,
-Ce-a venit ca să-mi ceară
-Să-și aprind-o țigară
-M-a văzut lăcrimând...
-
-Refren:
-
-Femei, femei, (asa...)
-E plină lumea de nebune, (da' cum.
-Cine v-a adus pe lume, (cine?)
-Cine oare v-a făcut? (cine oare, ce
-oare?)
-Femei, femei,
-E plină lumea de nebune, (buneee)
-Cine v-a adus pe lume,
-Cine oare v-a făcut? (eu nu)
-
-Și-acel gabor de seară, (a gabor)
-Ce-a venit ca să-mi ceară, (aaa)
-A zis râzând către mine (a, deci
-
-gaboru' a zis râzând)
-"Wai, decât să-ți fie rău mai bine
-să-ți fie bine!" (al dracu' băi)
-
-Refren:
-
-Femei, femei, (ia zi bă ce)
-E plină lumea de nebune, (ei nu
-mai spune, frate)
-Cine v-a adus pe lume, (hai, bă,
-fii serios acuma)
-Cine oare v-a făcut? (aha, aha!
-aha...)
-Bărbati, bărbati, (aicea,
-hahahaha)
-E plină lumea de ratați, (aoleu)
-De supărați și de-ncordați, (ia
-..)
-vezi, alo...)
-Nu știți decât să vă-mbătați! (ia
-stai să te prind o dată beat să
-vezi tu care-i treaba...)
-
-Refren:
-
-Bărbați, bărbați,
-E plină lumea de ratați,
-De supărați și de-ncordați,
-Nu știti decât să vă-mbătați!
-```
-
-#### 287. Floare albă, floare neagră
-
-Sursa: Cărticica Karban, p. 228
-
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
-
-**Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
-
-```text
-[Am]Floare albă, [G]floare [C]neagră
-[F]Tu mi-ai spus că [C]îți sunt dragă
-[Dm]Și-ai să furi din [Am]cer cinci stele
-[E]Să-mi faci [Am]salbă [E]și mar[Am]gele.
-[Am]Eu pe tine [G]nu te mai do[C]resc
-[F]Mie-mi place [C]viata să-mi trăiesc
-[Dm]Eu pe tine [Am]nu te mai doresc
-[E]Fără ba[Am]ni eu nu [E]te mai iu[Am]besc
-Refren:
-[Am]Lai la la la [G]lai la la [C]lai
-[F]Lai la la la [C]lai lai
-[Dm]Lai la la la [Am]la lai
-[E]Lai la [Am]la [E]la la [Am]lai
-Note:^Cântecul este de fapt identic cu melodia "Satra" și este doar o
-variantă cu alte versuri.
--Se poate acompania cu un ritm (tip brushing cu/sau fără bass alternativ) de
-forma "bum chak-a" (vezi tabulatura, exemplificat aici pentru Am):
-P       ^          ^
-E||-------0--0-------0--0--||
-B||-------1--1-------1--1--||
-G||-------2--2-------2--2--||
-D||-------------2----------||
-A||--0---------------------||
-E||------------------------||
--În filmul "Satra" melodia se cheamă "Nane tsokha" adică "N-am cercei"  (Info
-de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
-```
-
-#### 288. Floarea
+#### 298. Floarea
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 180
 
@@ -13852,7 +14387,7 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 289. Fluier în cer
+#### 299. Fluier în cer
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 79 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fluier-in-cer-812)
 
@@ -13901,7 +14436,7 @@ Lumea se limpezea, se auzea,
 Cum bătea, inima.
 ```
 
-#### 290. Focul vânăt (I)
+#### 300. Focul vânăt (I)
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 168 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/focul-vanat-8740)
 
@@ -13951,7 +14486,7 @@ De iubire întâia oară cânt
 La scandal renunț întâia oară.
 ```
 
-#### 291. Focul vânăt (II)
+#### 301. Focul vânăt (II)
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Serghei Esenin/Trad.??? · Sursa: Cărticica Karban, p. 46
 
@@ -13986,7 +14521,7 @@ La scandal renunț întâia oară.
 [Em]La scandal re[B7]nunț intaia [Em]oară
 ```
 
-#### 292. Focuri vii
+#### 302. Focuri vii
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/focuri-vii-3204)
 
@@ -14025,7 +14560,7 @@ Pe pământu-mi liber din izvor ceresc
 Refren
 ```
 
-#### 293. Fostele iubiri
+#### 303. Fostele iubiri
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Gheorghe Țărnea · Sursa: Cărticica Karban, p. 82
 
@@ -14066,7 +14601,7 @@ Păream pe [Am]veci înlănțuiți
 Fără să [E]credem ca iubirea nu ne [Am]vrea. [A7]
 ```
 
-#### 294. Frumoasă-i vecina noastră
+#### 304. Frumoasă-i vecina noastră
 
 **Tiberiu Ceia** · Sursa: Cărticica Karban, p. 209
 
@@ -14096,7 +14631,7 @@ Refren:
 [A]Cu cine iu[D]besc.
 ```
 
-#### 295. Frunza
+#### 305. Frunza
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 32
 
@@ -14136,7 +14671,7 @@ Refren 1
 Refren 2
 ```
 
-#### 296. Frunza (I)
+#### 306. Frunza (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 138 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/frunza-1529)
 
@@ -14180,7 +14715,7 @@ Urgia toamnei care bântuie
 De ce mă înspăimântă frunzele.
 ```
 
-#### 297. Frunza (II)
+#### 307. Frunza (II)
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/ · Sursa: Cărticica Karban, p. 83
 
@@ -14216,7 +14751,7 @@ Refren
 Notă: Intro, intermediar și la final se poate fluiera pe acordurile Dm și A.
 ```
 
-#### 298. Gara
+#### 308. Gara
 
 Sursa: Caiet cabană RO, p. 140
 
@@ -14260,7 +14795,7 @@ Sala voastră de așteptare asta sunt eu
 Ca și celălalt din mine luați și mâncați.
 ```
 
-#### 299. Ghezesu'
+#### 309. Ghezesu'
 
 Sursa: Cărticica Karban, p. 244
 
@@ -14310,7 +14845,7 @@ Refren:
 [G]Ca tauru [C]nu mai poate.
 ```
 
-#### 300. Glosă
+#### 310. Glosă
 
 Sursa: Caiet cabană RO, p. 35
 
@@ -14343,7 +14878,7 @@ Toate-s vechi și nouă toate:
 Vreme trece, vreme vine.
 ```
 
-#### 301. Grasă
+#### 311. Grasă
 
 **Ada Milea** · Sursa: Cărticica Karban, p. 100
 
@@ -14382,7 +14917,7 @@ A         E
 -|---------|-0-0-0---|
 ```
 
-#### 302. Hai să ne imaginăm
+#### 312. Hai să ne imaginăm
 
 Sursa: Caiet cabană RO, p. 163
 
@@ -14419,7 +14954,7 @@ SĂ poți spera că ai fărâma ta de rai
 Pe-acest pământ de nori umbrit.
 ```
 
-#### 303. Hai, mândruțo!
+#### 313. Hai, mândruțo!
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 81
 
@@ -14465,7 +15000,7 @@ Poteca i-aș asfalta.
 Refren x2
 ```
 
-#### 304. Hăituit
+#### 314. Hăituit
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 82 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/haituit-567)
 
@@ -14524,7 +15059,7 @@ viu.
 Hăituit, cumplit...
 ```
 
-#### 305. Hanul lui Manuc
+#### 315. Hanul lui Manuc
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 169
 
@@ -14574,7 +15109,7 @@ La [F]Hanul [G]lui Năl[C]bea.
 [F]Secolul [G]e două[C]zeci.
 ```
 
-#### 306. Hei trenule
+#### 316. Hei trenule
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 186
 
@@ -14597,7 +15132,7 @@ Ca-n [C]gară mă aș[D]teaptă iubita [G]mea
 [C]Zbor, zbor, spre [D]tine mă-[G]ndrept
 ```
 
-#### 307. Iepuraș coconaș
+#### 317. Iepuraș coconaș
 
 muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
 
@@ -14617,7 +15152,7 @@ muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
 Notă: Măsura cântecului e 2/4
 ```
 
-#### 308. Iertările
+#### 318. Iertările
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/??? · Sursa: Cărticica Karban, p. 47
 
@@ -14651,7 +15186,7 @@ Notă: Sună parcă ceva mai bine dacă prinzi acordul G în forma să barata î
 poziția a 3-a.
 ```
 
-#### 309. Îmi pare rău
+#### 319. Îmi pare rău
 
 **Compact** · Sursa: Caiet cabană RO, p. 58 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/imi-pare-rau-12954)
 
@@ -14684,7 +15219,7 @@ Eu nu te-am dat nicicând uitării
 Și te iubesc cum te iubeam altădat'.
 ```
 
-#### 310. Imposibila nuntă
+#### 320. Imposibila nuntă
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 111 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/imposibila-nunta-673)
 
@@ -14736,7 +15271,7 @@ Ce păcat că totuși nu e nunta noastră
 Ce păcat că morții i-am fost dat ca soț.
 ```
 
-#### 311. Împreună
+#### 321. Împreună
 
 Sursa: Caiet cabană RO, p. 136
 
@@ -14777,7 +15312,7 @@ Peste anotimpul dublu
 Dintre zbor și dintre clipă.
 ```
 
-#### 312. În tren
+#### 322. În tren
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/George Topârceanu · Sursa: Cărticica Karban, p. 33
 
@@ -14827,100 +15362,7 @@ Pentru partea ritmica mai ascultă odată melodia și totul ar trebui să
 funcționeze...
 ```
 
-#### 313. Inimă de țigancă (I)
-
-**populara?/traditonal?** · Sursa: Caiet cabană RO, p. 67
-
-**Chitară:** A x02220 · E 022100 · D xx0232
-
-**Ukulele:** A 2100 · E 4442 · D 2220
-
-```text
-1.
-  A       E     A                D        A
-Inimă de țigancă, inimă de romancă
-                D                        A
-Inima mea te vrea, să-mi fii alăturea
-         E       A
-Inimă de țigancă .
-
-2.
-Și mama a fost neagră, lui tata i-a fost dragă
-Pe mine m-au făcut să beau să râd să cânt
-Inimă de țigancă .
-
-3.
-I am a lovely gipsy, I am a lovely gipsy
-I sing I sing for you, I dance I dance with you
-I am a lovely gipsy .
-
-4.
-Je suis une belle gitanne, je suis une belle gitanne
-Je chante, je chante pour toi, je dance, je dance pour toi
-Je suis une belle gitanne .
-
-5.
-Io sono la gitanna, io sono la gitanna
-Io amo, amo te, io canto, canto te
-Io sono la gitanna .
-```
-
-#### 314. Inimă de țigancă (II)
-
-**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 223
-
-**Chitară:** A x02220 · E 022100 · D xx0232
-
-**Ukulele:** A 2100 · E 4442 · D 2220
-
-```text
-[A]Inimă de [E]țigan[A]că,
-[A]Inimă de [E]țigan[A]că
-[A]Te cheamă și te [D]vrea
-Să fim ală[A]turea
-[A]Inimă de [E]țigan[A]că:|
-[A]Și mama a fost [E]nea[A]gră
-[A]Și tatii i-a fost [E]dra[A]gă
-[A]Și findca s-au plă[D]cut
-Pe mine m-au fă[A]cut
-[A]Și spun că lor li-s [E]dra[A]gă
-[A]Mai sunt fete ne[E]gru[A]țe
-[A]Mai mari și mai mi[E]cu[A]țe
-[A]Dar toate știu c-ar [D]vrea
-Să aibe inima [A]mea
-[A]Inimă de [E]țigan[A]că
-[A]Când înfloresc cas[E]ta[A]nii
-[A]Se-adună toți ți[E]ga[A]nii
-[A]Și fac afară un [D]foc
-Și se încing la [A]joc
-[A]Inimă de [E]țigan[A]că
-[A]Duminica la [E]nun[A]ta
-[A]Cu toți țiganii [E]cân[A]ta
-[A]Cânta se vese[D]lesc
-Findca ei se iu[A]besc
-[A]Inimă de [E]țigan[A]că
-Și aici și variantele în engleza, franceză și italiana luate din "Caietul de
-cântece de munte"
-[A]I am a lovely [E]gip[A]sy,
-[A]I am a lovely [E]gi[A]psy
-[A]I sing I sing for [D]you,
-I dance I dance with [A]you
-[A]I am a lovely [E]gi[A]psy.
-[A]Je suiș une belle [E]git[A]anne,
-[A]Je suiș une belle [E]git[A]anne
-[A]Je chante, je chante pour [D]toi,
-Je dance, je dance pour [A]toi
-[A]Je suiș une belle [E]git[A]anne.
-[A]Io sono la gi[E]tan[A]na,
-[A]Io sono la gi[E]tan[A]na,
-[A]Io amo, amo [D]te,
-Io canto, canto [A]te
-[A]Io sono la gi[E]tan[A]na,
-Notă: Acordul D poate fi înflorit la penultima bătaie cu o notă Ab și se
-prinde în acest caz după cum urmează: D = X X 0 2 3 4
-```
-
-#### 315. Înserarea
+#### 323. Înserarea
 
 Sursa: Caiet cabană RO, p. 127
 
@@ -14968,7 +15410,7 @@ R1:
 ...
 ```
 
-#### 316. Înțelegere (I)
+#### 324. Înțelegere (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 91 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/intelegere-1081)
 
@@ -15014,7 +15456,7 @@ Nu ne-om minți noi niciodată
 Nici alții a ne minți nu pot.
 ```
 
-#### 317. Înțelegere (II)
+#### 325. Înțelegere (II)
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Mihail Lermontov;Trad. Mihai Beniuc · Sursa: Cărticica Karban, p. 34
 
@@ -15071,7 +15513,7 @@ E||--3-----------------------|--3-----------3-----2-----|--0--------------------
 G                          G           Bass-run       Em
 ```
 
-#### 318. Întoarcere la orient (I)
+#### 326. Întoarcere la orient (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 90 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/intoarcere-la-orient-6930)
 
@@ -15138,7 +15580,7 @@ Noapte bună tuturor
 Doamnelor și domnilor
 ```
 
-#### 319. Întoarcere la orient (II)
+#### 327. Întoarcere la orient (II)
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 35
 
@@ -15200,7 +15642,7 @@ E||-0---0-0-0---0---0---0---0-------||
 Cu notă ca la acest riff se lovesc numai corzile de bass.
 ```
 
-#### 320. Învață de la toate
+#### 328. Învață de la toate
 
 Sursa: Caiet cabană RO, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/invata-de-la-toate-5399)
 
@@ -15245,7 +15687,7 @@ Ia seama fiu al jertfei prin-lumea-n care treci
 SĂ înveți din tot ce piere tu să trăiești în veci.
 ```
 
-#### 321. Iubesc ploile
+#### 329. Iubesc ploile
 
 Sursa: Caiet cabană RO, p. 158
 
@@ -15304,7 +15746,7 @@ Toți trecătorii sunt îndrăgostiți
 Și eu te aștept                             Doar tu știi ...
 ```
 
-#### 322. Iubire-ideal
+#### 330. Iubire-ideal
 
 Sursa: Caiet cabană RO, p. 103
 
@@ -15349,7 +15791,7 @@ Las să crească sămânța de pădure
 Iar părul rădăcină în pământ.
 ```
 
-#### 323. Iubirea cea mare
+#### 331. Iubirea cea mare
 
 Sursa: Caiet cabană RO, p. 90
 
@@ -15392,7 +15834,7 @@ O întrebare aș avea: Nu suntem și noi așa?
 Cine oare, să-mi răspundeți voi, ne va împiedica?
 ```
 
-#### 324. Iubita mea, ți-am cumpărat un munte
+#### 332. Iubita mea, ți-am cumpărat un munte
 
 **Emeric Imre** · Sursa: Caiet Christian Adventure, p. 87
 
@@ -15452,7 +15894,7 @@ Dm               G          C    F C
 Am dat pe acest munte viața mea
 ```
 
-#### 325. Iubito
+#### 333. Iubito
 
 **Vasile Mardare** · Sursa: Caiet cabană RO, p. 56 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/iubito-12253)
 
@@ -15492,7 +15934,7 @@ Ca vara sângelui să nu se piardă
 Ca vraja basmului mereu să ardă.
 ```
 
-#### 326. Joc de copil
+#### 334. Joc de copil
 
 Sursa: Caiet cabană RO, p. 165
 
@@ -15531,7 +15973,7 @@ Bucuria lui îmbrățișează
 Cerul și pământul.
 ```
 
-#### 327. Jocul
+#### 335. Jocul
 
 **Phoenix** · muzica/versuri: N. Covaci/N. Covaci · Sursa: Cărticica Karban, p. 119
 
@@ -15576,7 +16018,7 @@ Refren:
 [Am]N-ai să poți să [Em]ieși din [Am]ele.
 ```
 
-#### 328. Jumătate tu, jumătate eu
+#### 336. Jumătate tu, jumătate eu
 
 **Stigma** · muzica/versuri: Stigma/??? · Sursa: Cărticica Karban, p. 155
 
@@ -15623,7 +16065,7 @@ Să [Am]crezi ca nici un rău nu te mai [Dm]poate atinge
 Notă: Pentru tonalitatea originala folosește capo în poziția a 2-a.
 ```
 
-#### 329. La adio
+#### 337. La adio
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 40 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/la-adio-584)
 
@@ -15684,7 +16126,7 @@ Sub cinic nuclear adio
 Noi bietul cuplu pârjolit.
 ```
 
-#### 330. La fereastra ta (I)
+#### 338. La fereastra ta (I)
 
 **Semnal M** · Sursa: Caiet Christian Adventure, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/la-fereastra-ta-218)
 
@@ -15744,7 +16186,7 @@ O romanță cu parfum
 Să pot sta în părul tău
 ```
 
-#### 331. La fereastra ta (II)
+#### 339. La fereastra ta (II)
 
 **Semnal M** · muzica/versuri: Semnal M/??? · Sursa: Cărticica Karban, p. 141
 
@@ -15806,7 +16248,7 @@ Să pot [E7]sta în părul [A]tău
 Note:tempo 4/4; acordaj standard
 ```
 
-#### 332. La Mulți Ani!
+#### 340. La Mulți Ani!
 
 **tradițional** · Sursa: Cărticica Karban, p. 198
 
@@ -15878,7 +16320,7 @@ Some - one.     Ha - ppy Birth - day      to       you
 Notă: "Ionel" se înlocuiește cu numele sărbătoritului/sărbătoritei J
 ```
 
-#### 333. La nunta ta
+#### 341. La nunta ta
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Adrian Păunescu · Sursa: Cărticica Karban, p. 75
 
@@ -15920,7 +16362,7 @@ Afară doar de nunta mea.
 Refren
 ```
 
-#### 334. La război
+#### 342. La război
 
 Sursa: Caiet cabană RO, p. 42 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/la-razboi-5402)
 
@@ -15972,7 +16414,7 @@ Hei, băieți în această noapte
 Eu vreau să mă cunun cu moartea.
 ```
 
-#### 335. La un ceai
+#### 343. La un ceai
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 87 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/la-un-ceai-3410)
 
@@ -16012,7 +16454,7 @@ Nicicând să nu ne spunem vreun "Nu"
 Dar sunt un "je t'aime, moi non plus".
 ```
 
-#### 336. Lacrimi și surâs
+#### 344. Lacrimi și surâs
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 97
 
@@ -16058,7 +16500,7 @@ Să nu mă-n[D]trebi nimic, nu-ți voi răs[Em]punde
 Tot ce-n [D]suflet se [G]as[D]cun[C]de
 ```
 
-#### 337. Lângă mine
+#### 345. Lângă mine
 
 **Direcția 5 & Paula Seling** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 60
 
@@ -16093,7 +16535,7 @@ Să mă [G]ridic din nou, [A]să încerc să fiu
 Riff 1 (pe coarda 3):   g---4/5--4--2--0--2---
 ```
 
-#### 338. Lăsați-mă să cânt
+#### 346. Lăsați-mă să cânt
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 181
 
@@ -16119,7 +16561,7 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 339. Lavinia
+#### 347. Lavinia
 
 Sursa: Caiet cabană RO, p. 61
 
@@ -16151,7 +16593,7 @@ Chiar și acum
 Luminile se-aprind.
 ```
 
-#### 340. Lordul John
+#### 348. Lordul John
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/George Coșbuc · Sursa: Cărticica Karban, p. 168
 
@@ -16199,7 +16641,7 @@ Luminile se-aprind.
 [G]Spune să-i a[D]zvârle calul [A]să poată [D]pleca.
 ```
 
-#### 341. Lumină (I)
+#### 349. Lumină (I)
 
 **Ecoul** · Sursa: Caiet cabană RO, p. 101 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/lumina-807)
 
@@ -16251,7 +16693,7 @@ FĂcându-l floare de măr
 Lumină, viață, adevăr.
 ```
 
-#### 342. Lumină (II)
+#### 350. Lumină (II)
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 68
 
@@ -16289,7 +16731,7 @@ variantă cântata în mol sună mai bine.
 Vezi deci și variantă a 2-a.
 ```
 
-#### 343. Lumină (III)
+#### 351. Lumină (III)
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 69
 
@@ -16327,51 +16769,7 @@ variantă cântata în mol sună mai bine.
 Vezi deci și variantă 1-a și alege-o pe cea care îți sună mai bine J.
 ```
 
-#### 344. M-a ținut mama acasă
-
-**Ion Cioroiu** · Sursa: Caiet Christian Adventure, p. 98 · Caiet cabană RO, p. 13 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/m-a-tinut-mama-acasa-3290)
-
-**Chitară:** C x32010 · F 133211 · G 320003
-
-**Ukulele:** C 0003 · F 2010 · G 0232
-
-```text
-C          F
-/M-a ținut mama acasă
-G            C
-Să nu vin la tine
-Însă eu am tot rugat-o
-Pân' s-a săturat de mine./ x2
-
-Refren x2:
-Nu mai pot
-Să mai suport
-La munte vreau
-Să mă întorc.
-
-/Dacă ai un ghid nebun
-Și-un nebun să-ți cânte
-Orice-ar face-ai tăi parinti
-Ai să te întorci la munte./ x2
-
-Refren x2
-
-/Sâmbătă voi sta acasă
-Singur voi petrece
-Altfel risc ca să mă treacă
-Ai mei pe hrană rece./ x2
-
-Refren x2
-
-/Poate acuma să ma lege
-Să mă bată-n cuie
-Am sa fug și-ntotdeauna
-Am să mă întorc la munte./ x2
-
-Refren x2
-```
-
-#### 345. M-am îndrăgostit numai de ea
+#### 352. M-am îndrăgostit numai de ea
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 97 · Caiet cabană RO, p. 133 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/m-am-indragostit-numai-de-ea-4132)
 
@@ -16422,7 +16820,7 @@ Eu, care spuneam prea lesne și oricui „Mi-e dor”
 /M-am îndrăgostit numai de ea/(x3)/ x2
 ```
 
-#### 346. Mă duse-i să trec la Olt
+#### 353. Mă duse-i să trec la Olt
 
 **popular/popular** · Sursa: Cărticica Karban, p. 210
 
@@ -16471,7 +16869,7 @@ la, la, la, [A]la...
 la, la, la, [A]la...
 ```
 
-#### 347. Madama de pică
+#### 354. Madama de pică
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă, Horia Stoicanu/Mircea Vintilă, Horia Stoicanu · Sursa: Cărticica Karban, p. 170
 
@@ -16510,7 +16908,7 @@ Un [A]val, o [E]da
 [A]Ce parcă viata prin[E]dea
 ```
 
-#### 348. Mai stai
+#### 355. Mai stai
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 158
 
@@ -16542,7 +16940,7 @@ De [Am]chipul tău sunt pline
 Refren
 ```
 
-#### 349. Mama, mama
+#### 356. Mama, mama
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 124
 
@@ -16577,7 +16975,7 @@ Refren
 [F]Asta [G]am [C]să fac !!
 ```
 
-#### 350. Marea
+#### 357. Marea
 
 Sursa: Caiet cabană RO, p. 153
 
@@ -16605,7 +17003,7 @@ Iubito, ai să-mi scrii
 Iubito, poate ai să vii.
 ```
 
-#### 351. Mi-e dor de ochii tăi
+#### 358. Mi-e dor de ochii tăi
 
 **Ștefan Banica Jr.** · muzica/versuri: Ștefan Banica Jr./Ștefan Banica Jr.? · Sursa: Cărticica Karban, p. 28
 
@@ -16652,7 +17050,7 @@ Din noi doi a [G]greșit
 Refren 2x
 ```
 
-#### 352. Mica țiganiadă
+#### 359. Mica țiganiadă
 
 Sursa: Caiet cabană RO, p. 80 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mica-tiganiada-1603)
 
@@ -16723,7 +17121,7 @@ Gia mura mura
 Ce mișto ...
 ```
 
-#### 353. Micuța blondă
+#### 360. Micuța blondă
 
 Sursa: Caiet cabană RO, p. 54
 
@@ -16759,7 +17157,7 @@ Iubita mea s-a îmbrăcat în alb
 Și nici un soare-atât de cald ca ea.
 ```
 
-#### 354. Mielul (I)
+#### 361. Mielul (I)
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Caiet cabană RO, p. 51
 
@@ -16789,7 +17187,7 @@ Noi cu toții, domnule.
 Ce rămâne, mielule? Acest cântec, domnule.
 ```
 
-#### 355. Mielul (II)
+#### 362. Mielul (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 171
 
@@ -16851,7 +17249,7 @@ Ce rămâne, mielule? Acest cântec, domnule.
 [C]Acest [G]cântec, [D7]domnu[G]le.
 ```
 
-#### 356. Mihai, câți copii îmi dai?
+#### 363. Mihai, câți copii îmi dai?
 
 **Alexandru Andrieș** · muzica/versuri: Alexandru Andrieș/Alexandru Andrieș · Sursa: Cărticica Karban, p. 26
 
@@ -16888,7 +17286,7 @@ Se[B7]lim zice "Hai,
 Co[A]piii sint ai mei, Mi[E]hai"
 ```
 
-#### 357. Miruna (I)
+#### 364. Miruna (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 103 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/miruna-438)
 
@@ -16960,7 +17358,7 @@ Plâng pe cămașa ta de noapte
 Plâng pe cămașa ta de noapte
 ```
 
-#### 358. Miruna (II)
+#### 365. Miruna (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Mircea Vintilă · Sursa: Cărticica Karban, p. 172
 
@@ -17014,7 +17412,7 @@ Doar știi foarte bine ce-ți spuneam în seara aceea printre șoapte:
 [F]Plâng pe cămașa [G]ta de noapte...
 ```
 
-#### 359. Mistrețul galben
+#### 366. Mistrețul galben
 
 **Timpuri Noi** · Sursa: Caiet Christian Adventure, p. 104
 
@@ -17056,7 +17454,7 @@ Cât de greu e să prinzi mistrețul
 (Uuuu)
 ```
 
-#### 360. Mr. Tambourine Man
+#### 367. Mr. Tambourine Man
 
 **Pasărea Colibri** · muzica/versuri: Bob Dylan/Bob Dylan/Trad. Florian Pittis · Sursa: Cărticica Karban, p. 106
 
@@ -17108,7 +17506,7 @@ doi timpi pe fiecare acord.
 |1/ 2//3//4//|1/ 2//3//4//| exemplificat aici pentru două măsuri J
 ```
 
-#### 361. Mugur de fluier (I)
+#### 368. Mugur de fluier (I)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 105 · Caiet cabană RO, p. 79 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mugur-de-fluier-12376)
 
@@ -17149,7 +17547,7 @@ Hei, hei, dusă e iarna
 Cu dinții ei de fier
 ```
 
-#### 362. Mugur de fluier (II)
+#### 369. Mugur de fluier (II)
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 131
 
@@ -17177,7 +17575,7 @@ Refren:
 [G]Cu dinții [D]ei de [Am]fier[D]
 ```
 
-#### 363. Muntele alb
+#### 370. Muntele alb
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 106 · Caiet cabană RO, p. 28 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/muntele-alb-1662)
 
@@ -17247,7 +17645,7 @@ picioare
 /Tu ești muntele alb./ (x3)
 ```
 
-#### 364. Muzică și muzichia
+#### 371. Muzică și muzichia
 
 **Phoenix** · Sursa: Cărticica Karban, p. 123
 
@@ -17278,7 +17676,7 @@ acest cântec fiind de fapt ritmul pe care îl poți găsi singur ascultând
 melodia J
 ```
 
-#### 365. Nebunul cu ochi închiși (I)
+#### 372. Nebunul cu ochi închiși (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 108 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/nebunul-cu-ochii-inchisi-1533)
 
@@ -17314,7 +17712,7 @@ Lumea cea întreagă se-oprește să-l asculte,
 Refren x2
 ```
 
-#### 366. Nebunul cu ochi închiși (II)
+#### 373. Nebunul cu ochi închiși (II)
 
 **Phoenix** · muzica/versuri: Florin Bordeianu, Nicolae Covaci/Florin Bordeianu · Sursa: Cărticica Karban, p. 128
 
@@ -17339,7 +17737,7 @@ Refren:
 Refren:
 ```
 
-#### 367. Nebunul de alb
+#### 374. Nebunul de alb
 
 **Emeric Imre** · Sursa: Caiet Christian Adventure, p. 109
 
@@ -17395,7 +17793,7 @@ Cu chip slavon și nume de regină.
 Refren
 ```
 
-#### 368. Noapte de iubire
+#### 375. Noapte de iubire
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 185
 
@@ -17429,7 +17827,7 @@ Cu tine [G]toată dragos[Em]tea
 [C]Nici astăzi noaptea [D]noastră n-am ui[G]tat
 ```
 
-#### 369. Noapte la mare, noapte la munte
+#### 376. Noapte la mare, noapte la munte
 
 **Narcis** · Sursa: Caiet Christian Adventure, p. 110 · Caiet cabană RO, p. 32 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/noapte-la-mare-noapte-la-munte-320)
 
@@ -17470,7 +17868,7 @@ Roiuri de stele, roiuri de șoapte/ x2
 Refren
 ```
 
-#### 370. Nopți (I)
+#### 377. Nopți (I)
 
 **Valeriu Sterian** · Sursa: Caiet cabană RO, p. 95 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/nopti-2077)
 
@@ -17510,7 +17908,7 @@ Copilul său ucis ce zace-n bălți de sânge
 De cei ce vă acuză de-acolo din mormânt.
 ```
 
-#### 371. Nopți (II)
+#### 378. Nopți (II)
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/??? · Sursa: Cărticica Karban, p. 147
 
@@ -17542,7 +17940,7 @@ Refren:
 Refren:
 ```
 
-#### 372. Nu am cer
+#### 379. Nu am cer
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Daniela Crăsnaru · Sursa: Cărticica Karban, p. 48
 
@@ -17579,7 +17977,7 @@ Refren:
 Refren:
 ```
 
-#### 373. Nu am chef azi
+#### 380. Nu am chef azi
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 111 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/nu-am-chef-azi-2895)
 
@@ -17647,7 +18045,7 @@ Am fost un mare, mare fraier
 Au trecut ani, dar au trecut ani
 ```
 
-#### 374. Nu am mai fost acasă demult
+#### 381. Nu am mai fost acasă demult
 
 Sursa: Caiet cabană RO, p. 108
 
@@ -17687,7 +18085,7 @@ Dorm nu ca un vultur la pândă
 Dar ochii mi-au rămas de copil.
 ```
 
-#### 375. Nu mă-ntreba
+#### 382. Nu mă-ntreba
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 70
 
@@ -17713,7 +18111,7 @@ prima strofă, celelalte le-am completat după simțul meu ritmic.
 Deci dacă ceva nu corespunde....
 ```
 
-#### 376. Nu te mai iubesc (I)
+#### 383. Nu te mai iubesc (I)
 
 **Sentiment** · Sursa: Caiet Christian Adventure, p. 114 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/nu-te-mai-iubesc-7266)
 
@@ -17761,7 +18159,7 @@ Când noi doi ne-am sărutat...
 Refren
 ```
 
-#### 377. Nu te mai iubesc (II)
+#### 384. Nu te mai iubesc (II)
 
 variantă a cântecului „Nu te mai iubesc”, cu titlul „Mai ții minte seara-n care?” · Sursa: Caiet cabană RO, p. 58
 
@@ -17797,7 +18195,7 @@ Nu-i ca tine de frumoasă
 Dar o iubesc și sunt iubit.
 ```
 
-#### 378. Nu-i nimic, asta e! (I)
+#### 385. Nu-i nimic, asta e! (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 86 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/nu-i-nimic-asta-e-1449)
 
@@ -17859,7 +18257,7 @@ Tu mi-ai cheltuit anii mei cei mai frumoși
 Dar nu-i nimic asta e!
 ```
 
-#### 379. Nu-i nimic, asta e! (II)
+#### 386. Nu-i nimic, asta e! (II)
 
 **Pasărea Colibri** · muzica/versuri: Bob Dylan/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 107
 
@@ -17903,7 +18301,7 @@ Dar [C]nu-i ni[G]mic, asta [C]e!
 Dar [C]nu-i ni[G]mic, asta [C]e!
 ```
 
-#### 380. Nu-mi mai pasă
+#### 387. Nu-mi mai pasă
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 160
 
@@ -17942,7 +18340,7 @@ Dar nu-mi mai [C]pasă
 etc...(fade ouț)
 ```
 
-#### 381. Nunta (I)
+#### 388. Nunta (I)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 112 · Caiet cabană RO, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/nunta-456)
 
@@ -17984,7 +18382,7 @@ Roua norilor și florile de tei
 Refren
 ```
 
-#### 382. Nunta (II)
+#### 389. Nunta (II)
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 129
 
@@ -18012,7 +18410,7 @@ Refren:
 [F]Roua norilor și [G]florile de tei.
 ```
 
-#### 383. Oaia mică
+#### 390. Oaia mică
 
 **Ada Milea** · Sursa: Cărticica Karban, p. 101
 
@@ -18044,7 +18442,7 @@ Refren:
 Notă:Recomand folosirea unei ciupituri cu bass alternativ.
 ```
 
-#### 384. Oameni
+#### 391. Oameni
 
 **Aurelian Andreescu** · muzica/versuri: "Georgia on my mind" Ray Charles???/Marin Sorescu? · Sursa: Cărticica Karban, p. 24
 
@@ -18068,7 +18466,7 @@ Fir de [Em]aur, vis de [E7]aur, cântul [A]vostru și al meu
 Cu iu[D]bire, [A]cărări[D]le.
 ```
 
-#### 385. Oameni buni
+#### 392. Oameni buni
 
 **Pasărea Colibri** · muzica/versuri: în original - Silvio · Sursa: Cărticica Karban, p. 108 · Cărticica Karban, p. 109
 
@@ -18111,7 +18509,7 @@ Refren
 Refren
 ```
 
-#### 386. Oameni de zăpadă (I)
+#### 393. Oameni de zăpadă (I)
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 143 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/oameni-de-zapada-479)
 
@@ -18158,7 +18556,7 @@ Ninge că sunt rece, ninge că ești dusă
 Ninge ca la moartea ultimului an.
 ```
 
-#### 387. Oameni de zăpadă (II)
+#### 394. Oameni de zăpadă (II)
 
 **Victor Socaciu** · muzica/versuri: Victor Socaciu/Adrian Păunescu · Sursa: Cărticica Karban, p. 150
 
@@ -18290,7 +18688,7 @@ pe două chitare (una ținând ce se vede mai sus, cealaltă armonia) iese așa 
 fain încât aproape nu mai merita să cântați și din gura...J
 ```
 
-#### 388. Obsesia
+#### 395. Obsesia
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 61
 
@@ -18322,7 +18720,7 @@ Refren 3X
 Notă:La refren se folosește acordul Cm# în forma să barata în poziția a 4-a.
 ```
 
-#### 389. Ochii tăi
+#### 396. Ochii tăi
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 182
 
@@ -18357,7 +18755,7 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 390. Ochii tăi (I)
+#### 397. Ochii tăi (I)
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 115 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/ochii-tai-360)
 
@@ -18388,7 +18786,7 @@ Părul tău va fi iar ud de roua din zori de zi
 Refren x2
 ```
 
-#### 391. Ochii tăi (II)
+#### 398. Ochii tăi (II)
 
 **Holograf** · muzica/versuri: Holograf/Holograf · Sursa: Cărticica Karban, p. 73
 
@@ -18415,7 +18813,7 @@ Mi-e t[G]are dor de [F]ei
 Și aș [G]vrea să pot să-ți [F]spun: Bine-ai [G]venit!
 ```
 
-#### 392. Ochii verzi
+#### 399. Ochii verzi
 
 Sursa: Caiet cabană RO, p. 57
 
@@ -18449,7 +18847,7 @@ Când mi-ai spus că mă iubești?
 Și acum mă părăsești.
 ```
 
-#### 393. Om în amurg
+#### 400. Om în amurg
 
 Sursa: Caiet cabană RO, p. 33 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/om-in-amurg-2702)
 
@@ -18488,7 +18886,7 @@ Ora amiezii a fost dulce, dulce
 Luna s-a dus să se culce.
 ```
 
-#### 394. Omul bun și pomul copt
+#### 401. Omul bun și pomul copt
 
 Sursa: Cărticica Karban, p. 206
 
@@ -18533,7 +18931,7 @@ Note:-Cântecul e cunoscut și într-o variantă ceva "mai pop" cântata de Mirc
 Rusu.
 ```
 
-#### 395. Omul pădurii (I)
+#### 402. Omul pădurii (I)
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 119 · Caiet cabană RO, p. 73 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/omul-padurii-831)
 
@@ -18594,7 +18992,7 @@ Fost-am omul pădurii x2
 Refren X2
 ```
 
-#### 396. Omul pădurii (II)
+#### 403. Omul pădurii (II)
 
 **Coborâi din deal în vale** · Sursa: Cărticica Karban, p. 49
 
@@ -18638,7 +19036,7 @@ Foarte important este ritmul pe care îl poți descoperi ușor dacă asculți cu
 atenție melodia.
 ```
 
-#### 397. Oprește-mă la tine
+#### 404. Oprește-mă la tine
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 121 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/opreste-ma-la-tine-921)
 
@@ -18682,7 +19080,7 @@ Cu gânduri innodate și pumnul pe toiag
 Fă-mi piedici iscusite să mor la tine-n prag.
 ```
 
-#### 398. Ordinea de zi
+#### 405. Ordinea de zi
 
 **George Nicolescu/Gil Dobrica** · muzica/versuri: George Nicolescu/??? · Sursa: Cărticica Karban, p. 98
 
@@ -18730,7 +19128,7 @@ Să re[F]facem ordi[G]nea de [C]zi.
 Note: Vocile de la refren se cântă doar la sfârșitul piesei
 ```
 
-#### 399. Pădure de argint
+#### 406. Pădure de argint
 
 **Nelu Lazăr** · Sursa: Caiet Christian Adventure, p. 124
 
@@ -18778,7 +19176,7 @@ Dm Am
 Cuprinși de speranță…
 ```
 
-#### 400. Pădure liniștitoare
+#### 407. Pădure liniștitoare
 
 Sursa: Caiet cabană RO, p. 16
 
@@ -18829,7 +19227,7 @@ O să am doar flori în față
 Și privirea în verdeață.
 ```
 
-#### 401. Pământul deocamdată
+#### 408. Pământul deocamdată
 
 Sursa: Caiet cabană RO, p. 48
 
@@ -18912,7 +19310,7 @@ Ce-am putea și nu se poate
 Și noroi si stele.
 ```
 
-#### 402. Păpușa
+#### 409. Păpușa
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 125 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/papusa-10962)
 
@@ -18966,7 +19364,7 @@ Numai de iubire nu.
 Refren x2
 ```
 
-#### 403. Păpușarii
+#### 410. Păpușarii
 
 **Vasile Mărdare** · Sursa: Caiet Christian Adventure, p. 126 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/papusarii-3109)
 
@@ -19024,7 +19422,7 @@ sânge
 Refren x2
 ```
 
-#### 404. Păsări de fum
+#### 411. Păsări de fum
 
 **VH2/Holograf** · muzica/versuri: Mihai Pocorschi/Mihai Pocorschi · Sursa: Cărticica Karban, p. 159
 
@@ -19065,7 +19463,7 @@ Em Em7 Am Am7);
 iar la ultimul vers al strofei C Bm (în loc de C D).
 ```
 
-#### 405. Pat de flori
+#### 412. Pat de flori
 
 **Contrapunct** · Sursa: Caiet Christian Adventure, p. 122 · Caiet cabană RO, p. 120 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/contrapunct/pat-de-flori-1667)
 
@@ -19122,7 +19520,7 @@ Că te-ntorci la mine-n zori
 Că te-ntorci pe pat de flori.
 ```
 
-#### 406. Pe corso (I)
+#### 413. Pe corso (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 127 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/pe-corso-749)
 
@@ -19194,7 +19592,7 @@ Decât pentru mândre, mai bine
 Să mori sănătos!
 ```
 
-#### 407. Pe corso (II)
+#### 414. Pe corso (II)
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 173
 
@@ -19233,7 +19631,7 @@ Să mori sănă[G]tos!
 Amice, privește
 ```
 
-#### 408. Pe deal pe la Cornățel
+#### 415. Pe deal pe la Cornățel
 
 **Popular** · Sursa: Cărticica Karban, p. 212
 
@@ -19262,7 +19660,7 @@ Notă:Cântecul e în măsura 3/4 și (după părerea mea) e destul de simplu de
 cântat.
 ```
 
-#### 409. Peste răbdări
+#### 416. Peste răbdări
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Gh. Azap · Sursa: Cărticica Karban, p. 174
 
@@ -19299,7 +19697,7 @@ Refren
 [G]În lumea-n [D]care tu mă [G]minți
 ```
 
-#### 410. Peste-al nostru sărut
+#### 417. Peste-al nostru sărut
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 183
 
@@ -19338,7 +19736,7 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 411. Piața Romană nr.9
+#### 418. Piața Romană nr.9
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 96 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/piata-romana-nr-9-1776)
 
@@ -19386,7 +19784,7 @@ AȘa că vino sus dacă plouă
 Piața Romană Nr.9.
 ```
 
-#### 412. Pisică neagră
+#### 419. Pisică neagră
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 36
 
@@ -19420,7 +19818,7 @@ să folosești și o chitară electrica atunci poți să transpui poate și riff
 care însoțește toată melodia.
 ```
 
-#### 413. Ploaia
+#### 420. Ploaia
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
 
@@ -19472,7 +19870,7 @@ Zău, îmi e greu
 Refren1 x2 + Refren2
 ```
 
-#### 414. Ploaia (II)
+#### 421. Ploaia (II)
 
 Sursa: Caiet cabană RO, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
 
@@ -19520,7 +19918,7 @@ Trecutele neguri din cale-ți vor zbura
 Și tainele iubirii le vom învăța.
 ```
 
-#### 415. Ploaia care va veni (I)
+#### 422. Ploaia care va veni (I)
 
 **Florian Pitiș** · Sursa: Caiet Christian Adventure, p. 129 · Caiet cabană RO, p. 94 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/ploaia-care-va-veni-1456)
 
@@ -19595,7 +19993,7 @@ Le va potopi pe toate. x4
 ul.
 ```
 
-#### 416. Ploaia care va veni (II)
+#### 423. Ploaia care va veni (II)
 
 **Pasărea Colibri** · muzica/versuri: Dorin Liviu Zaharia -adaptare după o piesa a grupului ECHIPA'84/Dorin Liviu · Sursa: Cărticica Karban, p. 110
 
@@ -19631,7 +20029,7 @@ Note:Cred că pe net am văzut transcrieri și din C.
 După părerea mea pe cd-ul cu Pasărea Colibrie este cântata din D.
 ```
 
-#### 417. Ploaie în luna lui marte
+#### 424. Ploaie în luna lui marte
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 131 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/ploaie-in-luna-lui-marte-280)
 
@@ -19675,7 +20073,7 @@ RĂspunde-mi cine-s mai frumoși
 oameni? ploaia?
 ```
 
-#### 418. Podul de piatra
+#### 425. Podul de piatra
 
 **Mircea Florian** · Sursa: Cărticica Karban, p. 71
 
@@ -19706,7 +20104,7 @@ Podul de pi[A]atra [G]trebuie refă[D]cut.
 [G]Altul mai [D]trainic [A]și mai [D]frumos.
 ```
 
-#### 419. Podul de piatra
+#### 426. Podul de piatra
 
 muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
 
@@ -19728,7 +20126,7 @@ După părerea mea sună puțin cam "brigadierist" cântecul J...
 Pentru o variantă mai complicată cauta la Mircea Florian.
 ```
 
-#### 420. Poveste
+#### 427. Poveste
 
 **Ștefan Banica Jr.** · muzica/versuri: Ștefan Banica Jr./Ștefan Banica Jr.? · Sursa: Cărticica Karban, p. 27
 
@@ -19772,7 +20170,7 @@ loviturile însemnate cu ^ se execută de jos în sus. A două bătaie e mai len
 (aproape arpegiată) și durează ceva mai mult.
 ```
 
-#### 421. Prietene
+#### 428. Prietene
 
 **Vampy** · Sursa: Caiet Christian Adventure, p. 130 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/prietene-3060)
 
@@ -19832,7 +20230,7 @@ Prietene, nu te mai uita-napoi,
 Prietene, haide vino lângă noi.
 ```
 
-#### 422. Primavara - Paparuga
+#### 429. Primavara - Paparuga
 
 **Phoenix** · muzica/versuri: Prelucrare Nicolae Covaci/Popular · Sursa: Cărticica Karban, p. 127
 
@@ -19872,7 +20270,7 @@ F G C F G Em F
 [C]Locu' [Am]să să [G]moaie
 ```
 
-#### 423. Proverbe
+#### 430. Proverbe
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 93 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/proverbe-1542)
 
@@ -19924,7 +20322,7 @@ Altuia-i sapi groapa, tu ajungi în ea
 Dar să lași ulciorul la apă mai rar.
 ```
 
-#### 424. Pseudofabula
+#### 431. Pseudofabula
 
 **Roșu și negru** · Sursa: Caiet Christian Adventure, p. 132
 
@@ -20000,7 +20398,7 @@ F            G  C
 Stă pitit un șoricel
 ```
 
-#### 425. Puștoaico
+#### 432. Puștoaico
 
 Sursa: Caiet cabană RO, p. 63
 
@@ -20026,7 +20424,7 @@ Puștoaico , ți-am fost suflet prea credincios
 Puștoaico, de-acum nimic nu are rost.
 ```
 
-#### 426. Puterea să alegi
+#### 433. Puterea să alegi
 
 Sursa: Caiet cabană RO, p. 43 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/puterea-s-alegi-5403)
 
@@ -20061,7 +20459,7 @@ Dar te rog cât ai încă văpăi
 DĂ-i inimii tale mai dă-i.
 ```
 
-#### 427. Rănitul dintre linii (I)
+#### 434. Rănitul dintre linii (I)
 
 **Mircea Bodolan** · Sursa: Caiet cabană RO, p. 150
 
@@ -20104,7 +20502,7 @@ Cine-i alături și mă cheamă,
 mamă...
 ```
 
-#### 428. Rănitul dintre linii (II)
+#### 435. Rănitul dintre linii (II)
 
 **Mircea Bodolan** · muzica/versuri: Mircea Bodolan/Demostene Botez · Sursa: Cărticica Karban, p. 53
 
@@ -20145,7 +20543,7 @@ E||-------------------------|--3----------------------||
 Exemplificat aici pentru C și G7 (singurele acorduri folosite în melodie).
 ```
 
-#### 429. Rar
+#### 436. Rar
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/George Bacovia · Sursa: Cărticica Karban, p. 19
 
@@ -20178,7 +20576,7 @@ Refren:
 Se fluiera următoarea progresie de acorduri Dm C Bb A
 ```
 
-#### 430. Resemnare paternă
+#### 437. Resemnare paternă
 
 Sursa: Caiet cabană RO, p. 105
 
@@ -20216,7 +20614,7 @@ Neobosită-ntruna doar învață
 Și un gol în suflet I-ai lăsat.
 ```
 
-#### 431. Romanță de toamnă
+#### 438. Romanță de toamnă
 
 **Vasile Mardare** · Sursa: Caiet cabană RO, p. 11 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/romanta-de-toamna-3289)
 
@@ -20260,7 +20658,7 @@ Scriu scrisori pe flori lăcrimând în ploi
 Într-un liber schimb cu universul.
 ```
 
-#### 432. Romanță între două trenuri (I)
+#### 439. Romanță între două trenuri (I)
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 112 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/romanta-intre-doua-trenuri-670)
 
@@ -20306,7 +20704,7 @@ Uitată pe un vechi peron
 Sclipind la ultimul vagon.
 ```
 
-#### 433. Romanță între două trenuri (II)
+#### 440. Romanță între două trenuri (II)
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/Dan Verona · Sursa: Cărticica Karban, p. 139
 
@@ -20348,7 +20746,7 @@ E||--------------------||
 exemplificată aici pentru acordul C.
 ```
 
-#### 434. Roșu aprins
+#### 441. Roșu aprins
 
 **Luna amară** · Sursa: Caiet Christian Adventure, p. 137 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/luna-amara/rosu-aprins-752)
 
@@ -20391,7 +20789,7 @@ Roșu aprins să-mi ascundă durerea
 Vreau să te iert
 ```
 
-#### 435. Rugă pentru părinți (I)
+#### 442. Rugă pentru părinți (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 47 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/stefan-hrusca/ruga-pentru-parinti-373)
 
@@ -20435,7 +20833,7 @@ RĂmas bun băiatul meu rămas bun fetița mea
 Tatăl meu, băiatul meu, mama mea , fetița mea ...
 ```
 
-#### 436. Rugă pentru părinți (II)
+#### 443. Rugă pentru părinți (II)
 
 **Ștefan Hrușcă** · Sursa: Cărticica Karban, p. 80
 
@@ -20487,7 +20885,7 @@ munte" doar cu ceva foarte mici modificări.
 [F]Mama [E]mea, fetița [Am]mea...
 ```
 
-#### 437. Să nu-mi iei niciodată dragostea
+#### 444. Să nu-mi iei niciodată dragostea
 
 **Holograf** · Sursa: Cărticica Karban, p. 74
 
@@ -20535,7 +20933,7 @@ Dar să [Em]nu-mi iei [C]nicio[D]dată [G]dragostea
 Refren
 ```
 
-#### 438. Să trosnească lemne-n foc (I)
+#### 445. Să trosnească lemne-n foc (I)
 
 **Grupul Ecoul** · Sursa: Caiet cabană RO, p. 100
 
@@ -20588,7 +20986,7 @@ SĂ miroase-a busuioc, să miroase
 SĂ miroase-a mere coapte.
 ```
 
-#### 439. Să trosnească lemne-n foc (II)
+#### 446. Să trosnească lemne-n foc (II)
 
 **Grupul Ecoul** · muzica/versuri: Grupul Ecoul/??? · Sursa: Cărticica Karban, p. 65
 
@@ -20629,7 +21027,7 @@ SĂ miroase-a mere coapte.
 [G]Poveste [D]poveste...
 ```
 
-#### 440. Sala pașilor pierduți
+#### 447. Sala pașilor pierduți
 
 Sursa: Caiet cabană RO, p. 164
 
@@ -20689,7 +21087,7 @@ Greul ei și-amar și n-am fost
 Vrednici măcar de-o întrebare.
 ```
 
-#### 441. Săracă inima me' (I)
+#### 448. Săracă inima me' (I)
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 74 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/saraca-inima-me-304)
 
@@ -20738,7 +21136,7 @@ Fi Raiule cu plăcere
 Noi mai pe din gios om mere.
 ```
 
-#### 442. Săracă inima me' (II)
+#### 449. Săracă inima me' (II)
 
 **Ducu Bertzi** · muzica/versuri: popular din Maramureș - Ardeal?/populare · Sursa: Cărticica Karban, p. 50
 
@@ -20804,102 +21202,7 @@ E||----------------------|--0-------------------|||------------0---------|------
 La refren se poate folosi același model dar cu bass alternativ.
 ```
 
-#### 443. Șatra (I)
-
-**populara?/traditonal?** · Sursa: Caiet cabană RO, p. 71
-
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
-
-**Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
-
-```text
-1.
-   Am          G        C
-Trece șatra de țigani
-    F             C
-Azi aici mâine colea
-   Dm                Am
-Cu țigănci cu flori în păr
-      E        Am  E    Am
-Și cu sânii ca un măr.
-
-2.
-N-am nici haine nici pantofi
-N-am nici casă nici noroc
-În căruță m-am născut
-Din căruță știu să cânt.
-
-3.
-Țiganco cu bani în păr
-Și cu sânul ca un măr
-Hai cu mine-n lumea mare
-SĂ bem viața din pahare.
-
-4.
-MĂi române, măi române
-Du-te singur fără mine
-Nu las eu țiganii mei
-Nici să-i dai tu mii de lei.
-```
-
-#### 444. Șatra (II)
-
-**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 225
-
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
-
-**Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
-
-```text
-[Am]Trece satra [G]de ți[C]gani
-[F]Azi aici mâi[C]ne colea
-[Dm]Cu țigănci cu [Am]flori în păr
-[E]Și cu [Am]sânii [E]ca un [Am]măr.
-Refren:
-[Am]Lai la la la [G]lai la la [C]lai
-[F]Lai la la la [C]lai lai
-[Dm]Lai la la la [Am]la lai
-[E]Lai la [Am]la [E]la la [Am]lai
-[Am]N-am nici haine [G]nici pan[C]tofi
-[F]N-am nici casa [C]nici noroc
-[Dm]În căruță m-[Am]am născut
-[E]Din că[Am]ruță [E]știu să [Am]cânt.
-[Am]Țigănco cu [G]bani în [C]păr
-[F]Și cu sânul [C]ca un măr
-[Dm]Hai cu mine-n [Am]lumea mare
-[E]Să bem [Am]viata [E]din pa[Am]hare.
-[Am]Mai române, [G]mai ro[C]mâne
-[F]Du-te singur [C]fără mine
-[Dm]Nu las eu [Am]țiganii mei
-[E]Nici să-mi [Am]dai tu [E]mii de [Am]lei.
-Note: Refrenul se cântă la fel ca și strofele. În continuare mici variațiuni
-de la ultimele trei strofe:
-[Am]N-am nici rochii [G]nici pan[C]tofi
-[F]Nici castel cu [C]slujitori
-[Dm]În căruță m-[Am]am născut
-[E]Din că[Am]ruță [E]știu să [Am]cânt.
-[Am]Țigănco cu [G]bani în [C]păr
-[F]Și cu sânul [C]ca de măr
-[Dm]Hai cu mine-n [Am]lumea mare
-[E]Să vezi [Am]cum e [E]cu pa[Am]rale.
-[Am]Mai străine, [G]mai stră[C]ine
-[F]Stai în lumea [C]ta cu bine
-[Dm]Eu nu-mi las eu [Am]țiganii mei
-[E]Nici să-mi [Am]dai tu [E]mii de [Am]lei.
-Note:Se poate acompania cu un ritm (tip brushing cu/sau fără bass alternativ)
-de forma "bum chak-a" (vezi tabulatura exemplificat aici pentru Am):
-P       ^          ^
-E||-------0--0-------0--0--||
-B||-------1--1-------1--1--||
-G||-------2--2-------2--2--||
-D||-------------2----------||
-A||--0---------------------||
-E||------------------------||
--În filmul "Satra" melodia se cheamă "Nane tsokha" adică "N-am cercei"  (Info
-de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
-```
-
-#### 445. Scândura
+#### 450. Scândura
 
 Sursa: Caiet cabană RO, p. 151
 
@@ -20935,7 +21238,7 @@ A tinereții trăite până la sânge
 Care mă doare când ninge.
 ```
 
-#### 446. Scrisoare de rămas bun (I)
+#### 451. Scrisoare de rămas bun (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 138 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/scrisoare-de-ramas-bun-2980)
 
@@ -20982,7 +21285,7 @@ Decât tăcerea ce-mi va fi mai rău
 Când nu mai știu ce-nseamnă umbra ta
 ```
 
-#### 447. Scrisoare de rămas bun (II)
+#### 452. Scrisoare de rămas bun (II)
 
 **Mircea Baniciu/Pasărea Colibri** · variantă a cântecului „Scrisoare de rămas bun”, cu titlul „Numărători de ploi” · Sursa: Caiet cabană RO, p. 123
 
@@ -21034,7 +21337,7 @@ Decât tăcerea ce-mi vafi mai rău
 Când nu mai știu ce-nseamnă umbra ta.
 ```
 
-#### 448. Scrisoare de rămas bun (III)
+#### 453. Scrisoare de rămas bun (III)
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Gheorghe Țărnea · Sursa: Cărticica Karban, p. 37
 
@@ -21074,7 +21377,7 @@ Când nu mai știu ce-nseamnă umbra ta.
 [G]Iubito câtă lume între noi...
 ```
 
-#### 449. Seara de mai
+#### 454. Seara de mai
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 139 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/seara-de-mai-4551)
 
@@ -21146,7 +21449,7 @@ Refren1
 Refren2 x2
 ```
 
-#### 450. Sfârșitul nu-i aici
+#### 455. Sfârșitul nu-i aici
 
 **Pasărea Colibri** · muzica/versuri: în original - Death Is Not The End · Sursa: Cărticica Karban, p. 111
 
@@ -21189,7 +21492,7 @@ Printre-atâtea mii de venetici,
 Tine [E]minte sfârșitul nu-i [A]aici.
 ```
 
-#### 451. Și dacă (I)
+#### 456. Și dacă (I)
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 135
 
@@ -21215,7 +21518,7 @@ Tine [E]minte sfârșitul nu-i [A]aici.
 [C]De tine-[G]ntotdea[Am]una.
 ```
 
-#### 452. Și dacă (II)
+#### 457. Și dacă (II)
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 136
 
@@ -21263,7 +21566,7 @@ Deci cam asta ar fi nouă variantă, poate cea mai aprtopiata de adevăr...
 [Am]De tine-[B7]ntotdea[Em]una.
 ```
 
-#### 453. Și de-ar fi (I)
+#### 458. Și de-ar fi (I)
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/si-de-ar-fi-305)
 
@@ -21308,7 +21611,7 @@ Va veni și ziua cea dintâi din toate
 Inventată parcă numai pentru noi.
 ```
 
-#### 454. Și de-ar fi (II)
+#### 459. Și de-ar fi (II)
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 51
 
@@ -21347,7 +21650,7 @@ Refren 2
 Refren 2
 ```
 
-#### 455. Și-am iubit o ardeleancă
+#### 460. Și-am iubit o ardeleancă
 
 **Radu Ilie** · Sursa: Caiet Christian Adventure, p. 147 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/radu-ilie/si-am-iubit-o-ardeleanca-5581)
 
@@ -21399,7 +21702,7 @@ Că mă pupă în toată torna
 Refren x2
 ```
 
-#### 456. Singur în noapte (I)
+#### 461. Singur în noapte (I)
 
 **Compact** · Sursa: Caiet cabană RO, p. 97 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/singur-in-noapte-11271)
 
@@ -21447,7 +21750,7 @@ Niciodată nu te voi uita
 Cheamă-mă oricând vei vrea.
 ```
 
-#### 457. Singur în noapte (II)
+#### 462. Singur în noapte (II)
 
 **Compact** · muzica/versuri: Adrian Ordean?/??? · Sursa: Cărticica Karban, p. 58
 
@@ -21488,7 +21791,7 @@ Rătă[C]cesc  (Vocea a două:Rătă[D]cesc)
 Refren
 ```
 
-#### 458. Singură
+#### 463. Singură
 
 **Phoenix** · Sursa: Caiet cabană RO, p. 141 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/singur-832)
 
@@ -21536,7 +21839,7 @@ Amar la sân să cadă
 La mine-n suflet bat.
 ```
 
-#### 459. Spune ce vrei
+#### 464. Spune ce vrei
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 62
 
@@ -21583,7 +21886,7 @@ Acordurile sunt date numai pentru puriști.
 Pe tot parcursul cântecului se repetă riff-ul de la intro.
 ```
 
-#### 460. Spune-mi cine ești (I)
+#### 465. Spune-mi cine ești (I)
 
 **Semnal M** · Sursa: Caiet Christian Adventure, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/spune-mi-cine-esti-1407)
 
@@ -21666,7 +21969,7 @@ Spune-mi dacă voi afla
 /Într-o bună zi și drumul/ spre inima ta
 ```
 
-#### 461. Spune-mi cine ești (II)
+#### 466. Spune-mi cine ești (II)
 
 **Semnal M** · muzica/versuri: Semnal M/??? · Sursa: Cărticica Karban, p. 143
 
@@ -21714,7 +22017,7 @@ Spune-mi dacă [E7]voi afla
 Note:la refren o chitară tine armonia, cealaltă intro-ul
 ```
 
-#### 462. Strada Popa Nan (I)
+#### 467. Strada Popa Nan (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 143 · Caiet cabană RO, p. 85 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/strada-popa-nan-689)
 
@@ -21763,7 +22066,7 @@ Nu e nicăieri, nicăieri .
 Refren x4
 ```
 
-#### 463. Strada Popa Nan (II)
+#### 468. Strada Popa Nan (II)
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă/Dorin Liviu Zaharia · Sursa: Cărticica Karban, p. 175
 
@@ -21795,7 +22098,7 @@ Refren:
 [D]Nu e nicăieri, [G]nică[D]ieri.
 ```
 
-#### 464. Strada ta (I)
+#### 469. Strada ta (I)
 
 **Iris** · Sursa: Caiet cabană RO, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/strada-ta-610)
 
@@ -21832,7 +22135,7 @@ O clipă doar tu m-ai zărit
 Și te-am strigat dar n-ai venit.
 ```
 
-#### 465. Strada ta (II)
+#### 470. Strada ta (II)
 
 **Iris** · muzica/versuri: Cristian Minculescu/Cristian Minculescu · Sursa: Cărticica Karban, p. 89
 
@@ -21867,7 +22170,7 @@ Refren:
 Notă: Acordurile D C și E D de la refren se fac cu câte 2 bătăi.
 ```
 
-#### 466. Suflet fără chei
+#### 471. Suflet fără chei
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 135 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/suflet-fara-chei-306)
 
@@ -21914,7 +22217,7 @@ Unde-s pașii tăi cei dragi, sânii mirosind a fragi
 Mâna vai, pe strune-mi moare și pe tine nu te doare.
 ```
 
-#### 467. Sunt sărac
+#### 472. Sunt sărac
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 145 · Caiet cabană RO, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/sunt-sarac-2876)
 
@@ -21964,7 +22267,7 @@ Mai săraci suntem ca voi
 Noi tot am venit la voi !/ x2 Hei !
 ```
 
-#### 468. Supărat
+#### 473. Supărat
 
 **Theo & Hara Band** · muzica/versuri: Theo & Hara Band\??? · Sursa: Cărticica Karban, p. 137
 
@@ -21999,7 +22302,7 @@ E||-------------------------|-------------------------|--0----------------0-----
 Restul merge ca de la sine după ca asculți melodia de câteva ori.
 ```
 
-#### 469. Tăcut
+#### 474. Tăcut
 
 Sursa: Caiet cabană RO, p. 144
 
@@ -22046,7 +22349,7 @@ TĂcut ca două boabe mari de grâu
 TĂcut ca două boabe mari de grâu.
 ```
 
-#### 470. Taina (I)
+#### 475. Taina (I)
 
 **Holograf** · Sursa: Caiet cabană RO, p. 104 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/taina-5153)
 
@@ -22085,7 +22388,7 @@ Lasă telefonu-n pace
 CĂci în noaptea asta, în noaptea asta, mamă nu-s de găsit.
 ```
 
-#### 471. Taina (II)
+#### 476. Taina (II)
 
 **Ecoul** · Sursa: Cărticica Karban, p. 67
 
@@ -22113,7 +22416,7 @@ Lasă telefonu-n [G]pace
 Căci în [A]noaptea asta, în [D]noaptea asta, [A]mama nu-s de gă[D]sit.
 ```
 
-#### 472. Tango retoric
+#### 477. Tango retoric
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/George Țărnea · Sursa: Cărticica Karban, p. 140
 
@@ -22140,63 +22443,7 @@ Dacă-n [Am]cer e doar [E]ger și totuși eu mai [Am]sper
 Refren:
 ```
 
-#### 473. Tango țigan
-
-Sursa: Caiet cabană RO, p. 70
-
-**Chitară:** Em 022000 · C x32010 · D xx0232
-
-**Ukulele:** Em 0432 · C 0003 · D 2220
-
-```text
-1.
-   Em                C
-Cândva de mult un crâng de brazi
-       D            Em
-PĂrea un vechi castel
-Și-o ceată de țigani nomazi
-Au poposit la el.
-
-R:
-la la ...
-
-2.
-Și-aveau țiganii ochi adânci
-Și galbeni prinși în plete
-Și-aveau cu ei un cârd de țânci
-Și-un cârd de negre fete.
-
-3.
-Cândva un tânăr castelan
-Privind prin vechi ferestre
-ZĂri o fată de țigan
-Frumoasă ca-n poveste.
-
-4.
-Iubita mea, frumoasa mea
-Cu drag să fii aș vrea
-Stăpână de acum mereu
-A sufletului meu.
-
-5.
-Trecu un an mai mult de-atunci
-Și-n patul de mătasă
-Frumoasa fată de țigan
-Era de-acum crăiasă.
-
-6.
-Trecu încă doi ani de atunci
-Țiganii plini de praf și fum
-Lângă castelul solitar
-Au poposit în drum.
-7.
-Odorul meu, iubitul meu
-Eu libertate vreau
-SĂ hoinăresc mereu mereu
-Adio, dregul meu.
-```
-
-#### 474. Țăranul e pe câmp
+#### 478. Țăranul e pe câmp
 
 Sursa: Cărticica Karban, p. 260
 
@@ -22224,7 +22471,7 @@ Hei, hai lelita mea, și [C7]brânză la gu[F]noi.
 Notă: Măsura cântecului e 4/4
 ```
 
-#### 475. Tardive
+#### 479. Tardive
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 148 · Caiet cabană RO, p. 122 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/tardive-1428)
 
@@ -22267,7 +22514,7 @@ Că viața mă-ndeamnă să nu uit că mi-e dat
 Refren x2
 ```
 
-#### 476. Târg de sclavi
+#### 480. Târg de sclavi
 
 Sursa: Caiet cabană RO, p. 104
 
@@ -22304,7 +22551,7 @@ Vânzând ca-ntr-un târg pentru vite copii.
 .., 1....
 ```
 
-#### 477. Te întreb pe tine soare (I)
+#### 481. Te întreb pe tine soare (I)
 
 **Phoenix** · Sursa: Caiet cabană RO, p. 82 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/te-intreb-pe-tine-soare-642)
 
@@ -22352,7 +22599,7 @@ Te întreb pe tine soare:
 "MĂ vezi tu pe mine oare?"
 ```
 
-#### 478. Te întreb pe tine soare (II)
+#### 482. Te întreb pe tine soare (II)
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 120
 
@@ -22393,7 +22640,7 @@ Primul și al treilea vers al strofelor se repetă de vocea a două cu aceleași
 acorduri.
 ```
 
-#### 479. Te voi aștepta
+#### 483. Te voi aștepta
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 63
 
@@ -22415,7 +22662,7 @@ Refren:
 Refren 3X
 ```
 
-#### 480. Teama
+#### 484. Teama
 
 Sursa: Caiet cabană RO, p. 44
 
@@ -22449,7 +22696,7 @@ N-ai să știi ce mult te-aș fi iubit
 Și cuibul se strică pe creanga uscată.
 ```
 
-#### 481. Ți-am spus adio de mult
+#### 485. Ți-am spus adio de mult
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 187
 
@@ -22488,132 +22735,7 @@ Refren
 Note: Acordul D4 se execută cu acordul D în cadrul aceleiași măsuri.
 ```
 
-#### 482. Țigăncușa
-
-**Romanegila** · Sursa: Caiet Christian Adventure, p. 160 · Caiet cabană RO, p. 69
-
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
-
-**Ukulele:** Am 2000 · E 4442 · Dm 2210
-
-```text
-Am        E
-La o margine de sat
-             Am
-Este-o șatră de țigani
-Dm           Am
-Și-o țigancă frumușică
-E              Am
-Mi-a ghicit pe sub castani
-Dm           Am
-Și-o țigancă frumușică
-E              Am  E   Am
-Mi-a ghicit pe sub castani
-
-            Dm
-Refren1 x2: Țigăncușă ești frumoasă,
-Am
-Țigăncușa mea
-E            Am
-Te iubesc și nu te pot uita, Hei...
-
-Refren2 x2: La-rai-ra...
-
-Țigăncușă ești frumoasă
-Și știi bine să ghicești
-/Și cu ochii tăi cei negri
-Pe oricine cucerești /x2
-
-Refren1 x2 + Refren 2 x2
-
-Trece iarna, vine vara
-Vine șatra de țigani
-/Țigăncușa mea frumoasă
-A fugit cu alt țigan.../ x2
-
-Refren1 x2 + Refren2 x4
-```
-
-#### 483. Tigancusa
-
-**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 226
-
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · Em 022000 · A x02220
-
-**Ukulele:** Am 2000 · E 4442 · Dm 2210 · Em 0432 · A 2100
-
-```text
-[Am]La o margi[E]ne de sat
-[Am]Sta o satra [E]de ți[Am]gani
-[Dm]Și-o țigancă [Am]frumușică
-[E]Mi-a zâmbit de [Am]sub [E]cas[Am]tani.
-[Dm]Și-o țigancă [Am]frumușică
-[E]Mi-a zâmbit de [Am]sub [E]cas[Am]tani.
-Refren:
-[Dm]Tigancusa ești frumoasă
-[Am]Tigancusa mea
-[E]Te iubesc
-Și [Am]nu te [E]pot [Am]uita.
-[Dm]Tigancusa ești frumoasă
-[Am]Tigancusa mea
-[E]Te iubesc
-Și [Am]nu te [E]pot [Am]uita.
-[Am]Tigancusa [E]ești frumoasă
-[Am]Și știi bine [E]să ghi[Am]cești
-[Dm]Și cu ochii [Am]tăi cei negrii
-[E]Pe oricine [Am]cu[E]ce[Am]rești.
-[Dm]Și cu ochii [Am]tăi cei negrii
-[E]Pe oricine [Am]cu[E]ce[Am]rești.
-[Am]Trece vara, [E]vine iarna,
-[Am]Pleacă satra [E]de ți[Am]gani
-[Dm]Și cu ea plea[Am]că țigancă
-[E]Ce-am iubit-o [Am]sub [Em]cas[Am]tani.
-[Dm]Și cu ea plea[Am]că țigancă
-[E]Ce-am iubit-o [Am]sub [Em]cas[Am]tani.
-[Am]Trece iarna, [E]vine vara,
-[Am]Vine satra [E]de ți[Am]gani
-[Dm]Dar țigancă [Am]frumușică
-[E]A fugit cu [Am]alt [E]ți[Am]gan.
-[Dm]Dar țigancă [Am]frumușică
-[E]A fugit cu [Am]alt [E]ți[Am]gan.
-Note: Ritmul este o parte interesanta a acestei melodii. Se accelerează și se
-încetinește după simt. Acompaniamentul se poate face folosind o tehnică cu
-bas alternativ după cum urmează:
-Am                                            E
-E||-------0---------0----|-------0---------0----|-------0---------0----|-------0---------0----||
-B||-------1---------1----|-------1---------1----|-------0---------0----|-------0---------0----||
-G||-------2---------2----|-------2---------2----|-------1---------1----|-------1---------1----||
-D||------------2---------|------------2---------|----------------------|----------------------||
-A||--0-------------------|--0-------------------|------------2---------|------------2---------||
-E||----------------------|----------------------|--0-------------------|--0-------------------||
-La        o            măr       gi           ne        de           să-       -
-at.......etc...
-Am                                            E                      A
-E||-------0---------0----|-------0---------0----|-------0---------0----|-------0---------0----||
-B||-------1---------1----|-------1---------1----|-------0---------0----|-------1---------1----||
-G||-------2---------2----|-------2---------2----|-------1---------1----|-------2---------2----||
-D||------------2---------|------------2---------|----------------------|------------2---------||
-A||--0-------------------|--0-------------------|------------2---------|--0-------------------||
-E||----------------------|----------------------|--0-------------------|----------------------||
-Dm                                            Am
-E||-------1---------1----|-------1---------1----|-------0---------0----|-------0---------0----||
-B||-------3---------3----|-------3---------3----|-------1---------1----|-------1---------1----||
-G||-------2---------2----|-------2---------2----|-------2---------2----|-------2---------2----||
-D||--0-------------------|--0-------------------|------------2---------|------------2---------||
-A||------------0---------|------------0---------|--0-------------------|--0-------------------||
-E||----------------------|----------------------|----------------------|----------------------||
-E                                             Am          E          Am
-E||-------0---------0----|-------0---------0----|-------0---------0----|-------0---------0----||
-B||-------0---------0----|-------0---------0----|-------1---------0----|-------1---------1----||
-G||-------1---------1----|-------1---------1----|-------2---------1----|-------2---------2----||
-D||----------------------|----------------------|----------------------|------------0---------||
-A||------------2---------|------------2---------|--0-------------------|--0-------------------||
-E||--0-------------------|--0-------------------|------------0---------|----------------------||
-exemplificat aici pentru primele patru strofe ale melodiei. Ultimele două se
-repetă J
-```
-
-#### 484. Tigano
+#### 486. Tigano
 
 **Bosquito** · muzica/versuri: Bosquito/Bosquito · Sursa: Cărticica Karban, p. 54
 
@@ -22646,7 +22768,7 @@ Eram [Gm]un singur [C]glas
 Refren
 ```
 
-#### 485. Timișoara
+#### 487. Timișoara
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Mircea Florian · Sursa: Cărticica Karban, p. 121
 
@@ -22717,7 +22839,7 @@ Note:Unele versuri le-am reîmpărțit pentru a reda mai bine vizual formulă de
 acorduri a cântecului.
 ```
 
-#### 486. Toți suntem puțin luați
+#### 488. Toți suntem puțin luați
 
 **Pasărea Colibri** · muzica/versuri: Rainy Day Women · Sursa: Cărticica Karban, p. 112
 
@@ -22767,7 +22889,7 @@ Pe de altă parte toată melodia poate fi interpretată și folosind numai acest
 riff-uri
 ```
 
-#### 487. Totuși, iubirea
+#### 489. Totuși, iubirea
 
 Sursa: Caiet cabană RO, p. 44
 
@@ -22810,7 +22932,7 @@ Prăval peste tine pădurea
 Adio, adică rămâi.
 ```
 
-#### 488. Trandafir de la Moldova
+#### 490. Trandafir de la Moldova
 
 **Popular** · Sursa: Cărticica Karban, p. 207
 
@@ -22844,7 +22966,7 @@ Notă: Cântecul e în măsura 2/4 și după părerea mea foarte simplu de
 interpretat.
 ```
 
-#### 489. Trandafirul albastru
+#### 491. Trandafirul albastru
 
 Sursa: Caiet cabană RO, p. 156
 
@@ -22881,75 +23003,7 @@ Abia atunci m-ai iertat, m-ai iubit weichen blau
 Abia atunci m-ai iubit, prea târziu...
 ```
 
-#### 490. Trec țiganii
-
-**Autentic** · Sursa: Caiet Christian Adventure, p. 151 · Caiet cabană RO, p. 68
-
-**Chitară:** Am x02210 · E 022100 · E7 020100 · Dm xx0231 · A7 x02020 · G 320003 · C x32010
-
-**Ukulele:** Am 2000 · E 4442 · E7 1202 · Dm 2210 · A7 0100 · G 0232 · C 0003
-
-```text
-Am                 E
-În căruțe colorate trec țiganii
-E7                      Am
-O țigancă-n părul ei și-adună banii
-Dm                         Am
-Alta șade într-un colț, dă cu ghiocul
-E                         Am
-Să-i ghicească unei fete mari norocul
-Dm                       Am
-Un țigan cântă cu foc dintr-o vioară
-E                    Am E Am
-De cu zori și pân-se lasă seara.
-
-Refren1:
-
-Am             E
-Trec țiganii, trec,
-E7         Am
-Se duc și petrec
- A7            Dm
-Trec țiganii, nu se mai opresc
-E             Am
-Dar ei se iubesc.
-
-Refren2 x2:
-
-A7  Dm   G   C      Am   Dm  E Am
-La-lalalalalalai - lalalalalalai....
-
-La o margine de drum au aprins
-focul
-Și în jurul focului au încins jocul
-Noaptea e cu lună plină
-fermecată
-Seara cu țiganii n-o uiți niciodată
-Caii pasc la iarbă verde liniștiți,
-Iar țiganii cânta și sunt fericiți.
-
-Refren1 x2
-
-Refren3:
-
-    A7     Dm
-Se-aude o vioară
-    G          C
-Se-aude un țambal
-   Am         Dm
-Se-aude vocea caldă
-   E       Am
-A unui lăutar
-
-Se-aude o vioară
-Se-aude un arcuș
-Se-aude glasul dulce
-Al unui țigănuș
-
-Refren2 x2
-```
-
-#### 491. Trece vremea
+#### 492. Trece vremea
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 161
 
@@ -22993,7 +23047,7 @@ Refren 2X
 E tot ce ne-a ră[A]mas...
 ```
 
-#### 492. Tristă fiară
+#### 493. Tristă fiară
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 153 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/trista-fiara-6177)
 
@@ -23056,7 +23110,7 @@ Aș vrea să te mai văd o dată.
 Refren x2
 ```
 
-#### 493. Tu
+#### 494. Tu
 
 **Conexiuni** · Sursa: Caiet Christian Adventure, p. 158 · Caiet cabană RO, p. 119 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/conexiuni/tu-394)
 
@@ -23103,7 +23157,7 @@ Nu mai sunt eu, nu mai e nimic al meu
 Ești tu... Nu pleca, nu spune nu..
 ```
 
-#### 494. Țurțuri metalici
+#### 495. Țurțuri metalici
 
 **Karma** · Sursa: Caiet cabană RO, p. 155 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/turturi-metalici-7467)
 
@@ -23136,7 +23190,7 @@ Glasul tău dulce aș vrea să-l ascult
 Te văd, te aud, te strig și în somn.
 ```
 
-#### 495. Umbra (I)
+#### 496. Umbra (I)
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 121 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/umbra-283)
 
@@ -23186,7 +23240,7 @@ O umbră în viață mă ține
 Și umbra aceea ești tu.
 ```
 
-#### 496. Umbra (II)
+#### 497. Umbra (II)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/George Bacovia · Sursa: Cărticica Karban, p. 20
 
@@ -23234,7 +23288,7 @@ E [B7]atâta de mult, dacă e [Em]nu
 Refren
 ```
 
-#### 497. Umbra (III)
+#### 498. Umbra (III)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Adrian Păunescu · Sursa: Cărticica Karban, p. 21
 
@@ -23381,7 +23435,7 @@ G ) Pentru sugestii și injuraturi ...J) mă găsiți pe adresă
 famstrong@yahoo.com
 ```
 
-#### 498. Un alt început
+#### 499. Un alt început
 
 **Compact** · muzica/versuri: Paul Ciuci/Paul Ciuci · Sursa: Cărticica Karban, p. 57
 
@@ -23411,7 +23465,7 @@ Notă: La refren partea cu G Bm și A se execută cu câte o lovitură pe fiecar
 acord.
 ```
 
-#### 499. Un elefant... (I)
+#### 500. Un elefant... (I)
 
 muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 261
 
@@ -23442,7 +23496,7 @@ altfel...
 Dacă cineva își aduce aminte îl rog să îmi scrie.
 ```
 
-#### 500. Un lup
+#### 501. Un lup
 
 **Roa** · Sursa: Caiet Christian Adventure, p. 164
 
@@ -23482,7 +23536,7 @@ Au fugit
 Refren
 ```
 
-#### 501. Un om pe niște scări (I)
+#### 502. Un om pe niște scări (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 88 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/un-om-pe-niste-scari-1570)
 
@@ -23551,7 +23605,7 @@ F G   C
 Na na na Na na
 ```
 
-#### 502. Un om pe niște scări (II)
+#### 503. Un om pe niște scări (II)
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Cărticica Karban, p. 176
 
@@ -23594,7 +23648,7 @@ lăsați-[Dm]mă să fiu pe [C]scări.
 Notă: în locul acordului Dm poate fi folosit și acordul F
 ```
 
-#### 503. Un zvon
+#### 504. Un zvon
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 39
 
@@ -23638,7 +23692,7 @@ Notă: în locul acordului Dm poate fi folosit și acordul F
 Hei!...
 ```
 
-#### 504. Urare pentru îndrăgostiți
+#### 505. Urare pentru îndrăgostiți
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 85
 
@@ -23686,7 +23740,7 @@ Refren
 Refren 2X
 ```
 
-#### 505. Vagabonzi
+#### 506. Vagabonzi
 
 Sursa: Caiet cabană RO, p. 56 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/vagabonzi-2704)
 
@@ -23713,7 +23767,7 @@ Spre geamul tău
 La care atârn-o stea.
 ```
 
-#### 506. Vara
+#### 507. Vara
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 125
 
@@ -23768,7 +23822,7 @@ reda variantă piesei de pe albumul "Symphoenix". Pe "Cantafabule" piesa e
 ceva mă altfel J
 ```
 
-#### 507. Vara promisă (I)
+#### 508. Vara promisă (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 154 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/stefan-hrusca/vara-promisa-374)
 
@@ -23822,7 +23876,7 @@ Ori n-a plecat ori n-a venit
 Cu-adevărat.
 ```
 
-#### 508. Vara promisă (II)
+#### 509. Vara promisă (II)
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 86
 
@@ -23865,7 +23919,7 @@ La strofe trecerea de la C la C7 se face în cadrul aceleiași măsuri folosind
 numai la ultima bătaie a măsurii acordul C7.
 ```
 
-#### 509. Vara sufletului meu
+#### 510. Vara sufletului meu
 
 **Roa** · Sursa: Caiet Christian Adventure, p. 166
 
@@ -23906,7 +23960,7 @@ Ca un copil visând.
 Refren
 ```
 
-#### 510. Verde crud (I)
+#### 511. Verde crud (I)
 
 **Anda Călugăreanu** · Sursa: Caiet cabană RO, p. 161
 
@@ -23947,7 +24001,7 @@ Te mai văd te mai aud
 Vis de albastru și azur.
 ```
 
-#### 511. Verde crud (II)
+#### 512. Verde crud (II)
 
 **Anda Călugăreanu** · muzica/versuri: Anda Călugăreanu/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 55
 
@@ -23981,7 +24035,7 @@ Pentru ritm mai ascultă odată melodia.
 Acordul A7 poate fi folosit sau nu. Mie îmi sună foarte bine acolo...
 ```
 
-#### 512. Viata complicată
+#### 513. Viata complicată
 
 **Pasărea Colibri** · muzica/versuri: Ray Davies/The Kinks/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 114
 
@@ -24028,7 +24082,7 @@ Cum scăpam [A7]odată de complicată [D]via[A]ta? [D]
 De-am scapa [A7]odată de complicată [D]via[A]ta! [D]
 ```
 
-#### 513. Viața la țară (I)
+#### 514. Viața la țară (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 167 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/viata-la-tara-587)
 
@@ -24136,7 +24190,7 @@ rtă
 Refren
 ```
 
-#### 514. Viața la țară (II)
+#### 515. Viața la țară (II)
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/George Topârceanu · Sursa: Cărticica Karban, p. 40
 
@@ -24232,7 +24286,7 @@ G se prinde cum se vede în dicționarul meu, de mai jos iar în loc de C se
 folosește C9
 ```
 
-#### 515. Vine o zi
+#### 516. Vine o zi
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 170 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/vine-o-zi-366)
 
@@ -24276,7 +24330,7 @@ Nimeni nu va ști, nimeni nu va ști
 Oare când va fi...
 ```
 
-#### 516. Vino să dansăm, iubito
+#### 517. Vino să dansăm, iubito
 
 Sursa: Caiet cabană RO, p. 118
 
@@ -24325,7 +24379,7 @@ Dansu-n care nu poți plânge
 Este tot ce-a mai rămas.
 ```
 
-#### 517. Vinovații fără vină
+#### 518. Vinovații fără vină
 
 **Florian Pitiș** · Sursa: Caiet Christian Adventure, p. 171 · Caiet cabană RO, p. 84 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vinovatii-fara-vina-732)
 
@@ -24392,7 +24446,7 @@ Mai presus e cât și cum gândesc.
 Refren x2
 ```
 
-#### 518. Vis de primăvară (I)
+#### 519. Vis de primăvară (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 83 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vis-de-primavara-3095)
 
@@ -24440,7 +24494,7 @@ Pierdut între prieteni ce visul și-l adună
 Ca viața mea întreagă să fie-o zi de mai.
 ```
 
-#### 519. Vis de primăvară (II)
+#### 520. Vis de primăvară (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 177
 
@@ -24477,7 +24531,7 @@ Ca [G]viața mea întreaga să [Am]fie o zi de mai
 Ca [F]viața mea întreaga să [G]fie o zi de [C]mai.
 ```
 
-#### 520. Vis pierdut
+#### 521. Vis pierdut
 
 **Iris** · Sursa: Caiet Christian Adventure, p. 172 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/vis-pierdut-379)
 
@@ -24514,7 +24568,7 @@ Nu îmi pare rău de anii ce-au trecut
 Toți plecam ca un vis pierdut...
 ```
 
-#### 521. Voi pluti
+#### 522. Voi pluti
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 64
 
@@ -24538,7 +24592,7 @@ Strofa 2X
 Refren
 ```
 
-#### 522. Voi suferi
+#### 523. Voi suferi
 
 Sursa: Caiet cabană RO, p. 52 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/voi-suferi-4252)
 
@@ -24586,7 +24640,7 @@ Tu du-te nu privi-napoi
 Și fie-ți pasul mai vioi.
 ```
 
-#### 523. Vreau o minune!
+#### 524. Vreau o minune!
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 174 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/vreau-o-minune-1465)
 
@@ -24645,7 +24699,7 @@ Refren x3+
 Mama nu m-a dat de mic la școală...
 ```
 
-#### 524. Vreau să trecem marea
+#### 525. Vreau să trecem marea
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 175
 
@@ -24708,7 +24762,7 @@ De iubiri deșarte, de lacrimi, de silă
 Refren
 ```
 
-#### 525. Vremuri (I)
+#### 526. Vremuri (I)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 176 · Caiet cabană RO, p. 78 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vremuri-1540)
 
@@ -24757,7 +24811,7 @@ Da, da ; Nu nu....
 La, la...la la la la la la...
 ```
 
-#### 526. Vremuri (II)
+#### 527. Vremuri (II)
 
 **Phoenix** · muzica/versuri: Florin Bordeianu/Nicolae Covaci · Sursa: Cărticica Karban, p. 122
 
@@ -24782,60 +24836,6 @@ Ce[C]va exage[D]rat
 Și [C]tot exage[D]rat
 [Em]Timpul trece ca un fum
 Și [C]tot va fi ui[D]tat.
-```
-
-#### 527. Zece negri mititei
-
-muzica/versuri: din folclorul copiilor · Sursa: Cărticica Karban, p. 261
-
-**Chitară:** C x32010 · F 133211 · G 320003
-
-**Ukulele:** C 0003 · F 2010 · G 0232
-
-```text
-[C]Un negru mititel
-[F]S-a-nsurat o[C]dată
-[G]Și nevasta [C]i-a făcut
-[G]Zece negri-[C]o dată.
-[C]Zece negri mititei
-[F]S-au jucat în [C]roua,
-[G]Unul a căzut [C]din ei,
-[G]Și-au rămas doar [C]nouă.
-[C]Nouă negri mititei
-[F]Mâncă porumb [C]copt,
-[G]Unul s-a-necat [C]din ei,
-[G]Și-au rămas doar [C]opt.
-[C]Opt negri mititei
-[F]Beau cafea cu [C]lapte,
-[G]Unul s-a-necat [C]din ei,
-[G]Și-au rămas doar [C]șapte.
-[C]Șapte negri mititei
-[F]S-au dus la [C]Tănase,
-[G]Unul a murit [C]de râs,
-[G]Și-au rămas doar [C]sase.
-[C]Sase negri mititei
-[F]Au încălțat [C]opinci,
-[G]Unul s-a-mpiedicat [C]din ei,
-[G]Și-au rămas doar [C]cinci.
-[C]Cinci negri mititei
-[F]S-au dus la [C]teatru
-[G]Unul s-a făcut [C]artist,
-[G]Și-au rămas doar [C]patru.
-[C]Patru negri mititei
-[F]S-au suit în [C]tei,
-[G]Unul a căzut [C]din ei,
-[G]Și-au rămas doar [C]trei.
-[C]Trei negri mititei
-[F]S-au dus la [C]oi,
-[G]Unul s-a făcut [C]cioban,
-[G]Și-au rămas doar [C]doi.
-[C]Doi negri mititei
-[F]Au tras cu [C]tunul,
-[G]Unul s-a-mpuscat din ei,
-[G]Și-a rămas doar unul.
-[C]Un negru mititel
-[F]S-a-nsurat odată...
-Notă: Măsura cântecului e 2/4
 ```
 
 #### 528. Ziua
@@ -35608,149 +35608,149 @@ La refren măsura este 3/4.
 
 ## Index pe artiști
 
-- **???** — [Să nu uităm](#153-să-nu-uităm)
+- **???** — [Să nu uităm](#171-să-nu-uităm)
 - **4 Non Blondes** — [What's Up](#616-whats-up)
-- **Ada Milea** — [Era Vasile om frumos](#276-era-vasile-om-frumos), [Grasă](#301-grasă), [Oaia mică](#383-oaia-mică), [Când din crâșmă ai ieșit (Colind horror)](#632-când-din-crâșmă-ai-ieșit-colind-horror), [Cu secera-n mână (Colind horror)](#651-cu-secera-n-mână-colind-horror), [Ding ding, ding (Colind horror)](#660-ding-ding-ding-colind-horror)
-- **adaptat** — [Apă de izvor](#109-apă-de-izvor)
-- **Adrian Ivanițchi** — [Amintirea paradisului](#178-amintirea-paradisului), [Arsură (I)](#186-arsură-i), [Arsură (II)](#187-arsură-ii), [Arsură (III)](#188-arsură-iii)
-- **Albatros** — [Uiuiui brădui](#77-uiuiui-brădui), [O, mama](#148-o-mama)
-- **Alexandru Andrieș** — [Dracula blues](#264-dracula-blues), [Mihai, câți copii îmi dai?](#356-mihai-câți-copii-îmi-dai)
-- **Anda Călugăreanu** — [Verde crud (I)](#510-verde-crud-i), [Verde crud (II)](#511-verde-crud-ii)
-- **Andrei Mureșan** — [Deșteaptă-te române (I)](#91-deșteaptă-te-române-i)
-- **Andrei Mureșanu** — [Deșteaptă-te române (II)](#92-deșteaptă-te-române-ii)
-- **Anonim** — [A fi munțoman](#1-a-fi-munțoman), [Amintiri din Făgăraș (I)](#7-amintiri-din-făgăraș-i), [Bătrânul refugiu](#11-bătrânul-refugiu), [Bun rămas cabanei](#13-bun-rămas-cabanei), [Cabana Mălăiești](#15-cabana-mălăiești), [Copilul munților](#25-copilul-munților), [Dor de ducă (I)](#28-dor-de-ducă-i), [Dor de munții mei](#31-dor-de-munții-mei), [Fata din Caraiman](#33-fata-din-caraiman), [Fata munților (II)](#35-fata-munților-ii), [Imnul ghizilor](#44-imnul-ghizilor), [Imnul prieteniei](#46-imnul-prieteniei), [Legenda Craiului](#49-legenda-craiului), [Libertate-n vârf de munți](#50-libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#54-mi-e-dragă-pădurea), [Prieteni buni](#69-prieteni-buni), [Bărbățelul](#112-bărbățelul), [Carolina (I)](#119-carolina-i), [Ceata noastră (I)](#125-ceata-noastră-i), [Fetița franceză](#138-fetița-franceză), [Te-am cunoscut în troleibuz (I)](#157-te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#161-un-kil-de-rom), [Bat la poarta ta](#198-bat-la-poarta-ta), [Colo-n vale](#234-colo-n-vale), [Delirul](#255-delirul), [Hai, mândruțo!](#303-hai-mândruțo), [Păpușa](#402-păpușa), [Seara de mai](#449-seara-de-mai)
-- **Anotimpul 5** — [Dacă n-ai amintiri](#243-dacă-n-ai-amintiri)
-- **Aurelian Andreescu** — [Dorul](#263-dorul), [Oameni](#384-oameni)
-- **Autentic** — [Trec țiganii](#490-trec-țiganii)
-- **Axa** — [Imnul Bucegilor](#41-imnul-bucegilor)
+- **Ada Milea** — [Era Vasile om frumos](#293-era-vasile-om-frumos), [Grasă](#311-grasă), [Oaia mică](#390-oaia-mică), [Când din crâșmă ai ieșit (Colind horror)](#632-când-din-crâșmă-ai-ieșit-colind-horror), [Cu secera-n mână (Colind horror)](#651-cu-secera-n-mână-colind-horror), [Ding ding, ding (Colind horror)](#660-ding-ding-ding-colind-horror)
+- **adaptat** — [Apă de izvor](#117-apă-de-izvor)
+- **Adrian Ivanițchi** — [Amintirea paradisului](#203-amintirea-paradisului), [Arsură (I)](#211-arsură-i), [Arsură (II)](#212-arsură-ii), [Arsură (III)](#213-arsură-iii)
+- **Albatros** — [Uiuiui brădui](#85-uiuiui-brădui), [O, mama](#166-o-mama)
+- **Alexandru Andrieș** — [Dracula blues](#281-dracula-blues), [Mihai, câți copii îmi dai?](#363-mihai-câți-copii-îmi-dai)
+- **Anda Călugăreanu** — [Verde crud (I)](#511-verde-crud-i), [Verde crud (II)](#512-verde-crud-ii)
+- **Andrei Mureșan** — [Deșteaptă-te române (I)](#99-deșteaptă-te-române-i)
+- **Andrei Mureșanu** — [Deșteaptă-te române (II)](#100-deșteaptă-te-române-ii)
+- **Anonim** — [A fi munțoman](#1-a-fi-munțoman), [Amintiri din Făgăraș (I)](#7-amintiri-din-făgăraș-i), [Bătrânul refugiu](#13-bătrânul-refugiu), [Bun rămas cabanei](#15-bun-rămas-cabanei), [Cabana Mălăiești](#17-cabana-mălăiești), [Copilul munților](#27-copilul-munților), [Dor de ducă (I)](#30-dor-de-ducă-i), [Dor de munții mei](#33-dor-de-munții-mei), [Fata din Caraiman](#37-fata-din-caraiman), [Fata munților (II)](#39-fata-munților-ii), [Imnul ghizilor](#51-imnul-ghizilor), [Imnul prieteniei](#53-imnul-prieteniei), [Legenda Craiului](#56-legenda-craiului), [Libertate-n vârf de munți](#57-libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#62-mi-e-dragă-pădurea), [Prieteni buni](#77-prieteni-buni), [Bărbățelul](#121-bărbățelul), [Carolina (I)](#131-carolina-i), [Ceata noastră (I)](#139-ceata-noastră-i), [Fetița franceză](#153-fetița-franceză), [Te-am cunoscut în troleibuz (I)](#178-te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#185-un-kil-de-rom), [Bat la poarta ta](#220-bat-la-poarta-ta), [Colo-n vale](#251-colo-n-vale), [Delirul](#272-delirul), [Hai, mândruțo!](#313-hai-mândruțo), [Păpușa](#409-păpușa), [Seara de mai](#454-seara-de-mai)
+- **Anotimpul 5** — [Dacă n-ai amintiri](#260-dacă-n-ai-amintiri)
+- **Aurelian Andreescu** — [Dorul](#280-dorul), [Oameni](#391-oameni)
+- **Autentic** — [Trec țiganii](#183-trec-țiganii)
+- **Axa** — [Imnul Bucegilor](#48-imnul-bucegilor)
 - **Beatles** — [Girl](#550-girl), [Hey Jude](#553-hey-jude), [I Want to Hold Your Hand](#560-i-want-to-hold-your-hand), [Let It Be](#571-let-it-be), [Michelle](#576-michelle), [Ticket to Ride](#610-ticket-to-ride), [Twist and Shout](#613-twist-and-shout), [With a Little Help from My Friends](#620-with-a-little-help-from-my-friends), [Yellow Submarine](#622-yellow-submarine), [Yesterday](#623-yesterday)
-- **Beatles(Yelow submarine)** — [Imnul reșițenilor](#141-imnul-reșițenilor)
+- **Beatles(Yelow submarine)** — [Imnul reșițenilor](#157-imnul-reșițenilor)
 - **Ben E. King** — [Stand by Me](#601-stand-by-me)
-- **Bmby** — [Doi ochi căprui](#260-doi-ochi-căprui)
+- **Bmby** — [Doi ochi căprui](#277-doi-ochi-căprui)
 - **Bob Dylan** — [Don't Think Twice, It's Alright](#540-dont-think-twice-its-alright), [Knockin' on Heaven's Door](#566-knockin-on-heavens-door), [Mr. Tambourine Man](#577-mr-tambourine-man)
-- **Bosquito** — [Bosquito](#201-bosquito), [Tigano](#484-tigano)
+- **Bosquito** — [Bosquito](#124-bosquito), [Tigano](#486-tigano)
 - **Brenda Lee** — [Rocking Around the Christmas Tree](#716-rocking-around-the-christmas-tree)
-- **...ca și completare la Katiusa (prima variantă)** — [Katiusa (variantă)](#145-katiusa-variantă)
-- **CALEnDAR** — [Un munte așternut](#79-un-munte-așternut)
-- **Cântece Horror** — [Bing bang (I)](#113-bing-bang-i)
-- **Cargo** — [Aproape de voi](#110-aproape-de-voi), [Astăzi și mâine](#190-astăzi-și-mâine), [Ca o stea](#204-ca-o-stea), [Ploaia](#413-ploaia)
-- **Carmen Ciocolata** — [Când te scuturi de zăpadă](#18-când-te-scuturi-de-zăpadă)
-- **Carmen Silva Ciocolată** — [Cabana Schiorilor](#16-cabana-schiorilor)
+- **...ca și completare la Katiusa (prima variantă)** — [Katiusa (variantă)](#163-katiusa-variantă)
+- **CALEnDAR** — [Un munte așternut](#87-un-munte-așternut)
+- **Cântece Horror** — [Bing bang (I)](#122-bing-bang-i)
+- **Cargo** — [Aproape de voi](#118-aproape-de-voi), [Astăzi și mâine](#215-astăzi-și-mâine), [Ca o stea](#225-ca-o-stea), [Ploaia](#420-ploaia)
+- **Carmen Ciocolata** — [Când te scuturi de zăpadă](#20-când-te-scuturi-de-zăpadă)
+- **Carmen Silva Ciocolată** — [Cabana Schiorilor](#18-cabana-schiorilor)
 - **Cat Stevens** — [Father to Son](#547-father-to-son)
-- **Cătălin Condreț** — [Visul (I)](#83-visul-i)
-- **Cătălin Crișan** — [Dacă pleci](#244-dacă-pleci)
+- **Cătălin Condreț** — [Visul (I)](#91-visul-i)
+- **Cătălin Crișan** — [Dacă pleci](#261-dacă-pleci)
 - **CCR** — [Have You Ever Seen the Rain](#552-have-you-ever-seen-the-rain), [Proud Mary](#592-proud-mary)
-- **Celelalte Cuvinte** — [Dacă vrei](#245-dacă-vrei)
-- **Coborâi din deal în vale** — [Omul pădurii (II)](#396-omul-pădurii-ii)
-- **Compact** — [Cântec pentru prieteni](#19-cântec-pentru-prieteni), [Fata din vis](#281-fata-din-vis), [Îmi pare rău](#309-îmi-pare-rău), [Singur în noapte (I)](#456-singur-în-noapte-i), [Singur în noapte (II)](#457-singur-în-noapte-ii), [Un alt început](#498-un-alt-început)
-- **Conexiuni** — [Tu](#493-tu)
-- **Contrapunct** — [Pat de flori](#405-pat-de-flori)
-- **Costică David** — [Cine nu iubește muntele](#22-cine-nu-iubește-muntele), [Dor de munți](#30-dor-de-munți), [Trenul dragostei](#74-trenul-dragostei)
-- **Costica David** — [Dar nu-s normali](#26-dar-nu-s-normali)
-- **Craii Dianei** — [Cerbul](#229-cerbul)
-- **Cristian Paturca** — [Imnul golanilor](#96-imnul-golanilor)
-- **Dan Andrei Aldea** — [Om bun (I)](#63-om-bun-i), [Om bun (II)](#64-om-bun-ii)
-- **Dan Andrei Aldea/ Sfinx** — [Om bun (III)](#65-om-bun-iii)
-- **Dan Andrei Aldea/Pasărea Colibri** — [Cântecul bufonului (II)](#219-cântecul-bufonului-ii)
-- **Dan Zorilă** — [Corina](#237-corina), [De ce](#249-de-ce), [Hei trenule](#306-hei-trenule), [Noapte de iubire](#368-noapte-de-iubire), [Ți-am spus adio de mult](#481-ți-am-spus-adio-de-mult)
-- **Darwin** — [Omagiul unui alpinist](#66-omagiul-unui-alpinist)
-- **Direcția 5** — [Am nevoie de tine](#176-am-nevoie-de-tine), [Obsesia](#388-obsesia), [Spune ce vrei](#459-spune-ce-vrei), [Te voi aștepta](#479-te-voi-aștepta), [Voi pluti](#521-voi-pluti)
-- **Direcția 5 & Paula Seling** — [Lângă mine](#337-lângă-mine)
+- **Celelalte Cuvinte** — [Dacă vrei](#262-dacă-vrei)
+- **Coborâi din deal în vale** — [Omul pădurii (II)](#403-omul-pădurii-ii)
+- **Compact** — [Cântec pentru prieteni](#21-cântec-pentru-prieteni), [Fata din vis](#296-fata-din-vis), [Îmi pare rău](#319-îmi-pare-rău), [Singur în noapte (I)](#461-singur-în-noapte-i), [Singur în noapte (II)](#462-singur-în-noapte-ii), [Un alt început](#499-un-alt-început)
+- **Conexiuni** — [Tu](#494-tu)
+- **Contrapunct** — [Pat de flori](#412-pat-de-flori)
+- **Costică David** — [Cine nu iubește muntele](#24-cine-nu-iubește-muntele), [Dor de munți](#32-dor-de-munți), [Trenul dragostei](#82-trenul-dragostei)
+- **Costica David** — [Dar nu-s normali](#28-dar-nu-s-normali)
+- **Craii Dianei** — [Cerbul](#246-cerbul)
+- **Cristian Paturca** — [Imnul golanilor](#104-imnul-golanilor)
+- **Dan Andrei Aldea** — [Om bun (I)](#71-om-bun-i), [Om bun (II)](#72-om-bun-ii)
+- **Dan Andrei Aldea/ Sfinx** — [Om bun (III)](#73-om-bun-iii)
+- **Dan Andrei Aldea/Pasărea Colibri** — [Cântecul bufonului (II)](#240-cântecul-bufonului-ii)
+- **Dan Zorilă** — [Corina](#254-corina), [De ce](#266-de-ce), [Hei trenule](#316-hei-trenule), [Noapte de iubire](#375-noapte-de-iubire), [Ți-am spus adio de mult](#485-ți-am-spus-adio-de-mult)
+- **Darwin** — [Omagiul unui alpinist](#74-omagiul-unui-alpinist)
+- **Direcția 5** — [Am nevoie de tine](#201-am-nevoie-de-tine), [Obsesia](#395-obsesia), [Spune ce vrei](#464-spune-ce-vrei), [Te voi aștepta](#483-te-voi-aștepta), [Voi pluti](#522-voi-pluti)
+- **Direcția 5 & Paula Seling** — [Lângă mine](#345-lângă-mine)
 - **Doi și Jumătate** — [Ostașii luminii colindă (I)](#707-ostașii-luminii-colindă-i), [Ostașii luminii colindă (II)](#708-ostașii-luminii-colindă-ii)
-- **Doru Stănculescu** — [Hai dihai (I)](#39-hai-dihai-i), [Hai dihai (II)](#40-hai-dihai-ii), [Fără petale (I)](#279-fără-petale-i), [Fără petale (II)](#280-fără-petale-ii)
-- **Dragoș Bălan** — [Nunta pe Caraiman (II)](#61-nunta-pe-caraiman-ii), [Dragoste în fân (I)](#266-dragoste-în-fân-i)
-- **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#21-ce-frumos-e-sus-la-munte), [Evadare](#32-evadare), [În codrul verde](#47-în-codrul-verde), [Mă întorc la tine, muntele meu drag](#52-mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#524-vreau-să-trecem-marea)
-- **Ducu Bertzi** — [Floare de colț (I)](#36-floare-de-colț-i), [Floare de colț (II)](#37-floare-de-colț-ii), [Pe cine și câte cărări](#68-pe-cine-și-câte-cărări), [Dragu-mii veselia](#134-dragu-mii-veselia), [Când s-o-mpărțit norocu'](#210-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#212-cântec-bătrânesc), [Dans](#247-dans), [Focul vânăt (I)](#290-focul-vânăt-i), [Focul vânăt (II)](#291-focul-vânăt-ii), [Iertările](#308-iertările), [M-am îndrăgostit numai de ea](#345-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#372-nu-am-cer), [Omul pădurii (I)](#395-omul-pădurii-i), [Săracă inima me' (I)](#441-săracă-inima-me-i), [Săracă inima me' (II)](#442-săracă-inima-me-ii), [Și de-ar fi (I)](#453-și-de-ar-fi-i), [Și de-ar fi (II)](#454-și-de-ar-fi-ii), [Suflet fără chei](#466-suflet-fără-chei), [Cheamă-ți gazdă](#638-cheamă-ți-gazdă), [Corindăm, corindăm (II)](#648-corindăm-corindăm-ii), [Pe podele de nuiele](#710-pe-podele-de-nuiele), [Plecarea](#713-plecarea), [Scrisoare la-nceput de iarnă](#720-scrisoare-la-nceput-de-iarnă), [Seara serilor](#721-seara-serilor), [Un creștin s-a-nvrednicit](#733-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#734-veniți-păstori-în-viflaiem)
+- **Doru Stănculescu** — [Fără petale (I)](#35-fără-petale-i), [Fără petale (II)](#36-fără-petale-ii), [Hai dihai (I)](#46-hai-dihai-i), [Hai dihai (II)](#47-hai-dihai-ii)
+- **Dragoș Bălan** — [Nunta pe Caraiman (II)](#69-nunta-pe-caraiman-ii), [Dragoste în fân (I)](#283-dragoste-în-fân-i)
+- **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#23-ce-frumos-e-sus-la-munte), [Evadare](#34-evadare), [În codrul verde](#54-în-codrul-verde), [Mă întorc la tine, muntele meu drag](#60-mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#525-vreau-să-trecem-marea)
+- **Ducu Bertzi** — [Floare de colț (I)](#43-floare-de-colț-i), [Floare de colț (II)](#44-floare-de-colț-ii), [Pe cine și câte cărări](#76-pe-cine-și-câte-cărări), [Dragu-mii veselia](#148-dragu-mii-veselia), [Când s-o-mpărțit norocu'](#231-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#233-cântec-bătrânesc), [Dans](#264-dans), [Focul vânăt (I)](#300-focul-vânăt-i), [Focul vânăt (II)](#301-focul-vânăt-ii), [Iertările](#318-iertările), [M-am îndrăgostit numai de ea](#352-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#379-nu-am-cer), [Omul pădurii (I)](#402-omul-pădurii-i), [Săracă inima me' (I)](#448-săracă-inima-me-i), [Săracă inima me' (II)](#449-săracă-inima-me-ii), [Și de-ar fi (I)](#458-și-de-ar-fi-i), [Și de-ar fi (II)](#459-și-de-ar-fi-ii), [Suflet fără chei](#471-suflet-fără-chei), [Cheamă-ți gazdă](#638-cheamă-ți-gazdă), [Corindăm, corindăm (II)](#648-corindăm-corindăm-ii), [Pe podele de nuiele](#710-pe-podele-de-nuiele), [Plecarea](#713-plecarea), [Scrisoare la-nceput de iarnă](#720-scrisoare-la-nceput-de-iarnă), [Seara serilor](#721-seara-serilor), [Un creștin s-a-nvrednicit](#733-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#734-veniți-păstori-în-viflaiem)
 - **Ducu Hotima** — [La tătă casa-i lumină](#679-la-tătă-casa-i-lumină)
-- **Ecoul** — [Cana cu vin (I)](#116-cana-cu-vin-i), [Cana cu vin (II)](#117-cana-cu-vin-ii), [Lumină (I)](#341-lumină-i), [Lumină (II)](#342-lumină-ii), [Lumină (III)](#343-lumină-iii), [Nu mă-ntreba](#375-nu-mă-ntreba), [Taina (II)](#471-taina-ii)
+- **Ecoul** — [Cana cu vin (I)](#126-cana-cu-vin-i), [Cana cu vin (II)](#127-cana-cu-vin-ii), [Lumină (I)](#349-lumină-i), [Lumină (II)](#350-lumină-ii), [Lumină (III)](#351-lumină-iii), [Nu mă-ntreba](#382-nu-mă-ntreba), [Taina (II)](#476-taina-ii)
 - **Elvis Presley** — [Love Me Tender](#574-love-me-tender)
-- **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#324-iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#367-nebunul-de-alb)
+- **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#332-iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#374-nebunul-de-alb)
 - **Eric Clapton** — [Layla](#569-layla), [Tears in Heaven](#605-tears-in-heaven), [Wonderful Tonight](#621-wonderful-tonight)
-- **Este unul din cântecele mele preferate dar destul de greu de explicat cum se** — [Cu galeata în mână](#130-cu-galeata-în-mână)
-- **Florian Pitiș** — [Ploaia care va veni (I)](#415-ploaia-care-va-veni-i), [Vinovații fără vină](#517-vinovații-fără-vină)
-- **Focul Viu** — [Viață de haiduc](#80-viață-de-haiduc), [Dacii liberi](#90-dacii-liberi), [Tristă fiară](#492-tristă-fiară)
-- **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#398-ordinea-de-zi)
-- **Grupul Ecoul** — [Să trosnească lemne-n foc (I)](#438-să-trosnească-lemne-n-foc-i), [Să trosnească lemne-n foc (II)](#439-să-trosnească-lemne-n-foc-ii)
+- **Este unul din cântecele mele preferate dar destul de greu de explicat cum se** — [Cu galeata în mână](#144-cu-galeata-în-mână)
+- **Florian Pitiș** — [Ploaia care va veni (I)](#422-ploaia-care-va-veni-i), [Vinovații fără vină](#518-vinovații-fără-vină)
+- **Focul Viu** — [Viață de haiduc](#88-viață-de-haiduc), [Dacii liberi](#98-dacii-liberi), [Tristă fiară](#493-tristă-fiară)
+- **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#405-ordinea-de-zi)
+- **Grupul Ecoul** — [Să trosnească lemne-n foc (I)](#445-să-trosnească-lemne-n-foc-i), [Să trosnească lemne-n foc (II)](#446-să-trosnească-lemne-n-foc-ii)
 - **Guns'n'roses** — [Don't Cry (I)](#538-dont-cry-i)
 - **Gun’n’Roses** — [Patience](#588-patience)
-- **Hara** — [Departe](#256-departe)
-- **Holograf** — [Ești așa frumoasă](#278-ești-așa-frumoasă), [Ochii tăi (I)](#390-ochii-tăi-i), [Ochii tăi (II)](#391-ochii-tăi-ii), [Să nu-mi iei niciodată dragostea](#437-să-nu-mi-iei-niciodată-dragostea), [Taina (I)](#470-taina-i), [Vine o zi](#515-vine-o-zi), [Vreau o minune!](#523-vreau-o-minune)
-- **Intro:** — [Te-am cunoscut în troleibuz (II)](#158-te-am-cunoscut-în-troleibuz-ii)
-- **Intro: E - A - E - B7 - A - E** — [Ce nasoala ești](#124-ce-nasoala-ești)
-- **Ion Cioroiu** — [M-a ținut mama acasă](#344-m-a-ținut-mama-acasă)
-- **Iris** — [Baby](#193-baby), [Strada ta (I)](#464-strada-ta-i), [Strada ta (II)](#465-strada-ta-ii), [Vis pierdut](#520-vis-pierdut)
+- **Hara** — [Departe](#273-departe)
+- **Holograf** — [Ești așa frumoasă](#295-ești-așa-frumoasă), [Ochii tăi (I)](#397-ochii-tăi-i), [Ochii tăi (II)](#398-ochii-tăi-ii), [Să nu-mi iei niciodată dragostea](#444-să-nu-mi-iei-niciodată-dragostea), [Taina (I)](#475-taina-i), [Vine o zi](#516-vine-o-zi), [Vreau o minune!](#524-vreau-o-minune)
+- **Intro:** — [Te-am cunoscut în troleibuz (II)](#179-te-am-cunoscut-în-troleibuz-ii)
+- **Intro: E - A - E - B7 - A - E** — [Ce nasoala ești](#138-ce-nasoala-ești)
+- **Ion Cioroiu** — [M-a ținut mama acasă](#59-m-a-ținut-mama-acasă)
+- **Iris** — [Baby](#218-baby), [Strada ta (I)](#469-strada-ta-i), [Strada ta (II)](#470-strada-ta-ii), [Vis pierdut](#521-vis-pierdut)
 - **John Denver** — [Country Roads](#537-country-roads)
 - **John Lennon** — [Give Peace a Chance](#551-give-peace-a-chance), [Imagine](#563-imagine)
 - **José Feliciano** — [Feliz Navidad](#663-feliz-navidad)
-- **Karma** — [Alții mama nu mai face](#3-alții-mama-nu-mai-face), [Călător](#17-călător), [În loc de bun rămas](#48-în-loc-de-bun-rămas), [Mă întorc și pașii-s grei](#53-mă-întorc-și-pașii-s-grei), [Copilița fără minte](#129-copilița-fără-minte), [Puștoaică de liceu](#150-puștoaică-de-liceu), [Ai venit](#170-ai-venit), [Amintiri](#179-amintiri), [Bunica](#203-bunica), [Lacrimi și surâs](#336-lacrimi-și-surâs), [Muntele alb](#363-muntele-alb), [Sunt sărac](#467-sunt-sărac), [Tardive](#475-tardive), [Țurțuri metalici](#494-țurțuri-metalici), [Colindă tristă (I)](#640-colindă-tristă-i), [Colindă tristă (II)](#641-colindă-tristă-ii)
+- **Karma** — [Alții mama nu mai face](#3-alții-mama-nu-mai-face), [Călător](#19-călător), [În loc de bun rămas](#55-în-loc-de-bun-rămas), [Mă întorc și pașii-s grei](#61-mă-întorc-și-pașii-s-grei), [Copilița fără minte](#143-copilița-fără-minte), [Puștoaică de liceu](#168-puștoaică-de-liceu), [Ai venit](#195-ai-venit), [Amintiri](#204-amintiri), [Bunica](#224-bunica), [Lacrimi și surâs](#344-lacrimi-și-surâs), [Muntele alb](#370-muntele-alb), [Sunt sărac](#472-sunt-sărac), [Tardive](#479-tardive), [Țurțuri metalici](#495-țurțuri-metalici), [Colindă tristă (I)](#640-colindă-tristă-i), [Colindă tristă (II)](#641-colindă-tristă-ii)
 - **Led Zeppelin** — [Stairway to Heaven](#600-stairway-to-heaven)
-- **Luna amară** — [Roșu aprins](#434-roșu-aprins)
-- **Mădălina Amon** — [O nouă viață](#62-o-nouă-viață), [Amintire de fum](#177-amintire-de-fum)
+- **Luna amară** — [Roșu aprins](#441-roșu-aprins)
+- **Mădălina Amon** — [O nouă viață](#70-o-nouă-viață), [Amintire de fum](#202-amintire-de-fum)
 - **Maria Gheorghiu** — [Sus boieri nu mai dormiți](#726-sus-boieri-nu-mai-dormiți)
 - **Maria Magdalena Dănăilă** — [Singur de Crăciun](#722-singur-de-crăciun)
 - **Mellanie** — [Ils Ont Change Ma Chanson](#562-ils-ont-change-ma-chanson)
-- **Melodia este una de la un cântec destul de cunoscut din anii de grădiniță.** — [În pădurea verde](#142-în-pădurea-verde)
+- **Melodia este una de la un cântec destul de cunoscut din anii de grădiniță.** — [În pădurea verde](#158-în-pădurea-verde)
 - **Metallica** — [Fade to Black](#546-fade-to-black), [Nothing Else Matters](#582-nothing-else-matters)
-- **Mihai Mărgineanu** — [M-am dus să tai un copac](#146-m-am-dus-să-tai-un-copac), [Sobița](#155-sobița), [Ce mult te-am iubit Paraschivo (I)](#225-ce-mult-te-am-iubit-paraschivo-i), [Femei, femei](#286-femei-femei)
-- **Mircea Baniciu** — [Ceasornicarul (II)](#228-ceasornicarul-ii), [Drumul magilor](#661-drumul-magilor), [Pomul de Crăciun](#715-pomul-de-crăciun), [Zori din zori](#740-zori-din-zori)
-- **Mircea Baniciu/Pasărea Colibri** — [Dealul cu dor](#252-dealul-cu-dor), [Esarfa în dar](#277-esarfa-în-dar), [Frunza](#295-frunza), [În tren](#312-în-tren), [Înțelegere (II)](#317-înțelegere-ii), [Întoarcere la orient (II)](#319-întoarcere-la-orient-ii), [Pisică neagră](#412-pisică-neagră), [Scrisoare de rămas bun (II)](#447-scrisoare-de-rămas-bun-ii), [Scrisoare de rămas bun (III)](#448-scrisoare-de-rămas-bun-iii), [Un zvon](#503-un-zvon), [Viața la țară (II)](#514-viața-la-țară-ii)
-- **Mircea Bodolan** — [Dragostea pasarii](#270-dragostea-pasarii), [Rănitul dintre linii (I)](#427-rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#428-rănitul-dintre-linii-ii)
-- **Mircea Florian** — [Podul de piatra](#418-podul-de-piatra)
-- **Mircea Vintilă** — [Madama de pică](#347-madama-de-pică), [Pe corso (II)](#407-pe-corso-ii), [Strada Popa Nan (II)](#463-strada-popa-nan-ii)
-- **Mircea Vintilă/Pasărea Colibri** — [38](#164-38), [Adio, deci pe curând (II)](#169-adio-deci-pe-curând-ii), [Alte clipe trăite alt epilog](#173-alte-clipe-trăite-alt-epilog), [Când se lasă seara](#211-când-se-lasă-seara), [Dintr-o cafea (II)](#258-dintr-o-cafea-ii), [Dragostea e o salata](#269-dragostea-e-o-salata), [Hanul lui Manuc](#305-hanul-lui-manuc), [Lordul John](#340-lordul-john), [Mielul (I)](#354-mielul-i), [Mielul (II)](#355-mielul-ii), [Miruna (II)](#358-miruna-ii), [Peste răbdări](#409-peste-răbdări), [Un om pe niște scări (II)](#502-un-om-pe-niște-scări-ii), [Vis de primăvară (II)](#519-vis-de-primăvară-ii)
-- **Mondial** — [Atât de fragedă](#191-atât-de-fragedă)
-- **Narcis** — [Noapte la mare, noapte la munte](#369-noapte-la-mare-noapte-la-munte)
-- **Narcisa Suciu** — [Balada fulgerată de vânt (II)](#197-balada-fulgerată-de-vânt-ii)
-- **Necunoscut** — [Copacul](#128-copacul)
+- **Mihai Mărgineanu** — [Ce mult te-am iubit Paraschivo (I)](#136-ce-mult-te-am-iubit-paraschivo-i), [Femei, femei](#152-femei-femei), [M-am dus să tai un copac](#164-m-am-dus-să-tai-un-copac), [Sobița](#175-sobița)
+- **Mircea Baniciu** — [Ceasornicarul (II)](#245-ceasornicarul-ii), [Drumul magilor](#661-drumul-magilor), [Pomul de Crăciun](#715-pomul-de-crăciun), [Zori din zori](#740-zori-din-zori)
+- **Mircea Baniciu/Pasărea Colibri** — [Dealul cu dor](#269-dealul-cu-dor), [Esarfa în dar](#294-esarfa-în-dar), [Frunza](#305-frunza), [În tren](#322-în-tren), [Înțelegere (II)](#325-înțelegere-ii), [Întoarcere la orient (II)](#327-întoarcere-la-orient-ii), [Pisică neagră](#419-pisică-neagră), [Scrisoare de rămas bun (II)](#452-scrisoare-de-rămas-bun-ii), [Scrisoare de rămas bun (III)](#453-scrisoare-de-rămas-bun-iii), [Un zvon](#504-un-zvon), [Viața la țară (II)](#515-viața-la-țară-ii)
+- **Mircea Bodolan** — [Dragostea pasarii](#287-dragostea-pasarii), [Rănitul dintre linii (I)](#434-rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#435-rănitul-dintre-linii-ii)
+- **Mircea Florian** — [Podul de piatra](#425-podul-de-piatra)
+- **Mircea Vintilă** — [Madama de pică](#354-madama-de-pică), [Pe corso (II)](#414-pe-corso-ii), [Strada Popa Nan (II)](#468-strada-popa-nan-ii)
+- **Mircea Vintilă/Pasărea Colibri** — [38](#189-38), [Adio, deci pe curând (II)](#194-adio-deci-pe-curând-ii), [Alte clipe trăite alt epilog](#198-alte-clipe-trăite-alt-epilog), [Când se lasă seara](#232-când-se-lasă-seara), [Dintr-o cafea (II)](#275-dintr-o-cafea-ii), [Dragostea e o salata](#286-dragostea-e-o-salata), [Hanul lui Manuc](#315-hanul-lui-manuc), [Lordul John](#348-lordul-john), [Mielul (I)](#361-mielul-i), [Mielul (II)](#362-mielul-ii), [Miruna (II)](#365-miruna-ii), [Peste răbdări](#416-peste-răbdări), [Un om pe niște scări (II)](#503-un-om-pe-niște-scări-ii), [Vis de primăvară (II)](#520-vis-de-primăvară-ii)
+- **Mondial** — [Atât de fragedă](#216-atât-de-fragedă)
+- **Narcis** — [Noapte la mare, noapte la munte](#376-noapte-la-mare-noapte-la-munte)
+- **Narcisa Suciu** — [Balada fulgerată de vânt (II)](#12-balada-fulgerată-de-vânt-ii)
+- **Necunoscut** — [Copacul](#142-copacul)
 - **Neil Sedaka** — [Oh, Carol!](#585-oh-carol)
-- **Nelu Lazăr** — [Pădure de argint](#399-pădure-de-argint)
-- **Nicu Alifantis** — [Balada blondelor iubiri](#195-balada-blondelor-iubiri), [Emoție de toamnă (I)](#272-emoție-de-toamnă-i), [Emoție de toamnă (II)](#273-emoție-de-toamnă-ii), [Emoție de toamnă (III)](#274-emoție-de-toamnă-iii), [Piața Romană nr.9](#411-piața-romană-nr9), [Ploaie în luna lui marte](#417-ploaie-în-luna-lui-marte), [Rar](#429-rar), [Umbra (I)](#495-umbra-i), [Umbra (II)](#496-umbra-ii), [Umbra (III)](#497-umbra-iii), [Decembre (I)](#653-decembre-i), [Decembre (II)](#654-decembre-ii), [Decembre (III)](#655-decembre-iii)
-- **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște (I)](#184-aproape-liniște-i), [Aproape liniște (II)](#185-aproape-liniște-ii)
+- **Nelu Lazăr** — [Pădure de argint](#406-pădure-de-argint)
+- **Nicu Alifantis** — [Balada blondelor iubiri](#219-balada-blondelor-iubiri), [Emoție de toamnă (I)](#289-emoție-de-toamnă-i), [Emoție de toamnă (II)](#290-emoție-de-toamnă-ii), [Emoție de toamnă (III)](#291-emoție-de-toamnă-iii), [Piața Romană nr.9](#418-piața-romană-nr9), [Ploaie în luna lui marte](#424-ploaie-în-luna-lui-marte), [Rar](#436-rar), [Umbra (I)](#496-umbra-i), [Umbra (II)](#497-umbra-ii), [Umbra (III)](#498-umbra-iii), [Decembre (I)](#653-decembre-i), [Decembre (II)](#654-decembre-ii), [Decembre (III)](#655-decembre-iii)
+- **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște (I)](#209-aproape-liniște-i), [Aproape liniște (II)](#210-aproape-liniște-ii)
 - **Nightwish** — [The Islander](#607-the-islander)
-- **Odyssey** — [Dor de ducă (II)](#29-dor-de-ducă-ii)
-- **Ovidiu Scridon** — [Azi](#192-azi), [Floarea](#288-floarea), [Lăsați-mă să cânt](#338-lăsați-mă-să-cânt), [Ochii tăi](#389-ochii-tăi), [Peste-al nostru sărut](#410-peste-al-nostru-sărut)
-- **Pasărea Colibri** — [Alcool](#107-alcool), [2000 de ani](#163-2000-de-ani), [Adio, deci pe curând (I)](#168-adio-deci-pe-curând-i), [Alo! Ei a mea!](#172-alo-ei-a-mea), [Boxerul](#202-boxerul), [Canadiana](#207-canadiana), [Cântecul bufonului (I)](#218-cântecul-bufonului-i), [Ce de lupi se înconjoară](#224-ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#227-ceasornicarul-i), [Cu tine în gând](#238-cu-tine-în-gând), [Dacă ai ghici](#241-dacă-ai-ghici), [Dintr-o cafea (I)](#257-dintr-o-cafea-i), [Frunza (I)](#296-frunza-i), [Înțelegere (I)](#316-înțelegere-i), [Întoarcere la orient (I)](#318-întoarcere-la-orient-i), [Miruna (I)](#357-miruna-i), [Mr. Tambourine Man](#360-mr-tambourine-man), [Nebunul cu ochi închiși (I)](#365-nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#378-nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#379-nu-i-nimic-asta-e-ii), [Oameni buni](#385-oameni-buni), [Oprește-mă la tine](#397-oprește-mă-la-tine), [Pe corso (I)](#406-pe-corso-i), [Ploaia care va veni (II)](#416-ploaia-care-va-veni-ii), [Proverbe](#423-proverbe), [Scrisoare de rămas bun (I)](#446-scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#450-sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#462-strada-popa-nan-i), [Toți suntem puțin luați](#486-toți-suntem-puțin-luați), [Un om pe niște scări (I)](#501-un-om-pe-niște-scări-i), [Viata complicată](#512-viata-complicată), [Viața la țară (I)](#513-viața-la-țară-i), [Vis de primăvară (I)](#518-vis-de-primăvară-i), [Vânare de vânt](#615-vânare-de-vânt)
+- **Odyssey** — [Dor de ducă (II)](#31-dor-de-ducă-ii)
+- **Ovidiu Scridon** — [Azi](#217-azi), [Floarea](#298-floarea), [Lăsați-mă să cânt](#346-lăsați-mă-să-cânt), [Ochii tăi](#396-ochii-tăi), [Peste-al nostru sărut](#417-peste-al-nostru-sărut)
+- **Pasărea Colibri** — [Alcool](#115-alcool), [2000 de ani](#188-2000-de-ani), [Adio, deci pe curând (I)](#193-adio-deci-pe-curând-i), [Alo! Ei a mea!](#197-alo-ei-a-mea), [Boxerul](#223-boxerul), [Canadiana](#228-canadiana), [Cântecul bufonului (I)](#239-cântecul-bufonului-i), [Ce de lupi se înconjoară](#243-ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#244-ceasornicarul-i), [Cu tine în gând](#255-cu-tine-în-gând), [Dacă ai ghici](#258-dacă-ai-ghici), [Dintr-o cafea (I)](#274-dintr-o-cafea-i), [Frunza (I)](#306-frunza-i), [Înțelegere (I)](#324-înțelegere-i), [Întoarcere la orient (I)](#326-întoarcere-la-orient-i), [Miruna (I)](#364-miruna-i), [Mr. Tambourine Man](#367-mr-tambourine-man), [Nebunul cu ochi închiși (I)](#372-nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#385-nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#386-nu-i-nimic-asta-e-ii), [Oameni buni](#392-oameni-buni), [Oprește-mă la tine](#404-oprește-mă-la-tine), [Pe corso (I)](#413-pe-corso-i), [Ploaia care va veni (II)](#423-ploaia-care-va-veni-ii), [Proverbe](#430-proverbe), [Scrisoare de rămas bun (I)](#451-scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#455-sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#467-strada-popa-nan-i), [Toți suntem puțin luați](#488-toți-suntem-puțin-luați), [Un om pe niște scări (I)](#502-un-om-pe-niște-scări-i), [Viata complicată](#513-viata-complicată), [Viața la țară (I)](#514-viața-la-țară-i), [Vis de primăvară (I)](#519-vis-de-primăvară-i), [Vânare de vânt](#615-vânare-de-vânt)
 - **Paula Seling** — [Corindăm, corindăm (I)](#647-corindăm-corindăm-i)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#590-phabaj-hop-hop-hop)
-- **Phoenix** — [Andri Popa (I)](#9-andri-popa-i), [Strunga (I)](#72-strunga-i), [Strunga (II)](#73-strunga-ii), [În umbra marelui URSS](#97-în-umbra-marelui-urss), [Dansul codrilor](#248-dansul-codrilor), [Fată verde (I)](#283-fată-verde-i), [Fată verde (II)](#284-fată-verde-ii), [Fată verde (III)](#285-fată-verde-iii), [Fluier în cer](#289-fluier-în-cer), [Focuri vii](#292-focuri-vii), [Hăituit](#304-hăituit), [Jocul](#327-jocul), [Mama, mama](#349-mama-mama), [Mugur de fluier (I)](#361-mugur-de-fluier-i), [Mugur de fluier (II)](#362-mugur-de-fluier-ii), [Muzică și muzichia](#364-muzică-și-muzichia), [Nebunul cu ochi închiși (II)](#366-nebunul-cu-ochi-închiși-ii), [Nunta (I)](#381-nunta-i), [Nunta (II)](#382-nunta-ii), [Primavara - Paparuga](#422-primavara---paparuga), [Singură](#458-singură), [Te întreb pe tine soare (I)](#477-te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#478-te-întreb-pe-tine-soare-ii), [Timișoara](#485-timișoara), [Vara](#506-vara), [Vremuri (I)](#525-vremuri-i), [Vremuri (II)](#526-vremuri-ii), [Zori de zi](#529-zori-de-zi)
-- **Phoenix/Pasărea Colibri** — [Andri Popa (II)](#10-andri-popa-ii), [Canarul (I)](#208-canarul-i), [Canarul (II)](#209-canarul-ii)
+- **Phoenix** — [Andri Popa (I)](#9-andri-popa-i), [Fată verde (I)](#40-fată-verde-i), [Fată verde (II)](#41-fată-verde-ii), [Fată verde (III)](#42-fată-verde-iii), [Strunga (I)](#80-strunga-i), [Strunga (II)](#81-strunga-ii), [În umbra marelui URSS](#105-în-umbra-marelui-urss), [Dansul codrilor](#265-dansul-codrilor), [Fluier în cer](#299-fluier-în-cer), [Focuri vii](#302-focuri-vii), [Hăituit](#314-hăituit), [Jocul](#335-jocul), [Mama, mama](#356-mama-mama), [Mugur de fluier (I)](#368-mugur-de-fluier-i), [Mugur de fluier (II)](#369-mugur-de-fluier-ii), [Muzică și muzichia](#371-muzică-și-muzichia), [Nebunul cu ochi închiși (II)](#373-nebunul-cu-ochi-închiși-ii), [Nunta (I)](#388-nunta-i), [Nunta (II)](#389-nunta-ii), [Primavara - Paparuga](#429-primavara---paparuga), [Singură](#463-singură), [Te întreb pe tine soare (I)](#481-te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#482-te-întreb-pe-tine-soare-ii), [Timișoara](#487-timișoara), [Vara](#507-vara), [Vremuri (I)](#526-vremuri-i), [Vremuri (II)](#527-vremuri-ii), [Zori de zi](#529-zori-de-zi)
+- **Phoenix/Pasărea Colibri** — [Andri Popa (II)](#10-andri-popa-ii), [Canarul (I)](#229-canarul-i), [Canarul (II)](#230-canarul-ii)
 - **Pink Floyd** — [Another Brick in the Wall](#533-another-brick-in-the-wall), [Wish You Were Here](#619-wish-you-were-here)
-- **Poesis(Pasărea Colibri** — [Cântec șoptit (I)](#216-cântec-șoptit-i), [Cântec șoptit (II)](#217-cântec-șoptit-ii)
-- **popular** — [Hai să-ntindem hora mare](#94-hai-să-ntindem-hora-mare)
-- **Popular** — [Pe deal pe la Cornățel](#408-pe-deal-pe-la-cornățel), [Trandafir de la Moldova](#488-trandafir-de-la-moldova)
-- **Popular din maramureș** — [Așa beu oamenii buni](#111-așa-beu-oamenii-buni), [După pui de moroșan](#271-după-pui-de-moroșan)
-- **popular/popular** — [Mă duse-i să trec la Olt](#346-mă-duse-i-să-trec-la-olt)
-- **populara?/traditonal?** — [Caravanele (I)](#220-caravanele-i), [Caravanele (II)](#221-caravanele-ii), [Inimă de țigancă (I)](#313-inimă-de-țigancă-i), [Inimă de țigancă (II)](#314-inimă-de-țigancă-ii), [Șatra (I)](#443-șatra-i), [Șatra (II)](#444-șatra-ii), [Tigancusa](#483-tigancusa)
-- **Pro Musica** — [Dintre sute de catarge](#259-dintre-sute-de-catarge), [Și dacă (I)](#451-și-dacă-i), [Și dacă (II)](#452-și-dacă-ii)
+- **Poesis(Pasărea Colibri** — [Cântec șoptit (I)](#237-cântec-șoptit-i), [Cântec șoptit (II)](#238-cântec-șoptit-ii)
+- **popular** — [Hai să-ntindem hora mare](#102-hai-să-ntindem-hora-mare)
+- **Popular** — [Pe deal pe la Cornățel](#415-pe-deal-pe-la-cornățel), [Trandafir de la Moldova](#490-trandafir-de-la-moldova)
+- **Popular din maramureș** — [Așa beu oamenii buni](#119-așa-beu-oamenii-buni), [După pui de moroșan](#288-după-pui-de-moroșan)
+- **popular/popular** — [Mă duse-i să trec la Olt](#353-mă-duse-i-să-trec-la-olt)
+- **populara?/traditonal?** — [Caravanele (I)](#129-caravanele-i), [Caravanele (II)](#130-caravanele-ii), [Inimă de țigancă (I)](#159-inimă-de-țigancă-i), [Inimă de țigancă (II)](#160-inimă-de-țigancă-ii), [Șatra (I)](#172-șatra-i), [Șatra (II)](#173-șatra-ii), [Țigăncușa (II)](#181-țigăncușa-ii)
+- **Pro Musica** — [Dintre sute de catarge](#276-dintre-sute-de-catarge), [Și dacă (I)](#456-și-dacă-i), [Și dacă (II)](#457-și-dacă-ii)
 - **Queen** — [I Want to Break Free](#559-i-want-to-break-free), [Love of My Life](#575-love-of-my-life)
-- **Radu Ilie** — [Și-am iubit o ardeleancă](#455-și-am-iubit-o-ardeleancă)
-- **Radu Pietreanu** — [Toamna la șuior](#100-toamna-la-șuior)
-- **Reclamele sunt mici cântecele care la susținerea unui "concert" se cântă** — [Reclame](#151-reclame)
-- **Refren:** — [Tu Ardeal](#106-tu-ardeal)
-- **ROA** — [Deku](#253-deku)
-- **Roa** — [Un lup](#500-un-lup), [Vara sufletului meu](#509-vara-sufletului-meu)
+- **Radu Ilie** — [Și-am iubit o ardeleancă](#460-și-am-iubit-o-ardeleancă)
+- **Radu Pietreanu** — [Toamna la șuior](#108-toamna-la-șuior)
+- **Reclamele sunt mici cântecele care la susținerea unui "concert" se cântă** — [Reclame](#169-reclame)
+- **Refren:** — [Tu Ardeal](#114-tu-ardeal)
+- **ROA** — [Deku](#270-deku)
+- **Roa** — [Un lup](#501-un-lup), [Vara sufletului meu](#510-vara-sufletului-meu)
 - **Rolling Stones** — [Angie](#531-angie)
-- **Romanegila** — [Țigăncușa](#482-țigăncușa)
+- **Romanegila** — [Țigăncușa (I)](#180-țigăncușa-i)
 - **Ronnie Harwood** — [You Drive Me Crazy](#624-you-drive-me-crazy)
-- **Roșu și negru** — [Pseudofabula](#424-pseudofabula)
-- **Roza Vânturilor** — [Imnul Dianei (II)](#43-imnul-dianei-ii), [Numai noi](#59-numai-noi), [Râpa](#70-râpa)
+- **Roșu și negru** — [Pseudofabula](#431-pseudofabula)
+- **Roza Vânturilor** — [Imnul Dianei (II)](#50-imnul-dianei-ii), [Numai noi](#67-numai-noi), [Râpa](#78-râpa)
 - **Scorpions** — [Holiday](#555-holiday), [Still Loving You](#602-still-loving-you), [Wind of Change](#618-wind-of-change)
-- **Semnal M** — [La fereastra ta (I)](#330-la-fereastra-ta-i), [La fereastra ta (II)](#331-la-fereastra-ta-ii), [Spune-mi cine ești (I)](#460-spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#461-spune-mi-cine-ești-ii)
-- **Sentiment** — [Nu te mai iubesc (I)](#376-nu-te-mai-iubesc-i)
+- **Semnal M** — [La fereastra ta (I)](#338-la-fereastra-ta-i), [La fereastra ta (II)](#339-la-fereastra-ta-ii), [Spune-mi cine ești (I)](#465-spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#466-spune-mi-cine-ești-ii)
+- **Sentiment** — [Nu te mai iubesc (I)](#383-nu-te-mai-iubesc-i)
 - **Simon & Garfunkel** — [Bye Bye Love](#535-bye-bye-love), [El Condor Pasa](#543-el-condor-pasa), [Mrs. Robinson](#578-mrs-robinson), [The Sound of Silence](#609-the-sound-of-silence)
 - **Skid Row** — [I Remember](#558-i-remember)
 - **Slade** — [Merry Xmas Everybody](#689-merry-xmas-everybody)
 - **Smokie** — [Living Next Door to Alice](#572-living-next-door-to-alice)
-- **Sorina Moldvai** — [Copil hoinar](#24-copil-hoinar)
-- **Spitalul de urgenta** — [Prietenii](#149-prietenii), [Trăiască berea](#159-trăiască-berea)
+- **Sorina Moldvai** — [Copil hoinar](#26-copil-hoinar)
+- **Spitalul de urgenta** — [Prietenii](#167-prietenii), [Trăiască berea](#182-trăiască-berea)
 - **Status Quo** — [In the Army](#564-in-the-army)
-- **Ștefan Banică** — [S-o facem lată](#152-s-o-facem-lată)
-- **Ștefan Banica jr.** — [Asta-s eu](#189-asta-s-eu)
-- **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#351-mi-e-dor-de-ochii-tăi), [Poveste](#420-poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#98-întoarcerea-țăranului), [Copacul îndrăgostit](#236-copacul-îndrăgostit), [Fostele iubiri](#293-fostele-iubiri), [Frunza (II)](#297-frunza-ii), [La nunta ta](#333-la-nunta-ta), [Rugă pentru părinți (I)](#435-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#436-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#504-urare-pentru-îndrăgostiți), [Vara promisă (I)](#507-vara-promisă-i), [Vara promisă (II)](#508-vara-promisă-ii), [Afară ninge liniștit](#625-afară-ninge-liniștit), [Aseară pe-nserate](#628-aseară-pe-nserate), [Asta-i fata cea frumoasă](#629-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#633-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#634-ce-ați-văzut-păstori), [Cerul și pământul (I)](#635-cerul-și-pământul-i), [Cerul și pământul (II)](#636-cerul-și-pământul-ii), [Cerul și pământul (III)](#637-cerul-și-pământul-iii), [Coborât-o coborât](#639-coborât-o-coborât), [Colindul cerbului](#643-colindul-cerbului), [Corindăm, corindăm (III)](#649-corindăm-corindăm-iii), [Creștinilor, noi astăzi](#650-creștinilor-noi-astăzi), [Dalbu-i dealu](#652-dalbu-i-dealu), [Deschide nană ușile](#657-deschide-nană-ușile), [Deschide ușa, creștine (I)](#658-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#659-deschide-ușa-creștine-ii), [Ferice-i ferice](#664-ferice-i-ferice), [Flori de măr (I)](#665-flori-de-măr-i), [Flori de măr (II)](#666-flori-de-măr-ii), [Florile dalbe (I)](#667-florile-dalbe-i), [Florile dalbe (II)](#668-florile-dalbe-ii), [Iarăși flori dalbe](#672-iarăși-flori-dalbe), [Junelu-i tinerelu](#677-junelu-i-tinerelu), [La Viflaim, la Viflaim](#680-la-viflaim-la-viflaim), [Linu-i lin](#686-linu-i-lin), [Mă luai luai](#687-mă-luai-luai), [Măruț mărgăritar](#688-măruț-mărgăritar), [Ninge iar (II)](#695-ninge-iar-ii), [Ninge iar (III)](#696-ninge-iar-iii), [O, ce veste minunată (2)](#705-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#706-o-ce-veste-minunată-1), [Pe cununa munților](#709-pe-cununa-munților), [Pe strada din Viflaim](#711-pe-strada-din-viflaim), [Pom înrămuratu](#714-pom-înrămuratu), [Steaguri albe](#723-steaguri-albe), [Sus sus sus pe lângă lună](#727-sus-sus-sus-pe-lângă-lună), [Trei crai](#730-trei-crai), [Trei păstori](#731-trei-păstori), [Vine marea](#735-vine-marea), [Zăurel de zăurel](#739-zăurel-de-zăurel)
-- **Stigma** — [Jumătate tu, jumătate eu](#328-jumătate-tu-jumătate-eu)
-- **Supa & Maria** — [Tropa trop](#75-tropa-trop)
-- **Taine Folk** — [Cântec uitat de lume](#20-cântec-uitat-de-lume)
+- **Ștefan Banică** — [S-o facem lată](#170-s-o-facem-lată)
+- **Ștefan Banica jr.** — [Asta-s eu](#214-asta-s-eu)
+- **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#358-mi-e-dor-de-ochii-tăi), [Poveste](#427-poveste)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#106-întoarcerea-țăranului), [Copacul îndrăgostit](#253-copacul-îndrăgostit), [Fostele iubiri](#303-fostele-iubiri), [Frunza (II)](#307-frunza-ii), [La nunta ta](#341-la-nunta-ta), [Rugă pentru părinți (I)](#442-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#443-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#505-urare-pentru-îndrăgostiți), [Vara promisă (I)](#508-vara-promisă-i), [Vara promisă (II)](#509-vara-promisă-ii), [Afară ninge liniștit](#625-afară-ninge-liniștit), [Aseară pe-nserate](#628-aseară-pe-nserate), [Asta-i fata cea frumoasă](#629-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#633-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#634-ce-ați-văzut-păstori), [Cerul și pământul (I)](#635-cerul-și-pământul-i), [Cerul și pământul (II)](#636-cerul-și-pământul-ii), [Cerul și pământul (III)](#637-cerul-și-pământul-iii), [Coborât-o coborât](#639-coborât-o-coborât), [Colindul cerbului](#643-colindul-cerbului), [Corindăm, corindăm (III)](#649-corindăm-corindăm-iii), [Creștinilor, noi astăzi](#650-creștinilor-noi-astăzi), [Dalbu-i dealu](#652-dalbu-i-dealu), [Deschide nană ușile](#657-deschide-nană-ușile), [Deschide ușa, creștine (I)](#658-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#659-deschide-ușa-creștine-ii), [Ferice-i ferice](#664-ferice-i-ferice), [Flori de măr (I)](#665-flori-de-măr-i), [Flori de măr (II)](#666-flori-de-măr-ii), [Florile dalbe (I)](#667-florile-dalbe-i), [Florile dalbe (II)](#668-florile-dalbe-ii), [Iarăși flori dalbe](#672-iarăși-flori-dalbe), [Junelu-i tinerelu](#677-junelu-i-tinerelu), [La Viflaim, la Viflaim](#680-la-viflaim-la-viflaim), [Linu-i lin](#686-linu-i-lin), [Mă luai luai](#687-mă-luai-luai), [Măruț mărgăritar](#688-măruț-mărgăritar), [Ninge iar (II)](#695-ninge-iar-ii), [Ninge iar (III)](#696-ninge-iar-iii), [O, ce veste minunată (2)](#705-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#706-o-ce-veste-minunată-1), [Pe cununa munților](#709-pe-cununa-munților), [Pe strada din Viflaim](#711-pe-strada-din-viflaim), [Pom înrămuratu](#714-pom-înrămuratu), [Steaguri albe](#723-steaguri-albe), [Sus sus sus pe lângă lună](#727-sus-sus-sus-pe-lângă-lună), [Trei crai](#730-trei-crai), [Trei păstori](#731-trei-păstori), [Vine marea](#735-vine-marea), [Zăurel de zăurel](#739-zăurel-de-zăurel)
+- **Stigma** — [Jumătate tu, jumătate eu](#336-jumătate-tu-jumătate-eu)
+- **Supa & Maria** — [Tropa trop](#83-tropa-trop)
+- **Taine Folk** — [Cântec uitat de lume](#22-cântec-uitat-de-lume)
 - **Taking Heads** — [Road to Nowhere](#593-road-to-nowhere)
 - **Tatiana Stepa** — [Colindul gutuii (I)](#644-colindul-gutuii-i), [Colindul gutuii (II)](#645-colindul-gutuii-ii), [În întâmpinarea Crăciunului](#674-în-întâmpinarea-crăciunului)
 - **The Animals** — [House of the Rising Sun](#557-house-of-the-rising-sun)
@@ -35758,32 +35758,32 @@ La refren măsura este 3/4.
 - **The eagles** — [Hotel California](#556-hotel-california)
 - **The police** — [Every Breath You Take](#545-every-breath-you-take)
 - **The Righteous Brothers** — [Unchained Melody](#614-unchained-melody)
-- **Theo & Hara Band** — [Supărat](#468-supărat)
-- **Tiberiu Ceia** — [Frumoasă-i vecina noastră](#294-frumoasă-i-vecina-noastră)
-- **Timpuri Noi** — [Mistrețul galben](#359-mistrețul-galben)
-- **Titus Constantin** — [Munții mei](#58-munții-mei)
-- **tradițional** — [Du-mă acasă mai tramvai](#135-du-mă-acasă-mai-tramvai), [La Mulți Ani!](#332-la-mulți-ani), [Moș Crăciun (I)](#691-moș-crăciun-i)
-- **Tradițional** — [Mi-a zis mama că mi-o da](#147-mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#230-ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă (I)](#698-noapte-sfântă-i), [O, brad frumos! (I)](#703-o-brad-frumos-i)
-- **tradus de la Stephen Foster** — [Suzana](#156-suzana)
+- **Theo & Hara Band** — [Supărat](#473-supărat)
+- **Tiberiu Ceia** — [Frumoasă-i vecina noastră](#304-frumoasă-i-vecina-noastră)
+- **Timpuri Noi** — [Mistrețul galben](#366-mistrețul-galben)
+- **Titus Constantin** — [Munții mei](#66-munții-mei)
+- **tradițional** — [Du-mă acasă mai tramvai](#149-du-mă-acasă-mai-tramvai), [La Mulți Ani!](#340-la-mulți-ani), [Moș Crăciun (I)](#691-moș-crăciun-i)
+- **Tradițional** — [Mi-a zis mama că mi-o da](#165-mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#247-ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă (I)](#698-noapte-sfântă-i), [O, brad frumos! (I)](#703-o-brad-frumos-i)
+- **tradus de la Stephen Foster** — [Suzana](#176-suzana)
 - **Trini Lopez** — [If I Had a Hammer](#561-if-i-had-a-hammer)
-- **Unde** — [Tron în Apuseni (I)](#104-tron-în-apuseni-i), [Cântec în noapte](#213-cântec-în-noapte)
-- **Ursul Trubadur** — [Luna în cascade](#51-luna-în-cascade), [Pădure nebună](#67-pădure-nebună), [Viață de vagabond](#81-viață-de-vagabond)
-- **Valeriu Sterian** — [Amintire cu haiduci (I)](#4-amintire-cu-haiduci-i), [Amintire cu haiduci (II)](#5-amintire-cu-haiduci-ii), [Amintire cu haiduci (III)](#6-amintire-cu-haiduci-iii), [Cântec de oameni](#88-cântec-de-oameni), [Anxietate](#183-anxietate), [Nopți (I)](#370-nopți-i), [Nopți (II)](#371-nopți-ii)
-- **Vali Șerban** — [Avram Iancu](#87-avram-iancu), [Tron în Apuseni (II)](#105-tron-în-apuseni-ii)
-- **Vama Veche** — [Am doar 18 ani](#175-am-doar-18-ani), [Calul din Malboro](#206-calul-din-malboro), [Nu am chef azi](#373-nu-am-chef-azi)
-- **Vampy** — [Prietene](#421-prietene)
-- **Varf Carpatin** — [Imnul Pietrei Craiului](#45-imnul-pietrei-craiului)
-- **Vârf Carpatin** — [Vulturul](#86-vulturul), [Balada fulgerată de vânt (I)](#196-balada-fulgerată-de-vânt-i)
-- **Vasile Mărdare** — [Cabana](#14-cabana), [Păpușarii](#403-păpușarii)
-- **Vasile Mardare** — [Iubito](#325-iubito), [Romanță de toamnă](#431-romanță-de-toamnă)
-- **Vasile Șeicaru** — [Din prea mult sau prea puțin](#131-din-prea-mult-sau-prea-puțin), [Actorul](#166-actorul), [Antiprimăvara](#182-antiprimăvara), [Biletul de tren](#200-biletul-de-tren), [Cireșarii](#231-cireșarii), [Dragostea cu patru foi](#268-dragostea-cu-patru-foi), [Imposibila nuntă](#310-imposibila-nuntă), [La adio](#329-la-adio), [Romanță între două trenuri (I)](#432-romanță-între-două-trenuri-i), [Romanță între două trenuri (II)](#433-romanță-între-două-trenuri-ii), [Tango retoric](#472-tango-retoric), [Ninge iar (I)](#694-ninge-iar-i)
-- **Versuri Artur Stavri/melodie populara** — [A ruginit frunza din vii](#165-a-ruginit-frunza-din-vii)
-- **VH2** — [Mai stai](#348-mai-stai), [Nu-mi mai pasă](#380-nu-mi-mai-pasă), [Trece vremea](#491-trece-vremea)
-- **VH2/Holograf** — [Păsări de fum](#404-păsări-de-fum)
-- **Victor Socaciu** — [Moartea unui alpinist (II)](#57-moartea-unui-alpinist-ii), [Colindul mâinilor truditoare](#89-colindul-mâinilor-truditoare), [Caii liberi](#205-caii-liberi), [Cântec pentru Charlie Chaplin](#214-cântec-pentru-charlie-chaplin), [Dona, dona (I)](#261-dona-dona-i), [Dona, dona (II)](#262-dona-dona-ii), [La un ceai](#335-la-un-ceai), [Oameni de zăpadă (I)](#386-oameni-de-zăpadă-i), [Oameni de zăpadă (II)](#387-oameni-de-zăpadă-ii)
+- **Unde** — [Tron în Apuseni (I)](#112-tron-în-apuseni-i), [Cântec în noapte](#234-cântec-în-noapte)
+- **Ursul Trubadur** — [Luna în cascade](#58-luna-în-cascade), [Pădure nebună](#75-pădure-nebună), [Viață de vagabond](#89-viață-de-vagabond)
+- **Valeriu Sterian** — [Amintire cu haiduci (I)](#4-amintire-cu-haiduci-i), [Amintire cu haiduci (II)](#5-amintire-cu-haiduci-ii), [Amintire cu haiduci (III)](#6-amintire-cu-haiduci-iii), [Cântec de oameni](#96-cântec-de-oameni), [Anxietate](#208-anxietate), [Nopți (I)](#377-nopți-i), [Nopți (II)](#378-nopți-ii)
+- **Vali Șerban** — [Avram Iancu](#95-avram-iancu), [Tron în Apuseni (II)](#113-tron-în-apuseni-ii)
+- **Vama Veche** — [Am doar 18 ani](#200-am-doar-18-ani), [Calul din Malboro](#227-calul-din-malboro), [Nu am chef azi](#380-nu-am-chef-azi)
+- **Vampy** — [Prietene](#428-prietene)
+- **Vârf Carpatin** — [Balada fulgerată de vânt (I)](#11-balada-fulgerată-de-vânt-i), [Vulturul](#94-vulturul)
+- **Varf Carpatin** — [Imnul Pietrei Craiului](#52-imnul-pietrei-craiului)
+- **Vasile Mărdare** — [Cabana](#16-cabana), [Păpușarii](#410-păpușarii)
+- **Vasile Mardare** — [Iubito](#333-iubito), [Romanță de toamnă](#438-romanță-de-toamnă)
+- **Vasile Șeicaru** — [Din prea mult sau prea puțin](#145-din-prea-mult-sau-prea-puțin), [Actorul](#191-actorul), [Antiprimăvara](#207-antiprimăvara), [Biletul de tren](#222-biletul-de-tren), [Cireșarii](#248-cireșarii), [Dragostea cu patru foi](#285-dragostea-cu-patru-foi), [Imposibila nuntă](#320-imposibila-nuntă), [La adio](#337-la-adio), [Romanță între două trenuri (I)](#439-romanță-între-două-trenuri-i), [Romanță între două trenuri (II)](#440-romanță-între-două-trenuri-ii), [Tango retoric](#477-tango-retoric), [Ninge iar (I)](#694-ninge-iar-i)
+- **Versuri Artur Stavri/melodie populara** — [A ruginit frunza din vii](#190-a-ruginit-frunza-din-vii)
+- **VH2** — [Mai stai](#355-mai-stai), [Nu-mi mai pasă](#387-nu-mi-mai-pasă), [Trece vremea](#492-trece-vremea)
+- **VH2/Holograf** — [Păsări de fum](#411-păsări-de-fum)
+- **Victor Socaciu** — [Moartea unui alpinist (II)](#65-moartea-unui-alpinist-ii), [Colindul mâinilor truditoare](#97-colindul-mâinilor-truditoare), [Caii liberi](#226-caii-liberi), [Cântec pentru Charlie Chaplin](#235-cântec-pentru-charlie-chaplin), [Dona, dona (I)](#278-dona-dona-i), [Dona, dona (II)](#279-dona-dona-ii), [La un ceai](#343-la-un-ceai), [Oameni de zăpadă (I)](#393-oameni-de-zăpadă-i), [Oameni de zăpadă (II)](#394-oameni-de-zăpadă-ii)
 - **Wham!** — [Last Christmas](#681-last-christmas)
-- **Yoyo** — [Freamătă pădurea](#38-freamătă-pădurea), [Tropa trop spre cabană](#76-tropa-trop-spre-cabană)
-- **Zdub&Zdob** — [Dragă Otee](#265-dragă-otee)
+- **Yoyo** — [Freamătă pădurea](#45-freamătă-pădurea), [Tropa trop spre cabană](#84-tropa-trop-spre-cabană)
+- **Zdub&Zdob** — [Dragă Otee](#282-dragă-otee)
 
 ## Anexă: dicționar de acorduri
 

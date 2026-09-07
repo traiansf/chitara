@@ -15,11 +15,11 @@ ale acelorași artiști, cu linkuri către tabulaturi.ro
 
 | Partea | Cântece |
 |---|---|
-| **I — Cântece de cabană** | **162** |
-| &nbsp;&nbsp;I.1 — De munte și de drum | 86 |
+| **I — Cântece de cabană** | **187** |
+| &nbsp;&nbsp;I.1 — De munte și de drum | 94 |
 | &nbsp;&nbsp;I.2 — Naționaliste și de dor de țară | 20 |
-| &nbsp;&nbsp;I.3 — Studențești, de chef și deocheate | 56 |
-| II — Repertoriu românesc | 367 |
+| &nbsp;&nbsp;I.3 — Studențești, de chef și deocheate | 73 |
+| II — Repertoriu românesc | 342 |
 | III — Repertoriu internațional | 95 |
 | IV — Colinde și cântece de iarnă | 116 |
 
@@ -49,7 +49,7 @@ paranteze drepte:
 
 Un cântec care apare în mai multe surse cu acorduri sau versuri diferite e
 păstrat de câte ori e nevoie, numerotat `(I)`, `(II)`, `(III)`, cu variantele
-una lângă alta — 208 astfel de intrări. Se contopesc doar cele cu aceeași
+una lângă alta — 210 astfel de intrări. Se contopesc doar cele cu aceeași
 succesiune de acorduri în aceeași tonalitate.
 
 ## Surse
