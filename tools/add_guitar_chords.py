@@ -83,8 +83,10 @@ ALIAS = {"Db": "C#", "Eb": "D#", "Gb": "F#", "Ab": "G#", "Bb": "A#",
          # typos and shorthands from the sources
          "Cm#": "C#m", "Fm#": "F#m", "CaddG": "C"}
 
-# run-together chords from the source layout; components appear separately
-SKIP_TOKENS = {"FC", "FCG"}
+# tokens allowed on a chord line that aren't themselves a chord: "FC"/"FCG"
+# are run-together chords from the source layout (their components appear
+# separately); "[fill]" marks an instrumental fill, not a chord to play
+SKIP_TOKENS = {"FC", "FCG", "[fill]"}
 
 CHORD_RE = re.compile(
     r"^[A-G](?:#|b)?"

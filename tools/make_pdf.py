@@ -68,7 +68,7 @@ CHORD_RE = re.compile(
     r"^[A-G](?:#|b)?(?:m|maj|min|dim|aug|\+)?(?:sus)?[0-9]*"
     r"(?:\(?(?:add|sus|maj)?[A-G0-9#b]*\)?)?(?:/[A-G](?:#|b)?m?)?$"
 )
-SKIP_TOKENS = {"FC", "FCG"}
+SKIP_TOKENS = {"FC", "FCG", "[fill]"}
 
 
 def is_chord_line(ln):
