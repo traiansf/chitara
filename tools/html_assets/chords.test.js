@@ -14,11 +14,18 @@ global.CHORDS_DATA = {
     Cb: "B", Fb: "E", "E#": "F", "B#": "C",
     "Cm#": "C#m", "Fm#": "F#m", CaddG: "C",
   },
-  FINGERINGS: { guitar: {}, ukulele: {} },
+  FINGERINGS: {
+    guitar: {
+      Am: "x02210", Cm: "x35543", "C#m": "x46654",
+      G: "320003", D6: "xx0202",
+    },
+    ukulele: { Am: "2000", Db: "1114" },
+  },
 };
 const src = fs.readFileSync(path.join(__dirname, "chords.js"), "utf8");
 new Function("module", "exports", src)(module, module.exports);
 const { normalizeToken, transposeNote, transposeName } = module.exports;
+const { lookupFingering, shiftFingering, fingerFor, transposedLabel } = module.exports;
 
 test("normalizeToken passes through a plain chord", () => {
   assert.equal(normalizeToken("Am"), "Am");
@@ -50,4 +57,65 @@ test("transposeName shifts only the root, keeps quality and bass", () => {
 
 test("transposeName at offset 0 is a no-op", () => {
   assert.equal(transposeName("Am7", 0), "Am7");
+});
+
+test("lookupFingering finds an exact match", () => {
+  assert.equal(lookupFingering("Am", CHORDS_DATA.FINGERINGS.guitar), "x02210");
+});
+
+test("lookupFingering returns null when nothing matches", () => {
+  assert.equal(lookupFingering("F#maj7", CHORDS_DATA.FINGERINGS.guitar), null);
+});
+
+test("lookupFingering falls back to the enharmonic-flat spelling", () => {
+  // ukulele table only has "Db", not "C#" — a transposed target named "C#"
+  // must still find it.
+  assert.equal(lookupFingering("C#", CHORDS_DATA.FINGERINGS.ukulele), "1114");
+});
+
+test("shiftFingering moves every fretted string by the same amount", () => {
+  // Am (x02210) up 3 semitones is the same shape as the curated Cm (x35543)
+  assert.equal(shiftFingering("x02210", 3), "x35543");
+});
+
+test("shiftFingering takes the shorter circular direction when possible", () => {
+  // Am up 3 or down 9 land on the same chord; the shorter step (+3) is used
+  assert.equal(shiftFingering("x02210", 3), shiftFingering("x02210", -9));
+});
+
+test("shiftFingering never produces a negative fret", () => {
+  const r = shiftFingering("x02210", -1); // Am down 1 semitone -> open string would go to -1
+  assert.ok(!/-/.test(r));
+});
+
+test("shiftFingering falls back to the long way around when the short direction would fret a string below 0", () => {
+  // G (320003) down 1 semitone can't be played by un-fretting an open
+  // string, so the shape moves up 11 semitones instead — correct (still the
+  // same chord), just far up the neck. Accepted limitation: tier 1 (the
+  // curated table) covers every root for major/minor/7/m7/dim7, so this
+  // path only ever fires for the rarer qualities that have gaps in the
+  // curated table, and it never returns a wrong chord, only an awkward one.
+  assert.equal(shiftFingering("320003", -1), "edbbbe");
+});
+
+test("fingerFor prefers the curated exact match over shifting", () => {
+  const r = fingerFor("Am", 3, "x02210", CHORDS_DATA.FINGERINGS.guitar);
+  assert.deepEqual(r, { name: "Cm", fingering: "x35543" });
+});
+
+test("fingerFor falls back to shifting the song's own shape when no curated match exists", () => {
+  // "D" isn't in this tiny fixture table at all, so tier 2 must fire
+  const r = fingerFor("D", 1, "xx0232", CHORDS_DATA.FINGERINGS.guitar);
+  assert.equal(r.name, "D#");
+});
+
+test("fingerFor at offset 0 returns the original untouched", () => {
+  const r = fingerFor("Cm#", 0, "x46654", CHORDS_DATA.FINGERINGS.guitar);
+  assert.deepEqual(r, { name: "Cm#", fingering: "x46654" });
+});
+
+test("transposedLabel renders the normalized+transposed name", () => {
+  assert.equal(transposedLabel("Cm#", 0), "Cm#"); // offset 0: untouched
+  // Cm# normalizes to C#m; C#m up 1 semitone is Dm, not "D"
+  assert.equal(transposedLabel("Cm#", 1), "Dm");
 });
