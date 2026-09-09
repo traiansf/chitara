@@ -800,8 +800,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 12 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/a-fi-muntoman-4973)
 
-
 **Chitară:** C x32010 · G 320003
+
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -846,8 +846,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 106
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -892,8 +892,8 @@ E târziu să te întorci.
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 13 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/altii-mama-nu-mai-face-3192)
 
-
 **Chitară:** C x32010 · C7 x32310 · F 133211 · Fm 133111 · Am x02210 · G 320003
+
 **Ukulele:** C 0003 · C7 0001 · F 2010 · Fm 1013 · Am 2000 · G 0232
 
 ```text
@@ -942,8 +942,8 @@ Refren + /Și așa ca noi nu sunt prea mulți./ x3
 
 **Valeriu Sterian** · Sursa: Caiet Christian Adventure, p. 15 · Caiet cabană RO, p. 89 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/amintire-cu-haiduci-3167)
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003
+
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
@@ -979,8 +979,8 @@ Refren x2
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/Valeriu Sterian · Sursa: Cărticica Karban, p. 144
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003
+
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
@@ -1006,8 +1006,8 @@ Refren:
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/Valeriu Sterian · Sursa: Cărticica Karban, p. 145
 
-
 **Chitară:** Dm xx0231 · F 133211 · C x32010 · A x02220
+
 **Ukulele:** Dm 2210 · F 2010 · C 0003 · A 2100
 
 ```text
@@ -1033,8 +1033,8 @@ bine J
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 17 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/amintiri-din-fagaras-5398)
 
-
 **Chitară:** C x32010 · Dm xx0231 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Dm 2210 · F 2010 · G 0232
 
 ```text
@@ -1073,8 +1073,8 @@ Refren
 
 variantă a cântecului „Amintiri din Făgăraș”, cu titlul „Azi totul pare schimbat” · Sursa: Caiet cabană RO, p. 30
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · F 2010
 
 ```text
@@ -1130,8 +1130,8 @@ Uită tot ce ți-am cântat.
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 19 · Caiet cabană RO, p. 78 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/andri-popa-1426)
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -1180,8 +1180,8 @@ Refren x2
 
 **Phoenix/Pasărea Colibri** · Sursa: Cărticica Karban, p. 116
 
-
 **Chitară:** D xx0232 · Dsus4 xx0233 · Dsus2 xx0230 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · Dsus4 0230 · Dsus2 2200 · G 0232 · A 2100
 
 ```text
@@ -1223,8 +1223,8 @@ Refren:
 
 **Vârf Carpatin** · Sursa: Caiet cabană RO, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/varf-carpatin/balada-fulgerata-de-vant-317)
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -1258,8 +1258,8 @@ Dus de dorul meu târziu.
 
 **Narcisa Suciu** · variantă a cântecului „Balada fulgerată de vânt”, cu titlul „Rău mă dor ochii mă dor” · Sursa: Caiet Christian Adventure, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/rau-ma-dor-ochii-ma-dor-8810)
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -1311,8 +1311,8 @@ Refren x2
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 27 · Caiet cabană RO, p. 25 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/batranul-refugiu-318)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -1347,8 +1347,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 12 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/bucegii-mei-2693)
 
-
 **Chitară:** Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** Em 0432 · C 0003 · D 2220
 
 ```text
@@ -1388,8 +1388,8 @@ Prin văi și chei, Bucegii mei.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 29
 
-
 **Chitară:** G 320003 · Am x02210 · D xx0232
+
 **Ukulele:** G 0232 · Am 2000 · D 2220
 
 ```text
@@ -1439,8 +1439,8 @@ Rămân în urmă regrete și-un mic suspin
 
 **Vasile Mărdare** · Sursa: Caiet Christian Adventure, p. 30 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/cabana-3170)
 
-
 **Chitară:** Em 022000 · Am x02210 · D xx0232 · G 320003 · C x32010 · B7 x21202
+
 **Ukulele:** Em 0432 · Am 2000 · D 2220 · G 0232 · C 0003 · B7 2322
 
 ```text
@@ -1493,8 +1493,8 @@ Refren
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 31
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -1535,8 +1535,8 @@ Refren
 
 **Carmen Silva Ciocolată** · Sursa: Caiet Christian Adventure, p. 32
 
-
 **Chitară:** C x32010 · G 320003 · G7 320001
+
 **Ukulele:** C 0003 · G 0232 · G7 0212
 
 ```text
@@ -1579,8 +1579,8 @@ Refren
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 37 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/calator-3193)
 
-
 **Chitară:** Bm x24432 · D xx0232 · A x02220 · Em 022000 · F# 244322
+
 **Ukulele:** Bm 4222 · D 2220 · A 2100 · Em 0432 · F# 3121
 
 ```text
@@ -1629,8 +1629,8 @@ Refren x4
 
 **Carmen Ciocolata** · alt titlu: „Ninge” · Sursa: Caiet Christian Adventure, p. 38 · Caiet cabană RO, p. 29 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/cand-te-scuturi-de-zapada-2817) · [tabulaturi.ro („Ninge”)](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ninge-596)
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -1665,8 +1665,8 @@ Refren x2
 
 **Compact** · Sursa: Caiet cabană RO, p. 98 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/cantec-pentru-prieteni-391)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · A x02220
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · D 2220 · A 2100
 
 ```text
@@ -1699,8 +1699,8 @@ Când viața greu te va-ncerca.
 
 **Taine Folk** · Sursa: Caiet Christian Adventure, p. 40 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/taine-folk/cantec-de-uitat-de-lume-5855)
 
-
 **Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · Fm 133111
+
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003 · Fm 1013
 
 ```text
@@ -1748,8 +1748,8 @@ Refren x2
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 43 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ce-frumos-e-sus-la-munte-9329)
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -1820,8 +1820,8 @@ Muntele te-așteaptă
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 46
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · Dm xx0231 · G 320003 · Em 022000
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Dm 2210 · G 0232 · Em 0432
 
 ```text
@@ -1863,8 +1863,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 37 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/colind-5401)
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -1898,8 +1898,8 @@ Parfum și mângâiere
 
 **Sorina Moldvai** · Sursa: Caiet Christian Adventure, p. 48 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/sorina-moldvai/copil-hoinar-4700)
 
-
 **Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · D7 xx0212
+
 **Ukulele:** D 2220 · Bm 4222 · A 2100 · G 0232 · D7 2223
 
 ```text
@@ -1961,8 +1961,8 @@ din nou.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 50
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -2026,8 +2026,8 @@ Refren
 
 **Costica David** · Sursa: Caiet Christian Adventure, p. 55
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -2061,8 +2061,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 18 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/din-copilarie-4448)
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -2113,8 +2113,8 @@ Iar mersul de trenuri din noi voi pleca.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 62
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · G 0232 · C 0003
 
 ```text
@@ -2166,8 +2166,8 @@ Refren
 
 **Odyssey** · Sursa: Caiet Christian Adventure, p. 63
 
-
 **Chitară:** Am x02210 · G 320003
+
 **Ukulele:** Am 2000 · G 0232
 
 ```text
@@ -2214,8 +2214,8 @@ Refren x2
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 64 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/dor-de-munti-8397)
 
-
 **Chitară:** C x32010 · Am x02210 · Em 022000 · G7 320001 · G 320003 · Dm xx0231
+
 **Ukulele:** C 0003 · Am 2000 · Em 0432 · G7 0212 · G 0232 · Dm 2210
 
 ```text
@@ -2261,8 +2261,8 @@ Refren x2
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 65
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · F 133211
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -2297,8 +2297,8 @@ Refren x2
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 70
 
-
 **Chitară:** G 320003 · Bm x24432 · C x32010 · D xx0232 · Cm x35543 · Em 022000 · B x24442 · E 022100 · Am x02210
+
 **Ukulele:** G 0232 · Bm 4222 · C 0003 · D 2220 · Cm 0333 · Em 0432 · B 4322 · E 4442 · Am 2000
 
 ```text
@@ -2343,8 +2343,8 @@ Refren
 
 **Doru Stănculescu** · Sursa: Cărticica Karban, p. 153; Caiet cabană RO, p. 150
 
-
 **Chitară:** C x32010 · Em 022000 · Am x02210 · F 133211 · G7 320001
+
 **Ukulele:** C 0003 · Em 0432 · Am 2000 · F 2010 · G7 0212
 
 ```text
@@ -2370,8 +2370,8 @@ Da capo al fine + 2xRefren
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 71 · Caiet cabană RO, p. 21 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fata-din-caraiman-2697)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -2433,8 +2433,8 @@ Refren
 
 Sursa: Caiet cabană RO, p. 8 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/carmen-ciocolata/fata-muntilor-12345)
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -2482,8 +2482,8 @@ O fată și-un băiat pe-un cal înaripat
 
 **Anonim** · variantă a cântecului „Fata munților”, cu titlul „Fata din Crai” · Sursa: Caiet Christian Adventure, p. 72
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -2520,8 +2520,8 @@ Trecut-au zile lungi și ani de-atunci
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 74 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fata-verde-451)
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
+
 **Ukulele:** Am 2000 · C 0003 · G 0232 · F 2010
 
 ```text
@@ -2564,8 +2564,8 @@ Refren
 
 **Phoenix** · variantă a cântecului „Fată verde”, cu titlul „Ochi negri, ochi de țigan” · Sursa: Caiet cabană RO, p. 81 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/ochi-negri-ochi-de-tigan-8786)
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003 · E 022100 · F 133211
+
 **Ukulele:** Am 2000 · C 0003 · G 0232 · E 4442 · F 2010
 
 ```text
@@ -2594,8 +2594,8 @@ Ochii negri, ochi de țigan.
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 126
 
-
 **Chitară:** Em 022000 · G 320003 · D xx0232 · C x32010 · Am x02210
+
 **Ukulele:** Em 0432 · G 0232 · D 2220 · C 0003 · Am 2000
 
 ```text
@@ -2621,8 +2621,8 @@ Refren:
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 78 · Caiet cabană RO, p. 31 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/floare-de-colt-301)
 
-
 **Chitară:** Am x02210 · E 022100 · G 320003 · C x32010 · F 133211 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003 · F 2010 · Dm 2210
 
 ```text
@@ -2672,8 +2672,8 @@ Refren x2 xn.. :)
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 45
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -2708,8 +2708,8 @@ Refren
 
 **Yoyo** · Sursa: Caiet Christian Adventure, p. 80 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/freamata-padurea-11859)
 
-
 **Chitară:** Bm x24432 · A x02220
+
 **Ukulele:** Bm 4222 · A 2100
 
 ```text
@@ -2748,8 +2748,8 @@ Tradăti de frunziș, cu puii uciși.
 
 **Doru Stănculescu** · Sursa: Caiet cabană RO, p. 23
 
-
 **Chitară:** D xx0232 · A x02220 · D7 xx0212 · G 320003 · A7 x02020
+
 **Ukulele:** D 2220 · A 2100 · D7 2223 · G 0232 · A7 0100
 
 ```text
@@ -2775,8 +2775,8 @@ Numai or vedea că nu-s.
 
 **Doru Stănculescu** · muzica/versuri: Doru Stănculescu/??? · Sursa: Cărticica Karban, p. 154
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220 · D7 xx0212
+
 **Ukulele:** D 2220 · G 0232 · A 2100 · D7 2223
 
 ```text
@@ -2799,8 +2799,8 @@ Notă:D7 - Se cantă la repetarea refrenului
 
 **Axa** · Sursa: Caiet Christian Adventure, p. 83 · Caiet cabană RO, p. 22 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-bucegilor-2699)
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003 · C x32010
+
 **Ukulele:** D 2220 · A 2100 · G 0232 · C 0003
 
 ```text
@@ -2867,8 +2867,8 @@ Pentru cel ce muntele-a iubit.
 
 Sursa: Caiet cabană RO, p. 7 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-dianei-3288)
 
-
 **Chitară:** Am x02210 · E 022100 · C x32010 · A x02220 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · C 0003 · A 2100 · Dm 2210
 
 ```text
@@ -2919,8 +2919,8 @@ De îndată ce-am ajuns în Crai.
 
 **Roza Vânturilor** · variantă a cântecului „Imnul Dianei”, cu titlul „Refugiul Diana” · Sursa: Caiet Christian Adventure, p. 136 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/refugiul-diana-940)
 
-
 **Chitară:** Dm xx0231 · C x32010 · F 133211
+
 **Ukulele:** Dm 2210 · C 0003 · F 2010
 
 ```text
@@ -2980,8 +2980,8 @@ Refren x2
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 84
 
-
 **Chitară:** D xx0232 · A x02220 · Bm x24432 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · Bm 4222 · G 0232
 
 ```text
@@ -3036,8 +3036,8 @@ Refren
 
 **Varf Carpatin** · Sursa: Caiet Christian Adventure, p. 85 · Caiet cabană RO, p. 20 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-pietrei-craiului-319)
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · G 0232 · C 0003
 
 ```text
@@ -3082,8 +3082,8 @@ Refren
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 86 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-prieteniei-4038)
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100 · G 320003
+
 **Ukulele:** A 2100 · D 2220 · E 4442 · G 0232
 
 ```text
@@ -3130,8 +3130,8 @@ Refren x2
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 88
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -3166,8 +3166,8 @@ Refren x2
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 89
 
-
 **Chitară:** A x02220 · F#m 244222 · D xx0232 · E 022100 · Bm x24432
+
 **Ukulele:** A 2100 · F#m 2120 · D 2220 · E 4442 · Bm 4222
 
 ```text
@@ -3209,8 +3209,8 @@ Refren
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 93 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/legenda-craiului-3305)
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232
 
 ```text
@@ -3257,8 +3257,8 @@ Refren x2
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 94
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231
+
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -3291,8 +3291,8 @@ De libertate-n vârf de munți.
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 96 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/titus-constantin/luna-in-cascade-7497)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -3337,8 +3337,8 @@ Refren xn
 
 **Ion Cioroiu** · Sursa: Caiet Christian Adventure, p. 98 · Caiet cabană RO, p. 13 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/m-a-tinut-mama-acasa-3290)
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -3381,8 +3381,8 @@ Refren x2
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 100 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ma-ntorc-la-tine-muntele-meu-drag-8491)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -3428,6 +3428,7 @@ Refren x2
 **Karma** · Sursa: Caiet Christian Adventure, p. 101 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ma-intorc-si-pasii-s-grei-3678)
 
 **Chitară:** Em 022000 · G 320003 · C x32010 · D xx0232
+
 **Ukulele:** Em 0432 · G 0232 · C 0003 · D 2220
 
 ```text
@@ -3465,8 +3466,8 @@ Refren x2
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 102 · Caiet cabană RO, p. 32
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
+
 **Ukulele:** Am 2000 · C 0003 · G 0232 · F 2010
 
 ```text
@@ -3502,8 +3503,8 @@ Mereu e cu mine la bine și greu./ x2
 
 Sursa: Caiet cabană RO, p. 159 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/micul-print-5425)
 
-
 **Chitară:** C x32010 · Em 022000 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Em 0432 · F 2010 · G 0232
 
 ```text
@@ -3534,8 +3535,8 @@ Mai am o carte ce-i foarte subțire
 
 Sursa: Caiet cabană RO, p. 17 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/moartea-unui-alpinist-1661)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · C x32010 · E7 020100
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · C 0003 · E7 1202
 
 ```text
@@ -3581,8 +3582,8 @@ Până-n ziua-n care stânca ne-o trăda.
 
 **Victor Socaciu** · variantă a cântecului „Moartea unui alpinist”, cu titlul „Omagiul unui alpinist” · Sursa: Caiet Christian Adventure, p. 116
 
-
 **Chitară:** Am x02210 · C x32010 · Dm xx0231 · F 133211 · E 022100 · E7 020100
+
 **Ukulele:** Am 2000 · C 0003 · Dm 2210 · F 2010 · E 4442 · E7 1202
 
 ```text
@@ -3631,8 +3632,8 @@ Refren
 
 **Titus Constantin** · Sursa: Caiet Christian Adventure, p. 107 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/titus-constantin/muntii-mei-9147)
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -3717,8 +3718,8 @@ Hei, hei.
 
 **Roza Vânturilor** · Sursa: Caiet Christian Adventure, p. 113 · Caiet cabană RO, p. 10 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/numai-noi-228)
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · G 0232 · C 0003
 
 ```text
@@ -3763,8 +3764,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 24 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/nunta-pe-caraiman-4447)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -3824,8 +3825,8 @@ Urmându-ne unica izbândă
 
 **Dragoș Bălan** · variantă a cântecului „Nunta pe Caraiman”, cu titlul „Logodnă pe Caraiman” · Sursa: Caiet Christian Adventure, p. 95 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/logodna-pe-caraiman-6428)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -3901,8 +3902,8 @@ Refren B + Refren F
 
 **Mădălina Amon** · Sursa: Caiet Christian Adventure, p. 120
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Dm 2210 · E 4442
 
 ```text
@@ -3944,8 +3945,8 @@ Refren x2
 
 **Dan Andrei Aldea** · Sursa: Caiet cabană RO, p. 15
 
-
 **Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231 · G 320003
+
 **Ukulele:** Am 2000 · E 4442 · C 0003 · Dm 2210 · G 0232
 
 ```text
@@ -3991,8 +3992,8 @@ Veșnic pe drum căutând un castel.
 
 **Dan Andrei Aldea** · muzica/versuri: Dan Andrei Aldea/??? · Sursa: Cărticica Karban, p. 11
 
-
 **Chitară:** Am x02210 · E 022100 · C x32010 · G 320003 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -4022,8 +4023,8 @@ Veșnic pe drum căutând un castel.
 
 **Dan Andrei Aldea/ Sfinx** · muzica/versuri: Dan Andrei Aldea/??? · Sursa: Cărticica Karban, p. 12
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003 · E 022100
+
 **Ukulele:** Am 2000 · C 0003 · G 0232 · E 4442
 
 ```text
@@ -4053,8 +4054,8 @@ Om [Am]bun des[C]chide-[G]ne poar[Am]ta
 
 **Darwin** · Sursa: Caiet Christian Adventure, p. 117
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232
 
 ```text
@@ -4115,8 +4116,8 @@ Iubito, tu să stai cuminte-n casă/ x2
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 123 · Caiet cabană RO, p. 9 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/padure-nebuna-4050)
 
-
 **Chitară:** Dm xx0231 · F 133211 · C x32010
+
 **Ukulele:** Dm 2210 · F 2010 · C 0003
 
 ```text
@@ -4162,8 +4163,8 @@ Refren x2
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 14 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/pe-cine-si-cate-carari-2528)
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -4209,8 +4210,8 @@ De aceea pe cine și câte cărări las în urmă nu-mi pasă
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 131
 
-
 **Chitară:** C x32010 · G 320003 · C7 x32310 · F 133211 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · C7 0001 · F 2010 · Am 2000
 
 ```text
@@ -4248,8 +4249,8 @@ Te-așteptăm, revino printre noi.
 
 **Roza Vânturilor** · Sursa: Caiet Christian Adventure, p. 135 · Caiet cabană RO, p. 19 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/rapa-469)
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232
 
 ```text
@@ -4294,8 +4295,8 @@ Trec printre oameni și mă socot
 
 Sursa: Caiet cabană RO, p. 126 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/sa-intoarcem-timpul-5417)
 
-
 **Chitară:** C x32010 · Dm xx0231 · Am x02210 · G 320003
+
 **Ukulele:** C 0003 · Dm 2210 · Am 2000 · G 0232
 
 ```text
@@ -4338,8 +4339,8 @@ SĂ-ntoarcem timpul înapoi.
 
 **Phoenix** · Sursa: Cărticica Karban, p. 130 · Caiet Christian Adventure, p. 144 · Caiet cabană RO, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/strunga-457)
 
-
 **Chitară:** Em 022000 · G 320003 · F 133211 · Dm xx0231
+
 **Ukulele:** Em 0432 · G 0232 · F 2010 · Dm 2210
 
 ```text
@@ -4379,9 +4380,9 @@ SĂ-ntoarcem timpul înapoi.
 
 **Radu Pietreanu** · Sursa: Caiet Christian Adventure, p. 150
 
+**Chitară:** C x32010 · E 022100 · Am x02210 · F 133211 · G 320003
 
-**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
-**Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
+**Ukulele:** C 0003 · E 4442 · Am 2000 · F 2010 · G 0232
 
 ```text
 C                 E           Am
@@ -4425,8 +4426,8 @@ Refren x2
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/trenul-dragostei-3303)
 
-
 **Chitară:** G 320003 · Cadd9 x32030 · Am x02210 · Am7 x02010 · D7 xx0212 · C x32010 · D xx0232 · Bm x24432 · Em 022000 · E 022100 · Dsus4 xx0233
+
 **Ukulele:** G 0232 · Cadd9 0203 · Am 2000 · Am7 0000 · D7 2223 · C 0003 · D 2220 · Bm 4222 · Em 0432 · E 4442 · Dsus4 0230
 
 ```text
@@ -4474,8 +4475,8 @@ Un tren ce dragostea îl cere, un tren ce are-ntârziere an de an
 
 **Supa & Maria** · Sursa: Caiet Christian Adventure, p. 156
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -4537,8 +4538,8 @@ Refren
 
 **Yoyo** · Sursa: Caiet Christian Adventure, p. 157 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/tropa-trop-spre-cabana-3847)
 
-
 **Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -4590,8 +4591,8 @@ Refren x2
 
 **Albatros** · Sursa: Caiet Christian Adventure, p. 161
 
-
 **Chitară:** A x02220 · E7 020100 · D xx0232
+
 **Ukulele:** A 2100 · E7 1202 · D 2220
 
 ```text
@@ -4657,8 +4658,8 @@ Trili lili lila
 
 Sursa: Caiet cabană RO, p. 46 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ultima-zi-5404)
 
-
 **Chitară:** Em 022000 · Am x02210 · B7 x21202
+
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -4697,8 +4698,8 @@ Un târziu zadarnic happy end.
 
 **CALEnDAR** · Sursa: Caiet Christian Adventure, p. 165 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/calendar/un-munte-asternut-12346)
 
-
 **Chitară:** Bm x24432 · G 320003 · D xx0232 · A x02220
+
 **Ukulele:** Bm 4222 · G 0232 · D 2220 · A 2100
 
 ```text
@@ -4742,8 +4743,8 @@ Refren x2
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 168 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/viata-de-haiduc-6181)
 
-
 **Chitară:** Bm x24432 · A x02220 · Em 022000 · C x32010
+
 **Ukulele:** Bm 4222 · A 2100 · Em 0432 · C 0003
 
 ```text
@@ -4818,8 +4819,8 @@ Refren x2
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 169 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/viata-de-vagabond-4049)
 
-
 **Chitară:** Dm xx0231 · C x32010 · A x02220
+
 **Ukulele:** Dm 2210 · C 0003 · A 2100
 
 ```text
@@ -4861,8 +4862,8 @@ Refren
 
 Sursa: Cărticica Karban, p. 218
 
-
 **Chitară:** C x32010 · C7 x32310 · G7 320001 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · C7 0001 · G7 0212 · G 0232 · F 2010
 
 ```text
@@ -4892,8 +4893,8 @@ A7 în loc de G7 și G în loc de F...
 
 **Cătălin Condreț** · Sursa: Caiet Christian Adventure, p. 173 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -4940,8 +4941,8 @@ Să dăinuiți pe veci.
 
 variantă a cântecului „Visul” · Sursa: Caiet cabană RO, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
-
 **Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -4977,8 +4978,8 @@ SĂ nu vă destrămați ușor ...
 
 alt cântec cu același titlu · Sursa: Caiet cabană RO, p. 129 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
-
 **Chitară:** Em 022000 · C x32010 · Am x02210 · D xx0232 · G 320003
+
 **Ukulele:** Em 0432 · C 0003 · Am 2000 · D 2220 · G 0232
 
 ```text
@@ -5025,8 +5026,8 @@ CĂ mă-nsoțești în drumul meu pribeag
 
 **Vârf Carpatin** · Sursa: Caiet Christian Adventure, p. 177 · Caiet cabană RO, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/varf-carpatin/vulturul-323)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · F 2010 · E 4442
 
 ```text
@@ -5072,8 +5073,8 @@ Refren x2 +
 
 **Vali Șerban** · Sursa: Caiet Christian Adventure, p. 18 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/avram-iancu-10369)
 
-
 **Chitară:** Am x02210 · G 320003 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · G 0232 · E 4442 · Dm 2210
 
 ```text
@@ -5158,8 +5159,8 @@ Refren
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/Valeriu Sterian · Sursa: Cărticica Karban, p. 146
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003
+
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
@@ -5188,8 +5189,8 @@ Refren:
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 45 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/colindul-mainilor-truditoare-1927)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -5220,8 +5221,8 @@ Al puterii noastre pe pământ mâini nemuritoare.
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 54 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/dacii-liberi-2918)
 
-
 **Chitară:** Dm xx0231 · C x32010 · A x02220 · F 133211
+
 **Ukulele:** Dm 2210 · C 0003 · A 2100 · F 2010
 
 ```text
@@ -5289,8 +5290,8 @@ Refren
 
 **Andrei Mureșan** · Sursa: Caiet Christian Adventure, p. 58
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · F 2010 · E 4442
 
 ```text
@@ -5362,8 +5363,8 @@ Decât să fim sclavi iarăşi în vechiul nost' pământ!
 
 **Andrei Mureșanu** · Sursa: Cărticica Karban, p. 188
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -5409,8 +5410,8 @@ Decât să fim sclavi iarăşi în vechiul nost' pământ!
 
 Sursa: Caiet cabană RO, p. 50
 
-
 **Chitară:** G 320003 · A7 x02020 · D xx0232 · E 022100 · D7 xx0212 · A x02220
+
 **Ukulele:** G 0232 · A7 0100 · D 2220 · E 4442 · D7 2223 · A 2100
 
 ```text
@@ -5442,8 +5443,8 @@ Eminescu-i România tăinuită în cuvânt.
 
 **popular** · Sursa: Cărticica Karban, p. 189
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · Am 2000
 
 ```text
@@ -5468,8 +5469,8 @@ Eminescu-i România tăinuită în cuvânt.
 
 Sursa: Cărticica Karban, p. 190
 
-
 **Chitară:** D xx0232 · A x02220
+
 **Ukulele:** D 2220 · A 2100
 
 ```text
@@ -5511,8 +5512,8 @@ Hora noastră cea fră[A]țească,
 
 **Cristian Paturca** · muzica/versuri: Cristian Paturca/Laura Botolan · Sursa: Cărticica Karban, p. 115
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -5546,8 +5547,8 @@ Refren
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 91 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/in-umbra-marelui-urss-748)
 
-
 **Chitară:** Em 022000 · D xx0232 · Am x02210 · C x32010 · Bm x24432 · A x02220 · G 320003
+
 **Ukulele:** Em 0432 · D 2220 · Am 2000 · C 0003 · Bm 4222 · A 2100 · G 0232
 
 ```text
@@ -5630,8 +5631,8 @@ Astăzi doare sărutul pe obraz/ x2
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Adrian Păunescu · Sursa: Cărticica Karban, p. 76
 
-
 **Chitară:** C x32010 · F 133211 · G7 320001 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G7 0212 · G 0232
 
 ```text
@@ -5682,8 +5683,8 @@ că tu ai [F]palma cât o [C]tara
 
 Sursa: Caiet cabană RO, p. 50
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · G7 320001
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · G7 0212
 
 ```text
@@ -5722,8 +5723,8 @@ De la mormântul lui ștefan să ne rugăm pentru țară.
 
 Sursa: Cărticica Karban, p. 191
 
-
 **Chitară:** Am x02210 · Dm xx0231 · Dm7 xx0211 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · Dm7 2213 · E 4442
 
 ```text
@@ -5785,8 +5786,8 @@ cu[Am]lori.
 
 Sursa: Cărticica Karban, p. 192
 
-
 **Chitară:** Am x02210 · Dm xx0231 · Em 022000
+
 **Ukulele:** Am 2000 · Dm 2210 · Em 0432
 
 ```text
@@ -5813,8 +5814,8 @@ Notă: O variantă simplă pentru începători și cu versurile originale.
 
 muzica/versuri: Ciprian Porumbescu/??? · Sursa: Cărticica Karban, p. 194
 
-
 **Chitară:** C x32010 · Am x02210 · G7 320001 · F 133211 · Dm xx0231
+
 **Ukulele:** C 0003 · Am 2000 · G7 0212 · F 2010 · Dm 2210
 
 ```text
@@ -5842,8 +5843,8 @@ Păcat că anumite epoci au făcut din acest cântec frumos o amintire tristă.
 
 **Unde** · Sursa: Caiet Christian Adventure, p. 154 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/tron-in-apuseni-6561)
 
-
 **Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · G 0232
 
 ```text
@@ -5903,8 +5904,8 @@ Refren x2
 
 **Vali Șerban** · Sursa: Caiet Christian Adventure, p. 155 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/tron-in-apuseni-6561)
 
-
 **Chitară:** Bm x24432 · F# 244322 · G 320003 · A x02220 · D xx0232
+
 **Ukulele:** Bm 4222 · F# 3121 · G 0232 · A 2100 · D 2220
 
 ```text
@@ -5988,8 +5989,8 @@ Refren
 
 **Refren:** · Sursa: Cărticica Karban, p. 193
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003
+
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
@@ -6027,8 +6028,8 @@ Imnul "Desteptati-va [Am]români".
 
 **Pasărea Colibri** · muzica/versuri: Ray Davies/The Kinks/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 102
 
-
 **Chitară:** Am x02210 · E 022100 · A x02220 · Dm xx0231 · E7 020100
+
 **Ukulele:** Am 2000 · E 4442 · A 2100 · Dm 2210 · E7 1202
 
 ```text
@@ -6075,8 +6076,8 @@ Dar [E7]banii când s-au [E]dus, l-a [E7]și lăsat [Am]prin [E7]șan[Am]țuri.
 
 muzica/versuri: Melodia "Living Net Door To Alice"/Smokie · Sursa: Cărticica Karban, p. 232
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -6107,8 +6108,8 @@ Mai [D]are un picior... o [C]mână și-[G]atât...
 
 **adaptat** · Sursa: Caiet Christian Adventure, p. 20
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -6200,8 +6201,8 @@ Ca să scoată castronelul
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 21 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/aproape-de-voi-574)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100 · C x32010 · G 320003
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · C 0003 · G 0232
 
 ```text
@@ -6245,8 +6246,8 @@ Refren x2
 
 **Popular din maramureș** · Sursa: Cărticica Karban, p. 195
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -6283,8 +6284,8 @@ Variantă studenteasca:
 
 Sursa: Cărticica Karban, p. 202
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -6310,8 +6311,8 @@ Sursa: Cărticica Karban, p. 202
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 26
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -6372,8 +6373,8 @@ Refren
 
 **Cântece Horror** · Sursa: Caiet cabană RO, p. 65
 
-
 **Chitară:** C x32010 · G 320003
+
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -6410,8 +6411,8 @@ Involuntar, bing-bang.
 
 Sursa: Cărticica Karban, p. 229
 
-
 **Chitară:** C x32010 · G 320003
+
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -6438,8 +6439,8 @@ R:
 
 **Bosquito** · Sursa: Caiet Christian Adventure, p. 28 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/bosquito/bosquito-309)
 
-
 **Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · E7 020100 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · E7 1202 · C 0003 · E 4442
 
 ```text
@@ -6513,8 +6514,8 @@ Dar cel mai mult doi ochi albaștri.
 
 **Ecoul** · Sursa: Caiet cabană RO, p. 102
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -6560,8 +6561,8 @@ Mi-am pierdut și timpul
 
 **Ecoul** · muzica/versuri: Sorina Claudia Blaj/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 66
 
-
 **Chitară:** C x32010 · Csus4 x33011 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · Csus4 0013 · G 0232 · F 2010
 
 ```text
@@ -6604,8 +6605,8 @@ exemplificat aici pentru acordul C.
 
 Sursa: Cărticica Karban, p. 238
 
-
 **Chitară:** Am x02210 · E 022100
+
 **Ukulele:** Am 2000 · E 4442
 
 ```text
@@ -6635,8 +6636,8 @@ Sursa: Cărticica Karban, p. 238
 
 **populara?/traditonal?** · Sursa: Caiet cabană RO, p. 72
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -6683,8 +6684,8 @@ Câinii toți lătrau
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 222
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -6729,8 +6730,8 @@ Refren:
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/carolina-1237)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -6809,8 +6810,8 @@ Refren
 
 Sursa: Cărticica Karban, p. 213
 
-
 **Chitară:** C x32010 · G 320003 · G7 320001 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · G7 0212 · F 2010
 
 ```text
@@ -6853,8 +6854,8 @@ Note:Fie care strofa se poate cânta de două ori. Așa poți face loc în cânt
 
 Sursa: Cărticica Karban, p. 233
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -6901,8 +6902,8 @@ repetă...
 
 Sursa: Cărticica Karban, p. 234
 
-
 **Chitară:** E 022100 · B7 x21202 · A x02220 · B x24442
+
 **Ukulele:** E 4442 · B7 2322 · A 2100 · B 4322
 
 ```text
@@ -6957,8 +6958,8 @@ Personal prefer variantă transpusa de mine J
 
 muzica/versuri: Melodia: "What shall we do to the drunken sailor?" · Sursa: Cărticica Karban, p. 214
 
-
 **Chitară:** Dm xx0231 · C x32010 · Am x02210
+
 **Ukulele:** Dm 2210 · C 0003 · Am 2000
 
 ```text
@@ -6998,8 +6999,8 @@ Exemplificat aici pentru acordurile Dm și C
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 44 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/ce-mult-te-am-iubit-paraschivo-4914)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -7071,8 +7072,8 @@ La braț cu alt gealan
 
 Sursa: Cărticica Karban, p. 248
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -7106,8 +7107,8 @@ Tu [E]faci pe nasoala și [Am]pleci.
 
 **Intro: E - A - E - B7 - A - E** · Sursa: Cărticica Karban, p. 237
 
-
 **Chitară:** E 022100 · E7 020100 · A x02220 · B7 x21202
+
 **Ukulele:** E 4442 · E7 1202 · A 2100 · B7 2322
 
 ```text
@@ -7140,8 +7141,8 @@ versuri.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 42
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -7208,8 +7209,8 @@ Le-a intrat o țeapă-n (ce mă?)...gleznă
 
 Sursa: Cărticica Karban, p. 235
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -7267,8 +7268,8 @@ Le-a intrat o țeapă-n [A](ce mă?) ... glezna
 
 Sursa: Cărticica Karban, p. 196
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · D7 xx0212 · Em 022000
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · D7 2223 · Em 0432
 
 ```text
@@ -7294,8 +7295,8 @@ Iți [C]mulțu[D]mim fru[G]mos.
 
 **Necunoscut** · Sursa: Cărticica Karban, p. 252
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -7325,8 +7326,8 @@ Refren
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 49 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/copilita-fara-minte-1441)
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -7462,8 +7463,8 @@ strofele următoare și poate fi cântat și pe mai multe voci J
 
 **Vasile Șeicaru** · Sursa: Caiet Christian Adventure, p. 59 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/din-prea-mult-sau-prea-putin-745)
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003 · Em 022000
+
 **Ukulele:** D 2220 · A 2100 · G 0232 · Em 0432
 
 ```text
@@ -7524,8 +7525,8 @@ Refren x2
 
 Sursa: Cărticica Karban, p. 240
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -7553,8 +7554,8 @@ Că-s și [Am]alte [E]dobito[Am]ace
 
 Sursa: Cărticica Karban, p. 239
 
-
 **Chitară:** Cm x35543 · Gm 355333 · G 320003 · C x32010 · F 133211
+
 **Ukulele:** Cm 0333 · Gm 0231 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -7583,8 +7584,8 @@ Pentru cei care știu acest cântec în aceasta forma, mai sus sunt acordurile.
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 44
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -7621,8 +7622,8 @@ Referitor la timing după primul vers prinde bine o pauza J
 
 **tradițional** · Sursa: Cărticica Karban, p. 197
 
-
 **Chitară:** Dm xx0231 · Am x02210 · E 022100
+
 **Ukulele:** Dm 2210 · Am 2000 · E 4442
 
 ```text
@@ -7673,8 +7674,8 @@ E||-----------------|-----------------|--0--------------|-----------------||
 
 Sursa: Cărticica Karban, p. 240
 
-
 **Chitară:** D xx0232 · G 320003 · A7 x02020 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A7 0100 · A 2100
 
 ```text
@@ -7723,8 +7724,8 @@ A, să nu uit: în locul acordului A7 merge folosit și un A.
 
 Sursa: Caiet cabană RO, p. 64 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/felia-1650)
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -7769,8 +7770,8 @@ Gagicile să mă iubească
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 75 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/femei-femei-2707)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -7839,8 +7840,8 @@ Nu știti decât să vă-mbătați!
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fetita-franceza-5454)
 
-
 **Chitară:** C x32010 · G 320003
+
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -7875,8 +7876,8 @@ Vă spun poftă bună că merg să mă /ca...riola, cariola/ x2
 
 Sursa: Cărticica Karban, p. 228
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
 
 ```text
@@ -7912,8 +7913,8 @@ de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
 
 Sursa: Caiet cabană RO, p. 66 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/gasca-1652)
 
-
 **Chitară:** Am x02210 · E 022100 · E7 020100 · C x32010 · Dm xx0231 · A7 x02020
+
 **Ukulele:** Am 2000 · E 4442 · E7 1202 · C 0003 · Dm 2210 · A7 0100
 
 ```text
@@ -7970,8 +7971,8 @@ Dar noi ne vom aduna
 
 Sursa: Cărticica Karban, p. 245
 
-
 **Chitară:** D xx0232 · A x02220
+
 **Ukulele:** D 2220 · A 2100
 
 ```text
@@ -7989,8 +7990,8 @@ Unde-s doi puterea creste
 
 **Beatles(Yelow submarine)** · Sursa: Cărticica Karban, p. 243
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · Am x02210 · D7 xx0212
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · Am 2000 · D7 2223
 
 ```text
@@ -8021,8 +8022,8 @@ poate să mi le trimita...
 
 **Melodia este una de la un cântec destul de cunoscut din anii de grădiniță.** · Sursa: Cărticica Karban, p. 230
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -8054,8 +8055,8 @@ s.a.m.d.
 
 **populara?/traditonal?** · Sursa: Caiet cabană RO, p. 67
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -8092,8 +8093,8 @@ Io sono la gitanna .
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 223
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -8147,8 +8148,8 @@ prinde în acest caz după cum urmează: D = X X 0 2 3 4
 
 Sursa: Cărticica Karban, p. 231
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -8175,8 +8176,8 @@ Plângea și ultimu [G]calicu.
 
 Sursa: Cărticica Karban, p. 246
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -8206,8 +8207,8 @@ strofei și începând o strofa nouă cu un ritm mai lent
 
 **...ca și completare la Katiusa (prima variantă)** · Sursa: Cărticica Karban, p. 247
 
-
 **Chitară:** Em 022000 · B7 x21202 · G 320003 · C x32010 · Am x02210
+
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · C 0003 · Am 2000
 
 ```text
@@ -8252,8 +8253,8 @@ Cântata din Em variațiunile sunt mai simplu de prins decât în versiunea mea
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 99 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/m-am-dus-sa-tai-un-copac-3195)
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -8300,8 +8301,8 @@ Cade cade cade cade cade copacul
 
 **Tradițional** · Sursa: Cărticica Karban, p. 211
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -8335,8 +8336,8 @@ Cade cade cade cade cade copacul
 
 **Albatros** · Sursa: Caiet Christian Adventure, p. 118 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/o-mama-3011)
 
-
 **Chitară:** G 320003 · C x32010 · Am x02210 · F 133211
+
 **Ukulele:** G 0232 · C 0003 · Am 2000 · F 2010
 
 ```text
@@ -8397,8 +8398,8 @@ Refren
 
 **Spitalul de urgenta** · muzica/versuri: Spitalul de urgenta/Spitalul de urgenta · Sursa: Cărticica Karban, p. 156
 
-
 **Chitară:** C x32010 · Dm xx0231 · G7 320001
+
 **Ukulele:** C 0003 · Dm 2210 · G7 0212
 
 ```text
@@ -8436,8 +8437,8 @@ Refren 2X
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 133 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/pustoaica-de-liceu-3091)
 
-
 **Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232
 
 ```text
@@ -8487,8 +8488,8 @@ Tu ai 16 ani, iar eu am dublul tău.
 
 **Reclamele sunt mici cântecele care la susținerea unui "concert" se cântă** · Sursa: Cărticica Karban, p. 249
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -8616,8 +8617,8 @@ Bea la bar o Coca-Cola
 
 **Ștefan Banică** · Sursa: Caiet Christian Adventure, p. 141
 
-
 **Chitară:** E 022100 · A x02220 · Cm# x46654 · B x24442
+
 **Ukulele:** E 4442 · A 2100 · Cm# 1104 · B 4322
 
 ```text
@@ -8663,8 +8664,8 @@ Refren x3
 
 **???** · muzica/versuri: Melodia: "Să nu uităm să iubim trandafirii" · Sursa: Cărticica Karban, p. 216
 
-
 **Chitară:** Em 022000 · Am x02210 · B7 x21202
+
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -8685,8 +8686,8 @@ Dacă îți aduci aminte tu...vezi adresă de e-mail de mai sus.
 
 **populara?/traditonal?** · Sursa: Caiet cabană RO, p. 71
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
 
 ```text
@@ -8723,8 +8724,8 @@ Nici să-i dai tu mii de lei.
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 225
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
 
 ```text
@@ -8780,8 +8781,8 @@ de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
 
 Sursa: Cărticica Karban, p. 200
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -8805,8 +8806,8 @@ Sursa: Cărticica Karban, p. 200
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 140 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/sobita-2703)
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -8870,8 +8871,8 @@ Refren x2
 
 **tradus de la Stephen Foster** · Sursa: Caiet Christian Adventure, p. 146
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -8926,8 +8927,8 @@ Refren x3
 
 Sursa: Caiet cabană RO, p. 70
 
-
 **Chitară:** Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** Em 0432 · C 0003 · D 2220
 
 ```text
@@ -8982,8 +8983,8 @@ Adio, dregul meu.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 149
 
-
 **Chitară:** C x32010 · C7 x32310 · F 133211 · Em7 020000 · A7 x02020 · Dm7 xx0211 · G7 320001 · G 320003
+
 **Ukulele:** C 0003 · C7 0001 · F 2010 · Em7 0202 · A7 0100 · Dm7 2213 · G7 0212 · G 0232
 
 ```text
@@ -9046,8 +9047,8 @@ Refren
 
 **Intro:** · muzica/versuri: "Raindrops Keep Falling On My Head" · Sursa: Cărticica Karban, p. 253
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · C7 x32310 · Em7 020000 · A7 x02020 · Dm7 xx0211 · G7 320001
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · C7 0001 · Em7 0202 · A7 0100 · Dm7 2213 · G7 0212
 
 ```text
@@ -9079,8 +9080,8 @@ Mi-ai zâm[Em7]bit
 
 **Romanegila** · Sursa: Caiet Christian Adventure, p. 160 · Caiet cabană RO, p. 69
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -9125,8 +9126,8 @@ Refren1 x2 + Refren2 x4
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 226
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · Em 022000 · A x02220
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · Em 0432 · A 2100
 
 ```text
@@ -9204,8 +9205,8 @@ repetă J
 
 **Spitalul de urgenta** · muzica/versuri: Spitalul de urgenta · Sursa: Cărticica Karban, p. 157
 
-
 **Chitară:** Am x02210 · E7 020100 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · E7 1202 · Dm 2210 · E 4442
 
 ```text
@@ -9247,8 +9248,8 @@ Tot ți-o fura ci[Am]neva
 
 **Autentic** · Sursa: Caiet Christian Adventure, p. 151 · Caiet cabană RO, p. 68
 
-
 **Chitară:** Am x02210 · E 022100 · E7 020100 · Dm xx0231 · A7 x02020 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · E7 1202 · Dm 2210 · A7 0100 · G 0232 · C 0003
 
 ```text
@@ -9315,8 +9316,8 @@ Refren2 x2
 
 muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 217
 
-
 **Chitară:** D xx0232 · A7 x02020
+
 **Ukulele:** D 2220 · A7 0100
 
 ```text
@@ -9347,8 +9348,8 @@ Dacă cineva își aduce aminte îl rog să îmi scrie.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 163 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/un-kil-de-rom-4307)
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -9410,8 +9411,8 @@ Refren
 
 Sursa: Cărticica Karban, p. 254
 
-
 **Chitară:** C x32010 · C7 x32310 · G7 320001 · F 133211
+
 **Ukulele:** C 0003 · C7 0001 · G7 0212 · F 2010
 
 ```text
@@ -9439,8 +9440,8 @@ A7 în loc de G7 și G în loc de F...
 
 muzica/versuri: din folclorul copiilor · Sursa: Cărticica Karban, p. 261
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -9497,8 +9498,8 @@ Notă: Măsura cântecului e 2/4
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 66 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/2000-de-ani-241)
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Dm 2210
 
 ```text
@@ -9545,8 +9546,8 @@ Refren x2
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 162
 
-
 **Chitară:** G 320003 · C x32010 · F 133211
+
 **Ukulele:** G 0232 · C 0003 · F 2010
 
 ```text
@@ -9589,8 +9590,8 @@ Refren:
 
 **Versuri Artur Stavri/melodie populara** · Sursa: Cărticica Karban, p. 201
 
-
 **Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
 
 ```text
@@ -9619,8 +9620,8 @@ le recomand pe cele barate. Astfel:
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 39 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/actorul-499)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -9672,8 +9673,8 @@ I-au aruncat un fel de plată:
 
 Sursa: Caiet cabană RO, p. 55 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/adelina-1605)
 
-
 **Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003 · D xx0232
+
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232 · D 2220
 
 ```text
@@ -9705,8 +9706,8 @@ Adelina e cu mine, totul e minunat.
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 11 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/adio-deci-pe-curand-1454)
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -9773,8 +9774,8 @@ Refren x4
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 164
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -9821,8 +9822,8 @@ Refren
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 93
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -9858,8 +9859,8 @@ Refren 2X
 
 Sursa: Caiet cabană RO, p. 108
 
-
 **Chitară:** A x02220 · D xx0232 · E7 020100 · C x32010 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E7 1202 · C 0003 · E 4442
 
 ```text
@@ -9891,8 +9892,8 @@ Nici cu piciorul drept.
 
 **Pasărea Colibri** · muzica/versuri: în original: She Belongs to Me · Sursa: Cărticica Karban, p. 103
 
-
 **Chitară:** C x32010 · F 133211 · D xx0232
+
 **Ukulele:** C 0003 · F 2010 · D 2220
 
 ```text
@@ -9947,8 +9948,8 @@ Celelalte loviri (nemarcate) se fac de jos în sus
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 163
 
-
 **Chitară:** F 133211 · Am x02210 · C x32010 · G 320003
+
 **Ukulele:** F 2010 · Am 2000 · C 0003 · G 0232
 
 ```text
@@ -9982,8 +9983,8 @@ Dacă [C]v-a făcut plă[Am]cere,
 
 Sursa: Cărticica Karban, p. 255
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -10006,8 +10007,8 @@ Notă: Măsura cântecului e 2/4
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 14
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Em 022000
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432
 
 ```text
@@ -10084,8 +10085,8 @@ Refren x2
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 59
 
-
 **Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220 · D# xx1343 · Cm x35543 · G# 466544 · A# x13331
+
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100 · D# 0331 · Cm 0333 · G# 5343 · A# 3211
 
 ```text
@@ -10126,8 +10127,8 @@ E||---------------------------------------------------------------||
 
 **Mădălina Amon** · Sursa: Caiet Christian Adventure, p. 16 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/madalina-amon/amintire-de-fum-7370)
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · E 022100
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · E 4442
 
 ```text
@@ -10163,8 +10164,8 @@ Refren
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Cezar Ivanescu · Sursa: Cărticica Karban, p. 92
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -10194,8 +10195,8 @@ amintesc.
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 94
 
-
 **Chitară:** Em 022000 · D xx0232 · Am x02210 · B7 x21202 · G 320003 · Bm x24432
+
 **Ukulele:** Em 0432 · D 2220 · Am 2000 · B7 2322 · G 0232 · Bm 4222
 
 ```text
@@ -10230,8 +10231,8 @@ Refren
 
 Sursa: Caiet cabană RO, p. 130
 
-
 **Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232
+
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220
 
 ```text
@@ -10272,8 +10273,8 @@ S-o inventăm întreagă cât ești, cât mai exist
 
 Sursa: Caiet cabană RO, p. 160
 
-
 **Chitară:** Am x02210 · G 320003 · Em 022000 · C x32010 · Dm xx0231
+
 **Ukulele:** Am 2000 · G 0232 · Em 0432 · C 0003 · Dm 2210
 
 ```text
@@ -10327,8 +10328,8 @@ Eu din zid abia vă mai aud.
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 38 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/antiprimavara-500)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · Cm x35543 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · Cm 0333 · E 4442
 
 ```text
@@ -10378,8 +10379,8 @@ Ia-ți înflorirea, primăvară
 
 **Valeriu Sterian** · Sursa: Caiet cabană RO, p. 147 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/anxietate-3681)
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -10418,8 +10419,8 @@ Mai încearcă să trăiești atât cât mai poți.
 
 **Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 13
 
-
 **Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · Adim/F# xx4545 · C x32010 · B7 x21202
+
 **Ukulele:** Em 0432 · B 4322 · G 0232 · Am 2000 · Adim7 2323 · Adim/F# 2323 · C 0003 · B7 2322
 
 ```text
@@ -10471,8 +10472,8 @@ doar pe chitara acustica, nu m-a preocupat ideea..J
 
 **Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 15
 
-
 **Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · F#dim7 xx4545 · C x32010 · B7 x21202 · Edim7 xx2323 · Ebdim7 xx1212
+
 **Ukulele:** Em 0432 · B 4322 · G 0232 · Am 2000 · Adim7 2323 · F#dim7 1212 · C 0003 · B7 2322 · Edim7 0101 · Ebdim7 2323
 
 ```text
@@ -10513,8 +10514,8 @@ Refren
 
 **Adrian Ivanițchi** · Sursa: Caiet cabană RO, p. 167
 
-
 **Chitară:** C x32010 · Em 022000 · G7 320001 · Dm xx0231 · F 133211 · G 320003 · Am x02210
+
 **Ukulele:** C 0003 · Em 0432 · G7 0212 · Dm 2210 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -10552,8 +10553,8 @@ Veți mai simți o arsură pe mână.
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 90
 
-
 **Chitară:** C x32010 · Dm xx0231 · F 133211 · Am x02210 · G 320003
+
 **Ukulele:** C 0003 · Dm 2210 · F 2010 · Am 2000 · G 0232
 
 ```text
@@ -10581,8 +10582,8 @@ Ca [F]păsările mort voi cântă[G]rii mai greu decât [C]viu
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 91
 
-
 **Chitară:** D xx0232 · A x02220 · Em 022000 · G 320003 · Bm x24432
+
 **Ukulele:** D 2220 · A 2100 · Em 0432 · G 0232 · Bm 4222
 
 ```text
@@ -10619,8 +10620,8 @@ Note:O transcriere de notă 10+ J
 
 **Ștefan Banica jr.** · muzica/versuri: Ștefan Banica jr./??? · Sursa: Cărticica Karban, p. 29
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Am x02210 · B7 x21202 · Em 022000
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Am 2000 · B7 2322 · Em 0432
 
 ```text
@@ -10673,8 +10674,8 @@ Ce ți-a dat Dumnezeu
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 22 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/astazi-si-maine-146)
 
-
 **Chitară:** Dm xx0231 · E 022100 · Am x02210 · C x32010 · G 320003
+
 **Ukulele:** Dm 2210 · E 4442 · Am 2000 · C 0003 · G 0232
 
 ```text
@@ -10721,8 +10722,8 @@ Refren
 
 **Mondial** · Sursa: Caiet Christian Adventure, p. 23 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mondial/atat-de-frageda-987)
 
-
 **Chitară:** E 022100 · A x02220 · B x24442 · G# 466544
+
 **Ukulele:** E 4442 · A 2100 · B 4322 · G# 5343
 
 ```text
@@ -10791,8 +10792,8 @@ Unde te duci? Când o să vii?/ x2
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 179
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · B7 x21202
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · B7 2322
 
 ```text
@@ -10819,8 +10820,8 @@ sus!
 
 **Iris** · Sursa: Caiet Christian Adventure, p. 24 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/baby-375)
 
-
 **Chitară:** Am x02210 · Em 022000 · F 133211 · Dm xx0231 · G 320003 · Fm 133111 · C x32010 · Eb xx1343
+
 **Ukulele:** Am 2000 · Em 0432 · F 2010 · Dm 2210 · G 0232 · Fm 1013 · C 0003 · Eb 0331
 
 ```text
@@ -10863,8 +10864,8 @@ Refren x4
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 166 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/balada-blondelor-iubiri-1849)
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · B x24442
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · B 4322
 
 ```text
@@ -10917,8 +10918,8 @@ Ce stele ne-ar putea păzi.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 25 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/bat-la-poarta-ta-3061)
 
-
 **Chitară:** Bm x24432 · G 320003 · D xx0232 · A x02220
+
 **Ukulele:** Bm 4222 · G 0232 · D 2220 · A 2100
 
 ```text
@@ -10957,8 +10958,8 @@ Refren
 
 Sursa: Caiet cabană RO, p. 107
 
-
 **Chitară:** Am x02210 · Am7 x02010 · Dm xx0231 · Dm7 xx0211 · G 320003 · C x32010 · E 022100 · E7 020100 · F 133211
+
 **Ukulele:** Am 2000 · Am7 0000 · Dm 2210 · Dm7 2213 · G 0232 · C 0003 · E 4442 · E7 1202 · F 2010
 
 ```text
@@ -11011,8 +11012,8 @@ Nici ochi să vadă, nici buze.
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 113 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/biletul-de-tren-5415)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E7 020100 · Em 022000 · B7 x21202
+
 **Ukulele:** Am 2000 · Dm 2210 · E7 1202 · Em 0432 · B7 2322
 
 ```text
@@ -11059,8 +11060,8 @@ Luminați în jur c-o floare
 
 **Pasărea Colibri** · muzica/versuri: Paul Simon/Paul Simon/trad. Florian Pittis · Sursa: Cărticica Karban, p. 104
 
-
 **Chitară:** C x32010 · Am x02210 · G 320003 · F 133211 · G7 320001
+
 **Ukulele:** C 0003 · Am 2000 · G 0232 · F 2010 · G7 0212
 
 ```text
@@ -11112,8 +11113,8 @@ Refren:
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 95
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -11155,8 +11156,8 @@ Refren 2X +
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/ca-o-stea-2655)
 
-
 **Chitară:** G 320003 · Am x02210 · F 133211 · C x32010 · Dm xx0231 · Em 022000
+
 **Ukulele:** G 0232 · Am 2000 · F 2010 · C 0003 · Dm 2210 · Em 0432
 
 ```text
@@ -11201,8 +11202,8 @@ Refren x2
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 146 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/caii-liberi-1645)
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · Am x02210 · D7 xx0212 · B7 x21202
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · Am 2000 · D7 2223 · B7 2322
 
 ```text
@@ -11254,8 +11255,8 @@ Caii sunt un ideal.
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 35 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/calul-din-marlboro-520)
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -11288,8 +11289,8 @@ E fum și este scrum și simt că-nebunesc
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 33 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/canadiana-1561)
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · Bm x24432
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · Bm 4222
 
 ```text
@@ -11357,8 +11358,8 @@ Refren Xn
 
 **Phoenix/Pasărea Colibri** · Sursa: Cărticica Karban, p. 117
 
-
 **Chitară:** C x32010 · Am7 x02010 · Am x02210 · Em7 020000 · F 133211 · Dm7 xx0211 · G 320003
+
 **Ukulele:** C 0003 · Am7 0000 · Am 2000 · Em7 0202 · F 2010 · Dm7 2213 · G 0232
 
 ```text
@@ -11386,8 +11387,8 @@ Refren Xn
 
 **Phoenix/Pasărea Colibri** · muzica/versuri: F. Bordeianu, N. Covaci/V. Suvagau · Sursa: Cărticica Karban, p. 118
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -11416,8 +11417,8 @@ Notă:O variantă mai simplă a melodiei. Recomandata pentru începători J
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 75 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/cand-s-o-mpartit-norocu-299)
 
-
 **Chitară:** Am x02210 · E 022100
+
 **Ukulele:** Am 2000 · E 4442
 
 ```text
@@ -11466,8 +11467,8 @@ SĂ plec pe păduri cântând.
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Cărticica Karban, p. 165
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D7 xx0212 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D7 2223 · D 2220
 
 ```text
@@ -11541,8 +11542,8 @@ Ca și floarea câmpului, astăzi este pa mâini nu-i.
 
 **Unde** · Sursa: Caiet cabană RO, p. 149 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/unde/cantec-in-noapte-1614)
 
-
 **Chitară:** G 320003 · B7 x21202 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · B7 2322 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -11576,8 +11577,8 @@ Dumnezeul pietrelor.
 
 **Victor Socaciu** · muzica/versuri: Victor Socaciu/? · Sursa: Cărticica Karban, p. 148
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -11618,8 +11619,8 @@ Refren
 
 Sursa: Caiet cabană RO, p. 148 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/odyssey/cantec-pentru-tine-7966)
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003 · E 022100
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232 · E 4442
 
 ```text
@@ -11677,8 +11678,8 @@ Niciodată, câteodată, soțul tău, uneori.
 
 **Poesis(Pasărea Colibri** · variantă a cântecului „Cântec șoptit”, cu titlul „Odată am ucis o vrabie...” · Sursa: Caiet cabană RO, p. 109
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -11715,8 +11716,8 @@ Soarele apune după niște mări
 
 **Poesis(Pasărea Colibri** · muzica/versuri: Marius Bătu/Zaharia Stancu · Sursa: Cărticica Karban, p. 133
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -11744,8 +11745,8 @@ Soarele apune după niște mări
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/cantecul-bufonului-436)
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -11790,8 +11791,8 @@ Mai poftiți și-n altă seară !
 
 **Dan Andrei Aldea/Pasărea Colibri** · muzica/versuri: Dan Andrei Aldea/W. Shakespeare trad. Mihnea Gheorghiu · Sursa: Cărticica Karban, p. 10
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -11823,8 +11824,8 @@ acordul C la fiecare prim vers al strofelor.
 
 Sursa: Caiet cabană RO, p. 139 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/castelul-6640)
 
-
 **Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · Am x02210
+
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220 · Am 2000
 
 ```text
@@ -11867,8 +11868,8 @@ Scăldată de ultimul brio
 
 muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
 
-
 **Chitară:** D xx0232 · A7 x02020 · G 320003
+
 **Ukulele:** D 2220 · A7 0100 · G 0232
 
 ```text
@@ -11911,8 +11912,8 @@ Notă: Măsura cântecului e 2/4
 
 **Pasărea Colibri** · muzica/versuri: Nicu Vladimir/Nicu Vladimir · Sursa: Cărticica Karban, p. 105
 
-
 **Chitară:** Em 022000 · G 320003 · C x32010 · F 133211
+
 **Ukulele:** Em 0432 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -11958,8 +11959,8 @@ Notă: Măsura cântecului e 2/4
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 41 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/ceasornicarul-2977)
 
-
 **Chitară:** Dm xx0231 · G 320003 · C x32010 · Am x02210 · E 022100
+
 **Ukulele:** Dm 2210 · G 0232 · C 0003 · Am 2000 · E 4442
 
 ```text
@@ -12018,8 +12019,8 @@ Secunda-i mireasa ta
 
 **Mircea Baniciu** · Sursa: Cărticica Karban, p. 38
 
-
 **Chitară:** F 133211 · C x32010 · Am x02210 · Dm xx0231 · E 022100 · G 320003
+
 **Ukulele:** F 2010 · C 0003 · Am 2000 · Dm 2210 · E 4442 · G 0232
 
 ```text
@@ -12062,8 +12063,8 @@ Refren:
 
 **Craii Dianei** · Sursa: Caiet Christian Adventure, p. 45 · Caiet cabană RO, p. 162 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/cerbul-2694)
 
-
 **Chitară:** Bm x24432 · Em 022000 · A x02220
+
 **Ukulele:** Bm 4222 · Em 0432 · A 2100
 
 ```text
@@ -12151,8 +12152,8 @@ Milos și bun și iubitor
 
 **Tradițional** · Sursa: Cărticica Karban, p. 203
 
-
 **Chitară:** C x32010 · G7 320001 · F 133211
+
 **Ukulele:** C 0003 · G7 0212 · F 2010
 
 ```text
@@ -12176,8 +12177,8 @@ progresie D A7 C în locul celei D G7 F
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ciresarii-3702)
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322
 
 ```text
@@ -12214,8 +12215,8 @@ Doar cireșii când îi scuturi ochii tăi, copilărie.
 
 Sursa: Caiet cabană RO, p. 62
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -12262,8 +12263,8 @@ Această conspirație în doi.
 
 Sursa: Cărticica Karban, p. 204
 
-
 **Chitară:** Am x02210 · E 022100 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · C 0003
 
 ```text
@@ -12289,8 +12290,8 @@ Sursa: Cărticica Karban, p. 204
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 47 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/colo-n-vale-3664)
 
-
 **Chitară:** Dm xx0231 · F 133211 · C x32010
+
 **Ukulele:** Dm 2210 · F 2010 · C 0003
 
 ```text
@@ -12346,8 +12347,8 @@ Refren + Refren 2
 
 Sursa: Caiet cabană RO, p. 124
 
-
 **Chitară:** Dm xx0231 · A7 x02020 · F 133211 · C x32010 · Gm 355333
+
 **Ukulele:** Dm 2210 · A7 0100 · F 2010 · C 0003 · Gm 0231
 
 ```text
@@ -12399,8 +12400,8 @@ N-am să am ce întinde spre tine.
 
 **Ștefan Hrușcă** · muzica/versuri: Un copac cu flori · Sursa: Cărticica Karban, p. 81
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -12442,8 +12443,8 @@ Să-nflor[C]esc la poarta [G]ta
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 184
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -12479,8 +12480,8 @@ Refren
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 51
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231 · F 133211 · Em 022000 · E 022100
+
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Dm 2210 · F 2010 · Em 0432 · E 4442
 
 ```text
@@ -12552,8 +12553,8 @@ tine în gând
 
 Sursa: Cărticica Karban, p. 257
 
-
 **Chitară:** D xx0232 · A7 x02020
+
 **Ukulele:** D 2220 · A7 0100
 
 ```text
@@ -12588,8 +12589,8 @@ Notă: Măsura cântecului e 3/4
 
 muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -12618,8 +12619,8 @@ Notă:Măsura cântecului e 3/4
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 137 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/daca-ai-ghici-1453)
 
-
 **Chitară:** C x32010 · Em 022000 · Am x02210 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · Em 0432 · Am 2000 · G 0232 · F 2010
 
 ```text
@@ -12672,8 +12673,8 @@ Lângă o cunună de măr.
 
 Sursa: Caiet cabană RO, p. 132
 
-
 **Chitară:** Am x02210 · E 022100 · F 133211 · Dm xx0231 · G 320003 · C x32010 · A x02220
+
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Dm 2210 · G 0232 · C 0003 · A 2100
 
 ```text
@@ -12721,8 +12722,8 @@ SĂ le transforme în săruturi.
 
 **Anotimpul 5** · Sursa: Caiet Christian Adventure, p. 52 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/daca-n-ai-amintiri-3667)
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232
 
 ```text
@@ -12767,8 +12768,8 @@ Refren x2
 
 **Cătălin Crișan** · Sursa: Caiet Christian Adventure, p. 53 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/catalin-crisan/daca-pleci-1004)
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -12803,8 +12804,8 @@ Refren x2
 
 **Celelalte Cuvinte** · muzica/versuri: Marcel Breazu, Marcel Breazu · Sursa: Cărticica Karban, p. 56
 
-
 **Chitară:** G 320003 · D xx0232 · Am x02210 · Em 022000
+
 **Ukulele:** G 0232 · D 2220 · Am 2000 · Em 0432
 
 ```text
@@ -12833,8 +12834,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 125 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/daca-vrei-sa-pleci-5416)
 
-
 **Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -12875,8 +12876,8 @@ Cu-acea privire ne-nțeleasă.
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/??? · Sursa: Cărticica Karban, p. 43
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -12907,8 +12908,8 @@ Refren:
 
 **Phoenix** · Sursa: Cărticica Karban, p. 132
 
-
 **Chitară:** Em 022000 · D xx0232
+
 **Ukulele:** Em 0432 · D 2220
 
 ```text
@@ -12931,8 +12932,8 @@ He Heeee
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 186
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -12960,8 +12961,8 @@ De [C]ce.
 
 Sursa: Caiet cabană RO, p. 157 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/de-ce-2931)
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -12993,8 +12994,8 @@ De ce îmi stai mereu în gând?
 
 Sursa: Cărticica Karban, p. 205
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -13032,8 +13033,8 @@ Sursa: Cărticica Karban, p. 205
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 30
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · Am 2000
 
 ```text
@@ -13069,8 +13070,8 @@ Refren:
 
 **ROA** · Sursa: Caiet Christian Adventure, p. 57
 
-
 **Chitară:** Am x02210 · G 320003 · F 133211 · C x32010
+
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003
 
 ```text
@@ -13109,8 +13110,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 53
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -13152,8 +13153,8 @@ Iar tu in visare nu vezi decât alta.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 56 · Caiet cabană RO, p. 60 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/delirul-672)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -13215,8 +13216,8 @@ Refren x2
 
 **Hara** · muzica/versuri: Tudor Runcanu/Tudor Runcanu · Sursa: Cărticica Karban, p. 72
 
-
 **Chitară:** D xx0232 · A x02220 · Em 022000 · G 320003 · Bm x24432
+
 **Ukulele:** D 2220 · A 2100 · Em 0432 · G 0232 · Bm 4222
 
 ```text
@@ -13249,8 +13250,8 @@ necesare.
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 60 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/dintr-o-cafea-1394)
 
-
 **Chitară:** Am x02210 · Em 022000 · F 133211 · C x32010 · G 320003 · Dm xx0231 · D xx0232
+
 **Ukulele:** Am 2000 · Em 0432 · F 2010 · C 0003 · G 0232 · Dm 2210 · D 2220
 
 ```text
@@ -13309,8 +13310,8 @@ Refren
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 166
 
-
 **Chitară:** Em 022000 · Am x02210 · G 320003 · C x32010 · A7 x02020
+
 **Ukulele:** Em 0432 · Am 2000 · G 0232 · C 0003 · A7 0100
 
 ```text
@@ -13346,8 +13347,8 @@ Refren:
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 134
 
-
 **Chitară:** Am x02210 · E 022100 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -13373,8 +13374,8 @@ Refren:
 
 **Bmby** · alt titlu: „Ochii căprui” · Sursa: Caiet Christian Adventure, p. 61 · Caiet cabană RO, p. 54
 
-
 **Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -13422,8 +13423,8 @@ Refren
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 145
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010 · Em 022000
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003 · Em 0432
 
 ```text
@@ -13465,8 +13466,8 @@ Aripi ca zborul să-l înveți.
 
 **Victor Socaciu** · muzica/versuri: Sholom Secunda/Sholom Secunda/trad. ? · Sursa: Cărticica Karban, p. 149
 
-
 **Chitară:** Am x02210 · E7 020100 · Dm xx0231 · E 022100 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E7 1202 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -13503,8 +13504,8 @@ urmatoarul model:
 
 **Aurelian Andreescu** · muzica/versuri: ???/??? · Sursa: Cărticica Karban, p. 23
 
-
 **Chitară:** D xx0232 · G 320003 · E 022100 · E7 020100 · Gm 355333 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · E 4442 · E7 1202 · Gm 0231 · A 2100
 
 ```text
@@ -13543,8 +13544,8 @@ Refren
 
 **Alexandru Andrieș** · muzica/versuri: Alexandru Andrieș/Alexandru Andrieș · Sursa: Cărticica Karban, p. 25
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -13591,8 +13592,8 @@ a 5-a) și E5(în poziția a 7-a)...vezi punctul de "powerchords"...
 
 **Zdub&Zdob** · muzica/versuri: Zdub&Zdob/Zdub&Zdob · Sursa: Cărticica Karban, p. 178
 
-
 **Chitară:** Em 022000 · C x32010 · D7 xx0212 · G 320003 · Am x02210 · B7 x21202 · D xx0232
+
 **Ukulele:** Em 0432 · C 0003 · D7 2223 · G 0232 · Am 2000 · B7 2322 · D 2220
 
 ```text
@@ -13642,8 +13643,8 @@ Legenda tab: O-optime; P-pătrime; S-șaisprezecime
 
 **Dragoș Bălan** · Sursa: Caiet Christian Adventure, p. 67
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · E7 020100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · E7 1202
 
 ```text
@@ -13693,8 +13694,8 @@ Refren
 
 variantă a cântecului „Dragoste în fân”, cu titlul „La strâns de fân” · Sursa: Caiet cabană RO, p. 26
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -13742,8 +13743,8 @@ E Am
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/Dan Verona · Sursa: Cărticica Karban, p. 138
 
-
 **Chitară:** D xx0232 · F#m 244222 · Bm x24432 · Em 022000 · A x02220 · Fm 133111 · D7 xx0212 · G 320003 · Gm 355333
+
 **Ukulele:** D 2220 · F#m 2120 · Bm 4222 · Em 0432 · A 2100 · Fm 1013 · D7 2223 · G 0232 · Gm 0231
 
 ```text
@@ -13772,8 +13773,8 @@ Refren
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Horia Stoicanu/Horia Stoicanu · Sursa: Cărticica Karban, p. 167
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · D7 xx0212 · Em 022000 · D xx0232 · Dm xx0231
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · D7 2223 · Em 0432 · D 2220 · Dm 2210
 
 ```text
@@ -13805,8 +13806,8 @@ Iar [Am]fetele, [Am]dragă, [Dm]fetele, [Dm]oh
 
 **Mircea Bodolan** · muzica/versuri: Mircea Bodolan/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 52
 
-
 **Chitară:** G 320003 · C x32010 · Em 022000 · Am x02210 · D xx0232 · Em/B x22000
+
 **Ukulele:** G 0232 · C 0003 · Em 0432 · Am 2000 · D 2220 · Em/B 0432
 
 ```text
@@ -13862,8 +13863,8 @@ C       Em/B    Am     G
 
 **Popular din maramureș** · Sursa: Cărticica Karban, p. 208
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -13920,8 +13921,8 @@ C       Em/B    Am     G
 
 **Nicu Alifantis** · Sursa: Caiet Christian Adventure, p. 68 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/emotie-de-toamna-3223)
 
-
 **Chitară:** G7 320001 · C7 x32310 · E 022100 · Am x02210 · Dm7 xx0211
+
 **Ukulele:** G7 0212 · C7 0001 · E 4442 · Am 2000 · Dm7 2213
 
 ```text
@@ -13960,8 +13961,8 @@ Strofa 2
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Nichita Stanescu · Sursa: Cărticica Karban, p. 17
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · G7 320001
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · G7 0212
 
 ```text
@@ -13988,8 +13989,8 @@ Notă: Strofele se repetă o dată în aceeași ordine.
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Nichita Stanescu · Sursa: Cărticica Karban, p. 18
 
-
 **Chitară:** Dm7 xx0211 · G7 320001 · Cmaj7 x32000 · Fmaj7 xx3210 · Dm/B x20231 · E7 020100 · E+5 xx2323 · Am x02210
+
 **Ukulele:** Dm7 2213 · G7 0212 · Cmaj7 0002 · Fmaj7 2413 · Dm/B 2210 · E7 1202 · E+5 1003 · Am 2000
 
 ```text
@@ -14024,8 +14025,8 @@ E||----------------||
 
 Sursa: Caiet cabană RO, p. 59 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/epilog-658)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -14058,8 +14059,8 @@ Prada moartă-n gheare...
 
 **Ada Milea** · muzica/versuri: Ada Milea/Ada Milea · Sursa: Cărticica Karban, p. 99
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -14091,8 +14092,8 @@ A           D           E
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Victor Carcu · Sursa: Cărticica Karban, p. 31
 
-
 **Chitară:** D xx0232 · Bm x24432 · F#m 244222 · Em 022000 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · Bm 4222 · F#m 2120 · Em 0432 · A 2100 · G 0232
 
 ```text
@@ -14138,8 +14139,8 @@ Notă: Pentru tonalitatea originala folosește capo în poziția a 2-a.
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 69
 
-
 **Chitară:** A x02220 · G 320003 · D xx0232 · Bm x24432 · Em 022000
+
 **Ukulele:** A 2100 · G 0232 · D 2220 · Bm 4222 · Em 0432
 
 ```text
@@ -14188,8 +14189,8 @@ Ești așa frumoasă și ne-am iubi o viață într-o zi
 
 **Compact** · Sursa: Caiet Christian Adventure, p. 73 · Caiet cabană RO, p. 99 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/fata-din-vis-603)
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003 · Bm x24432
+
 **Ukulele:** D 2220 · A 2100 · G 0232 · Bm 4222
 
 ```text
@@ -14242,8 +14243,8 @@ Voi sta lânga tine.
 
 Sursa: Caiet cabană RO, p. 156 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fata-morgana-2222)
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · E 022100 · A x02220
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Dm 2210 · E 4442 · A 2100
 
 ```text
@@ -14282,8 +14283,8 @@ Ea vine-odată cu fata ce-aduce soarele-n piept.
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 180
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232
 
 ```text
@@ -14328,8 +14329,8 @@ sus!
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 79 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fluier-in-cer-812)
 
-
 **Chitară:** Am x02210 · F 133211 · G 320003 · C x32010 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · F 2010 · G 0232 · C 0003 · E 4442 · Dm 2210
 
 ```text
@@ -14377,8 +14378,8 @@ Cum bătea, inima.
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 168 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/focul-vanat-8740)
 
-
 **Chitară:** Am x02210 · E7 020100 · G7 320001 · C x32010 · Dm xx0231 · G 320003
+
 **Ukulele:** Am 2000 · E7 1202 · G7 0212 · C 0003 · Dm 2210 · G 0232
 
 ```text
@@ -14427,8 +14428,8 @@ La scandal renunț întâia oară.
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Serghei Esenin/Trad.??? · Sursa: Cărticica Karban, p. 46
 
-
 **Chitară:** Em 022000 · B7 x21202 · D xx0232 · G 320003 · Am x02210
+
 **Ukulele:** Em 0432 · B7 2322 · D 2220 · G 0232 · Am 2000
 
 ```text
@@ -14462,8 +14463,8 @@ La scandal renunț întâia oară.
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/focuri-vii-3204)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -14501,8 +14502,8 @@ Refren
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Gheorghe Țărnea · Sursa: Cărticica Karban, p. 82
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · A7 x02020
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · A7 0100
 
 ```text
@@ -14542,8 +14543,8 @@ Fără să [E]credem ca iubirea nu ne [Am]vrea. [A7]
 
 **Tiberiu Ceia** · Sursa: Cărticica Karban, p. 209
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -14572,8 +14573,8 @@ Refren:
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 32
 
-
 **Chitară:** F 133211 · C x32010 · Dm xx0231 · Am x02210 · E 022100
+
 **Ukulele:** F 2010 · C 0003 · Dm 2210 · Am 2000 · E 4442
 
 ```text
@@ -14612,8 +14613,8 @@ Refren 2
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 138 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/frunza-1529)
 
-
 **Chitară:** Am x02210 · E 022100 · F 133211 · C x32010 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · F 2010 · C 0003 · Dm 2210
 
 ```text
@@ -14656,8 +14657,8 @@ De ce mă înspăimântă frunzele.
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/ · Sursa: Cărticica Karban, p. 83
 
-
 **Chitară:** Dm xx0231 · A x02220 · A7 x02020 · C x32010 · Am x02210
+
 **Ukulele:** Dm 2210 · A 2100 · A7 0100 · C 0003 · Am 2000
 
 ```text
@@ -14692,8 +14693,8 @@ Notă: Intro, intermediar și la final se poate fluiera pe acordurile Dm și A.
 
 Sursa: Caiet cabană RO, p. 140
 
-
 **Chitară:** C x32010 · Em 022000 · Am x02210 · F 133211 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Em 0432 · Am 2000 · F 2010 · Dm 2210 · G 0232
 
 ```text
@@ -14736,8 +14737,8 @@ Ca și celălalt din mine luați și mâncați.
 
 Sursa: Cărticica Karban, p. 244
 
-
 **Chitară:** G 320003 · C x32010 · F 133211
+
 **Ukulele:** G 0232 · C 0003 · F 2010
 
 ```text
@@ -14786,8 +14787,8 @@ Refren:
 
 Sursa: Caiet cabană RO, p. 35
 
-
 **Chitară:** Am x02210 · G 320003 · Dm xx0231
+
 **Ukulele:** Am 2000 · G 0232 · Dm 2210
 
 ```text
@@ -14819,8 +14820,8 @@ Vreme trece, vreme vine.
 
 **Ada Milea** · Sursa: Cărticica Karban, p. 100
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -14858,8 +14859,8 @@ A         E
 
 Sursa: Caiet cabană RO, p. 163
 
-
 **Chitară:** C x32010 · D xx0232 · G 320003 · Em 022000 · G7 320001
+
 **Ukulele:** C 0003 · D 2220 · G 0232 · Em 0432 · G7 0212
 
 ```text
@@ -14895,8 +14896,8 @@ Pe-acest pământ de nori umbrit.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 81
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -14941,8 +14942,8 @@ Refren x2
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 82 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/haituit-567)
 
-
 **Chitară:** Bm x24432 · Em 022000 · A x02220 · D xx0232 · B7 x21202 · G 320003
+
 **Ukulele:** Bm 4222 · Em 0432 · A 2100 · D 2220 · B7 2322 · G 0232
 
 ```text
@@ -15000,8 +15001,8 @@ Hăituit, cumplit...
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 169
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -15050,8 +15051,8 @@ La [F]Hanul [G]lui Năl[C]bea.
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 186
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
@@ -15073,8 +15074,8 @@ Ca-n [C]gară mă aș[D]teaptă iubita [G]mea
 
 muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -15093,8 +15094,8 @@ Notă: Măsura cântecului e 2/4
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/??? · Sursa: Cărticica Karban, p. 47
 
-
 **Chitară:** Bm x24432 · Em 022000 · G 320003 · F# 244322 · D xx0232
+
 **Ukulele:** Bm 4222 · Em 0432 · G 0232 · F# 3121 · D 2220
 
 ```text
@@ -15127,8 +15128,8 @@ poziția a 3-a.
 
 **Compact** · Sursa: Caiet cabană RO, p. 58 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/imi-pare-rau-12954)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -15160,8 +15161,8 @@ Eu nu te-am dat nicicând uitării
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 111 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/imposibila-nunta-673)
 
-
 **Chitară:** F 133211 · Am x02210 · Dm xx0231 · E 022100 · Em 022000 · G 320003 · C x32010
+
 **Ukulele:** F 2010 · Am 2000 · Dm 2210 · E 4442 · Em 0432 · G 0232 · C 0003
 
 ```text
@@ -15212,8 +15213,8 @@ Ce păcat că morții i-am fost dat ca soț.
 
 Sursa: Caiet cabană RO, p. 136
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -15253,8 +15254,8 @@ Dintre zbor și dintre clipă.
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/George Topârceanu · Sursa: Cărticica Karban, p. 33
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100 · B7 x21202 · G 320003
+
 **Ukulele:** A 2100 · D 2220 · E 4442 · B7 2322 · G 0232
 
 ```text
@@ -15303,8 +15304,8 @@ funcționeze...
 
 Sursa: Caiet cabană RO, p. 127
 
-
 **Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · C 0003 · Dm 2210 · E 4442
 
 ```text
@@ -15351,8 +15352,8 @@ R1:
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 91 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/intelegere-1081)
 
-
 **Chitară:** Am x02210 · D xx0232 · G 320003 · C x32010 · Em 022000
+
 **Ukulele:** Am 2000 · D 2220 · G 0232 · C 0003 · Em 0432
 
 ```text
@@ -15397,8 +15398,8 @@ Nici alții a ne minți nu pot.
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Mihail Lermontov;Trad. Mihai Beniuc · Sursa: Cărticica Karban, p. 34
 
-
 **Chitară:** C x32010 · Am x02210 · G 320003 · Em 022000 · D7 xx0212
+
 **Ukulele:** C 0003 · Am 2000 · G 0232 · Em 0432 · D7 2223
 
 ```text
@@ -15454,8 +15455,8 @@ G                          G           Bass-run       Em
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 90 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/intoarcere-la-orient-6930)
 
-
 **Chitară:** Am x02210 · G 320003 · D xx0232
+
 **Ukulele:** Am 2000 · G 0232 · D 2220
 
 ```text
@@ -15521,8 +15522,8 @@ Doamnelor și domnilor
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 35
 
-
 **Chitară:** Em 022000 · A x02220 · D xx0232 · Bm x24432 · G 320003
+
 **Ukulele:** Em 0432 · A 2100 · D 2220 · Bm 4222 · G 0232
 
 ```text
@@ -15583,8 +15584,8 @@ Cu notă ca la acest riff se lovesc numai corzile de bass.
 
 Sursa: Caiet cabană RO, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/invata-de-la-toate-5399)
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -15628,8 +15629,8 @@ SĂ înveți din tot ce piere tu să trăiești în veci.
 
 Sursa: Caiet cabană RO, p. 158
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -15687,8 +15688,8 @@ Toți trecătorii sunt îndrăgostiți
 
 Sursa: Caiet cabană RO, p. 103
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -15732,8 +15733,8 @@ Iar părul rădăcină în pământ.
 
 Sursa: Caiet cabană RO, p. 90
 
-
 **Chitară:** C x32010 · F 133211 · Am x02210 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · Am 2000 · G 0232
 
 ```text
@@ -15775,8 +15776,8 @@ Cine oare, să-mi răspundeți voi, ne va împiedica?
 
 **Emeric Imre** · Sursa: Caiet Christian Adventure, p. 87
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003 · F 133211 · Am x02210
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -15835,8 +15836,8 @@ Am dat pe acest munte viața mea
 
 **Vasile Mardare** · Sursa: Caiet cabană RO, p. 56 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/iubito-12253)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -15875,8 +15876,8 @@ Ca vraja basmului mereu să ardă.
 
 Sursa: Caiet cabană RO, p. 165
 
-
 **Chitară:** Em 022000 · Am x02210 · B7 x21202
+
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -15914,8 +15915,8 @@ Cerul și pământul.
 
 **Phoenix** · muzica/versuri: N. Covaci/N. Covaci · Sursa: Cărticica Karban, p. 119
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003 · Em 022000
+
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Em 0432
 
 ```text
@@ -15959,8 +15960,8 @@ Refren:
 
 **Stigma** · muzica/versuri: Stigma/??? · Sursa: Cărticica Karban, p. 155
 
-
 **Chitară:** Am x02210 · Am7 x02010 · Dm xx0231 · E7 020100 · E 022100 · G 320003
+
 **Ukulele:** Am 2000 · Am7 0000 · Dm 2210 · E7 1202 · E 4442 · G 0232
 
 ```text
@@ -16006,8 +16007,8 @@ Notă: Pentru tonalitatea originala folosește capo în poziția a 2-a.
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 40 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/la-adio-584)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -16067,8 +16068,8 @@ Noi bietul cuplu pârjolit.
 
 **Semnal M** · Sursa: Caiet Christian Adventure, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/la-fereastra-ta-218)
 
-
 **Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · A x02220 · E 022100
+
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220 · A 2100 · E 4442
 
 ```text
@@ -16127,8 +16128,8 @@ Să pot sta în părul tău
 
 **Semnal M** · muzica/versuri: Semnal M/??? · Sursa: Cărticica Karban, p. 141
 
-
 **Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · E 022100 · A x02220 · E7 020100
+
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220 · E 4442 · A 2100 · E7 1202
 
 ```text
@@ -16189,8 +16190,8 @@ Note:tempo 4/4; acordaj standard
 
 **tradițional** · Sursa: Cărticica Karban, p. 198
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · D7 xx0212
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · D7 2223
 
 ```text
@@ -16261,8 +16262,8 @@ Notă: "Ionel" se înlocuiește cu numele sărbătoritului/sărbătoritei J
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Adrian Păunescu · Sursa: Cărticica Karban, p. 75
 
-
 **Chitară:** Em 022000 · G 320003 · Am x02210 · B7 x21202
+
 **Ukulele:** Em 0432 · G 0232 · Am 2000 · B7 2322
 
 ```text
@@ -16303,8 +16304,8 @@ Refren
 
 Sursa: Caiet cabană RO, p. 42 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/la-razboi-5402)
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100 · B7 x21202
+
 **Ukulele:** A 2100 · D 2220 · E 4442 · B7 2322
 
 ```text
@@ -16355,8 +16356,8 @@ Eu vreau să mă cunun cu moartea.
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 87 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/la-un-ceai-3410)
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -16395,8 +16396,8 @@ Dar sunt un "je t'aime, moi non plus".
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 97
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · Am x02210 · G 320003
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · Am 2000 · G 0232
 
 ```text
@@ -16441,8 +16442,8 @@ Tot ce-n [D]suflet se [G]as[D]cun[C]de
 
 **Direcția 5 & Paula Seling** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 60
 
-
 **Chitară:** Bm x24432 · A x02220 · G 320003 · B x24442
+
 **Ukulele:** Bm 4222 · A 2100 · G 0232 · B 4322
 
 ```text
@@ -16476,8 +16477,8 @@ Riff 1 (pe coarda 3):   g---4/5--4--2--0--2---
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 181
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -16502,8 +16503,8 @@ sus!
 
 Sursa: Caiet cabană RO, p. 61
 
-
 **Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -16534,8 +16535,8 @@ Luminile se-aprind.
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/George Coșbuc · Sursa: Cărticica Karban, p. 168
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -16582,8 +16583,8 @@ Luminile se-aprind.
 
 **Ecoul** · Sursa: Caiet cabană RO, p. 101 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/lumina-807)
 
-
 **Chitară:** Am x02210 · G 320003 · E 022100 · C x32010
+
 **Ukulele:** Am 2000 · G 0232 · E 4442 · C 0003
 
 ```text
@@ -16634,8 +16635,8 @@ Lumină, viață, adevăr.
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 68
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -16672,8 +16673,8 @@ Vezi deci și variantă a 2-a.
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 69
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -16710,8 +16711,8 @@ Vezi deci și variantă 1-a și alege-o pe cea care îți sună mai bine J.
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 97 · Caiet cabană RO, p. 133 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/m-am-indragostit-numai-de-ea-4132)
 
-
 **Chitară:** Am x02210 · E7 020100 · Dm xx0231 · A x02220 · C x32010
+
 **Ukulele:** Am 2000 · E7 1202 · Dm 2210 · A 2100 · C 0003
 
 ```text
@@ -16761,8 +16762,8 @@ Eu, care spuneam prea lesne și oricui „Mi-e dor”
 
 **popular/popular** · Sursa: Cărticica Karban, p. 210
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -16810,8 +16811,8 @@ la, la, la, [A]la...
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă, Horia Stoicanu/Mircea Vintilă, Horia Stoicanu · Sursa: Cărticica Karban, p. 170
 
-
 **Chitară:** A x02220 · Bm x24432 · D xx0232 · E 022100 · Fm# 244222 · Cm# x46654
+
 **Ukulele:** A 2100 · Bm 4222 · D 2220 · E 4442 · Fm# 2120 · Cm# 1104
 
 ```text
@@ -16849,8 +16850,8 @@ Un [A]val, o [E]da
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 158
 
-
 **Chitară:** F 133211 · G 320003 · Am x02210
+
 **Ukulele:** F 2010 · G 0232 · Am 2000
 
 ```text
@@ -16881,8 +16882,8 @@ Refren
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 124
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -16916,8 +16917,8 @@ Refren
 
 Sursa: Caiet cabană RO, p. 153
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432
 
 ```text
@@ -16944,8 +16945,8 @@ Iubito, poate ai să vii.
 
 **Ștefan Banica Jr.** · muzica/versuri: Ștefan Banica Jr./Ștefan Banica Jr.? · Sursa: Cărticica Karban, p. 28
 
-
 **Chitară:** G 320003 · C x32010 · Am x02210 · Em 022000 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · Am 2000 · Em 0432 · D 2220
 
 ```text
@@ -16991,8 +16992,8 @@ Refren 2x
 
 Sursa: Caiet cabană RO, p. 80 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mica-tiganiada-1603)
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · Em 022000 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Em 0432 · E 4442
 
 ```text
@@ -17062,8 +17063,8 @@ Ce mișto ...
 
 Sursa: Caiet cabană RO, p. 54
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -17098,8 +17099,8 @@ Iubita mea s-a îmbrăcat în alb
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Caiet cabană RO, p. 51
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -17128,8 +17129,8 @@ Ce rămâne, mielule? Acest cântec, domnule.
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 171
 
-
 **Chitară:** G 320003 · D7 xx0212 · C x32010
+
 **Ukulele:** G 0232 · D7 2223 · C 0003
 
 ```text
@@ -17190,8 +17191,8 @@ Ce rămâne, mielule? Acest cântec, domnule.
 
 **Alexandru Andrieș** · muzica/versuri: Alexandru Andrieș/Alexandru Andrieș · Sursa: Cărticica Karban, p. 26
 
-
 **Chitară:** E 022100 · A x02220 · B7 x21202
+
 **Ukulele:** E 4442 · A 2100 · B7 2322
 
 ```text
@@ -17227,8 +17228,8 @@ Co[A]piii sint ai mei, Mi[E]hai"
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 103 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/miruna-438)
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
+
 **Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222
 
 ```text
@@ -17299,8 +17300,8 @@ Plâng pe cămașa ta de noapte
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Mircea Vintilă · Sursa: Cărticica Karban, p. 172
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
 
 ```text
@@ -17353,8 +17354,8 @@ Doar știi foarte bine ce-ți spuneam în seara aceea printre șoapte:
 
 **Timpuri Noi** · Sursa: Caiet Christian Adventure, p. 104
 
-
 **Chitară:** Em 022000 · Am7 x02010 · Bm7 x24232 · C9 x32333 · D9 x54555
+
 **Ukulele:** Em 0432 · Am7 0000 · Bm7 2222 · C9 0201 · D9 2423
 
 ```text
@@ -17395,8 +17396,8 @@ Cât de greu e să prinzi mistrețul
 
 **Pasărea Colibri** · muzica/versuri: Bob Dylan/Bob Dylan/Trad. Florian Pittis · Sursa: Cărticica Karban, p. 106
 
-
 **Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000 · Asus4 x02230 · Dsus4 xx0233 · Dsus2 xx0230
+
 **Ukulele:** G 0232 · A 2100 · D 2220 · Em 0432 · Asus4 2200 · Dsus4 0230 · Dsus2 2200
 
 ```text
@@ -17447,8 +17448,8 @@ doi timpi pe fiecare acord.
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 105 · Caiet cabană RO, p. 79 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mugur-de-fluier-12376)
 
-
 **Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010 · Em 022000
+
 **Ukulele:** G 0232 · D 2220 · Am 2000 · C 0003 · Em 0432
 
 ```text
@@ -17488,8 +17489,8 @@ Cu dinții ei de fier
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 131
 
-
 **Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · Am 2000 · C 0003
 
 ```text
@@ -17516,8 +17517,8 @@ Refren:
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 106 · Caiet cabană RO, p. 28 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/muntele-alb-1662)
 
-
 **Chitară:** Am x02210 · E 022100 · G 320003 · C x32010 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003 · Dm 2210
 
 ```text
@@ -17586,8 +17587,8 @@ picioare
 
 **Phoenix** · Sursa: Cărticica Karban, p. 123
 
-
 **Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
 
 ```text
@@ -17617,8 +17618,8 @@ melodia J
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 108 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/nebunul-cu-ochii-inchisi-1533)
 
-
 **Chitară:** Am x02210 · G 320003 · F 133211 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · F 2010 · E 4442
 
 ```text
@@ -17653,8 +17654,8 @@ Refren x2
 
 **Phoenix** · muzica/versuri: Florin Bordeianu, Nicolae Covaci/Florin Bordeianu · Sursa: Cărticica Karban, p. 128
 
-
 **Chitară:** Am x02210 · G 320003 · F 133211 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · F 2010 · E 4442
 
 ```text
@@ -17678,8 +17679,8 @@ Refren:
 
 **Emeric Imre** · Sursa: Caiet Christian Adventure, p. 109
 
-
 **Chitară:** Am x02210 · F 133211 · C x32010 · E7 020100 · Dm xx0231 · E 022100 · G 320003
+
 **Ukulele:** Am 2000 · F 2010 · C 0003 · E7 1202 · Dm 2210 · E 4442 · G 0232
 
 ```text
@@ -17734,8 +17735,8 @@ Refren
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 185
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · E 022100
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · E 4442
 
 ```text
@@ -17768,8 +17769,8 @@ Cu tine [G]toată dragos[Em]tea
 
 **Narcis** · Sursa: Caiet Christian Adventure, p. 110 · Caiet cabană RO, p. 32 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/noapte-la-mare-noapte-la-munte-320)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -17809,8 +17810,8 @@ Refren
 
 **Valeriu Sterian** · Sursa: Caiet cabană RO, p. 95 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/nopti-2077)
 
-
 **Chitară:** Am x02210 · Em 022000 · C x32010 · G 320003 · E 022100
+
 **Ukulele:** Am 2000 · Em 0432 · C 0003 · G 0232 · E 4442
 
 ```text
@@ -17849,8 +17850,8 @@ De cei ce vă acuză de-acolo din mormânt.
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/??? · Sursa: Cărticica Karban, p. 147
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · E 4442 · Dm 2210
 
 ```text
@@ -17881,8 +17882,8 @@ Refren:
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Daniela Crăsnaru · Sursa: Cărticica Karban, p. 48
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232 · F 133211
+
 **Ukulele:** A 2100 · E 4442 · D 2220 · F 2010
 
 ```text
@@ -17918,8 +17919,8 @@ Refren:
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 111 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/nu-am-chef-azi-2895)
 
-
 **Chitară:** Bm x24432 · E 022100 · E7 020100 · A x02220
+
 **Ukulele:** Bm 4222 · E 4442 · E7 1202 · A 2100
 
 ```text
@@ -17986,8 +17987,8 @@ Au trecut ani, dar au trecut ani
 
 Sursa: Caiet cabană RO, p. 108
 
-
 **Chitară:** C x32010 · C7 x32310 · F 133211 · Am x02210 · Dm xx0231 · G 320003 · G7 320001
+
 **Ukulele:** C 0003 · C7 0001 · F 2010 · Am 2000 · Dm 2210 · G 0232 · G7 0212
 
 ```text
@@ -18026,8 +18027,8 @@ Dar ochii mi-au rămas de copil.
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 70
 
-
 **Chitară:** C x32010 · F 133211
+
 **Ukulele:** C 0003 · F 2010
 
 ```text
@@ -18052,8 +18053,8 @@ Deci dacă ceva nu corespunde....
 
 **Sentiment** · Sursa: Caiet Christian Adventure, p. 114 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/nu-te-mai-iubesc-7266)
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -18100,8 +18101,8 @@ Refren
 
 variantă a cântecului „Nu te mai iubesc”, cu titlul „Mai ții minte seara-n care?” · Sursa: Caiet cabană RO, p. 58
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -18136,8 +18137,8 @@ Dar o iubesc și sunt iubit.
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 86 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/nu-i-nimic-asta-e-1449)
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Dm 2210
 
 ```text
@@ -18198,8 +18199,8 @@ Dar nu-i nimic asta e!
 
 **Pasărea Colibri** · muzica/versuri: Bob Dylan/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 107
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · D7 xx0212 · G7 320001 · C7 x32310 · G/B x20003
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · D7 2223 · G7 0212 · C7 0001 · G/B 0232
 
 ```text
@@ -18242,8 +18243,8 @@ Dar [C]nu-i ni[G]mic, asta [C]e!
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 160
 
-
 **Chitară:** C x32010 · Dm xx0231 · F 133211 · G 320003 · Am x02210
+
 **Ukulele:** C 0003 · Dm 2210 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -18281,8 +18282,8 @@ etc...(fade ouț)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 112 · Caiet cabană RO, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/nunta-456)
 
-
 **Chitară:** A5 x02220 · G5 320003 · C5 x32010 · F5 133211 · D5 xx0232 · F#5 244322
+
 **Ukulele:** A5 2100 · G5 0232 · C5 0003 · F5 2010 · D5 2220 · F#5 3121
 
 ```text
@@ -18323,8 +18324,8 @@ Refren
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 129
 
-
 **Chitară:** Am x02210 · C x32010 · F 133211 · G 320003
+
 **Ukulele:** Am 2000 · C 0003 · F 2010 · G 0232
 
 ```text
@@ -18351,8 +18352,8 @@ Refren:
 
 **Ada Milea** · Sursa: Cărticica Karban, p. 101
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -18383,8 +18384,8 @@ Notă:Recomand folosirea unei ciupituri cu bass alternativ.
 
 **Aurelian Andreescu** · muzica/versuri: "Georgia on my mind" Ray Charles???/Marin Sorescu? · Sursa: Cărticica Karban, p. 24
 
-
 **Chitară:** D xx0232 · F# 244322 · Bm x24432 · G 320003 · E7 020100 · A x02220 · D7 xx0212 · Em 022000
+
 **Ukulele:** D 2220 · F# 3121 · Bm 4222 · G 0232 · E7 1202 · A 2100 · D7 2223 · Em 0432
 
 ```text
@@ -18407,8 +18408,8 @@ Cu iu[D]bire, [A]cărări[D]le.
 
 **Pasărea Colibri** · muzica/versuri: în original - Silvio · Sursa: Cărticica Karban, p. 108 · Cărticica Karban, p. 109
 
-
 **Chitară:** G 320003 · F 133211 · C x32010
+
 **Ukulele:** G 0232 · F 2010 · C 0003
 
 ```text
@@ -18450,8 +18451,8 @@ Refren
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 143 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/oameni-de-zapada-479)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · C x32010 · E7 020100
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · C 0003 · E7 1202
 
 ```text
@@ -18497,8 +18498,8 @@ Ninge ca la moartea ultimului an.
 
 **Victor Socaciu** · muzica/versuri: Victor Socaciu/Adrian Păunescu · Sursa: Cărticica Karban, p. 150
 
-
 **Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100 · G 320003 · F 133211
+
 **Ukulele:** Am 2000 · C 0003 · Dm 2210 · E 4442 · G 0232 · F 2010
 
 ```text
@@ -18629,8 +18630,8 @@ fain încât aproape nu mai merita să cântați și din gura...J
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 61
 
-
 **Chitară:** E 022100 · C#m x46654 · A x02220 · B x24442
+
 **Ukulele:** E 4442 · C#m 1104 · A 2100 · B 4322
 
 ```text
@@ -18661,8 +18662,8 @@ Notă:La refren se folosește acordul Cm# în forma să barata în poziția a 4-
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 182
 
-
 **Chitară:** Em 022000 · Am x02210 · D xx0232 · G 320003 · B7 x21202 · C x32010
+
 **Ukulele:** Em 0432 · Am 2000 · D 2220 · G 0232 · B7 2322 · C 0003
 
 ```text
@@ -18696,8 +18697,8 @@ sus!
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 115 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/ochii-tai-360)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432 · Am 2000
 
 ```text
@@ -18727,8 +18728,8 @@ Refren x2
 
 **Holograf** · muzica/versuri: Holograf/Holograf · Sursa: Cărticica Karban, p. 73
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432 · Am 2000
 
 ```text
@@ -18754,8 +18755,8 @@ Mi-e t[G]are dor de [F]ei
 
 Sursa: Caiet cabană RO, p. 57
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · D xx0232
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · D 2220
 
 ```text
@@ -18788,8 +18789,8 @@ Când mi-ai spus că mă iubești?
 
 Sursa: Caiet cabană RO, p. 33 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/om-in-amurg-2702)
 
-
 **Chitară:** Em 022000 · Am x02210 · B7 x21202 · C x32010 · G 320003
+
 **Ukulele:** Em 0432 · Am 2000 · B7 2322 · C 0003 · G 0232
 
 ```text
@@ -18827,8 +18828,8 @@ Luna s-a dus să se culce.
 
 Sursa: Cărticica Karban, p. 206
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -18872,8 +18873,8 @@ Rusu.
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 119 · Caiet cabană RO, p. 73 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/omul-padurii-831)
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -18933,8 +18934,8 @@ Refren X2
 
 **Coborâi din deal în vale** · Sursa: Cărticica Karban, p. 49
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -18977,8 +18978,8 @@ atenție melodia.
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 121 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/opreste-ma-la-tine-921)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Bm x24432 · D xx0232 · A x02220
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · Bm 4222 · D 2220 · A 2100
 
 ```text
@@ -19021,8 +19022,8 @@ Fă-mi piedici iscusite să mor la tine-n prag.
 
 **George Nicolescu/Gil Dobrica** · muzica/versuri: George Nicolescu/??? · Sursa: Cărticica Karban, p. 98
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -19069,8 +19070,8 @@ Note: Vocile de la refren se cântă doar la sfârșitul piesei
 
 **Nelu Lazăr** · Sursa: Caiet Christian Adventure, p. 124
 
-
 **Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100 · G 320003 · F 133211 · Em 022000
+
 **Ukulele:** Am 2000 · C 0003 · Dm 2210 · E 4442 · G 0232 · F 2010 · Em 0432
 
 ```text
@@ -19117,8 +19118,8 @@ Cuprinși de speranță…
 
 Sursa: Caiet cabană RO, p. 16
 
-
 **Chitară:** Am x02210 · F 133211 · Dm xx0231 · C x32010 · G 320003 · Em 022000
+
 **Ukulele:** Am 2000 · F 2010 · Dm 2210 · C 0003 · G 0232 · Em 0432
 
 ```text
@@ -19168,8 +19169,8 @@ O să am doar flori în față
 
 Sursa: Caiet cabană RO, p. 48
 
-
 **Chitară:** Bm x24432 · A x02220 · G 320003 · D xx0232
+
 **Ukulele:** Bm 4222 · A 2100 · G 0232 · D 2220
 
 ```text
@@ -19251,8 +19252,8 @@ Ce-am putea și nu se poate
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 125 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/papusa-10962)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -19305,8 +19306,8 @@ Refren x2
 
 **Vasile Mărdare** · Sursa: Caiet Christian Adventure, p. 126 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/papusarii-3109)
 
-
 **Chitară:** Bm x24432 · G 320003 · F# 244322 · Em 022000
+
 **Ukulele:** Bm 4222 · G 0232 · F# 3121 · Em 0432
 
 ```text
@@ -19363,8 +19364,8 @@ Refren x2
 
 **VH2/Holograf** · muzica/versuri: Mihai Pocorschi/Mihai Pocorschi · Sursa: Cărticica Karban, p. 159
 
-
 **Chitară:** Em 022000 · Em7 020000 · Am x02210 · Am7 x02010 · C x32010 · D xx0232 · Bm x24432
+
 **Ukulele:** Em 0432 · Em7 0202 · Am 2000 · Am7 0000 · C 0003 · D 2220 · Bm 4222
 
 ```text
@@ -19404,8 +19405,8 @@ iar la ultimul vers al strofei C Bm (în loc de C D).
 
 **Contrapunct** · Sursa: Caiet Christian Adventure, p. 122 · Caiet cabană RO, p. 120 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/contrapunct/pat-de-flori-1667)
 
-
 **Chitară:** C x32010 · Am x02210 · G 320003 · Dm xx0231
+
 **Ukulele:** C 0003 · Am 2000 · G 0232 · Dm 2210
 
 ```text
@@ -19461,8 +19462,8 @@ Că te-ntorci pe pat de flori.
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 127 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/pe-corso-749)
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · Am x02210 · D xx0232
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000 · D 2220
 
 ```text
@@ -19533,8 +19534,8 @@ Să mori sănătos!
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 173
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220 · C x32010
+
 **Ukulele:** D 2220 · G 0232 · A 2100 · C 0003
 
 ```text
@@ -19572,8 +19573,8 @@ Amice, privește
 
 **Popular** · Sursa: Cărticica Karban, p. 212
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -19601,8 +19602,8 @@ cântat.
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Gh. Azap · Sursa: Cărticica Karban, p. 174
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -19638,8 +19639,8 @@ Refren
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 183
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · Am x02210 · Am7 x02010
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · Am 2000 · Am7 0000
 
 ```text
@@ -19677,8 +19678,8 @@ sus!
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 96 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/piata-romana-nr-9-1776)
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · D xx0232
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · D 2220
 
 ```text
@@ -19725,8 +19726,8 @@ Piața Romană Nr.9.
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 36
 
-
 **Chitară:** E 022100 · A x02220 · B x24442
+
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
@@ -19759,8 +19760,8 @@ care însoțește toată melodia.
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
 
-
 **Chitară:** Dm xx0231 · Am x02210 · B x24442 · E 022100 · G 320003 · C x32010
+
 **Ukulele:** Dm 2210 · Am 2000 · B 4322 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -19811,8 +19812,8 @@ Refren1 x2 + Refren2
 
 Sursa: Caiet cabană RO, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · A x02220
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · A 2100
 
 ```text
@@ -19859,8 +19860,8 @@ Trecutele neguri din cale-ți vor zbura
 
 **Florian Pitiș** · Sursa: Caiet Christian Adventure, p. 129 · Caiet cabană RO, p. 94 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/ploaia-care-va-veni-1456)
 
-
 **Chitară:** D xx0232 · F#m 244222 · A x02220 · Em 022000
+
 **Ukulele:** D 2220 · F#m 2120 · A 2100 · Em 0432
 
 ```text
@@ -19934,8 +19935,8 @@ ul.
 
 **Pasărea Colibri** · muzica/versuri: Dorin Liviu Zaharia -adaptare după o piesa a grupului ECHIPA'84/Dorin Liviu · Sursa: Cărticica Karban, p. 110
 
-
 **Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · Em 022000
+
 **Ukulele:** D 2220 · Bm 4222 · A 2100 · G 0232 · Em 0432
 
 ```text
@@ -19970,8 +19971,8 @@ După părerea mea pe cd-ul cu Pasărea Colibrie este cântata din D.
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 131 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/ploaie-in-luna-lui-marte-280)
 
-
 **Chitară:** C x32010 · Am x02210 · Em 022000 · Dm xx0231 · G 320003 · E 022100
+
 **Ukulele:** C 0003 · Am 2000 · Em 0432 · Dm 2210 · G 0232 · E 4442
 
 ```text
@@ -20014,8 +20015,8 @@ oameni? ploaia?
 
 **Mircea Florian** · Sursa: Cărticica Karban, p. 71
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -20045,8 +20046,8 @@ Podul de pi[A]atra [G]trebuie refă[D]cut.
 
 muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -20067,8 +20068,8 @@ Pentru o variantă mai complicată cauta la Mircea Florian.
 
 **Ștefan Banica Jr.** · muzica/versuri: Ștefan Banica Jr./Ștefan Banica Jr.? · Sursa: Cărticica Karban, p. 27
 
-
 **Chitară:** G 320003 · Am x02210 · C x32010 · D xx0232 · D7 xx0212 · Cm x35543 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · Am 2000 · C 0003 · D 2220 · D7 2223 · Cm 0333 · Em 0432 · A 2100
 
 ```text
@@ -20111,8 +20112,8 @@ loviturile însemnate cu ^ se execută de jos în sus. A două bătaie e mai len
 
 **Vampy** · Sursa: Caiet Christian Adventure, p. 130 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/prietene-3060)
 
-
 **Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · E 022100 · A x02220 · Bm x24432
+
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003 · E 4442 · A 2100 · Bm 4222
 
 ```text
@@ -20171,8 +20172,8 @@ Prietene, haide vino lângă noi.
 
 **Phoenix** · muzica/versuri: Prelucrare Nicolae Covaci/Popular · Sursa: Cărticica Karban, p. 127
 
-
 **Chitară:** F 133211 · G 320003 · C x32010 · Em 022000 · Am x02210
+
 **Ukulele:** F 2010 · G 0232 · C 0003 · Em 0432 · Am 2000
 
 ```text
@@ -20211,8 +20212,8 @@ F G C F G Em F
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 93 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/proverbe-1542)
 
-
 **Chitară:** Am x02210 · Em 022000 · F 133211 · C x32010 · G 320003
+
 **Ukulele:** Am 2000 · Em 0432 · F 2010 · C 0003 · G 0232
 
 ```text
@@ -20263,8 +20264,8 @@ Dar să lași ulciorul la apă mai rar.
 
 **Roșu și negru** · Sursa: Caiet Christian Adventure, p. 132
 
-
 **Chitară:** G 320003 · Am x02210 · F 133211 · Dm xx0231 · C x32010
+
 **Ukulele:** G 0232 · Am 2000 · F 2010 · Dm 2210 · C 0003
 
 ```text
@@ -20339,8 +20340,8 @@ Stă pitit un șoricel
 
 Sursa: Caiet cabană RO, p. 63
 
-
 **Chitară:** Em 022000 · Am x02210 · B7 x21202
+
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -20365,8 +20366,8 @@ Puștoaico, de-acum nimic nu are rost.
 
 Sursa: Caiet cabană RO, p. 43 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/puterea-s-alegi-5403)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -20400,8 +20401,8 @@ DĂ-i inimii tale mai dă-i.
 
 **Mircea Bodolan** · Sursa: Caiet cabană RO, p. 150
 
-
 **Chitară:** C x32010 · G7 320001
+
 **Ukulele:** C 0003 · G7 0212
 
 ```text
@@ -20443,8 +20444,8 @@ mamă...
 
 **Mircea Bodolan** · muzica/versuri: Mircea Bodolan/Demostene Botez · Sursa: Cărticica Karban, p. 53
 
-
 **Chitară:** C x32010 · G7 320001
+
 **Ukulele:** C 0003 · G7 0212
 
 ```text
@@ -20484,8 +20485,8 @@ Exemplificat aici pentru C și G7 (singurele acorduri folosite în melodie).
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/George Bacovia · Sursa: Cărticica Karban, p. 19
 
-
 **Chitară:** D xx0232 · C x32010 · Dm xx0231 · Bb x13331 · A x02220
+
 **Ukulele:** D 2220 · C 0003 · Dm 2210 · Bb 3211 · A 2100
 
 ```text
@@ -20517,8 +20518,8 @@ Se fluiera următoarea progresie de acorduri Dm C Bb A
 
 Sursa: Caiet cabană RO, p. 105
 
-
 **Chitară:** Dm xx0231 · G7 320001 · D xx0232 · G 320003
+
 **Ukulele:** Dm 2210 · G7 0212 · D 2220 · G 0232
 
 ```text
@@ -20555,8 +20556,8 @@ Neobosită-ntruna doar învață
 
 **Vasile Mardare** · Sursa: Caiet cabană RO, p. 11 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/romanta-de-toamna-3289)
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -20599,8 +20600,8 @@ Scriu scrisori pe flori lăcrimând în ploi
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 112 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/romanta-intre-doua-trenuri-670)
 
-
 **Chitară:** G 320003 · Am x02210 · D7 xx0212 · B x24442 · C x32010 · Bm x24432
+
 **Ukulele:** G 0232 · Am 2000 · D7 2223 · B 4322 · C 0003 · Bm 4222
 
 ```text
@@ -20645,8 +20646,8 @@ Sclipind la ultimul vagon.
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/Dan Verona · Sursa: Cărticica Karban, p. 139
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003 · E 022100 · F 133211 · Em 022000
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · E 4442 · F 2010 · Em 0432
 
 ```text
@@ -20687,8 +20688,8 @@ exemplificată aici pentru acordul C.
 
 **Luna amară** · Sursa: Caiet Christian Adventure, p. 137 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/luna-amara/rosu-aprins-752)
 
-
 **Chitară:** C x32010 · G 320003 · Gsus4 330013 · Am x02210 · Am7 x02010 · F 133211 · Fadd9 xx3213 · B x24442
+
 **Ukulele:** C 0003 · G 0232 · Gsus4 0233 · Am 2000 · Am7 0000 · F 2010 · Fadd9 0010 · B 4322
 
 ```text
@@ -20730,8 +20731,8 @@ Vreau să te iert
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 47 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/stefan-hrusca/ruga-pentru-parinti-373)
 
-
 **Chitară:** Dm xx0231 · C x32010 · F 133211 · E 022100 · Am x02210
+
 **Ukulele:** Dm 2210 · C 0003 · F 2010 · E 4442 · Am 2000
 
 ```text
@@ -20774,8 +20775,8 @@ Tatăl meu, băiatul meu, mama mea , fetița mea ...
 
 **Ștefan Hrușcă** · Sursa: Cărticica Karban, p. 80
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G7 320001 · C x32010 · E 022100 · F 133211
+
 **Ukulele:** Am 2000 · Dm 2210 · G7 0212 · C 0003 · E 4442 · F 2010
 
 ```text
@@ -20826,8 +20827,8 @@ munte" doar cu ceva foarte mici modificări.
 
 **Holograf** · Sursa: Cărticica Karban, p. 74
 
-
 **Chitară:** G 320003 · Cadd9 x32030 · D xx0232 · C x32010 · Em 022000 · Bm x24432 · Am x02210
+
 **Ukulele:** G 0232 · Cadd9 0203 · D 2220 · C 0003 · Em 0432 · Bm 4222 · Am 2000
 
 ```text
@@ -20874,8 +20875,8 @@ Refren
 
 **Grupul Ecoul** · Sursa: Caiet cabană RO, p. 100
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · G7 320001
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · G7 0212
 
 ```text
@@ -20927,8 +20928,8 @@ SĂ miroase-a mere coapte.
 
 **Grupul Ecoul** · muzica/versuri: Grupul Ecoul/??? · Sursa: Cărticica Karban, p. 65
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -20968,8 +20969,8 @@ SĂ miroase-a mere coapte.
 
 Sursa: Caiet cabană RO, p. 164
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003 · E 022100 · Am x02210 · F 133211
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · E 4442 · Am 2000 · F 2010
 
 ```text
@@ -21028,8 +21029,8 @@ Vrednici măcar de-o întrebare.
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 74 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/saraca-inima-me-304)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -21077,8 +21078,8 @@ Noi mai pe din gios om mere.
 
 **Ducu Bertzi** · muzica/versuri: popular din Maramureș - Ardeal?/populare · Sursa: Cărticica Karban, p. 50
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -21143,8 +21144,8 @@ La refren se poate folosi același model dar cu bass alternativ.
 
 Sursa: Caiet cabană RO, p. 151
 
-
 **Chitară:** G 320003 · Em 022000 · D xx0232 · Am x02210
+
 **Ukulele:** G 0232 · Em 0432 · D 2220 · Am 2000
 
 ```text
@@ -21179,8 +21180,8 @@ Care mă doare când ninge.
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 138 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/scrisoare-de-ramas-bun-2980)
 
-
 **Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · G 0232
 
 ```text
@@ -21226,8 +21227,8 @@ Când nu mai știu ce-nseamnă umbra ta
 
 **Mircea Baniciu/Pasărea Colibri** · variantă a cântecului „Scrisoare de rămas bun”, cu titlul „Numărători de ploi” · Sursa: Caiet cabană RO, p. 123
 
-
 **Chitară:** G 320003 · Em 022000 · Am x02210 · D7 xx0212 · D xx0232 · E 022100
+
 **Ukulele:** G 0232 · Em 0432 · Am 2000 · D7 2223 · D 2220 · E 4442
 
 ```text
@@ -21278,8 +21279,8 @@ Când nu mai știu ce-nseamnă umbra ta.
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Gheorghe Țărnea · Sursa: Cărticica Karban, p. 37
 
-
 **Chitară:** G 320003 · Em 022000 · Am x02210 · D7 xx0212 · D xx0232 · B7 x21202
+
 **Ukulele:** G 0232 · Em 0432 · Am 2000 · D7 2223 · D 2220 · B7 2322
 
 ```text
@@ -21318,8 +21319,8 @@ Când nu mai știu ce-nseamnă umbra ta.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 139 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/seara-de-mai-4551)
 
-
 **Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
 
 ```text
@@ -21390,8 +21391,8 @@ Refren2 x2
 
 **Pasărea Colibri** · muzica/versuri: în original - Death Is Not The End · Sursa: Cărticica Karban, p. 111
 
-
 **Chitară:** A x02220 · E 022100
+
 **Ukulele:** A 2100 · E 4442
 
 ```text
@@ -21433,8 +21434,8 @@ Tine [E]minte sfârșitul nu-i [A]aici.
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 135
 
-
 **Chitară:** Am x02210 · C x32010 · F 133211 · G 320003
+
 **Ukulele:** Am 2000 · C 0003 · F 2010 · G 0232
 
 ```text
@@ -21459,8 +21460,8 @@ Tine [E]minte sfârșitul nu-i [A]aici.
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 136
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · Am x02210 · B7 x21202 · G 320003 · A x02220
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · Am 2000 · B7 2322 · G 0232 · A 2100
 
 ```text
@@ -21507,8 +21508,8 @@ Deci cam asta ar fi nouă variantă, poate cea mai aprtopiata de adevăr...
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/si-de-ar-fi-305)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -21552,8 +21553,8 @@ Inventată parcă numai pentru noi.
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 51
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -21591,8 +21592,8 @@ Refren 2
 
 **Radu Ilie** · Sursa: Caiet Christian Adventure, p. 147 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/radu-ilie/si-am-iubit-o-ardeleanca-5581)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E7 020100 · C x32010 · F 133211
+
 **Ukulele:** Am 2000 · Dm 2210 · E7 1202 · C 0003 · F 2010
 
 ```text
@@ -21643,8 +21644,8 @@ Refren x2
 
 **Compact** · Sursa: Caiet cabană RO, p. 97 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/singur-in-noapte-11271)
 
-
 **Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · Em 022000 · A x02220
+
 **Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · Em 0432 · A 2100
 
 ```text
@@ -21691,8 +21692,8 @@ Cheamă-mă oricând vei vrea.
 
 **Compact** · muzica/versuri: Adrian Ordean?/??? · Sursa: Cărticica Karban, p. 58
 
-
 **Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220
 
 ```text
@@ -21732,8 +21733,8 @@ Refren
 
 **Phoenix** · Sursa: Caiet cabană RO, p. 141 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/singur-832)
 
-
 **Chitară:** D xx0232 · G 320003 · B7 x21202 · Em 022000 · Am x02210 · C x32010
+
 **Ukulele:** D 2220 · G 0232 · B7 2322 · Em 0432 · Am 2000 · C 0003
 
 ```text
@@ -21780,8 +21781,8 @@ La mine-n suflet bat.
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 62
 
-
 **Chitară:** A x02220 · E/A x02100 · D/A x00232 · E/B x22100 · D xx0232
+
 **Ukulele:** A 2100 · E/A 4442 · D/A 2220 · E/B 4442 · D 2220
 
 ```text
@@ -21827,8 +21828,8 @@ Pe tot parcursul cântecului se repetă riff-ul de la intro.
 
 **Semnal M** · Sursa: Caiet Christian Adventure, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/spune-mi-cine-esti-1407)
 
-
 **Chitară:** Am x02210 · E7 020100 · C x32010 · D xx0232 · Dm xx0231 · F 133211 · Em 022000 · A x02220 · G 320003 · Fm 133111 · B x24442
+
 **Ukulele:** Am 2000 · E7 1202 · C 0003 · D 2220 · Dm 2210 · F 2010 · Em 0432 · A 2100 · G 0232 · Fm 1013 · B 4322
 
 ```text
@@ -21910,8 +21911,8 @@ Spune-mi dacă voi afla
 
 **Semnal M** · muzica/versuri: Semnal M/??? · Sursa: Cărticica Karban, p. 143
 
-
 **Chitară:** Em 022000 · B7 x21202 · G 320003 · Am x02210 · C x32010 · Bm x24432 · E7 020100 · D xx0232
+
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · Am 2000 · C 0003 · Bm 4222 · E7 1202 · D 2220
 
 ```text
@@ -21958,8 +21959,8 @@ Note:la refren o chitară tine armonia, cealaltă intro-ul
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 143 · Caiet cabană RO, p. 85 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/strada-popa-nan-689)
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -22007,8 +22008,8 @@ Refren x4
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă/Dorin Liviu Zaharia · Sursa: Cărticica Karban, p. 175
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -22039,8 +22040,8 @@ Refren:
 
 **Iris** · Sursa: Caiet cabană RO, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/strada-ta-610)
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
 
 ```text
@@ -22076,8 +22077,8 @@ O clipă doar tu m-ai zărit
 
 **Iris** · muzica/versuri: Cristian Minculescu/Cristian Minculescu · Sursa: Cărticica Karban, p. 89
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220 · E 022100
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100 · E 4442
 
 ```text
@@ -22111,8 +22112,8 @@ Notă: Acordurile D C și E D de la refren se fac cu câte 2 bătăi.
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 135 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/suflet-fara-chei-306)
 
-
 **Chitară:** Am x02210 · E 022100 · F 133211 · Dm xx0231 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Dm 2210 · C 0003
 
 ```text
@@ -22158,8 +22159,8 @@ Mâna vai, pe strune-mi moare și pe tine nu te doare.
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 145 · Caiet cabană RO, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/sunt-sarac-2876)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -22208,8 +22209,8 @@ Noi tot am venit la voi !/ x2 Hei !
 
 **Theo & Hara Band** · muzica/versuri: Theo & Hara Band\??? · Sursa: Cărticica Karban, p. 137
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -22243,8 +22244,8 @@ Restul merge ca de la sine după ca asculți melodia de câteva ori.
 
 Sursa: Caiet cabană RO, p. 144
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · E 022100 · D7 xx0212 · D xx0232 · A x02220 · Bm x24432 · F# 244322 · Dm xx0231
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · E 4442 · D7 2223 · D 2220 · A 2100 · Bm 4222 · F# 3121 · Dm 2210
 
 ```text
@@ -22290,8 +22291,8 @@ TĂcut ca două boabe mari de grâu.
 
 **Holograf** · Sursa: Caiet cabană RO, p. 104 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/taina-5153)
 
-
 **Chitară:** D xx0232 · D7 xx0212 · G 320003 · A x02220 · A7 x02020
+
 **Ukulele:** D 2220 · D7 2223 · G 0232 · A 2100 · A7 0100
 
 ```text
@@ -22329,8 +22330,8 @@ CĂci în noaptea asta, în noaptea asta, mamă nu-s de găsit.
 
 **Ecoul** · Sursa: Cărticica Karban, p. 67
 
-
 **Chitară:** D xx0232 · D7 xx0212 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · D7 2223 · G 0232 · A 2100
 
 ```text
@@ -22357,8 +22358,8 @@ Căci în [A]noaptea asta, în [D]noaptea asta, [A]mama nu-s de gă[D]sit.
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/George Țărnea · Sursa: Cărticica Karban, p. 140
 
-
 **Chitară:** Am x02210 · E 022100 · A7 x02020 · Dm xx0231 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · A7 0100 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -22384,8 +22385,8 @@ Refren:
 
 Sursa: Cărticica Karban, p. 260
 
-
 **Chitară:** F 133211 · C7 x32310
+
 **Ukulele:** F 2010 · C7 0001
 
 ```text
@@ -22412,8 +22413,8 @@ Notă: Măsura cântecului e 4/4
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 148 · Caiet cabană RO, p. 122 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/tardive-1428)
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · F 133211
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Dm 2210 · F 2010
 
 ```text
@@ -22455,8 +22456,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 104
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -22492,8 +22493,8 @@ Vânzând ca-ntr-un târg pentru vite copii.
 
 **Phoenix** · Sursa: Caiet cabană RO, p. 82 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/te-intreb-pe-tine-soare-642)
 
-
 **Chitară:** G 320003 · A x02220 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · A 2100 · C 0003 · D 2220
 
 ```text
@@ -22540,8 +22541,8 @@ Te întreb pe tine soare:
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 120
 
-
 **Chitară:** G 320003 · G7 320001 · A x02220 · A7 x02020 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · G7 0212 · A 2100 · A7 0100 · C 0003 · D 2220
 
 ```text
@@ -22581,8 +22582,8 @@ acorduri.
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 63
 
-
 **Chitară:** C x32010 · Em7 020000 · Am x02210 · A x02220 · F 133211 · Fm 133111 · A4 x02230
+
 **Ukulele:** C 0003 · Em7 0202 · Am 2000 · A 2100 · F 2010 · Fm 1013 · A4 2200
 
 ```text
@@ -22603,8 +22604,8 @@ Refren 3X
 
 Sursa: Caiet cabană RO, p. 44
 
-
 **Chitară:** Dm xx0231 · A x02220 · G 320003
+
 **Ukulele:** Dm 2210 · A 2100 · G 0232
 
 ```text
@@ -22637,8 +22638,8 @@ N-ai să știi ce mult te-aș fi iubit
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 187
 
-
 **Chitară:** D xx0232 · D4 xx0233 · Bm x24432 · G 320003 · A x02220 · F#m 244222
+
 **Ukulele:** D 2220 · D4 0230 · Bm 4222 · G 0232 · A 2100 · F#m 2120
 
 ```text
@@ -22676,8 +22677,8 @@ Note: Acordul D4 se execută cu acordul D în cadrul aceleiași măsuri.
 
 **Bosquito** · muzica/versuri: Bosquito/Bosquito · Sursa: Cărticica Karban, p. 54
 
-
 **Chitară:** Dm xx0231 · Gm 355333 · C x32010 · Bb x13331 · A x02220
+
 **Ukulele:** Dm 2210 · Gm 0231 · C 0003 · Bb 3211 · A 2100
 
 ```text
@@ -22709,8 +22710,8 @@ Refren
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Mircea Florian · Sursa: Cărticica Karban, p. 121
 
-
 **Chitară:** Em 022000 · G 320003 · Am x02210 · D xx0232 · C x32010
+
 **Ukulele:** Em 0432 · G 0232 · Am 2000 · D 2220 · C 0003
 
 ```text
@@ -22780,8 +22781,8 @@ acorduri a cântecului.
 
 **Pasărea Colibri** · muzica/versuri: Rainy Day Women · Sursa: Cărticica Karban, p. 112
 
-
 **Chitară:** E 022100 · A x02220 · B x24442
+
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
@@ -22830,8 +22831,8 @@ riff-uri
 
 Sursa: Caiet cabană RO, p. 44
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -22873,8 +22874,8 @@ Adio, adică rămâi.
 
 **Popular** · Sursa: Cărticica Karban, p. 207
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -22907,8 +22908,8 @@ interpretat.
 
 Sursa: Caiet cabană RO, p. 156
 
-
 **Chitară:** Bm x24432 · D xx0232 · A x02220 · F# 244322 · Em 022000
+
 **Ukulele:** Bm 4222 · D 2220 · A 2100 · F# 3121 · Em 0432
 
 ```text
@@ -22944,8 +22945,8 @@ Abia atunci m-ai iubit, prea târziu...
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 161
 
-
 **Chitară:** A x02220 · E 022100 · F#m 244222 · D xx0232 · A4 x02230 · E4 022200
+
 **Ukulele:** A 2100 · E 4442 · F#m 2120 · D 2220 · A4 2200 · E4 4452
 
 ```text
@@ -22988,8 +22989,8 @@ E tot ce ne-a ră[A]mas...
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 153 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/trista-fiara-6177)
 
-
 **Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · F 133211 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · F 2010 · E 4442
 
 ```text
@@ -23051,8 +23052,8 @@ Refren x2
 
 **Conexiuni** · Sursa: Caiet Christian Adventure, p. 158 · Caiet cabană RO, p. 119 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/conexiuni/tu-394)
 
-
 **Chitară:** Dadd9 x54230 · Bm x24432 · G 320003 · A x02220 · D xx0232 · Fm 133111
+
 **Ukulele:** Dadd9 2425 · Bm 4222 · G 0232 · A 2100 · D 2220 · Fm 1013
 
 ```text
@@ -23098,8 +23099,8 @@ Ești tu... Nu pleca, nu spune nu..
 
 **Karma** · Sursa: Caiet cabană RO, p. 155 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/turturi-metalici-7467)
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -23131,8 +23132,8 @@ Te văd, te aud, te strig și în somn.
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 121 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/umbra-283)
 
-
 **Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · C 0003 · Dm 2210
 
 ```text
@@ -23181,8 +23182,8 @@ O umbră în viață mă ține
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/George Bacovia · Sursa: Cărticica Karban, p. 20
 
-
 **Chitară:** Em 022000 · C x32010 · D xx0232 · G 320003 · B7 x21202 · Am x02210
+
 **Ukulele:** Em 0432 · C 0003 · D 2220 · G 0232 · B7 2322 · Am 2000
 
 ```text
@@ -23229,8 +23230,8 @@ Refren
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Adrian Păunescu · Sursa: Cărticica Karban, p. 21
 
-
 **Chitară:** Em 022000 · C x32010 · D xx0232 · G 320003 · B7 x21202 · Am x02210
+
 **Ukulele:** Em 0432 · C 0003 · D 2220 · G 0232 · B7 2322 · Am 2000
 
 ```text
@@ -23376,8 +23377,8 @@ famstrong@yahoo.com
 
 **Compact** · muzica/versuri: Paul Ciuci/Paul Ciuci · Sursa: Cărticica Karban, p. 57
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
+
 **Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222
 
 ```text
@@ -23406,8 +23407,8 @@ acord.
 
 muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 261
 
-
 **Chitară:** D xx0232 · A7 x02020
+
 **Ukulele:** D 2220 · A7 0100
 
 ```text
@@ -23437,8 +23438,8 @@ Dacă cineva își aduce aminte îl rog să îmi scrie.
 
 **Roa** · Sursa: Caiet Christian Adventure, p. 164
 
-
 **Chitară:** Dm xx0231 · Bb x13331 · C x32010 · F 133211 · Gm 355333
+
 **Ukulele:** Dm 2210 · Bb 3211 · C 0003 · F 2010 · Gm 0231
 
 ```text
@@ -23477,8 +23478,8 @@ Refren
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 88 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/un-om-pe-niste-scari-1570)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -23546,8 +23547,8 @@ Na na na Na na
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Cărticica Karban, p. 176
 
-
 **Chitară:** C x32010 · G 320003 · Dm xx0231
+
 **Ukulele:** C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -23589,8 +23590,8 @@ Notă: în locul acordului Dm poate fi folosit și acordul F
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 39
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -23633,8 +23634,8 @@ Hei!...
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 85
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -23681,8 +23682,8 @@ Refren 2X
 
 Sursa: Caiet cabană RO, p. 56 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/vagabonzi-2704)
 
-
 **Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -23708,8 +23709,8 @@ La care atârn-o stea.
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 125
 
-
 **Chitară:** Bm x24432 · A x02220 · G 320003 · F#m 244222 · D xx0232
+
 **Ukulele:** Bm 4222 · A 2100 · G 0232 · F#m 2120 · D 2220
 
 ```text
@@ -23763,8 +23764,8 @@ ceva mă altfel J
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 154 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/stefan-hrusca/vara-promisa-374)
 
-
 **Chitară:** Em 022000 · Am x02210 · D7 xx0212 · G 320003 · B7 x21202 · E 022100
+
 **Ukulele:** Em 0432 · Am 2000 · D7 2223 · G 0232 · B7 2322 · E 4442
 
 ```text
@@ -23817,8 +23818,8 @@ Cu-adevărat.
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 86
 
-
 **Chitară:** Dm xx0231 · Gm 355333 · C x32010 · C7 x32310 · F 133211 · A7 x02020 · D xx0232
+
 **Ukulele:** Dm 2210 · Gm 0231 · C 0003 · C7 0001 · F 2010 · A7 0100 · D 2220
 
 ```text
@@ -23860,8 +23861,8 @@ numai la ultima bătaie a măsurii acordul C7.
 
 **Roa** · Sursa: Caiet Christian Adventure, p. 166
 
-
 **Chitară:** Bm x24432 · A x02220 · D xx0232 · G 320003
+
 **Ukulele:** Bm 4222 · A 2100 · D 2220 · G 0232
 
 ```text
@@ -23901,8 +23902,8 @@ Refren
 
 **Anda Călugăreanu** · Sursa: Caiet cabană RO, p. 161
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -23942,8 +23943,8 @@ Vis de albastru și azur.
 
 **Anda Călugăreanu** · muzica/versuri: Anda Călugăreanu/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 55
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220 · A7 x02020
+
 **Ukulele:** D 2220 · G 0232 · A 2100 · A7 0100
 
 ```text
@@ -23976,8 +23977,8 @@ Acordul A7 poate fi folosit sau nu. Mie îmi sună foarte bine acolo...
 
 **Pasărea Colibri** · muzica/versuri: Ray Davies/The Kinks/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 114
 
-
 **Chitară:** D xx0232 · A x02220 · A7 x02020 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · A7 0100 · G 0232
 
 ```text
@@ -24023,8 +24024,8 @@ De-am scapa [A7]odată de complicată [D]via[A]ta! [D]
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 167 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/viata-la-tara-587)
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · A x02220 · E 022100
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · A 2100 · E 4442
 
 ```text
@@ -24131,8 +24132,8 @@ Refren
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/George Topârceanu · Sursa: Cărticica Karban, p. 40
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · A x02220 · E 022100
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · A 2100 · E 4442
 
 ```text
@@ -24227,8 +24228,8 @@ folosește C9
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 170 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/vine-o-zi-366)
 
-
 **Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · Dm xx0231
+
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003 · Dm 2210
 
 ```text
@@ -24271,8 +24272,8 @@ Oare când va fi...
 
 Sursa: Caiet cabană RO, p. 118
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -24320,8 +24321,8 @@ Este tot ce-a mai rămas.
 
 **Florian Pitiș** · Sursa: Caiet Christian Adventure, p. 171 · Caiet cabană RO, p. 84 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vinovatii-fara-vina-732)
 
-
 **Chitară:** A x02220 · Bm x24432 · E 022100 · D xx0232 · G 320003 · B x24442 · C#m x46654 · F 133211
+
 **Ukulele:** A 2100 · Bm 4222 · E 4442 · D 2220 · G 0232 · B 4322 · C#m 1104 · F 2010
 
 ```text
@@ -24387,8 +24388,8 @@ Refren x2
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 83 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vis-de-primavara-3095)
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
 
 ```text
@@ -24435,8 +24436,8 @@ Ca viața mea întreagă să fie-o zi de mai.
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 177
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
 
 ```text
@@ -24472,8 +24473,8 @@ Ca [F]viața mea întreaga să [G]fie o zi de [C]mai.
 
 **Iris** · Sursa: Caiet Christian Adventure, p. 172 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/vis-pierdut-379)
 
-
 **Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · C x32010
+
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · C 0003
 
 ```text
@@ -24509,8 +24510,8 @@ Toți plecam ca un vis pierdut...
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 64
 
-
 **Chitară:** G 320003 · Em7 020000 · F 133211 · Am x02210 · Bb x13331 · Fsus4 133311 · C x32010
+
 **Ukulele:** G 0232 · Em7 0202 · F 2010 · Am 2000 · Bb 3211 · Fsus4 3011 · C 0003
 
 ```text
@@ -24533,8 +24534,8 @@ Refren
 
 Sursa: Caiet cabană RO, p. 52 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/voi-suferi-4252)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -24581,8 +24582,8 @@ Tu du-te nu privi-napoi
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 174 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/vreau-o-minune-1465)
 
-
 **Chitară:** D xx0232 · Cadd9 x32030 · G 320003 · A x02220
+
 **Ukulele:** D 2220 · Cadd9 0203 · G 0232 · A 2100
 
 ```text
@@ -24640,8 +24641,8 @@ Mama nu m-a dat de mic la școală...
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 175
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E7 020100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E7 1202
 
 ```text
@@ -24703,8 +24704,8 @@ Refren
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 176 · Caiet cabană RO, p. 78 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vremuri-1540)
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
@@ -24752,8 +24753,8 @@ La, la...la la la la la la...
 
 **Phoenix** · muzica/versuri: Florin Bordeianu/Nicolae Covaci · Sursa: Cărticica Karban, p. 122
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
@@ -24779,8 +24780,8 @@ Ce[C]va exage[D]rat
 
 Sursa: Caiet cabană RO, p. 63 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ziua-11151)
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -24812,8 +24813,8 @@ nu, nu, nu.
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 178 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/zori-de-zi-565)
 
-
 **Chitară:** A x02220 · E 022100 · F#m 244222 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · F#m 2120 · D 2220
 
 ```text
@@ -24864,8 +24865,8 @@ Hai, hai , hai , hai sus pe cai.
 
 Sursa: Caiet cabană EN, p. 60
 
-
 **Chitară:** C x32010 · G 320003
+
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -24902,8 +24903,8 @@ Piu divertnete ancor sara.
 
 **Rolling Stones** · Sursa: Caiet Christian Adventure, p. 201 · Caiet cabană EN, p. 23
 
-
 **Chitară:** Am x02210 · E7 020100 · G 320003 · F 133211 · C x32010 · Dm xx0231
+
 **Ukulele:** Am 2000 · E7 1202 · G 0232 · F 2010 · C 0003 · Dm 2210
 
 ```text
@@ -24953,8 +24954,8 @@ Angie, Angie, they can't say we never tried
 
 Sursa: Caiet cabană EN, p. 50
 
-
 **Chitară:** D xx0232 · A x02220 · A7 x02020 · D7 xx0212 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · A7 0100 · D7 2223 · G 0232
 
 ```text
@@ -24990,8 +24991,8 @@ As I loved my Anna Marie.
 
 **Pink Floyd** · Sursa: Caiet cabană EN, p. 37
 
-
 **Chitară:** Dm xx0231 · G 320003 · F 133211 · C x32010
+
 **Ukulele:** Dm 2210 · G 0232 · F 2010 · C 0003
 
 ```text
@@ -25012,8 +25013,8 @@ All in all you're just another brick in the wall.
 
 Sursa: Caiet cabană EN, p. 30
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -25053,8 +25054,8 @@ pretending he just didn't see?
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 6
 
-
 **Chitară:** F 133211 · C x32010 · G 320003
+
 **Ukulele:** F 2010 · C 0003 · G 0232
 
 ```text
@@ -25088,8 +25089,8 @@ My lovin' baby is through with me.
 
 Sursa: Caiet cabană EN, p. 65
 
-
 **Chitară:** G 320003 · C x32010 · F 133211
+
 **Ukulele:** G 0232 · C 0003 · F 2010
 
 ```text
@@ -25136,8 +25137,8 @@ Saura nous revoir.
 
 **John Denver** · Sursa: Caiet cabană EN, p. 33
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Bb x13331
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Bb 3211
 
 ```text
@@ -25180,8 +25181,8 @@ That I should have been home yesterday, yesterday.
 
 **Guns'n'roses** · Sursa: Caiet Christian Adventure, p. 192 · Caiet cabană EN, p. 56
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · G/B x20003 · F 133211 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · G/B 0232 · F 2010 · E 4442
 
 ```text
@@ -25263,8 +25264,8 @@ CHORUS
 
 variantă a cântecului „Don't Cry” · Sursa: Caiet Christian Adventure, p. 193 (unde apare greșit intitulat „Dust in the Wind”, atribuit Kansas)
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -25325,8 +25326,8 @@ CHORUS
 
 **Bob Dylan** · Sursa: Caiet cabană EN, p. 28
 
-
 **Chitară:** G 320003 · D xx0232 · Em 022000 · C x32010 · Am x02210
+
 **Ukulele:** G 0232 · D 2220 · Em 0432 · C 0003 · Am 2000
 
 ```text
@@ -25383,8 +25384,8 @@ But don't think twice, it's alright.
 
 Sursa: Caiet cabană EN, p. 60
 
-
 **Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220 · A7 x02020
+
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100 · A7 0100
 
 ```text
@@ -25448,8 +25449,8 @@ Dream a little dream of me.
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 21
 
-
 **Chitară:** Em 022000 · G 320003 · D7 xx0212 · C x32010
+
 **Ukulele:** Em 0432 · G 0232 · D7 2223 · C 0003
 
 ```text
@@ -25482,8 +25483,8 @@ Yes I would, if I only could, I surely would.
 
 Sursa: Caiet cabană EN, p. 15
 
-
 **Chitară:** F 133211 · Am x02210
+
 **Ukulele:** F 2010 · Am 2000
 
 ```text
@@ -25527,8 +25528,8 @@ As he walks from the grave, no one was saved.
 
 **The police** · Sursa: Caiet Christian Adventure, p. 207
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · Dsus4 xx0233 · D7sus4 xx0213 · D xx0232 · C/A# x1201x · Am7 x02010 · A7 x02020 · D# xx1343 · F 133211 · D7sus2 xx0210
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · Dsus4 0230 · D7sus4 2233 · D 2220 · C/A# 0003 · Am7 0000 · A7 0100 · D# 0331 · F 2010 · D7sus2 2203
 
 ```text
@@ -25613,8 +25614,8 @@ I'll be watching you
 
 **Metallica** · Sursa: Caiet Christian Adventure, p. 195
 
-
 **Chitară:** Bm x24432 · Bm/A x04432 · A/C# x42220 · F6 133231 · E/G# 4x2100 · E/B x22100 · Am x02210 · C x32010 · G 320003 · Em 022000 · E 022100 · A x02220 · D5 xx0232 · E5 022100 · C5 x32010 · G#5 466544 · F#5 244322 · G5 320003 · D xx0232 · A5 x02220 · B5 x24442
+
 **Ukulele:** Bm 4222 · Bm/A 4222 · A/C# 2100 · F6 2213 · E/G# 4442 · E/B 4442 · Am 2000 · C 0003 · G 0232 · Em 0432 · E 4442 · A 2100 · D5 2220 · E5 4442 · C5 0003 · G#5 5343 · F#5 3121 · G5 0232 · D 2220 · A5 2100 · B5 4322
 
 ```text
@@ -25691,8 +25692,8 @@ B5 A5 G5
 
 **Cat Stevens** · Sursa: Caiet cabană EN, p. 39
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Am x02210 · Em 022000 · D/G 3x0232
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Am 2000 · Em 0432 · D/G 2220
 
 ```text
@@ -25736,8 +25737,8 @@ I know I have to go.
 
 Sursa: Cărticica Karban, p. 215
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · E7 020100 · Am x02210
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · E7 1202 · Am 2000
 
 ```text
@@ -25814,8 +25815,8 @@ Versurile actuale pot fi datate, cu siguranta, la 1781 când au fost publicate
 
 Sursa: Caiet cabană EN, p. 46
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -25860,8 +25861,8 @@ Is dangerous to everyone.
 
 **Beatles** · Sursa: Caiet cabană EN, p. 16
 
-
 **Chitară:** Em 022000 · B7 x21202 · E7 020100 · Am x02210 · D xx0232 · G 320003 · B x24442 · Bm x24432 · E 022100
+
 **Ukulele:** Em 0432 · B7 2322 · E7 1202 · Am 2000 · D 2220 · G 0232 · B 4322 · Bm 4222 · E 4442
 
 ```text
@@ -25903,8 +25904,8 @@ Will she still believe it when he's dead?
 
 **John Lennon** · Sursa: Caiet cabană EN, p. 6
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · G7 320001
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · G7 0212
 
 ```text
@@ -25933,8 +25934,8 @@ Norman Mailer, Alan Ginsberg, Hare Krishna, Hare, Hare Krishna.
 
 **CCR** · Sursa: Caiet Christian Adventure, p. 186
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432 · Am 2000
 
 ```text
@@ -25976,8 +25977,8 @@ CHORUS
 
 **Beatles** · Sursa: Caiet Christian Adventure, p. 182 · Caiet cabană EN, p. 12
 
-
 **Chitară:** F 133211 · C x32010 · C7 x32310 · C7sus4 x3331x · Bb x13331 · Fmaj7 xx3210 · F7 131211 · Bb/A x13331 · Gm 355333 · Gm7 353333 · C/E 032010 · F6 133231 · Csus4 x33011 · CaddG x32010 · Eb xx1343
+
 **Ukulele:** F 2010 · C 0003 · C7 0001 · C7sus4 0011 · Bb 3211 · Fmaj7 2413 · F7 2313 · Bb/A 3211 · Gm 0231 · Gm7 0211 · C/E 0003 · F6 2213 · Csus4 0013 · CaddG 0003 · Eb 0331
 
 ```text
@@ -26036,8 +26037,8 @@ Hey Jude
 
 Sursa: Caiet cabană EN, p. 66
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · Am x02210 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · Am 2000 · D 2220
 
 ```text
@@ -26064,8 +26065,8 @@ Detalo todo io vente con migo.
 
 **Scorpions** · Sursa: Caiet cabană EN, p. 42
 
-
 **Chitară:** Dm xx0231 · C x32010 · Am x02210 · G 320003 · A x02220
+
 **Ukulele:** Dm 2210 · C 0003 · Am 2000 · G 0232 · A 2100
 
 ```text
@@ -26110,8 +26111,8 @@ To the island many miles away from home.
 
 **The eagles** · Sursa: Caiet Christian Adventure, p. 206 · Caiet cabană EN, p. 36
 
-
 **Chitară:** Bm x24432 · F# 244322 · A x02220 · E 022100 · G 320003 · D xx0232 · Em 022000
+
 **Ukulele:** Bm 4222 · F# 3121 · A 2100 · E 4442 · G 0232 · D 2220 · Em 0432
 
 ```text
@@ -26171,8 +26172,8 @@ CHORUS
 
 **The Animals** · Sursa: Caiet cabană EN, p. 38
 
-
 **Chitară:** Am x02210 · C x32010 · D xx0232 · F 133211 · E 022100
+
 **Ukulele:** Am 2000 · C 0003 · D 2220 · F 2010 · E 4442
 
 ```text
@@ -26215,8 +26216,8 @@ In the house of the Rising Sun.
 
 **Skid Row** · Sursa: Caiet cabană EN, p. 57
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
@@ -26262,8 +26263,8 @@ Well I swear you’ll never be lonely.
 
 **Queen** · Sursa: Caiet Christian Adventure, p. 199
 
-
 **Chitară:** A x02220 · E 022100 · B x24442 · C#m x46654 · F#sus4 244422 · F# 244322
+
 **Ukulele:** A 2100 · E 4442 · B 4322 · C#m 1104 · F#sus4 4124 · F# 3121
 
 ```text
@@ -26322,8 +26323,8 @@ I want I want I want I want to break free....
 
 **Beatles** · Sursa: Caiet cabană EN, p. 19
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · E 022100 · F 133211 · Dm xx0231
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · E 4442 · F 2010 · Dm 2210
 
 ```text
@@ -26371,8 +26372,8 @@ I can't hide, I can't hide.
 
 **Trini Lopez** · Sursa: Caiet cabană EN, p. 32
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -26420,8 +26421,8 @@ All - over this land.
 
 **Mellanie** · Sursa: Caiet cabană EN, p. 62
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -26464,8 +26465,8 @@ Look what they done to my song.
 
 **John Lennon** · Sursa: Caiet cabană EN, p. 5
 
-
 **Chitară:** G 320003 · C x32010 · Em 022000 · Am x02210 · D xx0232 · B x24442
+
 **Ukulele:** G 0232 · C 0003 · Em 0432 · Am 2000 · D 2220 · B 4322
 
 ```text
@@ -26506,8 +26507,8 @@ Sharing all the world.
 
 **Status Quo** · Sursa: Caiet cabană EN, p. 47
 
-
 **Chitară:** Em 022000 · Am x02210 · C x32010 · F#m 244222
+
 **Ukulele:** Em 0432 · Am 2000 · C 0003 · F#m 2120
 
 ```text
@@ -26555,8 +26556,8 @@ Is this illusion or reality.
 
 muzica/versuri: ???/??? · Sursa: Cărticica Karban, p. 224
 
-
 **Chitară:** D xx0232 · A x02220 · Bm x24432 · E7 020100
+
 **Ukulele:** D 2220 · A 2100 · Bm 4222 · E7 1202
 
 ```text
@@ -26577,8 +26578,8 @@ Note:Se repeat strofa I mărind ritmul.
 
 **Bob Dylan** · Sursa: Caiet cabană EN, p. 29
 
-
 **Chitară:** C x32010 · G 320003 · Dm xx0231
+
 **Ukulele:** C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -26612,8 +26613,8 @@ That lonely feeling is hard to trace
 
 Sursa: Caiet cabană EN, p. 67
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -26651,8 +26652,8 @@ Por ti sere por ti sere.
 
 Sursa: Caiet cabană EN, p. 61
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -26691,8 +26692,8 @@ Tu eri chiaro et transparente come me.
 
 **Eric Clapton** · Sursa: Caiet Christian Adventure, p. 188
 
-
 **Chitară:** C#m x46654 · G#7 464544 · C x32010 · D xx0232 · E 022100 · E7 020100 · F#m 244222 · B x24442 · A x02220 · Am x02210 · Dm xx0231 · Bb x13331
+
 **Ukulele:** C#m 1104 · G#7 1323 · C 0003 · D 2220 · E 4442 · E7 1202 · F#m 2120 · B 4322 · A 2100 · Am 2000 · Dm 2210 · Bb 3211
 
 ```text
@@ -26733,8 +26734,8 @@ CHORUS
 
 Sursa: Caiet cabană EN, p. 68
 
-
 **Chitară:** D xx0232 · F#7 242322 · Bm x24432 · D7 xx0212 · G 320003 · E7 020100 · A7 x02020 · A x02220
+
 **Ukulele:** D 2220 · F#7 3424 · Bm 4222 · D7 2223 · G 0232 · E7 1202 · A7 0100 · A 2100
 
 ```text
@@ -26774,8 +26775,8 @@ tous les oiseaux du point du jour, chantent l'armour
 
 **Beatles** · Sursa: Caiet Christian Adventure, p. 183 · Caiet cabană EN, p. 8
 
-
 **Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
+
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Dm 2210
 
 ```text
@@ -26820,8 +26821,8 @@ Speaking words of wisdom, let it be
 
 **Smokie** · Sursa: Caiet Christian Adventure, p. 204
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100 · E7 020100
+
 **Ukulele:** A 2100 · D 2220 · E 4442 · E7 1202
 
 ```text
@@ -26872,8 +26873,8 @@ Go to chorus. repeat untill fade.
 
 Sursa: Caiet cabană EN, p. 34
 
-
 **Chitară:** Em 022000 · Am x02210 · Dm xx0231 · G 320003 · F 133211
+
 **Ukulele:** Em 0432 · Am 2000 · Dm 2210 · G 0232 · F 2010
 
 ```text
@@ -26939,8 +26940,8 @@ That was just a dream, just a dream, just a dream…
 
 **Elvis Presley** · Sursa: Caiet cabană EN, p. 50
 
-
 **Chitară:** C x32010 · D xx0232 · G7 320001 · A7 x02020
+
 **Ukulele:** C 0003 · D 2220 · G7 0212 · A7 0100
 
 ```text
@@ -26980,8 +26981,8 @@ Till the end of time.
 
 **Queen** · Sursa: Caiet Christian Adventure, p. 200
 
-
 **Chitară:** A x02220 · F#m 244222 · Bm x24432 · E 022100 · A7 x02020 · D xx0232 · G 320003 · Em 022000 · B x24442 · Cdim xx1212
+
 **Ukulele:** A 2100 · F#m 2120 · Bm 4222 · E 4442 · A7 0100 · D 2220 · G 0232 · Em 0432 · B 4322 · Cdim 2323
 
 ```text
@@ -27029,8 +27030,8 @@ Love of my life...
 
 **Beatles** · Sursa: Caiet cabană EN, p. 17
 
-
 **Chitară:** D xx0232 · G7 320001 · Bb x13331 · C x32010 · A x02220 · A7 x02020 · Dm xx0231 · F 133211
+
 **Ukulele:** D 2220 · G7 0212 · Bb 3211 · C 0003 · A 2100 · A7 0100 · Dm 2210 · F 2010
 
 ```text
@@ -27079,8 +27080,8 @@ My Michelle.
 
 **Bob Dylan** · Sursa: Caiet cabană EN, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mr-tambourine-man-1904)
 
-
 **Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000
+
 **Ukulele:** G 0232 · A 2100 · D 2220 · Em 0432
 
 ```text
@@ -27123,8 +27124,8 @@ Streets too dead for dream in.
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 22
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003 · D xx0232 · A7 x02020 · A x02220 · Dm xx0231
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232 · D 2220 · A7 0100 · A 2100 · Dm 2210
 
 ```text
@@ -27171,8 +27172,8 @@ Joltin' Joe has left and gone away, hey hey hey.
 
 Sursa: Caiet cabană EN, p. 54
 
-
 **Chitară:** D xx0232 · G 320003 · A7 x02020 · B7 x21202 · E7 020100 · D7 xx0212 · A x02220
+
 **Ukulele:** D 2220 · G 0232 · A7 0100 · B7 2322 · E7 1202 · D7 2223 · A 2100
 
 ```text
@@ -27210,8 +27211,8 @@ And brought back my bonnie to me.
 
 Sursa: Caiet cabană EN, p. 64
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -27276,8 +27277,8 @@ So cry your tears I say yeah
 
 **Metallica** · Sursa: Caiet Christian Adventure, p. 196
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003 · B x24442 · A x02220
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232 · B 4322 · A 2100
 
 ```text
@@ -27366,8 +27367,8 @@ VERSE 1
 
 Sursa: Caiet cabană EN, p. 9
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -27420,8 +27421,8 @@ Making all his Nowhere plans for nobody.
 
 Sursa: Caiet cabană EN, p. 10
 
-
 **Chitară:** G 320003 · D7 xx0212 · C x32010 · Bm x24432 · Em 022000 · D xx0232
+
 **Ukulele:** G 0232 · D7 2223 · C 0003 · Bm 4222 · Em 0432 · D 2220
 
 ```text
@@ -27473,8 +27474,8 @@ And if you want some fun take Obladi-Blada !
 
 **Neil Sedaka** · Sursa: Caiet Christian Adventure, p. 197 · Caiet cabană EN, p. 31
 
-
 **Chitară:** A x02220 · F#m 244222 · Bm x24432 · E 022100
+
 **Ukulele:** A 2100 · F#m 2120 · Bm 4222 · E 4442
 
 ```text
@@ -27561,8 +27562,8 @@ Et je n’ai plus qu’a repartir.
 
 Sursa: Caiet cabană EN, p. 54
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -27601,8 +27602,8 @@ Susanna, don’t you cry.”
 
 **Gun’n’Roses** · Sursa: Caiet cabană EN, p. 58
 
-
 **Chitară:** F 133211 · C x32010 · D xx0232 · G 320003 · Am x02210
+
 **Ukulele:** F 2010 · C 0003 · D 2220 · G 0232 · Am 2000
 
 ```text
@@ -27645,8 +27646,8 @@ Name I ain’t got time for the game ‘cause I need you.
 
 **The doors** · Sursa: Caiet Christian Adventure, p. 205
 
-
 **Chitară:** Em 022000 · Am x02210 · B7 x21202 · G 320003
+
 **Ukulele:** Em 0432 · Am 2000 · B7 2322 · G 0232
 
 ```text
@@ -27680,8 +27681,8 @@ CHORUS X2
 
 **Phabaj (Hop hop hop)** · muzica/versuri: ???/??? · Sursa: Cărticica Karban, p. 224
 
-
 **Chitară:** Bm x24432 · Em 022000 · A x02220 · D xx0232 · F# 244322
+
 **Ukulele:** Bm 4222 · Em 0432 · A 2100 · D 2220 · F# 3121
 
 ```text
@@ -27700,8 +27701,8 @@ Note: -j se citește i
 
 Sursa: Caiet cabană EN, p. 66
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322
 
 ```text
@@ -27735,8 +27736,8 @@ La palma de la mano.
 
 **CCR** · Sursa: Caiet Christian Adventure, p. 187
 
-
 **Chitară:** D xx0232 · A x02220 · Bm x24432
+
 **Ukulele:** D 2220 · A 2100 · Bm 4222
 
 ```text
@@ -27775,8 +27776,8 @@ Proud Mary keep on burnin'
 
 **Taking Heads** · Sursa: Caiet cabană EN, p. 59
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · G# 466544 · A x02220 · F#m 244222 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · G# 5343 · A 2100 · F#m 2120 · D 2220 · E 4442
 
 ```text
@@ -27822,8 +27823,8 @@ And it’s all right, baby, it’s all right.
 
 Sursa: Caiet cabană EN, p. 52
 
-
 **Chitară:** D xx0232 · A x02220 · A7 x02020 · D7 xx0212 · G 320003 · E 022100
+
 **Ukulele:** D 2220 · A 2100 · A7 0100 · D7 2223 · G 0232 · E 4442
 
 ```text
@@ -27875,8 +27876,8 @@ And I wrote back to you.
 
 Sursa: Caiet cabană EN, p. 41
 
-
 **Chitară:** G 320003 · C x32010 · Am x02210 · F 133211 · Dm xx0231
+
 **Ukulele:** G 0232 · C 0003 · Am 2000 · F 2010 · Dm 2210
 
 ```text
@@ -27908,8 +27909,8 @@ To be with you, to be free.
 
 Sursa: Caiet cabană EN, p. 63
 
-
 **Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231
+
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -27952,8 +27953,8 @@ A son doigt je pousserai l’anneau.
 
 Sursa: Caiet cabană EN, p. 26
 
-
 **Chitară:** C x32010 · Dm xx0231 · G7 320001 · G 320003
+
 **Ukulele:** C 0003 · Dm 2210 · G7 0212 · G 0232
 
 ```text
@@ -28007,8 +28008,8 @@ I wish that we could both be there.
 
 Sursa: Caiet cabană EN, p. 49
 
-
 **Chitară:** G 320003 · D xx0232 · G7 320001 · C x32010 · A x02220 · D7 xx0212
+
 **Ukulele:** G 0232 · D 2220 · G7 0212 · C 0003 · A 2100 · D7 2223
 
 ```text
@@ -28038,8 +28039,8 @@ comes…
 
 Sursa: Caiet cabană EN, p. 51
 
-
 **Chitară:** G 320003 · D xx0232 · D7 xx0212 · G7 320001 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · D7 2223 · G7 0212 · C 0003
 
 ```text
@@ -28074,8 +28075,8 @@ Jesus, Lord, at Thy birth;
 
 **Led Zeppelin** · Sursa: Caiet Christian Adventure, p. 194
 
-
 **Chitară:** Am x02210 · E+ xx2323 · C x32010 · D xx0232 · F 133211 · G 320003 · Em 022000 · Dsus4 xx0233
+
 **Ukulele:** Am 2000 · E+ 1003 · C 0003 · D 2220 · F 2010 · G 0232 · Em 0432 · Dsus4 0230
 
 ```text
@@ -28159,8 +28160,8 @@ And she s buying a stairway to heaven.
 
 **Ben E. King** · Sursa: Caiet cabană EN, p. 35
 
-
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -28194,8 +28195,8 @@ Just as long as you stand, stand by me.
 
 **Scorpions** · Sursa: Caiet Christian Adventure, p. 202
 
-
 **Chitară:** A x02220 · F 133211 · C x32010 · G 320003 · D xx0232 · E 022100
+
 **Ukulele:** A 2100 · F 2010 · C 0003 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -28241,8 +28242,8 @@ I`m still loving you, I need your love
 
 Sursa: Caiet cabană EN, p. 53
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -28287,8 +28288,8 @@ Sweet memories are made of this.
 
 Sursa: Caiet cabană EN, p. 68
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · F 133211 · A x02220 · D xx0232 · Em 022000 · B7 x21202
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · F 2010 · A 2100 · D 2220 · Em 0432 · B7 2322
 
 ```text
@@ -28338,8 +28339,8 @@ Solo Dios, basta.
 
 **Eric Clapton** · Sursa: Caiet Christian Adventure, p. 189
 
-
 **Chitară:** G 320003 · D xx0232 · Em 022000 · C x32010 · Bm x24432 · Dm xx0231 · E 022100 · E7 020100 · Am x02210 · D7 xx0212 · Bb x13331 · F 133211 · Gm 355333
+
 **Ukulele:** G 0232 · D 2220 · Em 0432 · C 0003 · Bm 4222 · Dm 2210 · E 4442 · E7 1202 · Am 2000 · D7 2223 · Bb 3211 · F 2010 · Gm 0231
 
 ```text
@@ -28415,8 +28416,8 @@ G D Em C G
 
 Sursa: Caiet cabană EN, p. 48
 
-
 **Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003 · Am x02210
+
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · G 0232 · Am 2000
 
 ```text
@@ -28489,8 +28490,8 @@ The road about the caravan.
 
 **Nightwish** · Sursa: Caiet Christian Adventure, p. 198
 
-
 **Chitară:** A x02220 · G 320003 · Bm x24432 · B x24442 · D xx0232 · Em 022000
+
 **Ukulele:** A 2100 · G 0232 · Bm 4222 · B 4322 · D 2220 · Em 0432
 
 ```text
@@ -28537,8 +28538,8 @@ CHORUS X2
 
 Sursa: Caiet cabană EN, p. 55
 
-
 **Chitară:** E 022100 · E7 020100 · A x02220 · B x24442 · B7 x21202
+
 **Ukulele:** E 4442 · E7 1202 · A 2100 · B 4322 · B7 2322
 
 ```text
@@ -28575,8 +28576,8 @@ That the Red Maiden loved you the best.
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 20
 
-
 **Chitară:** Am x02210 · G 320003 · C x32010 · F 133211
+
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -28628,8 +28629,8 @@ and whisper the sound of silence."
 
 **Beatles** · Sursa: Caiet cabană EN, p. 18
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · Bb x13331
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · Bb 3211
 
 ```text
@@ -28736,8 +28737,8 @@ J’aurai quelqu’un qui m’aime.
 
 Sursa: Caiet cabană EN, p. 43
 
-
 **Chitară:** Am x02210 · F 133211 · G 320003 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · F 2010 · G 0232 · E 4442 · Dm 2210
 
 ```text
@@ -28788,8 +28789,8 @@ All the children took their turn.
 
 **Beatles** · Sursa: Caiet cabană EN, p. 7
 
-
 **Chitară:** G 320003 · C x32010 · F 133211
+
 **Ukulele:** G 0232 · C 0003 · F 2010
 
 ```text
@@ -28819,8 +28820,8 @@ baby).
 
 **The Righteous Brothers** · Sursa: Caiet cabană EN, p. 30
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · D7 xx0212
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · D7 2223
 
 ```text
@@ -28853,8 +28854,8 @@ I'll be coming home.Wait for me.
 
 **Pasărea Colibri** · muzica/versuri: Blowin' in the wind · Sursa: Cărticica Karban, p. 113
 
-
 **Chitară:** C x32010 · F 133211 · G7 320001 · Am x02210
+
 **Ukulele:** C 0003 · F 2010 · G7 0212 · Am 2000
 
 ```text
@@ -28902,8 +28903,8 @@ Refren româna
 
 **4 Non Blondes** · Sursa: Caiet Christian Adventure, p. 191
 
-
 **Chitară:** G 320003 · Am x02210 · C x32010
+
 **Ukulele:** G 0232 · Am 2000 · C 0003
 
 ```text
@@ -28975,8 +28976,8 @@ For a destination
 
 Sursa: Caiet cabană EN, p. 44
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -29005,8 +29006,8 @@ When the revelation comes.
 
 **Scorpions** · Sursa: Caiet Christian Adventure, p. 203 · Caiet cabană EN, p. 40
 
-
 **Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · Em 022000 · E7 020100
+
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · Em 0432 · E7 1202
 
 ```text
@@ -29087,8 +29088,8 @@ CHORUS1+CHORUS2
 
 **Pink Floyd** · Sursa: Caiet cabană EN, p. 24
 
-
 **Chitară:** C x32010 · D xx0232 · Am x02210 · G 320003
+
 **Ukulele:** C 0003 · D 2220 · Am 2000 · G 0232
 
 ```text
@@ -29143,8 +29144,8 @@ The same old fears?…Wish you were here
 
 **Beatles** · Sursa: Caiet cabană EN, p. 11
 
-
 **Chitară:** G 320003 · D xx0232 · Am x02210 · D7 xx0212 · F 133211 · C x32010 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · Am 2000 · D7 2223 · F 2010 · C 0003 · Em 0432 · A 2100
 
 ```text
@@ -29192,8 +29193,8 @@ With a little help from my friends.
 
 **Eric Clapton** · Sursa: Caiet Christian Adventure, p. 190 · Caiet cabană EN, p. 25
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432
 
 ```text
@@ -29250,8 +29251,8 @@ tonight
 
 **Beatles** · Sursa: Caiet Christian Adventure, p. 184 · Caiet cabană EN, p. 14
 
-
 **Chitară:** C x32010 · D xx0232 · G 320003 · Em 022000 · Am x02210
+
 **Ukulele:** C 0003 · D 2220 · G 0232 · Em 0432 · Am 2000
 
 ```text
@@ -29292,8 +29293,8 @@ CHORUS X2
 
 **Beatles** · Sursa: Caiet Christian Adventure, p. 185 · Caiet cabană EN, p. 13
 
-
 **Chitară:** F 133211 · Em 022000 · A7 x02020 · Dm xx0231 · C x32010 · Bb x13331 · G 320003 · C7 x32310
+
 **Ukulele:** F 2010 · Em 0432 · A7 0100 · Dm 2210 · C 0003 · Bb 3211 · G 0232 · C7 0001
 
 ```text
@@ -29336,8 +29337,8 @@ Hm hm hm hm hm hm hm
 
 **Ronnie Harwood** · Sursa: Caiet cabană EN, p. 45
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · A x02220
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -29380,8 +29381,8 @@ You drive me crazy.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional/G. Coșbuc · Sursa: Colinde Karban, p. 19
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
@@ -29447,8 +29448,8 @@ Exemplificată aici pentru C. Versurile sunt ale poeziei “Colindătorii” de 
 
 muzica/versuri: colinda Afară ninge liniștit“ -S  țefan Hrușcă · Sursa: Colinde Karban, p. 113
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
@@ -29571,8 +29572,8 @@ Exemplificată aici pentru C.
 
 muzica/versuri: Ernst Anschütz/Wilhelm Hey · Sursa: Colinde Karban, p. 83
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -29615,8 +29616,8 @@ Note:Măsura este 4/4. Merge un arpegiu simplu.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 20
 
-
 **Chitară:** Fm 133111 · Bbm x13321 · C x32010 · D xx0232 · A x02220
+
 **Ukulele:** Fm 1013 · Bbm 3111 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -29675,8 +29676,8 @@ Fm
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 21
 
-
 **Chitară:** E 022100 · A x02220 · B x24442
+
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
@@ -29735,8 +29736,8 @@ Exemplificat aici pentru E.
 
 muzica/versuri: tradițional englez · Sursa: Colinde Karban, p. 52
 
-
 **Chitară:** F 133211 · Am x02210 · Bb x13331 · Gm 355333 · C x32010 · G 320003 · D xx0232
+
 **Ukulele:** F 2010 · Am 2000 · Bb 3211 · Gm 0231 · C 0003 · G 0232 · D 2220
 
 ```text
@@ -29780,8 +29781,8 @@ Trecerile /Am la Bb/ și /Gm la C7/ sunt în cadrul aceleiași măsuri cu două 
 
 Sursa: Colinde Karban, p. 53
 
-
 **Chitară:** E 022100 · B x24442 · A x02220 · F 133211
+
 **Ukulele:** E 4442 · B 4322 · A 2100 · F 2010
 
 ```text
@@ -29825,8 +29826,8 @@ O variantă cunoscută a melodiei este cea interpretată de Elvis Presley.
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 109
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
@@ -29879,8 +29880,8 @@ Exemplificată aici pentru G, C și D. (De altfel cred că aceasta este și ciup
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 22
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220 · E 022100
+
 **Ukulele:** D 2220 · G 0232 · A 2100 · E 4442
 
 ```text
@@ -29936,8 +29937,8 @@ D
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 23
 
-
 **Chitară:** Am x02210 · E 022100 · F 133211 · Em 022000 · C x32010 · Dm xx0231 · G 320003 · D xx0232
+
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Em 0432 · C 0003 · Dm 2210 · G 0232 · D 2220
 
 ```text
@@ -29993,8 +29994,8 @@ Exemplificată aici pentru Am.
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 117 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/cerul-si-pamantul-13353)
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -30038,8 +30039,8 @@ Cu vesel suflet veselă cântare.
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/popular · Sursa: Cărticica Karban, p. 77
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -30074,8 +30075,8 @@ Refren:
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 24
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -30112,8 +30113,8 @@ Fiu născu în lume.
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 97
 
-
 **Chitară:** C x32010 · G 320003 · F 133211
+
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -30183,8 +30184,8 @@ Schimbarea se face tot pe a 4-a bătaie.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 25
 
-
 **Chitară:** F 133211 · Bb x13331 · C x32010 · B x24442 · D xx0232
+
 **Ukulele:** F 2010 · Bb 3211 · C 0003 · B 4322 · D 2220
 
 ```text
@@ -30235,8 +30236,8 @@ E         1
 
 **Karma** · Sursa: Caiet cabană RO, p. 115 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/colinda-trista-1189)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -30283,8 +30284,8 @@ Pe-o filă ultimă de calendar.
 
 **Karma** · Sursa: Colinde Karban, p. 98 · Cărticica Karban, p. 96
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -30343,8 +30344,8 @@ Pe-o filă ultimă de calendar
 
 Sursa: Colinde Karban, p. 8
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -30402,8 +30403,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 26
 
-
 **Chitară:** Gm 355333 · D xx0232 · Dm xx0231 · A x02220
+
 **Ukulele:** Gm 0231 · D 2220 · Dm 2210 · A 2100
 
 ```text
@@ -30457,8 +30458,8 @@ E         3
 
 **Tatiana Stepa** · Sursa: Caiet cabană RO, p. 41
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -30493,8 +30494,8 @@ Era pâinea de pe masă și gutuia de la geam.
 
 **Tatiana Stepa** · muzica/versuri: Tatiana Stepa/??? · Sursa: Colinde Karban, p. 106
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100 · D xx0232
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · D 2220
 
 ```text
@@ -30545,8 +30546,8 @@ Exemplificată aici pentru Am.
 
 muzica/versuri: tradițional “O ce veste minunată” · Sursa: Colinde Karban, p. 112
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · A 2100
 
 ```text
@@ -30598,8 +30599,8 @@ Exemplificat aici pentru G.
 
 **Paula Seling** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 18
 
-
 **Chitară:** F 133211 · G 320003 · C x32010 · D xx0232 · E 022100
+
 **Ukulele:** F 2010 · G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
@@ -30655,8 +30656,8 @@ E
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 14
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · D 2220 · E 4442
 
 ```text
@@ -30706,8 +30707,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 50 · Cărticica Karban, p. 79
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · D 2220 · E 4442
 
 ```text
@@ -30765,8 +30766,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 27
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003 · Em 022000 · E 022100
+
 **Ukulele:** D 2220 · A 2100 · G 0232 · Em 0432 · E 4442
 
 ```text
@@ -30825,8 +30826,8 @@ Exemplificat aici pentru A.
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 110
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -30857,8 +30858,8 @@ Note:Măsura este 4/4. Ada folosește o tehnică de lovire a coardelor.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 28
 
-
 **Chitară:** G 320003 · D xx0232 · Am x02210 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · Am 2000 · A 2100
 
 ```text
@@ -30916,8 +30917,8 @@ E         3
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/decembre-276)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232
 
 ```text
@@ -30967,8 +30968,8 @@ Am Dm E Am
 
 **Nicu Alifantis** · Sursa: Cărticica Karban, p. 16
 
-
 **Chitară:** Em 022000 · Am x02210 · B7 x21202
+
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -31002,8 +31003,8 @@ Nu râde ... citește-[Em]nainte.
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/G.Bacovia · Sursa: Colinde Karban, p. 103
 
-
 **Chitară:** Em 022000 · Am x02210 · B x24442
+
 **Ukulele:** Em 0432 · Am 2000 · B 4322
 
 ```text
@@ -31061,8 +31062,8 @@ Nu râde ... citește-nainte.
 
 Sursa: Colinde Karban, p. 54
 
-
 **Chitară:** D xx0232 · Bm x24432 · A x02220 · E 022100 · G 320003
+
 **Ukulele:** D 2220 · Bm 4222 · A 2100 · E 4442 · G 0232
 
 ```text
@@ -31132,8 +31133,8 @@ Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzilor de sus 
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 29
 
-
 **Chitară:** G 320003 · E 022100
+
 **Ukulele:** G 0232 · E 4442
 
 ```text
@@ -31179,8 +31180,8 @@ E         3     3     3         3     3     3
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 114 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/narcisa-suciu/deschide-usa-crestine-920)
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -31234,8 +31235,8 @@ Va împărăți în veac!
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 30
 
-
 **Chitară:** C x32010 · F 133211 · G 320003
+
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -31291,8 +31292,8 @@ Semnele “ ” reprezintă lovirea corzilor de sus în jos. Bătăile de jos î
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 111
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · E 022100
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · E 4442
 
 ```text
@@ -31332,8 +31333,8 @@ Exemplificată aici pentru G, C și D. (De altfel cred că aceasta este și ciup
 
 **Mircea Baniciu** · Sursa: Colinde Karban, p. 100
 
-
 **Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -31403,8 +31404,8 @@ E
 
 muzica/versuri: tradițional · Sursa: Colinde Karban, p. 76
 
-
 **Chitară:** Em 022000 · D xx0232 · G 320003 · Bm x24432 · Am x02210
+
 **Ukulele:** Em 0432 · D 2220 · G 0232 · Bm 4222 · Am 2000
 
 ```text
@@ -31447,8 +31448,8 @@ Note:Măsura este 4/4
 
 **José Feliciano** · Sursa: Colinde Karban, p. 90
 
-
 **Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432 · E 022100
+
 **Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222 · E 4442
 
 ```text
@@ -31496,8 +31497,8 @@ Ca și variațiune în măsurile cu Em se poate folosi în a doua jumătate a m�
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 31
 
-
 **Chitară:** Fm 133111 · Bbm x13321
+
 **Ukulele:** Fm 1013 · Bbm 3111
 
 ```text
@@ -31562,8 +31563,8 @@ E         1         1         1
 
 **Ștefan Hrușcă** · Sursa: Cărticica Karban, p. 87
 
-
 **Chitară:** G 320003 · D xx0232 · D7 xx0212 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · D7 2223 · C 0003
 
 ```text
@@ -31597,8 +31598,8 @@ Cine-ascultă să tră[D]ia, cine-ascultă să tră[G]ia.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 32
 
-
 **Chitară:** G 320003 · D xx0232 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · A 2100
 
 ```text
@@ -31653,8 +31654,8 @@ G
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 116 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/florile-dalbe-11616)
 
-
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
+
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -31690,8 +31691,8 @@ Anul nou a și venit, florile, florile dalbe.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 33 · Cărticica Karban, p. 78
 
-
 **Chitară:** Em 022000 · Am x02210 · D xx0232 · A x02220
+
 **Ukulele:** Em 0432 · Am 2000 · D 2220 · A 2100
 
 ```text
@@ -31759,8 +31760,8 @@ Em
 
 muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 55
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · Em 022000 · Dm xx0231 · E 022100 · Am x02210 · D xx0232
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · Em 0432 · Dm 2210 · E 4442 · Am 2000 · D 2220
 
 ```text
@@ -31817,8 +31818,8 @@ Exemplificat aici pentru C. Atenție la trecerile de la F ls F dim, C Am, Dm G7 
 
 Sursa: Colinde Karban, p. 56
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
+
 **Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
 
 ```text
@@ -31873,8 +31874,8 @@ On that blessed Christmas morn
 
 Sursa: Colinde Karban, p. 57
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Am x02210 · Em 022000
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Bm 4222 · Am 2000 · Em 0432
 
 ```text
@@ -31930,8 +31931,8 @@ E         3         3     3            3     3     3
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 34
 
-
 **Chitară:** G 320003 · C x32010
+
 **Ukulele:** G 0232 · C 0003
 
 ```text
@@ -31995,8 +31996,8 @@ E         3         3         3
 
 muzica/versuri: J.A.P. Schulz/C. von Schmidt · Sursa: Colinde Karban, p. 84
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · E 022100
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · E 4442
 
 ```text
@@ -32054,8 +32055,8 @@ E
 
 **Tatiana Stepa** · muzica/versuri: Tatiana Stepa/Adrian Păunescu · Sursa: Colinde Karban, p. 107
 
-
 **Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010 · F 133211
+
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -32099,8 +32100,8 @@ Am
 
 Sursa: Caiet cabană EN, p. 44
 
-
 **Chitară:** D xx0232 · A x02220 · D7 xx0212 · G 320003 · Em 022000 · E 022100
+
 **Ukulele:** D 2220 · A 2100 · D7 2223 · G 0232 · Em 0432 · E 4442
 
 ```text
@@ -32134,8 +32135,8 @@ Then hitch him to an open sleigh and crack! You’ll take the lead.
 
 Sursa: Colinde Karban, p. 58
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -32195,8 +32196,8 @@ E         3            3
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 35
 
-
 **Chitară:** F 133211 · C x32010 · B x24442
+
 **Ukulele:** F 2010 · C 0003 · B 4322
 
 ```text
@@ -32261,8 +32262,8 @@ F                      C           F                                          B
 
 Sursa: Colinde Karban, p. 85
 
-
 **Chitară:** C x32010 · G 320003 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -32306,8 +32307,8 @@ Exemplificat aici pentru C. Semnele “ ” reprezintă lovirea corzilor de sus 
 
 **Ducu Hotima** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 16
 
-
 **Chitară:** G 320003 · Am x02210 · D xx0232
+
 **Ukulele:** G 0232 · Am 2000 · D 2220
 
 ```text
@@ -32362,8 +32363,8 @@ Am arătat mai sus si trecerile din versurile 2 și 3 ale fiecărei strofe de la
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 36
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -32414,8 +32415,8 @@ A
 
 **Wham!** · Sursa: Colinde Karban, p. 59
 
-
 **Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · E 022100
+
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · E 4442
 
 ```text
@@ -32485,8 +32486,8 @@ D
 
 muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 77
 
-
 **Chitară:** G 320003 · D xx0232 · A x02220 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · A 2100 · C 0003
 
 ```text
@@ -32551,8 +32552,8 @@ E         3
 
 Sursa: Colinde Karban, p. 78
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · B x24442 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · B 4322 · Em 0432 · A 2100
 
 ```text
@@ -32598,8 +32599,8 @@ E         3         3     3            3     3     3
 
 Sursa: Colinde Karban, p. 86
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Dm xx0231 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · Dm 2210 · D 2220 · E 4442
 
 ```text
@@ -32644,8 +32645,8 @@ Exemplificat aici pentru C.
 
 muzica/versuri: Sammy Cahn, J.Styne 1945 · Sursa: Colinde Karban, p. 60
 
-
 **Chitară:** F 133211 · C x32010 · Gm 355333 · D xx0232 · Dm xx0231 · G 320003
+
 **Ukulele:** F 2010 · C 0003 · Gm 0231 · D 2220 · Dm 2210 · G 0232
 
 ```text
@@ -32697,8 +32698,8 @@ F
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 37 · Cărticica Karban, p. 88
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -32737,8 +32738,8 @@ Să trăia cine-o ascultă.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 38
 
-
 **Chitară:** Em 022000 · Am x02210 · B x24442 · D xx0232 · A x02220
+
 **Ukulele:** Em 0432 · Am 2000 · B 4322 · D 2220 · A 2100
 
 ```text
@@ -32788,8 +32789,8 @@ E         0
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 39
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -32839,8 +32840,8 @@ E         3
 
 **Slade** · Sursa: Colinde Karban, p. 61
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · F 133211 · Bm x24432 · Bb x13331 · E 022100
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · F 2010 · Bm 4222 · Bb 3211 · E 4442
 
 ```text
@@ -32898,8 +32899,8 @@ E
 
 muzica/versuri: tradițional german · Sursa: Colinde Karban, p. 79
 
-
 **Chitară:** G 320003 · D xx0232 · Em 022000 · Am x02210
+
 **Ukulele:** G 0232 · D 2220 · Em 0432 · Am 2000
 
 ```text
@@ -32946,8 +32947,8 @@ Note:Măsura este 3/4
 
 **tradițional** · Sursa: Cărticica Karban, p. 220
 
-
 **Chitară:** G 320003 · C x32010 · D7 xx0212
+
 **Ukulele:** G 0232 · C 0003 · D7 2223
 
 ```text
@@ -32976,8 +32977,8 @@ Refren:
 
 muzica/versuri: D.G. Kiriac/tradițional · Sursa: Colinde Karban, p. 9
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010
+
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -33028,8 +33029,8 @@ E         3
 
 Sursa: Colinde Karban, p. 62
 
-
 **Chitară:** D xx0232 · A x02220 · Em 022000 · Bm x24432
+
 **Ukulele:** D 2220 · A 2100 · Em 0432 · Bm 4222
 
 ```text
@@ -33089,8 +33090,8 @@ Must be Santa, Santa Claus
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 110 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ninge-iar-1857)
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322 · G 0232
 
 ```text
@@ -33138,8 +33139,8 @@ Azi pe sub zăpadă ți-aș săpa tunel
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 84
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322 · G 0232
 
 ```text
@@ -33181,8 +33182,8 @@ cu o trecere în Em sau respectiv, în G.
 
 **Ștefan Hrușcă** · muzica/versuri: S  țefan Hrușcă/Dan Verona · Sursa: Colinde Karban, p. 104
 
-
 **Chitară:** Em 022000 · D xx0232 · C x32010 · B x24442 · G 320003 · B7 x21202
+
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B 4322 · G 0232 · B7 2322
 
 ```text
@@ -33242,8 +33243,8 @@ cu o trecere în Em sau respectiv, în G.
 
 muzica/versuri: Franz X. Gruber/Joseph Mohr/traduse · Sursa: Colinde Karban, p. 10
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
 
 ```text
@@ -33299,8 +33300,8 @@ Note:Măsura este 3/4
 
 **Tradițional** · Sursa: Cărticica Karban, p. 219
 
-
 **Chitară:** C x32010 · G7 320001 · F 133211 · G 320003 · Am x02210
+
 **Ukulele:** C 0003 · G7 0212 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -33326,8 +33327,8 @@ Note:Măsura este 3/4
 
 muzica/versuri: Franz Xaver Gruber/Joseph Mohr · Sursa: Colinde Karban, p. 11
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -33371,8 +33372,8 @@ C            G       C
 
 muzica/versuri: tradițional · Sursa: Colinde Karban, p. 63
 
-
 **Chitară:** D xx0232 · A x02220 · Em 022000 · B x24442 · G 320003
+
 **Ukulele:** D 2220 · A 2100 · Em 0432 · B 4322 · G 0232
 
 ```text
@@ -33414,8 +33415,8 @@ Pentru cei care trecerea Em-B7-Em pare prea complicată pot să o înlocuiască 
 
 muzica/versuri: tradițional german - Ihr Kinderlein kommet · Sursa: Colinde Karban, p. 64
 
-
 **Chitară:** A x02220 · E 022100 · D xx0232
+
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -33457,8 +33458,8 @@ E
 
 Sursa: Colinde Karban, p. 87
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · E 022100
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · E 4442
 
 ```text
@@ -33521,8 +33522,8 @@ E         3
 
 **Tradițional** · Sursa: Cărticica Karban, p. 221
 
-
 **Chitară:** F 133211 · C x32010 · C7 x32310
+
 **Ukulele:** F 2010 · C 0003 · C7 0001
 
 ```text
@@ -33550,8 +33551,8 @@ Cu frunza-[C7]ți neschim[F]bată!
 
 muzica/versuri: tradițional german · Sursa: Colinde Karban, p. 12
 
-
 **Chitară:** F 133211 · C x32010
+
 **Ukulele:** F 2010 · C 0003
 
 ```text
@@ -33598,8 +33599,8 @@ Măsura ete 3/4
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 41
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -33637,8 +33638,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 40
 
-
 **Chitară:** E 022100 · B x24442 · A x02220
+
 **Ukulele:** E 4442 · B 4322 · A 2100
 
 ```text
@@ -33690,8 +33691,8 @@ Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest
 
 **Doi și Jumătate** · Sursa: Caiet cabană RO, p. 116
 
-
 **Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000
+
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432
 
 ```text
@@ -33725,8 +33726,8 @@ De colindătorii veacurilor toate.
 
 **Doi și Jumătate** · muzica/versuri: Doi și Jumătate/Elena Farago · Sursa: Colinde Karban, p. 92
 
-
 **Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000 · D xx0232 · E 022100
+
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432 · D 2220 · E 4442
 
 ```text
@@ -33786,8 +33787,8 @@ Exemplificat aici pentru G urmat de C.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 42
 
-
 **Chitară:** F 133211 · C x32010 · Bb x13331
+
 **Ukulele:** F 2010 · C 0003 · Bb 3211
 
 ```text
@@ -33848,8 +33849,8 @@ Exemplificat pentru primul vers.
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 13
 
-
 **Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432 · E 022100
+
 **Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222 · E 4442
 
 ```text
@@ -33902,8 +33903,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 43
 
-
 **Chitară:** E 022100 · A x02220 · B x24442
+
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
@@ -33953,8 +33954,8 @@ E
 
 muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 80
 
-
 **Chitară:** A x02220 · D xx0232 · E 022100 · G 320003 · B x24442
+
 **Ukulele:** A 2100 · D 2220 · E 4442 · G 0232 · B 4322
 
 ```text
@@ -34012,8 +34013,8 @@ E
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Serghei Esenin · Sursa: Colinde Karban, p. 93
 
-
 **Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -34056,8 +34057,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 44
 
-
 **Chitară:** F 133211 · Bb x13331 · C x32010
+
 **Ukulele:** F 2010 · Bb 3211 · C 0003
 
 ```text
@@ -34107,8 +34108,8 @@ E         1     1     1         1     1     1                1     1     1      
 
 **Mircea Baniciu** · Sursa: Colinde Karban, p. 101
 
-
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · F 133211 · Am x02210
+
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · F 2010 · Am 2000
 
 ```text
@@ -34156,8 +34157,8 @@ Strofele se arpegiază iar la refren merge un pop-strum.
 
 **Brenda Lee** · muzica/versuri: Johnny Marks/Johnny Marks · Sursa: Colinde Karban, p. 65
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Bm 4222 · Em 0432 · A 2100
 
 ```text
@@ -34213,8 +34214,8 @@ Exemplificat aici pentru G. Semnele “ ” reprezintă lovirea corzii de sus î
 
 muzica/versuri: Johnny Marks 1949 · Sursa: Colinde Karban, p. 66
 
-
 **Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · D xx0232 · E 022100
+
 **Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · D 2220 · E 4442
 
 ```text
@@ -34265,8 +34266,8 @@ La strofe linia C-C-C poate fi înlocuită cu C-C7-C la fel și G7-G7-G7 cu G7-G
 
 muzica/versuri: tradițional german- Stille Nacht, heilige Nacht · Sursa: Colinde Karban, p. 81
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Db x43121 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Db 1114 · Em 0432 · A 2100
 
 ```text
@@ -34333,8 +34334,8 @@ Pentru altă variantă de armonizare vezi și transcriere melodiei în germană.
 
 muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 67
 
-
 **Chitară:** G 320003 · C x32010 · Cm x35543 · Em 022000 · Am x02210 · D xx0232 · A x02220
+
 **Ukulele:** G 0232 · C 0003 · Cm 0333 · Em 0432 · Am 2000 · D 2220 · A 2100
 
 ```text
@@ -34386,8 +34387,8 @@ Acordul Cm este opțional și se potrivește mai bine la varianta ciupită a câ
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 94
 
-
 **Chitară:** Am x02210 · F 133211 · Em 022000 · D xx0232 · E 022100
+
 **Ukulele:** Am 2000 · F 2010 · Em 0432 · D 2220 · E 4442
 
 ```text
@@ -34439,8 +34440,8 @@ E
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 95
 
-
 **Chitară:** Dm xx0231 · A x02220 · E 022100
+
 **Ukulele:** Dm 2210 · A 2100 · E 4442
 
 ```text
@@ -34503,8 +34504,8 @@ E
 
 **Maria Magdalena Dănăilă** · Sursa: Colinde Karban, p. 99
 
-
 **Chitară:** Am x02210 · C x32010 · Em 022000 · Dm xx0231 · F 133211 · E 022100 · G 320003 · D xx0232
+
 **Ukulele:** Am 2000 · C 0003 · Em 0432 · Dm 2210 · F 2010 · E 4442 · G 0232 · D 2220
 
 ```text
@@ -34559,8 +34560,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: S  țefan Hrușcă/Adrian Păunescu · Sursa: Colinde Karban, p. 105
 
-
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · F 133211
+
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · F 2010
 
 ```text
@@ -34620,8 +34621,8 @@ Exemplificat aici pentru Am.
 
 muzica/versuri: Joseph Mohr/Franz Gruber · Sursa: Colinde Karban, p. 88
 
-
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
 
 ```text
@@ -34675,8 +34676,8 @@ E         3                  3
 
 muzica/versuri: Lewie Jona/Lewie Jona · Sursa: Colinde Karban, p. 68
 
-
 **Chitară:** D xx0232 · A x02220 · E 022100
+
 **Ukulele:** D 2220 · A 2100 · E 4442
 
 ```text
@@ -34723,8 +34724,8 @@ Exemplificat aici pentru acordul D. Semnele “ ” reprezintă lovirea corzii d
 
 **Maria Gheorghiu** · Sursa: Colinde Karban, p. 17
 
-
 **Chitară:** Em 022000 · D xx0232 · Bm x24432 · A x02220
+
 **Ukulele:** Em 0432 · D 2220 · Bm 4222 · A 2100
 
 ```text
@@ -34776,8 +34777,8 @@ exemplificată pentru primul vers. În original e cu capo în poz. I
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 45
 
-
 **Chitară:** F 133211 · Bb x13331 · C x32010 · D xx0232 · A x02220
+
 **Ukulele:** F 2010 · Bb 3211 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -34845,8 +34846,8 @@ F
 
 Sursa: Colinde Karban, p. 69
 
-
 **Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
+
 **Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
 
 ```text
@@ -34888,8 +34889,8 @@ E
 
 muzica/versuri: Johnny Marks/Clement Clarke Moore · Sursa: Colinde Karban, p. 70
 
-
 **Chitară:** G 320003 · C x32010 · Em 022000 · F 133211 · Dm xx0231 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · Em 0432 · F 2010 · Dm 2210 · D 2220
 
 ```text
@@ -34936,8 +34937,8 @@ Exemplificat aici pentru G.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 46
 
-
 **Chitară:** Fm 133111 · Bbm x13321 · C x32010 · A x02220 · E 022100
+
 **Ukulele:** Fm 1013 · Bbm 3111 · C 0003 · A 2100 · E 4442
 
 ```text
@@ -34994,8 +34995,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 47
 
-
 **Chitară:** C x32010 · G 320003 · D xx0232
+
 **Ukulele:** C 0003 · G 0232 · D 2220
 
 ```text
@@ -35054,8 +35055,8 @@ Exemplificat aici pentru C.
 
 Sursa: Colinde Karban, p. 71
 
-
 **Chitară:** C x32010 · F 133211 · G 320003 · E 022100
+
 **Ukulele:** C 0003 · F 2010 · G 0232 · E 4442
 
 ```text
@@ -35085,8 +35086,8 @@ E
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 96
 
-
 **Chitară:** Dm xx0231 · A x02220 · E 022100
+
 **Ukulele:** Dm 2210 · A 2100 · E 4442
 
 ```text
@@ -35155,8 +35156,8 @@ E
 
 **Ducu Bertzi** · muzica/versuri: tradițional din Rona de Jos, Maramureș - cules de Vasile Marina · Sursa: Colinde Karban, p. 15
 
-
 **Chitară:** Dm xx0231 · D xx0232 · A x02220 · F 133211 · C x32010 · Gm 355333 · E 022100
+
 **Ukulele:** Dm 2210 · D 2220 · A 2100 · F 2010 · C 0003 · Gm 0231 · E 4442
 
 ```text
@@ -35205,8 +35206,8 @@ E
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 48
 
-
 **Chitară:** D xx0232 · G 320003 · Bm x24432 · A x02220 · E 022100
+
 **Ukulele:** D 2220 · G 0232 · Bm 4222 · A 2100 · E 4442
 
 ```text
@@ -35274,8 +35275,8 @@ E
 
 Sursa: Colinde Karban, p. 72
 
-
 **Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232 · Bm x24432 · Em 022000 · A x02220 · E 022100
+
 **Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220 · Bm 4222 · Em 0432 · A 2100 · E 4442
 
 ```text
@@ -35331,8 +35332,8 @@ Exemplificat aici pentru acordul G. Semnele “ ” reprezintă lovirea corzii d
 
 Sursa: Colinde Karban, p. 73
 
-
 **Chitară:** G 320003 · Am x02210 · D xx0232 · C x32010 · Cm x35543 · Em 022000 · A x02220
+
 **Ukulele:** G 0232 · Am 2000 · D 2220 · C 0003 · Cm 0333 · Em 0432 · A 2100
 
 ```text
@@ -35384,8 +35385,8 @@ Exemplificată aici pentru G. O variantă cunoscută a melodiei este cea interpr
 
 muzica/versuri: Felix Bernard/Dick Smith · Sursa: Colinde Karban, p. 74
 
-
 **Chitară:** C x32010 · G 320003 · Dm xx0231 · D xx0232 · E 022100 · B x24442 · A x02220
+
 **Ukulele:** C 0003 · G 0232 · Dm 2210 · D 2220 · E 4442 · B 4322 · A 2100
 
 ```text
@@ -35440,8 +35441,8 @@ Note:Măsura este 4/4 iar ritmul este unul de swing.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 49
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232
+
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -35492,8 +35493,8 @@ Exemplificată aici penru G. Semnele “ ” reprezintă lovirea corzii de sus �
 
 **Mircea Baniciu** · Sursa: Colinde Karban, p. 102
 
-
 **Chitară:** G 320003 · C x32010 · D xx0232 · Am x02210 · Em 022000
+
 **Ukulele:** G 0232 · C 0003 · D 2220 · Am 2000 · Em 0432
 
 ```text
