@@ -98,6 +98,14 @@ test("shiftFingering falls back to the long way around when the short direction 
   assert.equal(shiftFingering("320003", -1), "edbbbe");
 });
 
+test("shiftFingering returns null when no direction keeps every fret within 0-15", () => {
+  // Dadd9 (x54230, guitar's real curated shape) down 1 semitone: the short
+  // direction takes the open string (fret 0) to -1; the long way around
+  // pushes the fret-5 string to 16, past a single hex digit. Neither
+  // direction is representable, so there is no valid shift.
+  assert.equal(shiftFingering("x54230", -1), null);
+});
+
 test("fingerFor prefers the curated exact match over shifting", () => {
   const r = fingerFor("Am", 3, "x02210", CHORDS_DATA.FINGERINGS.guitar);
   assert.deepEqual(r, { name: "Cm", fingering: "x35543" });
@@ -112,6 +120,14 @@ test("fingerFor falls back to shifting the song's own shape when no curated matc
 test("fingerFor at offset 0 returns the original untouched", () => {
   const r = fingerFor("Cm#", 0, "x46654", CHORDS_DATA.FINGERINGS.guitar);
   assert.deepEqual(r, { name: "Cm#", fingering: "x46654" });
+});
+
+test("fingerFor passes through a null fingering when no valid shift exists and no curated match covers the target", () => {
+  // "Dadd9" transposed down 1 semitone targets "C#add9", not in this tiny
+  // fixture table, so tier 2 fires and (per the shiftFingering test above)
+  // returns null — callers (Task 3) must handle this, never display it as-is
+  const r = fingerFor("Dadd9", -1, "x54230", CHORDS_DATA.FINGERINGS.guitar);
+  assert.deepEqual(r, { name: "C#add9", fingering: null });
 });
 
 test("transposedLabel renders the normalized+transposed name", () => {

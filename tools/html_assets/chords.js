@@ -81,7 +81,10 @@ function shiftFingering(fingering, semitones) {
     for (const ch of fingering) {
       if (ch === "x") { out.push("x"); continue; }
       const fret = parseInt(ch, 16) + d;
-      if (fret < 0) return null;
+      // a fret must fit one hex digit (0-15); either direction can miss —
+      // the short one by going negative (an open string can't un-fret),
+      // the long one by pushing an already-high fret past 15
+      if (fret < 0 || fret > 15) return null;
       out.push(fret.toString(16));
     }
     return out.join("");
