@@ -125,7 +125,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 87. [Vino, vino (I)](#87-vino-vino-i)
 88. [Visul (I)](#88-visul-i)
 89. [Visul (II)](#89-visul-ii)
-90. [Visul (III)](#90-visul-iii)
+90. [Visul (Karma)](#90-visul-karma)
 91. [Vulturul](#91-vulturul)
 
 ### I.2 — Naționaliste și de dor de țară (alfabetic)
@@ -339,7 +339,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 292. [Era Vasile om frumos](#292-era-vasile-om-frumos)
 293. [Esarfa în dar](#293-esarfa-în-dar)
 294. [Ești așa frumoasă](#294-ești-așa-frumoasă)
-295. [Fără petale (I)](#295-fără-petale-i)
+295. [Fără petale](#295-fără-petale)
 296. [Fata din vis](#296-fata-din-vis)
 297. [Fata morgană](#297-fata-morgană)
 298. [Fată verde (I)](#298-fată-verde-i)
@@ -460,8 +460,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 413. [Peste-al nostru sărut](#413-peste-al-nostru-sărut)
 414. [Piața Romană nr.9](#414-piața-romană-nr9)
 415. [Pisică neagră](#415-pisică-neagră)
-416. [Ploaia](#416-ploaia)
-417. [Ploaia (II)](#417-ploaia-ii)
+416. [Ploaia (Cargo)](#416-ploaia-cargo)
+417. [Ploaia (Karma)](#417-ploaia-karma)
 418. [Ploaia care va veni (I)](#418-ploaia-care-va-veni-i)
 419. [Ploaia care va veni (II)](#419-ploaia-care-va-veni-ii)
 420. [Ploaie în luna lui marte](#420-ploaie-în-luna-lui-marte)
@@ -4956,7 +4956,7 @@ R:
 SĂ nu vă destrămați ușor ...
 ```
 
-#### 90. Visul (III)
+#### 90. Visul (Karma)
 
 alt cântec cu același titlu · Sursa: Caiet cabană RO, p. 129 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
@@ -14315,7 +14315,7 @@ Esti așa frumoasă și dacă m-ai iubi, aș atinge luna
 Ești așa frumoasă și ne-am iubi o viață într-o zi
 ```
 
-#### 295. Fără petale (I)
+#### 295. Fără petale
 
 **Doru Stănculescu** · Sursa: Cărticica Karban, p. 153; Caiet cabană RO, p. 150
 
@@ -19686,7 +19686,7 @@ să folosești și o chitară electrica atunci poți să transpui poate și riff
 care însoțește toată melodia.
 ```
 
-#### 416. Ploaia
+#### 416. Ploaia (Cargo)
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
 
@@ -19738,7 +19738,7 @@ Zău, îmi e greu
 Refren1 x2 + Refren2
 ```
 
-#### 417. Ploaia (II)
+#### 417. Ploaia (Karma)
 
 Sursa: Caiet cabană RO, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
 
@@ -35581,7 +35581,7 @@ La refren măsura este 3/4.
 - **...ca și completare la Katiusa (prima variantă)** — [Katiusa (variantă)](#150-katiusa-variantă)
 - **CALEnDAR** — [Un munte așternut](#84-un-munte-așternut)
 - **Cântece Horror** — [Bing bang (I)](#116-bing-bang-i)
-- **Cargo** — [Aproape de voi](#201-aproape-de-voi), [Astăzi și mâine](#208-astăzi-și-mâine), [Ca o stea](#219-ca-o-stea), [Ploaia](#416-ploaia)
+- **Cargo** — [Aproape de voi](#201-aproape-de-voi), [Astăzi și mâine](#208-astăzi-și-mâine), [Ca o stea](#219-ca-o-stea), [Ploaia (Cargo)](#416-ploaia-cargo)
 - **Carmen Ciocolata** — [Când te scuturi de zăpadă](#19-când-te-scuturi-de-zăpadă)
 - **Carmen Silva Ciocolată** — [Cabana Schiorilor](#17-cabana-schiorilor)
 - **Cat Stevens** — [Father to Son](#545-father-to-son)
@@ -35605,7 +35605,7 @@ La refren măsura este 3/4.
 - **Direcția 5** — [Am nevoie de tine](#193-am-nevoie-de-tine), [Obsesia](#392-obsesia), [Spune ce vrei](#461-spune-ce-vrei), [Te voi aștepta](#481-te-voi-aștepta), [Voi pluti](#520-voi-pluti)
 - **Direcția 5 & Paula Seling** — [Lângă mine](#345-lângă-mine)
 - **Doi și Jumătate** — [Ostașii luminii colindă (I)](#705-ostașii-luminii-colindă-i), [Ostașii luminii colindă (II)](#706-ostașii-luminii-colindă-ii)
-- **Doru Stănculescu** — [Hai dihai (I)](#42-hai-dihai-i), [Hai dihai (II)](#43-hai-dihai-ii), [Fără petale (I)](#295-fără-petale-i)
+- **Doru Stănculescu** — [Hai dihai (I)](#42-hai-dihai-i), [Hai dihai (II)](#43-hai-dihai-ii), [Fără petale](#295-fără-petale)
 - **Dragoș Bălan** — [Nunta pe Caraiman (II)](#68-nunta-pe-caraiman-ii), [Dragoste în fân (I)](#280-dragoste-în-fân-i)
 - **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#21-ce-frumos-e-sus-la-munte), [Evadare](#35-evadare), [În codrul verde](#50-în-codrul-verde), [Mă întorc la tine, muntele meu drag](#57-mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#523-vreau-să-trecem-marea)
 - **Ducu Bertzi** — [Floare de colț (I)](#39-floare-de-colț-i), [Floare de colț (II)](#40-floare-de-colț-ii), [Când s-o-mpărțit norocu'](#228-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#230-cântec-bătrânesc), [Dans](#261-dans), [Dragu-mii veselia](#285-dragu-mii-veselia), [Focul vânăt (I)](#303-focul-vânăt-i), [Focul vânăt (II)](#304-focul-vânăt-ii), [Iertările](#319-iertările), [M-am îndrăgostit numai de ea](#352-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#376-nu-am-cer), [Omul pădurii (I)](#398-omul-pădurii-i), [Pe cine și câte cărări](#409-pe-cine-și-câte-cărări), [Săracă inima me' (I)](#445-săracă-inima-me-i), [Săracă inima me' (II)](#446-săracă-inima-me-ii), [Și de-ar fi (I)](#455-și-de-ar-fi-i), [Și de-ar fi (II)](#456-și-de-ar-fi-ii), [Suflet fără chei](#469-suflet-fără-chei), [Cheamă-ți gazdă](#636-cheamă-ți-gazdă), [Corindăm, corindăm (II)](#646-corindăm-corindăm-ii), [Pe podele de nuiele](#708-pe-podele-de-nuiele), [Plecarea](#711-plecarea), [Scrisoare la-nceput de iarnă](#718-scrisoare-la-nceput-de-iarnă), [Seara serilor](#719-seara-serilor), [Un creștin s-a-nvrednicit](#731-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#732-veniți-păstori-în-viflaiem)
