@@ -1,14 +1,17 @@
 // tools/html_assets/nav.js
 document.addEventListener("DOMContentLoaded", () => {
-  const toggle = document.querySelector(".sidebar-toggle");
   const sidebar = document.querySelector(".sidebar");
-  if (!toggle || !sidebar) return;
+  if (!sidebar) return;
+  // scroll the current song into view on load — works on desktop (sidebar
+  // always visible) and on mobile (still laid out, just translated
+  // off-screen until opened, so the scroll position is already correct
+  // by the time the panel slides in)
+  const current = sidebar.querySelector(".current");
+  if (current) current.scrollIntoView({ block: "center" });
+
+  const toggle = document.querySelector(".sidebar-toggle");
+  if (!toggle) return;
   toggle.addEventListener("click", () => {
-    const opening = !sidebar.classList.contains("open");
-    sidebar.classList.toggle("open", opening);
-    if (opening) {
-      const current = sidebar.querySelector(".current");
-      if (current) current.scrollIntoView({ block: "center" });
-    }
+    sidebar.classList.toggle("open");
   });
 });
