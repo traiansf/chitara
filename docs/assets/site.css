@@ -1,0 +1,54 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: sans-serif; color: #111; background: #fdfdfb; }
+main { max-width: 900px; margin: 0 auto; padding: 12px 16px 40px; }
+h1 { font-size: 1.4rem; }
+.meta { font-size: 0.85rem; color: #444; margin-bottom: 6px; }
+.meta a { color: #1a4d8b; }
+.fingering-line { font-size: 0.85rem; color: #333; margin-bottom: 4px; }
+.fingering-line b { color: #8b1a1a; }
+.fingering { white-space: nowrap; }
+pre {
+  font-family: 'DejaVu Sans Mono', monospace;
+  white-space: pre-wrap;
+  overflow-x: auto;
+  line-height: 1.35;
+  font-size: 0.95rem;
+}
+.ln { display: block; white-space: pre-wrap; }
+.bl { display: block; height: 0.7em; }
+.ch { color: #8b1a1a; font-weight: bold; }
+.transpose-controls { margin: 10px 0; display: flex; gap: 8px; align-items: center; }
+.transpose-controls button {
+  font-size: 1rem; padding: 4px 10px; cursor: pointer;
+}
+.offset-label { min-width: 2ch; text-align: center; font-weight: bold; }
+.song-nav { margin-top: 24px; display: flex; justify-content: space-between; }
+.song-nav a { color: #1a4d8b; text-decoration: none; }
+
+.sidebar-toggle { display: none; }
+.sidebar { border-right: 1px solid #ddd; padding: 10px; overflow-y: auto; }
+.sidebar h3 { font-size: 0.8rem; color: #888; margin: 12px 0 4px; }
+.sidebar a.song-link {
+  display: block; font-size: 0.85rem; padding: 2px 4px; color: #222;
+  text-decoration: none; border-radius: 3px;
+}
+.sidebar a.song-link.current { background: #f0e6d2; font-weight: bold; }
+
+body:has(main) {
+  display: flex; align-items: flex-start;
+}
+.sidebar { position: sticky; top: 0; height: 100vh; width: 260px; flex: none; }
+
+@media (max-width: 800px) {
+  body:has(main) { display: block; }
+  .sidebar-toggle {
+    display: block; position: fixed; top: 8px; right: 8px; z-index: 10;
+    font-size: 1rem; padding: 6px 10px;
+  }
+  .sidebar {
+    position: fixed; inset: 0; width: auto; z-index: 9;
+    background: #fdfdfb; transform: translateX(-100%);
+    transition: transform 0.15s ease-out;
+  }
+  .sidebar.open { transform: translateX(0); }
+}

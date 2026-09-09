@@ -104,3 +104,115 @@ def render_fingering_line(line):
             f'data-fingering="{html.escape(fingering)}" '
             f'data-instrument="{key}">{html.escape(pair, quote=False)}</span>')
     return f'<div class="fingering-line"><b>{label}:</b> ' + " · ".join(spans) + "</div>"
+
+
+def song_filename(s):
+    return f"{s['num']:03d}-{make_pdf.slug(s['title'])}.html"
+
+
+PART_LABEL = {}  # sec_key -> "I.1 — De munte și de drum" / "Partea a II-a — ..."
+def _init_part_labels():
+    import reorganize_parts as rp
+    for pkey, roman, name, subs in rp.PARTS:
+        for sec, subname in (subs or [(pkey, None)]):
+            PART_LABEL[sec] = f"{sec} — {subname}" if subname else f"{roman} — {name}"
+_init_part_labels()
+
+
+def render_sidebar(songs, current_num, prefix=""):
+    out = ['<nav class="sidebar">']
+    cur_part = None
+    for s in songs:
+        if s["part"] != cur_part:
+            cur_part = s["part"]
+            out.append(f'<h3>{html.escape(PART_LABEL.get(cur_part, cur_part))}</h3>')
+        cls = " current" if s["num"] == current_num else ""
+        out.append(
+            f'<a class="song-link{cls}" href="{prefix}{song_filename(s)}">'
+            f'{s["num"]}. {html.escape(s["title"])}</a>')
+    out.append("</nav>")
+    return "".join(out)
+
+
+def song_page(s, prev_s, next_s, songs):
+    body_html = render_pre_interactive(s["body"])
+    fingerings = "".join(render_fingering_line(s[k]) for k in ("gtr", "uke") if s[k])
+    nav_links = []
+    if prev_s:
+        nav_links.append(f'<a href="{song_filename(prev_s)}">← {html.escape(prev_s["title"])}</a>')
+    if next_s:
+        nav_links.append(f'<a href="{song_filename(next_s)}">{html.escape(next_s["title"])} →</a>')
+    return f"""<!doctype html>
+<html lang="ro"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{html.escape(s["title"])} — Caiet de cântece</title>
+<link rel="stylesheet" href="../assets/site.css">
+</head><body>
+<button type="button" class="sidebar-toggle">☰ Cuprins</button>
+{render_sidebar(songs, s["num"], prefix="")}
+<main>
+<h1>{s["num"]}. {html.escape(s["title"])}</h1>
+{f'<div class="meta">{make_pdf.mini_md(s["meta"])}</div>' if s["meta"] else ""}
+{fingerings}
+<div class="transpose-controls">
+<button type="button" data-action="down">▼ semiton</button>
+<span class="offset-label">0</span>
+<button type="button" data-action="up">▲ semiton</button>
+<button type="button" data-action="reset">reset</button>
+</div>
+<pre>{body_html}</pre>
+<div class="song-nav">{" ".join(nav_links)}</div>
+</main>
+<script src="../assets/chords-data.js"></script>
+<script src="../assets/chords.js"></script>
+<script src="../assets/nav.js"></script>
+</body></html>"""
+
+
+def index_page(songs):
+    return f"""<!doctype html>
+<html lang="ro"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Caiet de cântece pentru chitară</title>
+<link rel="stylesheet" href="assets/site.css">
+</head><body>
+<main>
+<h1>Caiet de cântece pentru chitară</h1>
+<p>{len(songs)} de cântece. Alege unul din listă.</p>
+{render_sidebar(songs, current_num=None, prefix="songs/")}
+</main>
+</body></html>"""
+
+
+def main():
+    intro, songs, index_lines, annex_lines = make_pdf.parse(MD)
+
+    if OUT_DIR.exists():
+        shutil.rmtree(OUT_DIR)
+    (OUT_DIR / "songs").mkdir(parents=True)
+    (OUT_DIR / "assets").mkdir()
+
+    for i, s in enumerate(songs):
+        prev_s = songs[i - 1] if i > 0 else None
+        next_s = songs[i + 1] if i + 1 < len(songs) else None
+        (OUT_DIR / "songs" / song_filename(s)).write_text(
+            song_page(s, prev_s, next_s, songs), encoding="utf-8")
+
+    (OUT_DIR / "index.html").write_text(index_page(songs), encoding="utf-8")
+
+    for name in ("chords.js", "nav.js", "site.css"):
+        shutil.copy(ASSETS_SRC / name, OUT_DIR / "assets" / name)
+    emit_chords_data(OUT_DIR / "assets" / "chords-data.js")
+
+    # ---- verification, same discipline as reorganize_parts.py
+    assert len(songs) == 738, f"expected 738 songs, got {len(songs)}"
+    filenames = {song_filename(s) for s in songs}
+    assert len(filenames) == len(songs), "duplicate song filenames"
+    for name in filenames:
+        assert (OUT_DIR / "songs" / name).exists(), f"missing {name}"
+
+    print(f"{len(songs)} cântece generate în {OUT_DIR}")
+
+
+if __name__ == "__main__":
+    main()
