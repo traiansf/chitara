@@ -43,10 +43,17 @@ pre {
 .sidebar-toggle { display: none; }
 .sidebar { border-right: 1px solid #ddd; padding: 10px; overflow-y: auto; }
 .sidebar h3 { font-size: 0.8rem; color: #888; margin: 12px 0 4px; }
+.sidebar h3.filtered-out { display: none; }
+.sidebar-filter {
+  position: sticky; top: 0; z-index: 1; width: 100%; box-sizing: border-box;
+  padding: 6px 8px; margin-bottom: 6px; font-size: 0.9rem;
+  border: 1px solid #ccc; border-radius: 4px; background: #fff;
+}
 .sidebar a.song-link {
   display: block; font-size: 0.85rem; padding: 2px 4px; color: #222;
   text-decoration: none; border-radius: 3px;
 }
+.sidebar a.song-link.filtered-out { display: none; }
 .sidebar a.song-link.current { background: #f0e6d2; font-weight: bold; }
 
 body:has(main) {

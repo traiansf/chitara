@@ -13,6 +13,7 @@ import json
 import re
 import shutil
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -128,6 +129,14 @@ def song_filename(s, filenames):
     return filenames[id(s)]
 
 
+def search_key(title):
+    """Diacritic/case-insensitive key for the sidebar filter — same
+    normalization dedup_lib.sortkey uses for alphabetical ordering, minus
+    the leading-punctuation strip (a filter should match anywhere)."""
+    t = unicodedata.normalize("NFD", title.lower())
+    return "".join(c for c in t if not unicodedata.combining(c))
+
+
 PART_LABEL = {}  # sec_key -> "I.1 — De munte și de drum" / "Partea a II-a — ..."
 def _init_part_labels():
     import reorganize_parts as rp
@@ -138,15 +147,19 @@ _init_part_labels()
 
 
 def render_sidebar(songs, filenames, current_num, prefix=""):
-    out = ['<nav class="sidebar">']
+    out = ['<nav class="sidebar">'
+           '<input type="search" class="sidebar-filter" '
+           'placeholder="Filtrează…" aria-label="Filtrează cântecele">']
     cur_part = None
     for s in songs:
         if s["part"] != cur_part:
             cur_part = s["part"]
             out.append(f'<h3>{html.escape(PART_LABEL.get(cur_part, cur_part))}</h3>')
         cls = " current" if s["num"] == current_num else ""
+        search = html.escape(search_key(s["title"]))
         out.append(
-            f'<a class="song-link{cls}" href="{prefix}{song_filename(s, filenames)}">'
+            f'<a class="song-link{cls}" data-search="{search}" '
+            f'href="{prefix}{song_filename(s, filenames)}">'
             f'{s["num"]}. {html.escape(s["title"])}</a>')
     out.append("</nav>")
     return "".join(out)
