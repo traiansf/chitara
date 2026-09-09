@@ -204,30 +204,100 @@ def content_counts_table(stats):
     return "<table>" + "".join(rows) + "</table>"
 
 
-SOURCES = [
-    ("Cărticică de cântece pentru chitară",
-     "https://github.com/traiansf/chitara/blob/main/surse/Eugen%20Karban%20-%20carticica-de-cantece-pentru-chitara-200.pdf",
-     "Eugen Karban, v2.0, <a href=\"http://www.eugenkarban.de\">eugenkarban.de</a>", 244),
-    ("Caiet Christian Adventure",
-     "https://github.com/traiansf/chitara/blob/main/surse/caiet-christian-adventure.pdf",
-     "red. Adelina Flavia Iancu", 191),
-    ("Caiet cabană RO",
-     "https://github.com/traiansf/chitara/blob/main/surse/Caietrom.pdf",
-     "<i>caiet_cantececabana_RO</i>, N. Raluca, C. Dragoș, P. Radu și mulți alții, 1998", 178),
-    ("Caiet cabană EN",
-     "https://github.com/traiansf/chitara/blob/main/surse/Caieteng.pdf",
-     "<i>Caieteng</i>, 1998, aceeași echipă", 76),
-    ("Colinde, cântece de Crăciun și de iarnă",
-     "https://github.com/traiansf/chitara/blob/main/surse/Eugen%20Karban%20-%20culegere-de-colinde-si-cantece-de-iarna-100.pdf",
-     "Eugen Karban, 2008", 100),
-]
+README_PATH = Path("/home/traian/chitara/README.md")
+GITHUB_REPO = "https://github.com/traiansf/chitara"
 
 
-def sources_table():
-    rows = "".join(
-        f'<tr><td><b><a href="{url}">{html.escape(title)}</a></b> — {credit}</td><td>{n}</td></tr>'
-        for title, url, credit, n in SOURCES)
-    return f"<table>{rows}</table>"
+def rewrite_relative_links(md_text):
+    """Any markdown link whose target isn't already absolute (http(s)/#)
+    points at a repo file or folder that isn't under docs/ (Caiet-chitara.md,
+    the PDF, surse/*) — on the deployed site that 404s, so point it at
+    GitHub instead. Keeps README.md the single source of truth: nothing
+    here needs updating when a source file moves or a new one is added."""
+    def sub(m):
+        target = m.group(1)
+        if re.match(r"^(https?://|#)", target):
+            return m.group(0)
+        kind = "blob" if "." in target.rsplit("/", 1)[-1] else "tree"
+        return f"]({GITHUB_REPO}/{kind}/main/{target})"
+    return re.sub(r"\]\(([^)]+)\)", sub, md_text)
+
+
+def markdown_block_to_html(text):
+    """Converts the small subset of GFM README.md actually uses — headers,
+    paragraphs, fenced code blocks, pipe tables — reusing make_pdf.mini_md
+    for inline formatting (bold/italic/code/links) within each block."""
+    lines = text.split("\n")
+    out = []
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if not ln.strip():
+            i += 1
+            continue
+        if ln.startswith("```"):
+            j = i + 1
+            code = []
+            while j < len(lines) and not lines[j].startswith("```"):
+                code.append(lines[j])
+                j += 1
+            out.append(f"<pre>{html.escape(chr(10).join(code), quote=False)}</pre>")
+            i = j + 1
+            continue
+        if ln.startswith("## "):
+            out.append(f"<h2>{make_pdf.mini_md(ln[3:])}</h2>")
+            i += 1
+            continue
+        if ln.lstrip().startswith("|"):
+            j = i
+            rows = []
+            while j < len(lines) and lines[j].lstrip().startswith("|"):
+                rows.append(lines[j])
+                j += 1
+            rows = [r for r in rows if not re.match(r"^\s*\|[\s:|-]+\|\s*$", r)]
+            trs = []
+            for r in rows:
+                cells = [c.strip() for c in r.strip().strip("|").split("|")]
+                trs.append("<tr>" + "".join(f"<td>{make_pdf.mini_md(c)}</td>" for c in cells) + "</tr>")
+            out.append("<table>" + "".join(trs) + "</table>")
+            i = j
+            continue
+        j = i
+        para = []
+        while j < len(lines) and lines[j].strip() and not lines[j].startswith(("```", "## ")) and not lines[j].lstrip().startswith("|"):
+            para.append(lines[j])
+            j += 1
+        out.append(f"<p>{make_pdf.mini_md(' '.join(para))}</p>")
+        i = j
+    return "\n".join(out)
+
+
+def readme_content_html(stats):
+    """The site's front page is README.md, converted, minus the opening
+    file-links block (those point at raw repo files, not this deployed
+    site — replaced by one link to the repo) — so index.html can never
+    describe the book differently from what README.md says, and the
+    Surse table in particular can never quietly drop a source."""
+    text = README_PATH.read_text(encoding="utf-8")
+    lines = text.split("\n")
+    first_h2 = next(i for i, l in enumerate(lines) if l.startswith("## "))
+    intro_block = "\n".join(lines[1:first_h2]).strip()
+    intro_para = re.split(r"\n\s*\n", intro_block, maxsplit=1)[0]
+    body_md = rewrite_relative_links("\n".join(lines[first_h2:]))
+
+    html_out = (
+        f"<p>{make_pdf.mini_md(intro_para.replace(chr(10), ' '))}</p>\n"
+        f'<p>📦 <a href="{GITHUB_REPO}">'
+        "github.com/traiansf/chitara</a> — codul, caietul complet "
+        "(.md/.pdf) și sursele scanate</p>\n"
+        + markdown_block_to_html(body_md)
+    )
+    # the "Ce conține" table is the one piece worth keeping generated
+    # rather than converted verbatim — it's the number most likely to go
+    # stale between a song move and the next time someone edits README.md
+    html_out = re.sub(r"<table>.*?</table>", content_counts_table(stats),
+                       html_out, count=1, flags=re.DOTALL)
+    return html_out
 
 
 def index_page(songs):
@@ -242,48 +312,7 @@ def index_page(songs):
 {render_sidebar(songs, current_num=None, prefix="songs/")}
 <main>
 <h1>Caiet de cântece pentru chitară</h1>
-<p>Un caiet de <b>{len(songs)} de cântece</b> cu acorduri — de cabană, folk
-românesc, repertoriu internațional și colinde — compilat din cinci culegeri
-tipărite și scanate.</p>
-<p>📦 <a href="https://github.com/traiansf/chitara">github.com/traiansf/chitara</a>
-— codul, caietul complet (.md/.pdf) și sursele scanate</p>
-
-<h2>Ce conține</h2>
-{content_counts_table(stats)}
-<p>{stats["n_artists"]} de artiști în index, {stats["n_attributed"]} de
-cântece atribuite. Fiecare cântec poartă digitațiile acordurilor lui,
-pentru chitară și pentru ukulele:</p>
-<pre>**Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231 · G 320003
-**Ukulele:** Am 2000 · E 4442 · C 0003 · Dm 2210 · G 0232</pre>
-<p>Cifrele sunt poziția pe corzi, de la coarda groasă la cea subțire; <code>x</code>
-= coarda nu se cântă. Pune cursorul pe orice acord din pagina unui cântec
-ca să vezi digitația.</p>
-
-<p>Acordurile stau fie pe rândul de deasupra versului, aliniate pe silaba unde
-se schimbă, fie — la cântecele din Cărticica lui Karban — în text, între
-paranteze drepte:</p>
-<pre>[Am]Om bun des[E]chide-ne [Am]poarta
-[C]Dă-ne o [G]coajă și [E]nu ne goni</pre>
-
-<p>Un cântec care apare în mai multe surse cu acorduri sau versuri diferite e
-păstrat de câte ori e nevoie, numerotat <code>(I)</code>, <code>(II)</code>,
-<code>(III)</code>, cu variantele una lângă alta — {stats["n_variants"]} astfel
-de intrări. Se contopesc doar cele cu aceeași succesiune de acorduri în aceeași
-tonalitate.</p>
-
-<h2>Surse</h2>
-<p>Caietul nu conține material propriu: e o compilație a cinci culegeri, cu
-sursa și pagina notate la fiecare cântec. La unele cântece acordurile au fost
-înlocuite cu variante văzute pe YouTube, așa că sursa notată acoperă versurile,
-nu neapărat acordurile.</p>
-{sources_table()}
-<p>Cele două volume ale lui <b>Eugen Karban</b> sunt distribuite de autor ca
-<i>cardware</i>, cu cerința de a-i fi creditate. Transcrierile din ele îi
-aparțin lui și celor care i-au trimis materiale, creditați individual în
-volumele originale.</p>
-<p>Drepturile asupra versurilor și muzicii aparțin autorilor și
-compozitorilor respectivi. Acest depozit e o compilație de uz personal, nu o
-publicație.</p>
+{readme_content_html(stats)}
 </main>
 <script src="assets/nav.js"></script>
 </body></html>"""
