@@ -4380,9 +4380,9 @@ SĂ-ntoarcem timpul înapoi.
 
 **Radu Pietreanu** · Sursa: Caiet Christian Adventure, p. 150
 
-**Chitară:** C x32010 · E 022100 · Am x02210 · F 133211 · G 320003
+**Chitară:** F 133211 · G 320003 · C x32010 · Am x02210
 
-**Ukulele:** C 0003 · E 4442 · Am 2000 · F 2010 · G 0232
+**Ukulele:** F 2010 · G 0232 · C 0003 · Am 2000
 
 ```text
 C                (E)          Am
@@ -6346,11 +6346,19 @@ R:
 
 Sursa: Caiet cabană RO, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/calugarul-din-vechiul-schit-4740)
 
+**Chitară:** C x32010 · Dm xx0231 · F 133211 · G 320003
+
+**Ukulele:** C 0003 · Dm 2210 · F 2010 · G 0232
+
 ```text
 1.
+C                     Dm
 CĂlugărul din vechiul schit
+        F           C
 O zi la el ne-a găzduit
+                     Dm
 Și de-ale lumii am vorbit
+       G          C
 Și de-amor și de amor mi-a povestit.
 2.
 Și când să plec am întrebat
@@ -11014,14 +11022,14 @@ Luminați în jur c-o floare
 
 **Bosquito** · Sursa: Caiet Christian Adventure, p. 28 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/bosquito/bosquito-309)
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · E7 020100 · C x32010 · E 022100
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · E7 020100 · C x32010
 
-**Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · E7 1202 · C 0003 · E 4442
+**Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · E7 1202 · C 0003
 
 ```text
 Am                    G          Am
 Când eram băiat acasă tare bine mai era
-G                              Am
+                     G         Am
 Aveam o gagică grasă care mă iubea
 Dm             Am           Dm         Am
 Dar când am plecat în lume ursitoarea m-a mințit
@@ -11033,9 +11041,9 @@ Refren:
 Însă bănuțul nu s-a arătat
        C     G             C
 Și fericirea iute s-a stricat
- C                  Dm       E Am
+       C           Dm       E7 Am
 Așa că beau, beau, golesc paharele
-         F     E        Am
+         F     E7        Am
 Cu pretenarii și cu fetele.
 
 Ce-mi plăcea s-o facem lată, asta-mi era boala
