@@ -105,6 +105,46 @@ function transposedLabel(rawToken, semitones) {
   return transposeName(normalizeToken(rawToken), semitones);
 }
 
+function renderAll(offset) {
+  document.querySelectorAll(".ch[data-chord]").forEach((el) => {
+    const raw = el.dataset.chord;
+    el.textContent = offset === 0 ? raw : transposedLabel(raw, offset);
+  });
+  document.querySelectorAll(".fingering[data-chord]").forEach((el) => {
+    const raw = el.dataset.chord;
+    const orig = el.dataset.fingering;
+    if (offset === 0) {
+      el.textContent = `${raw} ${orig}`;
+      return;
+    }
+    const table = CHORDS_DATA.FINGERINGS[el.dataset.instrument];
+    const { name, fingering } = fingerFor(raw, offset, orig, table);
+    // fingering is null when no fret shape fits (see chords.js
+    // shiftFingering) — show the chord name alone rather than "null"
+    el.textContent = fingering ? `${name} ${fingering}` : name;
+  });
+  const label = document.querySelector(".offset-label");
+  if (label) label.textContent = offset > 0 ? `+${offset}` : String(offset);
+}
+
+function initTranspose() {
+  const controls = document.querySelector(".transpose-controls");
+  if (!controls) return;
+  let offset = 0;
+  controls.addEventListener("click", (e) => {
+    const btn = e.target.closest("button[data-action]");
+    if (!btn) return;
+    if (btn.dataset.action === "up") offset += 1;
+    else if (btn.dataset.action === "down") offset -= 1;
+    else offset = 0;
+    renderAll(offset);
+  });
+}
+
+if (typeof document !== "undefined") {
+  document.addEventListener("DOMContentLoaded", initTranspose);
+}
+
 if (typeof module !== "undefined") {
   module.exports = {
     normalizeToken, transposeNote, transposeName, splitRootBass,
