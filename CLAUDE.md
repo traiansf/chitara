@@ -30,21 +30,22 @@ Un cântec arată așa:
 ````
 
 **Identitatea stabilă a unui cântec e `titlu || Sursa, p. N`** — unică pe toate
-cele 740. Numărul curent și ancora sunt derivate și se schimbă la fiecare
+cele 738. Numărul curent și ancora sunt derivate și se schimbă la fiecare
 rearanjare, deci nu construi nimic care să indexeze după număr.
 
 ## Structura cărții
 
-Patru părți; doar partea I are subsecțiuni. Nivelurile de titlu contează:
+Patru părți; părțile I și IV au subsecțiuni, II și III nu. Nivelurile de
+titlu contează:
 
 | Nivel | Ce e |
 |---|---|
 | `## Partea a II-a — Repertoriu românesc` | parte |
-| `### I.1 — De munte și de drum` | subsecțiune (doar în partea I) |
+| `### I.1 — De munte și de drum` | subsecțiune (părțile I și IV) |
 | `#### 176. Titlu` | cântec |
 
 `tools/categorii.json` ține încadrarea fiecărui cântec: cheia stabilă →
-`{"sectiune": "I.1"…"IV", "motiv": …}`. `tools/reorganize_parts.py` e singurul
+`{"sectiune": "I.1"…"IV.4", "motiv": …}`. `tools/reorganize_parts.py` e singurul
 lucru care atribuie numere, ancore, cuprins și index pe artiști; e idempotent,
 deci **a muta un cântec înseamnă o linie schimbată în JSON plus o re-rulare**,
 nu o editare manuală a caietului.
@@ -117,7 +118,7 @@ Ce face fiecare grup:
 
 **Nu există suită de teste.** După orice unealtă care rescrie caietul, dovada e:
 
-- **740 de cântece** înainte și după, aceleași chei stabile — nimic pierdut,
+- **738 de cântece** înainte și după, aceleași chei stabile — nimic pierdut,
   nimic duplicat;
 - **corpurile identice caracter cu caracter**, dacă unealta nu trebuia să le
   atingă;
