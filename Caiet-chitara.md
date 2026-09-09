@@ -689,12 +689,12 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 631. [Cerul și pământul (III)](#631-cerul-și-pământul-iii)
 632. [Cheamă-ți gazdă](#632-cheamă-ți-gazdă)
 633. [Coborât-o coborât](#633-coborât-o-coborât)
-634. [Colindăm, colindăm iarna](#634-colindăm-colindăm-iarna)
-635. [Colindul cerbului](#635-colindul-cerbului)
-636. [Colindul pușcăriașului](#636-colindul-pușcăriașului)
-637. [Corindăm, corindăm (I)](#637-corindăm-corindăm-i)
-638. [Corindăm, corindăm (II)](#638-corindăm-corindăm-ii)
-639. [Corindăm, corindăm (III)](#639-corindăm-corindăm-iii)
+634. [Colindăm, colindăm iarna (I)](#634-colindăm-colindăm-iarna-i)
+635. [Colindăm, colindăm iarna (II)](#635-colindăm-colindăm-iarna-ii)
+636. [Colindul cerbului](#636-colindul-cerbului)
+637. [Colindul pușcăriașului](#637-colindul-pușcăriașului)
+638. [Corindăm, corindăm (I)](#638-corindăm-corindăm-i)
+639. [Corindăm, corindăm (II)](#639-corindăm-corindăm-ii)
 640. [Creștinilor, noi astăzi](#640-creștinilor-noi-astăzi)
 641. [Dalbu-i dealu](#641-dalbu-i-dealu)
 642. [Deschide nană ușile](#642-deschide-nană-ușile)
@@ -30138,7 +30138,7 @@ E         1
 |    _ |    |      | _ | _ |    |    _ |    |      | _ | _ |
 ```
 
-#### 634. Colindăm, colindăm iarna
+#### 634. Colindăm, colindăm iarna (I)
 
 Sursa: Colinde Karban, p. 8
 
@@ -30197,115 +30197,7 @@ A         3
 E
 ```
 
-#### 635. Colindul cerbului
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 26
-
-**Chitară:** Gm 355333 · D xx0232 · Dm xx0231 · A x02220
-
-**Ukulele:** Gm 0231 · D 2220 · Dm 2210 · A 2100
-
-```text
-Gm                         Gm
-Mândru-și cântă un cerb în codru
-      Gm
-Haida-ler, leru-i ler
-D                          Gm     Gm
-Mândru-și cântă un cerb în codru
-Dm              A
-Vânătorul s-o sculatu
-      Gm
-Haida-ler, leru-i ler
-A                 Dm
-Pușca-n mână și-a luatu
-Dm             A
-După cerb o alergatu
-      Gm
-Haida-ler, leru-i ler
-A                 Dm
-Sus în munte l-o aflatu
-Gm                        Gm
-Stai fârtat nu mă-mpușca
-      Gm
-Haida-ler, leru-i ler
-D             Gm
-Lasă-mi mie viața
-Dm               Gm
-Că nu-s fiara fiarelor
-      Gm
-Haida-ler, leru-i ler
-D             Gm
-Ci-s vătaful oilor
-Gm         Gm
-Oilor, cornutelor
-      Gm
-Haida-ler, leru-i ler
-D              Gm
-Din vârfuțul munților.
-Măsura este 3/4. Merge o ciupitură cu bass alternativ de forma:
-E                  3                         3
-B                          3                         3
-G             3       3       3       3       3       3
-D
-A                                   5
-E         3
-| _ | _ | _ |    | _ | _ | _ |    | _ | _ | _ |
-```
-
-#### 636. Colindul pușcăriașului
-
-muzica/versuri: tradițional “O ce veste minunată” · Sursa: Colinde Karban, p. 112
-
-**Chitară:** G 320003 · D xx0232 · C x32010 · A x02220
-
-**Ukulele:** G 0232 · D 2220 · C 0003 · A 2100
-
-```text
-G     G   G  D     D
-O celulă minunată
-G       G      G   D     D
-Printre gratii se arată
-G    C
-Sora mea intra
-G     C
-Gardianul bătea
-D             G
-C-un bulan pe spate
-G    C
-Sora mea intra
-G     C
-Gardianul bătea
-D             G
-C-un bulan pe spate
-G      G   G    D     D
-Prin celulele curate
-G      G      G     D     D
-Prin WeCe-uri și private
-G    C
-Anul nou venea
-G      C
-Moș Crăciun bătea
-D           G
-Cu bulan pe spate
-G    C
-Anul nou venea
-G      C
-Moș Crăciun bătea
-D           G
-Cu bulan pe spate
-Note:O variantă a acestui cântec am auzit-o interpretată de grupul Vacanța Mare. Nu știu dacă versurile le aparțin.
-Măsura este 4/4 și propun un acompaniament de forma:
-E                               3
-B                               0
-G                    0                    0
-D
-A
-E         3
-|          |          |          |
-Exemplificat aici pentru G.
-```
-
-#### 637. Corindăm, corindăm (I)
+#### 635. Colindăm, colindăm iarna (II)
 
 **Paula Seling** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 18
 
@@ -30362,7 +30254,115 @@ A         3
 E
 ```
 
-#### 638. Corindăm, corindăm (II)
+#### 636. Colindul cerbului
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 26
+
+**Chitară:** Gm 355333 · D xx0232 · Dm xx0231 · A x02220
+
+**Ukulele:** Gm 0231 · D 2220 · Dm 2210 · A 2100
+
+```text
+Gm                         Gm
+Mândru-și cântă un cerb în codru
+      Gm
+Haida-ler, leru-i ler
+D                          Gm     Gm
+Mândru-și cântă un cerb în codru
+Dm              A
+Vânătorul s-o sculatu
+      Gm
+Haida-ler, leru-i ler
+A                 Dm
+Pușca-n mână și-a luatu
+Dm             A
+După cerb o alergatu
+      Gm
+Haida-ler, leru-i ler
+A                 Dm
+Sus în munte l-o aflatu
+Gm                        Gm
+Stai fârtat nu mă-mpușca
+      Gm
+Haida-ler, leru-i ler
+D             Gm
+Lasă-mi mie viața
+Dm               Gm
+Că nu-s fiara fiarelor
+      Gm
+Haida-ler, leru-i ler
+D             Gm
+Ci-s vătaful oilor
+Gm         Gm
+Oilor, cornutelor
+      Gm
+Haida-ler, leru-i ler
+D              Gm
+Din vârfuțul munților.
+Măsura este 3/4. Merge o ciupitură cu bass alternativ de forma:
+E                  3                         3
+B                          3                         3
+G             3       3       3       3       3       3
+D
+A                                   5
+E         3
+| _ | _ | _ |    | _ | _ | _ |    | _ | _ | _ |
+```
+
+#### 637. Colindul pușcăriașului
+
+muzica/versuri: tradițional “O ce veste minunată” · Sursa: Colinde Karban, p. 112
+
+**Chitară:** G 320003 · D xx0232 · C x32010 · A x02220
+
+**Ukulele:** G 0232 · D 2220 · C 0003 · A 2100
+
+```text
+G     G   G  D     D
+O celulă minunată
+G       G      G   D     D
+Printre gratii se arată
+G    C
+Sora mea intra
+G     C
+Gardianul bătea
+D             G
+C-un bulan pe spate
+G    C
+Sora mea intra
+G     C
+Gardianul bătea
+D             G
+C-un bulan pe spate
+G      G   G    D     D
+Prin celulele curate
+G      G      G     D     D
+Prin WeCe-uri și private
+G    C
+Anul nou venea
+G      C
+Moș Crăciun bătea
+D           G
+Cu bulan pe spate
+G    C
+Anul nou venea
+G      C
+Moș Crăciun bătea
+D           G
+Cu bulan pe spate
+Note:O variantă a acestui cântec am auzit-o interpretată de grupul Vacanța Mare. Nu știu dacă versurile le aparțin.
+Măsura este 4/4 și propun un acompaniament de forma:
+E                               3
+B                               0
+G                    0                    0
+D
+A
+E         3
+|          |          |          |
+Exemplificat aici pentru G.
+```
+
+#### 638. Corindăm, corindăm (I)
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 14
 
@@ -30413,7 +30413,7 @@ A         3
 E
 ```
 
-#### 639. Corindăm, corindăm (III)
+#### 639. Corindăm, corindăm (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 50 · Cărticica Karban, p. 79
 
@@ -35806,7 +35806,7 @@ Note:Măsura este 4/4 iar ritmul este unul de swing.
 - **Doru Stănculescu** — [Hai dihai (I)](#42-hai-dihai-i), [Hai dihai (II)](#43-hai-dihai-ii), [Fără petale](#296-fără-petale)
 - **Dragoș Bălan** — [Nunta pe Caraiman (II)](#68-nunta-pe-caraiman-ii), [Dragoste în fân (I)](#281-dragoste-în-fân-i)
 - **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#21-ce-frumos-e-sus-la-munte), [Evadare](#35-evadare), [În codrul verde](#50-în-codrul-verde), [Mă întorc la tine, muntele meu drag](#57-mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#524-vreau-să-trecem-marea)
-- **Ducu Bertzi** — [Floare de colț (I)](#39-floare-de-colț-i), [Floare de colț (II)](#40-floare-de-colț-ii), [Când s-o-mpărțit norocu'](#229-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#231-cântec-bătrânesc), [Dans](#262-dans), [Dragu-mii veselia](#286-dragu-mii-veselia), [Focul vânăt (I)](#304-focul-vânăt-i), [Focul vânăt (II)](#305-focul-vânăt-ii), [Iertările](#320-iertările), [M-am îndrăgostit numai de ea](#353-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#377-nu-am-cer), [Omul pădurii (I)](#399-omul-pădurii-i), [Pe cine și câte cărări](#410-pe-cine-și-câte-cărări), [Săracă inima me' (I)](#446-săracă-inima-me-i), [Săracă inima me' (II)](#447-săracă-inima-me-ii), [Și de-ar fi (I)](#456-și-de-ar-fi-i), [Și de-ar fi (II)](#457-și-de-ar-fi-ii), [Suflet fără chei](#470-suflet-fără-chei), [Cheamă-ți gazdă](#632-cheamă-ți-gazdă), [Corindăm, corindăm (II)](#638-corindăm-corindăm-ii), [Pe podele de nuiele](#668-pe-podele-de-nuiele), [Seara serilor](#671-seara-serilor), [Un creștin s-a-nvrednicit](#676-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#677-veniți-păstori-în-viflaiem), [Plecarea](#706-plecarea), [Scrisoare la-nceput de iarnă](#708-scrisoare-la-nceput-de-iarnă)
+- **Ducu Bertzi** — [Floare de colț (I)](#39-floare-de-colț-i), [Floare de colț (II)](#40-floare-de-colț-ii), [Când s-o-mpărțit norocu'](#229-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#231-cântec-bătrânesc), [Dans](#262-dans), [Dragu-mii veselia](#286-dragu-mii-veselia), [Focul vânăt (I)](#304-focul-vânăt-i), [Focul vânăt (II)](#305-focul-vânăt-ii), [Iertările](#320-iertările), [M-am îndrăgostit numai de ea](#353-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#377-nu-am-cer), [Omul pădurii (I)](#399-omul-pădurii-i), [Pe cine și câte cărări](#410-pe-cine-și-câte-cărări), [Săracă inima me' (I)](#446-săracă-inima-me-i), [Săracă inima me' (II)](#447-săracă-inima-me-ii), [Și de-ar fi (I)](#456-și-de-ar-fi-i), [Și de-ar fi (II)](#457-și-de-ar-fi-ii), [Suflet fără chei](#470-suflet-fără-chei), [Cheamă-ți gazdă](#632-cheamă-ți-gazdă), [Corindăm, corindăm (I)](#638-corindăm-corindăm-i), [Pe podele de nuiele](#668-pe-podele-de-nuiele), [Seara serilor](#671-seara-serilor), [Un creștin s-a-nvrednicit](#676-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#677-veniți-păstori-în-viflaiem), [Plecarea](#706-plecarea), [Scrisoare la-nceput de iarnă](#708-scrisoare-la-nceput-de-iarnă)
 - **Ducu Hotima** — [La tătă casa-i lumină](#653-la-tătă-casa-i-lumină)
 - **Ecoul** — [Cana cu vin (I)](#224-cana-cu-vin-i), [Cana cu vin (II)](#225-cana-cu-vin-ii), [Lumină (I)](#350-lumină-i), [Lumină (II)](#351-lumină-ii), [Lumină (III)](#352-lumină-iii), [Nu mă-ntreba](#380-nu-mă-ntreba), [Taina (II)](#475-taina-ii)
 - **Elvis Presley** — [Love Me Tender](#573-love-me-tender)
@@ -35856,7 +35856,7 @@ Note:Măsura este 4/4 iar ritmul este unul de swing.
 - **Odyssey** — [Dor de ducă (Odyssey)](#32-dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#211-azi), [Floarea](#302-floarea), [Lăsați-mă să cânt](#347-lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#396-ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#414-peste-al-nostru-sărut)
 - **Pasărea Colibri** — [2000 de ani](#179-2000-de-ani), [Adio, deci pe curând (I)](#185-adio-deci-pe-curând-i), [Alcool](#189-alcool), [Alo! Ei a mea!](#190-alo-ei-a-mea), [Boxerul](#218-boxerul), [Canadiana](#226-canadiana), [Cântecul bufonului (I)](#238-cântecul-bufonului-i), [Ce de lupi se înconjoară](#242-ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#243-ceasornicarul-i), [Cu tine în gând](#255-cu-tine-în-gând), [Dacă ai ghici](#257-dacă-ai-ghici), [Dintr-o cafea (I)](#272-dintr-o-cafea-i), [Înțelegere (I)](#326-înțelegere-i), [Întoarcere la orient (I)](#328-întoarcere-la-orient-i), [Miruna (I)](#364-miruna-i), [Mr. Tambourine Man](#367-mr-tambourine-man), [Nebunul cu ochi închiși (I)](#371-nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#383-nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#384-nu-i-nimic-asta-e-ii), [Oameni buni](#390-oameni-buni), [Oprește-mă la tine](#401-oprește-mă-la-tine), [Pe corso (I)](#411-pe-corso-i), [Ploaia care va veni (II)](#420-ploaia-care-va-veni-ii), [Proverbe](#428-proverbe), [Scrisoare de rămas bun (I)](#449-scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#453-sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#465-strada-popa-nan-i), [Toți suntem puțin luați](#487-toți-suntem-puțin-luați), [Un om pe niște scări (I)](#501-un-om-pe-niște-scări-i), [Viata complicată](#512-viata-complicată), [Viața la țară (I)](#513-viața-la-țară-i), [Vis de primăvară (I)](#518-vis-de-primăvară-i), [Vânare de vânt](#614-vânare-de-vânt)
-- **Paula Seling** — [Corindăm, corindăm (I)](#637-corindăm-corindăm-i)
+- **Paula Seling** — [Colindăm, colindăm iarna (II)](#635-colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#589-phabaj-hop-hop-hop)
 - **Phoenix** — [Andri Popa (I)](#8-andri-popa-i), [În umbra marelui URSS](#102-în-umbra-marelui-urss), [Dansul codrilor](#263-dansul-codrilor), [Fată verde (I)](#299-fată-verde-i), [Fată verde (II)](#300-fată-verde-ii), [Fată verde (III)](#301-fată-verde-iii), [Fluier în cer](#303-fluier-în-cer), [Focuri vii](#306-focuri-vii), [Hăituit](#316-hăituit), [Jocul](#336-jocul), [Mama, mama](#356-mama-mama), [Mugur de fluier (I)](#368-mugur-de-fluier-i), [Mugur de fluier (II)](#369-mugur-de-fluier-ii), [Muzică și muzichia](#370-muzică-și-muzichia), [Nebunul cu ochi închiși (II)](#372-nebunul-cu-ochi-închiși-ii), [Nunta (I)](#386-nunta-i), [Nunta (II)](#387-nunta-ii), [Primavara - Paparuga](#427-primavara---paparuga), [Singură](#461-singură), [Strunga](#469-strunga), [Te întreb pe tine soare (I)](#480-te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#481-te-întreb-pe-tine-soare-ii), [Timișoara](#486-timișoara), [Vara](#506-vara), [Vremuri (I)](#525-vremuri-i), [Vremuri (II)](#526-vremuri-ii), [Zori de zi](#528-zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Andri Popa (II)](#9-andri-popa-ii), [Canarul (I)](#227-canarul-i), [Canarul (II)](#228-canarul-ii)
@@ -35893,7 +35893,7 @@ Note:Măsura este 4/4 iar ritmul este unul de swing.
 - **Ștefan Banică** — [S-o facem lată](#161-s-o-facem-lată)
 - **Ștefan Banica jr.** — [Asta-s eu](#208-asta-s-eu)
 - **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#358-mi-e-dor-de-ochii-tăi), [Poveste](#424-poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#103-întoarcerea-țăranului), [Copacul îndrăgostit](#252-copacul-îndrăgostit), [Fostele iubiri](#307-fostele-iubiri), [Frunza (I)](#309-frunza-i), [Frunza (II)](#310-frunza-ii), [La nunta ta](#342-la-nunta-ta), [Rugă pentru părinți (I)](#440-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#441-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#504-urare-pentru-îndrăgostiți), [Vara promisă (I)](#507-vara-promisă-i), [Vara promisă (II)](#508-vara-promisă-ii), [Afară ninge liniștit](#624-afară-ninge-liniștit), [Aseară pe-nserate](#625-aseară-pe-nserate), [Asta-i fata cea frumoasă](#626-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#627-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#628-ce-ați-văzut-păstori), [Cerul și pământul (I)](#629-cerul-și-pământul-i), [Cerul și pământul (II)](#630-cerul-și-pământul-ii), [Cerul și pământul (III)](#631-cerul-și-pământul-iii), [Coborât-o coborât](#633-coborât-o-coborât), [Colindul cerbului](#635-colindul-cerbului), [Corindăm, corindăm (III)](#639-corindăm-corindăm-iii), [Creștinilor, noi astăzi](#640-creștinilor-noi-astăzi), [Dalbu-i dealu](#641-dalbu-i-dealu), [Deschide nană ușile](#642-deschide-nană-ușile), [Deschide ușa, creștine (I)](#643-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#644-deschide-ușa-creștine-ii), [Ferice-i ferice](#646-ferice-i-ferice), [Flori de măr (I)](#647-flori-de-măr-i), [Flori de măr (II)](#648-flori-de-măr-ii), [Florile dalbe (I)](#649-florile-dalbe-i), [Florile dalbe (II)](#650-florile-dalbe-ii), [Iarăși flori dalbe](#651-iarăși-flori-dalbe), [Junelu-i tinerelu](#652-junelu-i-tinerelu), [La Viflaim, la Viflaim](#654-la-viflaim-la-viflaim), [Linu-i lin](#655-linu-i-lin), [Mă luai luai](#656-mă-luai-luai), [Măruț mărgăritar](#657-măruț-mărgăritar), [O, ce veste minunată (2)](#663-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#664-o-ce-veste-minunată-1), [Pe cununa munților](#667-pe-cununa-munților), [Pe strada din Viflaim](#669-pe-strada-din-viflaim), [Pom înrămuratu](#670-pom-înrămuratu), [Sus sus sus pe lângă lună](#673-sus-sus-sus-pe-lângă-lună), [Trei crai](#674-trei-crai), [Trei păstori](#675-trei-păstori), [Vine marea](#678-vine-marea), [Zăurel de zăurel](#679-zăurel-de-zăurel), [Ninge iar (II)](#704-ninge-iar-ii), [Ninge iar (III)](#705-ninge-iar-iii), [Steaguri albe](#710-steaguri-albe)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#103-întoarcerea-țăranului), [Copacul îndrăgostit](#252-copacul-îndrăgostit), [Fostele iubiri](#307-fostele-iubiri), [Frunza (I)](#309-frunza-i), [Frunza (II)](#310-frunza-ii), [La nunta ta](#342-la-nunta-ta), [Rugă pentru părinți (I)](#440-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#441-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#504-urare-pentru-îndrăgostiți), [Vara promisă (I)](#507-vara-promisă-i), [Vara promisă (II)](#508-vara-promisă-ii), [Afară ninge liniștit](#624-afară-ninge-liniștit), [Aseară pe-nserate](#625-aseară-pe-nserate), [Asta-i fata cea frumoasă](#626-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#627-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#628-ce-ați-văzut-păstori), [Cerul și pământul (I)](#629-cerul-și-pământul-i), [Cerul și pământul (II)](#630-cerul-și-pământul-ii), [Cerul și pământul (III)](#631-cerul-și-pământul-iii), [Coborât-o coborât](#633-coborât-o-coborât), [Colindul cerbului](#636-colindul-cerbului), [Corindăm, corindăm (II)](#639-corindăm-corindăm-ii), [Creștinilor, noi astăzi](#640-creștinilor-noi-astăzi), [Dalbu-i dealu](#641-dalbu-i-dealu), [Deschide nană ușile](#642-deschide-nană-ușile), [Deschide ușa, creștine (I)](#643-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#644-deschide-ușa-creștine-ii), [Ferice-i ferice](#646-ferice-i-ferice), [Flori de măr (I)](#647-flori-de-măr-i), [Flori de măr (II)](#648-flori-de-măr-ii), [Florile dalbe (I)](#649-florile-dalbe-i), [Florile dalbe (II)](#650-florile-dalbe-ii), [Iarăși flori dalbe](#651-iarăși-flori-dalbe), [Junelu-i tinerelu](#652-junelu-i-tinerelu), [La Viflaim, la Viflaim](#654-la-viflaim-la-viflaim), [Linu-i lin](#655-linu-i-lin), [Mă luai luai](#656-mă-luai-luai), [Măruț mărgăritar](#657-măruț-mărgăritar), [O, ce veste minunată (2)](#663-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#664-o-ce-veste-minunată-1), [Pe cununa munților](#667-pe-cununa-munților), [Pe strada din Viflaim](#669-pe-strada-din-viflaim), [Pom înrămuratu](#670-pom-înrămuratu), [Sus sus sus pe lângă lună](#673-sus-sus-sus-pe-lângă-lună), [Trei crai](#674-trei-crai), [Trei păstori](#675-trei-păstori), [Vine marea](#678-vine-marea), [Zăurel de zăurel](#679-zăurel-de-zăurel), [Ninge iar (II)](#704-ninge-iar-ii), [Ninge iar (III)](#705-ninge-iar-iii), [Steaguri albe](#710-steaguri-albe)
 - **Stigma** — [Jumătate tu, jumătate eu](#337-jumătate-tu-jumătate-eu)
 - **Supa & Maria** — [Tropa trop](#80-tropa-trop)
 - **Taine Folk** — [Cântec uitat de lume](#20-cântec-uitat-de-lume)
