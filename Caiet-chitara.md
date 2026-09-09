@@ -66,8 +66,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 28. [Dar nu-s normali](#28-dar-nu-s-normali)
 29. [Deku](#29-deku)
 30. [Din copilărie](#30-din-copilărie)
-31. [Dor de ducă (I)](#31-dor-de-ducă-i)
-32. [Dor de ducă (II)](#32-dor-de-ducă-ii)
+31. [Dor de ducă (Anonim)](#31-dor-de-ducă-anonim)
+32. [Dor de ducă (Odyssey)](#32-dor-de-ducă-odyssey)
 33. [Dor de munți](#33-dor-de-munți)
 34. [Dor de munții mei](#34-dor-de-munții-mei)
 35. [Evadare](#35-evadare)
@@ -2151,7 +2151,7 @@ Dar și-atunci când în raft voi vedea
 Iar mersul de trenuri din noi voi pleca.
 ```
 
-#### 31. Dor de ducă (I)
+#### 31. Dor de ducă (Anonim)
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 62
 
@@ -2204,7 +2204,7 @@ Dar privește-n ochii mei și nu vede teama-n ei,
 Refren
 ```
 
-#### 32. Dor de ducă (II)
+#### 32. Dor de ducă (Odyssey)
 
 **Odyssey** · Sursa: Caiet Christian Adventure, p. 63
 
@@ -35566,7 +35566,7 @@ La refren măsura este 3/4.
 - **Anda Călugăreanu** — [Verde crud (I)](#509-verde-crud-i), [Verde crud (II)](#510-verde-crud-ii)
 - **Andrei Mureșan** — [Deșteaptă-te române (I)](#96-deșteaptă-te-române-i)
 - **Andrei Mureșanu** — [Deșteaptă-te române (II)](#97-deșteaptă-te-române-ii)
-- **Anonim** — [A fi munțoman](#1-a-fi-munțoman), [Amintiri din Făgăraș (I)](#6-amintiri-din-făgăraș-i), [Bătrânul refugiu](#12-bătrânul-refugiu), [Bun rămas cabanei](#14-bun-rămas-cabanei), [Cabana Mălăiești](#16-cabana-mălăiești), [Copilul munților](#25-copilul-munților), [Dor de ducă (I)](#31-dor-de-ducă-i), [Dor de munții mei](#34-dor-de-munții-mei), [Fata din Caraiman](#36-fata-din-caraiman), [Fata munților (II)](#38-fata-munților-ii), [Imnul ghizilor](#47-imnul-ghizilor), [Imnul prieteniei](#49-imnul-prieteniei), [Legenda Craiului](#53-legenda-craiului), [Libertate-n vârf de munți](#54-libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#59-mi-e-dragă-pădurea), [Prieteni buni](#75-prieteni-buni), [Bărbățelul](#115-bărbățelul), [Carolina (I)](#121-carolina-i), [Ceata noastră (I)](#129-ceata-noastră-i), [Fetița franceză](#138-fetița-franceză), [Hai, mândruțo!](#142-hai-mândruțo), [Te-am cunoscut în troleibuz (I)](#168-te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#174-un-kil-de-rom), [Bat la poarta ta](#213-bat-la-poarta-ta), [Colo-n vale](#249-colo-n-vale), [Delirul](#268-delirul), [Păpușa](#405-păpușa), [Seara de mai](#451-seara-de-mai)
+- **Anonim** — [A fi munțoman](#1-a-fi-munțoman), [Amintiri din Făgăraș (I)](#6-amintiri-din-făgăraș-i), [Bătrânul refugiu](#12-bătrânul-refugiu), [Bun rămas cabanei](#14-bun-rămas-cabanei), [Cabana Mălăiești](#16-cabana-mălăiești), [Copilul munților](#25-copilul-munților), [Dor de ducă (Anonim)](#31-dor-de-ducă-anonim), [Dor de munții mei](#34-dor-de-munții-mei), [Fata din Caraiman](#36-fata-din-caraiman), [Fata munților (II)](#38-fata-munților-ii), [Imnul ghizilor](#47-imnul-ghizilor), [Imnul prieteniei](#49-imnul-prieteniei), [Legenda Craiului](#53-legenda-craiului), [Libertate-n vârf de munți](#54-libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#59-mi-e-dragă-pădurea), [Prieteni buni](#75-prieteni-buni), [Bărbățelul](#115-bărbățelul), [Carolina (I)](#121-carolina-i), [Ceata noastră (I)](#129-ceata-noastră-i), [Fetița franceză](#138-fetița-franceză), [Hai, mândruțo!](#142-hai-mândruțo), [Te-am cunoscut în troleibuz (I)](#168-te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#174-un-kil-de-rom), [Bat la poarta ta](#213-bat-la-poarta-ta), [Colo-n vale](#249-colo-n-vale), [Delirul](#268-delirul), [Păpușa](#405-păpușa), [Seara de mai](#451-seara-de-mai)
 - **Anotimpul 5** — [Dacă n-ai amintiri](#27-dacă-n-ai-amintiri)
 - **Aurelian Andreescu** — [Dorul](#277-dorul), [Oameni](#388-oameni)
 - **Autentic** — [Trec țiganii](#173-trec-țiganii)
@@ -35655,7 +35655,7 @@ La refren măsura este 3/4.
 - **Nicu Alifantis** — [Balada blondelor iubiri](#212-balada-blondelor-iubiri), [Emoție de toamnă (I)](#288-emoție-de-toamnă-i), [Emoție de toamnă (II)](#289-emoție-de-toamnă-ii), [Emoție de toamnă (III)](#290-emoție-de-toamnă-iii), [Piața Romană nr.9](#414-piața-romană-nr9), [Ploaie în luna lui marte](#420-ploaie-în-luna-lui-marte), [Rar](#433-rar), [Umbra (I)](#494-umbra-i), [Umbra (II)](#495-umbra-ii), [Umbra (III)](#496-umbra-iii), [Decembre (I)](#651-decembre-i), [Decembre (II)](#652-decembre-ii), [Decembre (III)](#653-decembre-iii)
 - **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște (I)](#202-aproape-liniște-i), [Aproape liniște (II)](#203-aproape-liniște-ii)
 - **Nightwish** — [The Islander](#605-the-islander)
-- **Odyssey** — [Dor de ducă (II)](#32-dor-de-ducă-ii)
+- **Odyssey** — [Dor de ducă (Odyssey)](#32-dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#210-azi), [Floarea](#301-floarea), [Lăsați-mă să cânt](#346-lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#395-ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#413-peste-al-nostru-sărut)
 - **Pasărea Colibri** — [2000 de ani](#178-2000-de-ani), [Adio, deci pe curând (I)](#184-adio-deci-pe-curând-i), [Alcool](#188-alcool), [Alo! Ei a mea!](#189-alo-ei-a-mea), [Boxerul](#217-boxerul), [Canadiana](#225-canadiana), [Cântecul bufonului (I)](#237-cântecul-bufonului-i), [Ce de lupi se înconjoară](#241-ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#242-ceasornicarul-i), [Cu tine în gând](#254-cu-tine-în-gând), [Dacă ai ghici](#256-dacă-ai-ghici), [Dintr-o cafea (I)](#271-dintr-o-cafea-i), [Înțelegere (I)](#325-înțelegere-i), [Întoarcere la orient (I)](#327-întoarcere-la-orient-i), [Miruna (I)](#363-miruna-i), [Mr. Tambourine Man](#366-mr-tambourine-man), [Nebunul cu ochi închiși (I)](#370-nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#382-nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#383-nu-i-nimic-asta-e-ii), [Oameni buni](#389-oameni-buni), [Oprește-mă la tine](#400-oprește-mă-la-tine), [Pe corso (I)](#410-pe-corso-i), [Ploaia care va veni (II)](#419-ploaia-care-va-veni-ii), [Proverbe](#427-proverbe), [Scrisoare de rămas bun (I)](#448-scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#452-sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#464-strada-popa-nan-i), [Toți suntem puțin luați](#486-toți-suntem-puțin-luați), [Un om pe niște scări (I)](#500-un-om-pe-niște-scări-i), [Viata complicată](#511-viata-complicată), [Viața la țară (I)](#512-viața-la-țară-i), [Vis de primăvară (I)](#517-vis-de-primăvară-i), [Vânare de vânt](#613-vânare-de-vânt)
 - **Paula Seling** — [Corindăm, corindăm (I)](#645-corindăm-corindăm-i)
