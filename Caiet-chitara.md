@@ -29479,109 +29479,177 @@ muzica/versuri: colinda Afară ninge liniștit“ -S  țefan Hrușcă · Sursa: 
 **Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
-G                 C                              G                       C
-Afară-i frig și e-norat                          Iar soră mea, cu ochiu’ scos,
-C              D                            C               D
-Și-n sobă arde mama,                        Se zbate într-o ladă,
-C                G                             C                    G
-De lustră tata-i spânzurat,                    Mai e un frate-ntins pe jos,
-D                G                                D                G
-Iar eu îl tai cu lama...                          Și-n spate are-o bardă.
-C                G                             C                    G
-De lustră tata-i spânzurat,                    Mai e un frate-ntins pe jos,
-D                G                                D                G
-Iar eu îl tai cu lama...                          Și-n spate are-o bardă.
-(Variantă la strofă)                             G                             C
-G                       C                            Iar            unchiu-miu e-n dormitor,
-Afară-i frig, în casa-i cald                         C              D
-C              D                               Pitit             într-o valiză,
-Că-n sobă arde mama,                           C                 G
-C                G                                 Legat   cu două    fire lungi
-De grinda-i tata spânzurat,
-D          G
-D                G                                 C                 e duc direct la priză.
-Iar eu mă tai cu lama.                             C                 G
-C                G                                 Legat   cu două    fire lungi
-De grinda-i tata spânzurat,
-D          G
-D                G                                 C                        e duc direct la priză.
-Iar eu mă tai cu lama.                             G                        C
-G                       C                        Și-n frigider  e congelat
-Pe jos stau verii mei întinși,
-C             D
-C                    D                     În                       pungi de-un kil bunicu’,
-Sunt morți de-o săptămână,                 C                        G
-C                 G                               D ar eu  sunt  mic,  nu  știu nimic,
-În putrefacție au intrat,
-D          G
-D               G                            D                        e-abia îmi tai buricu’.
-Dar nimeni nu-i adună!                       C                        G
-C                 G                               D ar eu  sunt  mic,  nu  știu nimic,
-În putrefacție au intrat,
-D          G
-D               G                            D e-abia  îmi tai buricu’.
-Dar nimeni nu-i adună!                       (Variantă la strofă)
-G                    C                   G                          C
-Ascuns e frati-miu-n dulap,              În frigider în pungi de-un kil
-C              D                          C             D
-Nu-i pasă de nimica,                      Stă relaxat bunicul,
-C              G                          C                 G
-Are-un topor înfipt în cap                Iar din bunica-au mai rămas
-D           G                                 D           G
-Să-i țină cipilica.                           Un deget și buricul.
-C              G                          C                 G
-Are-un topor înfipt în cap                Iar din bunica-au mai rămas
-D           G                                 D           G
-Să-i țină cipilica.                           Un deget și buricul.
-G                     C                     G                 C
-Lungit e moșu’ Mihu-n pod                   Bunica-i lângă aragaz,
-C              D                                C               D
-Cu un cuțit în spate,                           Cu un furtun în gură,
-C                  G                          C               G
-L-am urmărit de la parter                     Și-n jurul ei miroase-a gaz,
-D              G                               D            G
-Pe viață și pe moarte.                         Și nu a prăjitură.
-C                  G                          C               G
-L-am urmărit de la parter                     Și-n jurul ei miroase-a gaz,
-D              G                               D            G
-Pe viață și pe moarte.                         Și nu a prăjitură.
-***: Afară-i frig și e-norat (Balada sadicului)
+G                C
+Afară-i frig și e-norat
+C              D
+Și-n sobă arde mama,
+C                G
+De lustră tata-i spânzurat,
+D                G
+Iar eu îl tai cu lama...
+C                G
+De lustră tata-i spânzurat,
+D                G
+Iar eu îl tai cu lama...
+
 (Variantă la strofă)
-G                   C
+G                C
+Afară-i frig, în casa-i cald
+C              D
+Că-n sobă arde mama,
+C                G
+De grinda-i tata spânzurat,
+D                G
+Iar eu mă tai cu lama.
+C                G
+De grinda-i tata spânzurat,
+D                G
+Iar eu mă tai cu lama.
+
+G                    C
+Pe jos stau verii mei întinși,
+C                G
+Sunt morți de-o săptămână,
+C                G
+În putrefacție au intrat,
+D                G
+Dar nimeni nu-i adună!
+C                G
+În putrefacție au intrat,
+D                G
+Dar nimeni nu-i adună!
+
+G                    C
+Ascuns e frați-miu-n dulap,
+C              D
+Nu-i pasă de nimica,
+C                G
+Are-un topor înfipt în cap
+D                G
+Să-i țină cipilica.
+C                G
+Are-un topor înfipt în cap
+D                G
+Să-i țină cipilica.
+
+G                    C
+Lungit e moșu' Mihu-n pod
+C              D
+Cu un cuțit în spate,
+C                G
+L-am urmărit de la parter
+D                G
+Pe viață și pe moarte.
+C                G
+L-am urmărit de la parter
+D                G
+Pe viață și pe moarte.
+
+G                C
+Iar soră mea, cu ochiu' scos,
+C              D
+Se zbate într-o ladă,
+C                G
+Mai e un frate-ntins pe jos,
+D                G
+Și-n spate are-o bardă.
+C                G
+Mai e un frate-ntins pe jos,
+D                G
+Și-n spate are-o bardă.
+
+(Variantă la strofă)
+G                C
+Iar unchiu-miu e-n dormitor,
+C              D
+Pitit într-o valiză,
+C                G
+Legat cu două fire lungi
+D                G
+Ce duc direct la priză.
+C                G
+Legat cu două fire lungi
+D                G
+Ce duc direct la priză.
+
+G                C
+Și-n frigider e congelat
+C              D
+În pungi de-un kil bunicu',
+C                G
+Dar eu sunt mic, nu știu nimic,
+D                G
+De-abia îmi tai buricu'.
+C                G
+Dar eu sunt mic, nu știu nimic,
+D                G
+De-abia îmi tai buricu'.
+
+(Variantă la strofă)
+G                C
+În frigider în pungi de-un kil
+C              D
+Stă relaxat bunicul,
+C                G
+Iar din bunica-au mai rămas
+D                G
+Un deget și buricul.
+C                G
+Iar din bunica-au mai rămas
+D                G
+Un deget și buricul.
+
+G                C
+Bunica-i lângă aragaz,
+C              D
+Cu un furtun în gură,
+C                G
+Și-n jurul ei miroase-a gaz,
+D                G
+Și nu a prăjitură.
+C                G
+Și-n jurul ei miroase-a gaz,
+D                G
+Și nu a prăjitură.
+
+(Variantă la strofă)
+G                C
 În bucătărie, cu-un furtun în gură
-C                 D
+C              D
 Zace bunica pe-aragaz,
-C             G
+C                G
 În jurul ei miroase-a gaz,
-D              G
+D                G
 Iar ea e numai spumă
-C             G
+C                G
 În jurul ei miroase-a gaz,
-D              G
+D                G
 Iar ea e numai spumă
-G                      C
-Unchiu’ Matei stă în extaz,
+
+G                C
+Unchiu' Matei stă în extaz,
 C              D
 Cu ochii la cornișă,
-C               G
+C                G
 Cu un picior în aragaz,
-D           G
+D                G
 Și degetele-n priză...
-C               G
+C                G
 Cu un picior în aragaz,
-D           G
+D                G
 Și degetele-n priză...
-G                 C
+
+G                C
 Dormi puiul tatii dormi
 C              D
 Căci tata te gazează,
-C              G
-Îți taie capu’ cu-n topor,
-D           G
+C                G
+Îți taie capu' cu-n topor,
+D                G
 Ș-apoi te împăiază
-C              G
-Îți taie capu’ cu-n topor,
-D           G
+C                G
+Îți taie capu' cu-n topor,
+D                G
 Ș-apoi te împăiază
 Note:Măsura este 4/4 și recomand
 ciupitura:
@@ -30916,42 +30984,89 @@ Va împărăți în veac!
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
-C         F            C         G                               C           F           C           G
-Deschide ușa creștine, deschide ușa creștine                     Și acolo pe fân pe jos, și acolo pe fân pe jos
-F             C                                                           F             C
-C-am venit și noi la tine,                                                S-a născut Domnul Hristos,
-G                   C                                                    G                   C
-La mulți ani, mulți ani cu bine.                                         La mulți ani, mulți ani cu bine.
-C           F           C           G                                 C         F         C         G
-Noi la Viflaim am fost, noi la Viflaim am fost                        Care cu puterea sa, care cu puterea sa
-F           C                                                          F        C
-Unde s-a născut Hristos,                                               Va împărăți lumea,
-G                   C                                                    G                   C
-La mulți ani, mulți ani cu bine.                                         La mulți ani, mulți ani cu bine.
-C              F             C              G              C         F             C         G
-Și-am văzut și pe-a sa mamă, și-am văzut și pe-a sa mamă   Cete de îngeri coboară, cete de îngeri coboară
-F         C                                                          F            C
-Pe care Maria-o cheamă,                                              Staulul de-l înconjoară,
-G                   C                                                    G                   C
-La mulți ani, mulți ani cu bine.                                         La mulți ani, mulți ani cu bine.
-C             F            C             G                 C          F              C          G
-Cum umblă din casă-n casă, cum umblă din casă-n casă       Îngerii cu flori în mână, îngerii cu flori în mână
-F          C                                                            F            C
-Ca pe fiul său să-l nască,                                              Împletesc mândră cunună,
-G                   C                                                    G                   C
-La mulți ani, mulți ani cu bine.                                         La mulți ani, mulți ani cu bine.
-C              F            C                                  C           F             C           G
-Umbla-n jos și umbla-n sus, umbla-n jos și umbla-n sus         Pe cunună-i scris frumos, pe cunună-i scris frumos
-F             C                                                         F            C
-Ca să-l nască pe Iisus,                                                 Astăzi s-a născut Hristos,
-G                   C                                                    G                   C
-La mulți ani, mulți ani cu bine.                                         La mulți ani, mulți ani cu bine.
-C            F        C            G                                 C            F           C
-Mai târziu găsi apoi, mai târziu găsi apoi                           Și de-acum până-n vecie, și de-acum până-n vecie
-F           C                                                           F         C
-Un staul frumos de oi,                                                  Mila Domnului să fie,
-G                   C                                                    G                   C
-La mulți ani, mulți ani cu bine.                                         La mulți ani, mulți ani cu bine.
+C            F        C            G
+Deschide ușa creștine, deschide ușa creștine
+F           C
+C-am venit și noi la tine,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F        C            G
+Noi la Viflaim am fost, noi la Viflaim am fost
+F           C
+Unde s-a născut Hristos,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F        C            G
+Și-am văzut și pe-a sa mamă, și-am văzut și pe-a sa mamă
+F           C
+Pe care Maria-o cheamă,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F        C            G
+Cum umblă din casă-n casă, cum umblă din casă-n casă
+F           C
+Ca pe fiul său să-l nască,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F        C
+Umbla-n jos și umbla-n sus, umbla-n jos și umbla-n sus
+F           C
+Ca să-l nască pe Iisus,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F        C            G
+Mai târziu găsi apoi, mai târziu găsi apoi
+F           C
+Un staul frumos de oi,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F           C            G
+Și acolo pe fân pe jos, și acolo pe fân pe jos
+F         C
+S-a născut Domnul Hristos,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F           C            G
+Care cu puterea sa, care cu puterea sa
+F         C
+Va împărăți lumea,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F           C            G
+Cete de îngeri coboară, cete de îngeri coboară
+F         C
+Staulul de-l înconjoară,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F           C            G
+Îngerii cu flori în mână, îngerii cu flori în mână
+F         C
+Împletesc mândră cunună,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F           C            G
+Pe cunună-i scris frumos, pe cunună-i scris frumos
+F         C
+Astăzi s-a născut Hristos,
+G                   C
+La mulți ani, mulți ani cu bine.
+
+C            F           C
+Și de-acum până-n vecie, și de-acum până-n vecie
+F         C
+Mila Domnului să fie,
+G                   C
+La mulți ani, mulți ani cu bine.
 Note:Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest cântec.
 Am mai adăugat aici strofe din alte variante. Măsura este 4/4 și propun următorul model:
 E         0     0     0     0
@@ -32880,23 +32995,38 @@ Sursa: Colinde Karban, p. 56
 **Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
 
 ```text
-Refren:                                                            D
-While shepherds kept their watch
+Refren:
 D
-Go tell it on the mountain                                                  G                 D
-O’er silent flocks by night
+Go tell it on the mountain
 A                  D
-Over the hills and everywhere                                      Behold throughout the heavens
-Go tell it on the mountain                                                    G               D
-     A               D                                                 There   shown    a holy  light
+Over the hills and everywhere
+Go tell it on the mountain
+A               D
 That Jesus Christ is born
-D                                                                     D
-Down in a lonely manger                                               Down in a lonely manger
-    G                 D                                                 G                 D
-The humble Christ was born                                          The humble Christ was born
-And God sent salvation                                                 And God sent salvation
-     G                 D                                                 G                 D
-That blessed Christmas morn                                         That blessed Christmas morn
+
+D
+Down in a lonely manger
+G                 D
+The humble Christ was born
+And God sent salvation
+G                 D
+That blessed Christmas morn
+
+D
+While shepherds kept their watch
+G                 D
+O'er silent flocks by night
+Behold throughout the heavens
+G               D
+There shown a holy light
+
+D
+Down in a lonely manger
+G                 D
+The humble Christ was born
+And God sent salvation
+G                 D
+That blessed Christmas morn
 Note:Refrenul se repetă după fiecare strofă.
 Cântecul este un gospel foarte cunoscut pe care eu îl știam de fapt în forma:
 “Go tell it on the mountain/And let my people go” (deci o temă din Vechiul Testament).
@@ -32911,20 +33041,30 @@ E
 |          | _ _ |          _ |      | _ _ |
 Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
 Aici niște versuri suplimentare de fapt o altă variantă a cântecului.
-D                                                                  D
-The shepherds all were watching                                    He brought with Him forgiveness
-     G               D                                                     G                   D
-Over their sheep at night                                               He live to show us the way
-When a guiding star shone from heaven                            He came to redeem all creation
-        G                  D                                                G                    D
-And the followed that holy light                                        And to wash all our sins away
+
+D
+The shepherds all were watching
+G               D
+Over their sheep at night
+When a guiding star shone from heaven
+G                  D
+And the followed that holy light
+
 D
 They found a lovely manger
-      G                     D
+G                     D
 Where the humble Christ was born
 And God sent out salvation
-   G                      D
+G                      D
 On that blessed Christmas morn
+
+D
+He brought with Him forgiveness
+G                   D
+He live to show us the way
+He came to redeem all creation
+G                    D
+And to wash all our sins away
 ```
 
 #### 688. Ihr Kinderlein kommet
@@ -35333,39 +35473,75 @@ Exemplificat aici pentru acordul D. Semnele “ ” reprezintă lovirea corzii d
 
 muzica/versuri: Johnny Marks/Clement Clarke Moore · Sursa: Colinde Karban, p. 70
 
-**Chitară:** G 320003 · C x32010 · Em 022000 · F 133211 · Dm xx0231 · D xx0232
+**Chitară:** G7 320001 · C x32010 · Em 022000 · F 133211 · Dm xx0231 · D7 xx0212
 
-**Ukulele:** G 0232 · C 0003 · Em 0432 · F 2010 · Dm 2210 · D 2220
+**Ukulele:** G7 0212 · C 0003 · Em 0432 · F 2010 · Dm 2210 · D7 2223
 
 ```text
-G        C            Em            F               C         F              F             C               C
-Twas the night before Christmas and all through the house     He spoke not a word but went straight to his work,
-      Dm           C             G      C
+G7        C        Em       F   C
+Twas the night before Christmas and all through the house
+Dm        C        G7       C
 Not a creature was stirring, not even a mouse.
-        C              Em          F            C
-All the stockings were hung by the chimney with care            And laying his finger aside of his nose,
-       Dm              C         G             C
-In the hope that Saint Niccholas soon would be there.           Then giving a nod up the chimney he rose.
-F             F            C           C
+
+C        Em       F   C
+All the stockings were hung by the chimney with care
+Dm        C        G7       C
+In the hope that Saint Nicchoolas soon would be there.
+
+F   F        C   C
 Then, what to my wondering eyes should appear,
-Dm          G          C          C
+Dm        G7       C   C
 A miniature sleigh and eight tiny reindeer,
-F            F         C          C
+
+F   F        C   C
 A little old driver so lively and quick,
-D           D         Dm            G
+D7        D7       Dm  G7
 I knew in a moment it must be Saint Nick.
-         C          Em         F            C
+
+C        Em       F   C
 And more rapid than eagles his reindeer all came
-      Dm         C          G               C
-As he shouted ’n Dasher and each reindeer’s name.
-       C         Em           F             C
+Dm        C        G7       C
+As he shouted 'n Dasher and each reindeer's name.
+
+C        Em       F   C
 And so up to the housetop the reindeer soon flew
-         Dm             C              G         C
+Dm        C        G7       C
 With the sleigh full of toys and Saint Nicholas, too.
-         C          Em          F          C
+
+C        Em       F   C
 Down the chimney he came with a leap and a bound;
-       Dm            C            G         C
+Dm        C        G7       C
 He was dressed allin fur, and his belly was round.
+
+F   F        C   C
+He spoke not a word but went straight to his work,
+Dm        C   C   C
+And filled all the stocking, then turned with a jerk.
+
+F   F        C   C
+And laying his finger aside of his nose,
+D7        D7       Dm  G7
+Then giving a nod up the chimney he rose.
+
+C        Em       F   C
+But I heard him exclaim as he drove out of sight,
+Dm        C        G7       C
+Merry Christmas to all and to all a good night!?
+
+F   F        C   C
+He spoke not a word but went straight to his work,
+Dm        C   C   C
+And filled all the stocking, then turned with a jerk.
+
+F   F        C   C
+And laying his finger aside of his nose,
+D7        D7       Dm  G7
+Then giving a nod up the chimney he rose.
+
+C        Em       F   C
+But I heard him exclaim as he drove out of sight,
+Dm        C        G7       C
+Merry Christmas to all and to all a good night!?
 Note:Acordul G7 de la prima strofă poate fi ignorat. Măsura este 3/4 și propun următorul model de “pop-strum” în 3/4:
 E         0              0     0     0
 B         1              1     1     1
