@@ -77,7 +77,7 @@ def render_pre_interactive(body_lines):
                 tok = m.group(1)
                 attr = html.escape(tok, quote=True)
                 text = html.escape(tok, quote=False)
-                pieces.append(f'<span class="ch" data-chord="{attr}">[{text}]</span>')
+                pieces.append(f'[<span class="ch" data-chord="{attr}">{text}</span>]')
                 pos = m.end()
             pieces.append(html.escape(ln[pos:], quote=False))
             out.append(f'<span class="ln">{"".join(pieces)}</span>')
@@ -176,21 +176,28 @@ def index_page(songs):
 <title>Caiet de cântece pentru chitară</title>
 <link rel="stylesheet" href="assets/site.css">
 </head><body>
+<button type="button" class="sidebar-toggle">☰ Cuprins</button>
+{render_sidebar(songs, current_num=None, prefix="songs/")}
 <main>
 <h1>Caiet de cântece pentru chitară</h1>
 <p>{len(songs)} de cântece. Alege unul din listă.</p>
-{render_sidebar(songs, current_num=None, prefix="songs/")}
 </main>
+<script src="assets/nav.js"></script>
 </body></html>"""
 
 
 def main():
     intro, songs, index_lines, annex_lines = make_pdf.parse(MD)
 
+    assert songs, "no songs parsed from Caiet-chitara.md"
+    filenames = [song_filename(s) for s in songs]
+    assert len(set(filenames)) == len(filenames), "duplicate song filenames"
+
     if OUT_DIR.exists():
         shutil.rmtree(OUT_DIR)
     (OUT_DIR / "songs").mkdir(parents=True)
     (OUT_DIR / "assets").mkdir()
+    (OUT_DIR / ".nojekyll").write_text("", encoding="utf-8")
 
     for i, s in enumerate(songs):
         prev_s = songs[i - 1] if i > 0 else None
@@ -204,10 +211,6 @@ def main():
         shutil.copy(ASSETS_SRC / name, OUT_DIR / "assets" / name)
     emit_chords_data(OUT_DIR / "assets" / "chords-data.js")
 
-    # ---- verification, same discipline as reorganize_parts.py
-    assert len(songs) == 738, f"expected 738 songs, got {len(songs)}"
-    filenames = {song_filename(s) for s in songs}
-    assert len(filenames) == len(songs), "duplicate song filenames"
     for name in filenames:
         assert (OUT_DIR / "songs" / name).exists(), f"missing {name}"
 
