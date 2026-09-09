@@ -146,8 +146,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 105. [Treceți batalioane române Carpații (I)](#105-treceți-batalioane-române-carpații-i)
 106. [Treceți batalioane române Carpații (II)](#106-treceți-batalioane-române-carpații-ii)
 107. [Tricolorul](#107-tricolorul)
-108. [Tron în Apuseni (I)](#108-tron-în-apuseni-i)
-109. [Tron în Apuseni (II)](#109-tron-în-apuseni-ii)
+108. [Tron în Apuseni (Unde)](#108-tron-în-apuseni-unde)
+109. [Tron în Apuseni (Vali Șerban)](#109-tron-în-apuseni-vali-șerban)
 110. [Tu Ardeal](#110-tu-ardeal)
 
 ### I.3 — Studențești, de chef și deocheate (alfabetic)
@@ -5821,7 +5821,7 @@ Notă:Aici cu versurile în original.
 Păcat că anumite epoci au făcut din acest cântec frumos o amintire tristă.
 ```
 
-#### 108. Tron în Apuseni (I)
+#### 108. Tron în Apuseni (Unde)
 
 **Unde** · Sursa: Caiet Christian Adventure, p. 154 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/tron-in-apuseni-6561)
 
@@ -5882,7 +5882,7 @@ Aici in Carpați
 Refren x2
 ```
 
-#### 109. Tron în Apuseni (II)
+#### 109. Tron în Apuseni (Vali Șerban)
 
 **Vali Șerban** · Sursa: Caiet Christian Adventure, p. 155 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/tron-in-apuseni-6561)
 
@@ -35714,10 +35714,10 @@ La refren măsura este 3/4.
 - **tradițional** — [Du-mă acasă mai tramvai](#286-du-mă-acasă-mai-tramvai), [La Mulți Ani!](#340-la-mulți-ani), [Moș Crăciun (I)](#689-moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#166-suzana)
 - **Trini Lopez** — [If I Had a Hammer](#559-if-i-had-a-hammer)
-- **Unde** — [Tron în Apuseni (I)](#108-tron-în-apuseni-i), [Cântec în noapte](#231-cântec-în-noapte)
+- **Unde** — [Tron în Apuseni (Unde)](#108-tron-în-apuseni-unde), [Cântec în noapte](#231-cântec-în-noapte)
 - **Ursul Trubadur** — [Luna în cascade](#55-luna-în-cascade), [Pădure nebună](#74-pădure-nebună), [Viață de vagabond](#86-viață-de-vagabond)
 - **Valeriu Sterian** — [Amintire cu haiduci (I)](#3-amintire-cu-haiduci-i), [Amintire cu haiduci (II)](#4-amintire-cu-haiduci-ii), [Amintire cu haiduci (III)](#5-amintire-cu-haiduci-iii), [Cântec de oameni](#93-cântec-de-oameni), [Anxietate](#200-anxietate), [Nopți (I)](#374-nopți-i), [Nopți (II)](#375-nopți-ii)
-- **Vali Șerban** — [Avram Iancu](#92-avram-iancu), [Tron în Apuseni (II)](#109-tron-în-apuseni-ii)
+- **Vali Șerban** — [Avram Iancu](#92-avram-iancu), [Tron în Apuseni (Vali Șerban)](#109-tron-în-apuseni-vali-șerban)
 - **Vama Veche** — [Am doar 18 ani](#192-am-doar-18-ani), [Calul din Malboro](#222-calul-din-malboro), [Nu am chef azi](#377-nu-am-chef-azi)
 - **Vampy** — [Prietene](#424-prietene)
 - **Vârf Carpatin** — [Balada fulgerată de vânt (I)](#10-balada-fulgerată-de-vânt-i), [Vulturul](#91-vulturul)
