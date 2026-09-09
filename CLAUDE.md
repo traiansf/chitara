@@ -62,6 +62,8 @@ python3 tools/add_ukulele_chords.py        # idem, ukulele
 python3 tools/add_guitar_chords.py --check # verifică fiecare digitație contra notelor ei
 python3 tools/replace_song_block.py '#### 176. Miruna' continut.txt
 tools/run.sh                               # reface caietul de la zero (vezi mai jos)
+make pdf                                   # = python3 tools/make_pdf.py
+make html                                  # regenerează site-ul HTML interactiv (docs/)
 ```
 
 Cere `python3` cu **pymupdf** (`fitz`), **poppler** (`pdftotext`) și
@@ -74,7 +76,15 @@ Cere `python3` cu **pymupdf** (`fitz`), **poppler** (`pdftotext`) și
 **Vii** — citesc și rescriu caietul curent: `reorganize_parts.py`,
 `dedup_lib.py` (parserul comun), `make_pdf.py`, `add_guitar_chords.py`,
 `add_ukulele_chords.py`, `replace_song_block.py`, `normalize_verses.py`,
-`restore_diacritics.py`.
+`restore_diacritics.py`, `generate_html.py`.
+
+`generate_html.py` citește caietul cu parserul din `make_pdf.py` și
+generează integral `docs/` — un site static (o pagină per cântec, cu
+butoane de transpunere a acordurilor) publicat pe GitHub Pages din
+`main` /docs. Sursa lui vie e `tools/html_assets/` (motorul JS
+`chords.js`, testat cu `node --test tools/html_assets/chords.test.js`,
+plus `nav.js`/`site.css`), copiată neschimbată în `docs/assets/` la
+fiecare rulare; `docs/` însuși nu se editează manual, la fel ca PDF-ul.
 
 **Istorice** — au construit caietul și rulează *înaintea* reorganizării, pe
 structura plată în trei părți cu cântecele la `###`: `extract_*.py`,

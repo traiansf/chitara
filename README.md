@@ -10,6 +10,8 @@ artiști și dicționar de acorduri
 757 de pagini, un cântec pe pagină
 🔗 **[Caiet-chitara-addendum.md](Caiet-chitara-addendum.md)** — 1755 de piese
 ale acelorași artiști, cu linkuri către tabulaturi.ro
+🎸 **`docs/`** — același caiet ca site interactiv (o pagină per cântec, cu
+butoane de transpunere a acordurilor), gata de publicat pe GitHub Pages
 
 ## Ce conține
 
