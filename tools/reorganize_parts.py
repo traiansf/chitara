@@ -20,7 +20,12 @@ PARTS = [
     ]),
     ("II", "Partea a II-a", "Repertoriu românesc", []),
     ("III", "Partea a III-a", "Repertoriu internațional", []),
-    ("IV", "Partea a IV-a", "Colinde și cântece de iarnă", []),
+    ("IV", "Partea a IV-a", "Colinde și cântece de iarnă", [
+        ("IV.1", "Colinde românești"),
+        ("IV.2", "Colinde internaționale"),
+        ("IV.3", "Cântece de iarnă românești"),
+        ("IV.4", "Cântece de iarnă internaționale"),
+    ]),
 ]
 SONG_RE = re.compile(r"^#{3,4} (\d+)\. (.+)$")
 

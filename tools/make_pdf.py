@@ -41,9 +41,12 @@ SECTIONS = [("I.1", "Partea I — Cântece de cabană", "I.1 — De munte și de
             ("I.3", "Partea I — Cântece de cabană", "I.3 — Studențești, de chef și deocheate"),
             ("II", "Partea a II-a", "Repertoriu românesc"),
             ("III", "Partea a III-a", "Repertoriu internațional"),
-            ("IV", "Partea a IV-a", "Colinde și cântece de iarnă")]
+            ("IV.1", "Partea a IV-a — Colinde și cântece de iarnă", "IV.1 — Colinde românești"),
+            ("IV.2", "Partea a IV-a — Colinde și cântece de iarnă", "IV.2 — Colinde internaționale"),
+            ("IV.3", "Partea a IV-a — Colinde și cântece de iarnă", "IV.3 — Cântece de iarnă românești"),
+            ("IV.4", "Partea a IV-a — Colinde și cântece de iarnă", "IV.4 — Cântece de iarnă internaționale")]
 PART_H = re.compile(r"^## Partea (I|a II-a|a III-a|a IV-a) — ")
-SUB_H = re.compile(r"^### (I\.\d) — ")
+SUB_H = re.compile(r"^### ([IV]+\.\d) — ")
 PART_KEY = {"I": "I", "a II-a": "II", "a III-a": "III", "a IV-a": "IV"}
 
 # --- geometry (mm) ---

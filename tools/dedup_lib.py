@@ -3,11 +3,11 @@ import re, unicodedata, collections
 
 SRC = "/home/traian/chitara/Caiet-chitara.md"
 # Songs sit one level below their part's subsection since tools/reorganize_parts.py
-# introduced Part I's three subsections; ### is still accepted so that the older
-# pipeline steps, which write the flat layout, can be read back.
+# introduced subsections for Part I and Part IV; ### is still accepted so that the
+# older pipeline steps, which write the flat layout, can be read back.
 HEAD_RE = re.compile(r"^#{3,4} (\d+)\. (.+)$")
 PART_H = re.compile(r"^## Partea (I|a II-a|a III-a|a IV-a) — ")
-SUB_H = re.compile(r"^### (I\.\d) — ")
+SUB_H = re.compile(r"^### ([IV]+\.\d) — ")
 PART_KEY = {"I": "I", "a II-a": "II", "a III-a": "III", "a IV-a": "IV"}
 
 

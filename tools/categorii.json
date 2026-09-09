@@ -37,11 +37,11 @@
  },
  "Afară ninge liniștit || Colinde Karban, p. 19": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Afară-i frig și e-norat (Balada sadicului) || Colinde Karban, p. 113": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Ai venit || Cărticica Karban, p. 93": {
   "motiv": "dragoste",
@@ -65,7 +65,7 @@
  },
  "Alle Jahre wieder || Colinde Karban, p. 83": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "Alo! Ei a mea! || Cărticica Karban, p. 103": {
   "motiv": "dragoste",
@@ -189,11 +189,11 @@
  },
  "Aseară pe-nserate || Colinde Karban, p. 20": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Asta-i fata cea frumoasă || Colinde Karban, p. 21": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Asta-s eu || Cărticica Karban, p. 29": {
   "motiv": "pop",
@@ -213,7 +213,7 @@
  },
  "Away in a manger || Colinde Karban, p. 52": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "Azi || Cărticica Karban, p. 179": {
   "motiv": "dragoste",
@@ -265,7 +265,7 @@
  },
  "Blue Christmas || Colinde Karban, p. 53": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Bosquito || Caiet Christian Adventure, p. 28": {
   "motiv": "lăutăresc, de petrecere",
@@ -405,7 +405,7 @@
  },
  "Ce-ați văzut păstori || Colinde Karban, p. 23": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Ceasornicarul (I) || Caiet Christian Adventure, p. 41": {
   "motiv": "folk",
@@ -429,15 +429,15 @@
  },
  "Cerul și pământul (I) || Caiet cabană RO, p. 117": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Cerul și pământul (II) || Cărticica Karban, p. 77": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Cerul și pământul (III) || Colinde Karban, p. 24": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Chant Des Adieux || Caiet cabană EN, p. 65": {
   "motiv": "repertoriu internațional",
@@ -445,7 +445,7 @@
  },
  "Cheamă-ți gazdă || Colinde Karban, p. 97": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Cine nu iubește muntele || Caiet Christian Adventure, p. 46": {
   "motiv": "iubirea de munte, prieteni de drum",
@@ -473,7 +473,7 @@
  },
  "Coborât-o coborât || Colinde Karban, p. 25": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Colind || Caiet cabană RO, p. 37": {
   "motiv": "urcat munții, cabană cu cabană",
@@ -481,15 +481,15 @@
  },
  "Colindul cerbului || Colinde Karban, p. 26": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Colindul gutuii (I) || Caiet cabană RO, p. 41": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Colindul gutuii (II) || Colinde Karban, p. 106": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Colindul mâinilor truditoare || Caiet cabană RO, p. 45": {
   "motiv": "colind patriotic, Păunescu",
@@ -497,19 +497,19 @@
  },
  "Colindul pușcăriașului || Colinde Karban, p. 112": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Colindă tristă (I) || Caiet cabană RO, p. 115": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Colindă tristă (II) || Colinde Karban, p. 98": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Colindăm, colindăm iarna || Colinde Karban, p. 8": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Colo-n vale || Caiet Christian Adventure, p. 47": {
   "motiv": "populară, dragoste",
@@ -545,15 +545,15 @@
  },
  "Corindăm, corindăm (I) || Colinde Karban, p. 18": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Corindăm, corindăm (II) || Colinde Karban, p. 14": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Corindăm, corindăm (III) || Colinde Karban, p. 50": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Country Roads || Caiet cabană EN, p. 33": {
   "motiv": "repertoriu internațional",
@@ -561,7 +561,7 @@
  },
  "Creștinilor, noi astăzi || Colinde Karban, p. 27": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Cu galeata în mână || Cărticica Karban, p. 242": {
   "motiv": "blues hazliu",
@@ -569,7 +569,7 @@
  },
  "Cu secera-n mână (Colind horror) || Colinde Karban, p. 110": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Cu tine în gând || Caiet Christian Adventure, p. 51": {
   "motiv": "dragoste",
@@ -585,11 +585,11 @@
  },
  "Când din crâșmă ai ieșit (Colind horror) || Colinde Karban, p. 109": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Când fost-a micuț prunc Isus || Colinde Karban, p. 22": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Când s-o-mpărțit norocu' || Caiet cabană RO, p. 75": {
   "motiv": "folclor maramureșean",
@@ -689,7 +689,7 @@
  },
  "Dalbu-i dealu || Colinde Karban, p. 28": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Dans || Cărticica Karban, p. 43": {
   "motiv": "folk, toamnă",
@@ -721,19 +721,19 @@
  },
  "Decembre (I) || Caiet cabană RO, p. 142": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Decembre (II) || Cărticica Karban, p. 16": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Decembre (III) || Colinde Karban, p. 103": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Deck the Halls || Colinde Karban, p. 54": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Deku || Caiet Christian Adventure, p. 57": {
   "motiv": "rock, pădure",
@@ -753,15 +753,15 @@
  },
  "Deschide nană ușile || Colinde Karban, p. 29": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Deschide ușa, creștine (I) || Caiet cabană RO, p. 114": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Deschide ușa, creștine (II) || Colinde Karban, p. 30": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Deșteaptă-te române (I) || Caiet Christian Adventure, p. 58": {
   "motiv": "imn național",
@@ -781,7 +781,7 @@
  },
  "Ding ding, ding (Colind horror) || Colinde Karban, p. 111": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Dintr-o cafea (I) || Caiet Christian Adventure, p. 60": {
   "motiv": "folk",
@@ -893,7 +893,7 @@
  },
  "Drumul magilor || Colinde Karban, p. 100": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Du-mă acasă mai tramvai || Cărticica Karban, p. 197": {
   "motiv": "hazliu, de petrecere",
@@ -925,7 +925,7 @@
  },
  "Entre le boeuf et l’âne gris || Colinde Karban, p. 76": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "Epilog || Caiet cabană RO, p. 59": {
   "motiv": "Topîrceanu",
@@ -1001,7 +1001,7 @@
  },
  "Feliz Navidad || Colinde Karban, p. 90": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Femei, femei || Caiet Christian Adventure, p. 75": {
   "motiv": "hazliu, de petrecere",
@@ -1009,7 +1009,7 @@
  },
  "Ferice-i ferice || Colinde Karban, p. 31": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Fetița franceză || Caiet Christian Adventure, p. 76": {
   "motiv": "deocheat",
@@ -1033,19 +1033,19 @@
  },
  "Flori de măr (I) || Cărticica Karban, p. 87": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Flori de măr (II) || Colinde Karban, p. 32": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Florile dalbe (I) || Caiet cabană RO, p. 116": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Florile dalbe (II) || Colinde Karban, p. 33": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Fluier în cer || Caiet Christian Adventure, p. 79": {
   "motiv": "Phoenix",
@@ -1073,7 +1073,7 @@
  },
  "Frosty The Snowman || Colinde Karban, p. 55": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Frumoasă-i vecina noastră || Cărticica Karban, p. 209": {
   "motiv": "populară",
@@ -1129,7 +1129,7 @@
  },
  "Go Tell It On The Mountain || Colinde Karban, p. 56": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "Grasă || Cărticica Karban, p. 100": {
   "motiv": "hazliu de autor",
@@ -1169,7 +1169,7 @@
  },
  "Here Comes Santa Claus || Colinde Karban, p. 57": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Hey Jude || Caiet Christian Adventure, p. 182": {
   "motiv": "repertoriu internațional",
@@ -1217,7 +1217,7 @@
  },
  "Iarăși flori dalbe || Colinde Karban, p. 34": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Iepuraș coconaș || Cărticica Karban, p. 259": {
   "motiv": "copii",
@@ -1233,7 +1233,7 @@
  },
  "Ihr Kinderlein kommet || Colinde Karban, p. 84": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "Ils Ont Change Ma Chanson || Caiet cabană EN, p. 62": {
   "motiv": "repertoriu internațional",
@@ -1317,11 +1317,11 @@
  },
  "Jingle Bells (I) || Caiet cabană EN, p. 44": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Jingle Bells (II) || Colinde Karban, p. 58": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Joc de copil || Caiet cabană RO, p. 165": {
   "motiv": "folk, copilărie",
@@ -1337,7 +1337,7 @@
  },
  "Junelu-i tinerelu || Colinde Karban, p. 35": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Jurământ la Putna || Caiet cabană RO, p. 50": {
   "motiv": "Putna, Moldova",
@@ -1357,7 +1357,7 @@
  },
  "Kling, Glöckchen, klingelingeling || Colinde Karban, p. 85": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "Knockin' on Heaven's Door || Caiet cabană EN, p. 29": {
   "motiv": "repertoriu internațional",
@@ -1377,7 +1377,7 @@
  },
  "La Viflaim, la Viflaim || Colinde Karban, p. 36": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "La adio || Caiet cabană RO, p. 40": {
   "motiv": "Păunescu, despărțire",
@@ -1401,7 +1401,7 @@
  },
  "La tătă casa-i lumină || Colinde Karban, p. 16": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "La un ceai || Caiet cabană RO, p. 87": {
   "motiv": "nostalgie, liceu",
@@ -1413,7 +1413,7 @@
  },
  "Last Christmas || Colinde Karban, p. 59": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Lavinia || Caiet cabană RO, p. 61": {
   "motiv": "dragoste",
@@ -1425,11 +1425,11 @@
  },
  "Le bonhomme de neige || Colinde Karban, p. 77": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Le petit renne au nez rouge || Colinde Karban, p. 78": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Legenda Craiului || Caiet Christian Adventure, p. 93": {
   "motiv": "legenda Craiului, creste",
@@ -1437,7 +1437,7 @@
  },
  "Leise rieselt der Schnee || Colinde Karban, p. 86": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Les Champs-Elysees || Caiet cabană EN, p. 68": {
   "motiv": "repertoriu internațional",
@@ -1449,7 +1449,7 @@
  },
  "Let It Snow! || Colinde Karban, p. 60": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Libertate-n vârf de munți || Caiet Christian Adventure, p. 94": {
   "motiv": "haiduc, munți, poteră",
@@ -1457,7 +1457,7 @@
  },
  "Linu-i lin || Colinde Karban, p. 37": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Living Next Door to Alice || Caiet Christian Adventure, p. 204": {
   "motiv": "repertoriu internațional",
@@ -1533,7 +1533,7 @@
  },
  "Merry Xmas Everybody || Colinde Karban, p. 61": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Mi-a zis mama că mi-o da || Cărticica Karban, p. 211": {
   "motiv": "glumă populară de grup",
@@ -1597,15 +1597,15 @@
  },
  "Mon Beau Sapin || Colinde Karban, p. 79": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Moș Crăciun (I) || Cărticica Karban, p. 220": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Moș Crăciun (II) || Colinde Karban, p. 9": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Mr. Tambourine Man || Caiet cabană EN, p. 27": {
   "motiv": "repertoriu internațional",
@@ -1637,7 +1637,7 @@
  },
  "Must Be Santa || Colinde Karban, p. 62": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Muzică și muzichia || Cărticica Karban, p. 123": {
   "motiv": "Phoenix",
@@ -1653,7 +1653,7 @@
  },
  "Mă luai luai || Colinde Karban, p. 38": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Mă întorc la tine, muntele meu drag || Caiet Christian Adventure, p. 100": {
   "motiv": "întoarcerea la munte",
@@ -1665,7 +1665,7 @@
  },
  "Măruț mărgăritar || Colinde Karban, p. 39": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Ne Sent-Tu Pas Claque Tes Doigts || Caiet cabană EN, p. 64": {
   "motiv": "repertoriu internațional",
@@ -1685,15 +1685,15 @@
  },
  "Ninge iar (I) || Caiet cabană RO, p. 110": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Ninge iar (II) || Cărticica Karban, p. 84": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Ninge iar (III) || Colinde Karban, p. 104": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "No Woman, No Cry || Caiet cabană EN, p. 71": {
   "motiv": "repertoriu internațional",
@@ -1705,7 +1705,7 @@
  },
  "Noapte de vis || Colinde Karban, p. 10": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Noapte la mare, noapte la munte || Caiet Christian Adventure, p. 110": {
   "motiv": "dragoste",
@@ -1713,11 +1713,11 @@
  },
  "Noapte sfântă (I) || Cărticica Karban, p. 219": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Noapte sfântă (II) || Colinde Karban, p. 11": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Nopți (I) || Caiet cabană RO, p. 95": {
   "motiv": "război",
@@ -1793,15 +1793,15 @@
  },
  "O Christmas Tree || Colinde Karban, p. 63": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "O Come Little Children || Colinde Karban, p. 64": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "O Tannenbaum || Colinde Karban, p. 87": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "O nouă viață || Caiet Christian Adventure, p. 120": {
   "motiv": "ce-nseamnă un munte",
@@ -1809,19 +1809,19 @@
  },
  "O, brad frumos! (I) || Cărticica Karban, p. 221": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "O, brad frumos! (II) || Colinde Karban, p. 12": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "O, ce veste minunată (2) || Colinde Karban, p. 41": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "O, ce veste minunată! (1) || Colinde Karban, p. 40": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "O, mama || Caiet Christian Adventure, p. 118": {
   "motiv": "beat și fără bani, hazliu",
@@ -1925,11 +1925,11 @@
  },
  "Ostașii luminii colindă (I) || Caiet cabană RO, p. 116": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Ostașii luminii colindă (II) || Colinde Karban, p. 92": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Pat de flori || Caiet Christian Adventure, p. 122": {
   "motiv": "folk",
@@ -1953,7 +1953,7 @@
  },
  "Pe cununa munților || Colinde Karban, p. 42": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Pe deal pe la Cornățel || Cărticica Karban, p. 212": {
   "motiv": "de petrecere",
@@ -1961,11 +1961,11 @@
  },
  "Pe podele de nuiele || Colinde Karban, p. 13": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Pe strada din Viflaim || Colinde Karban, p. 43": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "People Are Strange || Caiet Christian Adventure, p. 205": {
   "motiv": "repertoriu internațional",
@@ -1993,7 +1993,7 @@
  },
  "Plecarea || Colinde Karban, p. 93": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Ploaia (Karma) || Caiet cabană RO, p. 128": {
   "motiv": "folk, dragoste",
@@ -2025,11 +2025,11 @@
  },
  "Pom înrămuratu || Colinde Karban, p. 44": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Pomul de Crăciun || Colinde Karban, p. 101": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Porom Pom Pom || Caiet cabană EN, p. 66": {
   "motiv": "repertoriu internațional",
@@ -2081,7 +2081,7 @@
  },
  "Pére Noël arrive ce soir || Colinde Karban, p. 80": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Pădure de argint || Caiet Christian Adventure, p. 124": {
   "motiv": "folk, pădure",
@@ -2129,7 +2129,7 @@
  },
  "Rocking Around the Christmas Tree || Colinde Karban, p. 65": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Romanță de toamnă || Caiet cabană RO, p. 11": {
   "motiv": "romanță",
@@ -2153,7 +2153,7 @@
  },
  "Rudolph The Red Nosed Reindeer || Colinde Karban, p. 66": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Rugă pentru părinți (I) || Caiet cabană RO, p. 47": {
   "motiv": "folk, părinți",
@@ -2185,7 +2185,7 @@
  },
  "Sainte Nuit || Colinde Karban, p. 81": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "Sala pașilor pierduți || Caiet cabană RO, p. 164": {
   "motiv": "folk",
@@ -2193,7 +2193,7 @@
  },
  "Santa Claus Is Coming To Town || Colinde Karban, p. 67": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Santiano || Caiet cabană EN, p. 63": {
   "motiv": "repertoriu internațional",
@@ -2213,7 +2213,7 @@
  },
  "Scrisoare la-nceput de iarnă || Colinde Karban, p. 94": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Scândura || Caiet cabană RO, p. 151": {
   "motiv": "folk",
@@ -2225,7 +2225,7 @@
  },
  "Seara serilor || Colinde Karban, p. 95": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Seasons in the Sun || Caiet cabană EN, p. 26": {
   "motiv": "repertoriu internațional",
@@ -2245,7 +2245,7 @@
  },
  "Singur de Crăciun || Colinde Karban, p. 99": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Singur în noapte (I) || Caiet cabană RO, p. 97": {
   "motiv": "rock, dragoste",
@@ -2285,7 +2285,7 @@
  },
  "Steaguri albe || Colinde Karban, p. 105": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Still Loving You || Caiet Christian Adventure, p. 202": {
   "motiv": "repertoriu internațional",
@@ -2293,11 +2293,11 @@
  },
  "Stille Nacht, heilige Nacht || Colinde Karban, p. 88": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "Stop The Calvary || Colinde Karban, p. 68": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Strada Popa Nan (I) || Caiet Christian Adventure, p. 143": {
   "motiv": "folk urban",
@@ -2333,11 +2333,11 @@
  },
  "Sus boieri nu mai dormiți || Colinde Karban, p. 17": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Sus sus sus pe lângă lună || Colinde Karban, p. 45": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Suzana || Caiet Christian Adventure, p. 146": {
   "motiv": "parodie de tabără, în grup",
@@ -2437,11 +2437,11 @@
  },
  "The Little Drummer Boy || Colinde Karban, p. 69": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.2"
  },
  "The Night Before Christmas Song || Colinde Karban, p. 70": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "The Red River Valley || Caiet cabană EN, p. 55": {
   "motiv": "repertoriu internațional",
@@ -2505,11 +2505,11 @@
  },
  "Trei crai || Colinde Karban, p. 46": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Trei păstori || Colinde Karban, p. 47": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Trenul dragostei || Caiet Christian Adventure, p. 152": {
   "motiv": "rucsac, tren spre munte",
@@ -2557,7 +2557,7 @@
  },
  "Twinkle, Twinkle Little Star || Colinde Karban, p. 71": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Twist and Shout || Caiet cabană EN, p. 7": {
   "motiv": "repertoriu internațional",
@@ -2597,7 +2597,7 @@
  },
  "Un creștin s-a-nvrednicit || Colinde Karban, p. 96": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Un elefant... || Cărticica Karban, p. 261": {
   "motiv": "copii, numărătoare",
@@ -2661,7 +2661,7 @@
  },
  "Veniți păstori în Viflaiem || Colinde Karban, p. 15": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Verde crud (I) || Caiet cabană RO, p. 161": {
   "motiv": "folk",
@@ -2693,7 +2693,7 @@
  },
  "Vine marea || Colinde Karban, p. 48": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Vine o zi || Caiet Christian Adventure, p. 170": {
   "motiv": "rock",
@@ -2773,7 +2773,7 @@
  },
  "We Wish You A Merry Christmas || Colinde Karban, p. 72": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "What's Up || Caiet Christian Adventure, p. 191": {
   "motiv": "repertoriu internațional",
@@ -2785,7 +2785,7 @@
  },
  "White Christmas || Colinde Karban, p. 73": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Wind of Change || Caiet Christian Adventure, p. 203": {
   "motiv": "repertoriu internațional",
@@ -2793,7 +2793,7 @@
  },
  "Winter Wonderland || Colinde Karban, p. 74": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.4"
  },
  "Wish You Were Here || Caiet cabană EN, p. 24": {
   "motiv": "repertoriu internațional",
@@ -2833,11 +2833,11 @@
  },
  "Zori din zori || Colinde Karban, p. 102": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Zăurel de zăurel || Colinde Karban, p. 49": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.1"
  },
  "Îmi pare rău || Caiet cabană RO, p. 58": {
   "motiv": "rock, dragoste",
@@ -2869,7 +2869,7 @@
  },
  "În întâmpinarea Crăciunului || Colinde Karban, p. 107": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV"
+  "sectiune": "IV.3"
  },
  "Înserarea || Caiet cabană RO, p. 127": {
   "motiv": "folk",

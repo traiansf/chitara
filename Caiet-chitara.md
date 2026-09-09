@@ -32,6 +32,11 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (116 cântece)
 
+- [IV.1 — Colinde românești](#iv1--colinde-românești) (61 cântece)
+- [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (10 cântece)
+- [IV.3 — Cântece de iarnă românești](#iv3--cântece-de-iarnă-românești) (18 cântece)
+- [IV.4 — Cântece de iarnă internaționale](#iv4--cântece-de-iarnă-internaționale) (27 cântece)
+
 **[Index pe artiști](#index-pe-artiști)** · **[Anexă: dicționar de acorduri](#anexă-dicționar-de-acorduri)**
 
 ### I.1 — De munte și de drum (alfabetic)
@@ -671,124 +676,133 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 621. [Yesterday](#621-yesterday)
 622. [You Drive Me Crazy](#622-you-drive-me-crazy)
 
-### Partea a IV-a — Colinde și cântece de iarnă (alfabetic)
+### IV.1 — Colinde românești (alfabetic)
 
 623. [Afară ninge liniștit](#623-afară-ninge-liniștit)
 624. [Afară-i frig și e-norat (Balada sadicului)](#624-afară-i-frig-și-e-norat-balada-sadicului)
-625. [Alle Jahre wieder](#625-alle-jahre-wieder)
-626. [Aseară pe-nserate](#626-aseară-pe-nserate)
-627. [Asta-i fata cea frumoasă](#627-asta-i-fata-cea-frumoasă)
-628. [Away in a manger](#628-away-in-a-manger)
-629. [Blue Christmas](#629-blue-christmas)
-630. [Când din crâșmă ai ieșit (Colind horror)](#630-când-din-crâșmă-ai-ieșit-colind-horror)
-631. [Când fost-a micuț prunc Isus](#631-când-fost-a-micuț-prunc-isus)
-632. [Ce-ați văzut păstori](#632-ce-ați-văzut-păstori)
-633. [Cerul și pământul (I)](#633-cerul-și-pământul-i)
-634. [Cerul și pământul (II)](#634-cerul-și-pământul-ii)
-635. [Cerul și pământul (III)](#635-cerul-și-pământul-iii)
-636. [Cheamă-ți gazdă](#636-cheamă-ți-gazdă)
-637. [Coborât-o coborât](#637-coborât-o-coborât)
-638. [Colindă tristă (I)](#638-colindă-tristă-i)
-639. [Colindă tristă (II)](#639-colindă-tristă-ii)
-640. [Colindăm, colindăm iarna](#640-colindăm-colindăm-iarna)
-641. [Colindul cerbului](#641-colindul-cerbului)
-642. [Colindul gutuii (I)](#642-colindul-gutuii-i)
-643. [Colindul gutuii (II)](#643-colindul-gutuii-ii)
-644. [Colindul pușcăriașului](#644-colindul-pușcăriașului)
-645. [Corindăm, corindăm (I)](#645-corindăm-corindăm-i)
-646. [Corindăm, corindăm (II)](#646-corindăm-corindăm-ii)
-647. [Corindăm, corindăm (III)](#647-corindăm-corindăm-iii)
-648. [Creștinilor, noi astăzi](#648-creștinilor-noi-astăzi)
-649. [Cu secera-n mână (Colind horror)](#649-cu-secera-n-mână-colind-horror)
-650. [Dalbu-i dealu](#650-dalbu-i-dealu)
-651. [Decembre (I)](#651-decembre-i)
-652. [Decembre (II)](#652-decembre-ii)
-653. [Decembre (III)](#653-decembre-iii)
-654. [Deck the Halls](#654-deck-the-halls)
-655. [Deschide nană ușile](#655-deschide-nană-ușile)
-656. [Deschide ușa, creștine (I)](#656-deschide-ușa-creștine-i)
-657. [Deschide ușa, creștine (II)](#657-deschide-ușa-creștine-ii)
-658. [Ding ding, ding (Colind horror)](#658-ding-ding-ding-colind-horror)
-659. [Drumul magilor](#659-drumul-magilor)
-660. [Entre le boeuf et l’âne gris](#660-entre-le-boeuf-et-lâne-gris)
-661. [Feliz Navidad](#661-feliz-navidad)
-662. [Ferice-i ferice](#662-ferice-i-ferice)
-663. [Flori de măr (I)](#663-flori-de-măr-i)
-664. [Flori de măr (II)](#664-flori-de-măr-ii)
-665. [Florile dalbe (I)](#665-florile-dalbe-i)
-666. [Florile dalbe (II)](#666-florile-dalbe-ii)
-667. [Frosty The Snowman](#667-frosty-the-snowman)
-668. [Go Tell It On The Mountain](#668-go-tell-it-on-the-mountain)
-669. [Here Comes Santa Claus](#669-here-comes-santa-claus)
-670. [Iarăși flori dalbe](#670-iarăși-flori-dalbe)
-671. [Ihr Kinderlein kommet](#671-ihr-kinderlein-kommet)
-672. [În întâmpinarea Crăciunului](#672-în-întâmpinarea-crăciunului)
-673. [Jingle Bells (I)](#673-jingle-bells-i)
-674. [Jingle Bells (II)](#674-jingle-bells-ii)
-675. [Junelu-i tinerelu](#675-junelu-i-tinerelu)
-676. [Kling, Glöckchen, klingelingeling](#676-kling-glöckchen-klingelingeling)
-677. [La tătă casa-i lumină](#677-la-tătă-casa-i-lumină)
-678. [La Viflaim, la Viflaim](#678-la-viflaim-la-viflaim)
-679. [Last Christmas](#679-last-christmas)
-680. [Le bonhomme de neige](#680-le-bonhomme-de-neige)
-681. [Le petit renne au nez rouge](#681-le-petit-renne-au-nez-rouge)
-682. [Leise rieselt der Schnee](#682-leise-rieselt-der-schnee)
-683. [Let It Snow!](#683-let-it-snow)
-684. [Linu-i lin](#684-linu-i-lin)
-685. [Mă luai luai](#685-mă-luai-luai)
-686. [Măruț mărgăritar](#686-măruț-mărgăritar)
-687. [Merry Xmas Everybody](#687-merry-xmas-everybody)
-688. [Mon Beau Sapin](#688-mon-beau-sapin)
-689. [Moș Crăciun (I)](#689-moș-crăciun-i)
-690. [Moș Crăciun (II)](#690-moș-crăciun-ii)
-691. [Must Be Santa](#691-must-be-santa)
-692. [Ninge iar (I)](#692-ninge-iar-i)
-693. [Ninge iar (II)](#693-ninge-iar-ii)
-694. [Ninge iar (III)](#694-ninge-iar-iii)
-695. [Noapte de vis](#695-noapte-de-vis)
-696. [Noapte sfântă (I)](#696-noapte-sfântă-i)
-697. [Noapte sfântă (II)](#697-noapte-sfântă-ii)
-698. [O Christmas Tree](#698-o-christmas-tree)
-699. [O Come Little Children](#699-o-come-little-children)
-700. [O Tannenbaum](#700-o-tannenbaum)
-701. [O, brad frumos! (I)](#701-o-brad-frumos-i)
-702. [O, brad frumos! (II)](#702-o-brad-frumos-ii)
-703. [O, ce veste minunată (2)](#703-o-ce-veste-minunată-2)
-704. [O, ce veste minunată! (1)](#704-o-ce-veste-minunată-1)
-705. [Ostașii luminii colindă (I)](#705-ostașii-luminii-colindă-i)
-706. [Ostașii luminii colindă (II)](#706-ostașii-luminii-colindă-ii)
-707. [Pe cununa munților](#707-pe-cununa-munților)
-708. [Pe podele de nuiele](#708-pe-podele-de-nuiele)
-709. [Pe strada din Viflaim](#709-pe-strada-din-viflaim)
-710. [Pére Noël arrive ce soir](#710-pére-noël-arrive-ce-soir)
-711. [Plecarea](#711-plecarea)
-712. [Pom înrămuratu](#712-pom-înrămuratu)
-713. [Pomul de Crăciun](#713-pomul-de-crăciun)
-714. [Rocking Around the Christmas Tree](#714-rocking-around-the-christmas-tree)
-715. [Rudolph The Red Nosed Reindeer](#715-rudolph-the-red-nosed-reindeer)
-716. [Sainte Nuit](#716-sainte-nuit)
-717. [Santa Claus Is Coming To Town](#717-santa-claus-is-coming-to-town)
-718. [Scrisoare la-nceput de iarnă](#718-scrisoare-la-nceput-de-iarnă)
-719. [Seara serilor](#719-seara-serilor)
-720. [Singur de Crăciun](#720-singur-de-crăciun)
-721. [Steaguri albe](#721-steaguri-albe)
-722. [Stille Nacht, heilige Nacht](#722-stille-nacht-heilige-nacht)
-723. [Stop The Calvary](#723-stop-the-calvary)
-724. [Sus boieri nu mai dormiți](#724-sus-boieri-nu-mai-dormiți)
-725. [Sus sus sus pe lângă lună](#725-sus-sus-sus-pe-lângă-lună)
-726. [The Little Drummer Boy](#726-the-little-drummer-boy)
-727. [The Night Before Christmas Song](#727-the-night-before-christmas-song)
-728. [Trei crai](#728-trei-crai)
-729. [Trei păstori](#729-trei-păstori)
-730. [Twinkle, Twinkle Little Star](#730-twinkle-twinkle-little-star)
-731. [Un creștin s-a-nvrednicit](#731-un-creștin-s-a-nvrednicit)
-732. [Veniți păstori în Viflaiem](#732-veniți-păstori-în-viflaiem)
-733. [Vine marea](#733-vine-marea)
-734. [We Wish You A Merry Christmas](#734-we-wish-you-a-merry-christmas)
-735. [White Christmas](#735-white-christmas)
-736. [Winter Wonderland](#736-winter-wonderland)
-737. [Zăurel de zăurel](#737-zăurel-de-zăurel)
-738. [Zori din zori](#738-zori-din-zori)
+625. [Aseară pe-nserate](#625-aseară-pe-nserate)
+626. [Asta-i fata cea frumoasă](#626-asta-i-fata-cea-frumoasă)
+627. [Când din crâșmă ai ieșit (Colind horror)](#627-când-din-crâșmă-ai-ieșit-colind-horror)
+628. [Când fost-a micuț prunc Isus](#628-când-fost-a-micuț-prunc-isus)
+629. [Ce-ați văzut păstori](#629-ce-ați-văzut-păstori)
+630. [Cerul și pământul (I)](#630-cerul-și-pământul-i)
+631. [Cerul și pământul (II)](#631-cerul-și-pământul-ii)
+632. [Cerul și pământul (III)](#632-cerul-și-pământul-iii)
+633. [Cheamă-ți gazdă](#633-cheamă-ți-gazdă)
+634. [Coborât-o coborât](#634-coborât-o-coborât)
+635. [Colindă tristă (I)](#635-colindă-tristă-i)
+636. [Colindă tristă (II)](#636-colindă-tristă-ii)
+637. [Colindăm, colindăm iarna](#637-colindăm-colindăm-iarna)
+638. [Colindul cerbului](#638-colindul-cerbului)
+639. [Colindul gutuii (I)](#639-colindul-gutuii-i)
+640. [Colindul gutuii (II)](#640-colindul-gutuii-ii)
+641. [Colindul pușcăriașului](#641-colindul-pușcăriașului)
+642. [Corindăm, corindăm (I)](#642-corindăm-corindăm-i)
+643. [Corindăm, corindăm (II)](#643-corindăm-corindăm-ii)
+644. [Corindăm, corindăm (III)](#644-corindăm-corindăm-iii)
+645. [Creștinilor, noi astăzi](#645-creștinilor-noi-astăzi)
+646. [Cu secera-n mână (Colind horror)](#646-cu-secera-n-mână-colind-horror)
+647. [Dalbu-i dealu](#647-dalbu-i-dealu)
+648. [Deschide nană ușile](#648-deschide-nană-ușile)
+649. [Deschide ușa, creștine (I)](#649-deschide-ușa-creștine-i)
+650. [Deschide ușa, creștine (II)](#650-deschide-ușa-creștine-ii)
+651. [Ding ding, ding (Colind horror)](#651-ding-ding-ding-colind-horror)
+652. [Drumul magilor](#652-drumul-magilor)
+653. [Ferice-i ferice](#653-ferice-i-ferice)
+654. [Flori de măr (I)](#654-flori-de-măr-i)
+655. [Flori de măr (II)](#655-flori-de-măr-ii)
+656. [Florile dalbe (I)](#656-florile-dalbe-i)
+657. [Florile dalbe (II)](#657-florile-dalbe-ii)
+658. [Iarăși flori dalbe](#658-iarăși-flori-dalbe)
+659. [Junelu-i tinerelu](#659-junelu-i-tinerelu)
+660. [La tătă casa-i lumină](#660-la-tătă-casa-i-lumină)
+661. [La Viflaim, la Viflaim](#661-la-viflaim-la-viflaim)
+662. [Linu-i lin](#662-linu-i-lin)
+663. [Mă luai luai](#663-mă-luai-luai)
+664. [Măruț mărgăritar](#664-măruț-mărgăritar)
+665. [Noapte de vis](#665-noapte-de-vis)
+666. [Noapte sfântă (I)](#666-noapte-sfântă-i)
+667. [Noapte sfântă (II)](#667-noapte-sfântă-ii)
+668. [O, ce veste minunată (2)](#668-o-ce-veste-minunată-2)
+669. [O, ce veste minunată! (1)](#669-o-ce-veste-minunată-1)
+670. [Ostașii luminii colindă (I)](#670-ostașii-luminii-colindă-i)
+671. [Ostașii luminii colindă (II)](#671-ostașii-luminii-colindă-ii)
+672. [Pe cununa munților](#672-pe-cununa-munților)
+673. [Pe podele de nuiele](#673-pe-podele-de-nuiele)
+674. [Pe strada din Viflaim](#674-pe-strada-din-viflaim)
+675. [Pom înrămuratu](#675-pom-înrămuratu)
+676. [Sus boieri nu mai dormiți](#676-sus-boieri-nu-mai-dormiți)
+677. [Sus sus sus pe lângă lună](#677-sus-sus-sus-pe-lângă-lună)
+678. [Trei crai](#678-trei-crai)
+679. [Trei păstori](#679-trei-păstori)
+680. [Un creștin s-a-nvrednicit](#680-un-creștin-s-a-nvrednicit)
+681. [Veniți păstori în Viflaiem](#681-veniți-păstori-în-viflaiem)
+682. [Vine marea](#682-vine-marea)
+683. [Zăurel de zăurel](#683-zăurel-de-zăurel)
+
+### IV.2 — Colinde internaționale (alfabetic)
+
+684. [Alle Jahre wieder](#684-alle-jahre-wieder)
+685. [Away in a manger](#685-away-in-a-manger)
+686. [Entre le boeuf et l’âne gris](#686-entre-le-boeuf-et-lâne-gris)
+687. [Go Tell It On The Mountain](#687-go-tell-it-on-the-mountain)
+688. [Ihr Kinderlein kommet](#688-ihr-kinderlein-kommet)
+689. [Kling, Glöckchen, klingelingeling](#689-kling-glöckchen-klingelingeling)
+690. [O Come Little Children](#690-o-come-little-children)
+691. [Sainte Nuit](#691-sainte-nuit)
+692. [Stille Nacht, heilige Nacht](#692-stille-nacht-heilige-nacht)
+693. [The Little Drummer Boy](#693-the-little-drummer-boy)
+
+### IV.3 — Cântece de iarnă românești (alfabetic)
+
+694. [Decembre (I)](#694-decembre-i)
+695. [Decembre (II)](#695-decembre-ii)
+696. [Decembre (III)](#696-decembre-iii)
+697. [În întâmpinarea Crăciunului](#697-în-întâmpinarea-crăciunului)
+698. [Moș Crăciun (I)](#698-moș-crăciun-i)
+699. [Moș Crăciun (II)](#699-moș-crăciun-ii)
+700. [Ninge iar (I)](#700-ninge-iar-i)
+701. [Ninge iar (II)](#701-ninge-iar-ii)
+702. [Ninge iar (III)](#702-ninge-iar-iii)
+703. [O, brad frumos! (I)](#703-o-brad-frumos-i)
+704. [O, brad frumos! (II)](#704-o-brad-frumos-ii)
+705. [Plecarea](#705-plecarea)
+706. [Pomul de Crăciun](#706-pomul-de-crăciun)
+707. [Scrisoare la-nceput de iarnă](#707-scrisoare-la-nceput-de-iarnă)
+708. [Seara serilor](#708-seara-serilor)
+709. [Singur de Crăciun](#709-singur-de-crăciun)
+710. [Steaguri albe](#710-steaguri-albe)
+711. [Zori din zori](#711-zori-din-zori)
+
+### IV.4 — Cântece de iarnă internaționale (alfabetic)
+
+712. [Blue Christmas](#712-blue-christmas)
+713. [Deck the Halls](#713-deck-the-halls)
+714. [Feliz Navidad](#714-feliz-navidad)
+715. [Frosty The Snowman](#715-frosty-the-snowman)
+716. [Here Comes Santa Claus](#716-here-comes-santa-claus)
+717. [Jingle Bells (I)](#717-jingle-bells-i)
+718. [Jingle Bells (II)](#718-jingle-bells-ii)
+719. [Last Christmas](#719-last-christmas)
+720. [Le bonhomme de neige](#720-le-bonhomme-de-neige)
+721. [Le petit renne au nez rouge](#721-le-petit-renne-au-nez-rouge)
+722. [Leise rieselt der Schnee](#722-leise-rieselt-der-schnee)
+723. [Let It Snow!](#723-let-it-snow)
+724. [Merry Xmas Everybody](#724-merry-xmas-everybody)
+725. [Mon Beau Sapin](#725-mon-beau-sapin)
+726. [Must Be Santa](#726-must-be-santa)
+727. [O Christmas Tree](#727-o-christmas-tree)
+728. [O Tannenbaum](#728-o-tannenbaum)
+729. [Pére Noël arrive ce soir](#729-pére-noël-arrive-ce-soir)
+730. [Rocking Around the Christmas Tree](#730-rocking-around-the-christmas-tree)
+731. [Rudolph The Red Nosed Reindeer](#731-rudolph-the-red-nosed-reindeer)
+732. [Santa Claus Is Coming To Town](#732-santa-claus-is-coming-to-town)
+733. [Stop The Calvary](#733-stop-the-calvary)
+734. [The Night Before Christmas Song](#734-the-night-before-christmas-song)
+735. [Twinkle, Twinkle Little Star](#735-twinkle-twinkle-little-star)
+736. [We Wish You A Merry Christmas](#736-we-wish-you-a-merry-christmas)
+737. [White Christmas](#737-white-christmas)
+738. [Winter Wonderland](#738-winter-wonderland)
 
 ---
 
@@ -29387,6 +29401,8 @@ You drive me crazy.
 
 ## Partea a IV-a — Colinde și cântece de iarnă
 
+### IV.1 — Colinde românești
+
 #### 623. Afară ninge liniștit
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional/G. Coșbuc · Sursa: Colinde Karban, p. 19
@@ -29578,51 +29594,7 @@ E
 Exemplificată aici pentru C.
 ```
 
-#### 625. Alle Jahre wieder
-
-muzica/versuri: Ernst Anschütz/Wilhelm Hey · Sursa: Colinde Karban, p. 83
-
-**Chitară:** C x32010 · G 320003 · F 133211
-
-**Ukulele:** C 0003 · G 0232 · F 2010
-
-```text
-C             G
-Alle Jahre wieder
-C                 G
-Kommt das Christuskind
-C       F    C  C
-Auf die Erde nieder,
-C      G        G
-Wo wir Menschen sind
-C                  G
-Kehrt mit seinem Segen
-C            G
-Ein in jedes Haus
-C        F     C F
-Geht auf allen Wegen
-C       G       C
-Mit uns ein und aus.
-C                     G
-Steht auch mir zur Seite
-C             G
-Still und unerkannt,
-C       F         C  F
-Dass es treu mich leite
-C      G      C
-An der lieben Hand.
-C                   G
-Sagt den Menschen allen,
-C              G
-Dass ein Vater ist,
-C       F     C  F
-Dem sie wohlgefallen,
-C       G        C
-Der sie nicht vergisst.
-Note:Măsura este 4/4. Merge un arpegiu simplu.
-```
-
-#### 626. Aseară pe-nserate
+#### 625. Aseară pe-nserate
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 20
 
@@ -29682,7 +29654,7 @@ E         1
 Fm
 ```
 
-#### 627. Asta-i fata cea frumoasă
+#### 626. Asta-i fata cea frumoasă
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 21
 
@@ -29742,97 +29714,7 @@ E         0     0     0     0
 Exemplificat aici pentru E.
 ```
 
-#### 628. Away in a manger
-
-muzica/versuri: tradițional englez · Sursa: Colinde Karban, p. 52
-
-**Chitară:** F 133211 · Am x02210 · Bb x13331 · Gm 355333 · C x32010 · G 320003 · D xx0232
-
-**Ukulele:** F 2010 · Am 2000 · Bb 3211 · Gm 0231 · C 0003 · G 0232 · D 2220
-
-```text
- F        F          Am       Bb Gm
-Away in a manger, no crib for a  bed,
-    C           F          G              C
-the little Lord Jesus laid down his sweet head.
-    F            F                 D             Gm
-The stars in the bright sky looked down where He lay,
-    C           F      Gm       C   F
-the little Lord Jesus asleep on the hay.
-    F          F           Am   Bb Gm
-The cattle are lowing, the baby a wakes,
-    C           F        G         C
-but little Lord Jesus no crying he makes.
-  F               F           D             Gm
-I love Thee, Lord Jesus, look down from the sky,
-    C          F            Gm      C   F
-and stay by my bedside till morning is  night.
-   F             F        Am       Bb Gm
-Be near me, Lord Jesus, I ask Thee to stay,
-      C        F        G          C
-close by me forever and love me, I pray.
-      F            F           D          Gm
-Bless all the dear children in Thy tender care,
-    C          F          Gm        C    F
-and fit us for heaven, to live with Thee there.
-Note:Melodia de William J. Kirkpatrick iar textul anonim pare sa fie de pe la 1885.
-Măsura este 3/4 și poate fi acompaniat cu o bătaie de forma de mai jos sau la fel cu o ciupitură asemănătoare.
-E         1         1         1
-B         1         1         1
-G         2         2         2
-D         3         3         3
-A         3         3         3
-E         1         1         1
-|          |          |
-Trecerile /Am la Bb/ și /Gm la C7/ sunt în cadrul aceleiași măsuri cu două bătăi pe primul acord și una pe ultimul.
-```
-
-#### 629. Blue Christmas
-
-Sursa: Colinde Karban, p. 53
-
-**Chitară:** E 022100 · B x24442 · A x02220 · F 133211
-
-**Ukulele:** E 4442 · B 4322 · A 2100 · F 2010
-
-```text
-         E              B
-I have a blue Christmas without you
-           B                   E
-I’ll be so blue just thinking about you
-     E         E         A
-Decorations of red, on a green Christmas tree
-F                          B
-won’t be the same dear, if you’re not here with me.
-               E                      B
-And when those blue snow flakes start falling,
-                  B                   E
-that’s when those blue memories start calling,
-          E       E                A            Bb dim
-you’ll be doing alright, with your Christmas of white,
-    B                     E
-but I’ll have a blue blue Christmas.
-              E              B
-Ohh, ohh, ohh Ahhh Ahh ahh a ahh ohhhh
-          B                    E
-ohh, ohh, ohh Ahhhhh Ahh ahh a ahh ohhhh
-          E        E               A            Bb dim
-You’ll be doing allright with your Christmas of white
-    B                     E
-but I’ll have a blue blue Christmas,
-Note: Măsura este 4/4. Ca și model de acompaniament propun:
-E         0         0     0     0     0     0     0
-B         0         0     0     0     0     0     0
-G         1         1     1     1     1     1     1
-D         2         2     2     2     2     2     2
-A         2         2     2     2     2     2     2
-E         0         0     0     0     0     0     0
-|          | _ _ |      | _ _ |      | _ _ |
-Exemplificat aici pentru E. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
-O variantă cunoscută a melodiei este cea interpretată de Elvis Presley.
-```
-
-#### 630. Când din crâșmă ai ieșit (Colind horror)
+#### 627. Când din crâșmă ai ieșit (Colind horror)
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 109
 
@@ -29886,7 +29768,7 @@ G                                              C                                
 Exemplificată aici pentru G, C și D. (De altfel cred că aceasta este și ciupitura folosită de Ada)
 ```
 
-#### 631. Când fost-a micuț prunc Isus
+#### 628. Când fost-a micuț prunc Isus
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 22
 
@@ -29943,7 +29825,7 @@ E
 D
 ```
 
-#### 632. Ce-ați văzut păstori
+#### 629. Ce-ați văzut păstori
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 23
 
@@ -30000,7 +29882,7 @@ E
 Exemplificată aici pentru Am.
 ```
 
-#### 633. Cerul și pământul (I)
+#### 630. Cerul și pământul (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 117 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/cerul-si-pamantul-13353)
 
@@ -30045,7 +29927,7 @@ Hristos se naște veniți la închinare
 Cu vesel suflet veselă cântare.
 ```
 
-#### 634. Cerul și pământul (II)
+#### 631. Cerul și pământul (II)
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/popular · Sursa: Cărticica Karban, p. 77
 
@@ -30081,7 +29963,7 @@ Refren:
 [G]Veselă cânt[C]are.
 ```
 
-#### 635. Cerul și pământul (III)
+#### 632. Cerul și pământul (III)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 24
 
@@ -30119,7 +30001,7 @@ G             C
 Fiu născu în lume.
 ```
 
-#### 636. Cheamă-ți gazdă
+#### 633. Cheamă-ți gazdă
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 97
 
@@ -30190,7 +30072,7 @@ E        3              3    3    3    3                   3    3    3    3
 Schimbarea se face tot pe a 4-a bătaie.
 ```
 
-#### 637. Coborât-o coborât
+#### 634. Coborât-o coborât
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 25
 
@@ -30242,7 +30124,7 @@ E         1
 |    _ |    |      | _ | _ |    |    _ |    |      | _ | _ |
 ```
 
-#### 638. Colindă tristă (I)
+#### 635. Colindă tristă (I)
 
 **Karma** · Sursa: Caiet cabană RO, p. 115 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/colinda-trista-1189)
 
@@ -30290,7 +30172,7 @@ Când zurgălăii șuieră-ntr-o dungă
 Pe-o filă ultimă de calendar.
 ```
 
-#### 639. Colindă tristă (II)
+#### 636. Colindă tristă (II)
 
 **Karma** · Sursa: Colinde Karban, p. 98 · Cărticica Karban, p. 96
 
@@ -30350,7 +30232,7 @@ Dm               E
 Pe-o filă ultimă de calendar
 ```
 
-#### 640. Colindăm, colindăm iarna
+#### 637. Colindăm, colindăm iarna
 
 Sursa: Colinde Karban, p. 8
 
@@ -30409,7 +30291,7 @@ A         3
 E
 ```
 
-#### 641. Colindul cerbului
+#### 638. Colindul cerbului
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 26
 
@@ -30464,7 +30346,7 @@ E         3
 | _ | _ | _ |    | _ | _ | _ |    | _ | _ | _ |
 ```
 
-#### 642. Colindul gutuii (I)
+#### 639. Colindul gutuii (I)
 
 **Tatiana Stepa** · Sursa: Caiet cabană RO, p. 41
 
@@ -30500,7 +30382,7 @@ Luxul mamei cel mai mare când copii ne mai simțeam
 Era pâinea de pe masă și gutuia de la geam.
 ```
 
-#### 643. Colindul gutuii (II)
+#### 640. Colindul gutuii (II)
 
 **Tatiana Stepa** · muzica/versuri: Tatiana Stepa/??? · Sursa: Colinde Karban, p. 106
 
@@ -30552,7 +30434,7 @@ E
 Exemplificată aici pentru Am.
 ```
 
-#### 644. Colindul pușcăriașului
+#### 641. Colindul pușcăriașului
 
 muzica/versuri: tradițional “O ce veste minunată” · Sursa: Colinde Karban, p. 112
 
@@ -30605,7 +30487,7 @@ E         3
 Exemplificat aici pentru G.
 ```
 
-#### 645. Corindăm, corindăm (I)
+#### 642. Corindăm, corindăm (I)
 
 **Paula Seling** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 18
 
@@ -30662,7 +30544,7 @@ A         3
 E
 ```
 
-#### 646. Corindăm, corindăm (II)
+#### 643. Corindăm, corindăm (II)
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 14
 
@@ -30713,7 +30595,7 @@ A         3
 E
 ```
 
-#### 647. Corindăm, corindăm (III)
+#### 644. Corindăm, corindăm (III)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 50 · Cărticica Karban, p. 79
 
@@ -30772,7 +30654,7 @@ E
 |          |            |          |
 ```
 
-#### 648. Creștinilor, noi astăzi
+#### 645. Creștinilor, noi astăzi
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 27
 
@@ -30832,7 +30714,7 @@ E
 Exemplificat aici pentru A.
 ```
 
-#### 649. Cu secera-n mână (Colind horror)
+#### 646. Cu secera-n mână (Colind horror)
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 110
 
@@ -30864,7 +30746,7 @@ A          A                   E
 Note:Măsura este 4/4. Ada folosește o tehnică de lovire a coardelor.
 ```
 
-#### 650. Dalbu-i dealu
+#### 647. Dalbu-i dealu
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 28
 
@@ -30923,223 +30805,7 @@ A
 E         3
 ```
 
-#### 651. Decembre (I)
-
-**Nicu Alifantis** · Sursa: Caiet cabană RO, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/decembre-276)
-
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003
-
-**Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232
-
-```text
-G.Bacovia/Nicu Alifantis
-
-1.
- Am
-Te uită cum ninge Decembre,
-  E
-Spre geamuri, iubito, privește
- Am
-Mai spune s-aducă jăratic
-     E                Am
-Și focul s-aud cum trosnește.
-Și mână fotoliul spre sobă,
-La horn să ascult vijelia,
-Sau zilele mele - tot una -
-AȘ vrea să le-nvăț simfonia.
-
-2.
-Mai spune s-aducă și ceaiul,
-Și vino și tu mai aproape
-Citește-mi ceva de la poluri,
-Și ningă... zăpada ne-ngroape.
-Ce cald e aicea la tine
-Și toate din casă mi-s sfinte
-Te uită cum ninge Decembre...
-Nu râde... citește-nainte.
-
-3.
-E ziua și ce întuneric...
-Mai spune s-aducă și lampa
-Te uită, zăpada-i cât gardul,
-Și a prins promoroacă și clampa.
-Eu nu mă mai duc azi acasă
-Potop e-napoi și-nainte,
-Te uită cum ninge Decembre...
-Nu râde ... citește-nainte.
-
-R:
-Na na ................
-Am Dm G Am
-Am Dm E Am
-```
-
-#### 652. Decembre (II)
-
-**Nicu Alifantis** · Sursa: Cărticica Karban, p. 16
-
-**Chitară:** Em 022000 · Am x02210 · B7 x21202
-
-**Ukulele:** Em 0432 · Am 2000 · B7 2322
-
-```text
-[Em]Te uită cum ninge Decembre,
-[Am]Spre geamuri, iubito, privește
-Mai spune s-aducă jă[B7]ratic
-Și focul s-aud cum tros[Em]nește.
-[Em]Și mână fotoliul spre sobă,
-[Am]La horn să ascult vijelia,
-Sau zilele mele tot [B7]una
-Aș vrea să le-nvăț sim[Em]fonia.
-[Em]Mai spune s-aducă și ceaiul,
-[Am]Și vino și tu mai aproape
-Citește-mi ceva de la [B7]poluri,
-Și ningă... zăpada ne-[Em]ngroape.
-[Em]Ce cald e aicea la tine
-[Am]Și toate din casă mi-s sfinte
-Te uită cum ninge De[B7]cembre...
-Nu râde... citește-[Em]nainte.
-[Em]E ziua și ce întuneric...
-[Am]Mai spune s-aducă și lampa
-Te uită, zăpada-i cât [B7]gardul,
-Și a prins promoroacă și [Em]clampa.
-[Em]Eu nu mă mai duc azi acasă
-[Am]Potop e-napoi și-nainte,
-Te uită cum ninge De[B7]cembre...
-Nu râde ... citește-[Em]nainte.
-```
-
-#### 653. Decembre (III)
-
-**Nicu Alifantis** · muzica/versuri: Nicu Alifantis/G.Bacovia · Sursa: Colinde Karban, p. 103
-
-**Chitară:** Em 022000 · Am x02210 · B x24442
-
-**Ukulele:** Em 0432 · Am 2000 · B 4322
-
-```text
-Em
-Te uită cum ninge Decembre,
-Am
-Spre geamuri, iubito, privește
-                    B
-Mai spune s-aducă jăratec
-                       Em
-Și focul s-aud cum trosnește.
-Em
-Și mână fotoliul spre sobă,
-Am
-La horn să ascult vijelia,
-                    B
-Sau zilele mele tot una
-                      Em
-Aș vrea să le-nvăț simfonia.
-Em
-Mai spune s-aducă și ceaiul,
-Am
-Și vino și tu mai aproape
-                      B
-Citește-mi ceva de la poluri,
-                      Em
-Și ningă... zăpada ne-ngroape.
-Em
-Ce cald e aicea la tine
-Am
-Și toate din casă mi-s sfinte
-                    B
-Te uită cum ninge Decembre...
-                   Em
-Nu râde... citește-nainte.
-Em
-E ziuă și ce întuneric...
-Am
-Mai spune s-aducă și lampa
-                      B
-Te uită, zăpada-i cât gardul,
-                         Em
-Și a prins promoroacă și clampa.
-Em
-Eu nu mă mai duc azi acasă
-Am
-Potop e-napoi și-nainte,
-                    B
-Te uită cum ninge Decembre...
-                    Em
-Nu râde ... citește-nainte.
-```
-
-#### 654. Deck the Halls
-
-Sursa: Colinde Karban, p. 54
-
-**Chitară:** D xx0232 · Bm x24432 · A x02220 · E 022100 · G 320003
-
-**Ukulele:** D 2220 · Bm 4222 · A 2100 · E 4442 · G 0232
-
-```text
-D                   Bm
-Deck the halls with boughs of holly,
-A           D      D  A  D
-Fa la la la la, la la la la
-D              Bm
-Tis the season to be jolly,
-A           D      D  A  D
-Fa la la la la, la la la la
-A              D
-Don we now our gay apparel,
-D        Bm        E     A
-Fa la la la la la, la la la
-D                 Bm
-Troll the ancient Yuletide carol,
-G           D      D  A  D
-Fa la la la la, la la la la
-D               Bm
-See the blazing Yule before us,
-A           D      D  A  D
-Fa la la la la, la la la la
-D                   Bm
-Strike the harp and join the chorus,
-A           D      D  A  D
-Fa la la la la, la la la la
-A            D
-Follow me in merry measure,
-D        Bm        E     A
-Fa la la la la la, la la la
-D                Bm
-While I tell the Yuletide treasure,
-G           D      D  A  D
-Fa la la la la, la la la la
-D             Bm
-Fast away the old year passes,
-A           D      D  A  D
-Fa la la la la, la la la la
-D                Bm
-Hail the new, ye lads and lasses,
-A           D      D  A  D
-Fa la la la la, la la la la
-A              D
-Sing we joyous all together,
-D        Bm        E     A
-Fa la la la la la, la la la
-D               Bm
-Heedless of the wind and weather,
-G           D      D  A  D
-Fa la la la la, la la la la
-Note:“Deck the Halls” este un cântec vechi galez.
-După cum reiese de aici de sărbători se împodobește casa, se îmbracă haine în culori vii și se cântă cântece vesele ca
-acesta.
-Măsura este 4/4. Ca și acompaniament se poate folosi modelul:
-E                    2     2                2     2
-B                    3     3                3     3
-G         2         2     2     2         2     2
-D         0         0     0     0         0     0
-A         0                      0
-E
-|          | _ _ |      |          | _ _ |
-Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzilor de sus în jos. Celelalte bătăi sunt de jos în sus.
-```
-
-#### 655. Deschide nană ușile
+#### 648. Deschide nană ușile
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 29
 
@@ -31186,7 +30852,7 @@ A         5     5     5         5     5     5
 E         3     3     3         3     3     3
 ```
 
-#### 656. Deschide ușa, creștine (I)
+#### 649. Deschide ușa, creștine (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 114 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/narcisa-suciu/deschide-usa-crestine-920)
 
@@ -31241,7 +30907,7 @@ Care cu puterea sa
 Va împărăți în veac!
 ```
 
-#### 657. Deschide ușa, creștine (II)
+#### 650. Deschide ușa, creștine (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 30
 
@@ -31298,7 +30964,7 @@ E         3     3     3     3
 Semnele “ ” reprezintă lovirea corzilor de sus în jos. Bătăile de jos în sus se accentuează.
 ```
 
-#### 658. Ding ding, ding (Colind horror)
+#### 651. Ding ding, ding (Colind horror)
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 111
 
@@ -31339,7 +31005,7 @@ G                                              C
 Exemplificată aici pentru G, C și D. (De altfel cred că aceasta este și ciupitura folosită de Ada)
 ```
 
-#### 659. Drumul magilor
+#### 652. Drumul magilor
 
 **Mircea Baniciu** · Sursa: Colinde Karban, p. 100
 
@@ -31410,100 +31076,7 @@ E
 |          | _ _ |      | _ _ |      | _ _ |
 ```
 
-#### 660. Entre le boeuf et l’âne gris
-
-muzica/versuri: tradițional · Sursa: Colinde Karban, p. 76
-
-**Chitară:** Em 022000 · D xx0232 · G 320003 · Bm x24432 · Am x02210
-
-**Ukulele:** Em 0432 · D 2220 · G 0232 · Bm 4222 · Am 2000
-
-```text
-Em       Em       D     G
-Entre le boeuf et l’âne gris,
-Bm    G     D             G
-Dort, dort, dort le petit fils;
-Bm            Em    Am        Em
-Mille anges divins, mille séraphins
-           Am         D        Em
-Volent alentour de ce Dieu d’amour.
-Em        Em   D        G
-Entre les deux bras de Marie
-Bm    G     D             G
-Dort, dort, dort le petit fils;
-Bm            Em    Am        Em
-Mille anges divins, mille séraphins
-           Am         D        Em
-Volent alentour de ce Dieu d’amour.
-Em        Em       D   G
-Entre les roses et les lys,
-Bm    G     D             G
-Dort, dort, dort le petit fils;
-Bm            Em    Am        Em
-Mille anges divins, mille séraphins
-           Am         D        Em
-Volent alentour de ce Dieu d’amour.
-Em        Em    D       G
-Entre les pastoureaux jolis,
-Bm    G     D             G
-Dort, dort, dort le petit fils;
-Bm            Em    Am        Em
-Mille anges divins, mille séraphins
-           Am         D        Em
-Volent alentour de ce Dieu d’amour.
-Note:Măsura este 4/4
-```
-
-#### 661. Feliz Navidad
-
-**José Feliciano** · Sursa: Colinde Karban, p. 90
-
-**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432 · E 022100
-
-**Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222 · E 4442
-
-```text
-José Feliciano - 1970
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
-Intro: D G A7 D D G A7 D
-Refren:
-D         Em  A         D
-Feliz Navidad feliz Navidad
-          G            A           D
-Feliz Navidad prospero Ano y Felicidad.
-          Em  A         D
-Feliz Navidad feliz Navidad
-          G            A           D
-Feliz Navidad prospero Ano y Felicidad.
-                   G
-I wanna wish you a Merry Christmas
-A                  D
-I wanna wish you a Merry Christmas
-Bm                 G
-I wanna wish you a Merry Christmas
-         A            D
-From the bottom of my heart.
-                   G
-I wanna wish you a Merry Christmas
-A                  D
-I wanna wish you a Merry Christmas
-Bm                 G
-I wanna wish you a Merry Christmas
-         A            D
-From the bottom of my heart.
-Note: Măsura cântecului este 4/4. Fiecare acord se cântă câte o măsură. Ca și bătaie se poate folosi modelul:
-E         2         2     2     3     2     2     2
-B         3         3     3     3     3     3     3
-G         2         2     2     2     2     2     2
-D         0         0     0     0     0     0     0
-A         0         0     0     0     0     0     0
-E
-|          | _ _ |      | _ _ |      | _ _ |
-Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte batai sunt de jos în sus.
-Ca și variațiune în măsurile cu Em se poate folosi în a doua jumătate a măsuri Em7
-```
-
-#### 662. Ferice-i ferice
+#### 653. Ferice-i ferice
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 31
 
@@ -31569,7 +31142,7 @@ A         3         3         3
 E         1         1         1
 ```
 
-#### 663. Flori de măr (I)
+#### 654. Flori de măr (I)
 
 **Ștefan Hrușcă** · Sursa: Cărticica Karban, p. 87
 
@@ -31604,7 +31177,7 @@ Să trăiască cine-as[D]cultă, să trăiască cine-as[G]cultă
 Cine-ascultă să tră[D]ia, cine-ascultă să tră[G]ia.
 ```
 
-#### 664. Flori de măr (II)
+#### 655. Flori de măr (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 32
 
@@ -31660,7 +31233,7 @@ E         3
 G
 ```
 
-#### 665. Florile dalbe (I)
+#### 656. Florile dalbe (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 116 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/florile-dalbe-11616)
 
@@ -31697,7 +31270,7 @@ Când cuptorul a tomnit ,florile dalbe
 Anul nou a și venit, florile, florile dalbe.
 ```
 
-#### 666. Florile dalbe (II)
+#### 657. Florile dalbe (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 33 · Cărticica Karban, p. 78
 
@@ -31766,178 +31339,7 @@ E         0                         0
 Em
 ```
 
-#### 667. Frosty The Snowman
-
-muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 55
-
-**Chitară:** C x32010 · F 133211 · G 320003 · Em 022000 · Dm xx0231 · E 022100 · Am x02210 · D xx0232
-
-**Ukulele:** C 0003 · F 2010 · G 0232 · Em 0432 · Dm 2210 · E 4442 · Am 2000 · D 2220
-
-```text
-C          C              F           C
-Frosty the Snow Man was a jolly happy soul
-       F                   C                   G                C
-With a corn-cob pipe and a button nose and two eyes made out of coal.
-C          C             F               C
-Frosty the Snow Man is a fairy tale they say
-       F       F dim        C        Am          F       G        C
-He was made of snow but the children know how he came to life one day.
-Refren:
-      F                   Em            Dm       G        C
-There must have been some magic in that old silk hat they found,
-    G                E                Am     D      G
-For when they put it on his head he began to dance around.
-    C          C              F               C
-Oh, Frosty the Snow Man was alive as he could be,
-        F        F dim        C         Am            F       G       C
-And the children say he could laugh and play just the same as you and me.
-C          C                 F                C
-Frosty the Snow Man knew the sun was hot that day,
-      F                    C                    G            C
-So he said, “Let’s run and we’ll have fun now before I melt away.”
-C           C              F                 C
-Down to the village with a broomstick in his hand,
-        F        F  dim    C          Am              F        G      C
-Running here and there all around the square, saying “Catch me if you can.”
-   F                 Em              Dm           G       C
-He led them down the streets of town right to the traffic cop,
-       G             E              Am        D        G
-And he only paused a moment when he heard him holler, “Stop!”
-C          C               F            C
-Frosty the Snow Man had to hurry on his way,
-       F          F dim         C         Am           F     G         C
-But he waved good-bye, saying, “Don’t you cry; I’ll be back again some day.”
-Refren
-C                                                          G
-Thumpety thump thump, thumpety thump thump, look at Frosty go.
-                                                              C
-Thumpety thump thump, thumpety thump thump, over the hills of snow.
-Note:Măsura este 4/4. Merge un ritm brushing cu bass alternativ după cum urmează:
-E                    0     0                0     0
-B                    1     1                1     1
-G                    0     0                0     0
-D                    2     2                2     2
-A         3
-E                                 3
-|          | _ _ |      |          | _ _ |
-Exemplificat aici pentru C. Atenție la trecerile de la F ls F dim, C Am, Dm G7 și Am D se fac într-o măsură.
-```
-
-#### 668. Go Tell It On The Mountain
-
-Sursa: Colinde Karban, p. 56
-
-**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
-
-**Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
-
-```text
-Refren:                                                            D
-While shepherds kept their watch
-D
-Go tell it on the mountain                                                  G                 D
-O’er silent flocks by night
-A                  D
-Over the hills and everywhere                                      Behold throughout the heavens
-Go tell it on the mountain                                                    G               D
-     A               D                                                 There   shown    a holy  light
-That Jesus Christ is born
-D                                                                     D
-Down in a lonely manger                                               Down in a lonely manger
-    G                 D                                                 G                 D
-The humble Christ was born                                          The humble Christ was born
-And God sent salvation                                                 And God sent salvation
-     G                 D                                                 G                 D
-That blessed Christmas morn                                         That blessed Christmas morn
-Note:Refrenul se repetă după fiecare strofă.
-Cântecul este un gospel foarte cunoscut pe care eu îl știam de fapt în forma:
-“Go tell it on the mountain/And let my people go” (deci o temă din Vechiul Testament).
-Interpretări cunoscute sunt cea a lui Simon and Garfunkel și cea a lui Garth Brooks.
-Măsura este 4/4. Ca și model de acompaniament propun modelul pop-strum:
-E         2         2     2            2     2     2
-B         3         3     3            3     3     3
-G         2         2     2            2     2     2
-D         0         0     0            0     0     0
-A         0         0     0            0     0     0
-E
-|          | _ _ |          _ |      | _ _ |
-Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
-Aici niște versuri suplimentare de fapt o altă variantă a cântecului.
-D                                                                  D
-The shepherds all were watching                                    He brought with Him forgiveness
-     G               D                                                     G                   D
-Over their sheep at night                                               He live to show us the way
-When a guiding star shone from heaven                            He came to redeem all creation
-        G                  D                                                G                    D
-And the followed that holy light                                        And to wash all our sins away
-D
-They found a lovely manger
-      G                     D
-Where the humble Christ was born
-And God sent out salvation
-   G                      D
-On that blessed Christmas morn
-```
-
-#### 669. Here Comes Santa Claus
-
-Sursa: Colinde Karban, p. 57
-
-**Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Am x02210 · Em 022000
-
-**Ukulele:** G 0232 · D 2220 · C 0003 · Bm 4222 · Am 2000 · Em 0432
-
-```text
-Gene Autry, O. Haldeman 1947
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
-G
-Here comes Santa Claus,
-G
-Here comes Santa Claus,
-G                      D
-Right down Santa Claus Lane.
-D
-Vixen and Blitzen and all his reindeer
-    D              G
-are pulling on the rein.
-C                  Bm
-Bells are ringing, children singing;
-Am               Em
-All is merry and bright.
-C                       Bm
-Hang your stockings and say your prayers,
-       Am                  G
-’Cause Santa Claus comes tonight.
-G
-Here comes Santa Claus,
-G
-Here comes Santa Claus,
-G                      D
-Right down Santa Claus Lane.
-D
-He’s got a bag that is filled with toys
-        D              G
-for the boys and girls again.
-C                 Bm
-Hear those sleigh bells jingle jangle,
-Am               Em
-What a beautiful sight.
-C                  Bm
-Jump in bed, cover up your head,
-Am                         G
-’Cause Santa Claus comes tonight.
-Note:Măsura este 4/4 și merge un ritm pop-strum de forma:
-E         3         3     3            3     3     3
-B         3         3     3            3     3     3
-G         0         0     0            0     0     0
-D         0         0     0            0     0     0
-A         2         2     2            2     2     2
-E         3         3     3            3     3     3
-|          | _ _ |          _ |      | _ _ |
-```
-
-#### 670. Iarăși flori dalbe
+#### 658. Iarăși flori dalbe
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 34
 
@@ -32002,207 +31404,7 @@ E         3         3         3
 | _ _ _ _ |          |
 ```
 
-#### 671. Ihr Kinderlein kommet
-
-muzica/versuri: J.A.P. Schulz/C. von Schmidt · Sursa: Colinde Karban, p. 84
-
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · E 022100
-
-**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · E 4442
-
-```text
-    C          C         G           C
-Ihr Kinderlein kommet, o kommet doch all,
-    C          C         G          C
-Zur Krippe her kommet in Bethlehems Stall.
-    G            G          C        F
-Und seht, was in dieser hochheiligen Nacht
-    C        Am         G          C
-Der Vater im Himmel für Freude uns macht.
-  C           C         G           C
-O seht in der Krippe im nächtlichen Stall,
-     C            C           G          C
-Seht hier bei des Lichtes hellglänzendem Strahl
-    G          G           C          F
-Den lieblichen Knaben, das himmlische Kind,
-     C           Am          G        C
-Viel schöner und holder, als Engelein sind!
-   C             C             G           C
-Da liegt es, das Kindlein, auf Heu und auf Stroh,
-  C         C      G           C
-Maria und Joseph betrachten es froh.
-    G         G            C        F
-Die redlichen Hirten knien betend davor,
-     C            Am          G        C
-Hoch oben schwebt jubelnd der Engelein Chor.
-  C              C         G          C
-O beugt, wie die Hirten, anbetend die Knie,
-  C         C            G          C
-Erhebet die Händlein und danket wie sie.
-       G            G           C                F
-Stimmt freudig, ihr Kinder, wer sollt sich nicht freu’n?
-       C           Am        G         C
-Stimmt freudig zum Jubel der Engel mit ein!
-    C         C           G            C
-Was geben wir Kinder, was schenken wir dir,
-   C          C            G         C
-Du bestes und liebstes der Kinder, dafür?
-       G             G            C            F
-Nichts willst du von Schätzen und Reichtum der Welt,
-    C             Am       G         C
-Ein Herz nur voll Demut allein dir gefällt.
-Note:Măsura este 4/4 și merge un ritm de forma:
-E         0         0     0     0         0     0
-B         1         1     1     1         1     1
-G         0         0     0     0         0     0
-D         2         2     2     2         2     2
-A         3         3     3     3         3     3
-E
-|          | _ _ |      |          | _ _ |
-```
-
-#### 672. În întâmpinarea Crăciunului
-
-**Tatiana Stepa** · muzica/versuri: Tatiana Stepa/Adrian Păunescu · Sursa: Colinde Karban, p. 107
-
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010 · F 133211
-
-**Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003 · F 2010
-
-```text
-Am                    Dm
-Săracă și tristă mi-i viața
-E                  Am
-Și viscolul plânge pe dig,
-G                       C
-Nu-i nici o speranță în lume
-G                    C     E
-Și-n case e foame și frig.
-Dm                    Am
-Și totuși vom ține Crăciunul
-G                         C
-De-ar fi să-l plătim cu dobânzi,
-Dm                    Am
-Și tot o să-ntindem o masă
-F                   E
-Copiilor noștrii flămânzi.
-Refren:
-Dm  Am     G       C
-Fie timpul rău sau bun,
-Dm      Am        E      Am
-Va veni și la noi Moș Crăciun
-Dm  Am     G       C
-Fie timpul rău sau bun,
-Dm      Am        E      Am
-Va veni și la noi Moș Crăciun
-Note:Măsura este 4/4 și recomand următoarea ciupitură:
-E                             0
-B                      1            1
-G               2                         2            2
-D                                                2
-A         0
-E
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-Am
-```
-
-#### 673. Jingle Bells (I)
-
-Sursa: Caiet cabană EN, p. 44
-
-**Chitară:** D xx0232 · A x02220 · D7 xx0212 · G 320003 · Em 022000 · E 022100
-
-**Ukulele:** D 2220 · A 2100 · D7 2223 · G 0232 · Em 0432 · E 4442
-
-```text
-1.
-D          A         D7            G
-Dashing through the snow, in an one-horse open sleigh
-     Em           A                  D
-O'er the hills we go, laughing all the way
-Bells on bob-tail ring, making spirits bright
-What fun it is to ride and sing a sleighing song tonight.
-
-R:
-    D                                  D7
-Oh, Jingle bells, jingle bells, jingle all the way
-      G            D        E             A
-Oh, what fun it is to ride in a one-horse open sleigh.
-2.
-A day or two ago I thought I’d take a ride,
-And soon Miss Fannie Bringht was sitted by my side
-The horse was lean and lank missfortune seemed its lot;
-He got into a drifted bank and we, we got upset.
-
-3.
-Now the ground is white go it while you’re young,
-Take the girls tonight and sing this sleighing song,
-Just get a bob-tail bay two forty four is speed
-Then hitch him to an open sleigh and crack! You’ll take the lead.
-```
-
-#### 674. Jingle Bells (II)
-
-Sursa: Colinde Karban, p. 58
-
-**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
-
-**Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
-
-```text
-G                                             C
-Dashing through the snow, in a one-horse open sleigh,
-                   D                    G
-O’er the fields we go, laughing all the way,
-G                                      C
-Bells on bobtails ring, making spirits bright,
-                  D                                G
-What fun it is to ride and sing a sleighing song tonight, oh
-Refren:
-G                                          G
-Jingle bells, jingle bells, jingle all the way,
-C              G               A              D       D
-Oh what fun it is to ride in a one-horse open sleigh, hey,
-G                                          G
-Jingle bells, jingle bells, jingle all the way,
-C              G               D              G
-Oh what fun it is to ride in a one-horse open sleigh.
-G                                      C
-A day or two ago, I thought I’d take a ride,
-                    D                       G
-And soon Miss Fanny Bright was seated by my side;
-G                                                  C
-The horse was lean and lank; misfortune seemed his lot;
-              D                            G
-He got into a drifted bank, and we, we got upsot.
-G                                  C
-A day or two ago, the story I must tell
-                  D                     G
-I went out on the snow and on my back I fell;
-G                                        C
-A gent was riding by in a one-horse open sleigh,
-                      D                                G
-He laughed as there I sprawling lie, but quickly drove away.
-G                                          C
-Now the ground is white go it while you’re young,
-                 D                             G
-Take the girls tonight and sing this sleighing song;
-G                                          C
-Just get a bob-tailed bay two-forty as his speed
-                D                                      G
-Hitch him to an open sleigh and crack! you’ll take the lead.
-Note:La origine un cântec popular englez. Mai cunoscute sunt primele două strofe.
-Măsura este 4/4. Ca și acompaniament propun o tehnică brushing după cum urmează:
-E                3            3
-B                0            0
-G               0            0
-D               0            0
-A
-E         3            3
-|      |      |      |
-```
-
-#### 675. Junelu-i tinerelu
+#### 659. Junelu-i tinerelu
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 35
 
@@ -32268,52 +31470,7 @@ E         1     1     1         3            1                  1     1     1   
 F                      C           F                                          B
 ```
 
-#### 676. Kling, Glöckchen, klingelingeling
-
-Sursa: Colinde Karban, p. 85
-
-**Chitară:** C x32010 · G 320003 · D xx0232 · E 022100
-
-**Ukulele:** C 0003 · G 0232 · D 2220 · E 4442
-
-```text
-C                                  G                 C
-Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
-G         C        C  G    G                  C
-Laßt mich ein, ihr Kinder, ist so kalt der Winter,
-D              G      C         G           G
-öffnet mir die Türen, laßt mich nicht erfrieren!
-C                                  G                 C
-Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
-C                                  G                 C
-Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
-G        C         C  G     G                     C
-Mädchen, hört, und Bübchen, macht mir auf das Stübchen,
-D                  G    C          G        G
-bring euch viele Gaben, sollt euch dran erlaben!
-C                                  G                 C
-Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
-C                                  G                 C
-Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
-G       C        C  G    G                 C
-Hell erglühn die Kerzen, öffnet mir die Herzen,
-D                    G     C             G     G
-will drin wohnen fröhlich, frommes Kind, wie selig.
-C                                  G                 C
-Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
-Note:Melodia este aceea a unui cântec vechi popular. Versurile provin de pe la 1800.
-Măsura este 4/4. Ca și acompaniament se poate folosi modelul:
-E                    0     0                0     0
-B         1         1     1     1         1     1
-G         0         0     0     0         0     0
-D         2         2     2     2         2     2
-A         3                      3
-E
-|          | _ _ |      |          | _ _ |
-Exemplificat aici pentru C. Semnele “ ” reprezintă lovirea corzilor de sus în jos. Celelalte bătăi sunt de jos în sus.
-```
-
-#### 677. La tătă casa-i lumină
+#### 660. La tătă casa-i lumină
 
 **Ducu Hotima** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 16
 
@@ -32369,7 +31526,7 @@ G                                              G                    Am
 Am arătat mai sus si trecerile din versurile 2 și 3 ale fiecărei strofe de la G la Am și invers.
 ```
 
-#### 678. La Viflaim, la Viflaim
+#### 661. La Viflaim, la Viflaim
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 36
 
@@ -32421,7 +31578,2931 @@ E
 A
 ```
 
-#### 679. Last Christmas
+#### 662. Linu-i lin
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 37 · Cărticica Karban, p. 88
+
+**Chitară:** G 320003 · C x32010 · D xx0232
+
+**Ukulele:** G 0232 · C 0003 · D 2220
+
+```text
+Refren:
+G                    C
+Linu-i lin și iară-i lin
+               G
+Bate vântu câtilin,
+       D          G
+Frunză verde de mălin.
+G                    C
+Linu-i lin și iară-i lin
+               G
+Bate vântu câtilin,
+       D          G
+Frunză verde de mălin.
+G             C     D
+Sculați gazde nu dormiți
+G             C     D
+Că nu-i vreme de dormit
+G              C  D
+Că-i vremea de să scula
+G         C  D
+Casăle le așeza.
+G         C      D
+Pe la ușă cu brândușă
+G             C        D
+La ferești cu flori domnești.
+G          C        D
+Și colinda nu-i mai multă
+G          C      D
+Să trăia cine-o ascultă.
+```
+
+#### 663. Mă luai luai
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 38
+
+**Chitară:** Em 022000 · Am x02210 · B x24442 · D xx0232 · A x02220
+
+**Ukulele:** Em 0432 · Am 2000 · B 4322 · D 2220 · A 2100
+
+```text
+Intro Em Em
+   Em    Am
+Mă luai, luai
+   Em    B
+Mă luai, luai
+       Am     Em
+Pă din sus de râu
+     B       Em     Em     Em
+Cu secerea-n brâu.
+      Em    Am
+Maica îmi venea
+      Em    B
+Maica îmi venea
+   Am  Em
+Se apropia
+   B   Em    Em     Em
+Se apropia.
+      Em   Am
+Și mă întreba
+      Em   B
+Și mă întreba
+      Am    Em
+Gătat-ai holda?
+      B     Em    Em     Em
+Gătat-ai holda?
+      Em     Am
+Holda n-am gătat
+      Em     B
+Holda n-am gătat
+       Am Em
+Că s-o arătat
+       B  Em   Em     Em
+Că s-o arătat
+Note: Măsura este 3/4 și ciupitura:
+E                                   0
+B                      0                  0
+G               0            0
+D
+A
+E         0
+```
+
+#### 664. Măruț mărgăritar
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 39
+
+**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
+
+**Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
+
+```text
+G             C        G        C
+Noi umblăm să colindăm măruț mărgăritar
+G             C    D
+Noi umblăm să colindăm
+G              C           G        C
+Pe la curți de boieri mari măruț mărgăritar
+G              C      D
+Pe la curți de boieri mari
+G           C          G        C
+Da’ boierii nu-s acasă măruț mărgăritar
+G          C      D
+Da boierii nu-s acasă
+G               C         G        C
+Că-s plecați la vânătoare măruț mărgăritar
+G         C    D
+Să vâneze căprioare
+G         C         G        C
+Căprioare n-o aflat măruț mărgăritar
+G         C    D
+Căprioare n-o aflat
+G               C       G        C
+Numai un pui de iepuraș măruț mărgăritar
+G               C   D
+Numai un pui de iepuraș
+G                C       G        C
+Tinsă pușca să-l împuște măruț mărgăritar
+G          C    D
+Și săgeată să săgete
+G                   C       G        C
+Hop, hop, hop nu mă țântire măruț mărgăritar
+G             C     D
+Că io nu-s ce par a fire
+Note:În original probabil din F. Măsura este 4/4. Ca acompaniament propun urmatoarea ciupitură:
+E         3         3                    0
+B         0         0                    3
+G         0                    0
+D
+A
+E         3
+|          |          |          |
+```
+
+#### 665. Noapte de vis
+
+muzica/versuri: Franz X. Gruber/Joseph Mohr/traduse · Sursa: Colinde Karban, p. 10
+
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
+
+**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
+
+```text
+G         G    G        G
+Noapte de vis, timp preasfânt,
+D     D    G    G
+Toate dorm pe pământ;
+C      C   G      G
+Doar două inimi veghează,
+C       C     G G
+Pruncul dulce visează
+G       D         G Em
+Într-un leagăn de cânt.
+G       D         G     G
+Într-un leagăn de cânt.
+G         G    G        G
+Noapte de vis, timp preasfânt,
+D    D   G    G
+Dumnezeu râde blând;
+C        C     G G
+Pieptu-i varsă iubire,
+C     C  G    G
+Lumii dă mântuire
+G      D   G Em
+Pace-n ea aducând.
+G      D   G G
+Pace-n ea aducând.
+G         G    G        G
+Noapte de vis, timp preasfânt,
+D    D    G      G
+Păstorași vin cântând;
+C       C     G    G
+Îngerii cântă Aleluia,
+C       C    G   G
+Nouă vestind bucuria,
+G      D    G Em
+Domnul e pe pământ.
+G      D    G G
+Domnul e pe pământ.
+Note:O altă variantă de la Stille Nacht cel mai frumos cântec de Crăciun.
+Măsura este 3/4.Merge o bătaie sau ciupitură de forma:
+E                3     3            3     3
+B                3     3            3     3
+G               0     0            0     0
+D
+A
+E         3                  3
+| _ _ |      | _ _ |      | _ _ |
+Note:Măsura este 3/4
+```
+
+#### 666. Noapte sfântă (I)
+
+**Tradițional** · Sursa: Cărticica Karban, p. 219
+
+**Chitară:** C x32010 · G7 320001 · F 133211 · G 320003 · Am x02210
+
+**Ukulele:** C 0003 · G7 0212 · F 2010 · G 0232 · Am 2000
+
+```text
+[C]Noapte sfântă, fericită,
+[G7]Lumea-i [C]liniștită.
+[F]Numai fecioara [C]mai veghează
+[F]Și sus bolta se [C]înstelează.
+[G]Maica [G7]sfântă îi [C]cântă [Am]lin,
+[C]Pe fiul [G]sau adorm[C]ind.
+[G]Maica [G7]sfântă îi [C]cântă [Am]lin,
+[C]Pe fiul [G]sau adorm[C]ind.
+[C]Noapte sfântă, fericită,
+[G7]Păstori, magi la [C]drum plecară,
+[F]Îl găsiră în [C]iesle culcat,
+[F]Pe Mesia mult [C]așteptat.
+[G]Heru[G7]vimi cântă [C]lui [Am]Isus:
+[C]"Mărite-ntru [G]cele de [C]sus!"
+[G]Heru[G7]vimi cântă [C]lui [Am]Isus:
+[C]"Mărite-ntru [G]cele de [C]sus!"
+```
+
+#### 667. Noapte sfântă (II)
+
+muzica/versuri: Franz Xaver Gruber/Joseph Mohr · Sursa: Colinde Karban, p. 11
+
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
+
+**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
+
+```text
+în original “Stille Nacht”
+- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
+C              C
+Noapte sfântă, fericită,
+G       C
+Lumea-i liniștită.
+F              C
+Numai fecioara mai veghează
+F               C
+Și sus bolta se înstelează.
+G     G         C     Am
+Maica sfântă îi cântă lin,
+C       G        C
+Pe fiul său adormind.
+G     G         C     Am
+Maica sfântă îi cântă lin,
+C       G        C
+Pe fiul său adormind.
+C              C
+Noapte sfântă, fericită,
+G                C
+Păstori, magi la drum plecară,
+F            C
+Îl găsiră în iesle culcat,
+F             C
+Pe Mesia mult așteptat.
+G   G          C   Am
+Heruvimi cântă lui Isus:
+C            G       C
+“Mărite-ntru cele de sus!”
+G   G          C   Am
+Heruvimi cântă lui Isus:
+C            G       C
+“Mărite-ntru cele de sus!”
+```
+
+#### 668. O, ce veste minunată (2)
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 41
+
+**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
+
+**Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
+
+```text
+C               F G
+O, ce veste minunată
+   C             F G
+În Viflaim ni s-arată!
+C           F
+Că a născut prunc,
+C               F
+Prunc din Duhul Sfânt.
+G          F C
+Fecioara Maria;
+(Variantă la prima strofă:
+C              F G
+O ce veste minunată
+C                F G
+În Vifleem ni s-arată!
+C           F
+Cerul strălucea,
+C         F
+Îngerul venea
+G           F C
+Pe-o rază curată.)
+E                               0
+B                               1
+G                    0                    0
+D
+A         3
+E
+|          |          |          |
+```
+
+#### 669. O, ce veste minunată! (1)
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 40
+
+**Chitară:** E 022100 · B x24442 · A x02220
+
+**Ukulele:** E 4442 · B 4322 · A 2100
+
+```text
+E             B
+O ce veste minunată
+E               B
+În Viflaim se arată
+E     A    E
+Cerul strălucea
+         C m
+Îngerii veneau
+B          E
+Pe-o rază curată
+E                B
+Mergând Iosif cu Maria
+E                B
+În Viflaim să se-nscrie
+E       A   E
+Într-un mic sălaș
+          C m
+Lâng-acel oraș
+B          E
+S-a născut Messia
+E               B
+Vrut au să călătorească
+E                B
+Ora i-a sosit să nască
+E     A       E
+Pe al său fiu sfânt
+         C m
+Nouă pe pământ
+B         E
+Să ne mântuiască
+E                B
+E Iisus păstorul mare
+E             B
+Turmă ca el nimeni n-are
+E      A  E
+Noi îl lăudăm
+           C m
+Și ne închinăm
+B           E
+Cu credință tare.
+Note:Ultimele 3 versuri din fiecare strofă se repetă mereu.
+Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest cântec.
+```
+
+#### 670. Ostașii luminii colindă (I)
+
+**Doi și Jumătate** · Sursa: Caiet cabană RO, p. 116
+
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000
+
+**Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432
+
+```text
+1.
+Am              G          Dm        Am
+Larg deschideți poarta sufletelor noastre
+   C               Em       Dm         Am
+N-am venit să cerem, ci-am venit să dăm.
+
+R:
+G   C            G       Dm         Am
+Dalbe și iar dalbe flori adevărate
+      C           Em     Dm          Am            G
+Ca și vestea bună ce v-o colindăm
+Dalbe și iar dalbe flori adevărate
+Dalbe și iar dalbe florile de măr.
+2.
+Dincolo de munții vieții și-ai himerei
+Le-am cules azi noapte florile de măr
+Le-am cules din munții unde veșnic merii
+Roditori de aur sunt într-adevăr.
+
+3.
+Florile pe care le-am cules azi noapte
+Vor rodi în brazda sufletelor toate
+Merele de aur, merele visate
+De colindătorii veacurilor toate.
+```
+
+#### 671. Ostașii luminii colindă (II)
+
+**Doi și Jumătate** · muzica/versuri: Doi și Jumătate/Elena Farago · Sursa: Colinde Karban, p. 92
+
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000 · D xx0232 · E 022100
+
+**Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432 · D 2220 · E 4442
+
+```text
+Am              G
+Larg deschideți poarta
+Dm         Am
+Sufletelor toate
+C             Em
+N-am venit să cerem,
+Dm             Am
+Ci-am venit să dăm.
+Am              G
+Larg deschideți poarta
+Dm         Am
+Sufletelor toate
+C             Em
+N-am venit să cerem,
+Dm             Am
+Ci-am venit să dăm.
+Refren:
+G     C      G
+Dalbe și iar dalbe
+Dm     Dm  Am
+Flori adevărate
+C     Em     Am
+Ca și vestea bună
+Dm     Em   Am   Am
+Ce v-o colindăm
+G     C      G
+Dalbe și iar dalbe
+Dm     Dm  Am
+Flori adevărate
+C     Em     Am
+Dalbe și iar dalbe
+Dm   Em    Am   Am
+Florile de măr.
+E                0                  0                  0
+B                      1                  1
+G                            2                  2
+D
+A         0
+E
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+Exemplificat aici pentru Am. Iar la refren:
+E                3                         0
+B                      0                         1
+G                            0                         0
+D
+A                                   3
+E         3
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+G                        C
+Exemplificat aici pentru G urmat de C.
+```
+
+#### 672. Pe cununa munților
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 42
+
+**Chitară:** F 133211 · C x32010 · Bb x13331
+
+**Ukulele:** F 2010 · C 0003 · Bb 3211
+
+```text
+F            C     F
+Sus în Raiul sfinților
+F                Bb   C
+Oi linu-i lin și rujmalin
+F         C    F
+Pe cununa munților.
+F            C    F
+Este-o dalbă mânăstire
+F                Bb   C
+Oi linu-i lin și rujmalin
+F            C    F
+Cu scaun de odihnire.
+F        C    F
+Da acolo cine șede
+F                Bb   C
+Oi linu-i lin și rujmalin
+F        C    F
+Da acolo cine șede
+F          C     F
+Șede, șede Maica Sfântă
+F                Bb   C
+Oi linu-i lin și rujmalin
+F            C       F
+Nici nu râde nici nu cântă.
+F              C      F
+Cu-n pahar sfințit în mână
+F                Bb   C
+Oi linu-i lin și rujmalin
+F           C     F
+Tot închină și suspină.
+F
+Vine Fiul și-o întreabă
+F                Bb   C
+Oi linu-i lin și rujmalin
+F             C    F
+Ce suspini măicuță dragă?
+F           C     F
+Da eu cum n-oi suspina
+F                Bb   C
+Oi linu-i lin și rujmalin
+F               C       F
+Când văd cât de rea-i lumea.
+E         1         1         1         1
+B         1         1         1         1
+G         2         2         2         2
+D         3         3         3         3
+A         3         3         3         3
+E         1         1         1         1
+|          |          |          |
+F
+Exemplificat pentru primul vers.
+```
+
+#### 673. Pe podele de nuiele
+
+**Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 13
+
+**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432 · E 022100
+
+**Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222 · E 4442
+
+```text
+Urarea se recită pe cadența:D D Bm G D A A.
+Casa în care am intrat
+E de binecuvântat
+După legea creștinească
+Numele să-și împlinească
+Și-ntre lumânări aprinse
+Mesele să-i fie-ntinse
+Și-ncărcate cu bucate.
+Să trăiți în sănătate
+Și-n unire și-n cinstire
+Că ne-ați dat adăpostire.
+D         D
+Pe podele de nuiele
+G           D        A   A
+Duc copii-n palme stele
+Bm         D
+Să le lase pe la case
+A         D         D   D
+Unde-s gazdele miloase
+D        D
+Și cu dragoste creștină
+G           D         A   A
+Duc copii-n pumni lumină
+Bm             D
+Drumu-i greu zăpada-i mare
+A         D      D   D
+Vin copii pe cărare
+D           D
+Să tot taie neaua-n două
+G           D      A   A
+Duc copii-n gene rouă
+Bm           D
+Și tot cântă din colinde
+A          D          D   D
+Până gerul nu i-o prinde
+Note: Măsura este 4/4. Sună foarte bine ciupitura:
+E         2                    2
+B         3                    3
+G                    2                    2
+D         0
+A
+E
+|          |          |          |
+```
+
+#### 674. Pe strada din Viflaim
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 43
+
+**Chitară:** E 022100 · A x02220 · B x24442
+
+**Ukulele:** E 4442 · A 2100 · B 4322
+
+```text
+E               E
+Pe strada din Viflaim
+  A        E
+Mere maica cu Iosîm
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E                E
+Când din Viflaim să iasă,
+   A           E
+Să opriră la o casă,
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E                E
+Lângă poart-un tânăr stă
+   A             E
+Și pe dânșii-i întrebă
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E                 E
+De unde veniți drumeți?
+   A             E
+Tocmai de la Nazaret
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E             E
+Fie-ți milă tânăr bun
+   A             E
+Și nu ne lăsa pe drum
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+Note:Măsura este 4/4. Merge o ciupitură de forma:
+E                             0
+B                                          0
+G               1                                      1
+D                      2                         2
+A
+E         0                         0
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+E
+În original armonia este ceva mai complexă.
+```
+
+#### 675. Pom înrămuratu
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 44
+
+**Chitară:** F 133211 · Bb x13331 · C x32010
+
+**Ukulele:** F 2010 · Bb 3211 · C 0003
+
+```text
+F               Bb
+Pom înrămuratu, pom înrămuratu,
+C            F     C            F
+De poame-ncărcatu, de poame-ncărcatu.
+F                   Bb
+Vântu-și trăgănară, vântu-și trăgănară,
+C         F        C      F
+Poamele picară, poamele picară.
+F                   Bb
+Prunci le culesară, prunci le culesară,
+C          F       C       F
+Și le primesară și le primesară.
+F              Bb
+La ușă de Rai, la ușă de Rai
+C          F        C       F
+La fete de crai, la fete de crai.
+F                      Bb
+Luna-n drum le-o stat, luna-n drum le-o stat,
+C           F          C           F
+Frumos i-o-ntrăbat, frumos i-o-ntrăbat:
+F                   Bb
+De unde le-adușeți, de unde le-adușeți,
+C         F          C        F
+Înapoi le dușeți, înapoi le dușeți.
+F                   Bb
+De la sfântu soare, de la sfântu soare,
+C          F         C      F
+C-o mare rugare, c-o mare rugare.
+F                     Bb
+În coate și-n gerute, în coate și-n gerute,
+C              F             C          F
+În cel vârf de munte, în cel vârf de munte.
+Note: Măsura este 4/4. Merge o bătaie de forma:
+E         1     1     1         1     1     1                1     1     1         1     1     1
+B         1     1     1         1     1     1                3     3     3         3     3     3
+G         2     2     2         2     2     2                3     3     3         3     3     3
+D         3     3     3         3     3     3                3     3     3         3     3     3
+A         3     3     3         3     3     3                1     1     1         1     1     1
+E         1     1     1         1     1     1                1     1     1         1     1     1
+| _ _ |      |          | _ _ |      |                 | _ _ |      |          | _ _ |      |
+```
+
+#### 676. Sus boieri nu mai dormiți
+
+**Maria Gheorghiu** · Sursa: Colinde Karban, p. 17
+
+**Chitară:** Em 022000 · D xx0232 · Bm x24432 · A x02220
+
+**Ukulele:** Em 0432 · D 2220 · Bm 4222 · A 2100
+
+```text
+Em    Em      D      Em
+Sus boieri nu mai dormiți
+D       D        Em    Em
+Florile dalbe de măr.
+Em Em    D       Em
+Vremea e să vă gătiți
+D       Bm       Em    Em
+Florile dalbe de măr.
+D    D       Em  Em
+Casa să vi-o măturați
+D       D        Em    Em
+Florile dalbe de măr.
+D    D       Em   Em
+Masa să vi-o încărcați
+D       Bm       Em    Em
+Florile dalbe de măr.
+Em     Em     D        Em
+Astăzi s-a născut Christos
+D       D        Em    Em
+Florile dalbe de măr.
+Em     Em      D   Em
+Domnul cel prealuminos
+D       Bm       Em    Em
+Florile dalbe de măr.
+D      D      Em        Em
+S-a născut un Domn prea bun
+D       D        Em    Em
+Florile dalbe de măr.
+D    D     Em     Em
+În lăcașul lui Crăciun
+D       Bm       Em    Em
+Florile dalbe de măr.
+Măsura este 4/4 și ciupitura de forma:
+E                             0                         0
+B                0                         0
+G                      0                         0
+D
+A
+E         0                         0
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+Em
+exemplificată pentru primul vers. În original e cu capo în poz. I
+```
+
+#### 677. Sus sus sus pe lângă lună
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 45
+
+**Chitară:** F 133211 · Bb x13331 · C x32010 · D xx0232 · A x02220
+
+**Ukulele:** F 2010 · Bb 3211 · C 0003 · D 2220 · A 2100
+
+```text
+Intro: F Bb F C F
+F                    Bb
+Sus sus sus pe lângă lună
+        F            C
+Sus sus sus pe lângă lună
+       Bb       F
+Mândru arde o lumină
+       C        F
+Mândru arde o lumină.
+F                 Bb
+Nici aceea nu-i lumină
+      F           C
+Nici aceea nu-i lumină
+        Bb       F
+Că-i un scaun de odihnă
+        C        F
+Că-i un scaun de odihnă.
+F                Bb
+Da pe scaun cine șede
+      F          C
+Da pe scaun cine șede
+     Bb          F
+Șede Maica Preacurată
+       C           F
+C-un fiuț micuț în brațe.
+F                 Bb
+Fiul zbiară și nu tace
+     F            C
+Fiul zbiară și nu tace
+     Bb            F
+Măicuța n-are ce-i face
+     C             F
+Măicuța n-are ce-i face.
+F                Bb
+Taci fiule nu zbiera
+     F           C
+Taci fiule nu zbiera
+     Bb          F
+Că mama ție ți-o da
+    C            F
+Că mama ție ți-o da.
+F               Bb
+Două mere, două pere
+     F         C
+Două mere,două pere
+      Bb             F
+Să te joci în Rai cu ele
+      C              F
+Să te joci în Rai cu ele.
+Note: Măsura este 4/4. Merge o ciupitură de forma:
+E                             1
+B                      1            1            1
+G               2                         2            2
+D
+A
+E         1
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+F
+```
+
+#### 678. Trei crai
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 46
+
+**Chitară:** Fm 133111 · Bbm x13321 · C x32010 · A x02220 · E 022100
+
+**Ukulele:** Fm 1013 · Bbm 3111 · C 0003 · A 2100 · E 4442
+
+```text
+Intro Fm Fm C C
+Fm        Bbm   Fm  Bbm
+Trei crai de la răsărit
+Bbm    Fm      Fm  C
+Cu steaua-au călătorit
+Fm         Bbm  Fm    Bbm
+Și-au mers după cum citim
+Bbm  Fm   C   Fm
+Până la Ierusalim.
+Fm    Bbm    Fm  Bbm
+Și-acolo dac-au ajuns
+Bbm    Fm       Fm  C
+Steaua lor li s-a ascuns,
+Fm    Bbm    Fm Bbm
+Și-ncepură a căuta
+Bbm   Fm   C      Fm
+Pe la case-a întreba.
+Fm      Bbm    Fm     Bbm
+N-ați văzut și n-ați aflat
+Bbm  Fm      Fm  C
+Unde pruncul împărat
+Fm   Bbm   Fm   Bbm
+Păstorul noroadelor
+Bbm   Fm    C    Fm
+Și stăpânul roadelor.
+Fm   Bbm    Fm     Bbm
+Care astăzi s-a născut
+Bbm    Fm       Fm   C
+Că noi steaua i-am văzut
+Fm      Bbm    Fm     Bbm
+Și-am venit să ne-nchinăm
+Bbm    Fm       C  Fm
+Pe Hristos să-L lăudăm.
+Note: Măsura este 3/4 iar ciupitura folosită este:
+E                                   1
+B                      1                  1
+G               1            1
+D         3
+A
+E
+La intro și între strofe se face:
+E                                   0h      1
+B                      1
+G               1            1
+D         3
+A                                                         3
+E
+```
+
+#### 679. Trei păstori
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 47
+
+**Chitară:** C x32010 · G 320003 · D xx0232
+
+**Ukulele:** C 0003 · G 0232 · D 2220
+
+```text
+C
+Trei păstori se întâlniră,
+        G            C
+Trei păstori se întâlniră,
+     G                 C
+Raza soarelui, floarea soarelui
+    G          C
+Și asă se sfătuiră.
+C
+Haideți fraților, să mergem,
+        G               C
+Haideți fraților, să mergem
+     G                 C
+Raza soarelui, floarea soarelui
+     G           C
+Floricele să culegem.
+C
+Și să facem o cunună,
+      G         C
+Și să facem o cunună
+     G                 C
+Raza soarelui, floarea soarelui
+        G           C
+S-o-mpletim cu voie bună.
+C
+Și s-o ducem lui Hristos,
+       G             C
+Și s-o ducem lui Hristos
+     G                 C
+Raza soarelui, floarea soarelui
+      G        C
+Să ne fie de folos.
+C
+Nouă și la neamul nost’
+     G            C
+Nouă și la neamul nost’
+     G                 C
+Raza soarelui, floarea soarelui
+      G             C
+De nașterea lui Cristos.
+Note:Măsura este 4/4. Se potrivește o ciupitură cu bass altenativ de forma:
+E                  0                0
+B                  1                1
+G             0       0       0       0
+D
+A         3
+E                          3
+| _ |    | _ |    | _ |    | _ |
+Exemplificat aici pentru C.
+```
+
+#### 680. Un creștin s-a-nvrednicit
+
+**Ducu Bertzi** · Sursa: Colinde Karban, p. 96
+
+**Chitară:** Dm xx0231 · A x02220 · E 022100
+
+**Ukulele:** Dm 2210 · A 2100 · E 4442
+
+```text
+Ducu Bertzi/Gheorghe Țărnea
+- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
+Intro A Gm Dm Gm Dm
+Dm             Dm
+Un creștin s-a-nvrednicit
+A          Dm
+După cât a fost muncit
+Dm            Dm
+Din strânsura sa frumoasă
+A            Dm
+Să ne-ntindă nouă masă.
+Dm              Dm
+Și-a dat tot în ăsta seară
+A            Dm
+De cerut n-a vrut să ceară
+Dm         Dm
+Fără numai o colindă
+A          Dm
+La colacul prins în grindă
+Dm           Dm
+La coconi și la mioare
+A              Dm
+Ține-l, Doamne drept sub soare
+Dm             Dm
+Ține-l bine și-n cinstire
+A           Dm
+Că ne-a dat adăpostire
+Dm             Dm
+Ține-l, Doamne încă minte
+A            Dm
+Pentru firea sa cuminte
+Dm              Dm
+Că pe toți ne-a prins în casă
+A            Dm
+Și a stat cu noi la masă
+Dm             Dm
+Și-a primit cu suflet bun
+A          Dm
+Vestitorii de Crăciun
+Dm           Dm
+În iubire și credință
+A           Dm
+Cu întreaga lui ființă
+Dm          Dm
+Cu întreaga lui avere
+A              Dm
+Ține-l, Doamne în putere.
+Dm             Dm
+Un creștin s-a-nvrednicit
+A          Dm
+După cât a fost muncit.
+Note:Măsura este 4/4 și merge o ciupitură ca mai jos:
+E         1                    1
+B         3                    3
+G         2                    2
+D                    0                    0
+A
+E
+|          |          |          |
+```
+
+#### 681. Veniți păstori în Viflaiem
+
+**Ducu Bertzi** · muzica/versuri: tradițional din Rona de Jos, Maramureș - cules de Vasile Marina · Sursa: Colinde Karban, p. 15
+
+**Chitară:** Dm xx0231 · D xx0232 · A x02220 · F 133211 · C x32010 · Gm 355333 · E 022100
+
+**Ukulele:** Dm 2210 · D 2220 · A 2100 · F 2010 · C 0003 · Gm 0231 · E 4442
+
+```text
+Intro F Gm Dm Gm Dm Gm A Dm
+Dm        D       Dm   A
+Veniți păstori în Viflaiem,
+F         C       F    Gm
+Veniți păstori în Viflaiem
+Dm  Gm        A    Dm
+Lui Isus să-i belșuim.
+Dm     Dm    Dm   A
+Care-a venit pe pământ,
+F      C     F    Gm
+Care-a venit pe pământ
+Dm      Gm      A     Dm
+S-a-ntrupat din Duhul Sfânt.
+Dm                  A
+Hai să merem până-n cale,
+F      C     F      Gm
+Hai să merem până-n cale
+Dm     Gm      A  Dm
+Lăsa-i turmele-n ocoale.
+Dm    Dm     Dm      A
+Ducem daruri miei și miele,
+F     C      F       Gm
+Ducem daruri miei și miele
+Dm     Gm     A   Dm
+Din turme mai tinerele.
+Dm    Dm    Dm      A
+Vezi Iroade ce-ai făcut,
+F     C     F       Gm
+Vezi Iroade ce-ai făcut
+Dm     Gm     A     Dm
+Dacă-n Isus n-ai crezut.
+Note: Între strofe se cântă Dm Gm A Dm. Măsura este 4/4 și merge ciupitura:
+E                                   1
+B                      3                      3
+G               2            2
+D         0
+A
+E
+| _ _ |      | _ _ |      |          |
+```
+
+#### 682. Vine marea
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 48
+
+**Chitară:** D xx0232 · G 320003 · Bm x24432 · A x02220 · E 022100
+
+**Ukulele:** D 2220 · G 0232 · Bm 4222 · A 2100 · E 4442
+
+```text
+Intro D
+     D   D G      D
+Vine marea cât de mare
+Bm       Bm  G       A
+Dar de mare  țărmuri n-are
+F m      Bm  A     D
+Asta-i sara  de Crăciun.
+D        D  G       D
+Dar de lină țărmuri mână
+Bm         Bm  G     A
+Dar de tot ci  ne-o adună
+F m      Bm  A     D
+Asta-i sara  de Crăciun.
+D       D  G    D
+O adună un bour sur
+Bm      Bm  G    A
+Cu cornile  de taur
+F m      Bm  A     D
+Asta-i sara  de Crăciun.
+D           D  G   D
+Da-n coarne ce legănează
+Bm          Bm G   A
+Da-n coarne ce legănează
+F m      Bm  A     D
+Asta-i sara  de Crăciun.
+D        D  G   D
+Legăneaz-un legănuțu
+Bm      Bm G    A
+Legănuț de păltinuțu
+F m      Bm  A     D
+Asta-i sara  de Crăciun.
+D        D    G    D
+Da în el cine-i culcatu
+Bm       Bm   G    A
+Da în el cine-i culcatu
+F m      Bm  A     D
+Asta-i sara  de Crăciun.
+D       D G   D
+E Iisus înfășuratu
+Bm      Bm G   A
+E Iisus în fășuratu
+F m      Bm  A     D
+Asta-i sara  de Crăciun.
+D        D  G    D
+Tot cu fașă de mătasă
+Bm      Bm G     A
+De nouă su rori aleasă
+F m      Bm  A     D
+Asta-i sara  de Crăciun,
+F  m        Bm  A     D
+Da asta-i sara  de Crăciun.
+Note: Îm original e cu un semiton mai sus. Măsura este 4/4 si merge una din ciupiturile:
+E                               2
+B                               3
+G                    2                    2
+D         0
+A
+E
+```
+
+#### 683. Zăurel de zăurel
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 49
+
+**Chitară:** G 320003 · C x32010 · D xx0232
+
+**Ukulele:** G 0232 · C 0003 · D 2220
+
+```text
+G              C           G              C
+Scoală, scoală gazdă bună, scoală, scoală gazdă bună.
+G         C       G         D     G
+Zăurel de zăurel, zăurel de cătră zăuă.
+G           C         G           C
+Că v-aducem o cunună, că v-aducem o cunună.
+G         C       G         D     G
+Zăurel de zăurel, zăurel de cătră zăuă.
+G        C         G        C
+E cununa Domnului, e cununa Domnului.
+G         C       G         D     G
+Zăurel de zăurel, zăurel de cătră zăuă.
+G           C        G           C
+Din grădina raiului, din grădina raiului.
+G         C       G         D     G
+Zăurel de zăurel, zăurel de cătră zăuă.
+G        C            G        C
+E cununa lui Hristos, e cununa lui Hristos.
+G         C       G         D     G
+Zăurel de zăurel, zăurel de cătră zăuă.
+G         C           G         C
+Adusă din rai în jos, adusă din rai în jos.
+G         C       G         D     G
+Zăurel de zăurel, zăurel de cătră zăuă.
+G            C            G            C
+S-o lăsăm la voi în casă, s-o lăsăm la voi în casă.
+G         C       G         D     G
+Zăurel de zăurel, zăurel de cătră zăuă.
+G            C          G            C
+Să fii gazdă sănătoasă, să fii gazdă sănătoasă.
+G         C       G         D     G
+Zăurel de zăurel, zăurel de cătră zăuă.
+Note:Măsura este 3/4 și propun o bătaie de forma (asemănătoare cu ritmul melodiei probabil folosită și de Hrușcă):
+E         3     3     3     3
+B         3     3     3     3
+G         4     4     4     4
+D         5     5     5     5
+A         5     5     5     5
+E         3     3     3     3
+| _ _ |      | _ _ |
+Exemplificată aici penru G. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
+```
+
+### IV.2 — Colinde internaționale
+
+#### 684. Alle Jahre wieder
+
+muzica/versuri: Ernst Anschütz/Wilhelm Hey · Sursa: Colinde Karban, p. 83
+
+**Chitară:** C x32010 · G 320003 · F 133211
+
+**Ukulele:** C 0003 · G 0232 · F 2010
+
+```text
+C             G
+Alle Jahre wieder
+C                 G
+Kommt das Christuskind
+C       F    C  C
+Auf die Erde nieder,
+C      G        G
+Wo wir Menschen sind
+C                  G
+Kehrt mit seinem Segen
+C            G
+Ein in jedes Haus
+C        F     C F
+Geht auf allen Wegen
+C       G       C
+Mit uns ein und aus.
+C                     G
+Steht auch mir zur Seite
+C             G
+Still und unerkannt,
+C       F         C  F
+Dass es treu mich leite
+C      G      C
+An der lieben Hand.
+C                   G
+Sagt den Menschen allen,
+C              G
+Dass ein Vater ist,
+C       F     C  F
+Dem sie wohlgefallen,
+C       G        C
+Der sie nicht vergisst.
+Note:Măsura este 4/4. Merge un arpegiu simplu.
+```
+
+#### 685. Away in a manger
+
+muzica/versuri: tradițional englez · Sursa: Colinde Karban, p. 52
+
+**Chitară:** F 133211 · Am x02210 · Bb x13331 · Gm 355333 · C x32010 · G 320003 · D xx0232
+
+**Ukulele:** F 2010 · Am 2000 · Bb 3211 · Gm 0231 · C 0003 · G 0232 · D 2220
+
+```text
+ F        F          Am       Bb Gm
+Away in a manger, no crib for a  bed,
+    C           F          G              C
+the little Lord Jesus laid down his sweet head.
+    F            F                 D             Gm
+The stars in the bright sky looked down where He lay,
+    C           F      Gm       C   F
+the little Lord Jesus asleep on the hay.
+    F          F           Am   Bb Gm
+The cattle are lowing, the baby a wakes,
+    C           F        G         C
+but little Lord Jesus no crying he makes.
+  F               F           D             Gm
+I love Thee, Lord Jesus, look down from the sky,
+    C          F            Gm      C   F
+and stay by my bedside till morning is  night.
+   F             F        Am       Bb Gm
+Be near me, Lord Jesus, I ask Thee to stay,
+      C        F        G          C
+close by me forever and love me, I pray.
+      F            F           D          Gm
+Bless all the dear children in Thy tender care,
+    C          F          Gm        C    F
+and fit us for heaven, to live with Thee there.
+Note:Melodia de William J. Kirkpatrick iar textul anonim pare sa fie de pe la 1885.
+Măsura este 3/4 și poate fi acompaniat cu o bătaie de forma de mai jos sau la fel cu o ciupitură asemănătoare.
+E         1         1         1
+B         1         1         1
+G         2         2         2
+D         3         3         3
+A         3         3         3
+E         1         1         1
+|          |          |
+Trecerile /Am la Bb/ și /Gm la C7/ sunt în cadrul aceleiași măsuri cu două bătăi pe primul acord și una pe ultimul.
+```
+
+#### 686. Entre le boeuf et l’âne gris
+
+muzica/versuri: tradițional · Sursa: Colinde Karban, p. 76
+
+**Chitară:** Em 022000 · D xx0232 · G 320003 · Bm x24432 · Am x02210
+
+**Ukulele:** Em 0432 · D 2220 · G 0232 · Bm 4222 · Am 2000
+
+```text
+Em       Em       D     G
+Entre le boeuf et l’âne gris,
+Bm    G     D             G
+Dort, dort, dort le petit fils;
+Bm            Em    Am        Em
+Mille anges divins, mille séraphins
+           Am         D        Em
+Volent alentour de ce Dieu d’amour.
+Em        Em   D        G
+Entre les deux bras de Marie
+Bm    G     D             G
+Dort, dort, dort le petit fils;
+Bm            Em    Am        Em
+Mille anges divins, mille séraphins
+           Am         D        Em
+Volent alentour de ce Dieu d’amour.
+Em        Em       D   G
+Entre les roses et les lys,
+Bm    G     D             G
+Dort, dort, dort le petit fils;
+Bm            Em    Am        Em
+Mille anges divins, mille séraphins
+           Am         D        Em
+Volent alentour de ce Dieu d’amour.
+Em        Em    D       G
+Entre les pastoureaux jolis,
+Bm    G     D             G
+Dort, dort, dort le petit fils;
+Bm            Em    Am        Em
+Mille anges divins, mille séraphins
+           Am         D        Em
+Volent alentour de ce Dieu d’amour.
+Note:Măsura este 4/4
+```
+
+#### 687. Go Tell It On The Mountain
+
+Sursa: Colinde Karban, p. 56
+
+**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
+
+**Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
+
+```text
+Refren:                                                            D
+While shepherds kept their watch
+D
+Go tell it on the mountain                                                  G                 D
+O’er silent flocks by night
+A                  D
+Over the hills and everywhere                                      Behold throughout the heavens
+Go tell it on the mountain                                                    G               D
+     A               D                                                 There   shown    a holy  light
+That Jesus Christ is born
+D                                                                     D
+Down in a lonely manger                                               Down in a lonely manger
+    G                 D                                                 G                 D
+The humble Christ was born                                          The humble Christ was born
+And God sent salvation                                                 And God sent salvation
+     G                 D                                                 G                 D
+That blessed Christmas morn                                         That blessed Christmas morn
+Note:Refrenul se repetă după fiecare strofă.
+Cântecul este un gospel foarte cunoscut pe care eu îl știam de fapt în forma:
+“Go tell it on the mountain/And let my people go” (deci o temă din Vechiul Testament).
+Interpretări cunoscute sunt cea a lui Simon and Garfunkel și cea a lui Garth Brooks.
+Măsura este 4/4. Ca și model de acompaniament propun modelul pop-strum:
+E         2         2     2            2     2     2
+B         3         3     3            3     3     3
+G         2         2     2            2     2     2
+D         0         0     0            0     0     0
+A         0         0     0            0     0     0
+E
+|          | _ _ |          _ |      | _ _ |
+Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
+Aici niște versuri suplimentare de fapt o altă variantă a cântecului.
+D                                                                  D
+The shepherds all were watching                                    He brought with Him forgiveness
+     G               D                                                     G                   D
+Over their sheep at night                                               He live to show us the way
+When a guiding star shone from heaven                            He came to redeem all creation
+        G                  D                                                G                    D
+And the followed that holy light                                        And to wash all our sins away
+D
+They found a lovely manger
+      G                     D
+Where the humble Christ was born
+And God sent out salvation
+   G                      D
+On that blessed Christmas morn
+```
+
+#### 688. Ihr Kinderlein kommet
+
+muzica/versuri: J.A.P. Schulz/C. von Schmidt · Sursa: Colinde Karban, p. 84
+
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · E 022100
+
+**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · E 4442
+
+```text
+    C          C         G           C
+Ihr Kinderlein kommet, o kommet doch all,
+    C          C         G          C
+Zur Krippe her kommet in Bethlehems Stall.
+    G            G          C        F
+Und seht, was in dieser hochheiligen Nacht
+    C        Am         G          C
+Der Vater im Himmel für Freude uns macht.
+  C           C         G           C
+O seht in der Krippe im nächtlichen Stall,
+     C            C           G          C
+Seht hier bei des Lichtes hellglänzendem Strahl
+    G          G           C          F
+Den lieblichen Knaben, das himmlische Kind,
+     C           Am          G        C
+Viel schöner und holder, als Engelein sind!
+   C             C             G           C
+Da liegt es, das Kindlein, auf Heu und auf Stroh,
+  C         C      G           C
+Maria und Joseph betrachten es froh.
+    G         G            C        F
+Die redlichen Hirten knien betend davor,
+     C            Am          G        C
+Hoch oben schwebt jubelnd der Engelein Chor.
+  C              C         G          C
+O beugt, wie die Hirten, anbetend die Knie,
+  C         C            G          C
+Erhebet die Händlein und danket wie sie.
+       G            G           C                F
+Stimmt freudig, ihr Kinder, wer sollt sich nicht freu’n?
+       C           Am        G         C
+Stimmt freudig zum Jubel der Engel mit ein!
+    C         C           G            C
+Was geben wir Kinder, was schenken wir dir,
+   C          C            G         C
+Du bestes und liebstes der Kinder, dafür?
+       G             G            C            F
+Nichts willst du von Schätzen und Reichtum der Welt,
+    C             Am       G         C
+Ein Herz nur voll Demut allein dir gefällt.
+Note:Măsura este 4/4 și merge un ritm de forma:
+E         0         0     0     0         0     0
+B         1         1     1     1         1     1
+G         0         0     0     0         0     0
+D         2         2     2     2         2     2
+A         3         3     3     3         3     3
+E
+|          | _ _ |      |          | _ _ |
+```
+
+#### 689. Kling, Glöckchen, klingelingeling
+
+Sursa: Colinde Karban, p. 85
+
+**Chitară:** C x32010 · G 320003 · D xx0232 · E 022100
+
+**Ukulele:** C 0003 · G 0232 · D 2220 · E 4442
+
+```text
+C                                  G                 C
+Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
+G         C        C  G    G                  C
+Laßt mich ein, ihr Kinder, ist so kalt der Winter,
+D              G      C         G           G
+öffnet mir die Türen, laßt mich nicht erfrieren!
+C                                  G                 C
+Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
+C                                  G                 C
+Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
+G        C         C  G     G                     C
+Mädchen, hört, und Bübchen, macht mir auf das Stübchen,
+D                  G    C          G        G
+bring euch viele Gaben, sollt euch dran erlaben!
+C                                  G                 C
+Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
+C                                  G                 C
+Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
+G       C        C  G    G                 C
+Hell erglühn die Kerzen, öffnet mir die Herzen,
+D                    G     C             G     G
+will drin wohnen fröhlich, frommes Kind, wie selig.
+C                                  G                 C
+Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
+Note:Melodia este aceea a unui cântec vechi popular. Versurile provin de pe la 1800.
+Măsura este 4/4. Ca și acompaniament se poate folosi modelul:
+E                    0     0                0     0
+B         1         1     1     1         1     1
+G         0         0     0     0         0     0
+D         2         2     2     2         2     2
+A         3                      3
+E
+|          | _ _ |      |          | _ _ |
+Exemplificat aici pentru C. Semnele “ ” reprezintă lovirea corzilor de sus în jos. Celelalte bătăi sunt de jos în sus.
+```
+
+#### 690. O Come Little Children
+
+muzica/versuri: tradițional german - Ihr Kinderlein kommet · Sursa: Colinde Karban, p. 64
+
+**Chitară:** A x02220 · E 022100 · D xx0232
+
+**Ukulele:** A 2100 · E 4442 · D 2220
+
+```text
+  A           A           E            A
+O come little Children, o come one and all
+   A           A         E            A
+To Bethlehem’s stable in Bethlehem’s  stall
+    E          E            A        D
+And see with rejoicing this glorious sight
+    A         F m        E            A
+Our Father in heaven has sent us this night.
+  A          A         E        A
+O see in the manger in hallowed light
+  A               A            E       A
+A star throws its beam on this holiest sight
+   E               E                A        D
+In clean swaddling clothes lays the heavenly child
+     A           F m         E       A
+More lovely than angels this baby so mild.
+   A              A               E          A
+Oh there lays the Christ child on hay and on straw
+    A             A          E             A
+The shepherds are kneeling before Him with awe
+    E               E        A        D
+And Mary and Joseph smile on Him with love
+      A             F m        E          A
+While angels are singing sweet songs from above.
+Note:Măsura este 4/4 și merge o ciupitură forma:
+E                      0                         0
+B                      2                         2
+G               2            2            2            2
+D
+A         0                         0
+E
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+```
+
+#### 691. Sainte Nuit
+
+muzica/versuri: tradițional german- Stille Nacht, heilige Nacht · Sursa: Colinde Karban, p. 81
+
+**Chitară:** G 320003 · D xx0232 · C x32010 · Db x43121 · Em 022000 · A x02220
+
+**Ukulele:** G 0232 · D 2220 · C 0003 · Db 1114 · Em 0432 · A 2100
+
+```text
+G               G
+O Nuit de Paix, Sainte Nuit,
+D               G
+Dans le ciel, l’astre luit,
+C                      G
+Dans les champs tout repose en paix
+C                       G
+Mais soudain dans l’air pur et frais
+D      Db             Em A
+Le brillant coeur des anges
+G     D       G
+Oh Berger apparaît
+G              G
+O Nuit de Foi, Sainte Nuit
+D           G
+Les bergers sont instruits
+C                 G
+Confiants dans la voix des cieux
+C                G
+Ils s’en vont adorer leur Dieu
+D    Db      Em  A
+Et Jésus en échange
+G       D      G
+Leur sourit radieux
+G               G
+O Nuit d’Amour, Sainte Nuit
+D             G
+Dans l’étable aucun bruit
+C                    G
+Sur la paille est couché l’enfant
+C                    G
+Que la Vierge endort en chantant
+D    Db          Em   A
+Il repose en ses langes
+G     D       G
+Son Jésus ravissant
+G                G
+O Nuit d’Espoir, Sainte Nuit
+D               G
+L’espérance a reluit
+C                G
+Le Sauveur de la terre est né
+C                      G
+C’est ´r nous que Dieu l’a donné
+D   Db           Em A
+Célébrons ses louanges
+G         D         G
+Gloire au Verbe incarné
+Note:Măsura este 3/4.Merge o bătaie de forma:
+E                3     3            3     3
+B                3     3            3     3
+G               0     0            0     0
+D
+A
+E         3                  3
+| _ _ |      | _ _ |      | _ _ |
+Pentru altă variantă de armonizare vezi și transcriere melodiei în germană.
+```
+
+#### 692. Stille Nacht, heilige Nacht
+
+muzica/versuri: Joseph Mohr/Franz Gruber · Sursa: Colinde Karban, p. 88
+
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
+
+**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
+
+```text
+G      G      G       G
+Stille Nacht, heilige Nacht,
+D     D        G      G
+alles schläft, einsam wacht,
+C       C          G       G
+nur das traute hochheilige Paar.
+C      C        G        G
+Holder Knabe im lockigen Haar,
+D         D           G   Em
+schlaf in himmlischer Ru..h!
+G          D          G    G
+Schlaf in himmlischer Ruh.
+G      G      G       G
+Stille Nacht, heilige Nacht,
+D      D    G     G
+Hirten erst kundgemacht
+C         C        G   G
+durch der Engel Halleluja
+C       C        G        G
+tönt es laut von fern und nah:
+D           D           G Em
+Christ, der Retter, ist da,
+G           D           G   G
+Christ, der Retter, ist da,
+G      G      G       G
+Stille Nacht, heilige Nacht,
+D      D     G     G
+Gottes Sohn, o wie lacht!
+C        C      G          G
+Lieb aus deinem göttlichen Mund,
+C      C           G        G
+da uns schlägt die rettende Stund,
+D          D        G Em
+Christ, in deiner Geburt!
+G         D         G    G
+Christ in deiner Geburt.
+Note:Măsura este 3/4.Merge o bătaie de forma:
+E                3     3            3     3
+B                3     3            3     3
+G               0     0            0     0
+D
+A
+E         3                  3
+| _ _ |      | _ _ |      | _ _ |
+```
+
+#### 693. The Little Drummer Boy
+
+Sursa: Colinde Karban, p. 69
+
+**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
+
+**Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
+
+```text
+D
+Come they told me
+   A         D
+Pa rup a pum pum
+A
+A new born king to see
+   A         D
+Pa rup a pum pum
+A          D
+Our finest gifts we bring
+G  D         A
+Pa rup a pum pum
+         D
+To lay before the King
+G  D         G
+Pa rup a pum pum
+          D              A
+Rup a pum pum, rup a pum pum
+D
+So to honour Him
+   A         D
+Pa rup a pum pum
+A       D
+When we come
+Măsura este 4/4 și merge un ritm de forma:
+E         2         2     2     2         2     2
+B         3         3     3     3         3     3
+G         2         2     2     2         2     2
+D         0         0     0     0         0     0
+A         0         0     0     0         0     0
+E
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+```
+
+### IV.3 — Cântece de iarnă românești
+
+#### 694. Decembre (I)
+
+**Nicu Alifantis** · Sursa: Caiet cabană RO, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/decembre-276)
+
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003
+
+**Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232
+
+```text
+G.Bacovia/Nicu Alifantis
+
+1.
+ Am
+Te uită cum ninge Decembre,
+  E
+Spre geamuri, iubito, privește
+ Am
+Mai spune s-aducă jăratic
+     E                Am
+Și focul s-aud cum trosnește.
+Și mână fotoliul spre sobă,
+La horn să ascult vijelia,
+Sau zilele mele - tot una -
+AȘ vrea să le-nvăț simfonia.
+
+2.
+Mai spune s-aducă și ceaiul,
+Și vino și tu mai aproape
+Citește-mi ceva de la poluri,
+Și ningă... zăpada ne-ngroape.
+Ce cald e aicea la tine
+Și toate din casă mi-s sfinte
+Te uită cum ninge Decembre...
+Nu râde... citește-nainte.
+
+3.
+E ziua și ce întuneric...
+Mai spune s-aducă și lampa
+Te uită, zăpada-i cât gardul,
+Și a prins promoroacă și clampa.
+Eu nu mă mai duc azi acasă
+Potop e-napoi și-nainte,
+Te uită cum ninge Decembre...
+Nu râde ... citește-nainte.
+
+R:
+Na na ................
+Am Dm G Am
+Am Dm E Am
+```
+
+#### 695. Decembre (II)
+
+**Nicu Alifantis** · Sursa: Cărticica Karban, p. 16
+
+**Chitară:** Em 022000 · Am x02210 · B7 x21202
+
+**Ukulele:** Em 0432 · Am 2000 · B7 2322
+
+```text
+[Em]Te uită cum ninge Decembre,
+[Am]Spre geamuri, iubito, privește
+Mai spune s-aducă jă[B7]ratic
+Și focul s-aud cum tros[Em]nește.
+[Em]Și mână fotoliul spre sobă,
+[Am]La horn să ascult vijelia,
+Sau zilele mele tot [B7]una
+Aș vrea să le-nvăț sim[Em]fonia.
+[Em]Mai spune s-aducă și ceaiul,
+[Am]Și vino și tu mai aproape
+Citește-mi ceva de la [B7]poluri,
+Și ningă... zăpada ne-[Em]ngroape.
+[Em]Ce cald e aicea la tine
+[Am]Și toate din casă mi-s sfinte
+Te uită cum ninge De[B7]cembre...
+Nu râde... citește-[Em]nainte.
+[Em]E ziua și ce întuneric...
+[Am]Mai spune s-aducă și lampa
+Te uită, zăpada-i cât [B7]gardul,
+Și a prins promoroacă și [Em]clampa.
+[Em]Eu nu mă mai duc azi acasă
+[Am]Potop e-napoi și-nainte,
+Te uită cum ninge De[B7]cembre...
+Nu râde ... citește-[Em]nainte.
+```
+
+#### 696. Decembre (III)
+
+**Nicu Alifantis** · muzica/versuri: Nicu Alifantis/G.Bacovia · Sursa: Colinde Karban, p. 103
+
+**Chitară:** Em 022000 · Am x02210 · B x24442
+
+**Ukulele:** Em 0432 · Am 2000 · B 4322
+
+```text
+Em
+Te uită cum ninge Decembre,
+Am
+Spre geamuri, iubito, privește
+                    B
+Mai spune s-aducă jăratec
+                       Em
+Și focul s-aud cum trosnește.
+Em
+Și mână fotoliul spre sobă,
+Am
+La horn să ascult vijelia,
+                    B
+Sau zilele mele tot una
+                      Em
+Aș vrea să le-nvăț simfonia.
+Em
+Mai spune s-aducă și ceaiul,
+Am
+Și vino și tu mai aproape
+                      B
+Citește-mi ceva de la poluri,
+                      Em
+Și ningă... zăpada ne-ngroape.
+Em
+Ce cald e aicea la tine
+Am
+Și toate din casă mi-s sfinte
+                    B
+Te uită cum ninge Decembre...
+                   Em
+Nu râde... citește-nainte.
+Em
+E ziuă și ce întuneric...
+Am
+Mai spune s-aducă și lampa
+                      B
+Te uită, zăpada-i cât gardul,
+                         Em
+Și a prins promoroacă și clampa.
+Em
+Eu nu mă mai duc azi acasă
+Am
+Potop e-napoi și-nainte,
+                    B
+Te uită cum ninge Decembre...
+                    Em
+Nu râde ... citește-nainte.
+```
+
+#### 697. În întâmpinarea Crăciunului
+
+**Tatiana Stepa** · muzica/versuri: Tatiana Stepa/Adrian Păunescu · Sursa: Colinde Karban, p. 107
+
+**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010 · F 133211
+
+**Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003 · F 2010
+
+```text
+Am                    Dm
+Săracă și tristă mi-i viața
+E                  Am
+Și viscolul plânge pe dig,
+G                       C
+Nu-i nici o speranță în lume
+G                    C     E
+Și-n case e foame și frig.
+Dm                    Am
+Și totuși vom ține Crăciunul
+G                         C
+De-ar fi să-l plătim cu dobânzi,
+Dm                    Am
+Și tot o să-ntindem o masă
+F                   E
+Copiilor noștrii flămânzi.
+Refren:
+Dm  Am     G       C
+Fie timpul rău sau bun,
+Dm      Am        E      Am
+Va veni și la noi Moș Crăciun
+Dm  Am     G       C
+Fie timpul rău sau bun,
+Dm      Am        E      Am
+Va veni și la noi Moș Crăciun
+Note:Măsura este 4/4 și recomand următoarea ciupitură:
+E                             0
+B                      1            1
+G               2                         2            2
+D                                                2
+A         0
+E
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+Am
+```
+
+#### 698. Moș Crăciun (I)
+
+**tradițional** · Sursa: Cărticica Karban, p. 220
+
+**Chitară:** G 320003 · C x32010 · D7 xx0212
+
+**Ukulele:** G 0232 · C 0003 · D7 2223
+
+```text
+[G]Moș Crăciun cu [C]plete [G]dalbe
+[G]A so[C]sit de [D7]prin nă[G]meți,
+[G]Și aduce [C]daruri [G]multe
+[G]La fe[C]tițe [D7]și bă[G]ieți.
+Refren:
+[G]Moș Cră[C]ciun, [G]Moș Cră[C]ciun!
+[G]Ești un [C]om [D7]atât de [G]bun!
+[G]Moș Cră[C]ciun, [G]Moș Cră[C]ciun!
+[G]Ești un [C]om [D7]atât de [G]bun!
+[G]Din bătrâni se [C]poves[G]tește
+[G]Ca-n toți [C]anii [D7]negre[G]șit,
+[G]Moș Crăciun cu [C]drag so[G]sește,
+[G]Nicio[C]dată [D7]n-a lip[G]sit.
+Refren:
+[G]Moș Crăciune, [C]Moș Cră[G]ciune
+[G]Înco[C]tro vrei [D7]s-o a[G]puci?
+[G]Ți-aș cânta flo[C]rile [G]dalbe
+[G]Dac-aș [C]ști că [D7]nu te [G]duci.
+Refren:
+```
+
+#### 699. Moș Crăciun (II)
+
+muzica/versuri: D.G. Kiriac/tradițional · Sursa: Colinde Karban, p. 9
+
+**Chitară:** G 320003 · D xx0232 · C x32010
+
+**Ukulele:** G 0232 · D 2220 · C 0003
+
+```text
+G      D       C     G
+Moș Crăciun cu plete dalbe
+D   G      D      G
+A sosit de prin nămeți,
+G   D    C      G
+Și aduce daruri multe
+D    G    D    G
+La fetițe și băieți.
+Refren:
+G      C     G      C
+Moș Crăciun, Moș Crăciun!
+G       C  D       G
+Ești un om atât de bun!
+G      C     G      C
+Moș Crăciun, Moș Crăciun!
+G       C  D       G
+Ești un om atât de bun!
+G     D        C    G
+Din bătrâni se povestește
+D         G    D    G
+Că-n toți anii negreșit,
+G      D       C      G
+Moș Crăciun cu drag sosește,
+D    G    D      G
+Niciodată n-a lipsit.
+G      D      C      G
+Moș Crăciune, Moș Crăciune
+D   G        D    G
+Încotro vrei s-o apuci?
+G        D     C    G
+Ți-aș cânta florile dalbe
+D      G      D     G
+Dac-aș ști că nu te duci.
+Note: Măsura este 2/4 și merge o bătaie de forma:
+E         3         3     3
+B         0         0     0
+G         0         0     0
+D         0         0     0
+A         2
+E         3
+|          | _ _ |
+```
+
+#### 700. Ninge iar (I)
+
+**Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 110 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ninge-iar-1857)
+
+**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
+
+**Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322 · G 0232
+
+```text
+V. Șeicaru
+1.
+ Em                 D
+Ninge iar iubito în absența ta
+   C                     B7
+Ca o despletire de cireș amar
+     Em             D
+Din copilărie n-a mai nins așa
+     C               B7
+Dac-ai fi cu mine am fugi pe cai.
+
+R:
+   G                   D
+Ninge cu argintul coamelor de cai
+    C               B7
+Ninge ca o nuntă veche la fereastră
+    G                 D
+Dac-ai fi cu mine astăzi cu alai
+     C                   B7
+Am porni iubito către nunta noastră.
+
+2.
+Parcă tot pământul e-nvelit de cer
+Prins de Odiseea fulgilor de nea
+Azi mi-i dor de tine ca un mesager
+Urmărit de viscol și absența ta.
+
+3.
+Ca și cum ar curge vremea înapoi
+SĂ împartă iarăși două veșnicii
+Ninge cu duminici, ninge între noi
+Cei pierduți în lume, singuri și copii.
+
+4.
+Dac-aș știi pe unde este umbra ta
+Azi pe sub zăpadă ți-aș săpa tunel
+Și-am reface lumea cum a fost cândva
+Într-un vis cu sănii și cu clopoței.
+```
+
+#### 701. Ninge iar (II)
+
+**Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 84
+
+**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
+
+**Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322 · G 0232
+
+```text
+[Em]Ninge iar iubito [D]în absența ta
+[C]Ca o despletire [B7]de cireși în mai
+[Em]Din copilărie [D]n-a mai nins așa
+[C]Dacă ai fi cu mine [B7]am fugi pe cai
+[Em]Parcă tot pământul e-[D]nvelit de cer
+[C]Prins de Odiseea [B7]fulgilor de nea
+[Em]Azi mi-e dor de tine [D]ca un mesager
+[C]Urmărit de viscol [B7]și absența ta
+Refren:
+[G]Ninge cu argintul [D]coamelor de cai
+[C]Ninge ca o nuntă [B7]veche la fereastră
+[G]Dac-ai fi cu mine [D]astăzi în alai
+[C]Am porni iubito [B7]către nunta noastră
+[Em]Ca și cum ar curge [D]vremea înapoi
+[C]Să împartă iarăși [B7]două veșnici
+[Em]Ninge cu duminici, [D]ninge între noi
+[C]Cei pierduți în lume, [B7]singuri și copii
+[Em]Dacă-aș ști pe unde [D]este umbra ta
+[C]Azi pe sub zăpadă [B7]ți-aș săpa tunel
+[Em]Și-am reface lumea [D]cum a fost cândva
+[C]Într-un vis de sănii [B7]și de clopoței.
+Notă: Cântecul e în măsura 3/4.
+La trecerea de la refren la strofe și de la strofe la refren se cântă (dacă
+mai îmi aduc eu bine aminte) o progresie de bass de genul:
+B7
+E||----------2----|------------------||
+B||----------0----|------------------||
+G||----------2----|------------------||
+D||----------1----|------------------||
+A||----------2----|--2--0------------||
+E||---------------|----------3----0--||
+cu o trecere în Em sau respectiv, în G.
+```
+
+#### 702. Ninge iar (III)
+
+**Ștefan Hrușcă** · muzica/versuri: S  țefan Hrușcă/Dan Verona · Sursa: Colinde Karban, p. 104
+
+**Chitară:** Em 022000 · D xx0232 · C x32010 · B x24442 · G 320003 · B7 x21202
+
+**Ukulele:** Em 0432 · D 2220 · C 0003 · B 4322 · G 0232 · B7 2322
+
+```text
+Em               D
+Ninge iar iubito în absența ta
+C               B
+Ca o despletire de cireși în mai
+Em            D
+Din copilărie n-a mai nins așa
+C                  B
+Dacă ai fi cu mine am fugi pe cai
+Em                   D
+Parcă tot pământul e-nvelit de cer
+C                B
+Prins de Odiseea fulgilor de nea
+Em                   D
+Azi mi-e dor de tine ca un mesager
+C                 B
+Urmărit de viscol și absența ta
+Refren:
+G                 D
+Ninge cu argintul coamelor de cai
+C                B
+Ninge ca o nuntă veche la fereastră
+G                 D
+Dac-ai fi cu mine astăzi în alai
+C               B
+Am porni iubito către nunta noastră
+Em                 D
+Ca și cum ar curge vremea înapoi
+C                 B
+Să împartă iarăși două veșnicii
+Em                 D
+Ninge cu duminici, ninge între noi
+C                     B
+Cei pierduți în lume, singuri și copii
+Em                  D
+Daca-aș ști pe unde este umbra ta
+C                 B
+Azi pe sub zăpadă ți-aș săpa tunel
+Em                 D
+Și-am reface lumea cum a fost cândva
+C                    B
+Într-un vis de sănii și de clopoței.
+Notă: Cântecul e în măsura 3/4. Trecerea de la refren la strofe și si invers se cântă cu urmatoarea progresie bass:
+E                          2
+B                          0
+G                          2
+D                          1
+A                          2                2     0
+E                                                            3         0
+B7
+cu o trecere în Em sau respectiv, în G.
+```
+
+#### 703. O, brad frumos! (I)
+
+**Tradițional** · Sursa: Cărticica Karban, p. 221
+
+**Chitară:** F 133211 · C x32010 · C7 x32310
+
+**Ukulele:** F 2010 · C 0003 · C7 0001
+
+```text
+O, [F]brad frumos, [C]o [F]brad frumos
+Cu cetina [C]tot ver[F]de!
+Tu ești copacul [C7]credincios
+Ce frunza nu și-o [F]pierde.
+O, brad frumos [C]a [F]lui Hristos
+Cu ceti[C7]na tot ver[F]de!
+O, [F]brad frumos, [C]o [F]brad frumos
+Verdeata [C]ta îmi [F]place!
+Oricând o văd [C7]sunt bucuros
+Și vesel ea mă [F]face.
+O, brad frumos [C]a [F]lui Hristos
+Cu ceti[C7]na tot ver[F]de!
+O, [F]brad frumos, [C]o [F]brad frumos
+Cu frunza-ți [C]neschim[F]bată!
+Mă mângâi când mă [C7]vezi duios
+Și mă întărăști [F]îndată.
+O, brad frumos [C]a [F]lui Hristos
+Cu frunza-[C7]ți neschim[F]bată!
+```
+
+#### 704. O, brad frumos! (II)
+
+muzica/versuri: tradițional german · Sursa: Colinde Karban, p. 12
+
+**Chitară:** F 133211 · C x32010
+
+**Ukulele:** F 2010 · C 0003
+
+```text
+   F            C F
+O, brad frumos, o brad frumos
+          C      F
+Cu cetina tot verde!
+                C
+Tu ești copacul credincios
+                  F
+Ce frunza nu și-o pierde.
+               C F
+O, brad frumos a lui Hristos
+       C         F
+Cu cetina tot verde!
+   F            C F
+O, brad frumos, o brad frumos
+         C      F
+Verdeața ta îmi place!
+              C
+Oricând o văd sunt bucuros
+               F
+Și vesel ea mă face.
+               C F
+O, brad frumos a lui Hristos
+       C         F
+Cu cetina tot verde!
+   F            C F
+O, brad frumos, o brad frumos
+             C      F
+Cu frunza-ți neschimbată!
+                  C
+Mă mângâi când mă vezi duios
+                F
+Și mă întărăști îndată.
+               C F
+O, brad frumos a lui Hristos
+          C         F
+Cu frunza-ți neschimbată!
+Măsura ete 3/4
+```
+
+#### 705. Plecarea
+
+**Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Serghei Esenin · Sursa: Colinde Karban, p. 93
+
+**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · E 022100
+
+**Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · E 4442
+
+```text
+Intro: C F C F
+C                        F
+Ceață, vânt, zăpadă și tăcere
+Dm                   G
+Raza lunii fâlfâie tăcut
+F                   C
+Inima c-o molcomă durere
+Dm                     G
+Își aduce aminte de trecut
+C
+Spulberat omătul se despică
+Dm
+Pe-așa lună eu ascuns ieșit
+F
+Indesându-mi cușma de pisică
+Dm
+Casa parinteasca-am părăsit
+C
+Iarăși sunt în focurile mele
+Dm
+M-au uitat? Sau minte mă mai țin?
+F
+Stau mâhnit ca un gonit de rele
+Dm
+Reîntors la vechiul lui cămin
+Note: Măsura este 4/4 iar ciupitura:
+E                                   0
+B                      1                         1
+G               0            0            0            0
+D
+A         3
+E
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+```
+
+#### 706. Pomul de Crăciun
+
+**Mircea Baniciu** · Sursa: Colinde Karban, p. 101
+
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · F 133211 · Am x02210
+
+**Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · F 2010 · Am 2000
+
+```text
+Mircea Baniciu/???
+- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
+Intro: G Em C G D
+     G
+Vine iarăși, vine vremea de colinde și mister
+     Em
+Când primește să se nască Domnul coborât din cer
+      C
+Nuntă ninsă la fereastră este Pomul de Crăciun
+       G                             D
+Când încep să se colinde Dumnezeu și omul bun
+   G
+Se întoarce vremea dusă ce mă știe pe de rost
+      Em
+La un geam să mi-l arate pe copilul care-am fost
+       C
+Și sub steaua-mpărătească ce domnește peste noi
+       G                                     D
+Bradul verde să-mi dea iarăși tot norocul înapoi.
+Refren:
+D         G         D
+Pom de Crăciun este sufletul meu
+      G                  D
+La un geam pentru tine mereu
+       F               C
+Pentru tine aș vrea să pot colinda
+      F    C     Am D
+Lerui ler, flori dalbe.
+     G
+Este vremea din tristețe să ieșim ca din tramvai
+    Em
+Și, precum odinioară, să ne furișăm din rai
+     C
+Că e domnul singur tare, doar cu maica lângă el
+      G                                      D
+Și-am înveselit tot raiul cu un zvon de clopoțel
+Refren
+Strofele se arpegiază iar la refren merge un pop-strum.
+```
+
+#### 707. Scrisoare la-nceput de iarnă
+
+**Ducu Bertzi** · Sursa: Colinde Karban, p. 94
+
+**Chitară:** Am x02210 · F 133211 · Em 022000 · D xx0232 · E 022100
+
+**Ukulele:** Am 2000 · F 2010 · Em 0432 · D 2220 · E 4442
+
+```text
+Ducu Bertzi/Gheorghe Țărnea
+- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
+Am
+A nins ca-n basme aseară
+    F
+Mai ninge și acum
+     Em
+Prin albul calm al iernii
+   Am
+Privirea mea-i de fum.
+Am
+Si rătăcit mi-e gândul
+    F
+Sau poate mă visez
+     Em
+Și-n jur sunt crini în floare
+    Am
+Iar tu-mi șoptesti: zăpezi.
+Am
+Eu cad ca-ntr-o clepsidră
+   F
+Cu fulgii de afară
+   Em
+Și nu știu cine-n taină
+    Am
+Tristețea mi-o măsoară.
+Am
+În palma ta întinsă
+  F
+Căzu un fulg și nu-i
+    Em
+Cândva și eu cădea-voi
+   Am
+În palma nu știu cui.
+Note: în original din Cm. Măsura este 4/4 și merge o ciupitură de forma:
+E                             0                                                       0
+B                1                      1            1                  1                      1            1
+G                      2                      2                               2                      2
+D
+A         0                                                       0
+E
+| _ _ |      | _   |        _ |      | _ _ |            | _ _ |      | _   |        _ |      | _ _ |
+```
+
+#### 708. Seara serilor
+
+**Ducu Bertzi** · Sursa: Colinde Karban, p. 95
+
+**Chitară:** Dm xx0231 · A x02220 · E 022100
+
+**Ukulele:** Dm 2210 · A 2100 · E 4442
+
+```text
+Ducu Bertzi/Gheorghe Țărnea
+- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
+Intro A Dm A Dm
+Dm     A         Dm
+Asta-i seara serilor
+A                Dm
+Cu-nfloritul merilor
+Dm    A         Dm
+Cu trecutul vadului
+A             Dm
+Și gătitul bradului
+       A        Dm
+Cu cititul stelelor
+A                Dm
+Și-alungatul relelor
+Dm       A           Dm
+Fă-ți de grijă gazdă bună
+A                   Dm
+Sa-mpletești altă cunună
+Dm    A          Dm
+Din firuț de măieran
+A                Dm
+Să-ți ajungă înc-un an
+Dm       A         Dm
+Drumul-i spre Isus Hristos
+A               Dm
+Rămâi gazdă sănătos
+Dm       A          Dm
+Rămâi gazdă bun creștin
+A                  Dm
+Lângă pâine, lângă vin
+Dm    A             Dm
+Și cu tot belșugu-n casă
+A               Dm
+După firea ta miloasă
+Dm   A           Dm
+Și curat și primenit
+A                    Dm
+Mulțămim că ne-ai primit
+Dm    A              Dm
+Și cu drag ne-ai ospătat
+A                    Dm
+Din ce Dumnezeu ți-o dat
+Dm     A         Dm
+Asta-i seara serilor
+Note:Măsura este 4/4 iar ciupitura:
+E                             1                  1
+B                      3                  3            3
+G               2                  2
+D         0
+A
+E
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+```
+
+#### 709. Singur de Crăciun
+
+**Maria Magdalena Dănăilă** · Sursa: Colinde Karban, p. 99
+
+**Chitară:** Am x02210 · C x32010 · Em 022000 · Dm xx0231 · F 133211 · E 022100 · G 320003 · D xx0232
+
+**Ukulele:** Am 2000 · C 0003 · Em 0432 · Dm 2210 · F 2010 · E 4442 · G 0232 · D 2220
+
+```text
+Intro: Am G C Dm E E
+Am     C        Em    Em
+Prin nămeți cât casa
+Dm      Am      F        E
+N-ai să poți la mine să ajungi
+Am      C    Em    Em
+Și nici anul ăsta
+        Dm          F            E
+N-ai să poți să-mi aduci ce-am visat.
+Am  C    Em    Em
+E săracă masa
+Dm   Am       F              E
+Te aștept dar clipele-s prea lungi
+Am    C      Em    Em
+Și pe frigul ăsta
+      Dm      F         E
+Nu mă supăr dacă m-ai uitat.
+Refren 1:
+Am               Em
+Moș Crăciun bună seara
+Am                 G
+Ai să treci iar cu sănioara
+C                  Dm
+Te oprești pe rând pe la alți copii
+Dm                  E
+Doar la mine nu mai vii.
+Refren 2:
+Am                 Em
+Moș Crăciun noapte bună
+Am               G
+Cu-o crenguță de brad în mână
+C                     Dm
+Am să-ncerc s-adorm nedumerit
+Dm                   E
+Findca nu știu ce-am greșit.
+Am     Am Em
+Noapte bună.
+Note:Măsura este 4/4 și merge o ciupitură de forma:
+E                               0
+B                               0
+G                    1                    1
+D
+A         0
+E
+|          |          |          |
+```
+
+#### 710. Steaguri albe
+
+**Ștefan Hrușcă** · muzica/versuri: S  țefan Hrușcă/Adrian Păunescu · Sursa: Colinde Karban, p. 105
+
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · F 133211
+
+**Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · F 2010
+
+```text
+   Am       Dm      G    C
+Mă rog cu puterea cuvântului
+   Am    Dm     E    Am
+Pentru copiii pământului,
+   Am        Dm      G    C
+Mă rog cu dulceața colinzilor
+   Am    Dm    E    Am
+De sănătatea părinților.
+Refren:
+Dm       Am      Dm
+Florile, florile dalbe,
+C      Dm   F        Am
+Iar pe lume steaguri albe.
+Dm       Am      Dm
+Florile, florile dalbe,
+C      Dm   E        Am
+Iar pe lume steaguri albe.
+   Am       Dm     G   C
+Mă rog cu lumina minunilor
+   Am    Dm      E   Am
+În amintirea străbunilor,
+   Am       Dm      G  C
+Mă rog cu nădejdile omului
+   Am      Dm      E   Am
+Pentru echilibrul atomului.
+   Am       Dm      G   C
+Mă rog cu putința mătușilor
+   Am    Dm      E   Am
+Contra venirii cenușilor,
+   Am     Dm        G       C
+Mă rog cu blândețea din flaute
+   Am    Dm     E     Am
+Un happy end să ne caute.
+   Am     Dm        G    C
+Mă rog cu pecete de fulgere
+   Am   Dm        E    Am
+Să ne ferim de distrugere,
+   Am       Dm      G    C
+Mă rog cu puterea cuvântului
+   Am    Dm    E    Am
+De sănătatea pământului.
+Note:Măsura este 4/4 și propun următorul model de acompaniament:
+E                             0
+B                      1            1
+G               2                         2            2
+D                                                2
+A         0
+E
+| _ _ |      | _ _ |      | _ _ |      | _ _ |
+Exemplificat aici pentru Am.
+```
+
+#### 711. Zori din zori
+
+**Mircea Baniciu** · Sursa: Colinde Karban, p. 102
+
+**Chitară:** G 320003 · C x32010 · D xx0232 · Am x02210 · Em 022000
+
+**Ukulele:** G 0232 · C 0003 · D 2220 · Am 2000 · Em 0432
+
+```text
+Mircea Baniciu/???
+- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
+G                C
+Se-aprinde chiar de Crăciun
+D                G
+Candela gândului bun
+C         Am   C        D
+Vestioare stea deasupra mea.
+G         C
+Învățam întâia dată
+D              G
+Rugăciunea preacurată
+C           Am  C      D
+Ca din calendar foarte rar.
+Refren:
+G    D   G    C
+Zori din zori
+G    D     Em    D
+Albe dalbe flori
+G          C
+Ger deplin era afară
+D             G
+Când năștea întâia oara
+C        Am     C        D
+Maica Domnului, harul Domnului
+G           C
+Prejmuit de mirodenii
+D            G
+Ca sa treaca vama vremii
+C         Am   C       D
+Cu lumina lui  Fiul Domnului
+Bridge:
+C          D
+Oriunde în lume nemuritori
+G                    Em
+Cei patru magi de la răsărit
+G               C       D
+Îl Vor vesti cu vorbele lor
+G            C      D
+Dimineața în primul zor.
+La strofe și la bridge măsura este 4/4. Merge un pop-strum.
+La refren măsura este 3/4.
+```
+
+### IV.4 — Cântece de iarnă internaționale
+
+#### 712. Blue Christmas
+
+Sursa: Colinde Karban, p. 53
+
+**Chitară:** E 022100 · B x24442 · A x02220 · F 133211
+
+**Ukulele:** E 4442 · B 4322 · A 2100 · F 2010
+
+```text
+         E              B
+I have a blue Christmas without you
+           B                   E
+I’ll be so blue just thinking about you
+     E         E         A
+Decorations of red, on a green Christmas tree
+F                          B
+won’t be the same dear, if you’re not here with me.
+               E                      B
+And when those blue snow flakes start falling,
+                  B                   E
+that’s when those blue memories start calling,
+          E       E                A            Bb dim
+you’ll be doing alright, with your Christmas of white,
+    B                     E
+but I’ll have a blue blue Christmas.
+              E              B
+Ohh, ohh, ohh Ahhh Ahh ahh a ahh ohhhh
+          B                    E
+ohh, ohh, ohh Ahhhhh Ahh ahh a ahh ohhhh
+          E        E               A            Bb dim
+You’ll be doing allright with your Christmas of white
+    B                     E
+but I’ll have a blue blue Christmas,
+Note: Măsura este 4/4. Ca și model de acompaniament propun:
+E         0         0     0     0     0     0     0
+B         0         0     0     0     0     0     0
+G         1         1     1     1     1     1     1
+D         2         2     2     2     2     2     2
+A         2         2     2     2     2     2     2
+E         0         0     0     0     0     0     0
+|          | _ _ |      | _ _ |      | _ _ |
+Exemplificat aici pentru E. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
+O variantă cunoscută a melodiei este cea interpretată de Elvis Presley.
+```
+
+#### 713. Deck the Halls
+
+Sursa: Colinde Karban, p. 54
+
+**Chitară:** D xx0232 · Bm x24432 · A x02220 · E 022100 · G 320003
+
+**Ukulele:** D 2220 · Bm 4222 · A 2100 · E 4442 · G 0232
+
+```text
+D                   Bm
+Deck the halls with boughs of holly,
+A           D      D  A  D
+Fa la la la la, la la la la
+D              Bm
+Tis the season to be jolly,
+A           D      D  A  D
+Fa la la la la, la la la la
+A              D
+Don we now our gay apparel,
+D        Bm        E     A
+Fa la la la la la, la la la
+D                 Bm
+Troll the ancient Yuletide carol,
+G           D      D  A  D
+Fa la la la la, la la la la
+D               Bm
+See the blazing Yule before us,
+A           D      D  A  D
+Fa la la la la, la la la la
+D                   Bm
+Strike the harp and join the chorus,
+A           D      D  A  D
+Fa la la la la, la la la la
+A            D
+Follow me in merry measure,
+D        Bm        E     A
+Fa la la la la la, la la la
+D                Bm
+While I tell the Yuletide treasure,
+G           D      D  A  D
+Fa la la la la, la la la la
+D             Bm
+Fast away the old year passes,
+A           D      D  A  D
+Fa la la la la, la la la la
+D                Bm
+Hail the new, ye lads and lasses,
+A           D      D  A  D
+Fa la la la la, la la la la
+A              D
+Sing we joyous all together,
+D        Bm        E     A
+Fa la la la la la, la la la
+D               Bm
+Heedless of the wind and weather,
+G           D      D  A  D
+Fa la la la la, la la la la
+Note:“Deck the Halls” este un cântec vechi galez.
+După cum reiese de aici de sărbători se împodobește casa, se îmbracă haine în culori vii și se cântă cântece vesele ca
+acesta.
+Măsura este 4/4. Ca și acompaniament se poate folosi modelul:
+E                    2     2                2     2
+B                    3     3                3     3
+G         2         2     2     2         2     2
+D         0         0     0     0         0     0
+A         0                      0
+E
+|          | _ _ |      |          | _ _ |
+Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzilor de sus în jos. Celelalte bătăi sunt de jos în sus.
+```
+
+#### 714. Feliz Navidad
+
+**José Feliciano** · Sursa: Colinde Karban, p. 90
+
+**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432 · E 022100
+
+**Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222 · E 4442
+
+```text
+José Feliciano - 1970
+- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
+Intro: D G A7 D D G A7 D
+Refren:
+D         Em  A         D
+Feliz Navidad feliz Navidad
+          G            A           D
+Feliz Navidad prospero Ano y Felicidad.
+          Em  A         D
+Feliz Navidad feliz Navidad
+          G            A           D
+Feliz Navidad prospero Ano y Felicidad.
+                   G
+I wanna wish you a Merry Christmas
+A                  D
+I wanna wish you a Merry Christmas
+Bm                 G
+I wanna wish you a Merry Christmas
+         A            D
+From the bottom of my heart.
+                   G
+I wanna wish you a Merry Christmas
+A                  D
+I wanna wish you a Merry Christmas
+Bm                 G
+I wanna wish you a Merry Christmas
+         A            D
+From the bottom of my heart.
+Note: Măsura cântecului este 4/4. Fiecare acord se cântă câte o măsură. Ca și bătaie se poate folosi modelul:
+E         2         2     2     3     2     2     2
+B         3         3     3     3     3     3     3
+G         2         2     2     2     2     2     2
+D         0         0     0     0     0     0     0
+A         0         0     0     0     0     0     0
+E
+|          | _ _ |      | _ _ |      | _ _ |
+Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte batai sunt de jos în sus.
+Ca și variațiune în măsurile cu Em se poate folosi în a doua jumătate a măsuri Em7
+```
+
+#### 715. Frosty The Snowman
+
+muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 55
+
+**Chitară:** C x32010 · F 133211 · G 320003 · Em 022000 · Dm xx0231 · E 022100 · Am x02210 · D xx0232
+
+**Ukulele:** C 0003 · F 2010 · G 0232 · Em 0432 · Dm 2210 · E 4442 · Am 2000 · D 2220
+
+```text
+C          C              F           C
+Frosty the Snow Man was a jolly happy soul
+       F                   C                   G                C
+With a corn-cob pipe and a button nose and two eyes made out of coal.
+C          C             F               C
+Frosty the Snow Man is a fairy tale they say
+       F       F dim        C        Am          F       G        C
+He was made of snow but the children know how he came to life one day.
+Refren:
+      F                   Em            Dm       G        C
+There must have been some magic in that old silk hat they found,
+    G                E                Am     D      G
+For when they put it on his head he began to dance around.
+    C          C              F               C
+Oh, Frosty the Snow Man was alive as he could be,
+        F        F dim        C         Am            F       G       C
+And the children say he could laugh and play just the same as you and me.
+C          C                 F                C
+Frosty the Snow Man knew the sun was hot that day,
+      F                    C                    G            C
+So he said, “Let’s run and we’ll have fun now before I melt away.”
+C           C              F                 C
+Down to the village with a broomstick in his hand,
+        F        F  dim    C          Am              F        G      C
+Running here and there all around the square, saying “Catch me if you can.”
+   F                 Em              Dm           G       C
+He led them down the streets of town right to the traffic cop,
+       G             E              Am        D        G
+And he only paused a moment when he heard him holler, “Stop!”
+C          C               F            C
+Frosty the Snow Man had to hurry on his way,
+       F          F dim         C         Am           F     G         C
+But he waved good-bye, saying, “Don’t you cry; I’ll be back again some day.”
+Refren
+C                                                          G
+Thumpety thump thump, thumpety thump thump, look at Frosty go.
+                                                              C
+Thumpety thump thump, thumpety thump thump, over the hills of snow.
+Note:Măsura este 4/4. Merge un ritm brushing cu bass alternativ după cum urmează:
+E                    0     0                0     0
+B                    1     1                1     1
+G                    0     0                0     0
+D                    2     2                2     2
+A         3
+E                                 3
+|          | _ _ |      |          | _ _ |
+Exemplificat aici pentru C. Atenție la trecerile de la F ls F dim, C Am, Dm G7 și Am D se fac într-o măsură.
+```
+
+#### 716. Here Comes Santa Claus
+
+Sursa: Colinde Karban, p. 57
+
+**Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Am x02210 · Em 022000
+
+**Ukulele:** G 0232 · D 2220 · C 0003 · Bm 4222 · Am 2000 · Em 0432
+
+```text
+Gene Autry, O. Haldeman 1947
+- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
+G
+Here comes Santa Claus,
+G
+Here comes Santa Claus,
+G                      D
+Right down Santa Claus Lane.
+D
+Vixen and Blitzen and all his reindeer
+    D              G
+are pulling on the rein.
+C                  Bm
+Bells are ringing, children singing;
+Am               Em
+All is merry and bright.
+C                       Bm
+Hang your stockings and say your prayers,
+       Am                  G
+’Cause Santa Claus comes tonight.
+G
+Here comes Santa Claus,
+G
+Here comes Santa Claus,
+G                      D
+Right down Santa Claus Lane.
+D
+He’s got a bag that is filled with toys
+        D              G
+for the boys and girls again.
+C                 Bm
+Hear those sleigh bells jingle jangle,
+Am               Em
+What a beautiful sight.
+C                  Bm
+Jump in bed, cover up your head,
+Am                         G
+’Cause Santa Claus comes tonight.
+Note:Măsura este 4/4 și merge un ritm pop-strum de forma:
+E         3         3     3            3     3     3
+B         3         3     3            3     3     3
+G         0         0     0            0     0     0
+D         0         0     0            0     0     0
+A         2         2     2            2     2     2
+E         3         3     3            3     3     3
+|          | _ _ |          _ |      | _ _ |
+```
+
+#### 717. Jingle Bells (I)
+
+Sursa: Caiet cabană EN, p. 44
+
+**Chitară:** D xx0232 · A x02220 · D7 xx0212 · G 320003 · Em 022000 · E 022100
+
+**Ukulele:** D 2220 · A 2100 · D7 2223 · G 0232 · Em 0432 · E 4442
+
+```text
+1.
+D          A         D7            G
+Dashing through the snow, in an one-horse open sleigh
+     Em           A                  D
+O'er the hills we go, laughing all the way
+Bells on bob-tail ring, making spirits bright
+What fun it is to ride and sing a sleighing song tonight.
+
+R:
+    D                                  D7
+Oh, Jingle bells, jingle bells, jingle all the way
+      G            D        E             A
+Oh, what fun it is to ride in a one-horse open sleigh.
+2.
+A day or two ago I thought I’d take a ride,
+And soon Miss Fannie Bringht was sitted by my side
+The horse was lean and lank missfortune seemed its lot;
+He got into a drifted bank and we, we got upset.
+
+3.
+Now the ground is white go it while you’re young,
+Take the girls tonight and sing this sleighing song,
+Just get a bob-tail bay two forty four is speed
+Then hitch him to an open sleigh and crack! You’ll take the lead.
+```
+
+#### 718. Jingle Bells (II)
+
+Sursa: Colinde Karban, p. 58
+
+**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
+
+**Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
+
+```text
+G                                             C
+Dashing through the snow, in a one-horse open sleigh,
+                   D                    G
+O’er the fields we go, laughing all the way,
+G                                      C
+Bells on bobtails ring, making spirits bright,
+                  D                                G
+What fun it is to ride and sing a sleighing song tonight, oh
+Refren:
+G                                          G
+Jingle bells, jingle bells, jingle all the way,
+C              G               A              D       D
+Oh what fun it is to ride in a one-horse open sleigh, hey,
+G                                          G
+Jingle bells, jingle bells, jingle all the way,
+C              G               D              G
+Oh what fun it is to ride in a one-horse open sleigh.
+G                                      C
+A day or two ago, I thought I’d take a ride,
+                    D                       G
+And soon Miss Fanny Bright was seated by my side;
+G                                                  C
+The horse was lean and lank; misfortune seemed his lot;
+              D                            G
+He got into a drifted bank, and we, we got upsot.
+G                                  C
+A day or two ago, the story I must tell
+                  D                     G
+I went out on the snow and on my back I fell;
+G                                        C
+A gent was riding by in a one-horse open sleigh,
+                      D                                G
+He laughed as there I sprawling lie, but quickly drove away.
+G                                          C
+Now the ground is white go it while you’re young,
+                 D                             G
+Take the girls tonight and sing this sleighing song;
+G                                          C
+Just get a bob-tailed bay two-forty as his speed
+                D                                      G
+Hitch him to an open sleigh and crack! you’ll take the lead.
+Note:La origine un cântec popular englez. Mai cunoscute sunt primele două strofe.
+Măsura este 4/4. Ca și acompaniament propun o tehnică brushing după cum urmează:
+E                3            3
+B                0            0
+G               0            0
+D               0            0
+A
+E         3            3
+|      |      |      |
+```
+
+#### 719. Last Christmas
 
 **Wham!** · Sursa: Colinde Karban, p. 59
 
@@ -32492,7 +34573,7 @@ E
 D
 ```
 
-#### 680. Le bonhomme de neige
+#### 720. Le bonhomme de neige
 
 muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 77
 
@@ -32558,7 +34639,7 @@ E         3
 |          | _ _ |      |          | _ _ |
 ```
 
-#### 681. Le petit renne au nez rouge
+#### 721. Le petit renne au nez rouge
 
 Sursa: Colinde Karban, p. 78
 
@@ -32605,7 +34686,7 @@ E         3         3     3            3     3     3
 |          | _ _ |          _ |      | _ _ |
 ```
 
-#### 682. Leise rieselt der Schnee
+#### 722. Leise rieselt der Schnee
 
 Sursa: Colinde Karban, p. 86
 
@@ -32651,7 +34732,7 @@ E
 Exemplificat aici pentru C.
 ```
 
-#### 683. Let It Snow!
+#### 723. Let It Snow!
 
 muzica/versuri: Sammy Cahn, J.Styne 1945 · Sursa: Colinde Karban, p. 60
 
@@ -32704,149 +34785,7 @@ E         1         1     1     1       1     1
 F
 ```
 
-#### 684. Linu-i lin
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 37 · Cărticica Karban, p. 88
-
-**Chitară:** G 320003 · C x32010 · D xx0232
-
-**Ukulele:** G 0232 · C 0003 · D 2220
-
-```text
-Refren:
-G                    C
-Linu-i lin și iară-i lin
-               G
-Bate vântu câtilin,
-       D          G
-Frunză verde de mălin.
-G                    C
-Linu-i lin și iară-i lin
-               G
-Bate vântu câtilin,
-       D          G
-Frunză verde de mălin.
-G             C     D
-Sculați gazde nu dormiți
-G             C     D
-Că nu-i vreme de dormit
-G              C  D
-Că-i vremea de să scula
-G         C  D
-Casăle le așeza.
-G         C      D
-Pe la ușă cu brândușă
-G             C        D
-La ferești cu flori domnești.
-G          C        D
-Și colinda nu-i mai multă
-G          C      D
-Să trăia cine-o ascultă.
-```
-
-#### 685. Mă luai luai
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 38
-
-**Chitară:** Em 022000 · Am x02210 · B x24442 · D xx0232 · A x02220
-
-**Ukulele:** Em 0432 · Am 2000 · B 4322 · D 2220 · A 2100
-
-```text
-Intro Em Em
-   Em    Am
-Mă luai, luai
-   Em    B
-Mă luai, luai
-       Am     Em
-Pă din sus de râu
-     B       Em     Em     Em
-Cu secerea-n brâu.
-      Em    Am
-Maica îmi venea
-      Em    B
-Maica îmi venea
-   Am  Em
-Se apropia
-   B   Em    Em     Em
-Se apropia.
-      Em   Am
-Și mă întreba
-      Em   B
-Și mă întreba
-      Am    Em
-Gătat-ai holda?
-      B     Em    Em     Em
-Gătat-ai holda?
-      Em     Am
-Holda n-am gătat
-      Em     B
-Holda n-am gătat
-       Am Em
-Că s-o arătat
-       B  Em   Em     Em
-Că s-o arătat
-Note: Măsura este 3/4 și ciupitura:
-E                                   0
-B                      0                  0
-G               0            0
-D
-A
-E         0
-```
-
-#### 686. Măruț mărgăritar
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 39
-
-**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
-
-**Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
-
-```text
-G             C        G        C
-Noi umblăm să colindăm măruț mărgăritar
-G             C    D
-Noi umblăm să colindăm
-G              C           G        C
-Pe la curți de boieri mari măruț mărgăritar
-G              C      D
-Pe la curți de boieri mari
-G           C          G        C
-Da’ boierii nu-s acasă măruț mărgăritar
-G          C      D
-Da boierii nu-s acasă
-G               C         G        C
-Că-s plecați la vânătoare măruț mărgăritar
-G         C    D
-Să vâneze căprioare
-G         C         G        C
-Căprioare n-o aflat măruț mărgăritar
-G         C    D
-Căprioare n-o aflat
-G               C       G        C
-Numai un pui de iepuraș măruț mărgăritar
-G               C   D
-Numai un pui de iepuraș
-G                C       G        C
-Tinsă pușca să-l împuște măruț mărgăritar
-G          C    D
-Și săgeată să săgete
-G                   C       G        C
-Hop, hop, hop nu mă țântire măruț mărgăritar
-G             C     D
-Că io nu-s ce par a fire
-Note:În original probabil din F. Măsura este 4/4. Ca acompaniament propun urmatoarea ciupitură:
-E         3         3                    0
-B         0         0                    3
-G         0                    0
-D
-A
-E         3
-|          |          |          |
-```
-
-#### 687. Merry Xmas Everybody
+#### 724. Merry Xmas Everybody
 
 **Slade** · Sursa: Colinde Karban, p. 61
 
@@ -32905,7 +34844,7 @@ E
 - La strofe acordul D poate fi “înfrumusețat” cu D4.
 ```
 
-#### 688. Mon Beau Sapin
+#### 725. Mon Beau Sapin
 
 muzica/versuri: tradițional german · Sursa: Colinde Karban, p. 79
 
@@ -32953,89 +34892,7 @@ M’offrent  la douce image
 Note:Măsura este 3/4
 ```
 
-#### 689. Moș Crăciun (I)
-
-**tradițional** · Sursa: Cărticica Karban, p. 220
-
-**Chitară:** G 320003 · C x32010 · D7 xx0212
-
-**Ukulele:** G 0232 · C 0003 · D7 2223
-
-```text
-[G]Moș Crăciun cu [C]plete [G]dalbe
-[G]A so[C]sit de [D7]prin nă[G]meți,
-[G]Și aduce [C]daruri [G]multe
-[G]La fe[C]tițe [D7]și bă[G]ieți.
-Refren:
-[G]Moș Cră[C]ciun, [G]Moș Cră[C]ciun!
-[G]Ești un [C]om [D7]atât de [G]bun!
-[G]Moș Cră[C]ciun, [G]Moș Cră[C]ciun!
-[G]Ești un [C]om [D7]atât de [G]bun!
-[G]Din bătrâni se [C]poves[G]tește
-[G]Ca-n toți [C]anii [D7]negre[G]șit,
-[G]Moș Crăciun cu [C]drag so[G]sește,
-[G]Nicio[C]dată [D7]n-a lip[G]sit.
-Refren:
-[G]Moș Crăciune, [C]Moș Cră[G]ciune
-[G]Înco[C]tro vrei [D7]s-o a[G]puci?
-[G]Ți-aș cânta flo[C]rile [G]dalbe
-[G]Dac-aș [C]ști că [D7]nu te [G]duci.
-Refren:
-```
-
-#### 690. Moș Crăciun (II)
-
-muzica/versuri: D.G. Kiriac/tradițional · Sursa: Colinde Karban, p. 9
-
-**Chitară:** G 320003 · D xx0232 · C x32010
-
-**Ukulele:** G 0232 · D 2220 · C 0003
-
-```text
-G      D       C     G
-Moș Crăciun cu plete dalbe
-D   G      D      G
-A sosit de prin nămeți,
-G   D    C      G
-Și aduce daruri multe
-D    G    D    G
-La fetițe și băieți.
-Refren:
-G      C     G      C
-Moș Crăciun, Moș Crăciun!
-G       C  D       G
-Ești un om atât de bun!
-G      C     G      C
-Moș Crăciun, Moș Crăciun!
-G       C  D       G
-Ești un om atât de bun!
-G     D        C    G
-Din bătrâni se povestește
-D         G    D    G
-Că-n toți anii negreșit,
-G      D       C      G
-Moș Crăciun cu drag sosește,
-D    G    D      G
-Niciodată n-a lipsit.
-G      D      C      G
-Moș Crăciune, Moș Crăciune
-D   G        D    G
-Încotro vrei s-o apuci?
-G        D     C    G
-Ți-aș cânta florile dalbe
-D      G      D     G
-Dac-aș ști că nu te duci.
-Note: Măsura este 2/4 și merge o bătaie de forma:
-E         3         3     3
-B         0         0     0
-G         0         0     0
-D         0         0     0
-A         2
-E         3
-|          | _ _ |
-```
-
-#### 691. Must Be Santa
+#### 726. Must Be Santa
 
 Sursa: Colinde Karban, p. 62
 
@@ -33096,289 +34953,7 @@ Em      A            D
 Must be Santa, Santa Claus
 ```
 
-#### 692. Ninge iar (I)
-
-**Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 110 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ninge-iar-1857)
-
-**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
-
-**Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322 · G 0232
-
-```text
-V. Șeicaru
-1.
- Em                 D
-Ninge iar iubito în absența ta
-   C                     B7
-Ca o despletire de cireș amar
-     Em             D
-Din copilărie n-a mai nins așa
-     C               B7
-Dac-ai fi cu mine am fugi pe cai.
-
-R:
-   G                   D
-Ninge cu argintul coamelor de cai
-    C               B7
-Ninge ca o nuntă veche la fereastră
-    G                 D
-Dac-ai fi cu mine astăzi cu alai
-     C                   B7
-Am porni iubito către nunta noastră.
-
-2.
-Parcă tot pământul e-nvelit de cer
-Prins de Odiseea fulgilor de nea
-Azi mi-i dor de tine ca un mesager
-Urmărit de viscol și absența ta.
-
-3.
-Ca și cum ar curge vremea înapoi
-SĂ împartă iarăși două veșnicii
-Ninge cu duminici, ninge între noi
-Cei pierduți în lume, singuri și copii.
-
-4.
-Dac-aș știi pe unde este umbra ta
-Azi pe sub zăpadă ți-aș săpa tunel
-Și-am reface lumea cum a fost cândva
-Într-un vis cu sănii și cu clopoței.
-```
-
-#### 693. Ninge iar (II)
-
-**Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 84
-
-**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
-
-**Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322 · G 0232
-
-```text
-[Em]Ninge iar iubito [D]în absența ta
-[C]Ca o despletire [B7]de cireși în mai
-[Em]Din copilărie [D]n-a mai nins așa
-[C]Dacă ai fi cu mine [B7]am fugi pe cai
-[Em]Parcă tot pământul e-[D]nvelit de cer
-[C]Prins de Odiseea [B7]fulgilor de nea
-[Em]Azi mi-e dor de tine [D]ca un mesager
-[C]Urmărit de viscol [B7]și absența ta
-Refren:
-[G]Ninge cu argintul [D]coamelor de cai
-[C]Ninge ca o nuntă [B7]veche la fereastră
-[G]Dac-ai fi cu mine [D]astăzi în alai
-[C]Am porni iubito [B7]către nunta noastră
-[Em]Ca și cum ar curge [D]vremea înapoi
-[C]Să împartă iarăși [B7]două veșnici
-[Em]Ninge cu duminici, [D]ninge între noi
-[C]Cei pierduți în lume, [B7]singuri și copii
-[Em]Dacă-aș ști pe unde [D]este umbra ta
-[C]Azi pe sub zăpadă [B7]ți-aș săpa tunel
-[Em]Și-am reface lumea [D]cum a fost cândva
-[C]Într-un vis de sănii [B7]și de clopoței.
-Notă: Cântecul e în măsura 3/4.
-La trecerea de la refren la strofe și de la strofe la refren se cântă (dacă
-mai îmi aduc eu bine aminte) o progresie de bass de genul:
-B7
-E||----------2----|------------------||
-B||----------0----|------------------||
-G||----------2----|------------------||
-D||----------1----|------------------||
-A||----------2----|--2--0------------||
-E||---------------|----------3----0--||
-cu o trecere în Em sau respectiv, în G.
-```
-
-#### 694. Ninge iar (III)
-
-**Ștefan Hrușcă** · muzica/versuri: S  țefan Hrușcă/Dan Verona · Sursa: Colinde Karban, p. 104
-
-**Chitară:** Em 022000 · D xx0232 · C x32010 · B x24442 · G 320003 · B7 x21202
-
-**Ukulele:** Em 0432 · D 2220 · C 0003 · B 4322 · G 0232 · B7 2322
-
-```text
-Em               D
-Ninge iar iubito în absența ta
-C               B
-Ca o despletire de cireși în mai
-Em            D
-Din copilărie n-a mai nins așa
-C                  B
-Dacă ai fi cu mine am fugi pe cai
-Em                   D
-Parcă tot pământul e-nvelit de cer
-C                B
-Prins de Odiseea fulgilor de nea
-Em                   D
-Azi mi-e dor de tine ca un mesager
-C                 B
-Urmărit de viscol și absența ta
-Refren:
-G                 D
-Ninge cu argintul coamelor de cai
-C                B
-Ninge ca o nuntă veche la fereastră
-G                 D
-Dac-ai fi cu mine astăzi în alai
-C               B
-Am porni iubito către nunta noastră
-Em                 D
-Ca și cum ar curge vremea înapoi
-C                 B
-Să împartă iarăși două veșnicii
-Em                 D
-Ninge cu duminici, ninge între noi
-C                     B
-Cei pierduți în lume, singuri și copii
-Em                  D
-Daca-aș ști pe unde este umbra ta
-C                 B
-Azi pe sub zăpadă ți-aș săpa tunel
-Em                 D
-Și-am reface lumea cum a fost cândva
-C                    B
-Într-un vis de sănii și de clopoței.
-Notă: Cântecul e în măsura 3/4. Trecerea de la refren la strofe și si invers se cântă cu urmatoarea progresie bass:
-E                          2
-B                          0
-G                          2
-D                          1
-A                          2                2     0
-E                                                            3         0
-B7
-cu o trecere în Em sau respectiv, în G.
-```
-
-#### 695. Noapte de vis
-
-muzica/versuri: Franz X. Gruber/Joseph Mohr/traduse · Sursa: Colinde Karban, p. 10
-
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
-
-**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
-
-```text
-G         G    G        G
-Noapte de vis, timp preasfânt,
-D     D    G    G
-Toate dorm pe pământ;
-C      C   G      G
-Doar două inimi veghează,
-C       C     G G
-Pruncul dulce visează
-G       D         G Em
-Într-un leagăn de cânt.
-G       D         G     G
-Într-un leagăn de cânt.
-G         G    G        G
-Noapte de vis, timp preasfânt,
-D    D   G    G
-Dumnezeu râde blând;
-C        C     G G
-Pieptu-i varsă iubire,
-C     C  G    G
-Lumii dă mântuire
-G      D   G Em
-Pace-n ea aducând.
-G      D   G G
-Pace-n ea aducând.
-G         G    G        G
-Noapte de vis, timp preasfânt,
-D    D    G      G
-Păstorași vin cântând;
-C       C     G    G
-Îngerii cântă Aleluia,
-C       C    G   G
-Nouă vestind bucuria,
-G      D    G Em
-Domnul e pe pământ.
-G      D    G G
-Domnul e pe pământ.
-Note:O altă variantă de la Stille Nacht cel mai frumos cântec de Crăciun.
-Măsura este 3/4.Merge o bătaie sau ciupitură de forma:
-E                3     3            3     3
-B                3     3            3     3
-G               0     0            0     0
-D
-A
-E         3                  3
-| _ _ |      | _ _ |      | _ _ |
-Note:Măsura este 3/4
-```
-
-#### 696. Noapte sfântă (I)
-
-**Tradițional** · Sursa: Cărticica Karban, p. 219
-
-**Chitară:** C x32010 · G7 320001 · F 133211 · G 320003 · Am x02210
-
-**Ukulele:** C 0003 · G7 0212 · F 2010 · G 0232 · Am 2000
-
-```text
-[C]Noapte sfântă, fericită,
-[G7]Lumea-i [C]liniștită.
-[F]Numai fecioara [C]mai veghează
-[F]Și sus bolta se [C]înstelează.
-[G]Maica [G7]sfântă îi [C]cântă [Am]lin,
-[C]Pe fiul [G]sau adorm[C]ind.
-[G]Maica [G7]sfântă îi [C]cântă [Am]lin,
-[C]Pe fiul [G]sau adorm[C]ind.
-[C]Noapte sfântă, fericită,
-[G7]Păstori, magi la [C]drum plecară,
-[F]Îl găsiră în [C]iesle culcat,
-[F]Pe Mesia mult [C]așteptat.
-[G]Heru[G7]vimi cântă [C]lui [Am]Isus:
-[C]"Mărite-ntru [G]cele de [C]sus!"
-[G]Heru[G7]vimi cântă [C]lui [Am]Isus:
-[C]"Mărite-ntru [G]cele de [C]sus!"
-```
-
-#### 697. Noapte sfântă (II)
-
-muzica/versuri: Franz Xaver Gruber/Joseph Mohr · Sursa: Colinde Karban, p. 11
-
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
-
-**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
-
-```text
-în original “Stille Nacht”
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
-C              C
-Noapte sfântă, fericită,
-G       C
-Lumea-i liniștită.
-F              C
-Numai fecioara mai veghează
-F               C
-Și sus bolta se înstelează.
-G     G         C     Am
-Maica sfântă îi cântă lin,
-C       G        C
-Pe fiul său adormind.
-G     G         C     Am
-Maica sfântă îi cântă lin,
-C       G        C
-Pe fiul său adormind.
-C              C
-Noapte sfântă, fericită,
-G                C
-Păstori, magi la drum plecară,
-F            C
-Îl găsiră în iesle culcat,
-F             C
-Pe Mesia mult așteptat.
-G   G          C   Am
-Heruvimi cântă lui Isus:
-C            G       C
-“Mărite-ntru cele de sus!”
-G   G          C   Am
-Heruvimi cântă lui Isus:
-C            G       C
-“Mărite-ntru cele de sus!”
-```
-
-#### 698. O Christmas Tree
+#### 727. O Christmas Tree
 
 muzica/versuri: tradițional · Sursa: Colinde Karban, p. 63
 
@@ -33421,50 +34996,7 @@ Of all the trees most lovely.
 Pentru cei care trecerea Em-B7-Em pare prea complicată pot să o înlocuiască cu Em.
 ```
 
-#### 699. O Come Little Children
-
-muzica/versuri: tradițional german - Ihr Kinderlein kommet · Sursa: Colinde Karban, p. 64
-
-**Chitară:** A x02220 · E 022100 · D xx0232
-
-**Ukulele:** A 2100 · E 4442 · D 2220
-
-```text
-  A           A           E            A
-O come little Children, o come one and all
-   A           A         E            A
-To Bethlehem’s stable in Bethlehem’s  stall
-    E          E            A        D
-And see with rejoicing this glorious sight
-    A         F m        E            A
-Our Father in heaven has sent us this night.
-  A          A         E        A
-O see in the manger in hallowed light
-  A               A            E       A
-A star throws its beam on this holiest sight
-   E               E                A        D
-In clean swaddling clothes lays the heavenly child
-     A           F m         E       A
-More lovely than angels this baby so mild.
-   A              A               E          A
-Oh there lays the Christ child on hay and on straw
-    A             A          E             A
-The shepherds are kneeling before Him with awe
-    E               E        A        D
-And Mary and Joseph smile on Him with love
-      A             F m        E          A
-While angels are singing sweet songs from above.
-Note:Măsura este 4/4 și merge o ciupitură forma:
-E                      0                         0
-B                      2                         2
-G               2            2            2            2
-D
-A         0                         0
-E
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-```
-
-#### 700. O Tannenbaum
+#### 728. O Tannenbaum
 
 Sursa: Colinde Karban, p. 87
 
@@ -33528,439 +35060,7 @@ E         3
 |          |          | _ _ |
 ```
 
-#### 701. O, brad frumos! (I)
-
-**Tradițional** · Sursa: Cărticica Karban, p. 221
-
-**Chitară:** F 133211 · C x32010 · C7 x32310
-
-**Ukulele:** F 2010 · C 0003 · C7 0001
-
-```text
-O, [F]brad frumos, [C]o [F]brad frumos
-Cu cetina [C]tot ver[F]de!
-Tu ești copacul [C7]credincios
-Ce frunza nu și-o [F]pierde.
-O, brad frumos [C]a [F]lui Hristos
-Cu ceti[C7]na tot ver[F]de!
-O, [F]brad frumos, [C]o [F]brad frumos
-Verdeata [C]ta îmi [F]place!
-Oricând o văd [C7]sunt bucuros
-Și vesel ea mă [F]face.
-O, brad frumos [C]a [F]lui Hristos
-Cu ceti[C7]na tot ver[F]de!
-O, [F]brad frumos, [C]o [F]brad frumos
-Cu frunza-ți [C]neschim[F]bată!
-Mă mângâi când mă [C7]vezi duios
-Și mă întărăști [F]îndată.
-O, brad frumos [C]a [F]lui Hristos
-Cu frunza-[C7]ți neschim[F]bată!
-```
-
-#### 702. O, brad frumos! (II)
-
-muzica/versuri: tradițional german · Sursa: Colinde Karban, p. 12
-
-**Chitară:** F 133211 · C x32010
-
-**Ukulele:** F 2010 · C 0003
-
-```text
-   F            C F
-O, brad frumos, o brad frumos
-          C      F
-Cu cetina tot verde!
-                C
-Tu ești copacul credincios
-                  F
-Ce frunza nu și-o pierde.
-               C F
-O, brad frumos a lui Hristos
-       C         F
-Cu cetina tot verde!
-   F            C F
-O, brad frumos, o brad frumos
-         C      F
-Verdeața ta îmi place!
-              C
-Oricând o văd sunt bucuros
-               F
-Și vesel ea mă face.
-               C F
-O, brad frumos a lui Hristos
-       C         F
-Cu cetina tot verde!
-   F            C F
-O, brad frumos, o brad frumos
-             C      F
-Cu frunza-ți neschimbată!
-                  C
-Mă mângâi când mă vezi duios
-                F
-Și mă întărăști îndată.
-               C F
-O, brad frumos a lui Hristos
-          C         F
-Cu frunza-ți neschimbată!
-Măsura ete 3/4
-```
-
-#### 703. O, ce veste minunată (2)
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 41
-
-**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
-
-**Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
-
-```text
-C               F G
-O, ce veste minunată
-   C             F G
-În Viflaim ni s-arată!
-C           F
-Că a născut prunc,
-C               F
-Prunc din Duhul Sfânt.
-G          F C
-Fecioara Maria;
-(Variantă la prima strofă:
-C              F G
-O ce veste minunată
-C                F G
-În Vifleem ni s-arată!
-C           F
-Cerul strălucea,
-C         F
-Îngerul venea
-G           F C
-Pe-o rază curată.)
-E                               0
-B                               1
-G                    0                    0
-D
-A         3
-E
-|          |          |          |
-```
-
-#### 704. O, ce veste minunată! (1)
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 40
-
-**Chitară:** E 022100 · B x24442 · A x02220
-
-**Ukulele:** E 4442 · B 4322 · A 2100
-
-```text
-E             B
-O ce veste minunată
-E               B
-În Viflaim se arată
-E     A    E
-Cerul strălucea
-         C m
-Îngerii veneau
-B          E
-Pe-o rază curată
-E                B
-Mergând Iosif cu Maria
-E                B
-În Viflaim să se-nscrie
-E       A   E
-Într-un mic sălaș
-          C m
-Lâng-acel oraș
-B          E
-S-a născut Messia
-E               B
-Vrut au să călătorească
-E                B
-Ora i-a sosit să nască
-E     A       E
-Pe al său fiu sfânt
-         C m
-Nouă pe pământ
-B         E
-Să ne mântuiască
-E                B
-E Iisus păstorul mare
-E             B
-Turmă ca el nimeni n-are
-E      A  E
-Noi îl lăudăm
-           C m
-Și ne închinăm
-B           E
-Cu credință tare.
-Note:Ultimele 3 versuri din fiecare strofă se repetă mereu.
-Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest cântec.
-```
-
-#### 705. Ostașii luminii colindă (I)
-
-**Doi și Jumătate** · Sursa: Caiet cabană RO, p. 116
-
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000
-
-**Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432
-
-```text
-1.
-Am              G          Dm        Am
-Larg deschideți poarta sufletelor noastre
-   C               Em       Dm         Am
-N-am venit să cerem, ci-am venit să dăm.
-
-R:
-G   C            G       Dm         Am
-Dalbe și iar dalbe flori adevărate
-      C           Em     Dm          Am            G
-Ca și vestea bună ce v-o colindăm
-Dalbe și iar dalbe flori adevărate
-Dalbe și iar dalbe florile de măr.
-2.
-Dincolo de munții vieții și-ai himerei
-Le-am cules azi noapte florile de măr
-Le-am cules din munții unde veșnic merii
-Roditori de aur sunt într-adevăr.
-
-3.
-Florile pe care le-am cules azi noapte
-Vor rodi în brazda sufletelor toate
-Merele de aur, merele visate
-De colindătorii veacurilor toate.
-```
-
-#### 706. Ostașii luminii colindă (II)
-
-**Doi și Jumătate** · muzica/versuri: Doi și Jumătate/Elena Farago · Sursa: Colinde Karban, p. 92
-
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000 · D xx0232 · E 022100
-
-**Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432 · D 2220 · E 4442
-
-```text
-Am              G
-Larg deschideți poarta
-Dm         Am
-Sufletelor toate
-C             Em
-N-am venit să cerem,
-Dm             Am
-Ci-am venit să dăm.
-Am              G
-Larg deschideți poarta
-Dm         Am
-Sufletelor toate
-C             Em
-N-am venit să cerem,
-Dm             Am
-Ci-am venit să dăm.
-Refren:
-G     C      G
-Dalbe și iar dalbe
-Dm     Dm  Am
-Flori adevărate
-C     Em     Am
-Ca și vestea bună
-Dm     Em   Am   Am
-Ce v-o colindăm
-G     C      G
-Dalbe și iar dalbe
-Dm     Dm  Am
-Flori adevărate
-C     Em     Am
-Dalbe și iar dalbe
-Dm   Em    Am   Am
-Florile de măr.
-E                0                  0                  0
-B                      1                  1
-G                            2                  2
-D
-A         0
-E
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-Exemplificat aici pentru Am. Iar la refren:
-E                3                         0
-B                      0                         1
-G                            0                         0
-D
-A                                   3
-E         3
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-G                        C
-Exemplificat aici pentru G urmat de C.
-```
-
-#### 707. Pe cununa munților
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 42
-
-**Chitară:** F 133211 · C x32010 · Bb x13331
-
-**Ukulele:** F 2010 · C 0003 · Bb 3211
-
-```text
-F            C     F
-Sus în Raiul sfinților
-F                Bb   C
-Oi linu-i lin și rujmalin
-F         C    F
-Pe cununa munților.
-F            C    F
-Este-o dalbă mânăstire
-F                Bb   C
-Oi linu-i lin și rujmalin
-F            C    F
-Cu scaun de odihnire.
-F        C    F
-Da acolo cine șede
-F                Bb   C
-Oi linu-i lin și rujmalin
-F        C    F
-Da acolo cine șede
-F          C     F
-Șede, șede Maica Sfântă
-F                Bb   C
-Oi linu-i lin și rujmalin
-F            C       F
-Nici nu râde nici nu cântă.
-F              C      F
-Cu-n pahar sfințit în mână
-F                Bb   C
-Oi linu-i lin și rujmalin
-F           C     F
-Tot închină și suspină.
-F
-Vine Fiul și-o întreabă
-F                Bb   C
-Oi linu-i lin și rujmalin
-F             C    F
-Ce suspini măicuță dragă?
-F           C     F
-Da eu cum n-oi suspina
-F                Bb   C
-Oi linu-i lin și rujmalin
-F               C       F
-Când văd cât de rea-i lumea.
-E         1         1         1         1
-B         1         1         1         1
-G         2         2         2         2
-D         3         3         3         3
-A         3         3         3         3
-E         1         1         1         1
-|          |          |          |
-F
-Exemplificat pentru primul vers.
-```
-
-#### 708. Pe podele de nuiele
-
-**Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 13
-
-**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432 · E 022100
-
-**Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222 · E 4442
-
-```text
-Urarea se recită pe cadența:D D Bm G D A A.
-Casa în care am intrat
-E de binecuvântat
-După legea creștinească
-Numele să-și împlinească
-Și-ntre lumânări aprinse
-Mesele să-i fie-ntinse
-Și-ncărcate cu bucate.
-Să trăiți în sănătate
-Și-n unire și-n cinstire
-Că ne-ați dat adăpostire.
-D         D
-Pe podele de nuiele
-G           D        A   A
-Duc copii-n palme stele
-Bm         D
-Să le lase pe la case
-A         D         D   D
-Unde-s gazdele miloase
-D        D
-Și cu dragoste creștină
-G           D         A   A
-Duc copii-n pumni lumină
-Bm             D
-Drumu-i greu zăpada-i mare
-A         D      D   D
-Vin copii pe cărare
-D           D
-Să tot taie neaua-n două
-G           D      A   A
-Duc copii-n gene rouă
-Bm           D
-Și tot cântă din colinde
-A          D          D   D
-Până gerul nu i-o prinde
-Note: Măsura este 4/4. Sună foarte bine ciupitura:
-E         2                    2
-B         3                    3
-G                    2                    2
-D         0
-A
-E
-|          |          |          |
-```
-
-#### 709. Pe strada din Viflaim
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 43
-
-**Chitară:** E 022100 · A x02220 · B x24442
-
-**Ukulele:** E 4442 · A 2100 · B 4322
-
-```text
-E               E
-Pe strada din Viflaim
-  A        E
-Mere maica cu Iosîm
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                E
-Când din Viflaim să iasă,
-   A           E
-Să opriră la o casă,
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                E
-Lângă poart-un tânăr stă
-   A             E
-Și pe dânșii-i întrebă
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                 E
-De unde veniți drumeți?
-   A             E
-Tocmai de la Nazaret
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E             E
-Fie-ți milă tânăr bun
-   A             E
-Și nu ne lăsa pe drum
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-Note:Măsura este 4/4. Merge o ciupitură de forma:
-E                             0
-B                                          0
-G               1                                      1
-D                      2                         2
-A
-E         0                         0
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-E
-În original armonia este ceva mai complexă.
-```
-
-#### 710. Pére Noël arrive ce soir
+#### 729. Pére Noël arrive ce soir
 
 muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 80
 
@@ -34019,151 +35119,7 @@ E
 |      |      |      |
 ```
 
-#### 711. Plecarea
-
-**Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Serghei Esenin · Sursa: Colinde Karban, p. 93
-
-**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · E 022100
-
-**Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · E 4442
-
-```text
-Intro: C F C F
-C                        F
-Ceață, vânt, zăpadă și tăcere
-Dm                   G
-Raza lunii fâlfâie tăcut
-F                   C
-Inima c-o molcomă durere
-Dm                     G
-Își aduce aminte de trecut
-C
-Spulberat omătul se despică
-Dm
-Pe-așa lună eu ascuns ieșit
-F
-Indesându-mi cușma de pisică
-Dm
-Casa parinteasca-am părăsit
-C
-Iarăși sunt în focurile mele
-Dm
-M-au uitat? Sau minte mă mai țin?
-F
-Stau mâhnit ca un gonit de rele
-Dm
-Reîntors la vechiul lui cămin
-Note: Măsura este 4/4 iar ciupitura:
-E                                   0
-B                      1                         1
-G               0            0            0            0
-D
-A         3
-E
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-```
-
-#### 712. Pom înrămuratu
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 44
-
-**Chitară:** F 133211 · Bb x13331 · C x32010
-
-**Ukulele:** F 2010 · Bb 3211 · C 0003
-
-```text
-F               Bb
-Pom înrămuratu, pom înrămuratu,
-C            F     C            F
-De poame-ncărcatu, de poame-ncărcatu.
-F                   Bb
-Vântu-și trăgănară, vântu-și trăgănară,
-C         F        C      F
-Poamele picară, poamele picară.
-F                   Bb
-Prunci le culesară, prunci le culesară,
-C          F       C       F
-Și le primesară și le primesară.
-F              Bb
-La ușă de Rai, la ușă de Rai
-C          F        C       F
-La fete de crai, la fete de crai.
-F                      Bb
-Luna-n drum le-o stat, luna-n drum le-o stat,
-C           F          C           F
-Frumos i-o-ntrăbat, frumos i-o-ntrăbat:
-F                   Bb
-De unde le-adușeți, de unde le-adușeți,
-C         F          C        F
-Înapoi le dușeți, înapoi le dușeți.
-F                   Bb
-De la sfântu soare, de la sfântu soare,
-C          F         C      F
-C-o mare rugare, c-o mare rugare.
-F                     Bb
-În coate și-n gerute, în coate și-n gerute,
-C              F             C          F
-În cel vârf de munte, în cel vârf de munte.
-Note: Măsura este 4/4. Merge o bătaie de forma:
-E         1     1     1         1     1     1                1     1     1         1     1     1
-B         1     1     1         1     1     1                3     3     3         3     3     3
-G         2     2     2         2     2     2                3     3     3         3     3     3
-D         3     3     3         3     3     3                3     3     3         3     3     3
-A         3     3     3         3     3     3                1     1     1         1     1     1
-E         1     1     1         1     1     1                1     1     1         1     1     1
-| _ _ |      |          | _ _ |      |                 | _ _ |      |          | _ _ |      |
-```
-
-#### 713. Pomul de Crăciun
-
-**Mircea Baniciu** · Sursa: Colinde Karban, p. 101
-
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · F 133211 · Am x02210
-
-**Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · F 2010 · Am 2000
-
-```text
-Mircea Baniciu/???
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
-Intro: G Em C G D
-     G
-Vine iarăși, vine vremea de colinde și mister
-     Em
-Când primește să se nască Domnul coborât din cer
-      C
-Nuntă ninsă la fereastră este Pomul de Crăciun
-       G                             D
-Când încep să se colinde Dumnezeu și omul bun
-   G
-Se întoarce vremea dusă ce mă știe pe de rost
-      Em
-La un geam să mi-l arate pe copilul care-am fost
-       C
-Și sub steaua-mpărătească ce domnește peste noi
-       G                                     D
-Bradul verde să-mi dea iarăși tot norocul înapoi.
-Refren:
-D         G         D
-Pom de Crăciun este sufletul meu
-      G                  D
-La un geam pentru tine mereu
-       F               C
-Pentru tine aș vrea să pot colinda
-      F    C     Am D
-Lerui ler, flori dalbe.
-     G
-Este vremea din tristețe să ieșim ca din tramvai
-    Em
-Și, precum odinioară, să ne furișăm din rai
-     C
-Că e domnul singur tare, doar cu maica lângă el
-      G                                      D
-Și-am înveselit tot raiul cu un zvon de clopoțel
-Refren
-Strofele se arpegiază iar la refren merge un pop-strum.
-```
-
-#### 714. Rocking Around the Christmas Tree
+#### 730. Rocking Around the Christmas Tree
 
 **Brenda Lee** · muzica/versuri: Johnny Marks/Johnny Marks · Sursa: Colinde Karban, p. 65
 
@@ -34220,7 +35176,7 @@ E         3         3                      3
 Exemplificat aici pentru G. Semnele “ ” reprezintă lovirea corzii de sus în jos.
 ```
 
-#### 715. Rudolph The Red Nosed Reindeer
+#### 731. Rudolph The Red Nosed Reindeer
 
 muzica/versuri: Johnny Marks 1949 · Sursa: Colinde Karban, p. 66
 
@@ -34272,75 +35228,7 @@ Exemplificat aici pentru C. Semnele “ ” reprezintă lovirea corzii de sus î
 La strofe linia C-C-C poate fi înlocuită cu C-C7-C la fel și G7-G7-G7 cu G7-G-G7.
 ```
 
-#### 716. Sainte Nuit
-
-muzica/versuri: tradițional german- Stille Nacht, heilige Nacht · Sursa: Colinde Karban, p. 81
-
-**Chitară:** G 320003 · D xx0232 · C x32010 · Db x43121 · Em 022000 · A x02220
-
-**Ukulele:** G 0232 · D 2220 · C 0003 · Db 1114 · Em 0432 · A 2100
-
-```text
-G               G
-O Nuit de Paix, Sainte Nuit,
-D               G
-Dans le ciel, l’astre luit,
-C                      G
-Dans les champs tout repose en paix
-C                       G
-Mais soudain dans l’air pur et frais
-D      Db             Em A
-Le brillant coeur des anges
-G     D       G
-Oh Berger apparaît
-G              G
-O Nuit de Foi, Sainte Nuit
-D           G
-Les bergers sont instruits
-C                 G
-Confiants dans la voix des cieux
-C                G
-Ils s’en vont adorer leur Dieu
-D    Db      Em  A
-Et Jésus en échange
-G       D      G
-Leur sourit radieux
-G               G
-O Nuit d’Amour, Sainte Nuit
-D             G
-Dans l’étable aucun bruit
-C                    G
-Sur la paille est couché l’enfant
-C                    G
-Que la Vierge endort en chantant
-D    Db          Em   A
-Il repose en ses langes
-G     D       G
-Son Jésus ravissant
-G                G
-O Nuit d’Espoir, Sainte Nuit
-D               G
-L’espérance a reluit
-C                G
-Le Sauveur de la terre est né
-C                      G
-C’est ´r nous que Dieu l’a donné
-D   Db           Em A
-Célébrons ses louanges
-G         D         G
-Gloire au Verbe incarné
-Note:Măsura este 3/4.Merge o bătaie de forma:
-E                3     3            3     3
-B                3     3            3     3
-G               0     0            0     0
-D
-A
-E         3                  3
-| _ _ |      | _ _ |      | _ _ |
-Pentru altă variantă de armonizare vezi și transcriere melodiei în germană.
-```
-
-#### 717. Santa Claus Is Coming To Town
+#### 732. Santa Claus Is Coming To Town
 
 muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 67
 
@@ -34393,296 +35281,7 @@ Exemplificată aici pentru G.
 Acordul Cm este opțional și se potrivește mai bine la varianta ciupită a cântecului.
 ```
 
-#### 718. Scrisoare la-nceput de iarnă
-
-**Ducu Bertzi** · Sursa: Colinde Karban, p. 94
-
-**Chitară:** Am x02210 · F 133211 · Em 022000 · D xx0232 · E 022100
-
-**Ukulele:** Am 2000 · F 2010 · Em 0432 · D 2220 · E 4442
-
-```text
-Ducu Bertzi/Gheorghe Țărnea
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
-Am
-A nins ca-n basme aseară
-    F
-Mai ninge și acum
-     Em
-Prin albul calm al iernii
-   Am
-Privirea mea-i de fum.
-Am
-Si rătăcit mi-e gândul
-    F
-Sau poate mă visez
-     Em
-Și-n jur sunt crini în floare
-    Am
-Iar tu-mi șoptesti: zăpezi.
-Am
-Eu cad ca-ntr-o clepsidră
-   F
-Cu fulgii de afară
-   Em
-Și nu știu cine-n taină
-    Am
-Tristețea mi-o măsoară.
-Am
-În palma ta întinsă
-  F
-Căzu un fulg și nu-i
-    Em
-Cândva și eu cădea-voi
-   Am
-În palma nu știu cui.
-Note: în original din Cm. Măsura este 4/4 și merge o ciupitură de forma:
-E                             0                                                       0
-B                1                      1            1                  1                      1            1
-G                      2                      2                               2                      2
-D
-A         0                                                       0
-E
-| _ _ |      | _   |        _ |      | _ _ |            | _ _ |      | _   |        _ |      | _ _ |
-```
-
-#### 719. Seara serilor
-
-**Ducu Bertzi** · Sursa: Colinde Karban, p. 95
-
-**Chitară:** Dm xx0231 · A x02220 · E 022100
-
-**Ukulele:** Dm 2210 · A 2100 · E 4442
-
-```text
-Ducu Bertzi/Gheorghe Țărnea
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
-Intro A Dm A Dm
-Dm     A         Dm
-Asta-i seara serilor
-A                Dm
-Cu-nfloritul merilor
-Dm    A         Dm
-Cu trecutul vadului
-A             Dm
-Și gătitul bradului
-       A        Dm
-Cu cititul stelelor
-A                Dm
-Și-alungatul relelor
-Dm       A           Dm
-Fă-ți de grijă gazdă bună
-A                   Dm
-Sa-mpletești altă cunună
-Dm    A          Dm
-Din firuț de măieran
-A                Dm
-Să-ți ajungă înc-un an
-Dm       A         Dm
-Drumul-i spre Isus Hristos
-A               Dm
-Rămâi gazdă sănătos
-Dm       A          Dm
-Rămâi gazdă bun creștin
-A                  Dm
-Lângă pâine, lângă vin
-Dm    A             Dm
-Și cu tot belșugu-n casă
-A               Dm
-După firea ta miloasă
-Dm   A           Dm
-Și curat și primenit
-A                    Dm
-Mulțămim că ne-ai primit
-Dm    A              Dm
-Și cu drag ne-ai ospătat
-A                    Dm
-Din ce Dumnezeu ți-o dat
-Dm     A         Dm
-Asta-i seara serilor
-Note:Măsura este 4/4 iar ciupitura:
-E                             1                  1
-B                      3                  3            3
-G               2                  2
-D         0
-A
-E
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-```
-
-#### 720. Singur de Crăciun
-
-**Maria Magdalena Dănăilă** · Sursa: Colinde Karban, p. 99
-
-**Chitară:** Am x02210 · C x32010 · Em 022000 · Dm xx0231 · F 133211 · E 022100 · G 320003 · D xx0232
-
-**Ukulele:** Am 2000 · C 0003 · Em 0432 · Dm 2210 · F 2010 · E 4442 · G 0232 · D 2220
-
-```text
-Intro: Am G C Dm E E
-Am     C        Em    Em
-Prin nămeți cât casa
-Dm      Am      F        E
-N-ai să poți la mine să ajungi
-Am      C    Em    Em
-Și nici anul ăsta
-        Dm          F            E
-N-ai să poți să-mi aduci ce-am visat.
-Am  C    Em    Em
-E săracă masa
-Dm   Am       F              E
-Te aștept dar clipele-s prea lungi
-Am    C      Em    Em
-Și pe frigul ăsta
-      Dm      F         E
-Nu mă supăr dacă m-ai uitat.
-Refren 1:
-Am               Em
-Moș Crăciun bună seara
-Am                 G
-Ai să treci iar cu sănioara
-C                  Dm
-Te oprești pe rând pe la alți copii
-Dm                  E
-Doar la mine nu mai vii.
-Refren 2:
-Am                 Em
-Moș Crăciun noapte bună
-Am               G
-Cu-o crenguță de brad în mână
-C                     Dm
-Am să-ncerc s-adorm nedumerit
-Dm                   E
-Findca nu știu ce-am greșit.
-Am     Am Em
-Noapte bună.
-Note:Măsura este 4/4 și merge o ciupitură de forma:
-E                               0
-B                               0
-G                    1                    1
-D
-A         0
-E
-|          |          |          |
-```
-
-#### 721. Steaguri albe
-
-**Ștefan Hrușcă** · muzica/versuri: S  țefan Hrușcă/Adrian Păunescu · Sursa: Colinde Karban, p. 105
-
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · F 133211
-
-**Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · F 2010
-
-```text
-   Am       Dm      G    C
-Mă rog cu puterea cuvântului
-   Am    Dm     E    Am
-Pentru copiii pământului,
-   Am        Dm      G    C
-Mă rog cu dulceața colinzilor
-   Am    Dm    E    Am
-De sănătatea părinților.
-Refren:
-Dm       Am      Dm
-Florile, florile dalbe,
-C      Dm   F        Am
-Iar pe lume steaguri albe.
-Dm       Am      Dm
-Florile, florile dalbe,
-C      Dm   E        Am
-Iar pe lume steaguri albe.
-   Am       Dm     G   C
-Mă rog cu lumina minunilor
-   Am    Dm      E   Am
-În amintirea străbunilor,
-   Am       Dm      G  C
-Mă rog cu nădejdile omului
-   Am      Dm      E   Am
-Pentru echilibrul atomului.
-   Am       Dm      G   C
-Mă rog cu putința mătușilor
-   Am    Dm      E   Am
-Contra venirii cenușilor,
-   Am     Dm        G       C
-Mă rog cu blândețea din flaute
-   Am    Dm     E     Am
-Un happy end să ne caute.
-   Am     Dm        G    C
-Mă rog cu pecete de fulgere
-   Am   Dm        E    Am
-Să ne ferim de distrugere,
-   Am       Dm      G    C
-Mă rog cu puterea cuvântului
-   Am    Dm    E    Am
-De sănătatea pământului.
-Note:Măsura este 4/4 și propun următorul model de acompaniament:
-E                             0
-B                      1            1
-G               2                         2            2
-D                                                2
-A         0
-E
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-Exemplificat aici pentru Am.
-```
-
-#### 722. Stille Nacht, heilige Nacht
-
-muzica/versuri: Joseph Mohr/Franz Gruber · Sursa: Colinde Karban, p. 88
-
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
-
-**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
-
-```text
-G      G      G       G
-Stille Nacht, heilige Nacht,
-D     D        G      G
-alles schläft, einsam wacht,
-C       C          G       G
-nur das traute hochheilige Paar.
-C      C        G        G
-Holder Knabe im lockigen Haar,
-D         D           G   Em
-schlaf in himmlischer Ru..h!
-G          D          G    G
-Schlaf in himmlischer Ruh.
-G      G      G       G
-Stille Nacht, heilige Nacht,
-D      D    G     G
-Hirten erst kundgemacht
-C         C        G   G
-durch der Engel Halleluja
-C       C        G        G
-tönt es laut von fern und nah:
-D           D           G Em
-Christ, der Retter, ist da,
-G           D           G   G
-Christ, der Retter, ist da,
-G      G      G       G
-Stille Nacht, heilige Nacht,
-D      D     G     G
-Gottes Sohn, o wie lacht!
-C        C      G          G
-Lieb aus deinem göttlichen Mund,
-C      C           G        G
-da uns schlägt die rettende Stund,
-D          D        G Em
-Christ, in deiner Geburt!
-G         D         G    G
-Christ in deiner Geburt.
-Note:Măsura este 3/4.Merge o bătaie de forma:
-E                3     3            3     3
-B                3     3            3     3
-G               0     0            0     0
-D
-A
-E         3                  3
-| _ _ |      | _ _ |      | _ _ |
-```
-
-#### 723. Stop The Calvary
+#### 733. Stop The Calvary
 
 muzica/versuri: Lewie Jona/Lewie Jona · Sursa: Colinde Karban, p. 68
 
@@ -34730,172 +35329,7 @@ E
 Exemplificat aici pentru acordul D. Semnele “ ” reprezintă lovirea corzii de sus în jos.
 ```
 
-#### 724. Sus boieri nu mai dormiți
-
-**Maria Gheorghiu** · Sursa: Colinde Karban, p. 17
-
-**Chitară:** Em 022000 · D xx0232 · Bm x24432 · A x02220
-
-**Ukulele:** Em 0432 · D 2220 · Bm 4222 · A 2100
-
-```text
-Em    Em      D      Em
-Sus boieri nu mai dormiți
-D       D        Em    Em
-Florile dalbe de măr.
-Em Em    D       Em
-Vremea e să vă gătiți
-D       Bm       Em    Em
-Florile dalbe de măr.
-D    D       Em  Em
-Casa să vi-o măturați
-D       D        Em    Em
-Florile dalbe de măr.
-D    D       Em   Em
-Masa să vi-o încărcați
-D       Bm       Em    Em
-Florile dalbe de măr.
-Em     Em     D        Em
-Astăzi s-a născut Christos
-D       D        Em    Em
-Florile dalbe de măr.
-Em     Em      D   Em
-Domnul cel prealuminos
-D       Bm       Em    Em
-Florile dalbe de măr.
-D      D      Em        Em
-S-a născut un Domn prea bun
-D       D        Em    Em
-Florile dalbe de măr.
-D    D     Em     Em
-În lăcașul lui Crăciun
-D       Bm       Em    Em
-Florile dalbe de măr.
-Măsura este 4/4 și ciupitura de forma:
-E                             0                         0
-B                0                         0
-G                      0                         0
-D
-A
-E         0                         0
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-Em
-exemplificată pentru primul vers. În original e cu capo în poz. I
-```
-
-#### 725. Sus sus sus pe lângă lună
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 45
-
-**Chitară:** F 133211 · Bb x13331 · C x32010 · D xx0232 · A x02220
-
-**Ukulele:** F 2010 · Bb 3211 · C 0003 · D 2220 · A 2100
-
-```text
-Intro: F Bb F C F
-F                    Bb
-Sus sus sus pe lângă lună
-        F            C
-Sus sus sus pe lângă lună
-       Bb       F
-Mândru arde o lumină
-       C        F
-Mândru arde o lumină.
-F                 Bb
-Nici aceea nu-i lumină
-      F           C
-Nici aceea nu-i lumină
-        Bb       F
-Că-i un scaun de odihnă
-        C        F
-Că-i un scaun de odihnă.
-F                Bb
-Da pe scaun cine șede
-      F          C
-Da pe scaun cine șede
-     Bb          F
-Șede Maica Preacurată
-       C           F
-C-un fiuț micuț în brațe.
-F                 Bb
-Fiul zbiară și nu tace
-     F            C
-Fiul zbiară și nu tace
-     Bb            F
-Măicuța n-are ce-i face
-     C             F
-Măicuța n-are ce-i face.
-F                Bb
-Taci fiule nu zbiera
-     F           C
-Taci fiule nu zbiera
-     Bb          F
-Că mama ție ți-o da
-    C            F
-Că mama ție ți-o da.
-F               Bb
-Două mere, două pere
-     F         C
-Două mere,două pere
-      Bb             F
-Să te joci în Rai cu ele
-      C              F
-Să te joci în Rai cu ele.
-Note: Măsura este 4/4. Merge o ciupitură de forma:
-E                             1
-B                      1            1            1
-G               2                         2            2
-D
-A
-E         1
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-F
-```
-
-#### 726. The Little Drummer Boy
-
-Sursa: Colinde Karban, p. 69
-
-**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
-
-**Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
-
-```text
-D
-Come they told me
-   A         D
-Pa rup a pum pum
-A
-A new born king to see
-   A         D
-Pa rup a pum pum
-A          D
-Our finest gifts we bring
-G  D         A
-Pa rup a pum pum
-         D
-To lay before the King
-G  D         G
-Pa rup a pum pum
-          D              A
-Rup a pum pum, rup a pum pum
-D
-So to honour Him
-   A         D
-Pa rup a pum pum
-A       D
-When we come
-Măsura este 4/4 și merge un ritm de forma:
-E         2         2     2     2         2     2
-B         3         3     3     3         3     3
-G         2         2     2     2         2     2
-D         0         0     0     0         0     0
-A         0         0     0     0         0     0
-E
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-```
-
-#### 727. The Night Before Christmas Song
+#### 734. The Night Before Christmas Song
 
 muzica/versuri: Johnny Marks/Clement Clarke Moore · Sursa: Colinde Karban, p. 70
 
@@ -34943,125 +35377,7 @@ E         3
 Exemplificat aici pentru G.
 ```
 
-#### 728. Trei crai
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 46
-
-**Chitară:** Fm 133111 · Bbm x13321 · C x32010 · A x02220 · E 022100
-
-**Ukulele:** Fm 1013 · Bbm 3111 · C 0003 · A 2100 · E 4442
-
-```text
-Intro Fm Fm C C
-Fm        Bbm   Fm  Bbm
-Trei crai de la răsărit
-Bbm    Fm      Fm  C
-Cu steaua-au călătorit
-Fm         Bbm  Fm    Bbm
-Și-au mers după cum citim
-Bbm  Fm   C   Fm
-Până la Ierusalim.
-Fm    Bbm    Fm  Bbm
-Și-acolo dac-au ajuns
-Bbm    Fm       Fm  C
-Steaua lor li s-a ascuns,
-Fm    Bbm    Fm Bbm
-Și-ncepură a căuta
-Bbm   Fm   C      Fm
-Pe la case-a întreba.
-Fm      Bbm    Fm     Bbm
-N-ați văzut și n-ați aflat
-Bbm  Fm      Fm  C
-Unde pruncul împărat
-Fm   Bbm   Fm   Bbm
-Păstorul noroadelor
-Bbm   Fm    C    Fm
-Și stăpânul roadelor.
-Fm   Bbm    Fm     Bbm
-Care astăzi s-a născut
-Bbm    Fm       Fm   C
-Că noi steaua i-am văzut
-Fm      Bbm    Fm     Bbm
-Și-am venit să ne-nchinăm
-Bbm    Fm       C  Fm
-Pe Hristos să-L lăudăm.
-Note: Măsura este 3/4 iar ciupitura folosită este:
-E                                   1
-B                      1                  1
-G               1            1
-D         3
-A
-E
-La intro și între strofe se face:
-E                                   0h      1
-B                      1
-G               1            1
-D         3
-A                                                         3
-E
-```
-
-#### 729. Trei păstori
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 47
-
-**Chitară:** C x32010 · G 320003 · D xx0232
-
-**Ukulele:** C 0003 · G 0232 · D 2220
-
-```text
-C
-Trei păstori se întâlniră,
-        G            C
-Trei păstori se întâlniră,
-     G                 C
-Raza soarelui, floarea soarelui
-    G          C
-Și asă se sfătuiră.
-C
-Haideți fraților, să mergem,
-        G               C
-Haideți fraților, să mergem
-     G                 C
-Raza soarelui, floarea soarelui
-     G           C
-Floricele să culegem.
-C
-Și să facem o cunună,
-      G         C
-Și să facem o cunună
-     G                 C
-Raza soarelui, floarea soarelui
-        G           C
-S-o-mpletim cu voie bună.
-C
-Și s-o ducem lui Hristos,
-       G             C
-Și s-o ducem lui Hristos
-     G                 C
-Raza soarelui, floarea soarelui
-      G        C
-Să ne fie de folos.
-C
-Nouă și la neamul nost’
-     G            C
-Nouă și la neamul nost’
-     G                 C
-Raza soarelui, floarea soarelui
-      G             C
-De nașterea lui Cristos.
-Note:Măsura este 4/4. Se potrivește o ciupitură cu bass altenativ de forma:
-E                  0                0
-B                  1                1
-G             0       0       0       0
-D
-A         3
-E                          3
-| _ |    | _ |    | _ |    | _ |
-Exemplificat aici pentru C.
-```
-
-#### 730. Twinkle, Twinkle Little Star
+#### 735. Twinkle, Twinkle Little Star
 
 Sursa: Colinde Karban, p. 71
 
@@ -35092,196 +35408,7 @@ E
 |          |
 ```
 
-#### 731. Un creștin s-a-nvrednicit
-
-**Ducu Bertzi** · Sursa: Colinde Karban, p. 96
-
-**Chitară:** Dm xx0231 · A x02220 · E 022100
-
-**Ukulele:** Dm 2210 · A 2100 · E 4442
-
-```text
-Ducu Bertzi/Gheorghe Țărnea
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
-Intro A Gm Dm Gm Dm
-Dm             Dm
-Un creștin s-a-nvrednicit
-A          Dm
-După cât a fost muncit
-Dm            Dm
-Din strânsura sa frumoasă
-A            Dm
-Să ne-ntindă nouă masă.
-Dm              Dm
-Și-a dat tot în ăsta seară
-A            Dm
-De cerut n-a vrut să ceară
-Dm         Dm
-Fără numai o colindă
-A          Dm
-La colacul prins în grindă
-Dm           Dm
-La coconi și la mioare
-A              Dm
-Ține-l, Doamne drept sub soare
-Dm             Dm
-Ține-l bine și-n cinstire
-A           Dm
-Că ne-a dat adăpostire
-Dm             Dm
-Ține-l, Doamne încă minte
-A            Dm
-Pentru firea sa cuminte
-Dm              Dm
-Că pe toți ne-a prins în casă
-A            Dm
-Și a stat cu noi la masă
-Dm             Dm
-Și-a primit cu suflet bun
-A          Dm
-Vestitorii de Crăciun
-Dm           Dm
-În iubire și credință
-A           Dm
-Cu întreaga lui ființă
-Dm          Dm
-Cu întreaga lui avere
-A              Dm
-Ține-l, Doamne în putere.
-Dm             Dm
-Un creștin s-a-nvrednicit
-A          Dm
-După cât a fost muncit.
-Note:Măsura este 4/4 și merge o ciupitură ca mai jos:
-E         1                    1
-B         3                    3
-G         2                    2
-D                    0                    0
-A
-E
-|          |          |          |
-```
-
-#### 732. Veniți păstori în Viflaiem
-
-**Ducu Bertzi** · muzica/versuri: tradițional din Rona de Jos, Maramureș - cules de Vasile Marina · Sursa: Colinde Karban, p. 15
-
-**Chitară:** Dm xx0231 · D xx0232 · A x02220 · F 133211 · C x32010 · Gm 355333 · E 022100
-
-**Ukulele:** Dm 2210 · D 2220 · A 2100 · F 2010 · C 0003 · Gm 0231 · E 4442
-
-```text
-Intro F Gm Dm Gm Dm Gm A Dm
-Dm        D       Dm   A
-Veniți păstori în Viflaiem,
-F         C       F    Gm
-Veniți păstori în Viflaiem
-Dm  Gm        A    Dm
-Lui Isus să-i belșuim.
-Dm     Dm    Dm   A
-Care-a venit pe pământ,
-F      C     F    Gm
-Care-a venit pe pământ
-Dm      Gm      A     Dm
-S-a-ntrupat din Duhul Sfânt.
-Dm                  A
-Hai să merem până-n cale,
-F      C     F      Gm
-Hai să merem până-n cale
-Dm     Gm      A  Dm
-Lăsa-i turmele-n ocoale.
-Dm    Dm     Dm      A
-Ducem daruri miei și miele,
-F     C      F       Gm
-Ducem daruri miei și miele
-Dm     Gm     A   Dm
-Din turme mai tinerele.
-Dm    Dm    Dm      A
-Vezi Iroade ce-ai făcut,
-F     C     F       Gm
-Vezi Iroade ce-ai făcut
-Dm     Gm     A     Dm
-Dacă-n Isus n-ai crezut.
-Note: Între strofe se cântă Dm Gm A Dm. Măsura este 4/4 și merge ciupitura:
-E                                   1
-B                      3                      3
-G               2            2
-D         0
-A
-E
-| _ _ |      | _ _ |      |          |
-```
-
-#### 733. Vine marea
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 48
-
-**Chitară:** D xx0232 · G 320003 · Bm x24432 · A x02220 · E 022100
-
-**Ukulele:** D 2220 · G 0232 · Bm 4222 · A 2100 · E 4442
-
-```text
-Intro D
-     D   D G      D
-Vine marea cât de mare
-Bm       Bm  G       A
-Dar de mare  țărmuri n-are
-F m      Bm  A     D
-Asta-i sara  de Crăciun.
-D        D  G       D
-Dar de lină țărmuri mână
-Bm         Bm  G     A
-Dar de tot ci  ne-o adună
-F m      Bm  A     D
-Asta-i sara  de Crăciun.
-D       D  G    D
-O adună un bour sur
-Bm      Bm  G    A
-Cu cornile  de taur
-F m      Bm  A     D
-Asta-i sara  de Crăciun.
-D           D  G   D
-Da-n coarne ce legănează
-Bm          Bm G   A
-Da-n coarne ce legănează
-F m      Bm  A     D
-Asta-i sara  de Crăciun.
-D        D  G   D
-Legăneaz-un legănuțu
-Bm      Bm G    A
-Legănuț de păltinuțu
-F m      Bm  A     D
-Asta-i sara  de Crăciun.
-D        D    G    D
-Da în el cine-i culcatu
-Bm       Bm   G    A
-Da în el cine-i culcatu
-F m      Bm  A     D
-Asta-i sara  de Crăciun.
-D       D G   D
-E Iisus înfășuratu
-Bm      Bm G   A
-E Iisus în fășuratu
-F m      Bm  A     D
-Asta-i sara  de Crăciun.
-D        D  G    D
-Tot cu fașă de mătasă
-Bm      Bm G     A
-De nouă su rori aleasă
-F m      Bm  A     D
-Asta-i sara  de Crăciun,
-F  m        Bm  A     D
-Da asta-i sara  de Crăciun.
-Note: Îm original e cu un semiton mai sus. Măsura este 4/4 si merge una din ciupiturile:
-E                               2
-B                               3
-G                    2                    2
-D         0
-A
-E
-```
-
-#### 734. We Wish You A Merry Christmas
+#### 736. We Wish You A Merry Christmas
 
 Sursa: Colinde Karban, p. 72
 
@@ -35338,7 +35465,7 @@ E
 Exemplificat aici pentru acordul G. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
 ```
 
-#### 735. White Christmas
+#### 737. White Christmas
 
 Sursa: Colinde Karban, p. 73
 
@@ -35391,7 +35518,7 @@ E         3
 Exemplificată aici pentru G. O variantă cunoscută a melodiei este cea interpretată de Elvis Presley.
 ```
 
-#### 736. Winter Wonderland
+#### 738. Winter Wonderland
 
 muzica/versuri: Felix Bernard/Dick Smith · Sursa: Colinde Karban, p. 74
 
@@ -35447,118 +35574,13 @@ walking in a winter wonderland, wo oh oh...
 Note:Măsura este 4/4 iar ritmul este unul de swing.
 ```
 
-#### 737. Zăurel de zăurel
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 49
-
-**Chitară:** G 320003 · C x32010 · D xx0232
-
-**Ukulele:** G 0232 · C 0003 · D 2220
-
-```text
-G              C           G              C
-Scoală, scoală gazdă bună, scoală, scoală gazdă bună.
-G         C       G         D     G
-Zăurel de zăurel, zăurel de cătră zăuă.
-G           C         G           C
-Că v-aducem o cunună, că v-aducem o cunună.
-G         C       G         D     G
-Zăurel de zăurel, zăurel de cătră zăuă.
-G        C         G        C
-E cununa Domnului, e cununa Domnului.
-G         C       G         D     G
-Zăurel de zăurel, zăurel de cătră zăuă.
-G           C        G           C
-Din grădina raiului, din grădina raiului.
-G         C       G         D     G
-Zăurel de zăurel, zăurel de cătră zăuă.
-G        C            G        C
-E cununa lui Hristos, e cununa lui Hristos.
-G         C       G         D     G
-Zăurel de zăurel, zăurel de cătră zăuă.
-G         C           G         C
-Adusă din rai în jos, adusă din rai în jos.
-G         C       G         D     G
-Zăurel de zăurel, zăurel de cătră zăuă.
-G            C            G            C
-S-o lăsăm la voi în casă, s-o lăsăm la voi în casă.
-G         C       G         D     G
-Zăurel de zăurel, zăurel de cătră zăuă.
-G            C          G            C
-Să fii gazdă sănătoasă, să fii gazdă sănătoasă.
-G         C       G         D     G
-Zăurel de zăurel, zăurel de cătră zăuă.
-Note:Măsura este 3/4 și propun o bătaie de forma (asemănătoare cu ritmul melodiei probabil folosită și de Hrușcă):
-E         3     3     3     3
-B         3     3     3     3
-G         4     4     4     4
-D         5     5     5     5
-A         5     5     5     5
-E         3     3     3     3
-| _ _ |      | _ _ |
-Exemplificată aici penru G. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
-```
-
-#### 738. Zori din zori
-
-**Mircea Baniciu** · Sursa: Colinde Karban, p. 102
-
-**Chitară:** G 320003 · C x32010 · D xx0232 · Am x02210 · Em 022000
-
-**Ukulele:** G 0232 · C 0003 · D 2220 · Am 2000 · Em 0432
-
-```text
-Mircea Baniciu/???
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
-G                C
-Se-aprinde chiar de Crăciun
-D                G
-Candela gândului bun
-C         Am   C        D
-Vestioare stea deasupra mea.
-G         C
-Învățam întâia dată
-D              G
-Rugăciunea preacurată
-C           Am  C      D
-Ca din calendar foarte rar.
-Refren:
-G    D   G    C
-Zori din zori
-G    D     Em    D
-Albe dalbe flori
-G          C
-Ger deplin era afară
-D             G
-Când năștea întâia oara
-C        Am     C        D
-Maica Domnului, harul Domnului
-G           C
-Prejmuit de mirodenii
-D            G
-Ca sa treaca vama vremii
-C         Am   C       D
-Cu lumina lui  Fiul Domnului
-Bridge:
-C          D
-Oriunde în lume nemuritori
-G                    Em
-Cei patru magi de la răsărit
-G               C       D
-Îl Vor vesti cu vorbele lor
-G            C      D
-Dimineața în primul zor.
-La strofe și la bridge măsura este 4/4. Merge un pop-strum.
-La refren măsura este 3/4.
-```
-
 ---
 
 ## Index pe artiști
 
 - **???** — [Să nu uităm](#161-să-nu-uităm)
 - **4 Non Blondes** — [What's Up](#614-whats-up)
-- **Ada Milea** — [Era Vasile om frumos](#292-era-vasile-om-frumos), [Grasă](#313-grasă), [Oaia mică](#387-oaia-mică), [Când din crâșmă ai ieșit (Colind horror)](#630-când-din-crâșmă-ai-ieșit-colind-horror), [Cu secera-n mână (Colind horror)](#649-cu-secera-n-mână-colind-horror), [Ding ding, ding (Colind horror)](#658-ding-ding-ding-colind-horror)
+- **Ada Milea** — [Era Vasile om frumos](#292-era-vasile-om-frumos), [Grasă](#313-grasă), [Oaia mică](#387-oaia-mică), [Când din crâșmă ai ieșit (Colind horror)](#627-când-din-crâșmă-ai-ieșit-colind-horror), [Cu secera-n mână (Colind horror)](#646-cu-secera-n-mână-colind-horror), [Ding ding, ding (Colind horror)](#651-ding-ding-ding-colind-horror)
 - **adaptat** — [Apă de izvor](#112-apă-de-izvor)
 - **Adrian Ivanițchi** — [Amintirea paradisului](#195-amintirea-paradisului), [Arsură (I)](#204-arsură-i), [Arsură (II)](#205-arsură-ii), [Arsură (III)](#206-arsură-iii)
 - **Albatros** — [Uiuiui brădui](#82-uiuiui-brădui), [O, mama](#155-o-mama)
@@ -35577,7 +35599,7 @@ La refren măsura este 3/4.
 - **Bmby** — [Doi ochi căprui](#274-doi-ochi-căprui)
 - **Bob Dylan** — [Don't Think Twice, It's Alright](#538-dont-think-twice-its-alright), [Knockin' on Heaven's Door](#564-knockin-on-heavens-door), [Mr. Tambourine Man](#575-mr-tambourine-man)
 - **Bosquito** — [Bosquito](#216-bosquito), [Tigano](#484-tigano)
-- **Brenda Lee** — [Rocking Around the Christmas Tree](#714-rocking-around-the-christmas-tree)
+- **Brenda Lee** — [Rocking Around the Christmas Tree](#730-rocking-around-the-christmas-tree)
 - **...ca și completare la Katiusa (prima variantă)** — [Katiusa (variantă)](#150-katiusa-variantă)
 - **CALEnDAR** — [Un munte așternut](#84-un-munte-așternut)
 - **Cântece Horror** — [Bing bang (I)](#116-bing-bang-i)
@@ -35604,12 +35626,12 @@ La refren măsura este 3/4.
 - **Darwin** — [Omagiul unui alpinist](#73-omagiul-unui-alpinist)
 - **Direcția 5** — [Am nevoie de tine](#193-am-nevoie-de-tine), [Obsesia](#392-obsesia), [Spune ce vrei](#461-spune-ce-vrei), [Te voi aștepta](#481-te-voi-aștepta), [Voi pluti](#520-voi-pluti)
 - **Direcția 5 & Paula Seling** — [Lângă mine](#345-lângă-mine)
-- **Doi și Jumătate** — [Ostașii luminii colindă (I)](#705-ostașii-luminii-colindă-i), [Ostașii luminii colindă (II)](#706-ostașii-luminii-colindă-ii)
+- **Doi și Jumătate** — [Ostașii luminii colindă (I)](#670-ostașii-luminii-colindă-i), [Ostașii luminii colindă (II)](#671-ostașii-luminii-colindă-ii)
 - **Doru Stănculescu** — [Hai dihai (I)](#42-hai-dihai-i), [Hai dihai (II)](#43-hai-dihai-ii), [Fără petale](#295-fără-petale)
 - **Dragoș Bălan** — [Nunta pe Caraiman (II)](#68-nunta-pe-caraiman-ii), [Dragoste în fân (I)](#280-dragoste-în-fân-i)
 - **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#21-ce-frumos-e-sus-la-munte), [Evadare](#35-evadare), [În codrul verde](#50-în-codrul-verde), [Mă întorc la tine, muntele meu drag](#57-mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#523-vreau-să-trecem-marea)
-- **Ducu Bertzi** — [Floare de colț (I)](#39-floare-de-colț-i), [Floare de colț (II)](#40-floare-de-colț-ii), [Când s-o-mpărțit norocu'](#228-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#230-cântec-bătrânesc), [Dans](#261-dans), [Dragu-mii veselia](#285-dragu-mii-veselia), [Focul vânăt (I)](#303-focul-vânăt-i), [Focul vânăt (II)](#304-focul-vânăt-ii), [Iertările](#319-iertările), [M-am îndrăgostit numai de ea](#352-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#376-nu-am-cer), [Omul pădurii (I)](#398-omul-pădurii-i), [Pe cine și câte cărări](#409-pe-cine-și-câte-cărări), [Săracă inima me' (I)](#445-săracă-inima-me-i), [Săracă inima me' (II)](#446-săracă-inima-me-ii), [Și de-ar fi (I)](#455-și-de-ar-fi-i), [Și de-ar fi (II)](#456-și-de-ar-fi-ii), [Suflet fără chei](#469-suflet-fără-chei), [Cheamă-ți gazdă](#636-cheamă-ți-gazdă), [Corindăm, corindăm (II)](#646-corindăm-corindăm-ii), [Pe podele de nuiele](#708-pe-podele-de-nuiele), [Plecarea](#711-plecarea), [Scrisoare la-nceput de iarnă](#718-scrisoare-la-nceput-de-iarnă), [Seara serilor](#719-seara-serilor), [Un creștin s-a-nvrednicit](#731-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#732-veniți-păstori-în-viflaiem)
-- **Ducu Hotima** — [La tătă casa-i lumină](#677-la-tătă-casa-i-lumină)
+- **Ducu Bertzi** — [Floare de colț (I)](#39-floare-de-colț-i), [Floare de colț (II)](#40-floare-de-colț-ii), [Când s-o-mpărțit norocu'](#228-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#230-cântec-bătrânesc), [Dans](#261-dans), [Dragu-mii veselia](#285-dragu-mii-veselia), [Focul vânăt (I)](#303-focul-vânăt-i), [Focul vânăt (II)](#304-focul-vânăt-ii), [Iertările](#319-iertările), [M-am îndrăgostit numai de ea](#352-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#376-nu-am-cer), [Omul pădurii (I)](#398-omul-pădurii-i), [Pe cine și câte cărări](#409-pe-cine-și-câte-cărări), [Săracă inima me' (I)](#445-săracă-inima-me-i), [Săracă inima me' (II)](#446-săracă-inima-me-ii), [Și de-ar fi (I)](#455-și-de-ar-fi-i), [Și de-ar fi (II)](#456-și-de-ar-fi-ii), [Suflet fără chei](#469-suflet-fără-chei), [Cheamă-ți gazdă](#633-cheamă-ți-gazdă), [Corindăm, corindăm (II)](#643-corindăm-corindăm-ii), [Pe podele de nuiele](#673-pe-podele-de-nuiele), [Un creștin s-a-nvrednicit](#680-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#681-veniți-păstori-în-viflaiem), [Plecarea](#705-plecarea), [Scrisoare la-nceput de iarnă](#707-scrisoare-la-nceput-de-iarnă), [Seara serilor](#708-seara-serilor)
+- **Ducu Hotima** — [La tătă casa-i lumină](#660-la-tătă-casa-i-lumină)
 - **Ecoul** — [Cana cu vin (I)](#223-cana-cu-vin-i), [Cana cu vin (II)](#224-cana-cu-vin-ii), [Lumină (I)](#349-lumină-i), [Lumină (II)](#350-lumină-ii), [Lumină (III)](#351-lumină-iii), [Nu mă-ntreba](#379-nu-mă-ntreba), [Taina (II)](#474-taina-ii)
 - **Elvis Presley** — [Love Me Tender](#572-love-me-tender)
 - **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#332-iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#372-nebunul-de-alb)
@@ -35629,18 +35651,18 @@ La refren măsura este 3/4.
 - **Iris** — [Baby](#211-baby), [Strada ta (I)](#466-strada-ta-i), [Strada ta (II)](#467-strada-ta-ii), [Vis pierdut](#519-vis-pierdut)
 - **John Denver** — [Country Roads](#535-country-roads)
 - **John Lennon** — [Give Peace a Chance](#549-give-peace-a-chance), [Imagine](#561-imagine)
-- **José Feliciano** — [Feliz Navidad](#661-feliz-navidad)
-- **Karma** — [Alții mama nu mai face](#2-alții-mama-nu-mai-face), [Călător](#18-călător), [În loc de bun rămas](#51-în-loc-de-bun-rămas), [Mă întorc și pașii-s grei](#58-mă-întorc-și-pașii-s-grei), [Muntele alb](#63-muntele-alb), [Copilița fără minte](#132-copilița-fără-minte), [Puștoaică de liceu](#158-puștoaică-de-liceu), [Ai venit](#186-ai-venit), [Amintiri](#196-amintiri), [Bunica](#218-bunica), [Lacrimi și surâs](#344-lacrimi-și-surâs), [Sunt sărac](#470-sunt-sărac), [Tardive](#477-tardive), [Țurțuri metalici](#493-țurțuri-metalici), [Colindă tristă (I)](#638-colindă-tristă-i), [Colindă tristă (II)](#639-colindă-tristă-ii)
+- **José Feliciano** — [Feliz Navidad](#714-feliz-navidad)
+- **Karma** — [Alții mama nu mai face](#2-alții-mama-nu-mai-face), [Călător](#18-călător), [În loc de bun rămas](#51-în-loc-de-bun-rămas), [Mă întorc și pașii-s grei](#58-mă-întorc-și-pașii-s-grei), [Muntele alb](#63-muntele-alb), [Copilița fără minte](#132-copilița-fără-minte), [Puștoaică de liceu](#158-puștoaică-de-liceu), [Ai venit](#186-ai-venit), [Amintiri](#196-amintiri), [Bunica](#218-bunica), [Lacrimi și surâs](#344-lacrimi-și-surâs), [Sunt sărac](#470-sunt-sărac), [Tardive](#477-tardive), [Țurțuri metalici](#493-țurțuri-metalici), [Colindă tristă (I)](#635-colindă-tristă-i), [Colindă tristă (II)](#636-colindă-tristă-ii)
 - **Led Zeppelin** — [Stairway to Heaven](#598-stairway-to-heaven)
 - **Luna amară** — [Roșu aprins](#438-roșu-aprins)
 - **Mădălina Amon** — [O nouă viață](#69-o-nouă-viață), [Amintire de fum](#194-amintire-de-fum)
-- **Maria Gheorghiu** — [Sus boieri nu mai dormiți](#724-sus-boieri-nu-mai-dormiți)
-- **Maria Magdalena Dănăilă** — [Singur de Crăciun](#720-singur-de-crăciun)
+- **Maria Gheorghiu** — [Sus boieri nu mai dormiți](#676-sus-boieri-nu-mai-dormiți)
+- **Maria Magdalena Dănăilă** — [Singur de Crăciun](#709-singur-de-crăciun)
 - **Mellanie** — [Ils Ont Change Ma Chanson](#560-ils-ont-change-ma-chanson)
 - **Melodia este una de la un cântec destul de cunoscut din anii de grădiniță.** — [În pădurea verde](#145-în-pădurea-verde)
 - **Metallica** — [Fade to Black](#544-fade-to-black), [Nothing Else Matters](#580-nothing-else-matters)
 - **Mihai Mărgineanu** — [Ce mult te-am iubit Paraschivo (I)](#126-ce-mult-te-am-iubit-paraschivo-i), [Femei, femei](#137-femei-femei), [M-am dus să tai un copac (II)](#152-m-am-dus-să-tai-un-copac-ii), [Sobița](#165-sobița)
-- **Mircea Baniciu** — [Ceasornicarul (II)](#243-ceasornicarul-ii), [Drumul magilor](#659-drumul-magilor), [Pomul de Crăciun](#713-pomul-de-crăciun), [Zori din zori](#738-zori-din-zori)
+- **Mircea Baniciu** — [Ceasornicarul (II)](#243-ceasornicarul-ii), [Drumul magilor](#652-drumul-magilor), [Pomul de Crăciun](#706-pomul-de-crăciun), [Zori din zori](#711-zori-din-zori)
 - **Mircea Baniciu/Pasărea Colibri** — [Dealul cu dor](#266-dealul-cu-dor), [Esarfa în dar](#293-esarfa-în-dar), [Frunza (Mircea Baniciu)](#310-frunza-mircea-baniciu), [În tren](#323-în-tren), [Înțelegere (II)](#326-înțelegere-ii), [Întoarcere la orient (II)](#328-întoarcere-la-orient-ii), [Pisică neagră](#415-pisică-neagră), [Scrisoare de rămas bun (II)](#449-scrisoare-de-rămas-bun-ii), [Scrisoare de rămas bun (III)](#450-scrisoare-de-rămas-bun-iii), [Un zvon](#502-un-zvon), [Viața la țară (II)](#513-viața-la-țară-ii)
 - **Mircea Bodolan** — [Dragostea pasarii](#284-dragostea-pasarii), [Rănitul dintre linii (I)](#431-rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#432-rănitul-dintre-linii-ii)
 - **Mircea Florian** — [Podul de piatra](#421-podul-de-piatra)
@@ -35652,13 +35674,13 @@ La refren măsura este 3/4.
 - **Necunoscut** — [M-am dus să tai un copac (I)](#151-m-am-dus-să-tai-un-copac-i)
 - **Neil Sedaka** — [Oh, Carol!](#583-oh-carol)
 - **Nelu Lazăr** — [Pădure de argint](#402-pădure-de-argint)
-- **Nicu Alifantis** — [Balada blondelor iubiri](#212-balada-blondelor-iubiri), [Emoție de toamnă (I)](#288-emoție-de-toamnă-i), [Emoție de toamnă (II)](#289-emoție-de-toamnă-ii), [Emoție de toamnă (III)](#290-emoție-de-toamnă-iii), [Piața Romană nr.9](#414-piața-romană-nr9), [Ploaie în luna lui marte](#420-ploaie-în-luna-lui-marte), [Rar](#433-rar), [Umbra (I)](#494-umbra-i), [Umbra (II)](#495-umbra-ii), [Umbra (III)](#496-umbra-iii), [Decembre (I)](#651-decembre-i), [Decembre (II)](#652-decembre-ii), [Decembre (III)](#653-decembre-iii)
+- **Nicu Alifantis** — [Balada blondelor iubiri](#212-balada-blondelor-iubiri), [Emoție de toamnă (I)](#288-emoție-de-toamnă-i), [Emoție de toamnă (II)](#289-emoție-de-toamnă-ii), [Emoție de toamnă (III)](#290-emoție-de-toamnă-iii), [Piața Romană nr.9](#414-piața-romană-nr9), [Ploaie în luna lui marte](#420-ploaie-în-luna-lui-marte), [Rar](#433-rar), [Umbra (I)](#494-umbra-i), [Umbra (II)](#495-umbra-ii), [Umbra (III)](#496-umbra-iii), [Decembre (I)](#694-decembre-i), [Decembre (II)](#695-decembre-ii), [Decembre (III)](#696-decembre-iii)
 - **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște (I)](#202-aproape-liniște-i), [Aproape liniște (II)](#203-aproape-liniște-ii)
 - **Nightwish** — [The Islander](#605-the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#32-dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#210-azi), [Floarea](#301-floarea), [Lăsați-mă să cânt](#346-lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#395-ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#413-peste-al-nostru-sărut)
 - **Pasărea Colibri** — [2000 de ani](#178-2000-de-ani), [Adio, deci pe curând (I)](#184-adio-deci-pe-curând-i), [Alcool](#188-alcool), [Alo! Ei a mea!](#189-alo-ei-a-mea), [Boxerul](#217-boxerul), [Canadiana](#225-canadiana), [Cântecul bufonului (I)](#237-cântecul-bufonului-i), [Ce de lupi se înconjoară](#241-ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#242-ceasornicarul-i), [Cu tine în gând](#254-cu-tine-în-gând), [Dacă ai ghici](#256-dacă-ai-ghici), [Dintr-o cafea (I)](#271-dintr-o-cafea-i), [Înțelegere (I)](#325-înțelegere-i), [Întoarcere la orient (I)](#327-întoarcere-la-orient-i), [Miruna (I)](#363-miruna-i), [Mr. Tambourine Man](#366-mr-tambourine-man), [Nebunul cu ochi închiși (I)](#370-nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#382-nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#383-nu-i-nimic-asta-e-ii), [Oameni buni](#389-oameni-buni), [Oprește-mă la tine](#400-oprește-mă-la-tine), [Pe corso (I)](#410-pe-corso-i), [Ploaia care va veni (II)](#419-ploaia-care-va-veni-ii), [Proverbe](#427-proverbe), [Scrisoare de rămas bun (I)](#448-scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#452-sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#464-strada-popa-nan-i), [Toți suntem puțin luați](#486-toți-suntem-puțin-luați), [Un om pe niște scări (I)](#500-un-om-pe-niște-scări-i), [Viata complicată](#511-viata-complicată), [Viața la țară (I)](#512-viața-la-țară-i), [Vis de primăvară (I)](#517-vis-de-primăvară-i), [Vânare de vânt](#613-vânare-de-vânt)
-- **Paula Seling** — [Corindăm, corindăm (I)](#645-corindăm-corindăm-i)
+- **Paula Seling** — [Corindăm, corindăm (I)](#642-corindăm-corindăm-i)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#588-phabaj-hop-hop-hop)
 - **Phoenix** — [Andri Popa (I)](#8-andri-popa-i), [În umbra marelui URSS](#102-în-umbra-marelui-urss), [Dansul codrilor](#262-dansul-codrilor), [Fată verde (I)](#298-fată-verde-i), [Fată verde (II)](#299-fată-verde-ii), [Fată verde (III)](#300-fată-verde-iii), [Fluier în cer](#302-fluier-în-cer), [Focuri vii](#305-focuri-vii), [Hăituit](#315-hăituit), [Jocul](#335-jocul), [Mama, mama](#355-mama-mama), [Mugur de fluier (I)](#367-mugur-de-fluier-i), [Mugur de fluier (II)](#368-mugur-de-fluier-ii), [Muzică și muzichia](#369-muzică-și-muzichia), [Nebunul cu ochi închiși (II)](#371-nebunul-cu-ochi-închiși-ii), [Nunta (I)](#385-nunta-i), [Nunta (II)](#386-nunta-ii), [Primavara - Paparuga](#426-primavara---paparuga), [Singură](#460-singură), [Strunga](#468-strunga), [Te întreb pe tine soare (I)](#479-te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#480-te-întreb-pe-tine-soare-ii), [Timișoara](#485-timișoara), [Vara](#505-vara), [Vremuri (I)](#524-vremuri-i), [Vremuri (II)](#525-vremuri-ii), [Zori de zi](#527-zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Andri Popa (II)](#9-andri-popa-ii), [Canarul (I)](#226-canarul-i), [Canarul (II)](#227-canarul-ii)
@@ -35687,7 +35709,7 @@ La refren măsura este 3/4.
 - **Sentiment** — [Nu te mai iubesc (I)](#380-nu-te-mai-iubesc-i)
 - **Simon & Garfunkel** — [Bye Bye Love](#533-bye-bye-love), [El Condor Pasa](#541-el-condor-pasa), [Mrs. Robinson](#576-mrs-robinson), [The Sound of Silence](#607-the-sound-of-silence)
 - **Skid Row** — [I Remember](#556-i-remember)
-- **Slade** — [Merry Xmas Everybody](#687-merry-xmas-everybody)
+- **Slade** — [Merry Xmas Everybody](#724-merry-xmas-everybody)
 - **Smokie** — [Living Next Door to Alice](#570-living-next-door-to-alice)
 - **Sorina Moldvai** — [Copil hoinar](#24-copil-hoinar)
 - **Spitalul de urgenta** — [Trăiască berea](#172-trăiască-berea), [Prietenii](#425-prietenii)
@@ -35695,12 +35717,12 @@ La refren măsura este 3/4.
 - **Ștefan Banică** — [S-o facem lată](#160-s-o-facem-lată)
 - **Ștefan Banica jr.** — [Asta-s eu](#207-asta-s-eu)
 - **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#357-mi-e-dor-de-ochii-tăi), [Poveste](#423-poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#103-întoarcerea-țăranului), [Copacul îndrăgostit](#251-copacul-îndrăgostit), [Fostele iubiri](#306-fostele-iubiri), [Frunza (I)](#308-frunza-i), [Frunza (II)](#309-frunza-ii), [La nunta ta](#341-la-nunta-ta), [Rugă pentru părinți (I)](#439-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#440-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#503-urare-pentru-îndrăgostiți), [Vara promisă (I)](#506-vara-promisă-i), [Vara promisă (II)](#507-vara-promisă-ii), [Afară ninge liniștit](#623-afară-ninge-liniștit), [Aseară pe-nserate](#626-aseară-pe-nserate), [Asta-i fata cea frumoasă](#627-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#631-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#632-ce-ați-văzut-păstori), [Cerul și pământul (I)](#633-cerul-și-pământul-i), [Cerul și pământul (II)](#634-cerul-și-pământul-ii), [Cerul și pământul (III)](#635-cerul-și-pământul-iii), [Coborât-o coborât](#637-coborât-o-coborât), [Colindul cerbului](#641-colindul-cerbului), [Corindăm, corindăm (III)](#647-corindăm-corindăm-iii), [Creștinilor, noi astăzi](#648-creștinilor-noi-astăzi), [Dalbu-i dealu](#650-dalbu-i-dealu), [Deschide nană ușile](#655-deschide-nană-ușile), [Deschide ușa, creștine (I)](#656-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#657-deschide-ușa-creștine-ii), [Ferice-i ferice](#662-ferice-i-ferice), [Flori de măr (I)](#663-flori-de-măr-i), [Flori de măr (II)](#664-flori-de-măr-ii), [Florile dalbe (I)](#665-florile-dalbe-i), [Florile dalbe (II)](#666-florile-dalbe-ii), [Iarăși flori dalbe](#670-iarăși-flori-dalbe), [Junelu-i tinerelu](#675-junelu-i-tinerelu), [La Viflaim, la Viflaim](#678-la-viflaim-la-viflaim), [Linu-i lin](#684-linu-i-lin), [Mă luai luai](#685-mă-luai-luai), [Măruț mărgăritar](#686-măruț-mărgăritar), [Ninge iar (II)](#693-ninge-iar-ii), [Ninge iar (III)](#694-ninge-iar-iii), [O, ce veste minunată (2)](#703-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#704-o-ce-veste-minunată-1), [Pe cununa munților](#707-pe-cununa-munților), [Pe strada din Viflaim](#709-pe-strada-din-viflaim), [Pom înrămuratu](#712-pom-înrămuratu), [Steaguri albe](#721-steaguri-albe), [Sus sus sus pe lângă lună](#725-sus-sus-sus-pe-lângă-lună), [Trei crai](#728-trei-crai), [Trei păstori](#729-trei-păstori), [Vine marea](#733-vine-marea), [Zăurel de zăurel](#737-zăurel-de-zăurel)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#103-întoarcerea-țăranului), [Copacul îndrăgostit](#251-copacul-îndrăgostit), [Fostele iubiri](#306-fostele-iubiri), [Frunza (I)](#308-frunza-i), [Frunza (II)](#309-frunza-ii), [La nunta ta](#341-la-nunta-ta), [Rugă pentru părinți (I)](#439-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#440-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#503-urare-pentru-îndrăgostiți), [Vara promisă (I)](#506-vara-promisă-i), [Vara promisă (II)](#507-vara-promisă-ii), [Afară ninge liniștit](#623-afară-ninge-liniștit), [Aseară pe-nserate](#625-aseară-pe-nserate), [Asta-i fata cea frumoasă](#626-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#628-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#629-ce-ați-văzut-păstori), [Cerul și pământul (I)](#630-cerul-și-pământul-i), [Cerul și pământul (II)](#631-cerul-și-pământul-ii), [Cerul și pământul (III)](#632-cerul-și-pământul-iii), [Coborât-o coborât](#634-coborât-o-coborât), [Colindul cerbului](#638-colindul-cerbului), [Corindăm, corindăm (III)](#644-corindăm-corindăm-iii), [Creștinilor, noi astăzi](#645-creștinilor-noi-astăzi), [Dalbu-i dealu](#647-dalbu-i-dealu), [Deschide nană ușile](#648-deschide-nană-ușile), [Deschide ușa, creștine (I)](#649-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#650-deschide-ușa-creștine-ii), [Ferice-i ferice](#653-ferice-i-ferice), [Flori de măr (I)](#654-flori-de-măr-i), [Flori de măr (II)](#655-flori-de-măr-ii), [Florile dalbe (I)](#656-florile-dalbe-i), [Florile dalbe (II)](#657-florile-dalbe-ii), [Iarăși flori dalbe](#658-iarăși-flori-dalbe), [Junelu-i tinerelu](#659-junelu-i-tinerelu), [La Viflaim, la Viflaim](#661-la-viflaim-la-viflaim), [Linu-i lin](#662-linu-i-lin), [Mă luai luai](#663-mă-luai-luai), [Măruț mărgăritar](#664-măruț-mărgăritar), [O, ce veste minunată (2)](#668-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#669-o-ce-veste-minunată-1), [Pe cununa munților](#672-pe-cununa-munților), [Pe strada din Viflaim](#674-pe-strada-din-viflaim), [Pom înrămuratu](#675-pom-înrămuratu), [Sus sus sus pe lângă lună](#677-sus-sus-sus-pe-lângă-lună), [Trei crai](#678-trei-crai), [Trei păstori](#679-trei-păstori), [Vine marea](#682-vine-marea), [Zăurel de zăurel](#683-zăurel-de-zăurel), [Ninge iar (II)](#701-ninge-iar-ii), [Ninge iar (III)](#702-ninge-iar-iii), [Steaguri albe](#710-steaguri-albe)
 - **Stigma** — [Jumătate tu, jumătate eu](#336-jumătate-tu-jumătate-eu)
 - **Supa & Maria** — [Tropa trop](#80-tropa-trop)
 - **Taine Folk** — [Cântec uitat de lume](#20-cântec-uitat-de-lume)
 - **Taking Heads** — [Road to Nowhere](#591-road-to-nowhere)
-- **Tatiana Stepa** — [Colindul gutuii (I)](#642-colindul-gutuii-i), [Colindul gutuii (II)](#643-colindul-gutuii-ii), [În întâmpinarea Crăciunului](#672-în-întâmpinarea-crăciunului)
+- **Tatiana Stepa** — [Colindul gutuii (I)](#639-colindul-gutuii-i), [Colindul gutuii (II)](#640-colindul-gutuii-ii), [În întâmpinarea Crăciunului](#697-în-întâmpinarea-crăciunului)
 - **The Animals** — [House of the Rising Sun](#555-house-of-the-rising-sun)
 - **The doors** — [People Are Strange](#587-people-are-strange)
 - **The eagles** — [Hotel California](#554-hotel-california)
@@ -35710,8 +35732,8 @@ La refren măsura este 3/4.
 - **Tiberiu Ceia** — [Frumoasă-i vecina noastră](#307-frumoasă-i-vecina-noastră)
 - **Timpuri Noi** — [Mistrețul galben](#365-mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#64-munții-mei)
-- **Tradițional** — [Mi-a zis mama că mi-o da](#154-mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#245-ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă (I)](#696-noapte-sfântă-i), [O, brad frumos! (I)](#701-o-brad-frumos-i)
-- **tradițional** — [Du-mă acasă mai tramvai](#286-du-mă-acasă-mai-tramvai), [La Mulți Ani!](#340-la-mulți-ani), [Moș Crăciun (I)](#689-moș-crăciun-i)
+- **Tradițional** — [Mi-a zis mama că mi-o da](#154-mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#245-ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă (I)](#666-noapte-sfântă-i), [O, brad frumos! (I)](#703-o-brad-frumos-i)
+- **tradițional** — [Du-mă acasă mai tramvai](#286-du-mă-acasă-mai-tramvai), [La Mulți Ani!](#340-la-mulți-ani), [Moș Crăciun (I)](#698-moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#166-suzana)
 - **Trini Lopez** — [If I Had a Hammer](#559-if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#108-tron-în-apuseni-unde), [Cântec în noapte](#231-cântec-în-noapte)
@@ -35724,12 +35746,12 @@ La refren măsura este 3/4.
 - **Varf Carpatin** — [Imnul Pietrei Craiului](#48-imnul-pietrei-craiului)
 - **Vasile Mărdare** — [Cabana](#15-cabana), [Păpușarii](#406-păpușarii)
 - **Vasile Mardare** — [Iubito](#333-iubito), [Romanță de toamnă](#435-romanță-de-toamnă)
-- **Vasile Șeicaru** — [Actorul](#182-actorul), [Antiprimăvara](#199-antiprimăvara), [Biletul de tren](#215-biletul-de-tren), [Cireșarii](#246-cireșarii), [Din prea mult sau prea puțin](#270-din-prea-mult-sau-prea-puțin), [Dragostea cu patru foi](#282-dragostea-cu-patru-foi), [Imposibila nuntă](#321-imposibila-nuntă), [La adio](#337-la-adio), [Romanță între două trenuri (I)](#436-romanță-între-două-trenuri-i), [Romanță între două trenuri (II)](#437-romanță-între-două-trenuri-ii), [Tango retoric](#475-tango-retoric), [Ninge iar (I)](#692-ninge-iar-i)
+- **Vasile Șeicaru** — [Actorul](#182-actorul), [Antiprimăvara](#199-antiprimăvara), [Biletul de tren](#215-biletul-de-tren), [Cireșarii](#246-cireșarii), [Din prea mult sau prea puțin](#270-din-prea-mult-sau-prea-puțin), [Dragostea cu patru foi](#282-dragostea-cu-patru-foi), [Imposibila nuntă](#321-imposibila-nuntă), [La adio](#337-la-adio), [Romanță între două trenuri (I)](#436-romanță-între-două-trenuri-i), [Romanță între două trenuri (II)](#437-romanță-între-două-trenuri-ii), [Tango retoric](#475-tango-retoric), [Ninge iar (I)](#700-ninge-iar-i)
 - **Versuri Artur Stavri/melodie populara** — [A ruginit frunza din vii](#180-a-ruginit-frunza-din-vii)
 - **VH2** — [Mai stai](#354-mai-stai), [Nu-mi mai pasă](#384-nu-mi-mai-pasă), [Trece vremea](#490-trece-vremea)
 - **VH2/Holograf** — [Păsări de fum](#407-păsări-de-fum)
 - **Victor Socaciu** — [Moartea unui alpinist (II)](#62-moartea-unui-alpinist-ii), [Colindul mâinilor truditoare](#94-colindul-mâinilor-truditoare), [Caii liberi](#220-caii-liberi), [Cântec pentru Charlie Chaplin](#232-cântec-pentru-charlie-chaplin), [Dona, dona (I)](#275-dona-dona-i), [Dona, dona (II)](#276-dona-dona-ii), [La un ceai](#343-la-un-ceai), [Oameni de zăpadă (I)](#390-oameni-de-zăpadă-i), [Oameni de zăpadă (II)](#391-oameni-de-zăpadă-ii)
-- **Wham!** — [Last Christmas](#679-last-christmas)
+- **Wham!** — [Last Christmas](#719-last-christmas)
 - **Yoyo** — [Freamătă pădurea](#41-freamătă-pădurea), [Tropa trop spre cabană](#81-tropa-trop-spre-cabană)
 - **Zdub&Zdob** — [Dragă Otee](#279-dragă-otee)
 
