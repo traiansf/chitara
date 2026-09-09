@@ -16,7 +16,17 @@ pre {
 }
 .ln { display: block; white-space: pre-wrap; }
 .bl { display: block; height: 0.7em; }
-.ch { color: #8b1a1a; font-weight: bold; }
+.ch { color: #8b1a1a; font-weight: bold; cursor: help; }
+.fingering[data-chord] { cursor: help; }
+
+.chord-tooltip {
+  position: fixed; z-index: 20;
+  background: #fff; border: 1px solid #999; border-radius: 4px;
+  padding: 4px 6px; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  display: flex; gap: 6px; pointer-events: none;
+}
+.chord-tooltip[hidden] { display: none; }
+.chord-tooltip svg { display: block; }
 .transpose-controls { margin: 10px 0; display: flex; gap: 8px; align-items: center; }
 .transpose-controls button {
   font-size: 1rem; padding: 4px 10px; cursor: pointer;

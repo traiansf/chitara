@@ -127,27 +127,167 @@ function renderAll(offset) {
   if (label) label.textContent = offset > 0 ? `+${offset}` : String(offset);
 }
 
+const OFFSET_STORAGE_PREFIX = "chord-offset:";
+
+function loadStoredOffset() {
+  try {
+    const raw = localStorage.getItem(OFFSET_STORAGE_PREFIX + location.pathname);
+    const n = raw === null ? 0 : parseInt(raw, 10);
+    return Number.isFinite(n) ? n : 0;
+  } catch {
+    return 0; // localStorage unavailable (private mode, blocked, ...) — start plain
+  }
+}
+
+function storeOffset(offset) {
+  try {
+    const key = OFFSET_STORAGE_PREFIX + location.pathname;
+    if (offset === 0) localStorage.removeItem(key);
+    else localStorage.setItem(key, String(offset));
+  } catch {
+    // ignore — nothing to persist to
+  }
+}
+
 function initTranspose() {
   const controls = document.querySelector(".transpose-controls");
   if (!controls) return;
-  let offset = 0;
+  let offset = loadStoredOffset();
+  renderAll(offset); // apply a restored transposition immediately, if any
   controls.addEventListener("click", (e) => {
     const btn = e.target.closest("button[data-action]");
     if (!btn) return;
     if (btn.dataset.action === "up") offset += 1;
     else if (btn.dataset.action === "down") offset -= 1;
     else offset = 0;
+    storeOffset(offset);
     renderAll(offset);
+  });
+}
+
+// --- digitație la hover/focus (tooltip) --------------------------------
+
+const STRING_COUNT = { guitar: 6, ukulele: 4 };
+
+function buildFingeringSVG(fingering, nStrings) {
+  const w = 14, h = 18, padTop = 20, padLeft = 8, rows = 4;
+  const width = padLeft * 2 + w * (nStrings - 1);
+  const height = padTop + h * rows + 6;
+  const fretted = fingering.split("").map((c) => (c === "x" ? null : parseInt(c, 16)));
+  const played = fretted.filter((f) => f !== null);
+  const maxFret = played.length ? Math.max(...played) : 0;
+  const base = maxFret > rows ? maxFret - rows + 1 : 1; // "capo" fret for high barre shapes
+
+  let svg = `<svg viewBox="0 0 ${width} ${height}" width="${width}" height="${height}">`;
+  for (let s = 0; s < nStrings; s++) {
+    const x = padLeft + s * w;
+    svg += `<line x1="${x}" y1="${padTop}" x2="${x}" y2="${padTop + h * rows}" stroke="#333"/>`;
+  }
+  for (let f = 0; f <= rows; f++) {
+    const y = padTop + f * h;
+    const strokeW = base === 1 && f === 0 ? 3 : 1; // thick nut only at the real fret 0
+    svg += `<line x1="${padLeft}" y1="${y}" x2="${padLeft + w * (nStrings - 1)}" y2="${y}" stroke="#333" stroke-width="${strokeW}"/>`;
+  }
+  if (base > 1) {
+    svg += `<text x="1" y="${padTop + h - 4}" font-size="9" fill="#333">${base}</text>`;
+  }
+  for (let s = 0; s < nStrings; s++) {
+    const x = padLeft + s * w;
+    const f = fretted[s];
+    if (f === null) {
+      svg += `<text x="${x - 3}" y="${padTop - 7}" font-size="10" fill="#8b1a1a">×</text>`;
+    } else if (f === 0) {
+      svg += `<circle cx="${x}" cy="${padTop - 6}" r="3" fill="none" stroke="#333" stroke-width="1.2"/>`;
+    } else {
+      const y = padTop + h * (f - base) + h / 2;
+      svg += `<circle cx="${x}" cy="${y}" r="4" fill="#8b1a1a"/>`;
+    }
+  }
+  svg += `</svg>`;
+  return svg;
+}
+
+function currentFingeringFor(rawChord, instrument) {
+  // reads the fingering-line span's CURRENT (possibly already-transposed)
+  // text, rather than recomputing — keeps the tooltip in sync with
+  // whatever renderAll last drew, with no duplicated logic
+  const el = document.querySelector(
+    '.fingering[data-chord="' + rawChord + '"][data-instrument="' + instrument + '"]'
+  );
+  if (!el) return null;
+  const parts = el.textContent.trim().split(/\s+/);
+  const last = parts[parts.length - 1];
+  return /^[0-9a-fx]+$/.test(last) ? last : null;
+}
+
+function tooltipContentFor(el) {
+  const raw = el.dataset.chord;
+  if (el.classList.contains("fingering")) {
+    const instrument = el.dataset.instrument;
+    const fingering = currentFingeringFor(raw, instrument);
+    return fingering ? buildFingeringSVG(fingering, STRING_COUNT[instrument]) : null;
+  }
+  const parts = [];
+  for (const instrument of ["guitar", "ukulele"]) {
+    const fingering = currentFingeringFor(raw, instrument);
+    if (fingering) parts.push(buildFingeringSVG(fingering, STRING_COUNT[instrument]));
+  }
+  return parts.length ? parts.join("") : null;
+}
+
+function initFingeringTooltip() {
+  const tip = document.createElement("div");
+  tip.className = "chord-tooltip";
+  tip.hidden = true;
+  document.body.appendChild(tip);
+
+  const show = (el) => {
+    const content = tooltipContentFor(el);
+    if (!content) return;
+    // content is always SVG built by buildFingeringSVG from a fingering
+    // string already regex-validated to [0-9a-fx] (currentFingeringFor)
+    // plus a computed integer (base fret) — never free-form/user text —
+    // so this innerHTML assignment has no injectable input
+    tip.innerHTML = content;
+    tip.hidden = false;
+    const r = el.getBoundingClientRect();
+    const tr = tip.getBoundingClientRect();
+    let left = r.left + r.width / 2 - tr.width / 2;
+    left = Math.max(4, Math.min(left, window.innerWidth - tr.width - 4));
+    let top = r.top - tr.height - 6;
+    if (top < 4) top = r.bottom + 6;
+    tip.style.left = left + "px";
+    tip.style.top = top + "px";
+  };
+  const hide = () => { tip.hidden = true; };
+
+  document.addEventListener("mouseover", (e) => {
+    const el = e.target.closest(".ch[data-chord], .fingering[data-chord]");
+    if (el) show(el);
+  });
+  document.addEventListener("mouseout", (e) => {
+    const el = e.target.closest(".ch[data-chord], .fingering[data-chord]");
+    if (el) hide();
+  });
+  // keyboard access: only the fingering-summary line (a handful of spans
+  // per song) gets a tab stop — making every inline lyric chord tabbable
+  // would turn a song page into hundreds of tab stops
+  document.querySelectorAll(".fingering[data-chord]").forEach((el) => {
+    el.tabIndex = 0;
+    el.addEventListener("focus", () => show(el));
+    el.addEventListener("blur", hide);
   });
 }
 
 if (typeof document !== "undefined") {
   document.addEventListener("DOMContentLoaded", initTranspose);
+  document.addEventListener("DOMContentLoaded", initFingeringTooltip);
 }
 
 if (typeof module !== "undefined") {
   module.exports = {
     normalizeToken, transposeNote, transposeName, splitRootBass,
     lookupFingering, shiftFingering, fingerFor, transposedLabel,
+    buildFingeringSVG,
   };
 }

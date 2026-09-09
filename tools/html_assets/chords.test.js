@@ -26,6 +26,7 @@ const src = fs.readFileSync(path.join(__dirname, "chords.js"), "utf8");
 new Function("module", "exports", src)(module, module.exports);
 const { normalizeToken, transposeNote, transposeName } = module.exports;
 const { lookupFingering, shiftFingering, fingerFor, transposedLabel } = module.exports;
+const { buildFingeringSVG } = module.exports;
 
 test("normalizeToken passes through a plain chord", () => {
   assert.equal(normalizeToken("Am"), "Am");
@@ -134,4 +135,24 @@ test("transposedLabel renders the normalized+transposed name", () => {
   assert.equal(transposedLabel("Cm#", 0), "Cm#"); // offset 0: untouched
   // Cm# normalizes to C#m; C#m up 1 semitone is Dm, not "D"
   assert.equal(transposedLabel("Cm#", 1), "Dm");
+});
+
+test("buildFingeringSVG draws an open-position shape at the nut, one mark per string", () => {
+  const svg = buildFingeringSVG("x02210", 6); // Am, guitar
+  // one muted-string "×" mark, no base-fret label (everything fits under the nut)
+  assert.equal((svg.match(/<text/g) || []).length, 1);
+  assert.match(svg, />×</);
+  assert.match(svg, /stroke-width="3"/); // thick nut line, since base fret is 1
+});
+
+test("buildFingeringSVG shows a base-fret label for a shape shifted up the neck", () => {
+  const svg = buildFingeringSVG("edbbbe", 6); // G major shifted -1 semitone (see shiftFingering tests)
+  assert.match(svg, />11</); // base fret label: lowest row shown is fret 11
+  assert.equal(svg.includes('fill="none"'), false); // no open strings once shifted this high
+});
+
+test("buildFingeringSVG sizes the diagram to the instrument's string count", () => {
+  const guitar = buildFingeringSVG("x02210", 6);
+  const ukulele = buildFingeringSVG("2000", 4);
+  assert.notEqual(guitar.match(/width="(\d+)"/)[1], ukulele.match(/width="(\d+)"/)[1]);
 });
