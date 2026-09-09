@@ -107,8 +107,25 @@ def render_fingering_line(line):
     return f'<div class="fingering-line"><b>{label}:</b> ' + " · ".join(spans) + "</div>"
 
 
-def song_filename(s):
-    return f"{s['num']:03d}-{make_pdf.slug(s['title'])}.html"
+def build_song_filenames(songs):
+    """Stable filenames, derived from the title slug rather than the
+    running number — moving a song (which shifts every number after it)
+    no longer renames the other 737 files. Collisions get a numeric
+    suffix, same convention as dedup_lib.gh_slug's anchor collisions,
+    though none exist today: every title is already unique (variant-
+    numbered or artist-suffixed)."""
+    seen = collections.Counter()
+    filenames = {}
+    for s in songs:
+        base = make_pdf.slug(s["title"])
+        n = seen[base]
+        seen[base] += 1
+        filenames[id(s)] = f"{base}.html" if n == 0 else f"{base}-{n}.html"
+    return filenames
+
+
+def song_filename(s, filenames):
+    return filenames[id(s)]
 
 
 PART_LABEL = {}  # sec_key -> "I.1 — De munte și de drum" / "Partea a II-a — ..."
@@ -120,7 +137,7 @@ def _init_part_labels():
 _init_part_labels()
 
 
-def render_sidebar(songs, current_num, prefix=""):
+def render_sidebar(songs, filenames, current_num, prefix=""):
     out = ['<nav class="sidebar">']
     cur_part = None
     for s in songs:
@@ -129,20 +146,20 @@ def render_sidebar(songs, current_num, prefix=""):
             out.append(f'<h3>{html.escape(PART_LABEL.get(cur_part, cur_part))}</h3>')
         cls = " current" if s["num"] == current_num else ""
         out.append(
-            f'<a class="song-link{cls}" href="{prefix}{song_filename(s)}">'
+            f'<a class="song-link{cls}" href="{prefix}{song_filename(s, filenames)}">'
             f'{s["num"]}. {html.escape(s["title"])}</a>')
     out.append("</nav>")
     return "".join(out)
 
 
-def song_page(s, prev_s, next_s, songs):
+def song_page(s, filenames, prev_s, next_s, songs):
     body_html = render_pre_interactive(s["body"])
     fingerings = "".join(render_fingering_line(s[k]) for k in ("gtr", "uke") if s[k])
     nav_links = []
     if prev_s:
-        nav_links.append(f'<a href="{song_filename(prev_s)}">← {html.escape(prev_s["title"])}</a>')
+        nav_links.append(f'<a href="{song_filename(prev_s, filenames)}">← {html.escape(prev_s["title"])}</a>')
     if next_s:
-        nav_links.append(f'<a href="{song_filename(next_s)}">{html.escape(next_s["title"])} →</a>')
+        nav_links.append(f'<a href="{song_filename(next_s, filenames)}">{html.escape(next_s["title"])} →</a>')
     return f"""<!doctype html>
 <html lang="ro"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -150,7 +167,7 @@ def song_page(s, prev_s, next_s, songs):
 <link rel="stylesheet" href="../assets/site.css">
 </head><body>
 <button type="button" class="sidebar-toggle">☰ Cuprins</button>
-{render_sidebar(songs, s["num"], prefix="")}
+{render_sidebar(songs, filenames, s["num"], prefix="")}
 <main>
 <h1>{s["num"]}. {html.escape(s["title"])}</h1>
 {f'<div class="meta">{make_pdf.mini_md(s["meta"])}</div>' if s["meta"] else ""}
@@ -300,7 +317,7 @@ def readme_content_html(stats):
     return html_out
 
 
-def index_page(songs):
+def index_page(songs, filenames):
     stats = book_stats(songs)
     return f"""<!doctype html>
 <html lang="ro"><head>
@@ -309,7 +326,7 @@ def index_page(songs):
 <link rel="stylesheet" href="assets/site.css">
 </head><body>
 <button type="button" class="sidebar-toggle">☰ Cuprins</button>
-{render_sidebar(songs, current_num=None, prefix="songs/")}
+{render_sidebar(songs, filenames, current_num=None, prefix="songs/")}
 <main>
 <h1>Caiet de cântece pentru chitară</h1>
 {readme_content_html(stats)}
@@ -322,8 +339,9 @@ def main():
     intro, songs, index_lines, annex_lines = make_pdf.parse(MD)
 
     assert songs, "no songs parsed from Caiet-chitara.md"
-    filenames = [song_filename(s) for s in songs]
-    assert len(set(filenames)) == len(filenames), "duplicate song filenames"
+    filenames = build_song_filenames(songs)
+    filename_values = list(filenames.values())
+    assert len(set(filename_values)) == len(filename_values), "duplicate song filenames"
 
     if OUT_DIR.exists():
         shutil.rmtree(OUT_DIR)
@@ -334,16 +352,16 @@ def main():
     for i, s in enumerate(songs):
         prev_s = songs[i - 1] if i > 0 else None
         next_s = songs[i + 1] if i + 1 < len(songs) else None
-        (OUT_DIR / "songs" / song_filename(s)).write_text(
-            song_page(s, prev_s, next_s, songs), encoding="utf-8")
+        (OUT_DIR / "songs" / song_filename(s, filenames)).write_text(
+            song_page(s, filenames, prev_s, next_s, songs), encoding="utf-8")
 
-    (OUT_DIR / "index.html").write_text(index_page(songs), encoding="utf-8")
+    (OUT_DIR / "index.html").write_text(index_page(songs, filenames), encoding="utf-8")
 
     for name in ("chords.js", "nav.js", "site.css"):
         shutil.copy(ASSETS_SRC / name, OUT_DIR / "assets" / name)
     emit_chords_data(OUT_DIR / "assets" / "chords-data.js")
 
-    for name in filenames:
+    for name in filename_values:
         assert (OUT_DIR / "songs" / name).exists(), f"missing {name}"
 
     print(f"{len(songs)} cântece generate în {OUT_DIR}")
