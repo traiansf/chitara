@@ -56,18 +56,31 @@ def render_pre_interactive(body_lines):
                 if tok in make_pdf.SKIP_TOKENS:
                     pieces.append(esc_tok)
                 else:
+                    # data-chord is inside a double-quoted attribute, so it
+                    # needs full escaping (quote=True); the visible text
+                    # only needs text-node escaping (quote=False) — using
+                    # the same escaped value for both would let a literal
+                    # '"' in a token break out of the attribute
+                    attr = html.escape(tok, quote=True)
                     pieces.append(
-                        f'<span class="ch" data-chord="{esc_tok}">{esc_tok}</span>')
+                        f'<span class="ch" data-chord="{attr}">{esc_tok}</span>')
                 pos = m.end()
             pieces.append(html.escape(ln[pos:], quote=False))
             out.append(f'<span class="ln">{"".join(pieces)}</span>')
         else:
-            esc = html.escape(ln, quote=False)
-            def sub(m):
-                tok = html.escape(m.group(1), quote=False)
-                return f'<span class="ch" data-chord="{tok}">[{tok}]</span>'
-            esc = re.sub(r"\[([A-G][^\]]*)\]", sub, esc)
-            out.append(f'<span class="ln">{esc}</span>')
+            # Match against the raw line, not a pre-escaped one — escaping
+            # ln once, then matching/re-escaping the captured group again,
+            # double-escapes any &/</>/" already inside it.
+            pieces, pos = [], 0
+            for m in re.finditer(r"\[([A-G][^\]]*)\]", ln):
+                pieces.append(html.escape(ln[pos:m.start()], quote=False))
+                tok = m.group(1)
+                attr = html.escape(tok, quote=True)
+                text = html.escape(tok, quote=False)
+                pieces.append(f'<span class="ch" data-chord="{attr}">[{text}]</span>')
+                pos = m.end()
+            pieces.append(html.escape(ln[pos:], quote=False))
+            out.append(f'<span class="ln">{"".join(pieces)}</span>')
     return "".join(out)
 
 
@@ -84,8 +97,10 @@ def render_fingering_line(line):
     spans = []
     for pair in rest.split(" · "):
         chord, _, fingering = pair.rpartition(" ")
+        # attribute values need full escaping (default quote=True); the
+        # visible text only needs text-node escaping (quote=False)
         spans.append(
-            f'<span class="fingering" data-chord="{html.escape(chord, quote=False)}" '
-            f'data-fingering="{html.escape(fingering, quote=False)}" '
+            f'<span class="fingering" data-chord="{html.escape(chord)}" '
+            f'data-fingering="{html.escape(fingering)}" '
             f'data-instrument="{key}">{html.escape(pair, quote=False)}</span>')
     return f'<div class="fingering-line"><b>{label}:</b> ' + " · ".join(spans) + "</div>"
