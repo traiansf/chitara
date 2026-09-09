@@ -7,6 +7,7 @@ chord data, it only re-renders what those already validated.
 
 Usage: python3 tools/generate_html.py
 """
+import collections
 import html
 import json
 import re
@@ -169,7 +170,68 @@ def song_page(s, prev_s, next_s, songs):
 </body></html>"""
 
 
+def book_stats(songs):
+    """Counts derived fresh from the current book — never hand-maintained,
+    so they can't go stale the way the same numbers in README.md/CLAUDE.md
+    quietly did across a session of song moves."""
+    part_counts = collections.Counter(s["part"] for s in songs)
+    artists = collections.Counter()
+    for s in songs:
+        m = re.match(r"^\*\*(.+?)\*\*", s["meta"] or "")
+        if m:
+            artists[m.group(1)] += 1
+    n_variants = sum(1 for s in songs if re.search(r" \([IVX]+\)$", s["title"]))
+    return {
+        "part_counts": part_counts,
+        "n_artists": len(artists),
+        "n_attributed": sum(artists.values()),
+        "n_variants": n_variants,
+    }
+
+
+def content_counts_table(stats):
+    import reorganize_parts as rp
+    counts = stats["part_counts"]
+    rows = []
+    for pkey, roman, name, subs in rp.PARTS:
+        if subs:
+            total = sum(counts[sec] for sec, _ in subs)
+            rows.append(f"<tr><td><b>{roman} — {name}</b></td><td><b>{total}</b></td></tr>")
+            for sec, subname in subs:
+                rows.append(f"<tr><td class='indent'>{sec} — {subname}</td><td>{counts[sec]}</td></tr>")
+        else:
+            rows.append(f"<tr><td>{roman} — {name}</td><td>{counts[pkey]}</td></tr>")
+    return "<table>" + "".join(rows) + "</table>"
+
+
+SOURCES = [
+    ("Cărticică de cântece pentru chitară",
+     "https://github.com/traiansf/chitara/blob/main/surse/Eugen%20Karban%20-%20carticica-de-cantece-pentru-chitara-200.pdf",
+     "Eugen Karban, v2.0, <a href=\"http://www.eugenkarban.de\">eugenkarban.de</a>", 244),
+    ("Caiet Christian Adventure",
+     "https://github.com/traiansf/chitara/blob/main/surse/caiet-christian-adventure.pdf",
+     "red. Adelina Flavia Iancu", 191),
+    ("Caiet cabană RO",
+     "https://github.com/traiansf/chitara/blob/main/surse/Caietrom.pdf",
+     "<i>caiet_cantececabana_RO</i>, N. Raluca, C. Dragoș, P. Radu și mulți alții, 1998", 178),
+    ("Caiet cabană EN",
+     "https://github.com/traiansf/chitara/blob/main/surse/Caieteng.pdf",
+     "<i>Caieteng</i>, 1998, aceeași echipă", 76),
+    ("Colinde, cântece de Crăciun și de iarnă",
+     "https://github.com/traiansf/chitara/blob/main/surse/Eugen%20Karban%20-%20culegere-de-colinde-si-cantece-de-iarna-100.pdf",
+     "Eugen Karban, 2008", 100),
+]
+
+
+def sources_table():
+    rows = "".join(
+        f'<tr><td><b><a href="{url}">{html.escape(title)}</a></b> — {credit}</td><td>{n}</td></tr>'
+        for title, url, credit, n in SOURCES)
+    return f"<table>{rows}</table>"
+
+
 def index_page(songs):
+    stats = book_stats(songs)
     return f"""<!doctype html>
 <html lang="ro"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -180,7 +242,48 @@ def index_page(songs):
 {render_sidebar(songs, current_num=None, prefix="songs/")}
 <main>
 <h1>Caiet de cântece pentru chitară</h1>
-<p>{len(songs)} de cântece. Alege unul din listă.</p>
+<p>Un caiet de <b>{len(songs)} de cântece</b> cu acorduri — de cabană, folk
+românesc, repertoriu internațional și colinde — compilat din cinci culegeri
+tipărite și scanate.</p>
+<p>📦 <a href="https://github.com/traiansf/chitara">github.com/traiansf/chitara</a>
+— codul, caietul complet (.md/.pdf) și sursele scanate</p>
+
+<h2>Ce conține</h2>
+{content_counts_table(stats)}
+<p>{stats["n_artists"]} de artiști în index, {stats["n_attributed"]} de
+cântece atribuite. Fiecare cântec poartă digitațiile acordurilor lui,
+pentru chitară și pentru ukulele:</p>
+<pre>**Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231 · G 320003
+**Ukulele:** Am 2000 · E 4442 · C 0003 · Dm 2210 · G 0232</pre>
+<p>Cifrele sunt poziția pe corzi, de la coarda groasă la cea subțire; <code>x</code>
+= coarda nu se cântă. Pune cursorul pe orice acord din pagina unui cântec
+ca să vezi digitația.</p>
+
+<p>Acordurile stau fie pe rândul de deasupra versului, aliniate pe silaba unde
+se schimbă, fie — la cântecele din Cărticica lui Karban — în text, între
+paranteze drepte:</p>
+<pre>[Am]Om bun des[E]chide-ne [Am]poarta
+[C]Dă-ne o [G]coajă și [E]nu ne goni</pre>
+
+<p>Un cântec care apare în mai multe surse cu acorduri sau versuri diferite e
+păstrat de câte ori e nevoie, numerotat <code>(I)</code>, <code>(II)</code>,
+<code>(III)</code>, cu variantele una lângă alta — {stats["n_variants"]} astfel
+de intrări. Se contopesc doar cele cu aceeași succesiune de acorduri în aceeași
+tonalitate.</p>
+
+<h2>Surse</h2>
+<p>Caietul nu conține material propriu: e o compilație a cinci culegeri, cu
+sursa și pagina notate la fiecare cântec. La unele cântece acordurile au fost
+înlocuite cu variante văzute pe YouTube, așa că sursa notată acoperă versurile,
+nu neapărat acordurile.</p>
+{sources_table()}
+<p>Cele două volume ale lui <b>Eugen Karban</b> sunt distribuite de autor ca
+<i>cardware</i>, cu cerința de a-i fi creditate. Transcrierile din ele îi
+aparțin lui și celor care i-au trimis materiale, creditați individual în
+volumele originale.</p>
+<p>Drepturile asupra versurilor și muzicii aparțin autorilor și
+compozitorilor respectivi. Acest depozit e o compilație de uz personal, nu o
+publicație.</p>
 </main>
 <script src="assets/nav.js"></script>
 </body></html>"""
