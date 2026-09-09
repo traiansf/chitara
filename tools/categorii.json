@@ -1091,11 +1091,7 @@
   "motiv": "folk",
   "sectiune": "II"
  },
- "Fără petale (I) || Caiet cabană RO, p. 150": {
-  "motiv": "clasic de cabană, încadrat manual",
-  "sectiune": "I.1"
- },
- "Fără petale (II) || Cărticica Karban, p. 153": {
+ "Fără petale (I) || Cărticica Karban, p. 153; Caiet cabană RO, p. 150": {
   "motiv": "clasic de cabană, încadrat manual",
   "sectiune": "I.1"
  },
@@ -2319,11 +2315,7 @@
   "motiv": "rock, dragoste",
   "sectiune": "II"
  },
- "Strunga (I) || Caiet Christian Adventure, p. 144": {
-  "motiv": "haiduci în pădure",
-  "sectiune": "I.1"
- },
- "Strunga (II) || Cărticica Karban, p. 130": {
+ "Strunga || Cărticica Karban, p. 130": {
   "motiv": "haiduci în pădure",
   "sectiune": "I.1"
  },
@@ -2471,9 +2463,9 @@
   "motiv": "Phoenix, Timișoara",
   "sectiune": "II"
  },
- "Toamna la șuior || Caiet Christian Adventure, p. 150": {
+ "Toamna la Șuior || Caiet Christian Adventure, p. 150": {
   "motiv": "strămoși, Arcul Carpatin, umbra țării",
-  "sectiune": "I.2"
+  "sectiune": "I.1"
  },
  "Totuși, iubirea || Caiet cabană RO, p. 44": {
   "motiv": "Păunescu, dragoste",

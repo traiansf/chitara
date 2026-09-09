@@ -20,10 +20,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (187 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (185 cântece)
 
-- [I.1 — De munte și de drum](#i1--de-munte-și-de-drum) (94 cântece)
-- [I.2 — Naționaliste și de dor de țară](#i2--naționaliste-și-de-dor-de-țară) (20 cântece)
+- [I.1 — De munte și de drum](#i1--de-munte-și-de-drum) (93 cântece)
+- [I.2 — Naționaliste și de dor de țară](#i2--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.3 — Studențești, de chef și deocheate](#i3--studențești-de-chef-și-deocheate) (73 cântece)
 
 **[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (342 cântece)
@@ -71,726 +71,724 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 33. [Dor de munții mei](#33-dor-de-munții-mei)
 34. [Evadare](#34-evadare)
 35. [Fără petale (I)](#35-fără-petale-i)
-36. [Fără petale (II)](#36-fără-petale-ii)
-37. [Fata din Caraiman](#37-fata-din-caraiman)
-38. [Fata munților (I)](#38-fata-munților-i)
-39. [Fata munților (II)](#39-fata-munților-ii)
-40. [Fată verde (I)](#40-fată-verde-i)
-41. [Fată verde (II)](#41-fată-verde-ii)
-42. [Fată verde (III)](#42-fată-verde-iii)
-43. [Floare de colț (I)](#43-floare-de-colț-i)
-44. [Floare de colț (II)](#44-floare-de-colț-ii)
-45. [Freamătă pădurea](#45-freamătă-pădurea)
-46. [Hai dihai (I)](#46-hai-dihai-i)
-47. [Hai dihai (II)](#47-hai-dihai-ii)
-48. [Imnul Bucegilor](#48-imnul-bucegilor)
-49. [Imnul Dianei (I)](#49-imnul-dianei-i)
-50. [Imnul Dianei (II)](#50-imnul-dianei-ii)
-51. [Imnul ghizilor](#51-imnul-ghizilor)
-52. [Imnul Pietrei Craiului](#52-imnul-pietrei-craiului)
-53. [Imnul prieteniei](#53-imnul-prieteniei)
-54. [În codrul verde](#54-în-codrul-verde)
-55. [În loc de bun rămas](#55-în-loc-de-bun-rămas)
-56. [Legenda Craiului](#56-legenda-craiului)
-57. [Libertate-n vârf de munți](#57-libertate-n-vârf-de-munți)
-58. [Luna în cascade](#58-luna-în-cascade)
-59. [M-a ținut mama acasă](#59-m-a-ținut-mama-acasă)
-60. [Mă întorc la tine, muntele meu drag](#60-mă-întorc-la-tine-muntele-meu-drag)
-61. [Mă întorc și pașii-s grei](#61-mă-întorc-și-pașii-s-grei)
-62. [Mi-e dragă pădurea](#62-mi-e-dragă-pădurea)
-63. [Micul prinț](#63-micul-prinț)
-64. [Moartea unui alpinist (I)](#64-moartea-unui-alpinist-i)
-65. [Moartea unui alpinist (II)](#65-moartea-unui-alpinist-ii)
-66. [Munții mei](#66-munții-mei)
-67. [Numai noi](#67-numai-noi)
-68. [Nunta pe Caraiman (I)](#68-nunta-pe-caraiman-i)
-69. [Nunta pe Caraiman (II)](#69-nunta-pe-caraiman-ii)
-70. [O nouă viață](#70-o-nouă-viață)
-71. [Om bun (I)](#71-om-bun-i)
-72. [Om bun (II)](#72-om-bun-ii)
-73. [Om bun (III)](#73-om-bun-iii)
-74. [Omagiul unui alpinist](#74-omagiul-unui-alpinist)
-75. [Pădure nebună](#75-pădure-nebună)
-76. [Pe cine și câte cărări](#76-pe-cine-și-câte-cărări)
-77. [Prieteni buni](#77-prieteni-buni)
-78. [Râpa](#78-râpa)
-79. [Să-ntoarcem timpul](#79-să-ntoarcem-timpul)
-80. [Strunga (I)](#80-strunga-i)
-81. [Strunga (II)](#81-strunga-ii)
-82. [Trenul dragostei](#82-trenul-dragostei)
-83. [Tropa trop](#83-tropa-trop)
-84. [Tropa trop spre cabană](#84-tropa-trop-spre-cabană)
-85. [Uiuiui brădui](#85-uiuiui-brădui)
-86. [Ultima zi](#86-ultima-zi)
-87. [Un munte așternut](#87-un-munte-așternut)
-88. [Viață de haiduc](#88-viață-de-haiduc)
-89. [Viață de vagabond](#89-viață-de-vagabond)
-90. [Vino, vino (I)](#90-vino-vino-i)
-91. [Visul (I)](#91-visul-i)
-92. [Visul (II)](#92-visul-ii)
-93. [Visul (III)](#93-visul-iii)
-94. [Vulturul](#94-vulturul)
+36. [Fata din Caraiman](#36-fata-din-caraiman)
+37. [Fata munților (I)](#37-fata-munților-i)
+38. [Fata munților (II)](#38-fata-munților-ii)
+39. [Fată verde (I)](#39-fată-verde-i)
+40. [Fată verde (II)](#40-fată-verde-ii)
+41. [Fată verde (III)](#41-fată-verde-iii)
+42. [Floare de colț (I)](#42-floare-de-colț-i)
+43. [Floare de colț (II)](#43-floare-de-colț-ii)
+44. [Freamătă pădurea](#44-freamătă-pădurea)
+45. [Hai dihai (I)](#45-hai-dihai-i)
+46. [Hai dihai (II)](#46-hai-dihai-ii)
+47. [Imnul Bucegilor](#47-imnul-bucegilor)
+48. [Imnul Dianei (I)](#48-imnul-dianei-i)
+49. [Imnul Dianei (II)](#49-imnul-dianei-ii)
+50. [Imnul ghizilor](#50-imnul-ghizilor)
+51. [Imnul Pietrei Craiului](#51-imnul-pietrei-craiului)
+52. [Imnul prieteniei](#52-imnul-prieteniei)
+53. [În codrul verde](#53-în-codrul-verde)
+54. [În loc de bun rămas](#54-în-loc-de-bun-rămas)
+55. [Legenda Craiului](#55-legenda-craiului)
+56. [Libertate-n vârf de munți](#56-libertate-n-vârf-de-munți)
+57. [Luna în cascade](#57-luna-în-cascade)
+58. [M-a ținut mama acasă](#58-m-a-ținut-mama-acasă)
+59. [Mă întorc la tine, muntele meu drag](#59-mă-întorc-la-tine-muntele-meu-drag)
+60. [Mă întorc și pașii-s grei](#60-mă-întorc-și-pașii-s-grei)
+61. [Mi-e dragă pădurea](#61-mi-e-dragă-pădurea)
+62. [Micul prinț](#62-micul-prinț)
+63. [Moartea unui alpinist (I)](#63-moartea-unui-alpinist-i)
+64. [Moartea unui alpinist (II)](#64-moartea-unui-alpinist-ii)
+65. [Munții mei](#65-munții-mei)
+66. [Numai noi](#66-numai-noi)
+67. [Nunta pe Caraiman (I)](#67-nunta-pe-caraiman-i)
+68. [Nunta pe Caraiman (II)](#68-nunta-pe-caraiman-ii)
+69. [O nouă viață](#69-o-nouă-viață)
+70. [Om bun (I)](#70-om-bun-i)
+71. [Om bun (II)](#71-om-bun-ii)
+72. [Om bun (III)](#72-om-bun-iii)
+73. [Omagiul unui alpinist](#73-omagiul-unui-alpinist)
+74. [Pădure nebună](#74-pădure-nebună)
+75. [Pe cine și câte cărări](#75-pe-cine-și-câte-cărări)
+76. [Prieteni buni](#76-prieteni-buni)
+77. [Râpa](#77-râpa)
+78. [Să-ntoarcem timpul](#78-să-ntoarcem-timpul)
+79. [Strunga](#79-strunga)
+80. [Toamna la Șuior](#80-toamna-la-șuior)
+81. [Trenul dragostei](#81-trenul-dragostei)
+82. [Tropa trop](#82-tropa-trop)
+83. [Tropa trop spre cabană](#83-tropa-trop-spre-cabană)
+84. [Uiuiui brădui](#84-uiuiui-brădui)
+85. [Ultima zi](#85-ultima-zi)
+86. [Un munte așternut](#86-un-munte-așternut)
+87. [Viață de haiduc](#87-viață-de-haiduc)
+88. [Viață de vagabond](#88-viață-de-vagabond)
+89. [Vino, vino (I)](#89-vino-vino-i)
+90. [Visul (I)](#90-visul-i)
+91. [Visul (II)](#91-visul-ii)
+92. [Visul (III)](#92-visul-iii)
+93. [Vulturul](#93-vulturul)
 
 ### I.2 — Naționaliste și de dor de țară (alfabetic)
 
-95. [Avram Iancu](#95-avram-iancu)
-96. [Cântec de oameni](#96-cântec-de-oameni)
-97. [Colindul mâinilor truditoare](#97-colindul-mâinilor-truditoare)
-98. [Dacii liberi](#98-dacii-liberi)
-99. [Deșteaptă-te române (I)](#99-deșteaptă-te-române-i)
-100. [Deșteaptă-te române (II)](#100-deșteaptă-te-române-ii)
-101. [Dor de Eminescu](#101-dor-de-eminescu)
-102. [Hai să-ntindem hora mare](#102-hai-să-ntindem-hora-mare)
-103. [Hora unirii](#103-hora-unirii)
-104. [Imnul golanilor](#104-imnul-golanilor)
-105. [În umbra marelui URSS](#105-în-umbra-marelui-urss)
-106. [Întoarcerea țăranului](#106-întoarcerea-țăranului)
-107. [Jurământ la Putna](#107-jurământ-la-putna)
-108. [Toamna la șuior](#108-toamna-la-șuior)
-109. [Treceți batalioane române Carpații (I)](#109-treceți-batalioane-române-carpații-i)
-110. [Treceți batalioane române Carpații (II)](#110-treceți-batalioane-române-carpații-ii)
-111. [Tricolorul](#111-tricolorul)
-112. [Tron în Apuseni (I)](#112-tron-în-apuseni-i)
-113. [Tron în Apuseni (II)](#113-tron-în-apuseni-ii)
-114. [Tu Ardeal](#114-tu-ardeal)
+94. [Avram Iancu](#94-avram-iancu)
+95. [Cântec de oameni](#95-cântec-de-oameni)
+96. [Colindul mâinilor truditoare](#96-colindul-mâinilor-truditoare)
+97. [Dacii liberi](#97-dacii-liberi)
+98. [Deșteaptă-te române (I)](#98-deșteaptă-te-române-i)
+99. [Deșteaptă-te române (II)](#99-deșteaptă-te-române-ii)
+100. [Dor de Eminescu](#100-dor-de-eminescu)
+101. [Hai să-ntindem hora mare](#101-hai-să-ntindem-hora-mare)
+102. [Hora unirii](#102-hora-unirii)
+103. [Imnul golanilor](#103-imnul-golanilor)
+104. [În umbra marelui URSS](#104-în-umbra-marelui-urss)
+105. [Întoarcerea țăranului](#105-întoarcerea-țăranului)
+106. [Jurământ la Putna](#106-jurământ-la-putna)
+107. [Treceți batalioane române Carpații (I)](#107-treceți-batalioane-române-carpații-i)
+108. [Treceți batalioane române Carpații (II)](#108-treceți-batalioane-române-carpații-ii)
+109. [Tricolorul](#109-tricolorul)
+110. [Tron în Apuseni (I)](#110-tron-în-apuseni-i)
+111. [Tron în Apuseni (II)](#111-tron-în-apuseni-ii)
+112. [Tu Ardeal](#112-tu-ardeal)
 
 ### I.3 — Studențești, de chef și deocheate (alfabetic)
 
-115. [Alcool](#115-alcool)
-116. [Alice](#116-alice)
-117. [Apă de izvor](#117-apă-de-izvor)
-118. [Aproape de voi](#118-aproape-de-voi)
-119. [Așa beu oamenii buni](#119-așa-beu-oamenii-buni)
-120. [Bade pălărie nouă](#120-bade-pălărie-nouă)
-121. [Bărbățelul](#121-bărbățelul)
-122. [Bing bang (I)](#122-bing-bang-i)
-123. [Bing bang (II)](#123-bing-bang-ii)
-124. [Bosquito](#124-bosquito)
-125. [Călugărul din vechiul schit](#125-călugărul-din-vechiul-schit)
-126. [Cana cu vin (I)](#126-cana-cu-vin-i)
-127. [Cana cu vin (II)](#127-cana-cu-vin-ii)
-128. [Cântecul vacii](#128-cântecul-vacii)
-129. [Caravanele (I)](#129-caravanele-i)
-130. [Caravanele (II)](#130-caravanele-ii)
-131. [Carolina (I)](#131-carolina-i)
-132. [Carolina (II)](#132-carolina-ii)
-133. [Cavaleri ai mesei rotunde (I)](#133-cavaleri-ai-mesei-rotunde-i)
-134. [Cavaleri ai mesei rotunde (II)](#134-cavaleri-ai-mesei-rotunde-ii)
-135. [Ce facem cu studentul beat?](#135-ce-facem-cu-studentul-beat)
-136. [Ce mult te-am iubit Paraschivo (I)](#136-ce-mult-te-am-iubit-paraschivo-i)
-137. [Ce mult te-am iubit Paraschivo (II)](#137-ce-mult-te-am-iubit-paraschivo-ii)
-138. [Ce nasoala ești](#138-ce-nasoala-ești)
-139. [Ceata noastră (I)](#139-ceata-noastră-i)
-140. [Ceata noastră (II)](#140-ceata-noastră-ii)
-141. [Cine-i născut în...](#141-cine-i-născut-în)
-142. [Copacul](#142-copacul)
-143. [Copilița fără minte](#143-copilița-fără-minte)
-144. [Cu galeata în mână](#144-cu-galeata-în-mână)
-145. [Din prea mult sau prea puțin](#145-din-prea-mult-sau-prea-puțin)
-146. [Doi olteni](#146-doi-olteni)
-147. [Doi olteni (variantă)](#147-doi-olteni-variantă)
-148. [Dragu-mii veselia](#148-dragu-mii-veselia)
-149. [Du-mă acasă mai tramvai](#149-du-mă-acasă-mai-tramvai)
-150. [Eu așa și ea așa](#150-eu-așa-și-ea-așa)
-151. [Felia](#151-felia)
-152. [Femei, femei](#152-femei-femei)
-153. [Fetița franceză](#153-fetița-franceză)
-154. [Floare albă, floare neagră](#154-floare-albă-floare-neagră)
-155. [Gașca](#155-gașca)
-156. [Hora bețivilor](#156-hora-bețivilor)
-157. [Imnul reșițenilor](#157-imnul-reșițenilor)
-158. [În pădurea verde](#158-în-pădurea-verde)
-159. [Inimă de țigancă (I)](#159-inimă-de-țigancă-i)
-160. [Inimă de țigancă (II)](#160-inimă-de-țigancă-ii)
-161. [Jean frizerul](#161-jean-frizerul)
-162. [Katiusa](#162-katiusa)
-163. [Katiusa (variantă)](#163-katiusa-variantă)
-164. [M-am dus să tai un copac](#164-m-am-dus-să-tai-un-copac)
-165. [Mi-a zis mama că mi-o da](#165-mi-a-zis-mama-că-mi-o-da)
-166. [O, mama](#166-o-mama)
-167. [Prietenii](#167-prietenii)
-168. [Puștoaică de liceu](#168-puștoaică-de-liceu)
-169. [Reclame](#169-reclame)
-170. [S-o facem lată](#170-s-o-facem-lată)
-171. [Să nu uităm](#171-să-nu-uităm)
-172. [Șatra (I)](#172-șatra-i)
-173. [Șatra (II)](#173-șatra-ii)
-174. [Și-alta dată](#174-și-alta-dată)
-175. [Sobița](#175-sobița)
-176. [Suzana](#176-suzana)
-177. [Tango țigan](#177-tango-țigan)
-178. [Te-am cunoscut în troleibuz (I)](#178-te-am-cunoscut-în-troleibuz-i)
-179. [Te-am cunoscut în troleibuz (II)](#179-te-am-cunoscut-în-troleibuz-ii)
-180. [Țigăncușa (I)](#180-țigăncușa-i)
-181. [Țigăncușa (II)](#181-țigăncușa-ii)
-182. [Trăiască berea](#182-trăiască-berea)
-183. [Trec țiganii](#183-trec-țiganii)
-184. [Un elefant... (II)](#184-un-elefant-ii)
-185. [Un kil de rom](#185-un-kil-de-rom)
-186. [Vino, vino (II)](#186-vino-vino-ii)
-187. [Zece negri mititei](#187-zece-negri-mititei)
+113. [Alcool](#113-alcool)
+114. [Alice](#114-alice)
+115. [Apă de izvor](#115-apă-de-izvor)
+116. [Aproape de voi](#116-aproape-de-voi)
+117. [Așa beu oamenii buni](#117-așa-beu-oamenii-buni)
+118. [Bade pălărie nouă](#118-bade-pălărie-nouă)
+119. [Bărbățelul](#119-bărbățelul)
+120. [Bing bang (I)](#120-bing-bang-i)
+121. [Bing bang (II)](#121-bing-bang-ii)
+122. [Bosquito](#122-bosquito)
+123. [Călugărul din vechiul schit](#123-călugărul-din-vechiul-schit)
+124. [Cana cu vin (I)](#124-cana-cu-vin-i)
+125. [Cana cu vin (II)](#125-cana-cu-vin-ii)
+126. [Cântecul vacii](#126-cântecul-vacii)
+127. [Caravanele (I)](#127-caravanele-i)
+128. [Caravanele (II)](#128-caravanele-ii)
+129. [Carolina (I)](#129-carolina-i)
+130. [Carolina (II)](#130-carolina-ii)
+131. [Cavaleri ai mesei rotunde (I)](#131-cavaleri-ai-mesei-rotunde-i)
+132. [Cavaleri ai mesei rotunde (II)](#132-cavaleri-ai-mesei-rotunde-ii)
+133. [Ce facem cu studentul beat?](#133-ce-facem-cu-studentul-beat)
+134. [Ce mult te-am iubit Paraschivo (I)](#134-ce-mult-te-am-iubit-paraschivo-i)
+135. [Ce mult te-am iubit Paraschivo (II)](#135-ce-mult-te-am-iubit-paraschivo-ii)
+136. [Ce nasoala ești](#136-ce-nasoala-ești)
+137. [Ceata noastră (I)](#137-ceata-noastră-i)
+138. [Ceata noastră (II)](#138-ceata-noastră-ii)
+139. [Cine-i născut în...](#139-cine-i-născut-în)
+140. [Copacul](#140-copacul)
+141. [Copilița fără minte](#141-copilița-fără-minte)
+142. [Cu galeata în mână](#142-cu-galeata-în-mână)
+143. [Din prea mult sau prea puțin](#143-din-prea-mult-sau-prea-puțin)
+144. [Doi olteni](#144-doi-olteni)
+145. [Doi olteni (variantă)](#145-doi-olteni-variantă)
+146. [Dragu-mii veselia](#146-dragu-mii-veselia)
+147. [Du-mă acasă mai tramvai](#147-du-mă-acasă-mai-tramvai)
+148. [Eu așa și ea așa](#148-eu-așa-și-ea-așa)
+149. [Felia](#149-felia)
+150. [Femei, femei](#150-femei-femei)
+151. [Fetița franceză](#151-fetița-franceză)
+152. [Floare albă, floare neagră](#152-floare-albă-floare-neagră)
+153. [Gașca](#153-gașca)
+154. [Hora bețivilor](#154-hora-bețivilor)
+155. [Imnul reșițenilor](#155-imnul-reșițenilor)
+156. [În pădurea verde](#156-în-pădurea-verde)
+157. [Inimă de țigancă (I)](#157-inimă-de-țigancă-i)
+158. [Inimă de țigancă (II)](#158-inimă-de-țigancă-ii)
+159. [Jean frizerul](#159-jean-frizerul)
+160. [Katiusa](#160-katiusa)
+161. [Katiusa (variantă)](#161-katiusa-variantă)
+162. [M-am dus să tai un copac](#162-m-am-dus-să-tai-un-copac)
+163. [Mi-a zis mama că mi-o da](#163-mi-a-zis-mama-că-mi-o-da)
+164. [O, mama](#164-o-mama)
+165. [Prietenii](#165-prietenii)
+166. [Puștoaică de liceu](#166-puștoaică-de-liceu)
+167. [Reclame](#167-reclame)
+168. [S-o facem lată](#168-s-o-facem-lată)
+169. [Să nu uităm](#169-să-nu-uităm)
+170. [Șatra (I)](#170-șatra-i)
+171. [Șatra (II)](#171-șatra-ii)
+172. [Și-alta dată](#172-și-alta-dată)
+173. [Sobița](#173-sobița)
+174. [Suzana](#174-suzana)
+175. [Tango țigan](#175-tango-țigan)
+176. [Te-am cunoscut în troleibuz (I)](#176-te-am-cunoscut-în-troleibuz-i)
+177. [Te-am cunoscut în troleibuz (II)](#177-te-am-cunoscut-în-troleibuz-ii)
+178. [Țigăncușa (I)](#178-țigăncușa-i)
+179. [Țigăncușa (II)](#179-țigăncușa-ii)
+180. [Trăiască berea](#180-trăiască-berea)
+181. [Trec țiganii](#181-trec-țiganii)
+182. [Un elefant... (II)](#182-un-elefant-ii)
+183. [Un kil de rom](#183-un-kil-de-rom)
+184. [Vino, vino (II)](#184-vino-vino-ii)
+185. [Zece negri mititei](#185-zece-negri-mititei)
 
 ### Partea a II-a — Repertoriu românesc (alfabetic)
 
-188. [2000 de ani](#188-2000-de-ani)
-189. [38](#189-38)
-190. [A ruginit frunza din vii](#190-a-ruginit-frunza-din-vii)
-191. [Actorul](#191-actorul)
-192. [Adelina](#192-adelina)
-193. [Adio, deci pe curând (I)](#193-adio-deci-pe-curând-i)
-194. [Adio, deci pe curând (II)](#194-adio-deci-pe-curând-ii)
-195. [Ai venit](#195-ai-venit)
-196. [Aiurit și aburit](#196-aiurit-și-aburit)
-197. [Alo! Ei a mea!](#197-alo-ei-a-mea)
-198. [Alte clipe trăite alt epilog](#198-alte-clipe-trăite-alt-epilog)
-199. [Alunelul](#199-alunelul)
-200. [Am doar 18 ani](#200-am-doar-18-ani)
-201. [Am nevoie de tine](#201-am-nevoie-de-tine)
-202. [Amintire de fum](#202-amintire-de-fum)
-203. [Amintirea paradisului](#203-amintirea-paradisului)
-204. [Amintiri](#204-amintiri)
-205. [Amorul cubist](#205-amorul-cubist)
-206. [Ana lui Manole](#206-ana-lui-manole)
-207. [Antiprimăvara](#207-antiprimăvara)
-208. [Anxietate](#208-anxietate)
-209. [Aproape liniște (I)](#209-aproape-liniște-i)
-210. [Aproape liniște (II)](#210-aproape-liniște-ii)
-211. [Arsură (I)](#211-arsură-i)
-212. [Arsură (II)](#212-arsură-ii)
-213. [Arsură (III)](#213-arsură-iii)
-214. [Asta-s eu](#214-asta-s-eu)
-215. [Astăzi și mâine](#215-astăzi-și-mâine)
-216. [Atât de fragedă](#216-atât-de-fragedă)
-217. [Azi](#217-azi)
-218. [Baby](#218-baby)
-219. [Balada blondelor iubiri](#219-balada-blondelor-iubiri)
-220. [Bat la poarta ta](#220-bat-la-poarta-ta)
-221. [Bătălia s-a sfârșit, soldatul...](#221-bătălia-s-a-sfârșit-soldatul)
-222. [Biletul de tren](#222-biletul-de-tren)
-223. [Boxerul](#223-boxerul)
-224. [Bunica](#224-bunica)
-225. [Ca o stea](#225-ca-o-stea)
-226. [Caii liberi](#226-caii-liberi)
-227. [Calul din Malboro](#227-calul-din-malboro)
-228. [Canadiana](#228-canadiana)
-229. [Canarul (I)](#229-canarul-i)
-230. [Canarul (II)](#230-canarul-ii)
-231. [Când s-o-mpărțit norocu'](#231-când-s-o-mpărțit-norocu)
-232. [Când se lasă seara](#232-când-se-lasă-seara)
-233. [Cântec bătrânesc](#233-cântec-bătrânesc)
-234. [Cântec în noapte](#234-cântec-în-noapte)
-235. [Cântec pentru Charlie Chaplin](#235-cântec-pentru-charlie-chaplin)
-236. [Cântec pentru tine](#236-cântec-pentru-tine)
-237. [Cântec șoptit (I)](#237-cântec-șoptit-i)
-238. [Cântec șoptit (II)](#238-cântec-șoptit-ii)
-239. [Cântecul bufonului (I)](#239-cântecul-bufonului-i)
-240. [Cântecul bufonului (II)](#240-cântecul-bufonului-ii)
-241. [Castelul](#241-castelul)
-242. [Casuta din pădure](#242-casuta-din-pădure)
-243. [Ce de lupi se înconjoară](#243-ce-de-lupi-se-înconjoară)
-244. [Ceasornicarul (I)](#244-ceasornicarul-i)
-245. [Ceasornicarul (II)](#245-ceasornicarul-ii)
-246. [Cerbul](#246-cerbul)
-247. [Ciobănaș cu trei sute de oi](#247-ciobănaș-cu-trei-sute-de-oi)
-248. [Cireșarii](#248-cireșarii)
-249. [Cireșul](#249-cireșul)
-250. [Ciuleandra](#250-ciuleandra)
-251. [Colo-n vale](#251-colo-n-vale)
-252. [Copacii fără pădure](#252-copacii-fără-pădure)
-253. [Copacul îndrăgostit](#253-copacul-îndrăgostit)
-254. [Corina](#254-corina)
-255. [Cu tine în gând](#255-cu-tine-în-gând)
-256. [Cucul](#256-cucul)
-257. [Cucule pasăre grasă](#257-cucule-pasăre-grasă)
-258. [Dacă ai ghici](#258-dacă-ai-ghici)
-259. [Dacă dragoste nu e...](#259-dacă-dragoste-nu-e)
-260. [Dacă n-ai amintiri](#260-dacă-n-ai-amintiri)
-261. [Dacă pleci](#261-dacă-pleci)
-262. [Dacă vrei](#262-dacă-vrei)
-263. [Dacă vrei să pleci](#263-dacă-vrei-să-pleci)
-264. [Dans](#264-dans)
-265. [Dansul codrilor](#265-dansul-codrilor)
-266. [De ce](#266-de-ce)
-267. [De ce?](#267-de-ce)
-268. [De-ar fi mândra-n deal la cruce](#268-de-ar-fi-mândra-n-deal-la-cruce)
-269. [Dealul cu dor](#269-dealul-cu-dor)
-270. [Deku](#270-deku)
-271. [Delir](#271-delir)
-272. [Delirul](#272-delirul)
-273. [Departe](#273-departe)
-274. [Dintr-o cafea (I)](#274-dintr-o-cafea-i)
-275. [Dintr-o cafea (II)](#275-dintr-o-cafea-ii)
-276. [Dintre sute de catarge](#276-dintre-sute-de-catarge)
-277. [Doi ochi căprui](#277-doi-ochi-căprui)
-278. [Dona, dona (I)](#278-dona-dona-i)
-279. [Dona, dona (II)](#279-dona-dona-ii)
-280. [Dorul](#280-dorul)
-281. [Dracula blues](#281-dracula-blues)
-282. [Dragă Otee](#282-dragă-otee)
-283. [Dragoste în fân (I)](#283-dragoste-în-fân-i)
-284. [Dragoste în fân (II)](#284-dragoste-în-fân-ii)
-285. [Dragostea cu patru foi](#285-dragostea-cu-patru-foi)
-286. [Dragostea e o salata](#286-dragostea-e-o-salata)
-287. [Dragostea pasarii](#287-dragostea-pasarii)
-288. [După pui de moroșan](#288-după-pui-de-moroșan)
-289. [Emoție de toamnă (I)](#289-emoție-de-toamnă-i)
-290. [Emoție de toamnă (II)](#290-emoție-de-toamnă-ii)
-291. [Emoție de toamnă (III)](#291-emoție-de-toamnă-iii)
-292. [Epilog](#292-epilog)
-293. [Era Vasile om frumos](#293-era-vasile-om-frumos)
-294. [Esarfa în dar](#294-esarfa-în-dar)
-295. [Ești așa frumoasă](#295-ești-așa-frumoasă)
-296. [Fata din vis](#296-fata-din-vis)
-297. [Fata morgană](#297-fata-morgană)
-298. [Floarea](#298-floarea)
-299. [Fluier în cer](#299-fluier-în-cer)
-300. [Focul vânăt (I)](#300-focul-vânăt-i)
-301. [Focul vânăt (II)](#301-focul-vânăt-ii)
-302. [Focuri vii](#302-focuri-vii)
-303. [Fostele iubiri](#303-fostele-iubiri)
-304. [Frumoasă-i vecina noastră](#304-frumoasă-i-vecina-noastră)
-305. [Frunza](#305-frunza)
-306. [Frunza (I)](#306-frunza-i)
-307. [Frunza (II)](#307-frunza-ii)
-308. [Gara](#308-gara)
-309. [Ghezesu'](#309-ghezesu)
-310. [Glosă](#310-glosă)
-311. [Grasă](#311-grasă)
-312. [Hai să ne imaginăm](#312-hai-să-ne-imaginăm)
-313. [Hai, mândruțo!](#313-hai-mândruțo)
-314. [Hăituit](#314-hăituit)
-315. [Hanul lui Manuc](#315-hanul-lui-manuc)
-316. [Hei trenule](#316-hei-trenule)
-317. [Iepuraș coconaș](#317-iepuraș-coconaș)
-318. [Iertările](#318-iertările)
-319. [Îmi pare rău](#319-îmi-pare-rău)
-320. [Imposibila nuntă](#320-imposibila-nuntă)
-321. [Împreună](#321-împreună)
-322. [În tren](#322-în-tren)
-323. [Înserarea](#323-înserarea)
-324. [Înțelegere (I)](#324-înțelegere-i)
-325. [Înțelegere (II)](#325-înțelegere-ii)
-326. [Întoarcere la orient (I)](#326-întoarcere-la-orient-i)
-327. [Întoarcere la orient (II)](#327-întoarcere-la-orient-ii)
-328. [Învață de la toate](#328-învață-de-la-toate)
-329. [Iubesc ploile](#329-iubesc-ploile)
-330. [Iubire-ideal](#330-iubire-ideal)
-331. [Iubirea cea mare](#331-iubirea-cea-mare)
-332. [Iubita mea, ți-am cumpărat un munte](#332-iubita-mea-ți-am-cumpărat-un-munte)
-333. [Iubito](#333-iubito)
-334. [Joc de copil](#334-joc-de-copil)
-335. [Jocul](#335-jocul)
-336. [Jumătate tu, jumătate eu](#336-jumătate-tu-jumătate-eu)
-337. [La adio](#337-la-adio)
-338. [La fereastra ta (I)](#338-la-fereastra-ta-i)
-339. [La fereastra ta (II)](#339-la-fereastra-ta-ii)
-340. [La Mulți Ani!](#340-la-mulți-ani)
-341. [La nunta ta](#341-la-nunta-ta)
-342. [La război](#342-la-război)
-343. [La un ceai](#343-la-un-ceai)
-344. [Lacrimi și surâs](#344-lacrimi-și-surâs)
-345. [Lângă mine](#345-lângă-mine)
-346. [Lăsați-mă să cânt](#346-lăsați-mă-să-cânt)
-347. [Lavinia](#347-lavinia)
-348. [Lordul John](#348-lordul-john)
-349. [Lumină (I)](#349-lumină-i)
-350. [Lumină (II)](#350-lumină-ii)
-351. [Lumină (III)](#351-lumină-iii)
-352. [M-am îndrăgostit numai de ea](#352-m-am-îndrăgostit-numai-de-ea)
-353. [Mă duse-i să trec la Olt](#353-mă-duse-i-să-trec-la-olt)
-354. [Madama de pică](#354-madama-de-pică)
-355. [Mai stai](#355-mai-stai)
-356. [Mama, mama](#356-mama-mama)
-357. [Marea](#357-marea)
-358. [Mi-e dor de ochii tăi](#358-mi-e-dor-de-ochii-tăi)
-359. [Mica țiganiadă](#359-mica-țiganiadă)
-360. [Micuța blondă](#360-micuța-blondă)
-361. [Mielul (I)](#361-mielul-i)
-362. [Mielul (II)](#362-mielul-ii)
-363. [Mihai, câți copii îmi dai?](#363-mihai-câți-copii-îmi-dai)
-364. [Miruna (I)](#364-miruna-i)
-365. [Miruna (II)](#365-miruna-ii)
-366. [Mistrețul galben](#366-mistrețul-galben)
-367. [Mr. Tambourine Man](#367-mr-tambourine-man)
-368. [Mugur de fluier (I)](#368-mugur-de-fluier-i)
-369. [Mugur de fluier (II)](#369-mugur-de-fluier-ii)
-370. [Muntele alb](#370-muntele-alb)
-371. [Muzică și muzichia](#371-muzică-și-muzichia)
-372. [Nebunul cu ochi închiși (I)](#372-nebunul-cu-ochi-închiși-i)
-373. [Nebunul cu ochi închiși (II)](#373-nebunul-cu-ochi-închiși-ii)
-374. [Nebunul de alb](#374-nebunul-de-alb)
-375. [Noapte de iubire](#375-noapte-de-iubire)
-376. [Noapte la mare, noapte la munte](#376-noapte-la-mare-noapte-la-munte)
-377. [Nopți (I)](#377-nopți-i)
-378. [Nopți (II)](#378-nopți-ii)
-379. [Nu am cer](#379-nu-am-cer)
-380. [Nu am chef azi](#380-nu-am-chef-azi)
-381. [Nu am mai fost acasă demult](#381-nu-am-mai-fost-acasă-demult)
-382. [Nu mă-ntreba](#382-nu-mă-ntreba)
-383. [Nu te mai iubesc (I)](#383-nu-te-mai-iubesc-i)
-384. [Nu te mai iubesc (II)](#384-nu-te-mai-iubesc-ii)
-385. [Nu-i nimic, asta e! (I)](#385-nu-i-nimic-asta-e-i)
-386. [Nu-i nimic, asta e! (II)](#386-nu-i-nimic-asta-e-ii)
-387. [Nu-mi mai pasă](#387-nu-mi-mai-pasă)
-388. [Nunta (I)](#388-nunta-i)
-389. [Nunta (II)](#389-nunta-ii)
-390. [Oaia mică](#390-oaia-mică)
-391. [Oameni](#391-oameni)
-392. [Oameni buni](#392-oameni-buni)
-393. [Oameni de zăpadă (I)](#393-oameni-de-zăpadă-i)
-394. [Oameni de zăpadă (II)](#394-oameni-de-zăpadă-ii)
-395. [Obsesia](#395-obsesia)
-396. [Ochii tăi](#396-ochii-tăi)
-397. [Ochii tăi (I)](#397-ochii-tăi-i)
-398. [Ochii tăi (II)](#398-ochii-tăi-ii)
-399. [Ochii verzi](#399-ochii-verzi)
-400. [Om în amurg](#400-om-în-amurg)
-401. [Omul bun și pomul copt](#401-omul-bun-și-pomul-copt)
-402. [Omul pădurii (I)](#402-omul-pădurii-i)
-403. [Omul pădurii (II)](#403-omul-pădurii-ii)
-404. [Oprește-mă la tine](#404-oprește-mă-la-tine)
-405. [Ordinea de zi](#405-ordinea-de-zi)
-406. [Pădure de argint](#406-pădure-de-argint)
-407. [Pădure liniștitoare](#407-pădure-liniștitoare)
-408. [Pământul deocamdată](#408-pământul-deocamdată)
-409. [Păpușa](#409-păpușa)
-410. [Păpușarii](#410-păpușarii)
-411. [Păsări de fum](#411-păsări-de-fum)
-412. [Pat de flori](#412-pat-de-flori)
-413. [Pe corso (I)](#413-pe-corso-i)
-414. [Pe corso (II)](#414-pe-corso-ii)
-415. [Pe deal pe la Cornățel](#415-pe-deal-pe-la-cornățel)
-416. [Peste răbdări](#416-peste-răbdări)
-417. [Peste-al nostru sărut](#417-peste-al-nostru-sărut)
-418. [Piața Romană nr.9](#418-piața-romană-nr9)
-419. [Pisică neagră](#419-pisică-neagră)
-420. [Ploaia](#420-ploaia)
-421. [Ploaia (II)](#421-ploaia-ii)
-422. [Ploaia care va veni (I)](#422-ploaia-care-va-veni-i)
-423. [Ploaia care va veni (II)](#423-ploaia-care-va-veni-ii)
-424. [Ploaie în luna lui marte](#424-ploaie-în-luna-lui-marte)
-425. [Podul de piatra](#425-podul-de-piatra)
-426. [Podul de piatra](#426-podul-de-piatra)
-427. [Poveste](#427-poveste)
-428. [Prietene](#428-prietene)
-429. [Primavara - Paparuga](#429-primavara---paparuga)
-430. [Proverbe](#430-proverbe)
-431. [Pseudofabula](#431-pseudofabula)
-432. [Puștoaico](#432-puștoaico)
-433. [Puterea să alegi](#433-puterea-să-alegi)
-434. [Rănitul dintre linii (I)](#434-rănitul-dintre-linii-i)
-435. [Rănitul dintre linii (II)](#435-rănitul-dintre-linii-ii)
-436. [Rar](#436-rar)
-437. [Resemnare paternă](#437-resemnare-paternă)
-438. [Romanță de toamnă](#438-romanță-de-toamnă)
-439. [Romanță între două trenuri (I)](#439-romanță-între-două-trenuri-i)
-440. [Romanță între două trenuri (II)](#440-romanță-între-două-trenuri-ii)
-441. [Roșu aprins](#441-roșu-aprins)
-442. [Rugă pentru părinți (I)](#442-rugă-pentru-părinți-i)
-443. [Rugă pentru părinți (II)](#443-rugă-pentru-părinți-ii)
-444. [Să nu-mi iei niciodată dragostea](#444-să-nu-mi-iei-niciodată-dragostea)
-445. [Să trosnească lemne-n foc (I)](#445-să-trosnească-lemne-n-foc-i)
-446. [Să trosnească lemne-n foc (II)](#446-să-trosnească-lemne-n-foc-ii)
-447. [Sala pașilor pierduți](#447-sala-pașilor-pierduți)
-448. [Săracă inima me' (I)](#448-săracă-inima-me-i)
-449. [Săracă inima me' (II)](#449-săracă-inima-me-ii)
-450. [Scândura](#450-scândura)
-451. [Scrisoare de rămas bun (I)](#451-scrisoare-de-rămas-bun-i)
-452. [Scrisoare de rămas bun (II)](#452-scrisoare-de-rămas-bun-ii)
-453. [Scrisoare de rămas bun (III)](#453-scrisoare-de-rămas-bun-iii)
-454. [Seara de mai](#454-seara-de-mai)
-455. [Sfârșitul nu-i aici](#455-sfârșitul-nu-i-aici)
-456. [Și dacă (I)](#456-și-dacă-i)
-457. [Și dacă (II)](#457-și-dacă-ii)
-458. [Și de-ar fi (I)](#458-și-de-ar-fi-i)
-459. [Și de-ar fi (II)](#459-și-de-ar-fi-ii)
-460. [Și-am iubit o ardeleancă](#460-și-am-iubit-o-ardeleancă)
-461. [Singur în noapte (I)](#461-singur-în-noapte-i)
-462. [Singur în noapte (II)](#462-singur-în-noapte-ii)
-463. [Singură](#463-singură)
-464. [Spune ce vrei](#464-spune-ce-vrei)
-465. [Spune-mi cine ești (I)](#465-spune-mi-cine-ești-i)
-466. [Spune-mi cine ești (II)](#466-spune-mi-cine-ești-ii)
-467. [Strada Popa Nan (I)](#467-strada-popa-nan-i)
-468. [Strada Popa Nan (II)](#468-strada-popa-nan-ii)
-469. [Strada ta (I)](#469-strada-ta-i)
-470. [Strada ta (II)](#470-strada-ta-ii)
-471. [Suflet fără chei](#471-suflet-fără-chei)
-472. [Sunt sărac](#472-sunt-sărac)
-473. [Supărat](#473-supărat)
-474. [Tăcut](#474-tăcut)
-475. [Taina (I)](#475-taina-i)
-476. [Taina (II)](#476-taina-ii)
-477. [Tango retoric](#477-tango-retoric)
-478. [Țăranul e pe câmp](#478-țăranul-e-pe-câmp)
-479. [Tardive](#479-tardive)
-480. [Târg de sclavi](#480-târg-de-sclavi)
-481. [Te întreb pe tine soare (I)](#481-te-întreb-pe-tine-soare-i)
-482. [Te întreb pe tine soare (II)](#482-te-întreb-pe-tine-soare-ii)
-483. [Te voi aștepta](#483-te-voi-aștepta)
-484. [Teama](#484-teama)
-485. [Ți-am spus adio de mult](#485-ți-am-spus-adio-de-mult)
-486. [Tigano](#486-tigano)
-487. [Timișoara](#487-timișoara)
-488. [Toți suntem puțin luați](#488-toți-suntem-puțin-luați)
-489. [Totuși, iubirea](#489-totuși-iubirea)
-490. [Trandafir de la Moldova](#490-trandafir-de-la-moldova)
-491. [Trandafirul albastru](#491-trandafirul-albastru)
-492. [Trece vremea](#492-trece-vremea)
-493. [Tristă fiară](#493-tristă-fiară)
-494. [Tu](#494-tu)
-495. [Țurțuri metalici](#495-țurțuri-metalici)
-496. [Umbra (I)](#496-umbra-i)
-497. [Umbra (II)](#497-umbra-ii)
-498. [Umbra (III)](#498-umbra-iii)
-499. [Un alt început](#499-un-alt-început)
-500. [Un elefant... (I)](#500-un-elefant-i)
-501. [Un lup](#501-un-lup)
-502. [Un om pe niște scări (I)](#502-un-om-pe-niște-scări-i)
-503. [Un om pe niște scări (II)](#503-un-om-pe-niște-scări-ii)
-504. [Un zvon](#504-un-zvon)
-505. [Urare pentru îndrăgostiți](#505-urare-pentru-îndrăgostiți)
-506. [Vagabonzi](#506-vagabonzi)
-507. [Vara](#507-vara)
-508. [Vara promisă (I)](#508-vara-promisă-i)
-509. [Vara promisă (II)](#509-vara-promisă-ii)
-510. [Vara sufletului meu](#510-vara-sufletului-meu)
-511. [Verde crud (I)](#511-verde-crud-i)
-512. [Verde crud (II)](#512-verde-crud-ii)
-513. [Viata complicată](#513-viata-complicată)
-514. [Viața la țară (I)](#514-viața-la-țară-i)
-515. [Viața la țară (II)](#515-viața-la-țară-ii)
-516. [Vine o zi](#516-vine-o-zi)
-517. [Vino să dansăm, iubito](#517-vino-să-dansăm-iubito)
-518. [Vinovații fără vină](#518-vinovații-fără-vină)
-519. [Vis de primăvară (I)](#519-vis-de-primăvară-i)
-520. [Vis de primăvară (II)](#520-vis-de-primăvară-ii)
-521. [Vis pierdut](#521-vis-pierdut)
-522. [Voi pluti](#522-voi-pluti)
-523. [Voi suferi](#523-voi-suferi)
-524. [Vreau o minune!](#524-vreau-o-minune)
-525. [Vreau să trecem marea](#525-vreau-să-trecem-marea)
-526. [Vremuri (I)](#526-vremuri-i)
-527. [Vremuri (II)](#527-vremuri-ii)
-528. [Ziua](#528-ziua)
-529. [Zori de zi](#529-zori-de-zi)
+186. [2000 de ani](#186-2000-de-ani)
+187. [38](#187-38)
+188. [A ruginit frunza din vii](#188-a-ruginit-frunza-din-vii)
+189. [Actorul](#189-actorul)
+190. [Adelina](#190-adelina)
+191. [Adio, deci pe curând (I)](#191-adio-deci-pe-curând-i)
+192. [Adio, deci pe curând (II)](#192-adio-deci-pe-curând-ii)
+193. [Ai venit](#193-ai-venit)
+194. [Aiurit și aburit](#194-aiurit-și-aburit)
+195. [Alo! Ei a mea!](#195-alo-ei-a-mea)
+196. [Alte clipe trăite alt epilog](#196-alte-clipe-trăite-alt-epilog)
+197. [Alunelul](#197-alunelul)
+198. [Am doar 18 ani](#198-am-doar-18-ani)
+199. [Am nevoie de tine](#199-am-nevoie-de-tine)
+200. [Amintire de fum](#200-amintire-de-fum)
+201. [Amintirea paradisului](#201-amintirea-paradisului)
+202. [Amintiri](#202-amintiri)
+203. [Amorul cubist](#203-amorul-cubist)
+204. [Ana lui Manole](#204-ana-lui-manole)
+205. [Antiprimăvara](#205-antiprimăvara)
+206. [Anxietate](#206-anxietate)
+207. [Aproape liniște (I)](#207-aproape-liniște-i)
+208. [Aproape liniște (II)](#208-aproape-liniște-ii)
+209. [Arsură (I)](#209-arsură-i)
+210. [Arsură (II)](#210-arsură-ii)
+211. [Arsură (III)](#211-arsură-iii)
+212. [Asta-s eu](#212-asta-s-eu)
+213. [Astăzi și mâine](#213-astăzi-și-mâine)
+214. [Atât de fragedă](#214-atât-de-fragedă)
+215. [Azi](#215-azi)
+216. [Baby](#216-baby)
+217. [Balada blondelor iubiri](#217-balada-blondelor-iubiri)
+218. [Bat la poarta ta](#218-bat-la-poarta-ta)
+219. [Bătălia s-a sfârșit, soldatul...](#219-bătălia-s-a-sfârșit-soldatul)
+220. [Biletul de tren](#220-biletul-de-tren)
+221. [Boxerul](#221-boxerul)
+222. [Bunica](#222-bunica)
+223. [Ca o stea](#223-ca-o-stea)
+224. [Caii liberi](#224-caii-liberi)
+225. [Calul din Malboro](#225-calul-din-malboro)
+226. [Canadiana](#226-canadiana)
+227. [Canarul (I)](#227-canarul-i)
+228. [Canarul (II)](#228-canarul-ii)
+229. [Când s-o-mpărțit norocu'](#229-când-s-o-mpărțit-norocu)
+230. [Când se lasă seara](#230-când-se-lasă-seara)
+231. [Cântec bătrânesc](#231-cântec-bătrânesc)
+232. [Cântec în noapte](#232-cântec-în-noapte)
+233. [Cântec pentru Charlie Chaplin](#233-cântec-pentru-charlie-chaplin)
+234. [Cântec pentru tine](#234-cântec-pentru-tine)
+235. [Cântec șoptit (I)](#235-cântec-șoptit-i)
+236. [Cântec șoptit (II)](#236-cântec-șoptit-ii)
+237. [Cântecul bufonului (I)](#237-cântecul-bufonului-i)
+238. [Cântecul bufonului (II)](#238-cântecul-bufonului-ii)
+239. [Castelul](#239-castelul)
+240. [Casuta din pădure](#240-casuta-din-pădure)
+241. [Ce de lupi se înconjoară](#241-ce-de-lupi-se-înconjoară)
+242. [Ceasornicarul (I)](#242-ceasornicarul-i)
+243. [Ceasornicarul (II)](#243-ceasornicarul-ii)
+244. [Cerbul](#244-cerbul)
+245. [Ciobănaș cu trei sute de oi](#245-ciobănaș-cu-trei-sute-de-oi)
+246. [Cireșarii](#246-cireșarii)
+247. [Cireșul](#247-cireșul)
+248. [Ciuleandra](#248-ciuleandra)
+249. [Colo-n vale](#249-colo-n-vale)
+250. [Copacii fără pădure](#250-copacii-fără-pădure)
+251. [Copacul îndrăgostit](#251-copacul-îndrăgostit)
+252. [Corina](#252-corina)
+253. [Cu tine în gând](#253-cu-tine-în-gând)
+254. [Cucul](#254-cucul)
+255. [Cucule pasăre grasă](#255-cucule-pasăre-grasă)
+256. [Dacă ai ghici](#256-dacă-ai-ghici)
+257. [Dacă dragoste nu e...](#257-dacă-dragoste-nu-e)
+258. [Dacă n-ai amintiri](#258-dacă-n-ai-amintiri)
+259. [Dacă pleci](#259-dacă-pleci)
+260. [Dacă vrei](#260-dacă-vrei)
+261. [Dacă vrei să pleci](#261-dacă-vrei-să-pleci)
+262. [Dans](#262-dans)
+263. [Dansul codrilor](#263-dansul-codrilor)
+264. [De ce](#264-de-ce)
+265. [De ce?](#265-de-ce)
+266. [De-ar fi mândra-n deal la cruce](#266-de-ar-fi-mândra-n-deal-la-cruce)
+267. [Dealul cu dor](#267-dealul-cu-dor)
+268. [Deku](#268-deku)
+269. [Delir](#269-delir)
+270. [Delirul](#270-delirul)
+271. [Departe](#271-departe)
+272. [Dintr-o cafea (I)](#272-dintr-o-cafea-i)
+273. [Dintr-o cafea (II)](#273-dintr-o-cafea-ii)
+274. [Dintre sute de catarge](#274-dintre-sute-de-catarge)
+275. [Doi ochi căprui](#275-doi-ochi-căprui)
+276. [Dona, dona (I)](#276-dona-dona-i)
+277. [Dona, dona (II)](#277-dona-dona-ii)
+278. [Dorul](#278-dorul)
+279. [Dracula blues](#279-dracula-blues)
+280. [Dragă Otee](#280-dragă-otee)
+281. [Dragoste în fân (I)](#281-dragoste-în-fân-i)
+282. [Dragoste în fân (II)](#282-dragoste-în-fân-ii)
+283. [Dragostea cu patru foi](#283-dragostea-cu-patru-foi)
+284. [Dragostea e o salata](#284-dragostea-e-o-salata)
+285. [Dragostea pasarii](#285-dragostea-pasarii)
+286. [După pui de moroșan](#286-după-pui-de-moroșan)
+287. [Emoție de toamnă (I)](#287-emoție-de-toamnă-i)
+288. [Emoție de toamnă (II)](#288-emoție-de-toamnă-ii)
+289. [Emoție de toamnă (III)](#289-emoție-de-toamnă-iii)
+290. [Epilog](#290-epilog)
+291. [Era Vasile om frumos](#291-era-vasile-om-frumos)
+292. [Esarfa în dar](#292-esarfa-în-dar)
+293. [Ești așa frumoasă](#293-ești-așa-frumoasă)
+294. [Fata din vis](#294-fata-din-vis)
+295. [Fata morgană](#295-fata-morgană)
+296. [Floarea](#296-floarea)
+297. [Fluier în cer](#297-fluier-în-cer)
+298. [Focul vânăt (I)](#298-focul-vânăt-i)
+299. [Focul vânăt (II)](#299-focul-vânăt-ii)
+300. [Focuri vii](#300-focuri-vii)
+301. [Fostele iubiri](#301-fostele-iubiri)
+302. [Frumoasă-i vecina noastră](#302-frumoasă-i-vecina-noastră)
+303. [Frunza](#303-frunza)
+304. [Frunza (I)](#304-frunza-i)
+305. [Frunza (II)](#305-frunza-ii)
+306. [Gara](#306-gara)
+307. [Ghezesu'](#307-ghezesu)
+308. [Glosă](#308-glosă)
+309. [Grasă](#309-grasă)
+310. [Hai să ne imaginăm](#310-hai-să-ne-imaginăm)
+311. [Hai, mândruțo!](#311-hai-mândruțo)
+312. [Hăituit](#312-hăituit)
+313. [Hanul lui Manuc](#313-hanul-lui-manuc)
+314. [Hei trenule](#314-hei-trenule)
+315. [Iepuraș coconaș](#315-iepuraș-coconaș)
+316. [Iertările](#316-iertările)
+317. [Îmi pare rău](#317-îmi-pare-rău)
+318. [Imposibila nuntă](#318-imposibila-nuntă)
+319. [Împreună](#319-împreună)
+320. [În tren](#320-în-tren)
+321. [Înserarea](#321-înserarea)
+322. [Înțelegere (I)](#322-înțelegere-i)
+323. [Înțelegere (II)](#323-înțelegere-ii)
+324. [Întoarcere la orient (I)](#324-întoarcere-la-orient-i)
+325. [Întoarcere la orient (II)](#325-întoarcere-la-orient-ii)
+326. [Învață de la toate](#326-învață-de-la-toate)
+327. [Iubesc ploile](#327-iubesc-ploile)
+328. [Iubire-ideal](#328-iubire-ideal)
+329. [Iubirea cea mare](#329-iubirea-cea-mare)
+330. [Iubita mea, ți-am cumpărat un munte](#330-iubita-mea-ți-am-cumpărat-un-munte)
+331. [Iubito](#331-iubito)
+332. [Joc de copil](#332-joc-de-copil)
+333. [Jocul](#333-jocul)
+334. [Jumătate tu, jumătate eu](#334-jumătate-tu-jumătate-eu)
+335. [La adio](#335-la-adio)
+336. [La fereastra ta (I)](#336-la-fereastra-ta-i)
+337. [La fereastra ta (II)](#337-la-fereastra-ta-ii)
+338. [La Mulți Ani!](#338-la-mulți-ani)
+339. [La nunta ta](#339-la-nunta-ta)
+340. [La război](#340-la-război)
+341. [La un ceai](#341-la-un-ceai)
+342. [Lacrimi și surâs](#342-lacrimi-și-surâs)
+343. [Lângă mine](#343-lângă-mine)
+344. [Lăsați-mă să cânt](#344-lăsați-mă-să-cânt)
+345. [Lavinia](#345-lavinia)
+346. [Lordul John](#346-lordul-john)
+347. [Lumină (I)](#347-lumină-i)
+348. [Lumină (II)](#348-lumină-ii)
+349. [Lumină (III)](#349-lumină-iii)
+350. [M-am îndrăgostit numai de ea](#350-m-am-îndrăgostit-numai-de-ea)
+351. [Mă duse-i să trec la Olt](#351-mă-duse-i-să-trec-la-olt)
+352. [Madama de pică](#352-madama-de-pică)
+353. [Mai stai](#353-mai-stai)
+354. [Mama, mama](#354-mama-mama)
+355. [Marea](#355-marea)
+356. [Mi-e dor de ochii tăi](#356-mi-e-dor-de-ochii-tăi)
+357. [Mica țiganiadă](#357-mica-țiganiadă)
+358. [Micuța blondă](#358-micuța-blondă)
+359. [Mielul (I)](#359-mielul-i)
+360. [Mielul (II)](#360-mielul-ii)
+361. [Mihai, câți copii îmi dai?](#361-mihai-câți-copii-îmi-dai)
+362. [Miruna (I)](#362-miruna-i)
+363. [Miruna (II)](#363-miruna-ii)
+364. [Mistrețul galben](#364-mistrețul-galben)
+365. [Mr. Tambourine Man](#365-mr-tambourine-man)
+366. [Mugur de fluier (I)](#366-mugur-de-fluier-i)
+367. [Mugur de fluier (II)](#367-mugur-de-fluier-ii)
+368. [Muntele alb](#368-muntele-alb)
+369. [Muzică și muzichia](#369-muzică-și-muzichia)
+370. [Nebunul cu ochi închiși (I)](#370-nebunul-cu-ochi-închiși-i)
+371. [Nebunul cu ochi închiși (II)](#371-nebunul-cu-ochi-închiși-ii)
+372. [Nebunul de alb](#372-nebunul-de-alb)
+373. [Noapte de iubire](#373-noapte-de-iubire)
+374. [Noapte la mare, noapte la munte](#374-noapte-la-mare-noapte-la-munte)
+375. [Nopți (I)](#375-nopți-i)
+376. [Nopți (II)](#376-nopți-ii)
+377. [Nu am cer](#377-nu-am-cer)
+378. [Nu am chef azi](#378-nu-am-chef-azi)
+379. [Nu am mai fost acasă demult](#379-nu-am-mai-fost-acasă-demult)
+380. [Nu mă-ntreba](#380-nu-mă-ntreba)
+381. [Nu te mai iubesc (I)](#381-nu-te-mai-iubesc-i)
+382. [Nu te mai iubesc (II)](#382-nu-te-mai-iubesc-ii)
+383. [Nu-i nimic, asta e! (I)](#383-nu-i-nimic-asta-e-i)
+384. [Nu-i nimic, asta e! (II)](#384-nu-i-nimic-asta-e-ii)
+385. [Nu-mi mai pasă](#385-nu-mi-mai-pasă)
+386. [Nunta (I)](#386-nunta-i)
+387. [Nunta (II)](#387-nunta-ii)
+388. [Oaia mică](#388-oaia-mică)
+389. [Oameni](#389-oameni)
+390. [Oameni buni](#390-oameni-buni)
+391. [Oameni de zăpadă (I)](#391-oameni-de-zăpadă-i)
+392. [Oameni de zăpadă (II)](#392-oameni-de-zăpadă-ii)
+393. [Obsesia](#393-obsesia)
+394. [Ochii tăi](#394-ochii-tăi)
+395. [Ochii tăi (I)](#395-ochii-tăi-i)
+396. [Ochii tăi (II)](#396-ochii-tăi-ii)
+397. [Ochii verzi](#397-ochii-verzi)
+398. [Om în amurg](#398-om-în-amurg)
+399. [Omul bun și pomul copt](#399-omul-bun-și-pomul-copt)
+400. [Omul pădurii (I)](#400-omul-pădurii-i)
+401. [Omul pădurii (II)](#401-omul-pădurii-ii)
+402. [Oprește-mă la tine](#402-oprește-mă-la-tine)
+403. [Ordinea de zi](#403-ordinea-de-zi)
+404. [Pădure de argint](#404-pădure-de-argint)
+405. [Pădure liniștitoare](#405-pădure-liniștitoare)
+406. [Pământul deocamdată](#406-pământul-deocamdată)
+407. [Păpușa](#407-păpușa)
+408. [Păpușarii](#408-păpușarii)
+409. [Păsări de fum](#409-păsări-de-fum)
+410. [Pat de flori](#410-pat-de-flori)
+411. [Pe corso (I)](#411-pe-corso-i)
+412. [Pe corso (II)](#412-pe-corso-ii)
+413. [Pe deal pe la Cornățel](#413-pe-deal-pe-la-cornățel)
+414. [Peste răbdări](#414-peste-răbdări)
+415. [Peste-al nostru sărut](#415-peste-al-nostru-sărut)
+416. [Piața Romană nr.9](#416-piața-romană-nr9)
+417. [Pisică neagră](#417-pisică-neagră)
+418. [Ploaia](#418-ploaia)
+419. [Ploaia (II)](#419-ploaia-ii)
+420. [Ploaia care va veni (I)](#420-ploaia-care-va-veni-i)
+421. [Ploaia care va veni (II)](#421-ploaia-care-va-veni-ii)
+422. [Ploaie în luna lui marte](#422-ploaie-în-luna-lui-marte)
+423. [Podul de piatra](#423-podul-de-piatra)
+424. [Podul de piatra](#424-podul-de-piatra)
+425. [Poveste](#425-poveste)
+426. [Prietene](#426-prietene)
+427. [Primavara - Paparuga](#427-primavara---paparuga)
+428. [Proverbe](#428-proverbe)
+429. [Pseudofabula](#429-pseudofabula)
+430. [Puștoaico](#430-puștoaico)
+431. [Puterea să alegi](#431-puterea-să-alegi)
+432. [Rănitul dintre linii (I)](#432-rănitul-dintre-linii-i)
+433. [Rănitul dintre linii (II)](#433-rănitul-dintre-linii-ii)
+434. [Rar](#434-rar)
+435. [Resemnare paternă](#435-resemnare-paternă)
+436. [Romanță de toamnă](#436-romanță-de-toamnă)
+437. [Romanță între două trenuri (I)](#437-romanță-între-două-trenuri-i)
+438. [Romanță între două trenuri (II)](#438-romanță-între-două-trenuri-ii)
+439. [Roșu aprins](#439-roșu-aprins)
+440. [Rugă pentru părinți (I)](#440-rugă-pentru-părinți-i)
+441. [Rugă pentru părinți (II)](#441-rugă-pentru-părinți-ii)
+442. [Să nu-mi iei niciodată dragostea](#442-să-nu-mi-iei-niciodată-dragostea)
+443. [Să trosnească lemne-n foc (I)](#443-să-trosnească-lemne-n-foc-i)
+444. [Să trosnească lemne-n foc (II)](#444-să-trosnească-lemne-n-foc-ii)
+445. [Sala pașilor pierduți](#445-sala-pașilor-pierduți)
+446. [Săracă inima me' (I)](#446-săracă-inima-me-i)
+447. [Săracă inima me' (II)](#447-săracă-inima-me-ii)
+448. [Scândura](#448-scândura)
+449. [Scrisoare de rămas bun (I)](#449-scrisoare-de-rămas-bun-i)
+450. [Scrisoare de rămas bun (II)](#450-scrisoare-de-rămas-bun-ii)
+451. [Scrisoare de rămas bun (III)](#451-scrisoare-de-rămas-bun-iii)
+452. [Seara de mai](#452-seara-de-mai)
+453. [Sfârșitul nu-i aici](#453-sfârșitul-nu-i-aici)
+454. [Și dacă (I)](#454-și-dacă-i)
+455. [Și dacă (II)](#455-și-dacă-ii)
+456. [Și de-ar fi (I)](#456-și-de-ar-fi-i)
+457. [Și de-ar fi (II)](#457-și-de-ar-fi-ii)
+458. [Și-am iubit o ardeleancă](#458-și-am-iubit-o-ardeleancă)
+459. [Singur în noapte (I)](#459-singur-în-noapte-i)
+460. [Singur în noapte (II)](#460-singur-în-noapte-ii)
+461. [Singură](#461-singură)
+462. [Spune ce vrei](#462-spune-ce-vrei)
+463. [Spune-mi cine ești (I)](#463-spune-mi-cine-ești-i)
+464. [Spune-mi cine ești (II)](#464-spune-mi-cine-ești-ii)
+465. [Strada Popa Nan (I)](#465-strada-popa-nan-i)
+466. [Strada Popa Nan (II)](#466-strada-popa-nan-ii)
+467. [Strada ta (I)](#467-strada-ta-i)
+468. [Strada ta (II)](#468-strada-ta-ii)
+469. [Suflet fără chei](#469-suflet-fără-chei)
+470. [Sunt sărac](#470-sunt-sărac)
+471. [Supărat](#471-supărat)
+472. [Tăcut](#472-tăcut)
+473. [Taina (I)](#473-taina-i)
+474. [Taina (II)](#474-taina-ii)
+475. [Tango retoric](#475-tango-retoric)
+476. [Țăranul e pe câmp](#476-țăranul-e-pe-câmp)
+477. [Tardive](#477-tardive)
+478. [Târg de sclavi](#478-târg-de-sclavi)
+479. [Te întreb pe tine soare (I)](#479-te-întreb-pe-tine-soare-i)
+480. [Te întreb pe tine soare (II)](#480-te-întreb-pe-tine-soare-ii)
+481. [Te voi aștepta](#481-te-voi-aștepta)
+482. [Teama](#482-teama)
+483. [Ți-am spus adio de mult](#483-ți-am-spus-adio-de-mult)
+484. [Tigano](#484-tigano)
+485. [Timișoara](#485-timișoara)
+486. [Toți suntem puțin luați](#486-toți-suntem-puțin-luați)
+487. [Totuși, iubirea](#487-totuși-iubirea)
+488. [Trandafir de la Moldova](#488-trandafir-de-la-moldova)
+489. [Trandafirul albastru](#489-trandafirul-albastru)
+490. [Trece vremea](#490-trece-vremea)
+491. [Tristă fiară](#491-tristă-fiară)
+492. [Tu](#492-tu)
+493. [Țurțuri metalici](#493-țurțuri-metalici)
+494. [Umbra (I)](#494-umbra-i)
+495. [Umbra (II)](#495-umbra-ii)
+496. [Umbra (III)](#496-umbra-iii)
+497. [Un alt început](#497-un-alt-început)
+498. [Un elefant... (I)](#498-un-elefant-i)
+499. [Un lup](#499-un-lup)
+500. [Un om pe niște scări (I)](#500-un-om-pe-niște-scări-i)
+501. [Un om pe niște scări (II)](#501-un-om-pe-niște-scări-ii)
+502. [Un zvon](#502-un-zvon)
+503. [Urare pentru îndrăgostiți](#503-urare-pentru-îndrăgostiți)
+504. [Vagabonzi](#504-vagabonzi)
+505. [Vara](#505-vara)
+506. [Vara promisă (I)](#506-vara-promisă-i)
+507. [Vara promisă (II)](#507-vara-promisă-ii)
+508. [Vara sufletului meu](#508-vara-sufletului-meu)
+509. [Verde crud (I)](#509-verde-crud-i)
+510. [Verde crud (II)](#510-verde-crud-ii)
+511. [Viata complicată](#511-viata-complicată)
+512. [Viața la țară (I)](#512-viața-la-țară-i)
+513. [Viața la țară (II)](#513-viața-la-țară-ii)
+514. [Vine o zi](#514-vine-o-zi)
+515. [Vino să dansăm, iubito](#515-vino-să-dansăm-iubito)
+516. [Vinovații fără vină](#516-vinovații-fără-vină)
+517. [Vis de primăvară (I)](#517-vis-de-primăvară-i)
+518. [Vis de primăvară (II)](#518-vis-de-primăvară-ii)
+519. [Vis pierdut](#519-vis-pierdut)
+520. [Voi pluti](#520-voi-pluti)
+521. [Voi suferi](#521-voi-suferi)
+522. [Vreau o minune!](#522-vreau-o-minune)
+523. [Vreau să trecem marea](#523-vreau-să-trecem-marea)
+524. [Vremuri (I)](#524-vremuri-i)
+525. [Vremuri (II)](#525-vremuri-ii)
+526. [Ziua](#526-ziua)
+527. [Zori de zi](#527-zori-de-zi)
 
 ### Partea a III-a — Repertoriu internațional (alfabetic)
 
-530. [Al Chiaro Del Mattin](#530-al-chiaro-del-mattin)
-531. [Angie](#531-angie)
-532. [Anna Marie](#532-anna-marie)
-533. [Another Brick in the Wall](#533-another-brick-in-the-wall)
-534. [Blowing in the Wind](#534-blowing-in-the-wind)
-535. [Bye Bye Love](#535-bye-bye-love)
-536. [Chant Des Adieux](#536-chant-des-adieux)
-537. [Country Roads](#537-country-roads)
-538. [Don't Cry (I)](#538-dont-cry-i)
-539. [Don't Cry (II)](#539-dont-cry-ii)
-540. [Don't Think Twice, It's Alright](#540-dont-think-twice-its-alright)
-541. [Dove Troveremo Tutto Il Pane](#541-dove-troveremo-tutto-il-pane)
-542. [Dream a Little Dream](#542-dream-a-little-dream)
-543. [El Condor Pasa](#543-el-condor-pasa)
-544. [Eleanor Rigby](#544-eleanor-rigby)
-545. [Every Breath You Take](#545-every-breath-you-take)
-546. [Fade to Black](#546-fade-to-black)
-547. [Father to Son](#547-father-to-son)
-548. [Gaudeamus igitur](#548-gaudeamus-igitur)
-549. [Gimme Hope Johana](#549-gimme-hope-johana)
-550. [Girl](#550-girl)
-551. [Give Peace a Chance](#551-give-peace-a-chance)
-552. [Have You Ever Seen the Rain](#552-have-you-ever-seen-the-rain)
-553. [Hey Jude](#553-hey-jude)
-554. [Hola Mi Amor](#554-hola-mi-amor)
-555. [Holiday](#555-holiday)
-556. [Hotel California](#556-hotel-california)
-557. [House of the Rising Sun](#557-house-of-the-rising-sun)
-558. [I Remember](#558-i-remember)
-559. [I Want to Break Free](#559-i-want-to-break-free)
-560. [I Want to Hold Your Hand](#560-i-want-to-hold-your-hand)
-561. [If I Had a Hammer](#561-if-i-had-a-hammer)
-562. [Ils Ont Change Ma Chanson](#562-ils-ont-change-ma-chanson)
-563. [Imagine](#563-imagine)
-564. [In the Army](#564-in-the-army)
-565. [Kai yone](#565-kai-yone)
-566. [Knockin' on Heaven's Door](#566-knockin-on-heavens-door)
-567. [La Bamba](#567-la-bamba)
-568. [La Canzone Del Sole](#568-la-canzone-del-sole)
-569. [Layla](#569-layla)
-570. [Les Champs-Elysees](#570-les-champs-elysees)
-571. [Let It Be](#571-let-it-be)
-572. [Living Next Door to Alice](#572-living-next-door-to-alice)
-573. [Losing My Religion](#573-losing-my-religion)
-574. [Love Me Tender](#574-love-me-tender)
-575. [Love of My Life](#575-love-of-my-life)
-576. [Michelle](#576-michelle)
-577. [Mr. Tambourine Man](#577-mr-tambourine-man)
-578. [Mrs. Robinson](#578-mrs-robinson)
-579. [My Bonnie Is Over the Ocean](#579-my-bonnie-is-over-the-ocean)
-580. [Ne Sent-Tu Pas Claque Tes Doigts](#580-ne-sent-tu-pas-claque-tes-doigts)
-581. [No Woman, No Cry](#581-no-woman-no-cry)
-582. [Nothing Else Matters](#582-nothing-else-matters)
-583. [Nowhere Man](#583-nowhere-man)
-584. [Ob-La-Di, Ob-La-Da](#584-ob-la-di-ob-la-da)
-585. [Oh, Carol!](#585-oh-carol)
-586. [Oh, Mammy](#586-oh-mammy)
-587. [Oh, Susanna](#587-oh-susanna)
-588. [Patience](#588-patience)
-589. [People Are Strange](#589-people-are-strange)
-590. [Phabaj (Hop hop hop)](#590-phabaj-hop-hop-hop)
-591. [Porom Pom Pom](#591-porom-pom-pom)
-592. [Proud Mary](#592-proud-mary)
-593. [Road to Nowhere](#593-road-to-nowhere)
-594. [Roses Are Red](#594-roses-are-red)
-595. [Sailing](#595-sailing)
-596. [Santiano](#596-santiano)
-597. [Seasons in the Sun](#597-seasons-in-the-sun)
-598. [She’ll Be Coming Round the Mountain](#598-shell-be-coming-round-the-mountain)
-599. [Silent Night](#599-silent-night)
-600. [Stairway to Heaven](#600-stairway-to-heaven)
-601. [Stand by Me](#601-stand-by-me)
-602. [Still Loving You](#602-still-loving-you)
-603. [Sweet Memories](#603-sweet-memories)
-604. [Taizé](#604-taizé)
-605. [Tears in Heaven](#605-tears-in-heaven)
-606. [The Caravan of Love](#606-the-caravan-of-love)
-607. [The Islander](#607-the-islander)
-608. [The Red River Valley](#608-the-red-river-valley)
-609. [The Sound of Silence](#609-the-sound-of-silence)
-610. [Ticket to Ride](#610-ticket-to-ride)
-611. [Tous Les Garcons Et Les Filles](#611-tous-les-garcons-et-les-filles)
-612. [Trust My Sobriety](#612-trust-my-sobriety)
-613. [Twist and Shout](#613-twist-and-shout)
-614. [Unchained Melody](#614-unchained-melody)
-615. [Vânare de vânt](#615-vânare-de-vânt)
-616. [What's Up](#616-whats-up)
-617. [When the Saints](#617-when-the-saints)
-618. [Wind of Change](#618-wind-of-change)
-619. [Wish You Were Here](#619-wish-you-were-here)
-620. [With a Little Help from My Friends](#620-with-a-little-help-from-my-friends)
-621. [Wonderful Tonight](#621-wonderful-tonight)
-622. [Yellow Submarine](#622-yellow-submarine)
-623. [Yesterday](#623-yesterday)
-624. [You Drive Me Crazy](#624-you-drive-me-crazy)
+528. [Al Chiaro Del Mattin](#528-al-chiaro-del-mattin)
+529. [Angie](#529-angie)
+530. [Anna Marie](#530-anna-marie)
+531. [Another Brick in the Wall](#531-another-brick-in-the-wall)
+532. [Blowing in the Wind](#532-blowing-in-the-wind)
+533. [Bye Bye Love](#533-bye-bye-love)
+534. [Chant Des Adieux](#534-chant-des-adieux)
+535. [Country Roads](#535-country-roads)
+536. [Don't Cry (I)](#536-dont-cry-i)
+537. [Don't Cry (II)](#537-dont-cry-ii)
+538. [Don't Think Twice, It's Alright](#538-dont-think-twice-its-alright)
+539. [Dove Troveremo Tutto Il Pane](#539-dove-troveremo-tutto-il-pane)
+540. [Dream a Little Dream](#540-dream-a-little-dream)
+541. [El Condor Pasa](#541-el-condor-pasa)
+542. [Eleanor Rigby](#542-eleanor-rigby)
+543. [Every Breath You Take](#543-every-breath-you-take)
+544. [Fade to Black](#544-fade-to-black)
+545. [Father to Son](#545-father-to-son)
+546. [Gaudeamus igitur](#546-gaudeamus-igitur)
+547. [Gimme Hope Johana](#547-gimme-hope-johana)
+548. [Girl](#548-girl)
+549. [Give Peace a Chance](#549-give-peace-a-chance)
+550. [Have You Ever Seen the Rain](#550-have-you-ever-seen-the-rain)
+551. [Hey Jude](#551-hey-jude)
+552. [Hola Mi Amor](#552-hola-mi-amor)
+553. [Holiday](#553-holiday)
+554. [Hotel California](#554-hotel-california)
+555. [House of the Rising Sun](#555-house-of-the-rising-sun)
+556. [I Remember](#556-i-remember)
+557. [I Want to Break Free](#557-i-want-to-break-free)
+558. [I Want to Hold Your Hand](#558-i-want-to-hold-your-hand)
+559. [If I Had a Hammer](#559-if-i-had-a-hammer)
+560. [Ils Ont Change Ma Chanson](#560-ils-ont-change-ma-chanson)
+561. [Imagine](#561-imagine)
+562. [In the Army](#562-in-the-army)
+563. [Kai yone](#563-kai-yone)
+564. [Knockin' on Heaven's Door](#564-knockin-on-heavens-door)
+565. [La Bamba](#565-la-bamba)
+566. [La Canzone Del Sole](#566-la-canzone-del-sole)
+567. [Layla](#567-layla)
+568. [Les Champs-Elysees](#568-les-champs-elysees)
+569. [Let It Be](#569-let-it-be)
+570. [Living Next Door to Alice](#570-living-next-door-to-alice)
+571. [Losing My Religion](#571-losing-my-religion)
+572. [Love Me Tender](#572-love-me-tender)
+573. [Love of My Life](#573-love-of-my-life)
+574. [Michelle](#574-michelle)
+575. [Mr. Tambourine Man](#575-mr-tambourine-man)
+576. [Mrs. Robinson](#576-mrs-robinson)
+577. [My Bonnie Is Over the Ocean](#577-my-bonnie-is-over-the-ocean)
+578. [Ne Sent-Tu Pas Claque Tes Doigts](#578-ne-sent-tu-pas-claque-tes-doigts)
+579. [No Woman, No Cry](#579-no-woman-no-cry)
+580. [Nothing Else Matters](#580-nothing-else-matters)
+581. [Nowhere Man](#581-nowhere-man)
+582. [Ob-La-Di, Ob-La-Da](#582-ob-la-di-ob-la-da)
+583. [Oh, Carol!](#583-oh-carol)
+584. [Oh, Mammy](#584-oh-mammy)
+585. [Oh, Susanna](#585-oh-susanna)
+586. [Patience](#586-patience)
+587. [People Are Strange](#587-people-are-strange)
+588. [Phabaj (Hop hop hop)](#588-phabaj-hop-hop-hop)
+589. [Porom Pom Pom](#589-porom-pom-pom)
+590. [Proud Mary](#590-proud-mary)
+591. [Road to Nowhere](#591-road-to-nowhere)
+592. [Roses Are Red](#592-roses-are-red)
+593. [Sailing](#593-sailing)
+594. [Santiano](#594-santiano)
+595. [Seasons in the Sun](#595-seasons-in-the-sun)
+596. [She’ll Be Coming Round the Mountain](#596-shell-be-coming-round-the-mountain)
+597. [Silent Night](#597-silent-night)
+598. [Stairway to Heaven](#598-stairway-to-heaven)
+599. [Stand by Me](#599-stand-by-me)
+600. [Still Loving You](#600-still-loving-you)
+601. [Sweet Memories](#601-sweet-memories)
+602. [Taizé](#602-taizé)
+603. [Tears in Heaven](#603-tears-in-heaven)
+604. [The Caravan of Love](#604-the-caravan-of-love)
+605. [The Islander](#605-the-islander)
+606. [The Red River Valley](#606-the-red-river-valley)
+607. [The Sound of Silence](#607-the-sound-of-silence)
+608. [Ticket to Ride](#608-ticket-to-ride)
+609. [Tous Les Garcons Et Les Filles](#609-tous-les-garcons-et-les-filles)
+610. [Trust My Sobriety](#610-trust-my-sobriety)
+611. [Twist and Shout](#611-twist-and-shout)
+612. [Unchained Melody](#612-unchained-melody)
+613. [Vânare de vânt](#613-vânare-de-vânt)
+614. [What's Up](#614-whats-up)
+615. [When the Saints](#615-when-the-saints)
+616. [Wind of Change](#616-wind-of-change)
+617. [Wish You Were Here](#617-wish-you-were-here)
+618. [With a Little Help from My Friends](#618-with-a-little-help-from-my-friends)
+619. [Wonderful Tonight](#619-wonderful-tonight)
+620. [Yellow Submarine](#620-yellow-submarine)
+621. [Yesterday](#621-yesterday)
+622. [You Drive Me Crazy](#622-you-drive-me-crazy)
 
 ### Partea a IV-a — Colinde și cântece de iarnă (alfabetic)
 
-625. [Afară ninge liniștit](#625-afară-ninge-liniștit)
-626. [Afară-i frig și e-norat (Balada sadicului)](#626-afară-i-frig-și-e-norat-balada-sadicului)
-627. [Alle Jahre wieder](#627-alle-jahre-wieder)
-628. [Aseară pe-nserate](#628-aseară-pe-nserate)
-629. [Asta-i fata cea frumoasă](#629-asta-i-fata-cea-frumoasă)
-630. [Away in a manger](#630-away-in-a-manger)
-631. [Blue Christmas](#631-blue-christmas)
-632. [Când din crâșmă ai ieșit (Colind horror)](#632-când-din-crâșmă-ai-ieșit-colind-horror)
-633. [Când fost-a micuț prunc Isus](#633-când-fost-a-micuț-prunc-isus)
-634. [Ce-ați văzut păstori](#634-ce-ați-văzut-păstori)
-635. [Cerul și pământul (I)](#635-cerul-și-pământul-i)
-636. [Cerul și pământul (II)](#636-cerul-și-pământul-ii)
-637. [Cerul și pământul (III)](#637-cerul-și-pământul-iii)
-638. [Cheamă-ți gazdă](#638-cheamă-ți-gazdă)
-639. [Coborât-o coborât](#639-coborât-o-coborât)
-640. [Colindă tristă (I)](#640-colindă-tristă-i)
-641. [Colindă tristă (II)](#641-colindă-tristă-ii)
-642. [Colindăm, colindăm iarna](#642-colindăm-colindăm-iarna)
-643. [Colindul cerbului](#643-colindul-cerbului)
-644. [Colindul gutuii (I)](#644-colindul-gutuii-i)
-645. [Colindul gutuii (II)](#645-colindul-gutuii-ii)
-646. [Colindul pușcăriașului](#646-colindul-pușcăriașului)
-647. [Corindăm, corindăm (I)](#647-corindăm-corindăm-i)
-648. [Corindăm, corindăm (II)](#648-corindăm-corindăm-ii)
-649. [Corindăm, corindăm (III)](#649-corindăm-corindăm-iii)
-650. [Creștinilor, noi astăzi](#650-creștinilor-noi-astăzi)
-651. [Cu secera-n mână (Colind horror)](#651-cu-secera-n-mână-colind-horror)
-652. [Dalbu-i dealu](#652-dalbu-i-dealu)
-653. [Decembre (I)](#653-decembre-i)
-654. [Decembre (II)](#654-decembre-ii)
-655. [Decembre (III)](#655-decembre-iii)
-656. [Deck the Halls](#656-deck-the-halls)
-657. [Deschide nană ușile](#657-deschide-nană-ușile)
-658. [Deschide ușa, creștine (I)](#658-deschide-ușa-creștine-i)
-659. [Deschide ușa, creștine (II)](#659-deschide-ușa-creștine-ii)
-660. [Ding ding, ding (Colind horror)](#660-ding-ding-ding-colind-horror)
-661. [Drumul magilor](#661-drumul-magilor)
-662. [Entre le boeuf et l’âne gris](#662-entre-le-boeuf-et-lâne-gris)
-663. [Feliz Navidad](#663-feliz-navidad)
-664. [Ferice-i ferice](#664-ferice-i-ferice)
-665. [Flori de măr (I)](#665-flori-de-măr-i)
-666. [Flori de măr (II)](#666-flori-de-măr-ii)
-667. [Florile dalbe (I)](#667-florile-dalbe-i)
-668. [Florile dalbe (II)](#668-florile-dalbe-ii)
-669. [Frosty The Snowman](#669-frosty-the-snowman)
-670. [Go Tell It On The Mountain](#670-go-tell-it-on-the-mountain)
-671. [Here Comes Santa Claus](#671-here-comes-santa-claus)
-672. [Iarăși flori dalbe](#672-iarăși-flori-dalbe)
-673. [Ihr Kinderlein kommet](#673-ihr-kinderlein-kommet)
-674. [În întâmpinarea Crăciunului](#674-în-întâmpinarea-crăciunului)
-675. [Jingle Bells (I)](#675-jingle-bells-i)
-676. [Jingle Bells (II)](#676-jingle-bells-ii)
-677. [Junelu-i tinerelu](#677-junelu-i-tinerelu)
-678. [Kling, Glöckchen, klingelingeling](#678-kling-glöckchen-klingelingeling)
-679. [La tătă casa-i lumină](#679-la-tătă-casa-i-lumină)
-680. [La Viflaim, la Viflaim](#680-la-viflaim-la-viflaim)
-681. [Last Christmas](#681-last-christmas)
-682. [Le bonhomme de neige](#682-le-bonhomme-de-neige)
-683. [Le petit renne au nez rouge](#683-le-petit-renne-au-nez-rouge)
-684. [Leise rieselt der Schnee](#684-leise-rieselt-der-schnee)
-685. [Let It Snow!](#685-let-it-snow)
-686. [Linu-i lin](#686-linu-i-lin)
-687. [Mă luai luai](#687-mă-luai-luai)
-688. [Măruț mărgăritar](#688-măruț-mărgăritar)
-689. [Merry Xmas Everybody](#689-merry-xmas-everybody)
-690. [Mon Beau Sapin](#690-mon-beau-sapin)
-691. [Moș Crăciun (I)](#691-moș-crăciun-i)
-692. [Moș Crăciun (II)](#692-moș-crăciun-ii)
-693. [Must Be Santa](#693-must-be-santa)
-694. [Ninge iar (I)](#694-ninge-iar-i)
-695. [Ninge iar (II)](#695-ninge-iar-ii)
-696. [Ninge iar (III)](#696-ninge-iar-iii)
-697. [Noapte de vis](#697-noapte-de-vis)
-698. [Noapte sfântă (I)](#698-noapte-sfântă-i)
-699. [Noapte sfântă (II)](#699-noapte-sfântă-ii)
-700. [O Christmas Tree](#700-o-christmas-tree)
-701. [O Come Little Children](#701-o-come-little-children)
-702. [O Tannenbaum](#702-o-tannenbaum)
-703. [O, brad frumos! (I)](#703-o-brad-frumos-i)
-704. [O, brad frumos! (II)](#704-o-brad-frumos-ii)
-705. [O, ce veste minunată (2)](#705-o-ce-veste-minunată-2)
-706. [O, ce veste minunată! (1)](#706-o-ce-veste-minunată-1)
-707. [Ostașii luminii colindă (I)](#707-ostașii-luminii-colindă-i)
-708. [Ostașii luminii colindă (II)](#708-ostașii-luminii-colindă-ii)
-709. [Pe cununa munților](#709-pe-cununa-munților)
-710. [Pe podele de nuiele](#710-pe-podele-de-nuiele)
-711. [Pe strada din Viflaim](#711-pe-strada-din-viflaim)
-712. [Pére Noël arrive ce soir](#712-pére-noël-arrive-ce-soir)
-713. [Plecarea](#713-plecarea)
-714. [Pom înrămuratu](#714-pom-înrămuratu)
-715. [Pomul de Crăciun](#715-pomul-de-crăciun)
-716. [Rocking Around the Christmas Tree](#716-rocking-around-the-christmas-tree)
-717. [Rudolph The Red Nosed Reindeer](#717-rudolph-the-red-nosed-reindeer)
-718. [Sainte Nuit](#718-sainte-nuit)
-719. [Santa Claus Is Coming To Town](#719-santa-claus-is-coming-to-town)
-720. [Scrisoare la-nceput de iarnă](#720-scrisoare-la-nceput-de-iarnă)
-721. [Seara serilor](#721-seara-serilor)
-722. [Singur de Crăciun](#722-singur-de-crăciun)
-723. [Steaguri albe](#723-steaguri-albe)
-724. [Stille Nacht, heilige Nacht](#724-stille-nacht-heilige-nacht)
-725. [Stop The Calvary](#725-stop-the-calvary)
-726. [Sus boieri nu mai dormiți](#726-sus-boieri-nu-mai-dormiți)
-727. [Sus sus sus pe lângă lună](#727-sus-sus-sus-pe-lângă-lună)
-728. [The Little Drummer Boy](#728-the-little-drummer-boy)
-729. [The Night Before Christmas Song](#729-the-night-before-christmas-song)
-730. [Trei crai](#730-trei-crai)
-731. [Trei păstori](#731-trei-păstori)
-732. [Twinkle, Twinkle Little Star](#732-twinkle-twinkle-little-star)
-733. [Un creștin s-a-nvrednicit](#733-un-creștin-s-a-nvrednicit)
-734. [Veniți păstori în Viflaiem](#734-veniți-păstori-în-viflaiem)
-735. [Vine marea](#735-vine-marea)
-736. [We Wish You A Merry Christmas](#736-we-wish-you-a-merry-christmas)
-737. [White Christmas](#737-white-christmas)
-738. [Winter Wonderland](#738-winter-wonderland)
-739. [Zăurel de zăurel](#739-zăurel-de-zăurel)
-740. [Zori din zori](#740-zori-din-zori)
+623. [Afară ninge liniștit](#623-afară-ninge-liniștit)
+624. [Afară-i frig și e-norat (Balada sadicului)](#624-afară-i-frig-și-e-norat-balada-sadicului)
+625. [Alle Jahre wieder](#625-alle-jahre-wieder)
+626. [Aseară pe-nserate](#626-aseară-pe-nserate)
+627. [Asta-i fata cea frumoasă](#627-asta-i-fata-cea-frumoasă)
+628. [Away in a manger](#628-away-in-a-manger)
+629. [Blue Christmas](#629-blue-christmas)
+630. [Când din crâșmă ai ieșit (Colind horror)](#630-când-din-crâșmă-ai-ieșit-colind-horror)
+631. [Când fost-a micuț prunc Isus](#631-când-fost-a-micuț-prunc-isus)
+632. [Ce-ați văzut păstori](#632-ce-ați-văzut-păstori)
+633. [Cerul și pământul (I)](#633-cerul-și-pământul-i)
+634. [Cerul și pământul (II)](#634-cerul-și-pământul-ii)
+635. [Cerul și pământul (III)](#635-cerul-și-pământul-iii)
+636. [Cheamă-ți gazdă](#636-cheamă-ți-gazdă)
+637. [Coborât-o coborât](#637-coborât-o-coborât)
+638. [Colindă tristă (I)](#638-colindă-tristă-i)
+639. [Colindă tristă (II)](#639-colindă-tristă-ii)
+640. [Colindăm, colindăm iarna](#640-colindăm-colindăm-iarna)
+641. [Colindul cerbului](#641-colindul-cerbului)
+642. [Colindul gutuii (I)](#642-colindul-gutuii-i)
+643. [Colindul gutuii (II)](#643-colindul-gutuii-ii)
+644. [Colindul pușcăriașului](#644-colindul-pușcăriașului)
+645. [Corindăm, corindăm (I)](#645-corindăm-corindăm-i)
+646. [Corindăm, corindăm (II)](#646-corindăm-corindăm-ii)
+647. [Corindăm, corindăm (III)](#647-corindăm-corindăm-iii)
+648. [Creștinilor, noi astăzi](#648-creștinilor-noi-astăzi)
+649. [Cu secera-n mână (Colind horror)](#649-cu-secera-n-mână-colind-horror)
+650. [Dalbu-i dealu](#650-dalbu-i-dealu)
+651. [Decembre (I)](#651-decembre-i)
+652. [Decembre (II)](#652-decembre-ii)
+653. [Decembre (III)](#653-decembre-iii)
+654. [Deck the Halls](#654-deck-the-halls)
+655. [Deschide nană ușile](#655-deschide-nană-ușile)
+656. [Deschide ușa, creștine (I)](#656-deschide-ușa-creștine-i)
+657. [Deschide ușa, creștine (II)](#657-deschide-ușa-creștine-ii)
+658. [Ding ding, ding (Colind horror)](#658-ding-ding-ding-colind-horror)
+659. [Drumul magilor](#659-drumul-magilor)
+660. [Entre le boeuf et l’âne gris](#660-entre-le-boeuf-et-lâne-gris)
+661. [Feliz Navidad](#661-feliz-navidad)
+662. [Ferice-i ferice](#662-ferice-i-ferice)
+663. [Flori de măr (I)](#663-flori-de-măr-i)
+664. [Flori de măr (II)](#664-flori-de-măr-ii)
+665. [Florile dalbe (I)](#665-florile-dalbe-i)
+666. [Florile dalbe (II)](#666-florile-dalbe-ii)
+667. [Frosty The Snowman](#667-frosty-the-snowman)
+668. [Go Tell It On The Mountain](#668-go-tell-it-on-the-mountain)
+669. [Here Comes Santa Claus](#669-here-comes-santa-claus)
+670. [Iarăși flori dalbe](#670-iarăși-flori-dalbe)
+671. [Ihr Kinderlein kommet](#671-ihr-kinderlein-kommet)
+672. [În întâmpinarea Crăciunului](#672-în-întâmpinarea-crăciunului)
+673. [Jingle Bells (I)](#673-jingle-bells-i)
+674. [Jingle Bells (II)](#674-jingle-bells-ii)
+675. [Junelu-i tinerelu](#675-junelu-i-tinerelu)
+676. [Kling, Glöckchen, klingelingeling](#676-kling-glöckchen-klingelingeling)
+677. [La tătă casa-i lumină](#677-la-tătă-casa-i-lumină)
+678. [La Viflaim, la Viflaim](#678-la-viflaim-la-viflaim)
+679. [Last Christmas](#679-last-christmas)
+680. [Le bonhomme de neige](#680-le-bonhomme-de-neige)
+681. [Le petit renne au nez rouge](#681-le-petit-renne-au-nez-rouge)
+682. [Leise rieselt der Schnee](#682-leise-rieselt-der-schnee)
+683. [Let It Snow!](#683-let-it-snow)
+684. [Linu-i lin](#684-linu-i-lin)
+685. [Mă luai luai](#685-mă-luai-luai)
+686. [Măruț mărgăritar](#686-măruț-mărgăritar)
+687. [Merry Xmas Everybody](#687-merry-xmas-everybody)
+688. [Mon Beau Sapin](#688-mon-beau-sapin)
+689. [Moș Crăciun (I)](#689-moș-crăciun-i)
+690. [Moș Crăciun (II)](#690-moș-crăciun-ii)
+691. [Must Be Santa](#691-must-be-santa)
+692. [Ninge iar (I)](#692-ninge-iar-i)
+693. [Ninge iar (II)](#693-ninge-iar-ii)
+694. [Ninge iar (III)](#694-ninge-iar-iii)
+695. [Noapte de vis](#695-noapte-de-vis)
+696. [Noapte sfântă (I)](#696-noapte-sfântă-i)
+697. [Noapte sfântă (II)](#697-noapte-sfântă-ii)
+698. [O Christmas Tree](#698-o-christmas-tree)
+699. [O Come Little Children](#699-o-come-little-children)
+700. [O Tannenbaum](#700-o-tannenbaum)
+701. [O, brad frumos! (I)](#701-o-brad-frumos-i)
+702. [O, brad frumos! (II)](#702-o-brad-frumos-ii)
+703. [O, ce veste minunată (2)](#703-o-ce-veste-minunată-2)
+704. [O, ce veste minunată! (1)](#704-o-ce-veste-minunată-1)
+705. [Ostașii luminii colindă (I)](#705-ostașii-luminii-colindă-i)
+706. [Ostașii luminii colindă (II)](#706-ostașii-luminii-colindă-ii)
+707. [Pe cununa munților](#707-pe-cununa-munților)
+708. [Pe podele de nuiele](#708-pe-podele-de-nuiele)
+709. [Pe strada din Viflaim](#709-pe-strada-din-viflaim)
+710. [Pére Noël arrive ce soir](#710-pére-noël-arrive-ce-soir)
+711. [Plecarea](#711-plecarea)
+712. [Pom înrămuratu](#712-pom-înrămuratu)
+713. [Pomul de Crăciun](#713-pomul-de-crăciun)
+714. [Rocking Around the Christmas Tree](#714-rocking-around-the-christmas-tree)
+715. [Rudolph The Red Nosed Reindeer](#715-rudolph-the-red-nosed-reindeer)
+716. [Sainte Nuit](#716-sainte-nuit)
+717. [Santa Claus Is Coming To Town](#717-santa-claus-is-coming-to-town)
+718. [Scrisoare la-nceput de iarnă](#718-scrisoare-la-nceput-de-iarnă)
+719. [Seara serilor](#719-seara-serilor)
+720. [Singur de Crăciun](#720-singur-de-crăciun)
+721. [Steaguri albe](#721-steaguri-albe)
+722. [Stille Nacht, heilige Nacht](#722-stille-nacht-heilige-nacht)
+723. [Stop The Calvary](#723-stop-the-calvary)
+724. [Sus boieri nu mai dormiți](#724-sus-boieri-nu-mai-dormiți)
+725. [Sus sus sus pe lângă lună](#725-sus-sus-sus-pe-lângă-lună)
+726. [The Little Drummer Boy](#726-the-little-drummer-boy)
+727. [The Night Before Christmas Song](#727-the-night-before-christmas-song)
+728. [Trei crai](#728-trei-crai)
+729. [Trei păstori](#729-trei-păstori)
+730. [Twinkle, Twinkle Little Star](#730-twinkle-twinkle-little-star)
+731. [Un creștin s-a-nvrednicit](#731-un-creștin-s-a-nvrednicit)
+732. [Veniți păstori în Viflaiem](#732-veniți-păstori-în-viflaiem)
+733. [Vine marea](#733-vine-marea)
+734. [We Wish You A Merry Christmas](#734-we-wish-you-a-merry-christmas)
+735. [White Christmas](#735-white-christmas)
+736. [Winter Wonderland](#736-winter-wonderland)
+737. [Zăurel de zăurel](#737-zăurel-de-zăurel)
+738. [Zori din zori](#738-zori-din-zori)
 
 ---
 
@@ -802,8 +800,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 12 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/a-fi-muntoman-4973)
 
-**Chitară:** C x32010 · G 320003
 
+**Chitară:** C x32010 · G 320003
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -848,8 +846,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 106
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -894,8 +892,8 @@ E târziu să te întorci.
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 13 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/altii-mama-nu-mai-face-3192)
 
-**Chitară:** C x32010 · C7 x32310 · F 133211 · Fm 133111 · Am x02210 · G 320003
 
+**Chitară:** C x32010 · C7 x32310 · F 133211 · Fm 133111 · Am x02210 · G 320003
 **Ukulele:** C 0003 · C7 0001 · F 2010 · Fm 1013 · Am 2000 · G 0232
 
 ```text
@@ -905,7 +903,7 @@ Soarele mai strălucește șters
 Dar pân' la munte mai avem de mers
 Am                             G
 Gândul zboară tot mai sus acum
-F G C [fill]
+F             G               C [fill]
 Hai veniți cu noi, haideți la drum.
 
 Către munții noștri plecăm iar
@@ -944,8 +942,8 @@ Refren + /Și așa ca noi nu sunt prea mulți./ x3
 
 **Valeriu Sterian** · Sursa: Caiet Christian Adventure, p. 15 · Caiet cabană RO, p. 89 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/amintire-cu-haiduci-3167)
 
-**Chitară:** Am x02210 · C x32010 · G 320003
 
+**Chitară:** Am x02210 · C x32010 · G 320003
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
@@ -981,8 +979,8 @@ Refren x2
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/Valeriu Sterian · Sursa: Cărticica Karban, p. 144
 
-**Chitară:** Am x02210 · C x32010 · G 320003
 
+**Chitară:** Am x02210 · C x32010 · G 320003
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
@@ -1008,8 +1006,8 @@ Refren:
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/Valeriu Sterian · Sursa: Cărticica Karban, p. 145
 
-**Chitară:** Dm xx0231 · F 133211 · C x32010 · A x02220
 
+**Chitară:** Dm xx0231 · F 133211 · C x32010 · A x02220
 **Ukulele:** Dm 2210 · F 2010 · C 0003 · A 2100
 
 ```text
@@ -1035,8 +1033,8 @@ bine J
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 17 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/amintiri-din-fagaras-5398)
 
-**Chitară:** C x32010 · Dm xx0231 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Dm xx0231 · F 133211 · G 320003
 **Ukulele:** C 0003 · Dm 2210 · F 2010 · G 0232
 
 ```text
@@ -1075,8 +1073,8 @@ Refren
 
 variantă a cântecului „Amintiri din Făgăraș”, cu titlul „Azi totul pare schimbat” · Sursa: Caiet cabană RO, p. 30
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · F 133211
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · F 133211
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · F 2010
 
 ```text
@@ -1132,8 +1130,8 @@ Uită tot ce ți-am cântat.
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 19 · Caiet cabană RO, p. 78 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/andri-popa-1426)
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -1182,8 +1180,8 @@ Refren x2
 
 **Phoenix/Pasărea Colibri** · Sursa: Cărticica Karban, p. 116
 
-**Chitară:** D xx0232 · Dsus4 xx0233 · Dsus2 xx0230 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · Dsus4 xx0233 · Dsus2 xx0230 · G 320003 · A x02220
 **Ukulele:** D 2220 · Dsus4 0230 · Dsus2 2200 · G 0232 · A 2100
 
 ```text
@@ -1225,8 +1223,8 @@ Refren:
 
 **Vârf Carpatin** · Sursa: Caiet cabană RO, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/varf-carpatin/balada-fulgerata-de-vant-317)
 
-**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
 
+**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
 **Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -1260,8 +1258,8 @@ Dus de dorul meu târziu.
 
 **Narcisa Suciu** · variantă a cântecului „Balada fulgerată de vânt”, cu titlul „Rău mă dor ochii mă dor” · Sursa: Caiet Christian Adventure, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/rau-ma-dor-ochii-ma-dor-8810)
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -1313,8 +1311,8 @@ Refren x2
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 27 · Caiet cabană RO, p. 25 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/batranul-refugiu-318)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -1349,8 +1347,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 12 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/bucegii-mei-2693)
 
-**Chitară:** Em 022000 · C x32010 · D xx0232
 
+**Chitară:** Em 022000 · C x32010 · D xx0232
 **Ukulele:** Em 0432 · C 0003 · D 2220
 
 ```text
@@ -1390,8 +1388,8 @@ Prin văi și chei, Bucegii mei.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 29
 
-**Chitară:** G 320003 · Am x02210 · D xx0232
 
+**Chitară:** G 320003 · Am x02210 · D xx0232
 **Ukulele:** G 0232 · Am 2000 · D 2220
 
 ```text
@@ -1441,8 +1439,8 @@ Rămân în urmă regrete și-un mic suspin
 
 **Vasile Mărdare** · Sursa: Caiet Christian Adventure, p. 30 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/cabana-3170)
 
-**Chitară:** Em 022000 · Am x02210 · D xx0232 · G 320003 · C x32010 · B7 x21202
 
+**Chitară:** Em 022000 · Am x02210 · D xx0232 · G 320003 · C x32010 · B7 x21202
 **Ukulele:** Em 0432 · Am 2000 · D 2220 · G 0232 · C 0003 · B7 2322
 
 ```text
@@ -1495,8 +1493,8 @@ Refren
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 31
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -1537,8 +1535,8 @@ Refren
 
 **Carmen Silva Ciocolată** · Sursa: Caiet Christian Adventure, p. 32
 
-**Chitară:** C x32010 · G 320003 · G7 320001
 
+**Chitară:** C x32010 · G 320003 · G7 320001
 **Ukulele:** C 0003 · G 0232 · G7 0212
 
 ```text
@@ -1581,8 +1579,8 @@ Refren
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 37 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/calator-3193)
 
-**Chitară:** Bm x24432 · D xx0232 · A x02220 · Em 022000 · F# 244322
 
+**Chitară:** Bm x24432 · D xx0232 · A x02220 · Em 022000 · F# 244322
 **Ukulele:** Bm 4222 · D 2220 · A 2100 · Em 0432 · F# 3121
 
 ```text
@@ -1631,8 +1629,8 @@ Refren x4
 
 **Carmen Ciocolata** · alt titlu: „Ninge” · Sursa: Caiet Christian Adventure, p. 38 · Caiet cabană RO, p. 29 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/cand-te-scuturi-de-zapada-2817) · [tabulaturi.ro („Ninge”)](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ninge-596)
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -1667,8 +1665,8 @@ Refren x2
 
 **Compact** · Sursa: Caiet cabană RO, p. 98 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/cantec-pentru-prieteni-391)
 
-**Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · A x02220
 
+**Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · A x02220
 **Ukulele:** C 0003 · G 0232 · F 2010 · D 2220 · A 2100
 
 ```text
@@ -1701,8 +1699,8 @@ Când viața greu te va-ncerca.
 
 **Taine Folk** · Sursa: Caiet Christian Adventure, p. 40 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/taine-folk/cantec-de-uitat-de-lume-5855)
 
-**Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · Fm 133111
 
+**Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · Fm 133111
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003 · Fm 1013
 
 ```text
@@ -1750,8 +1748,8 @@ Refren x2
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 43 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ce-frumos-e-sus-la-munte-9329)
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -1822,8 +1820,8 @@ Muntele te-așteaptă
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 46
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · Dm xx0231 · G 320003 · Em 022000
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · Dm xx0231 · G 320003 · Em 022000
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Dm 2210 · G 0232 · Em 0432
 
 ```text
@@ -1865,8 +1863,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 37 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/colind-5401)
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -1900,8 +1898,8 @@ Parfum și mângâiere
 
 **Sorina Moldvai** · Sursa: Caiet Christian Adventure, p. 48 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/sorina-moldvai/copil-hoinar-4700)
 
-**Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · D7 xx0212
 
+**Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · D7 xx0212
 **Ukulele:** D 2220 · Bm 4222 · A 2100 · G 0232 · D7 2223
 
 ```text
@@ -1963,8 +1961,8 @@ din nou.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 50
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -2028,9 +2026,9 @@ Refren
 
 **Costica David** · Sursa: Caiet Christian Adventure, p. 55
 
-**Chitară:** C x32010 · Am x02210 · G 320003 · F 133211
 
-**Ukulele:** C 0003 · Am 2000 · G 0232 · F 2010
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+**Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
 [C]Oriunde te-ai a[G]fla, în [Am]lumea asta [F]mare
@@ -2063,8 +2061,8 @@ Refren x2
 
 Sursa: Caiet cabană RO, p. 18 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/din-copilarie-4448)
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -2115,8 +2113,8 @@ Iar mersul de trenuri din noi voi pleca.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 62
 
-**Chitară:** Am x02210 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · G 320003 · C x32010
 **Ukulele:** Am 2000 · G 0232 · C 0003
 
 ```text
@@ -2168,8 +2166,8 @@ Refren
 
 **Odyssey** · Sursa: Caiet Christian Adventure, p. 63
 
-**Chitară:** Am x02210 · G 320003
 
+**Chitară:** Am x02210 · G 320003
 **Ukulele:** Am 2000 · G 0232
 
 ```text
@@ -2216,8 +2214,8 @@ Refren x2
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 64 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/dor-de-munti-8397)
 
-**Chitară:** C x32010 · Am x02210 · Em 022000 · G7 320001 · G 320003 · Dm xx0231
 
+**Chitară:** C x32010 · Am x02210 · Em 022000 · G7 320001 · G 320003 · Dm xx0231
 **Ukulele:** C 0003 · Am 2000 · Em 0432 · G7 0212 · G 0232 · Dm 2210
 
 ```text
@@ -2263,8 +2261,8 @@ Refren x2
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 65
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -2299,8 +2297,8 @@ Refren x2
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 70
 
-**Chitară:** G 320003 · Bm x24432 · C x32010 · D xx0232 · Cm x35543 · Em 022000 · B x24442 · E 022100 · Am x02210
 
+**Chitară:** G 320003 · Bm x24432 · C x32010 · D xx0232 · Cm x35543 · Em 022000 · B x24442 · E 022100 · Am x02210
 **Ukulele:** G 0232 · Bm 4222 · C 0003 · D 2220 · Cm 0333 · Em 0432 · B 4322 · E 4442 · Am 2000
 
 ```text
@@ -2343,64 +2341,37 @@ Refren
 
 #### 35. Fără petale (I)
 
-**Doru Stănculescu** · Sursa: Caiet cabană RO, p. 150
+**Doru Stănculescu** · Sursa: Cărticica Karban, p. 153; Caiet cabană RO, p. 150
 
-**Chitară:** C x32010 · E 022100 · Am x02210 · F 133211 · G7 320001
 
-**Ukulele:** C 0003 · E 4442 · Am 2000 · F 2010 · G7 0212
-
-```text
-Doru Stănculescu
-1.
-    C       E  Am       F
-Nisipul fin a oftat
-    C             G7           C          G7
-Zâmbește-n el o urmă de păcat
-E semn c-aici în zadar
-ÎȘi cheamă luna lupii la altar.
-R:
-Cearcăn, cearcăn, piaptănă
-Ochii ei mă-ncearcănă.
-
-2.
-Stropi de vină îngropat
-Ciorchini de sare fața i-au spălat
-Cristale reci țes în fum
-Coperți de aur pe-un sicriu de scrum.
-```
-
-#### 36. Fără petale (II)
-
-**Doru Stănculescu** · muzica/versuri: Doru Stănculescu/??? · Sursa: Cărticica Karban, p. 153
-
-**Chitară:** C x32010 · Em 022000 · Am x02210 · F 133211 · G 320003
-
-**Ukulele:** C 0003 · Em 0432 · Am 2000 · F 2010 · G 0232
+**Chitară:** C x32010 · Em 022000 · Am x02210 · F 133211 · G7 320001
+**Ukulele:** C 0003 · Em 0432 · Am 2000 · F 2010 · G7 0212
 
 ```text
-[C]Nisipul [Em]fin a [Am]oftat
-[F]Zâmbește-n [C]el o ur[G]ma de pă[C]cat
-[C]E semn c-[Em]aici în [Am]zadar
-[F]Își cheamă luna [C]lupii [G]la al[C]tar
-[C]Un strop de [Em]vină îngro[Am]pat
-[F]Ciorchini de [C]sare
-[G]Fata i-au spă[C]lat
-[C]Cristale recii [Em]țes în [Am]fum
-[F]Coperta-n [C]aur și-n [G]sicriu de [C]scrum.
-Refren:
-[C]Încearcă, încearcă, îmi [Em]piaptănă
-Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a, aaa[G]a, aaa[C]a, aaa[G]a [C]
-[C]Încearcă, încearcă, îmi [Em]piaptănă
-Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a, aaa[G]a, aaa[C]a, aaa[G]a [C]
+[C] Nisipul [Em]fin a [Am]oftat      [F]
+Zâmbește-n [C]el o urmă [G7]de pă[C]cat [G7]
+[C] E semn c-[Em]aici în [Am]zadar   [F]
+Își cheamă [C]luna lupii [G7]la al[C]tar[G7]
+
+[C] Strop de [Em]vină îngro[Am]pat   [F]
+Ciorchini de [C]sare fața [G7]i-au spă[C]lat [G7]
+[C] Cristale [Em]reci țes în [Am]fum [F]
+Coperta-n [C]aur pe-un [G7]sicriu de [C]scrum.  [G7]
+
+Refren(x2):
+[C]Cearcăn, cearcăn, [Em]piaptănă
+Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a, 
+na na na [G7]na na na, na na na[C]na na na, na na na[G7]na na na
+
 Da capo al fine + 2xRefren
 ```
 
-#### 37. Fata din Caraiman
+#### 36. Fata din Caraiman
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 71 · Caiet cabană RO, p. 21 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fata-din-caraiman-2697)
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -2425,11 +2396,6 @@ Frumoasă-i viața sus în munți
 Când mergi pe o cărare
 Puțini în lume sunt ca noi
 Puțini în lumea mare
-
-Și cum urcau așa pieptiș
-Ajunseră-n pădure
-Ieși în calea lor un urs
-Ce culegea la mure
 
 Și cum urcau așa pieptiș
 Ajunseră-n pădure
@@ -2463,12 +2429,12 @@ Lăsară totu-acasă
 Refren
 ```
 
-#### 38. Fata munților (I)
+#### 37. Fata munților (I)
 
 Sursa: Caiet cabană RO, p. 8 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/carmen-ciocolata/fata-muntilor-12345)
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -2512,12 +2478,12 @@ O fată și-un băiat pe-un cal înaripat
 Și-un cântec vechi de la străbuni lăsat.
 ```
 
-#### 39. Fata munților (II)
+#### 38. Fata munților (II)
 
 **Anonim** · variantă a cântecului „Fata munților”, cu titlul „Fata din Crai” · Sursa: Caiet Christian Adventure, p. 72
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -2550,12 +2516,12 @@ Trecut-au zile lungi și ani de-atunci
 Și-un cântec vechi lăsat de la străbuni/ x2
 ```
 
-#### 40. Fată verde (I)
+#### 39. Fată verde (I)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 74 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fata-verde-451)
 
-**Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
 
+**Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
 **Ukulele:** Am 2000 · C 0003 · G 0232 · F 2010
 
 ```text
@@ -2594,12 +2560,12 @@ Simți cum privirea lor vrea să te fure
 Refren
 ```
 
-#### 41. Fată verde (II)
+#### 40. Fată verde (II)
 
 **Phoenix** · variantă a cântecului „Fată verde”, cu titlul „Ochi negri, ochi de țigan” · Sursa: Caiet cabană RO, p. 81 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/ochi-negri-ochi-de-tigan-8786)
 
-**Chitară:** Am x02210 · C x32010 · G 320003 · E 022100 · F 133211
 
+**Chitară:** Am x02210 · C x32010 · G 320003 · E 022100 · F 133211
 **Ukulele:** Am 2000 · C 0003 · G 0232 · E 4442 · F 2010
 
 ```text
@@ -2624,12 +2590,12 @@ Cu privirea lor cea mută
 Ochii negri, ochi de țigan.
 ```
 
-#### 42. Fată verde (III)
+#### 41. Fată verde (III)
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 126
 
-**Chitară:** Em 022000 · G 320003 · D xx0232 · C x32010 · Am x02210
 
+**Chitară:** Em 022000 · G 320003 · D xx0232 · C x32010 · Am x02210
 **Ukulele:** Em 0432 · G 0232 · D 2220 · C 0003 · Am 2000
 
 ```text
@@ -2651,12 +2617,12 @@ Refren:
 În scli[C]piri [G]ca de [Am]salbă
 ```
 
-#### 43. Floare de colț (I)
+#### 42. Floare de colț (I)
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 78 · Caiet cabană RO, p. 31 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/floare-de-colt-301)
 
-**Chitară:** Am x02210 · E 022100 · G 320003 · C x32010 · F 133211 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · G 320003 · C x32010 · F 133211 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003 · F 2010 · Dm 2210
 
 ```text
@@ -2702,12 +2668,12 @@ Te-ntâlnesc odată-n viață
 Refren x2 xn.. :)
 ```
 
-#### 44. Floare de colț (II)
+#### 43. Floare de colț (II)
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 45
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -2715,31 +2681,35 @@ Refren x2 xn.. :)
 [Dm]Cuibul tău e sus pe [Am]creste
 [Dm]Raza ta-mi coboară-n [Am]cale
 [E]Mai frumos ca-ntr-o po[Am]veste
-Refren:
+
+Refren (x2):
 [Dm]Tu floare de [Am]colț
 [E]Minune sub [Am]bolți
 [Dm]Fragedă [Am]stea
 [E]Iubita [Am]mea
-[Dm]Tu floare de [Am]colț
-[E]Minune sub [Am]bolți
-[Dm]Fragedă [Am]stea
-[E]Iubita [Am]mea
-[Am]Floare ninsă-n [E]vârf de [Am]stânca
+
+[Am]Floare [E]ninsă-n vârf de [Am]stâncă
 [Dm]Mai presus de nori și [Am]stele
 [Dm]Cine oare să te-aj[Am]ungă
 [E]Numai dorurile [Am]mele
-[Am]Floare de lu[E]mina [Am]vie
+
+Refren
+
+[Am]Floare [E]de lumină [Am]vie
 [Dm]Zâmbet cald de dimi[Am]neață
 [Dm]Te aștept de-o veșni[Am]cie
-[E]Te-ntâlnesc o dată-n [Am]viata
+[E]Te-ntâlnesc o dată-n [Am]viață
+
+Refren
+
 ```
 
-#### 45. Freamătă pădurea
+#### 44. Freamătă pădurea
 
 **Yoyo** · Sursa: Caiet Christian Adventure, p. 80 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/freamata-padurea-11859)
 
-**Chitară:** Bm x24432 · A x02220
 
+**Chitară:** Bm x24432 · A x02220
 **Ukulele:** Bm 4222 · A 2100
 
 ```text
@@ -2774,12 +2744,12 @@ Se aude prin stejari...
 Tradăti de frunziș, cu puii uciși.
 ```
 
-#### 46. Hai dihai (I)
+#### 45. Hai dihai (I)
 
 **Doru Stănculescu** · Sursa: Caiet cabană RO, p. 23
 
-**Chitară:** D xx0232 · A x02220 · D7 xx0212 · G 320003 · A7 x02020
 
+**Chitară:** D xx0232 · A x02220 · D7 xx0212 · G 320003 · A7 x02020
 **Ukulele:** D 2220 · A 2100 · D7 2223 · G 0232 · A7 0100
 
 ```text
@@ -2801,12 +2771,12 @@ Bine c-a-nfrunzit pădurea
 Numai or vedea că nu-s.
 ```
 
-#### 47. Hai dihai (II)
+#### 46. Hai dihai (II)
 
 **Doru Stănculescu** · muzica/versuri: Doru Stănculescu/??? · Sursa: Cărticica Karban, p. 154
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · D7 xx0212
 
+**Chitară:** D xx0232 · G 320003 · A x02220 · D7 xx0212
 **Ukulele:** D 2220 · G 0232 · A 2100 · D7 2223
 
 ```text
@@ -2825,12 +2795,12 @@ Refren:
 Notă:D7 - Se cantă la repetarea refrenului
 ```
 
-#### 48. Imnul Bucegilor
+#### 47. Imnul Bucegilor
 
 **Axa** · Sursa: Caiet Christian Adventure, p. 83 · Caiet cabană RO, p. 22 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-bucegilor-2699)
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · C x32010
 
+**Chitară:** D xx0232 · A x02220 · G 320003 · C x32010
 **Ukulele:** D 2220 · A 2100 · G 0232 · C 0003
 
 ```text
@@ -2851,7 +2821,7 @@ C
 Când Bucegii dau zvon de piatră si
    A
 izvoare
-G          A                        D
+           G   A                   D
 Oriunde-ai fi răspunde la a lor chemare
 Caraimanul, Coștilă-ascunsă dup'-un nor
 Și Morarul te vor primi la pieptul lor.
@@ -2893,12 +2863,12 @@ Nu uita să pui măcar o floare
 Pentru cel ce muntele-a iubit.
 ```
 
-#### 49. Imnul Dianei (I)
+#### 48. Imnul Dianei (I)
 
 Sursa: Caiet cabană RO, p. 7 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-dianei-3288)
 
-**Chitară:** Am x02210 · E 022100 · C x32010 · A x02220 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · C x32010 · A x02220 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · C 0003 · A 2100 · Dm 2210
 
 ```text
@@ -2945,12 +2915,12 @@ Am aprins a tinereții torță
 De îndată ce-am ajuns în Crai.
 ```
 
-#### 50. Imnul Dianei (II)
+#### 49. Imnul Dianei (II)
 
 **Roza Vânturilor** · variantă a cântecului „Imnul Dianei”, cu titlul „Refugiul Diana” · Sursa: Caiet Christian Adventure, p. 136 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/refugiul-diana-940)
 
-**Chitară:** Dm xx0231 · C x32010 · F 133211
 
+**Chitară:** Dm xx0231 · C x32010 · F 133211
 **Ukulele:** Dm 2210 · C 0003 · F 2010
 
 ```text
@@ -3006,12 +2976,12 @@ De îndată ce-am ajuns în Crai./ x2
 Refren x2
 ```
 
-#### 51. Imnul ghizilor
+#### 50. Imnul ghizilor
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 84
 
-**Chitară:** D xx0232 · A x02220 · Bm x24432 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · Bm x24432 · G 320003
 **Ukulele:** D 2220 · A 2100 · Bm 4222 · G 0232
 
 ```text
@@ -3062,12 +3032,12 @@ Tinereții ce-o trăim
 Refren
 ```
 
-#### 52. Imnul Pietrei Craiului
+#### 51. Imnul Pietrei Craiului
 
 **Varf Carpatin** · Sursa: Caiet Christian Adventure, p. 85 · Caiet cabană RO, p. 20 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-pietrei-craiului-319)
 
-**Chitară:** Am x02210 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · G 320003 · C x32010
 **Ukulele:** Am 2000 · G 0232 · C 0003
 
 ```text
@@ -3108,12 +3078,12 @@ La crucea unei fete să-ngenuchezi odată
 Refren
 ```
 
-#### 53. Imnul prieteniei
+#### 52. Imnul prieteniei
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 86 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-prieteniei-4038)
 
-**Chitară:** A x02220 · D xx0232 · E 022100 · G 320003
 
+**Chitară:** A x02220 · D xx0232 · E 022100 · G 320003
 **Ukulele:** A 2100 · D 2220 · E 4442 · G 0232
 
 ```text
@@ -3156,12 +3126,12 @@ Peste toată România
 Refren x2
 ```
 
-#### 54. În codrul verde
+#### 53. În codrul verde
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 88
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -3192,12 +3162,12 @@ Ia-ne tristețea și fugi cu ea
 Refren x2
 ```
 
-#### 55. În loc de bun rămas
+#### 54. În loc de bun rămas
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 89
 
-**Chitară:** A x02220 · F#m 244222 · D xx0232 · E 022100 · Bm x24432
 
+**Chitară:** A x02220 · F#m 244222 · D xx0232 · E 022100 · Bm x24432
 **Ukulele:** A 2100 · F#m 2120 · D 2220 · E 4442 · Bm 4222
 
 ```text
@@ -3235,12 +3205,12 @@ Pe orice brad lacrimi de montaniard
 Refren
 ```
 
-#### 56. Legenda Craiului
+#### 55. Legenda Craiului
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 93 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/legenda-craiului-3305)
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
 **Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232
 
 ```text
@@ -3283,12 +3253,12 @@ Izvoarele ți le-ngrijesc
 Refren x2
 ```
 
-#### 57. Libertate-n vârf de munți
+#### 56. Libertate-n vârf de munți
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 94
 
-**Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231
 
+**Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -3317,12 +3287,12 @@ Vor fi oameni doritori
 De libertate-n vârf de munți.
 ```
 
-#### 58. Luna în cascade
+#### 57. Luna în cascade
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 96 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/titus-constantin/luna-in-cascade-7497)
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -3363,12 +3333,12 @@ Când moare un brad
 Refren xn
 ```
 
-#### 59. M-a ținut mama acasă
+#### 58. M-a ținut mama acasă
 
 **Ion Cioroiu** · Sursa: Caiet Christian Adventure, p. 98 · Caiet cabană RO, p. 13 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/m-a-tinut-mama-acasa-3290)
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -3407,12 +3377,12 @@ Am să mă întorc la munte./ x2
 Refren x2
 ```
 
-#### 60. Mă întorc la tine, muntele meu drag
+#### 59. Mă întorc la tine, muntele meu drag
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 100 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ma-ntorc-la-tine-muntele-meu-drag-8491)
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -3453,33 +3423,28 @@ La brazii tai, la măreția ta
 Refren x2
 ```
 
-#### 61. Mă întorc și pașii-s grei
+#### 60. Mă întorc și pașii-s grei
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 101 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ma-intorc-si-pasii-s-grei-3678)
 
+**Chitară:** Em 022000 · G 320003 · C x32010 · D xx0232
+**Ukulele:** Em 0432 · G 0232 · C 0003 · D 2220
+
 ```text
-Bm (Em)         D (G)   G (C)
-Merg pe unduite căăăăăăăăăăi
-       G  (C)        Bm  (Em)
-Încâlciți sunt pașii mei
-                  D (G)       G  (C)
-Rucsacul m-apasă greeeeeeeeeu
-                     Bm   (Em)
-Iară eu prin munți mereu
+[Em]  Merg pe unduite [G]căăăăăăăăă[C]ăi
+Încâlciți sunt pașii [Em]mei
+Rucsacul m-apasă [G]greeeeeeee[C]eu
+Iară eu prin munți me[Em]reu
 
 Refren:
- A (D)               Bm (Em)
-Mă întorc și pașii-s grei
- D  (G)          A  (D)
-Ia, hai, Ia, hai
-                   Bm  (Em)
-Las în urma munții mei
- D  (G)        A  (D)
-Ia, hai, hai, hai
+[D]Mă întorc și pașii-s [Em]grei
+Ia, [G]hai, hai, [D]hai
+Las în urma munții [Em]mei
+Ia, [G]hai, hai, [D]hai
 
 Mă întorc si pașii-s grei
 Ia, hai, hai, hai
-Mă gândesc numai la ei
+Mă gândesc numai la [Em]ei
 
 Munții cât am străbătut
 Să m-opresc nu am putut
@@ -3496,12 +3461,12 @@ Rucsacul m-apasă greu
 Refren x2
 ```
 
-#### 62. Mi-e dragă pădurea
+#### 61. Mi-e dragă pădurea
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 102 · Caiet cabană RO, p. 32
 
-**Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
 
+**Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
 **Ukulele:** Am 2000 · C 0003 · G 0232 · F 2010
 
 ```text
@@ -3513,6 +3478,9 @@ Mi-e plin iar rucsacul bocancii sunt grei
 /Străbat iar poteca vreau munții să-nfrunt
 Am           C          G          Am
 Și liniștea pietrei din nou s-o ascult./ x2
+
+/[Am]O la [C]olaria [G]olaria [Am]hei
+ [F]O la [G]olaria [Am]hei, oooooo / x2
 
 Pornesc către creste cu dorul hoinar
 Și fluier într-una și nu am habar
@@ -3530,12 +3498,12 @@ Căci cântul mi-e veșnic tovarăș de drum
 Mereu e cu mine la bine și greu./ x2
 ```
 
-#### 63. Micul prinț
+#### 62. Micul prinț
 
 Sursa: Caiet cabană RO, p. 159 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/micul-print-5425)
 
-**Chitară:** C x32010 · Em 022000 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Em 022000 · F 133211 · G 320003
 **Ukulele:** C 0003 · Em 0432 · F 2010 · G 0232
 
 ```text
@@ -3562,12 +3530,12 @@ Mai am o carte ce-i foarte subțire
 "Da", zise prințul, "ești prietena mea".
 ```
 
-#### 64. Moartea unui alpinist (I)
+#### 63. Moartea unui alpinist (I)
 
 Sursa: Caiet cabană RO, p. 17 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/moartea-unui-alpinist-1661)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · C x32010 · E7 020100
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · C x32010 · E7 020100
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · C 0003 · E7 1202
 
 ```text
@@ -3609,12 +3577,12 @@ CĂtre culmea vieții mergem înainte
 Până-n ziua-n care stânca ne-o trăda.
 ```
 
-#### 65. Moartea unui alpinist (II)
+#### 64. Moartea unui alpinist (II)
 
 **Victor Socaciu** · variantă a cântecului „Moartea unui alpinist”, cu titlul „Omagiul unui alpinist” · Sursa: Caiet Christian Adventure, p. 116
 
-**Chitară:** Am x02210 · C x32010 · Dm xx0231 · F 133211 · E 022100 · E7 020100
 
+**Chitară:** Am x02210 · C x32010 · Dm xx0231 · F 133211 · E 022100 · E7 020100
 **Ukulele:** Am 2000 · C 0003 · Dm 2210 · F 2010 · E 4442 · E7 1202
 
 ```text
@@ -3659,12 +3627,12 @@ Până-n cllipa-n care stânca ne-o trăda.
 Refren
 ```
 
-#### 66. Munții mei
+#### 65. Munții mei
 
 **Titus Constantin** · Sursa: Caiet Christian Adventure, p. 107 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/titus-constantin/muntii-mei-9147)
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -3745,12 +3713,12 @@ Doamne suntem niște zmei.
 Hei, hei.
 ```
 
-#### 67. Numai noi
+#### 66. Numai noi
 
 **Roza Vânturilor** · Sursa: Caiet Christian Adventure, p. 113 · Caiet cabană RO, p. 10 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/numai-noi-228)
 
-**Chitară:** Am x02210 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · G 320003 · C x32010
 **Ukulele:** Am 2000 · G 0232 · C 0003
 
 ```text
@@ -3758,7 +3726,7 @@ Am         G
 Numai noi, suntem împreună
 Am          G
 Numai noi, sub clar de lună
-C          G              Am
+C             G           Am
 Suntem doi .. fericiți în munte
 Tu și eu , cuplul fericirii
 Eu și tu vis al împlinirii
@@ -3767,9 +3735,9 @@ Iar în păr porți doar flori de munte.
 Refren x2:
  C                  G
 Vom fi singuri prin văi și pe creste
-C                 G
+C                G
 Din noi doi va rămâne-o poveste
-C            G
+C            G              Am
 Împreună vom fi și ne vom iubi
 
 Ne iubim , câtă poezie, ne iubim
@@ -3791,12 +3759,12 @@ Suntem doi..fericiți în munte
 Refren x2
 ```
 
-#### 68. Nunta pe Caraiman (I)
+#### 67. Nunta pe Caraiman (I)
 
 Sursa: Caiet cabană RO, p. 24 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/nunta-pe-caraiman-4447)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -3852,12 +3820,12 @@ Urmându-ne unica izbândă
 Și să uităm că prea triști vom fi fost..
 ```
 
-#### 69. Nunta pe Caraiman (II)
+#### 68. Nunta pe Caraiman (II)
 
 **Dragoș Bălan** · variantă a cântecului „Nunta pe Caraiman”, cu titlul „Logodnă pe Caraiman” · Sursa: Caiet Christian Adventure, p. 95 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/logodna-pe-caraiman-6428)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -3929,12 +3897,12 @@ fost.
 Refren B + Refren F
 ```
 
-#### 70. O nouă viață
+#### 69. O nouă viață
 
 **Mădălina Amon** · Sursa: Caiet Christian Adventure, p. 120
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Dm 2210 · E 4442
 
 ```text
@@ -3972,12 +3940,12 @@ Când te vei pierde printre brazi, pe poteci. x2
 Refren x2
 ```
 
-#### 71. Om bun (I)
+#### 70. Om bun (I)
 
 **Dan Andrei Aldea** · Sursa: Caiet cabană RO, p. 15
 
-**Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231 · G 320003
 
+**Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231 · G 320003
 **Ukulele:** Am 2000 · E 4442 · C 0003 · Dm 2210 · G 0232
 
 ```text
@@ -4019,12 +3987,12 @@ Veșnic pe drum asta ni-i soarta
 Veșnic pe drum căutând un castel.
 ```
 
-#### 72. Om bun (II)
+#### 71. Om bun (II)
 
 **Dan Andrei Aldea** · muzica/versuri: Dan Andrei Aldea/??? · Sursa: Cărticica Karban, p. 11
 
-**Chitară:** Am x02210 · E 022100 · C x32010 · G 320003 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · C x32010 · G 320003 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -4050,12 +4018,12 @@ Veșnic pe drum căutând un castel.
 [Dm]Veșnic pe [Am]drum cău[E]tând un [Am]castel.
 ```
 
-#### 73. Om bun (III)
+#### 72. Om bun (III)
 
 **Dan Andrei Aldea/ Sfinx** · muzica/versuri: Dan Andrei Aldea/??? · Sursa: Cărticica Karban, p. 12
 
-**Chitară:** Am x02210 · C x32010 · G 320003 · E 022100
 
+**Chitară:** Am x02210 · C x32010 · G 320003 · E 022100
 **Ukulele:** Am 2000 · C 0003 · G 0232 · E 4442
 
 ```text
@@ -4081,12 +4049,12 @@ Om [Am]bun des[C]chide-[G]ne poar[Am]ta
 [G]Veșnic pe [C]drum cău[Am]tând un cas[Am]tel.
 ```
 
-#### 74. Omagiul unui alpinist
+#### 73. Omagiul unui alpinist
 
 **Darwin** · Sursa: Caiet Christian Adventure, p. 117
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Dm 2210 · G 0232
 
 ```text
@@ -4143,12 +4111,12 @@ lasă
 Iubito, tu să stai cuminte-n casă/ x2
 ```
 
-#### 75. Pădure nebună
+#### 74. Pădure nebună
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 123 · Caiet cabană RO, p. 9 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/padure-nebuna-4050)
 
-**Chitară:** Dm xx0231 · F 133211 · C x32010
 
+**Chitară:** Dm xx0231 · F 133211 · C x32010
 **Ukulele:** Dm 2210 · F 2010 · C 0003
 
 ```text
@@ -4190,12 +4158,12 @@ Voi veni, voi veni, nu te mai tângui pădure nebună./ x2
 Refren x2
 ```
 
-#### 76. Pe cine și câte cărări
+#### 75. Pe cine și câte cărări
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 14 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/pe-cine-si-cate-carari-2528)
 
-**Chitară:** G 320003 · D xx0232 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · C x32010
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -4237,12 +4205,12 @@ De aceea pe cine și câte cărări las în urmă nu-mi pasă
 Și-mi plac numai mie și numai cu florile-n cască.
 ```
 
-#### 77. Prieteni buni
+#### 76. Prieteni buni
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 131
 
-**Chitară:** C x32010 · G 320003 · C7 x32310 · F 133211 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · C7 x32310 · F 133211 · Am x02210
 **Ukulele:** C 0003 · G 0232 · C7 0001 · F 2010 · Am 2000
 
 ```text
@@ -4276,12 +4244,12 @@ Dacă vrei să mai asculți un cântec
 Te-așteptăm, revino printre noi.
 ```
 
-#### 78. Râpa
+#### 77. Râpa
 
 **Roza Vânturilor** · Sursa: Caiet Christian Adventure, p. 135 · Caiet cabană RO, p. 19 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/roza-vanturilor/rapa-469)
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
 **Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232
 
 ```text
@@ -4322,12 +4290,12 @@ Trec printre oameni și mă socot
 Înapoi să mă-ntorc n-are rost./ x2
 ```
 
-#### 79. Să-ntoarcem timpul
+#### 78. Să-ntoarcem timpul
 
 Sursa: Caiet cabană RO, p. 126 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/sa-intoarcem-timpul-5417)
 
-**Chitară:** C x32010 · Dm xx0231 · Am x02210 · G 320003
 
+**Chitară:** C x32010 · Dm xx0231 · Am x02210 · G 320003
 **Ukulele:** C 0003 · Dm 2210 · Am 2000 · G 0232
 
 ```text
@@ -4366,84 +4334,99 @@ RĂmâne doar clipa din noi
 SĂ-ntoarcem timpul înapoi.
 ```
 
-#### 80. Strunga (I)
+#### 79. Strunga
 
-**Phoenix** · Sursa: Caiet Christian Adventure, p. 144 · Caiet cabană RO, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/strunga-457)
+**Phoenix** · Sursa: Cărticica Karban, p. 130 · Caiet Christian Adventure, p. 144 · Caiet cabană RO, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/strunga-457)
 
-**Chitară:** Em 022000 · G 320003 · F 133211 · Dm xx0231 · F# 244322
 
-**Ukulele:** Em 0432 · G 0232 · F 2010 · Dm 2210 · F# 3121
-
-```text
-Em   G      F    Dm       Em
-În pădurea de la strungă, Hei..
-Sunt de cei cu pușca lungă, hei...
-Care dau chiorâș la pungă, hei...
-
-Em       G      F#        Em
-Sunt de cei ce-mpușcă-n lună
-Care noaptea-n frunze sună
-Em      G    F    Em
-Feciori de lele nebună
-
-Fă-te-n lături măi creștine, măi
-Dacă vrei să treci cu bine
-Să rămâi cu viață-n tine
-
-Opt voinici cu spete late
-Și cu mâneci suflecate
-Stau cu puștile-ncărcate
-
-Oleleu, ciocoi bogate, hei
-Ici te-i trece din păcate, hei
-Să-ți arunc doi glonți în spate, hei
-
-Că mi-e pușca hultuită
-Și mi-i ghioaga țintuită
-Și mi-e inima-ncolțită
-
-În pădurea de la strungă, Hei..
-Ce slujește fără pungă, Hei...
-Fără luptă, fara pungă, Hei...
-```
-
-#### 81. Strunga (II)
-
-**Phoenix** · Sursa: Cărticica Karban, p. 130
-
-**Chitară:** Em 022000 · G 320003 · F 133211 · D xx0232
-
-**Ukulele:** Em 0432 · G 0232 · F 2010 · D 2220
+**Chitară:** Em 022000 · G 320003 · F 133211 · Dm xx0231
+**Ukulele:** Em 0432 · G 0232 · F 2010 · Dm 2210
 
 ```text
-[Em]În pă[G]durea [F]de la [D]strungă, [Em]hei
-[Em]Sunt de [G]cei cu [F]pusca [D]lungă, [Em]hei
-[Em]Care [G]dau chio[F]râș la [D]pungă, [Em]hei
+[Em]În pă[G]durea [F]de la [Dm]strungă, [Em]hei
+[Em]Sunt de [G]cei cu [F]pusca [Dm]lungă, [Em]hei
+[Em]Care [G]dau chio[F]râș la [Dm]pungă, [Em]hei
+
 [Em]Sunt de [G]cei ce-m[F]pusca-n [Em]lună
 [Em]Care [G]noaptea-n [F]frunze [Em]sună
 [Em]Feciori [G]de le[F]le ne[Em]bună.
 [Em]Feciori [G]de le[F]le ne[Em]bună.
-[Em]Dă-te-n [G]lături, [F]mai creș[D]tine, [Em]mai
-[Em]Dacă [G]vrei să [F]treci cu [D]bine, [Em]mai
-[Em]Să ră[G]mâi cu [F]viata-n [D]tine[Em]
+
+[Em]Dă-te-n [G]lături, [F]mai creș[Dm]tine, [Em]mai
+[Em]Dacă [G]vrei să [F]treci cu [Dm]bine, [Em]mai
+[Em]Să ră[G]mâi cu [F]viata-n [Dm]tine[Em]
+
 [Em]Opt voi[G]nici cu [F]spete [Em]late
 [Em]Și cu [G]mâneci [F]suflec[Em]ate
 [Em]Stau cu [G]puști[F]le-ncă[Em]rcate.
 [Em]Stau cu [G]puști[F]le-ncă[Em]rcate.
-[Em]Ale[G]lei cio[F]coi, bo[D]gate, [Em]hei
-[Em]Ici vei [G]trece [F]din păc[D]ate, [Em]hei
-[Em]Să-ți a[G]runc doi [F]glonți în [D]spate[Em]
+
+[Em]Ale[G]lei cio[F]coi, bo[Dm]gate, [Em]hei
+[Em]Ici vei [G]trece [F]din păc[Dm]ate, [Em]hei
+[Em]Să-ți a[G]runc doi [F]glonți în [Dm]spate[Em]
+
 [Em]Că mi-e [G]pusca [F]hultu[Em]ită,
 [Em]Și mi-e [G]ghioaga [F]țintu[Em]ită
 [Em]Și mi-e [G]inima-[F]ncolț[Em]ită.
+
+[Em]În pă[G]durea [F]de la [Dm]strungă, [Em]hei
+[Em]Ce slu[G]juște [F]pusca [Dm]lungă, [Em]hei
+[Em]Fără [G]luptă [F]fără [Dm]pungă, [Em]hei
+
 ```
 
-#### 82. Trenul dragostei
+#### 80. Toamna la Șuior
+
+**Radu Pietreanu** · Sursa: Caiet Christian Adventure, p. 150
+
+
+**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
+**Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
+
+```text
+C                 E           Am
+Un bucium cheamă stins în Maramureș
+F               G             C  G
+Și codrii îi răspund din depărtare
+C                E             Am
+Strămoșii vin doinind năvalnic iureș
+F               G         C    C
+În munții nordului e sărbătoare.
+
+Castele de zăpadă ard în jocuri
+Și înverzesc în umbra țării brazii
+Carpații și-au aprins pe creste focuri
+Să vină– n Baia Mare montaniarzii.
+
+Refren:
+            F      G           Am
+Când vezi covor de frunze pe cărare
+        F    G         C
+Miroase a castane și a vin
+         F    G             Am
+E toamna la Șuior și-n Baia Mare
+F               G         C 
+E toamnă peste Arcul Carpatin.
+
+Și vezi pe Muntii Oașului călare
+Apare Pintea îmbracat în crai
+S-aducă țării sale salutare
+Țăranii îl înâmpină-n alai.
+
+Și dacă-avem cununi de dor pe frunte
+Și-n Maramureș astăzi ne scaldăm
+Chitarele să sune sus la munte
+Iar noi prietenia s-o cântăm.
+
+Refren x2
+```
+
+#### 81. Trenul dragostei
 
 **Costică David** · Sursa: Caiet Christian Adventure, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/costica-david/trenul-dragostei-3303)
 
-**Chitară:** G 320003 · Cadd9 x32030 · Am x02210 · Am7 x02010 · D7 xx0212 · C x32010 · D xx0232 · Bm x24432 · Em 022000 · E 022100 · Dsus4 xx0233
 
+**Chitară:** G 320003 · Cadd9 x32030 · Am x02210 · Am7 x02010 · D7 xx0212 · C x32010 · D xx0232 · Bm x24432 · Em 022000 · E 022100 · Dsus4 xx0233
 **Ukulele:** G 0232 · Cadd9 0203 · Am 2000 · Am7 0000 · D7 2223 · C 0003 · D 2220 · Bm 4222 · Em 0432 · E 4442 · Dsus4 0230
 
 ```text
@@ -4487,12 +4470,12 @@ Refren
 Un tren ce dragostea îl cere, un tren ce are-ntârziere an de an
 ```
 
-#### 83. Tropa trop
+#### 82. Tropa trop
 
 **Supa & Maria** · Sursa: Caiet Christian Adventure, p. 156
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -4550,12 +4533,12 @@ cântat
 Refren
 ```
 
-#### 84. Tropa trop spre cabană
+#### 83. Tropa trop spre cabană
 
 **Yoyo** · Sursa: Caiet Christian Adventure, p. 157 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/tropa-trop-spre-cabana-3847)
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -4603,12 +4586,12 @@ Un cântec și-o prietenie...
 Refren x2
 ```
 
-#### 85. Uiuiui brădui
+#### 84. Uiuiui brădui
 
 **Albatros** · Sursa: Caiet Christian Adventure, p. 161
 
-**Chitară:** A x02220 · E7 020100 · D xx0232
 
+**Chitară:** A x02220 · E7 020100 · D xx0232
 **Ukulele:** A 2100 · E7 1202 · D 2220
 
 ```text
@@ -4670,12 +4653,12 @@ Ca să te sărut cu dor, măi
 Trili lili lila
 ```
 
-#### 86. Ultima zi
+#### 85. Ultima zi
 
 Sursa: Caiet cabană RO, p. 46 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ultima-zi-5404)
 
-**Chitară:** Em 022000 · Am x02210 · B7 x21202
 
+**Chitară:** Em 022000 · Am x02210 · B7 x21202
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -4710,12 +4693,12 @@ Viața noastră-n doi va avea apoi
 Un târziu zadarnic happy end.
 ```
 
-#### 87. Un munte așternut
+#### 86. Un munte așternut
 
 **CALEnDAR** · Sursa: Caiet Christian Adventure, p. 165 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/calendar/un-munte-asternut-12346)
 
-**Chitară:** Bm x24432 · G 320003 · D xx0232 · A x02220
 
+**Chitară:** Bm x24432 · G 320003 · D xx0232 · A x02220
 **Ukulele:** Bm 4222 · G 0232 · D 2220 · A 2100
 
 ```text
@@ -4755,12 +4738,12 @@ Cioplim o amintire-n piatră
 Refren x2
 ```
 
-#### 88. Viață de haiduc
+#### 87. Viață de haiduc
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 168 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/viata-de-haiduc-6181)
 
-**Chitară:** Bm x24432 · A x02220 · Em 022000 · C x32010
 
+**Chitară:** Bm x24432 · A x02220 · Em 022000 · C x32010
 **Ukulele:** Bm 4222 · A 2100 · Em 0432 · C 0003
 
 ```text
@@ -4831,12 +4814,12 @@ S-aduc mama cailor
 Refren x2
 ```
 
-#### 89. Viață de vagabond
+#### 88. Viață de vagabond
 
 **Ursul Trubadur** · Sursa: Caiet Christian Adventure, p. 169 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/viata-de-vagabond-4049)
 
-**Chitară:** Dm xx0231 · C x32010 · A x02220
 
+**Chitară:** Dm xx0231 · C x32010 · A x02220
 **Ukulele:** Dm 2210 · C 0003 · A 2100
 
 ```text
@@ -4874,12 +4857,12 @@ Un copil făcut în pripă fără niciun fel de frică
 Refren
 ```
 
-#### 90. Vino, vino (I)
+#### 89. Vino, vino (I)
 
 Sursa: Cărticica Karban, p. 218
 
-**Chitară:** C x32010 · C7 x32310 · G7 320001 · G 320003 · F 133211
 
+**Chitară:** C x32010 · C7 x32310 · G7 320001 · G 320003 · F 133211
 **Ukulele:** C 0003 · C7 0001 · G7 0212 · G 0232 · F 2010
 
 ```text
@@ -4905,12 +4888,12 @@ Notă: o variantă simplificata poate fi cântata numai cu D în loc de C și C7
 A7 în loc de G7 și G în loc de F...
 ```
 
-#### 91. Visul (I)
+#### 90. Visul (I)
 
 **Cătălin Condreț** · Sursa: Caiet Christian Adventure, p. 173 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -4953,12 +4936,12 @@ Să dăinuiți pe veci.
 /Sa dăinuiți dirim diram dirariram, dirariararidam, ooo.../ x2
 ```
 
-#### 92. Visul (II)
+#### 91. Visul (II)
 
 variantă a cântecului „Visul” · Sursa: Caiet cabană RO, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -4990,12 +4973,12 @@ R:
 SĂ nu vă destrămați ușor ...
 ```
 
-#### 93. Visul (III)
+#### 92. Visul (III)
 
 alt cântec cu același titlu · Sursa: Caiet cabană RO, p. 129 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/visul-4088)
 
-**Chitară:** Em 022000 · C x32010 · Am x02210 · D xx0232 · G 320003
 
+**Chitară:** Em 022000 · C x32010 · Am x02210 · D xx0232 · G 320003
 **Ukulele:** Em 0432 · C 0003 · Am 2000 · D 2220 · G 0232
 
 ```text
@@ -5038,12 +5021,12 @@ CĂ mă-nsoțești în drumul meu pribeag
 Și te sărut al tău cu drag ... cu drag ...
 ```
 
-#### 94. Vulturul
+#### 93. Vulturul
 
 **Vârf Carpatin** · Sursa: Caiet Christian Adventure, p. 177 · Caiet cabană RO, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/varf-carpatin/vulturul-323)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · F 2010 · E 4442
 
 ```text
@@ -5085,12 +5068,12 @@ Refren x2 +
 
 ### I.2 — Naționaliste și de dor de țară
 
-#### 95. Avram Iancu
+#### 94. Avram Iancu
 
 **Vali Șerban** · Sursa: Caiet Christian Adventure, p. 18 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/avram-iancu-10369)
 
-**Chitară:** Am x02210 · G 320003 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · G 320003 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · G 0232 · E 4442 · Dm 2210
 
 ```text
@@ -5171,12 +5154,12 @@ Devine ARDEAL!
 Refren
 ```
 
-#### 96. Cântec de oameni
+#### 95. Cântec de oameni
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/Valeriu Sterian · Sursa: Cărticica Karban, p. 146
 
-**Chitară:** Am x02210 · C x32010 · G 320003
 
+**Chitară:** Am x02210 · C x32010 · G 320003
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
@@ -5201,12 +5184,12 @@ Ca [G]pâinea naște [Am]pâine
 Refren:
 ```
 
-#### 97. Colindul mâinilor truditoare
+#### 96. Colindul mâinilor truditoare
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 45 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/colindul-mainilor-truditoare-1927)
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -5233,12 +5216,12 @@ Semnul vostru e blazonul sfânt la mulți ani și soare
 Al puterii noastre pe pământ mâini nemuritoare.
 ```
 
-#### 98. Dacii liberi
+#### 97. Dacii liberi
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 54 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/dacii-liberi-2918)
 
-**Chitară:** Dm xx0231 · C x32010 · A x02220 · F 133211
 
+**Chitară:** Dm xx0231 · C x32010 · A x02220 · F 133211
 **Ukulele:** Dm 2210 · C 0003 · A 2100 · F 2010
 
 ```text
@@ -5302,12 +5285,12 @@ Strigăm că libertatea-i lucru sfânt
 Refren
 ```
 
-#### 99. Deșteaptă-te române (I)
+#### 98. Deșteaptă-te române (I)
 
 **Andrei Mureșan** · Sursa: Caiet Christian Adventure, p. 58
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · F 2010 · E 4442
 
 ```text
@@ -5375,12 +5358,12 @@ Murim mai bine-n luptă, cu glorie deplină,
 Decât să fim sclavi iarăşi în vechiul nost' pământ!
 ```
 
-#### 100. Deșteaptă-te române (II)
+#### 99. Deșteaptă-te române (II)
 
 **Andrei Mureșanu** · Sursa: Cărticica Karban, p. 188
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -5422,12 +5405,12 @@ Decât să fim sclavi iarăşi în vechiul nost' pământ!
 [E]Pe-al nostru scump pă[Am]mânt.
 ```
 
-#### 101. Dor de Eminescu
+#### 100. Dor de Eminescu
 
 Sursa: Caiet cabană RO, p. 50
 
-**Chitară:** G 320003 · A7 x02020 · D xx0232 · E 022100 · D7 xx0212 · A x02220
 
+**Chitară:** G 320003 · A7 x02020 · D xx0232 · E 022100 · D7 xx0212 · A x02220
 **Ukulele:** G 0232 · A7 0100 · D 2220 · E 4442 · D7 2223 · A 2100
 
 ```text
@@ -5455,12 +5438,12 @@ L-a-nfiat întreg Ardealul, Eminescu-i peste tot
 Eminescu-i România tăinuită în cuvânt.
 ```
 
-#### 102. Hai să-ntindem hora mare
+#### 101. Hai să-ntindem hora mare
 
 **popular** · Sursa: Cărticica Karban, p. 189
 
-**Chitară:** C x32010 · G 320003 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · Am x02210
 **Ukulele:** C 0003 · G 0232 · Am 2000
 
 ```text
@@ -5481,55 +5464,55 @@ Eminescu-i România tăinuită în cuvânt.
 [Am]A lu[C]ptat pen[G]tru u[C]nire și pentru [G]pământul [C]sfânt.
 ```
 
-#### 103. Hora unirii
+#### 102. Hora unirii
 
 Sursa: Cărticica Karban, p. 190
 
-**Chitară:** D xx0232 · A x02220
 
+**Chitară:** D xx0232 · A x02220
 **Ukulele:** D 2220 · A 2100
 
 ```text
-[D]Hai să dăm mâna cu mâna
-[A]Cei cu inima ro[D]mâna,
-Să'nvârtim hora frăției
-[A]Pe pământul Ro[D]mâniei.
-[D]Iarba rea din holde piară,
-[A]Piară dușmănia'n [D]tara,
-Între noi să nu mai fie,
-[A]Decât flori și vese[D]lie.
-[D]Mai Muntene, mai vecine,
-[A]Vino să te prinzi cu [D]mine,
-Și la viata cu unire,
-[A]Și la moarte cu'nfra[D]tire.
-[D]Unde-i unul nu-i putere,
-[A]La nevoi și la du[D]rere,
-Unde's doi puterea creste,
-[A]Și dușmanul nu spo[D]rește.
-[D]Amândoi suntem de-o mama,
-[A]De-o faptura și de-o [D]seama,
-Ca doi ochi dintr'o lumină,
-[A]Ca doi brazi dintr'o tul[D]pina.
-[D]Amândoi avem un nume,
-[A]Amândoi o soarta'n [D]lume.
-Eu ți's frate, tu mi-ești frate,
-[A]În noi doi un suflet [D]bate.
-[D]Vin'la Milcov cu grăbire,
-[A]Să-l secam dintr'o sor[D]bire,
-Ca să treacă drumul mare,
-[A]Peste-a noastre vechi ho[D]tare.
-[D]Și să vadă sfântul soare,
-[A]Într'o zi de sărbă[D]toare,
-Hora noastră cea frateasca,
-[A]Pe câmpia româ[D]neasca.
+[D]Hai să dăm mâna cu [A]mâna
+Cei cu inima ro[D]mâna,
+Să'nvârtim hora fră[A]ției
+Pe pământul Ro[D]mâniei.
+[D]Iarba rea din holde [A]piară,
+Piară dușmănia'n [D]tara,
+Între noi să nu mai [A]fie,
+Decât flori și vese[D]lie.
+[D]Mai Muntene, mai ve[A]cine,
+Vino să te prinzi cu [D]mine,
+Și la viata cu u[A]nire,
+Și la moarte cu'nfra[D]tire.
+[D]Unde-i unul nu-i pu[A]tere,
+La nevoi și la du[D]rere,
+Unde's doi puterea [A]creste,
+Și dușmanul nu spo[D]rește.
+[D]Amândoi suntem de-o [A]mamă,
+De-o faptura și de-o [D]seamă,
+Ca doi ochi dintr'o lu[A]mină,
+Ca doi brazi dintr'o tul[D]pină.
+[D]Amândoi avem un [A]nume,
+Amândoi o soartă'n [D]lume.
+Eu ți's frate, tu mi-ești [A]frate,
+În noi doi un suflet [D]bate.
+[D]Vin'la Milcov cu gră[A]bire,
+Să-l secam dintr'o sor[D]bire,
+Ca să treacă drumul [A]mare,
+Peste-a noastre vechi ho[D]tare.
+[D]Și să vadă sfântul [A]soare,
+Într'o zi de sărbă[D]toare,
+Hora noastră cea fră[A]țească,
+[A]Pe câmpia româ[D]nească.
 ```
 
-#### 104. Imnul golanilor
+#### 103. Imnul golanilor
 
 **Cristian Paturca** · muzica/versuri: Cristian Paturca/Laura Botolan · Sursa: Cărticica Karban, p. 115
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -5559,12 +5542,12 @@ Să [G]nu mai fie [C]cum a fost, mă[D]celul de a[G]tunci.
 Refren
 ```
 
-#### 105. În umbra marelui URSS
+#### 104. În umbra marelui URSS
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 91 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/in-umbra-marelui-urss-748)
 
-**Chitară:** Em 022000 · D xx0232 · Am x02210 · C x32010 · Bm x24432 · A x02220 · G 320003
 
+**Chitară:** Em 022000 · D xx0232 · Am x02210 · C x32010 · Bm x24432 · A x02220 · G 320003
 **Ukulele:** Em 0432 · D 2220 · Am 2000 · C 0003 · Bm 4222 · A 2100 · G 0232
 
 ```text
@@ -5643,12 +5626,12 @@ Dar ghearele v-au rămas
 Astăzi doare sărutul pe obraz/ x2
 ```
 
-#### 106. Întoarcerea țăranului
+#### 105. Întoarcerea țăranului
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Adrian Păunescu · Sursa: Cărticica Karban, p. 76
 
-**Chitară:** C x32010 · F 133211 · G7 320001 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G7 320001 · G 320003
 **Ukulele:** C 0003 · F 2010 · G7 0212 · G 0232
 
 ```text
@@ -5695,12 +5678,12 @@ prin tine tara va [G7]dură,
 că tu ai [F]palma cât o [C]tara
 ```
 
-#### 107. Jurământ la Putna
+#### 106. Jurământ la Putna
 
 Sursa: Caiet cabană RO, p. 50
 
-**Chitară:** C x32010 · G 320003 · F 133211 · G7 320001
 
+**Chitară:** C x32010 · G 320003 · F 133211 · G7 320001
 **Ukulele:** C 0003 · G 0232 · F 2010 · G7 0212
 
 ```text
@@ -5735,58 +5718,12 @@ Cu înnoită putere neamul întreg să tresară
 De la mormântul lui ștefan să ne rugăm pentru țară.
 ```
 
-#### 108. Toamna la șuior
-
-**Radu Pietreanu** · Sursa: Caiet Christian Adventure, p. 150
-
-**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
-
-**Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
-
-```text
-D                Bm
-Un bucium cheamă stins în Maramureș
-G               A             D  A
-Și codrii îi răspund din depărtare
-D                Bm
-Strămoșii vin doinind năvalnic iureș
-G               A         D
-În munții nordului e sărbătoare.
-
-Castele de zăpadă ard în jocuri
-Și înverzesc în umbra țării brazii
-Carpații și-au aprins pe creste focuri
-Să vină– n Baia Mare montaniarzii.
-
-Refren:
-             G      A           Bm
-Când vezi covor de frunze pe cărare
-G               A           D
-Miroase a castane și a vin
-G              A             Bm
-E toamna la șuior și-n Baia Mare
-G               A          D
-E toamnă peste Arcul Carpatin.
-
-Și vezi pe Muntii Oașului călare
-Apare Pintea îmbracat în crai
-S-aducă țării sale salutare
-Țăranii îl înâmpină-n alai.
-
-Și dacă-avem cununi de dor pe frunte
-Și-n Maramureș astăzi ne scaldăm
-Chitarele să sune sus la munte
-Iar noi prietenia s-o cântăm.
-
-Refren x2
-```
-
-#### 109. Treceți batalioane române Carpații (I)
+#### 107. Treceți batalioane române Carpații (I)
 
 Sursa: Cărticica Karban, p. 191
 
-**Chitară:** Am x02210 · Dm xx0231 · Dm7 xx0211 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · Dm7 xx0211 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · Dm7 2213 · E 4442
 
 ```text
@@ -5844,12 +5781,12 @@ cu[Am]lori.
 cu[Am]lori.
 ```
 
-#### 110. Treceți batalioane române Carpații (II)
+#### 108. Treceți batalioane române Carpații (II)
 
 Sursa: Cărticica Karban, p. 192
 
-**Chitară:** Am x02210 · Dm xx0231 · Em 022000
 
+**Chitară:** Am x02210 · Dm xx0231 · Em 022000
 **Ukulele:** Am 2000 · Dm 2210 · Em 0432
 
 ```text
@@ -5872,12 +5809,12 @@ De-o [Em]fi să ne-ngropăm de [Am]vii.
 Notă: O variantă simplă pentru începători și cu versurile originale.
 ```
 
-#### 111. Tricolorul
+#### 109. Tricolorul
 
 muzica/versuri: Ciprian Porumbescu/??? · Sursa: Cărticica Karban, p. 194
 
-**Chitară:** C x32010 · Am x02210 · G7 320001 · F 133211 · Dm xx0231
 
+**Chitară:** C x32010 · Am x02210 · G7 320001 · F 133211 · Dm xx0231
 **Ukulele:** C 0003 · Am 2000 · G7 0212 · F 2010 · Dm 2210
 
 ```text
@@ -5901,12 +5838,12 @@ Notă:Aici cu versurile în original.
 Păcat că anumite epoci au făcut din acest cântec frumos o amintire tristă.
 ```
 
-#### 112. Tron în Apuseni (I)
+#### 110. Tron în Apuseni (I)
 
 **Unde** · Sursa: Caiet Christian Adventure, p. 154 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/tron-in-apuseni-6561)
 
-**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · G 0232
 
 ```text
@@ -5962,12 +5899,12 @@ Aici in Carpați
 Refren x2
 ```
 
-#### 113. Tron în Apuseni (II)
+#### 111. Tron în Apuseni (II)
 
 **Vali Șerban** · Sursa: Caiet Christian Adventure, p. 155 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vali-serban/tron-in-apuseni-6561)
 
-**Chitară:** Bm x24432 · F# 244322 · G 320003 · A x02220 · D xx0232
 
+**Chitară:** Bm x24432 · F# 244322 · G 320003 · A x02220 · D xx0232
 **Ukulele:** Bm 4222 · F# 3121 · G 0232 · A 2100 · D 2220
 
 ```text
@@ -6047,12 +5984,12 @@ Dulce fâlfâit de tricolor
 Refren
 ```
 
-#### 114. Tu Ardeal
+#### 112. Tu Ardeal
 
 **Refren:** · Sursa: Cărticica Karban, p. 193
 
-**Chitară:** Am x02210 · C x32010 · G 320003
 
+**Chitară:** Am x02210 · C x32010 · G 320003
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
@@ -6086,12 +6023,12 @@ Imnul "Desteptati-va [Am]români".
 
 ### I.3 — Studențești, de chef și deocheate
 
-#### 115. Alcool
+#### 113. Alcool
 
 **Pasărea Colibri** · muzica/versuri: Ray Davies/The Kinks/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 102
 
-**Chitară:** Am x02210 · E 022100 · A x02220 · Dm xx0231 · E7 020100
 
+**Chitară:** Am x02210 · E 022100 · A x02220 · Dm xx0231 · E7 020100
 **Ukulele:** Am 2000 · E 4442 · A 2100 · Dm 2210 · E7 1202
 
 ```text
@@ -6134,12 +6071,12 @@ Dar [E7]banii când s-au [E]dus, l-a [E7]și lăsat [Am]prin [E7]șan[Am]țuri.
 [E7]Vai, ce păcat!
 ```
 
-#### 116. Alice
+#### 114. Alice
 
 muzica/versuri: Melodia "Living Net Door To Alice"/Smokie · Sursa: Cărticica Karban, p. 232
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -6166,12 +6103,12 @@ Bea [D]vodcă, fumează și [C]înjura de [G]sfinți...
 Mai [D]are un picior... o [C]mână și-[G]atât...
 ```
 
-#### 117. Apă de izvor
+#### 115. Apă de izvor
 
 **adaptat** · Sursa: Caiet Christian Adventure, p. 20
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -6259,12 +6196,12 @@ Fata popii cea mai mică
 Ca să scoată castronelul
 ```
 
-#### 118. Aproape de voi
+#### 116. Aproape de voi
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 21 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/aproape-de-voi-574)
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · C x32010 · G 320003
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100 · C x32010 · G 320003
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · C 0003 · G 0232
 
 ```text
@@ -6304,12 +6241,12 @@ Că mi va dat prieteni buni
 Refren x2
 ```
 
-#### 119. Așa beu oamenii buni
+#### 117. Așa beu oamenii buni
 
 **Popular din maramureș** · Sursa: Cărticica Karban, p. 195
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -6342,12 +6279,12 @@ Variantă studenteasca:
 [A]As în[D]vață [E]și eu [A]carte, [A]as în[E]vață [A]și eu carte.
 ```
 
-#### 120. Bade pălărie nouă
+#### 118. Bade pălărie nouă
 
 Sursa: Cărticica Karban, p. 202
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -6369,12 +6306,12 @@ Sursa: Cărticica Karban, p. 202
 [A]Să di ra di da di [D]ra
 ```
 
-#### 121. Bărbățelul
+#### 119. Bărbățelul
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 26
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -6431,12 +6368,12 @@ Mamă de ce m-ai măritat/x2
 Refren
 ```
 
-#### 122. Bing bang (I)
+#### 120. Bing bang (I)
 
 **Cântece Horror** · Sursa: Caiet cabană RO, p. 65
 
-**Chitară:** C x32010 · G 320003
 
+**Chitară:** C x32010 · G 320003
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -6469,12 +6406,12 @@ Tu m-ai mușcat , bing-bang
 Involuntar, bing-bang.
 ```
 
-#### 123. Bing bang (II)
+#### 121. Bing bang (II)
 
 Sursa: Cărticica Karban, p. 229
 
-**Chitară:** C x32010 · G 320003
 
+**Chitară:** C x32010 · G 320003
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -6497,12 +6434,12 @@ R:
 [C]Involun[G]tar, [C]bing-[G]bang.
 ```
 
-#### 124. Bosquito
+#### 122. Bosquito
 
 **Bosquito** · Sursa: Caiet Christian Adventure, p. 28 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/bosquito/bosquito-309)
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · E7 020100 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · E7 020100 · C x32010 · E 022100
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · E7 1202 · C 0003 · E 4442
 
 ```text
@@ -6543,7 +6480,7 @@ Așa că beau, beau, și-mi bag picioarele
 În tot ce ține de tranziție
 ```
 
-#### 125. Călugărul din vechiul schit
+#### 123. Călugărul din vechiul schit
 
 Sursa: Caiet cabană RO, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/calugarul-din-vechiul-schit-4740)
 
@@ -6572,12 +6509,12 @@ L-au plâns nebuni, l-au plâns sihaștrii
 Dar cel mai mult doi ochi albaștri.
 ```
 
-#### 126. Cana cu vin (I)
+#### 124. Cana cu vin (I)
 
 **Ecoul** · Sursa: Caiet cabană RO, p. 102
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -6619,12 +6556,12 @@ Mi-am pierdut și timpul
 Și tot nu m-ai iubit.
 ```
 
-#### 127. Cana cu vin (II)
+#### 125. Cana cu vin (II)
 
 **Ecoul** · muzica/versuri: Sorina Claudia Blaj/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 66
 
-**Chitară:** C x32010 · Csus4 x33011 · G 320003 · F 133211
 
+**Chitară:** C x32010 · Csus4 x33011 · G 320003 · F 133211
 **Ukulele:** C 0003 · Csus4 0013 · G 0232 · F 2010
 
 ```text
@@ -6663,12 +6600,12 @@ E||-----------------||
 exemplificat aici pentru acordul C.
 ```
 
-#### 128. Cântecul vacii
+#### 126. Cântecul vacii
 
 Sursa: Cărticica Karban, p. 238
 
-**Chitară:** Am x02210 · E 022100
 
+**Chitară:** Am x02210 · E 022100
 **Ukulele:** Am 2000 · E 4442
 
 ```text
@@ -6694,12 +6631,12 @@ Sursa: Cărticica Karban, p. 238
 [Am]Cât de tare-n stângă [E]mi-s, [Am]mai [E]doda [Am]mai...
 ```
 
-#### 129. Caravanele (I)
+#### 127. Caravanele (I)
 
 **populara?/traditonal?** · Sursa: Caiet cabană RO, p. 72
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -6742,12 +6679,12 @@ Câinii toți lătrau
 Și țigăncile dansau.
 ```
 
-#### 130. Caravanele (II)
+#### 128. Caravanele (II)
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 222
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -6788,12 +6725,12 @@ Refren:
 [D]Și ți[E]găncile dan[A]sau.
 ```
 
-#### 131. Carolina (I)
+#### 129. Carolina (I)
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 36 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/carolina-1237)
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -6868,12 +6805,12 @@ nu se-ndură
 Refren
 ```
 
-#### 132. Carolina (II)
+#### 130. Carolina (II)
 
 Sursa: Cărticica Karban, p. 213
 
-**Chitară:** C x32010 · G 320003 · G7 320001 · F 133211
 
+**Chitară:** C x32010 · G 320003 · G7 320001 · F 133211
 **Ukulele:** C 0003 · G 0232 · G7 0212 · F 2010
 
 ```text
@@ -6912,12 +6849,12 @@ Note:Fie care strofa se poate cânta de două ori. Așa poți face loc în cânt
 și la variantele de la strofe.
 ```
 
-#### 133. Cavaleri ai mesei rotunde (I)
+#### 131. Cavaleri ai mesei rotunde (I)
 
 Sursa: Cărticica Karban, p. 233
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -6960,12 +6897,12 @@ Notă:Ultimele trei versuri de la fiecare strofă au și rolul de refren și se
 repetă...
 ```
 
-#### 134. Cavaleri ai mesei rotunde (II)
+#### 132. Cavaleri ai mesei rotunde (II)
 
 Sursa: Cărticica Karban, p. 234
 
-**Chitară:** E 022100 · B7 x21202 · A x02220 · B x24442
 
+**Chitară:** E 022100 · B7 x21202 · A x02220 · B x24442
 **Ukulele:** E 4442 · B7 2322 · A 2100 · B 4322
 
 ```text
@@ -7016,12 +6953,12 @@ internațional.
 Personal prefer variantă transpusa de mine J
 ```
 
-#### 135. Ce facem cu studentul beat?
+#### 133. Ce facem cu studentul beat?
 
 muzica/versuri: Melodia: "What shall we do to the drunken sailor?" · Sursa: Cărticica Karban, p. 214
 
-**Chitară:** Dm xx0231 · C x32010 · Am x02210
 
+**Chitară:** Dm xx0231 · C x32010 · Am x02210
 **Ukulele:** Dm 2210 · C 0003 · Am 2000
 
 ```text
@@ -7057,12 +6994,12 @@ E||------------------------|------------------------|------------------------|--
 Exemplificat aici pentru acordurile Dm și C
 ```
 
-#### 136. Ce mult te-am iubit Paraschivo (I)
+#### 134. Ce mult te-am iubit Paraschivo (I)
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 44 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/ce-mult-te-am-iubit-paraschivo-4914)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -7130,12 +7067,12 @@ La braț cu alt gealan
 Și o sută de pumni iei în cap!
 ```
 
-#### 137. Ce mult te-am iubit Paraschivo (II)
+#### 135. Ce mult te-am iubit Paraschivo (II)
 
 Sursa: Cărticica Karban, p. 248
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -7165,12 +7102,12 @@ Tu [E]faci pe nasoala și [Am]pleci.
 Ți-aș [E]spune [No Chord]hai bâshti și-aș [Am]pleca.
 ```
 
-#### 138. Ce nasoala ești
+#### 136. Ce nasoala ești
 
 **Intro: E - A - E - B7 - A - E** · Sursa: Cărticica Karban, p. 237
 
-**Chitară:** E 022100 · E7 020100 · A x02220 · B7 x21202
 
+**Chitară:** E 022100 · E7 020100 · A x02220 · B7 x21202
 **Ukulele:** E 4442 · E7 1202 · A 2100 · B7 2322
 
 ```text
@@ -7199,12 +7136,12 @@ Partea dintre strofe am adăugat-o ca și trecere deși în original este pe
 versuri.
 ```
 
-#### 139. Ceata noastră (I)
+#### 137. Ceata noastră (I)
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 42
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -7267,12 +7204,12 @@ Le-a intrat o țeapă-n (ce mă?)...gleznă
 /Că era-ntuneric beznă./ x2
 ```
 
-#### 140. Ceata noastră (II)
+#### 138. Ceata noastră (II)
 
 Sursa: Cărticica Karban, p. 235
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -7326,12 +7263,12 @@ Le-a intrat o țeapă-n [A](ce mă?) ... glezna
 [A]Ca era-ntuneric [D]beznă.
 ```
 
-#### 141. Cine-i născut în...
+#### 139. Cine-i născut în...
 
 Sursa: Cărticica Karban, p. 196
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · D7 xx0212 · Em 022000
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · D7 xx0212 · Em 022000
 **Ukulele:** G 0232 · C 0003 · D 2220 · D7 2223 · Em 0432
 
 ```text
@@ -7353,12 +7290,12 @@ Iți [C]mulțu[D]mim fru[G]mos.
 [G]Și cine-o să se nască [C]iar, hai [D]sus, hai [D7]sus, hai [G]sus.
 ```
 
-#### 142. Copacul
+#### 140. Copacul
 
 **Necunoscut** · Sursa: Cărticica Karban, p. 252
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -7384,12 +7321,12 @@ Hei m-am [G]dus hei m-am [Em]dus să [C]beau un co[D]niac
 Refren
 ```
 
-#### 143. Copilița fără minte
+#### 141. Copilița fără minte
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 49 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/copilita-fara-minte-1441)
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -7459,7 +7396,7 @@ ahhh pe mine... )
 ahh s-a terminat... BINEEE)
 ```
 
-#### 144. Cu galeata în mână
+#### 142. Cu galeata în mână
 
 **Este unul din cântecele mele preferate dar destul de greu de explicat cum se** · muzica/versuri: Pe Maria or gasitu' · Sursa: Cărticica Karban, p. 242
 
@@ -7521,12 +7458,12 @@ Notă:Refrenul se poate "înfrumuseta" cu diferite versuri finale de la
 strofele următoare și poate fi cântat și pe mai multe voci J
 ```
 
-#### 145. Din prea mult sau prea puțin
+#### 143. Din prea mult sau prea puțin
 
 **Vasile Șeicaru** · Sursa: Caiet Christian Adventure, p. 59 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/din-prea-mult-sau-prea-putin-745)
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · Em 022000
 
+**Chitară:** D xx0232 · A x02220 · G 320003 · Em 022000
 **Ukulele:** D 2220 · A 2100 · G 0232 · Em 0432
 
 ```text
@@ -7583,12 +7520,12 @@ Prerefren
 Refren x2
 ```
 
-#### 146. Doi olteni
+#### 144. Doi olteni
 
 Sursa: Cărticica Karban, p. 240
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -7612,12 +7549,12 @@ Mai lăsați oltenii-n [Dm]paaceeeeeeee
 Că-s și [Am]alte [E]dobito[Am]ace
 ```
 
-#### 147. Doi olteni (variantă)
+#### 145. Doi olteni (variantă)
 
 Sursa: Cărticica Karban, p. 239
 
-**Chitară:** Cm x35543 · Gm 355333 · G 320003 · C x32010 · F 133211
 
+**Chitară:** Cm x35543 · Gm 355333 · G 320003 · C x32010 · F 133211
 **Ukulele:** Cm 0333 · Gm 0231 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -7642,12 +7579,12 @@ De aceea eu rămân la variantă mea.
 Pentru cei care știu acest cântec în aceasta forma, mai sus sunt acordurile.
 ```
 
-#### 148. Dragu-mii veselia
+#### 146. Dragu-mii veselia
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 44
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -7680,12 +7617,12 @@ Notă: Din nou foarte important ritmul melodiei precum și "timing"-ul!
 Referitor la timing după primul vers prinde bine o pauza J
 ```
 
-#### 149. Du-mă acasă mai tramvai
+#### 147. Du-mă acasă mai tramvai
 
 **tradițional** · Sursa: Cărticica Karban, p. 197
 
-**Chitară:** Dm xx0231 · Am x02210 · E 022100
 
+**Chitară:** Dm xx0231 · Am x02210 · E 022100
 **Ukulele:** Dm 2210 · Am 2000 · E 4442
 
 ```text
@@ -7732,12 +7669,12 @@ E||-----------------|-----------------|--0--------------|-----------------||
 ...exemplificat aici pentru primele două versuri.
 ```
 
-#### 150. Eu așa și ea așa
+#### 148. Eu așa și ea așa
 
 Sursa: Cărticica Karban, p. 240
 
-**Chitară:** D xx0232 · G 320003 · A7 x02020 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A7 x02020 · A x02220
 **Ukulele:** D 2220 · G 0232 · A7 0100 · A 2100
 
 ```text
@@ -7782,12 +7719,12 @@ inregistrarea e una de studio.
 A, să nu uit: în locul acordului A7 merge folosit și un A.
 ```
 
-#### 151. Felia
+#### 149. Felia
 
 Sursa: Caiet cabană RO, p. 64 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/felia-1650)
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -7828,12 +7765,12 @@ Gagicile să mă iubească
 Și toți nașii să mă cinstească.
 ```
 
-#### 152. Femei, femei
+#### 150. Femei, femei
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 75 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/femei-femei-2707)
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -7898,12 +7835,12 @@ De supărați și de-ncordați,
 Nu știti decât să vă-mbătați!
 ```
 
-#### 153. Fetița franceză
+#### 151. Fetița franceză
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fetita-franceza-5454)
 
-**Chitară:** C x32010 · G 320003
 
+**Chitară:** C x32010 · G 320003
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -7934,12 +7871,12 @@ A prins o turcoaică și-a tras-o de /flo...riola, floriola/ x2
 Vă spun poftă bună că merg să mă /ca...riola, cariola/ x2
 ```
 
-#### 154. Floare albă, floare neagră
+#### 152. Floare albă, floare neagră
 
 Sursa: Cărticica Karban, p. 228
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
 
 ```text
@@ -7971,12 +7908,12 @@ E||------------------------||
 de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
 ```
 
-#### 155. Gașca
+#### 153. Gașca
 
 Sursa: Caiet cabană RO, p. 66 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/gasca-1652)
 
-**Chitară:** Am x02210 · E 022100 · E7 020100 · C x32010 · Dm xx0231 · A7 x02020
 
+**Chitară:** Am x02210 · E 022100 · E7 020100 · C x32010 · Dm xx0231 · A7 x02020
 **Ukulele:** Am 2000 · E 4442 · E7 1202 · C 0003 · Dm 2210 · A7 0100
 
 ```text
@@ -8029,12 +7966,12 @@ Dar noi ne vom aduna
 Și astfel vom cânta:
 ```
 
-#### 156. Hora bețivilor
+#### 154. Hora bețivilor
 
 Sursa: Cărticica Karban, p. 245
 
-**Chitară:** D xx0232 · A x02220
 
+**Chitară:** D xx0232 · A x02220
 **Ukulele:** D 2220 · A 2100
 
 ```text
@@ -8048,12 +7985,12 @@ Unde-s doi puterea creste
 [A]Și butoiul se go[D]lește.
 ```
 
-#### 157. Imnul reșițenilor
+#### 155. Imnul reșițenilor
 
 **Beatles(Yelow submarine)** · Sursa: Cărticica Karban, p. 243
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · Am x02210 · D7 xx0212
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · Am x02210 · D7 xx0212
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · Am 2000 · D7 2223
 
 ```text
@@ -8080,12 +8017,12 @@ Cred oricum ca acest cântec avea mai multe strofe. Cine își mai amintește
 poate să mi le trimita...
 ```
 
-#### 158. În pădurea verde
+#### 156. În pădurea verde
 
 **Melodia este una de la un cântec destul de cunoscut din anii de grădiniță.** · Sursa: Cărticica Karban, p. 230
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -8113,12 +8050,12 @@ folosind următoarea prograsie de acorduri:
 s.a.m.d.
 ```
 
-#### 159. Inimă de țigancă (I)
+#### 157. Inimă de țigancă (I)
 
 **populara?/traditonal?** · Sursa: Caiet cabană RO, p. 67
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -8151,12 +8088,12 @@ Io amo, amo te, io canto, canto te
 Io sono la gitanna .
 ```
 
-#### 160. Inimă de țigancă (II)
+#### 158. Inimă de țigancă (II)
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 223
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -8206,12 +8143,12 @@ Notă: Acordul D poate fi înflorit la penultima bătaie cu o notă Ab și se
 prinde în acest caz după cum urmează: D = X X 0 2 3 4
 ```
 
-#### 161. Jean frizerul
+#### 159. Jean frizerul
 
 Sursa: Cărticica Karban, p. 231
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -8234,12 +8171,12 @@ Plangeau și caii de la [D]dricu,
 Plângea și ultimu [G]calicu.
 ```
 
-#### 162. Katiusa
+#### 160. Katiusa
 
 Sursa: Cărticica Karban, p. 246
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -8265,12 +8202,12 @@ Notă: se poate cântă cu un bass alternativ acelerând ritmul spre sfârșitul
 strofei și începând o strofa nouă cu un ritm mai lent
 ```
 
-#### 163. Katiusa (variantă)
+#### 161. Katiusa (variantă)
 
 **...ca și completare la Katiusa (prima variantă)** · Sursa: Cărticica Karban, p. 247
 
-**Chitară:** Em 022000 · B7 x21202 · G 320003 · C x32010 · Am x02210
 
+**Chitară:** Em 022000 · B7 x21202 · G 320003 · C x32010 · Am x02210
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · C 0003 · Am 2000
 
 ```text
@@ -8311,12 +8248,12 @@ Cântata din Em variațiunile sunt mai simplu de prins decât în versiunea mea
 (simplificata din Am).
 ```
 
-#### 164. M-am dus să tai un copac
+#### 162. M-am dus să tai un copac
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 99 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mihai-margineanu/m-am-dus-sa-tai-un-copac-3195)
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -8359,12 +8296,12 @@ Dă-te mă că cade,dă-te mă că cade
 Cade cade cade cade cade copacul
 ```
 
-#### 165. Mi-a zis mama că mi-o da
+#### 163. Mi-a zis mama că mi-o da
 
 **Tradițional** · Sursa: Cărticica Karban, p. 211
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -8394,12 +8331,12 @@ Cade cade cade cade cade copacul
 [D]Vă[A]leu [D]vă[A]leu [D]valeleu
 ```
 
-#### 166. O, mama
+#### 164. O, mama
 
 **Albatros** · Sursa: Caiet Christian Adventure, p. 118 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/o-mama-3011)
 
-**Chitară:** G 320003 · C x32010 · Am x02210 · F 133211
 
+**Chitară:** G 320003 · C x32010 · Am x02210 · F 133211
 **Ukulele:** G 0232 · C 0003 · Am 2000 · F 2010
 
 ```text
@@ -8456,12 +8393,12 @@ Să nu fie Doamne cu păcat
 Refren
 ```
 
-#### 167. Prietenii
+#### 165. Prietenii
 
 **Spitalul de urgenta** · muzica/versuri: Spitalul de urgenta/Spitalul de urgenta · Sursa: Cărticica Karban, p. 156
 
-**Chitară:** C x32010 · Dm xx0231 · G7 320001
 
+**Chitară:** C x32010 · Dm xx0231 · G7 320001
 **Ukulele:** C 0003 · Dm 2210 · G7 0212
 
 ```text
@@ -8495,12 +8432,12 @@ Solo
 Refren 2X
 ```
 
-#### 168. Puștoaică de liceu
+#### 166. Puștoaică de liceu
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 133 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/pustoaica-de-liceu-3091)
 
-**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232
 
 ```text
@@ -8546,12 +8483,12 @@ F G Fill C
 Tu ai 16 ani, iar eu am dublul tău.
 ```
 
-#### 169. Reclame
+#### 167. Reclame
 
 **Reclamele sunt mici cântecele care la susținerea unui "concert" se cântă** · Sursa: Cărticica Karban, p. 249
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -8675,12 +8612,12 @@ E sutienul pentru țâțe
 Bea la bar o Coca-Cola
 ```
 
-#### 170. S-o facem lată
+#### 168. S-o facem lată
 
 **Ștefan Banică** · Sursa: Caiet Christian Adventure, p. 141
 
-**Chitară:** E 022100 · A x02220 · Cm# x46654 · B x24442
 
+**Chitară:** E 022100 · A x02220 · Cm# x46654 · B x24442
 **Ukulele:** E 4442 · A 2100 · Cm# 1104 · B 4322
 
 ```text
@@ -8722,12 +8659,12 @@ Așa...
 Refren x3
 ```
 
-#### 171. Să nu uităm
+#### 169. Să nu uităm
 
 **???** · muzica/versuri: Melodia: "Să nu uităm să iubim trandafirii" · Sursa: Cărticica Karban, p. 216
 
-**Chitară:** Em 022000 · Am x02210 · B7 x21202
 
+**Chitară:** Em 022000 · Am x02210 · B7 x21202
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -8744,12 +8681,12 @@ amintesc...
 Dacă îți aduci aminte tu...vezi adresă de e-mail de mai sus.
 ```
 
-#### 172. Șatra (I)
+#### 170. Șatra (I)
 
 **populara?/traditonal?** · Sursa: Caiet cabană RO, p. 71
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
 
 ```text
@@ -8782,12 +8719,12 @@ Nu las eu țiganii mei
 Nici să-i dai tu mii de lei.
 ```
 
-#### 173. Șatra (II)
+#### 171. Șatra (II)
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 225
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · Dm 2210 · E 4442
 
 ```text
@@ -8839,12 +8776,12 @@ E||------------------------||
 de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
 ```
 
-#### 174. Și-alta dată
+#### 172. Și-alta dată
 
 Sursa: Cărticica Karban, p. 200
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -8864,12 +8801,12 @@ Sursa: Cărticica Karban, p. 200
 [C]Vinul [F]se bea, [G]se bea din pa[C]hare.
 ```
 
-#### 175. Sobița
+#### 173. Sobița
 
 **Mihai Mărgineanu** · Sursa: Caiet Christian Adventure, p. 140 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/sobita-2703)
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -8929,12 +8866,12 @@ Noroc că-s ghizi la BTT
 Refren x2
 ```
 
-#### 176. Suzana
+#### 174. Suzana
 
 **tradus de la Stephen Foster** · Sursa: Caiet Christian Adventure, p. 146
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -8985,12 +8922,12 @@ La noapte evadez
 Refren x3
 ```
 
-#### 177. Tango țigan
+#### 175. Tango țigan
 
 Sursa: Caiet cabană RO, p. 70
 
-**Chitară:** Em 022000 · C x32010 · D xx0232
 
+**Chitară:** Em 022000 · C x32010 · D xx0232
 **Ukulele:** Em 0432 · C 0003 · D 2220
 
 ```text
@@ -9041,12 +8978,12 @@ SĂ hoinăresc mereu mereu
 Adio, dregul meu.
 ```
 
-#### 178. Te-am cunoscut în troleibuz (I)
+#### 176. Te-am cunoscut în troleibuz (I)
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 149
 
-**Chitară:** C x32010 · C7 x32310 · F 133211 · Em7 020000 · A7 x02020 · Dm7 xx0211 · G7 320001 · G 320003
 
+**Chitară:** C x32010 · C7 x32310 · F 133211 · Em7 020000 · A7 x02020 · Dm7 xx0211 · G7 320001 · G 320003
 **Ukulele:** C 0003 · C7 0001 · F 2010 · Em7 0202 · A7 0100 · Dm7 2213 · G7 0212 · G 0232
 
 ```text
@@ -9105,12 +9042,12 @@ Venea miros urât.
 Refren
 ```
 
-#### 179. Te-am cunoscut în troleibuz (II)
+#### 177. Te-am cunoscut în troleibuz (II)
 
 **Intro:** · muzica/versuri: "Raindrops Keep Falling On My Head" · Sursa: Cărticica Karban, p. 253
 
-**Chitară:** C x32010 · G 320003 · F 133211 · C7 x32310 · Em7 020000 · A7 x02020 · Dm7 xx0211 · G7 320001
 
+**Chitară:** C x32010 · G 320003 · F 133211 · C7 x32310 · Em7 020000 · A7 x02020 · Dm7 xx0211 · G7 320001
 **Ukulele:** C 0003 · G 0232 · F 2010 · C7 0001 · Em7 0202 · A7 0100 · Dm7 2213 · G7 0212
 
 ```text
@@ -9138,12 +9075,12 @@ Mi-ai zâm[Em7]bit
 [G]Cred că m-am [F]îndrăgos[G]tit [Em7]=[A7]=[Dm7]=[G7/4]=[G7]
 ```
 
-#### 180. Țigăncușa (I)
+#### 178. Țigăncușa (I)
 
 **Romanegila** · Sursa: Caiet Christian Adventure, p. 160 · Caiet cabană RO, p. 69
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -9184,12 +9121,12 @@ A fugit cu alt țigan.../ x2
 Refren1 x2 + Refren2 x4
 ```
 
-#### 181. Țigăncușa (II)
+#### 179. Țigăncușa (II)
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 226
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · Em 022000 · A x02220
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · Em 022000 · A x02220
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · Em 0432 · A 2100
 
 ```text
@@ -9263,12 +9200,12 @@ exemplificat aici pentru primele patru strofe ale melodiei. Ultimele două se
 repetă J
 ```
 
-#### 182. Trăiască berea
+#### 180. Trăiască berea
 
 **Spitalul de urgenta** · muzica/versuri: Spitalul de urgenta · Sursa: Cărticica Karban, p. 157
 
-**Chitară:** Am x02210 · E7 020100 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · E7 020100 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · E7 1202 · Dm 2210 · E 4442
 
 ```text
@@ -9306,12 +9243,12 @@ Tot ți-o fura ci[Am]neva
 [E(I)]La televi[E(I)]zor
 ```
 
-#### 183. Trec țiganii
+#### 181. Trec țiganii
 
 **Autentic** · Sursa: Caiet Christian Adventure, p. 151 · Caiet cabană RO, p. 68
 
-**Chitară:** Am x02210 · E 022100 · E7 020100 · Dm xx0231 · A7 x02020 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · E7 020100 · Dm xx0231 · A7 x02020 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E 4442 · E7 1202 · Dm 2210 · A7 0100 · G 0232 · C 0003
 
 ```text
@@ -9374,12 +9311,12 @@ Al unui țigănuș
 Refren2 x2
 ```
 
-#### 184. Un elefant... (II)
+#### 182. Un elefant... (II)
 
 muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 217
 
-**Chitară:** D xx0232 · A7 x02020
 
+**Chitară:** D xx0232 · A7 x02020
 **Ukulele:** D 2220 · A7 0100
 
 ```text
@@ -9406,12 +9343,12 @@ altfel...
 Dacă cineva își aduce aminte îl rog să îmi scrie.
 ```
 
-#### 185. Un kil de rom
+#### 183. Un kil de rom
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 163 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/un-kil-de-rom-4307)
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -9469,12 +9406,12 @@ Am fost și eu tânăr candva, un kil de rom
 Refren
 ```
 
-#### 186. Vino, vino (II)
+#### 184. Vino, vino (II)
 
 Sursa: Cărticica Karban, p. 254
 
-**Chitară:** C x32010 · C7 x32310 · G7 320001 · F 133211
 
+**Chitară:** C x32010 · C7 x32310 · G7 320001 · F 133211
 **Ukulele:** C 0003 · C7 0001 · G7 0212 · F 2010
 
 ```text
@@ -9498,12 +9435,12 @@ Notă: o variantă simplificata poate fi cântata numai cu D în loc de C și C7
 A7 în loc de G7 și G în loc de F...
 ```
 
-#### 187. Zece negri mititei
+#### 185. Zece negri mititei
 
 muzica/versuri: din folclorul copiilor · Sursa: Cărticica Karban, p. 261
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -9556,12 +9493,12 @@ Notă: Măsura cântecului e 2/4
 
 ## Partea a II-a — Repertoriu românesc
 
-#### 188. 2000 de ani
+#### 186. 2000 de ani
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 66 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/2000-de-ani-241)
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Dm 2210
 
 ```text
@@ -9604,12 +9541,12 @@ Fără doar și poate ești a mea.
 Refren x2
 ```
 
-#### 189. 38
+#### 187. 38
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 162
 
-**Chitară:** G 320003 · C x32010 · F 133211
 
+**Chitară:** G 320003 · C x32010 · F 133211
 **Ukulele:** G 0232 · C 0003 · F 2010
 
 ```text
@@ -9648,12 +9585,12 @@ Pe mine [F]foarte
 Refren:
 ```
 
-#### 190. A ruginit frunza din vii
+#### 188. A ruginit frunza din vii
 
 **Versuri Artur Stavri/melodie populara** · Sursa: Cărticica Karban, p. 201
 
-**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
 
 ```text
@@ -9678,12 +9615,12 @@ Notă: Cântecul e în măsura 3/4. Deși se pot folosi și acordurile clasice e
 le recomand pe cele barate. Astfel:
 ```
 
-#### 191. Actorul
+#### 189. Actorul
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 39 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/actorul-499)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -9731,12 +9668,12 @@ I-au aruncat un fel de plată:
 "LĂsați-l dracu', e-un actor!"
 ```
 
-#### 192. Adelina
+#### 190. Adelina
 
 Sursa: Caiet cabană RO, p. 55 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/adelina-1605)
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003 · D xx0232
 
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003 · D xx0232
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232 · D 2220
 
 ```text
@@ -9764,12 +9701,12 @@ Din acea zi pentru mine totul s-a schimbat
 Adelina e cu mine, totul e minunat.
 ```
 
-#### 193. Adio, deci pe curând (I)
+#### 191. Adio, deci pe curând (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 11 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/adio-deci-pe-curand-1454)
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -9832,12 +9769,12 @@ Da, pe curând!
 Refren x4
 ```
 
-#### 194. Adio, deci pe curând (II)
+#### 192. Adio, deci pe curând (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 164
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -9880,12 +9817,12 @@ Da, pe curând!
 Refren
 ```
 
-#### 195. Ai venit
+#### 193. Ai venit
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 93
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -9917,12 +9854,12 @@ Ai venit și ai ple[G]cat [D]
 Refren 2X
 ```
 
-#### 196. Aiurit și aburit
+#### 194. Aiurit și aburit
 
 Sursa: Caiet cabană RO, p. 108
 
-**Chitară:** A x02220 · D xx0232 · E7 020100 · C x32010 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E7 020100 · C x32010 · E 022100
 **Ukulele:** A 2100 · D 2220 · E7 1202 · C 0003 · E 4442
 
 ```text
@@ -9950,12 +9887,12 @@ Le culegeam ca niște mere.
 Nici cu piciorul drept.
 ```
 
-#### 197. Alo! Ei a mea!
+#### 195. Alo! Ei a mea!
 
 **Pasărea Colibri** · muzica/versuri: în original: She Belongs to Me · Sursa: Cărticica Karban, p. 103
 
-**Chitară:** C x32010 · F 133211 · D xx0232
 
+**Chitară:** C x32010 · F 133211 · D xx0232
 **Ukulele:** C 0003 · F 2010 · D 2220
 
 ```text
@@ -10006,12 +9943,12 @@ s = șaisprezecime
 Celelalte loviri (nemarcate) se fac de jos în sus
 ```
 
-#### 198. Alte clipe trăite alt epilog
+#### 196. Alte clipe trăite alt epilog
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 163
 
-**Chitară:** F 133211 · Am x02210 · C x32010 · G 320003
 
+**Chitară:** F 133211 · Am x02210 · C x32010 · G 320003
 **Ukulele:** F 2010 · Am 2000 · C 0003 · G 0232
 
 ```text
@@ -10041,12 +9978,12 @@ Dacă [C]v-a făcut plă[Am]cere,
 "Pe cu[C]rând! La reve[G]dere!"
 ```
 
-#### 199. Alunelul
+#### 197. Alunelul
 
 Sursa: Cărticica Karban, p. 255
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -10065,12 +10002,12 @@ Sursa: Cărticica Karban, p. 255
 Notă: Măsura cântecului e 2/4
 ```
 
-#### 200. Am doar 18 ani
+#### 198. Am doar 18 ani
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 14
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Em 022000
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Em 022000
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432
 
 ```text
@@ -10143,12 +10080,12 @@ Visul meu îl trăiesc chiar acum
 Refren x2
 ```
 
-#### 201. Am nevoie de tine
+#### 199. Am nevoie de tine
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 59
 
-**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220 · D# xx1343 · Cm x35543 · G# 466544 · A# x13331
 
+**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220 · D# xx1343 · Cm x35543 · G# 466544 · A# x13331
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100 · D# 0331 · Cm 0333 · G# 5343 · A# 3211
 
 ```text
@@ -10185,12 +10122,12 @@ A||---------------------------------------------------------------||
 E||---------------------------------------------------------------||
 ```
 
-#### 202. Amintire de fum
+#### 200. Amintire de fum
 
 **Mădălina Amon** · Sursa: Caiet Christian Adventure, p. 16 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/madalina-amon/amintire-de-fum-7370)
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · E 022100
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · E 022100
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · E 4442
 
 ```text
@@ -10222,12 +10159,12 @@ Toate dorm mai adânc sub ninsori.
 Refren
 ```
 
-#### 203. Amintirea paradisului
+#### 201. Amintirea paradisului
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Cezar Ivanescu · Sursa: Cărticica Karban, p. 92
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -10253,12 +10190,12 @@ Notă: O piesa foarte frumoasă și simplă; cred că cei mai bătrâni și-o
 amintesc.
 ```
 
-#### 204. Amintiri
+#### 202. Amintiri
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 94
 
-**Chitară:** Em 022000 · D xx0232 · Am x02210 · B7 x21202 · G 320003 · Bm x24432
 
+**Chitară:** Em 022000 · D xx0232 · Am x02210 · B7 x21202 · G 320003 · Bm x24432
 **Ukulele:** Em 0432 · D 2220 · Am 2000 · B7 2322 · G 0232 · Bm 4222
 
 ```text
@@ -10289,12 +10226,12 @@ Refren
 [Am]Spala-ți pașii [B7]azi în bucu[Em]rie
 ```
 
-#### 205. Amorul cubist
+#### 203. Amorul cubist
 
 Sursa: Caiet cabană RO, p. 130
 
-**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232
 
+**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220
 
 ```text
@@ -10331,12 +10268,12 @@ S-o inventăm întreagă cât ești, cât mai exist
 Îmbracă-te aiurea și hai în mahalale.
 ```
 
-#### 206. Ana lui Manole
+#### 204. Ana lui Manole
 
 Sursa: Caiet cabană RO, p. 160
 
-**Chitară:** Am x02210 · G 320003 · Em 022000 · C x32010 · Dm xx0231
 
+**Chitară:** Am x02210 · G 320003 · Em 022000 · C x32010 · Dm xx0231
 **Ukulele:** Am 2000 · G 0232 · Em 0432 · C 0003 · Dm 2210
 
 ```text
@@ -10386,12 +10323,12 @@ Voi plecați către alt Rai
 Eu din zid abia vă mai aud.
 ```
 
-#### 207. Antiprimăvara
+#### 205. Antiprimăvara
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 38 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/antiprimavara-500)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · Cm x35543 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · Cm x35543 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · Cm 0333 · E 4442
 
 ```text
@@ -10437,12 +10374,12 @@ Ia-ți înflorirea, primăvară
 Și toți cocorii emigranți.
 ```
 
-#### 208. Anxietate
+#### 206. Anxietate
 
 **Valeriu Sterian** · Sursa: Caiet cabană RO, p. 147 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/anxietate-3681)
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -10477,12 +10414,12 @@ Bucuria din suflet să n-o alungi
 Mai încearcă să trăiești atât cât mai poți.
 ```
 
-#### 209. Aproape liniște (I)
+#### 207. Aproape liniște (I)
 
 **Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 13
 
-**Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · Adim/F# xx4545 · C x32010 · B7 x21202
 
+**Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · Adim/F# xx4545 · C x32010 · B7 x21202
 **Ukulele:** Em 0432 · B 4322 · G 0232 · Am 2000 · Adim7 2323 · Adim/F# 2323 · C 0003 · B7 2322
 
 ```text
@@ -10530,12 +10467,12 @@ succes... va vor trebui, evident, două chitare. Cum eu cânt de unul singur și
 doar pe chitara acustica, nu m-a preocupat ideea..J
 ```
 
-#### 210. Aproape liniște (II)
+#### 208. Aproape liniște (II)
 
 **Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 15
 
-**Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · F#dim7 xx4545 · C x32010 · B7 x21202 · Edim7 xx2323 · Ebdim7 xx1212
 
+**Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · F#dim7 xx4545 · C x32010 · B7 x21202 · Edim7 xx2323 · Ebdim7 xx1212
 **Ukulele:** Em 0432 · B 4322 · G 0232 · Am 2000 · Adim7 2323 · F#dim7 1212 · C 0003 · B7 2322 · Edim7 0101 · Ebdim7 2323
 
 ```text
@@ -10572,12 +10509,12 @@ Bridge
 Refren
 ```
 
-#### 211. Arsură (I)
+#### 209. Arsură (I)
 
 **Adrian Ivanițchi** · Sursa: Caiet cabană RO, p. 167
 
-**Chitară:** C x32010 · Em 022000 · G7 320001 · Dm xx0231 · F 133211 · G 320003 · Am x02210
 
+**Chitară:** C x32010 · Em 022000 · G7 320001 · Dm xx0231 · F 133211 · G 320003 · Am x02210
 **Ukulele:** C 0003 · Em 0432 · G7 0212 · Dm 2210 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -10611,12 +10548,12 @@ După ce se va fi stins toată în țărână
 Veți mai simți o arsură pe mână.
 ```
 
-#### 212. Arsură (II)
+#### 210. Arsură (II)
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 90
 
-**Chitară:** C x32010 · Dm xx0231 · F 133211 · Am x02210 · G 320003
 
+**Chitară:** C x32010 · Dm xx0231 · F 133211 · Am x02210 · G 320003
 **Ukulele:** C 0003 · Dm 2210 · F 2010 · Am 2000 · G 0232
 
 ```text
@@ -10640,12 +10577,12 @@ Ca [F]păsările mort voi cântă[G]rii mai greu decât [C]viu
 [F]Veți mai simți [G]o arsura pe [C]mâna.
 ```
 
-#### 213. Arsură (III)
+#### 211. Arsură (III)
 
 **Adrian Ivanițchi** · muzica/versuri: Adrian Ivanițchi/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 91
 
-**Chitară:** D xx0232 · A x02220 · Em 022000 · G 320003 · Bm x24432
 
+**Chitară:** D xx0232 · A x02220 · Em 022000 · G 320003 · Bm x24432
 **Ukulele:** D 2220 · A 2100 · Em 0432 · G 0232 · Bm 4222
 
 ```text
@@ -10678,12 +10615,12 @@ Ca [F]păsările mort voi cântă[G]rii mai greu decât [C]viu
 Note:O transcriere de notă 10+ J
 ```
 
-#### 214. Asta-s eu
+#### 212. Asta-s eu
 
 **Ștefan Banica jr.** · muzica/versuri: Ștefan Banica jr./??? · Sursa: Cărticica Karban, p. 29
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Am x02210 · B7 x21202 · Em 022000
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Am x02210 · B7 x21202 · Em 022000
 **Ukulele:** G 0232 · D 2220 · C 0003 · Am 2000 · B7 2322 · Em 0432
 
 ```text
@@ -10732,12 +10669,12 @@ Ce ți-a dat Dumnezeu
 "Frate, [D]asta-[C]s [G]eu!"
 ```
 
-#### 215. Astăzi și mâine
+#### 213. Astăzi și mâine
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 22 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/astazi-si-maine-146)
 
-**Chitară:** Dm xx0231 · E 022100 · Am x02210 · C x32010 · G 320003
 
+**Chitară:** Dm xx0231 · E 022100 · Am x02210 · C x32010 · G 320003
 **Ukulele:** Dm 2210 · E 4442 · Am 2000 · C 0003 · G 0232
 
 ```text
@@ -10780,12 +10717,12 @@ Tot ce-a fost s-a petrecut
 Refren
 ```
 
-#### 216. Atât de fragedă
+#### 214. Atât de fragedă
 
 **Mondial** · Sursa: Caiet Christian Adventure, p. 23 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/mondial/atat-de-frageda-987)
 
-**Chitară:** E 022100 · A x02220 · B x24442 · G# 466544
 
+**Chitară:** E 022100 · A x02220 · B x24442 · G# 466544
 **Ukulele:** E 4442 · A 2100 · B 4322 · G# 5343
 
 ```text
@@ -10850,12 +10787,12 @@ Unde te duci? Când o să vii?/ x2
 Unde te duci? Când o să vii?/ x2
 ```
 
-#### 217. Azi
+#### 215. Azi
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 179
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · B7 x21202
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · B7 x21202
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · B7 2322
 
 ```text
@@ -10878,12 +10815,12 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 218. Baby
+#### 216. Baby
 
 **Iris** · Sursa: Caiet Christian Adventure, p. 24 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/baby-375)
 
-**Chitară:** Am x02210 · Em 022000 · F 133211 · Dm xx0231 · G 320003 · Fm 133111 · C x32010 · Eb xx1343
 
+**Chitară:** Am x02210 · Em 022000 · F 133211 · Dm xx0231 · G 320003 · Fm 133111 · C x32010 · Eb xx1343
 **Ukulele:** Am 2000 · Em 0432 · F 2010 · Dm 2210 · G 0232 · Fm 1013 · C 0003 · Eb 0331
 
 ```text
@@ -10922,12 +10859,12 @@ Bridge: E toamnă-n viața mea, totul este scrum
 Refren x4
 ```
 
-#### 219. Balada blondelor iubiri
+#### 217. Balada blondelor iubiri
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 166 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/balada-blondelor-iubiri-1849)
 
-**Chitară:** C x32010 · F 133211 · G 320003 · B x24442
 
+**Chitară:** C x32010 · F 133211 · G 320003 · B x24442
 **Ukulele:** C 0003 · F 2010 · G 0232 · B 4322
 
 ```text
@@ -10976,12 +10913,12 @@ Sub fruntea mea se face noapte
 Ce stele ne-ar putea păzi.
 ```
 
-#### 220. Bat la poarta ta
+#### 218. Bat la poarta ta
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 25 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/bat-la-poarta-ta-3061)
 
-**Chitară:** Bm x24432 · G 320003 · D xx0232 · A x02220
 
+**Chitară:** Bm x24432 · G 320003 · D xx0232 · A x02220
 **Ukulele:** Bm 4222 · G 0232 · D 2220 · A 2100
 
 ```text
@@ -11016,12 +10953,12 @@ Ce bine-ar fi atunci să te ajute cineva.
 Refren
 ```
 
-#### 221. Bătălia s-a sfârșit, soldatul...
+#### 219. Bătălia s-a sfârșit, soldatul...
 
 Sursa: Caiet cabană RO, p. 107
 
-**Chitară:** Am x02210 · Am7 x02010 · Dm xx0231 · Dm7 xx0211 · G 320003 · C x32010 · E 022100 · E7 020100 · F 133211
 
+**Chitară:** Am x02210 · Am7 x02010 · Dm xx0231 · Dm7 xx0211 · G 320003 · C x32010 · E 022100 · E7 020100 · F 133211
 **Ukulele:** Am 2000 · Am7 0000 · Dm 2210 · Dm7 2213 · G 0232 · C 0003 · E 4442 · E7 1202 · F 2010
 
 ```text
@@ -11070,12 +11007,12 @@ Deasupra cerul gol și soarele
 Nici ochi să vadă, nici buze.
 ```
 
-#### 222. Biletul de tren
+#### 220. Biletul de tren
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 113 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/biletul-de-tren-5415)
 
-**Chitară:** Am x02210 · Dm xx0231 · E7 020100 · Em 022000 · B7 x21202
 
+**Chitară:** Am x02210 · Dm xx0231 · E7 020100 · Em 022000 · B7 x21202
 **Ukulele:** Am 2000 · Dm 2210 · E7 1202 · Em 0432 · B7 2322
 
 ```text
@@ -11118,12 +11055,12 @@ Luminați în jur c-o floare
 Și nu-mi dați nimic în schimb.
 ```
 
-#### 223. Boxerul
+#### 221. Boxerul
 
 **Pasărea Colibri** · muzica/versuri: Paul Simon/Paul Simon/trad. Florian Pittis · Sursa: Cărticica Karban, p. 104
 
-**Chitară:** C x32010 · Am x02210 · G 320003 · F 133211 · G7 320001
 
+**Chitară:** C x32010 · Am x02210 · G 320003 · F 133211 · G7 320001
 **Ukulele:** C 0003 · Am 2000 · G 0232 · F 2010 · G7 0212
 
 ```text
@@ -11171,12 +11108,12 @@ Dar ră[F]mâne pumnul [C]strâns lai lai [G]lai lai [F]lai lai [C]lai lai
 Refren:
 ```
 
-#### 224. Bunica
+#### 222. Bunica
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 95
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -11214,12 +11151,12 @@ Refren 2X +
 [G]Mă ierți bu[Em]nico [C]mă ie[D]rți
 ```
 
-#### 225. Ca o stea
+#### 223. Ca o stea
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/ca-o-stea-2655)
 
-**Chitară:** G 320003 · Am x02210 · F 133211 · C x32010 · Dm xx0231 · Em 022000
 
+**Chitară:** G 320003 · Am x02210 · F 133211 · C x32010 · Dm xx0231 · Em 022000
 **Ukulele:** G 0232 · Am 2000 · F 2010 · C 0003 · Dm 2210 · Em 0432
 
 ```text
@@ -11260,12 +11197,12 @@ Sau aripi să-mi creasca să zbor
 Refren x2
 ```
 
-#### 226. Caii liberi
+#### 224. Caii liberi
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 146 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/caii-liberi-1645)
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · Am x02210 · D7 xx0212 · B7 x21202
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · Am x02210 · D7 xx0212 · B7 x21202
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · Am 2000 · D7 2223 · B7 2322
 
 ```text
@@ -11313,12 +11250,12 @@ Caii liberi nu se vând
 Caii sunt un ideal.
 ```
 
-#### 227. Calul din Malboro
+#### 225. Calul din Malboro
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 35 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/calul-din-marlboro-520)
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -11347,12 +11284,12 @@ De-atuncea pân-acum în oraș eu rătăcesc
 E fum și este scrum și simt că-nebunesc
 ```
 
-#### 228. Canadiana
+#### 226. Canadiana
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 33 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/canadiana-1561)
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · Bm x24432
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · Bm x24432
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · Bm 4222
 
 ```text
@@ -11416,12 +11353,12 @@ Cu prefix de la Canada
 Refren Xn
 ```
 
-#### 229. Canarul (I)
+#### 227. Canarul (I)
 
 **Phoenix/Pasărea Colibri** · Sursa: Cărticica Karban, p. 117
 
-**Chitară:** C x32010 · Am7 x02010 · Am x02210 · Em7 020000 · F 133211 · Dm7 xx0211 · G 320003
 
+**Chitară:** C x32010 · Am7 x02010 · Am x02210 · Em7 020000 · F 133211 · Dm7 xx0211 · G 320003
 **Ukulele:** C 0003 · Am7 0000 · Am 2000 · Em7 0202 · F 2010 · Dm7 2213 · G 0232
 
 ```text
@@ -11445,12 +11382,12 @@ Refren Xn
 [C]Și viersu-i [Em7]se [F]pierdea în [C]vânt
 ```
 
-#### 230. Canarul (II)
+#### 228. Canarul (II)
 
 **Phoenix/Pasărea Colibri** · muzica/versuri: F. Bordeianu, N. Covaci/V. Suvagau · Sursa: Cărticica Karban, p. 118
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -11475,12 +11412,12 @@ Refren
 Notă:O variantă mai simplă a melodiei. Recomandata pentru începători J
 ```
 
-#### 231. Când s-o-mpărțit norocu'
+#### 229. Când s-o-mpărțit norocu'
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 75 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/cand-s-o-mpartit-norocu-299)
 
-**Chitară:** Am x02210 · E 022100
 
+**Chitară:** Am x02210 · E 022100
 **Ukulele:** Am 2000 · E 4442
 
 ```text
@@ -11525,12 +11462,12 @@ D'a mea parte norii bat.
 SĂ plec pe păduri cântând.
 ```
 
-#### 232. Când se lasă seara
+#### 230. Când se lasă seara
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Cărticica Karban, p. 165
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D7 xx0212 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D7 xx0212 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D7 2223 · D 2220
 
 ```text
@@ -11575,7 +11512,7 @@ Refren:
 Refren:
 ```
 
-#### 233. Cântec bătrânesc
+#### 231. Cântec bătrânesc
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 42
 
@@ -11600,12 +11537,12 @@ Păi c-așa-i viața omului, c-așa-i viața omului
 Ca și floarea câmpului, astăzi este pa mâini nu-i.
 ```
 
-#### 234. Cântec în noapte
+#### 232. Cântec în noapte
 
 **Unde** · Sursa: Caiet cabană RO, p. 149 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/unde/cantec-in-noapte-1614)
 
-**Chitară:** G 320003 · B7 x21202 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · B7 x21202 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · B7 2322 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -11635,12 +11572,12 @@ Greu se lasă, greu se lasă
 Dumnezeul pietrelor.
 ```
 
-#### 235. Cântec pentru Charlie Chaplin
+#### 233. Cântec pentru Charlie Chaplin
 
 **Victor Socaciu** · muzica/versuri: Victor Socaciu/? · Sursa: Cărticica Karban, p. 148
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -11677,12 +11614,12 @@ Refren
 Refren
 ```
 
-#### 236. Cântec pentru tine
+#### 234. Cântec pentru tine
 
 Sursa: Caiet cabană RO, p. 148 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/odyssey/cantec-pentru-tine-7966)
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003 · E 022100
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003 · E 022100
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232 · E 4442
 
 ```text
@@ -11736,12 +11673,12 @@ R:
 Niciodată, câteodată, soțul tău, uneori.
 ```
 
-#### 237. Cântec șoptit (I)
+#### 235. Cântec șoptit (I)
 
 **Poesis(Pasărea Colibri** · variantă a cântecului „Cântec șoptit”, cu titlul „Odată am ucis o vrabie...” · Sursa: Caiet cabană RO, p. 109
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -11774,12 +11711,12 @@ Soarele apune după niște mări
 Și răsare-n flăcări din mare.
 ```
 
-#### 238. Cântec șoptit (II)
+#### 236. Cântec șoptit (II)
 
 **Poesis(Pasărea Colibri** · muzica/versuri: Marius Bătu/Zaharia Stancu · Sursa: Cărticica Karban, p. 133
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -11803,12 +11740,12 @@ Soarele apune după niște mări
 [G]Și răsare-n [A]flăcări din [D]mare
 ```
 
-#### 239. Cântecul bufonului (I)
+#### 237. Cântecul bufonului (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/cantecul-bufonului-436)
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -11849,12 +11786,12 @@ Dacă v-au plăcut bufonii
 Mai poftiți și-n altă seară !
 ```
 
-#### 240. Cântecul bufonului (II)
+#### 238. Cântecul bufonului (II)
 
 **Dan Andrei Aldea/Pasărea Colibri** · muzica/versuri: Dan Andrei Aldea/W. Shakespeare trad. Mihnea Gheorghiu · Sursa: Cărticica Karban, p. 10
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -11882,12 +11819,12 @@ Notă: O forma simplificata de a cânta acest cântec este folosind doar cu
 acordul C la fiecare prim vers al strofelor.
 ```
 
-#### 241. Castelul
+#### 239. Castelul
 
 Sursa: Caiet cabană RO, p. 139 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/castelul-6640)
 
-**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · Am x02210
 
+**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · Am x02210
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220 · Am 2000
 
 ```text
@@ -11926,12 +11863,12 @@ Scăldată de ultimul brio
 Și "La revedere" și "Adio".
 ```
 
-#### 242. Casuta din pădure
+#### 240. Casuta din pădure
 
 muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
 
-**Chitară:** D xx0232 · A7 x02020 · G 320003
 
+**Chitară:** D xx0232 · A7 x02020 · G 320003
 **Ukulele:** D 2220 · A7 0100 · G 0232
 
 ```text
@@ -11970,12 +11907,12 @@ muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
 Notă: Măsura cântecului e 2/4
 ```
 
-#### 243. Ce de lupi se înconjoară
+#### 241. Ce de lupi se înconjoară
 
 **Pasărea Colibri** · muzica/versuri: Nicu Vladimir/Nicu Vladimir · Sursa: Cărticica Karban, p. 105
 
-**Chitară:** Em 022000 · G 320003 · C x32010 · F 133211
 
+**Chitară:** Em 022000 · G 320003 · C x32010 · F 133211
 **Ukulele:** Em 0432 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -12017,12 +11954,12 @@ Notă: Măsura cântecului e 2/4
 [F]Nu te-opri a[Em]cum, [F]nu te-opri a[Em]cum
 ```
 
-#### 244. Ceasornicarul (I)
+#### 242. Ceasornicarul (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 41 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/ceasornicarul-2977)
 
-**Chitară:** Dm xx0231 · G 320003 · C x32010 · Am x02210 · E 022100
 
+**Chitară:** Dm xx0231 · G 320003 · C x32010 · Am x02210 · E 022100
 **Ukulele:** Dm 2210 · G 0232 · C 0003 · Am 2000 · E 4442
 
 ```text
@@ -12077,12 +12014,12 @@ Tu ia-ti secunda fi vesnic prin ea
 Secunda-i mireasa ta
 ```
 
-#### 245. Ceasornicarul (II)
+#### 243. Ceasornicarul (II)
 
 **Mircea Baniciu** · Sursa: Cărticica Karban, p. 38
 
-**Chitară:** F 133211 · C x32010 · Am x02210 · Dm xx0231 · E 022100 · G 320003
 
+**Chitară:** F 133211 · C x32010 · Am x02210 · Dm xx0231 · E 022100 · G 320003
 **Ukulele:** F 2010 · C 0003 · Am 2000 · Dm 2210 · E 4442 · G 0232
 
 ```text
@@ -12121,12 +12058,12 @@ Refren:
 [E]Secunda-i mireasa [Am]ta
 ```
 
-#### 246. Cerbul
+#### 244. Cerbul
 
 **Craii Dianei** · Sursa: Caiet Christian Adventure, p. 45 · Caiet cabană RO, p. 162 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/cerbul-2694)
 
-**Chitară:** Bm x24432 · Em 022000 · A x02220
 
+**Chitară:** Bm x24432 · Em 022000 · A x02220
 **Ukulele:** Bm 4222 · Em 0432 · A 2100
 
 ```text
@@ -12210,12 +12147,12 @@ Milos și bun și iubitor
 Și de podoaba codrilor/ x2
 ```
 
-#### 247. Ciobănaș cu trei sute de oi
+#### 245. Ciobănaș cu trei sute de oi
 
 **Tradițional** · Sursa: Cărticica Karban, p. 203
 
-**Chitară:** C x32010 · G7 320001 · F 133211
 
+**Chitară:** C x32010 · G7 320001 · F 133211
 **Ukulele:** C 0003 · G7 0212 · F 2010
 
 ```text
@@ -12235,12 +12172,12 @@ Notă: Măsura 3/4. Cântecul e foarte simplu merge cântat și folosind o
 progresie D A7 C în locul celei D G7 F
 ```
 
-#### 248. Cireșarii
+#### 246. Cireșarii
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 152 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ciresarii-3702)
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322
 
 ```text
@@ -12273,12 +12210,12 @@ Cât aș vrea din nou să-mi semeni c-o oglindă uriașă
 Doar cireșii când îi scuturi ochii tăi, copilărie.
 ```
 
-#### 249. Cireșul
+#### 247. Cireșul
 
 Sursa: Caiet cabană RO, p. 62
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -12321,12 +12258,12 @@ Legalizată-n orice parlament
 Această conspirație în doi.
 ```
 
-#### 250. Ciuleandra
+#### 248. Ciuleandra
 
 Sursa: Cărticica Karban, p. 204
 
-**Chitară:** Am x02210 · E 022100 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · C x32010
 **Ukulele:** Am 2000 · E 4442 · C 0003
 
 ```text
@@ -12348,12 +12285,12 @@ Sursa: Cărticica Karban, p. 204
 [Am]La la la la [C]la [Am]hop [E]s-a[Am]șa!
 ```
 
-#### 251. Colo-n vale
+#### 249. Colo-n vale
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 47 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/colo-n-vale-3664)
 
-**Chitară:** Dm xx0231 · F 133211 · C x32010
 
+**Chitară:** Dm xx0231 · F 133211 · C x32010
 **Ukulele:** Dm 2210 · F 2010 · C 0003
 
 ```text
@@ -12405,12 +12342,12 @@ Drumul ți l-aș fereca
 Refren + Refren 2
 ```
 
-#### 252. Copacii fără pădure
+#### 250. Copacii fără pădure
 
 Sursa: Caiet cabană RO, p. 124
 
-**Chitară:** Dm xx0231 · A7 x02020 · F 133211 · C x32010 · Gm 355333
 
+**Chitară:** Dm xx0231 · A7 x02020 · F 133211 · C x32010 · Gm 355333
 **Ukulele:** Dm 2210 · A7 0100 · F 2010 · C 0003 · Gm 0231
 
 ```text
@@ -12458,12 +12395,12 @@ FĂră brațe cu ochii pustii
 N-am să am ce întinde spre tine.
 ```
 
-#### 253. Copacul îndrăgostit
+#### 251. Copacul îndrăgostit
 
 **Ștefan Hrușcă** · muzica/versuri: Un copac cu flori · Sursa: Cărticica Karban, p. 81
 
-**Chitară:** G 320003 · D xx0232 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · C x32010
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -12501,12 +12438,12 @@ Lasă-mi doar acest noroc
 Să-nflor[C]esc la poarta [G]ta
 ```
 
-#### 254. Corina
+#### 252. Corina
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 184
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -12538,12 +12475,12 @@ Poate [D]tu doar tu Co[G]rina. [Em]
 Refren
 ```
 
-#### 255. Cu tine în gând
+#### 253. Cu tine în gând
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 51
 
-**Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231 · F 133211 · Em 022000 · E 022100
 
+**Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231 · F 133211 · Em 022000 · E 022100
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Dm 2210 · F 2010 · Em 0432 · E 4442
 
 ```text
@@ -12611,12 +12548,12 @@ Mă trezesc, singur, din nou cu
 tine în gând
 ```
 
-#### 256. Cucul
+#### 254. Cucul
 
 Sursa: Cărticica Karban, p. 257
 
-**Chitară:** D xx0232 · A7 x02020
 
+**Chitară:** D xx0232 · A7 x02020
 **Ukulele:** D 2220 · A7 0100
 
 ```text
@@ -12647,12 +12584,12 @@ Cu-cu, cu-cu!
 Notă: Măsura cântecului e 3/4
 ```
 
-#### 257. Cucule pasăre grasă
+#### 255. Cucule pasăre grasă
 
 muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -12677,12 +12614,12 @@ muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
 Notă:Măsura cântecului e 3/4
 ```
 
-#### 258. Dacă ai ghici
+#### 256. Dacă ai ghici
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 137 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/daca-ai-ghici-1453)
 
-**Chitară:** C x32010 · Em 022000 · Am x02210 · G 320003 · F 133211
 
+**Chitară:** C x32010 · Em 022000 · Am x02210 · G 320003 · F 133211
 **Ukulele:** C 0003 · Em 0432 · Am 2000 · G 0232 · F 2010
 
 ```text
@@ -12731,12 +12668,12 @@ Puneți-l în păr
 Lângă o cunună de măr.
 ```
 
-#### 259. Dacă dragoste nu e...
+#### 257. Dacă dragoste nu e...
 
 Sursa: Caiet cabană RO, p. 132
 
-**Chitară:** Am x02210 · E 022100 · F 133211 · Dm xx0231 · G 320003 · C x32010 · A x02220
 
+**Chitară:** Am x02210 · E 022100 · F 133211 · Dm xx0231 · G 320003 · C x32010 · A x02220
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Dm 2210 · G 0232 · C 0003 · A 2100
 
 ```text
@@ -12780,12 +12717,12 @@ Luau duminici cu-mprumuturi
 SĂ le transforme în săruturi.
 ```
 
-#### 260. Dacă n-ai amintiri
+#### 258. Dacă n-ai amintiri
 
 **Anotimpul 5** · Sursa: Caiet Christian Adventure, p. 52 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/daca-n-ai-amintiri-3667)
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Dm 2210 · G 0232
 
 ```text
@@ -12826,12 +12763,12 @@ Dacă n-ai ars niciodată
 Refren x2
 ```
 
-#### 261. Dacă pleci
+#### 259. Dacă pleci
 
 **Cătălin Crișan** · Sursa: Caiet Christian Adventure, p. 53 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/catalin-crisan/daca-pleci-1004)
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -12862,12 +12799,12 @@ Nu te-aș ierta.
 Refren x2
 ```
 
-#### 262. Dacă vrei
+#### 260. Dacă vrei
 
 **Celelalte Cuvinte** · muzica/versuri: Marcel Breazu, Marcel Breazu · Sursa: Cărticica Karban, p. 56
 
-**Chitară:** G 320003 · D xx0232 · Am x02210 · Em 022000
 
+**Chitară:** G 320003 · D xx0232 · Am x02210 · Em 022000
 **Ukulele:** G 0232 · D 2220 · Am 2000 · Em 0432
 
 ```text
@@ -12892,12 +12829,12 @@ Refren x2
 [D]lasă-mă să [Am]cânt[G]...
 ```
 
-#### 263. Dacă vrei să pleci
+#### 261. Dacă vrei să pleci
 
 Sursa: Caiet cabană RO, p. 125 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/daca-vrei-sa-pleci-5416)
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -12934,12 +12871,12 @@ MĂ zbat acum și tu-mi vei răspunde
 Cu-acea privire ne-nțeleasă.
 ```
 
-#### 264. Dans
+#### 262. Dans
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/??? · Sursa: Cărticica Karban, p. 43
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -12966,12 +12903,12 @@ Refren:
 [F]În nisip scrâsnita, lasă [G]remuș[C]care.
 ```
 
-#### 265. Dansul codrilor
+#### 263. Dansul codrilor
 
 **Phoenix** · Sursa: Cărticica Karban, p. 132
 
-**Chitară:** Em 022000 · D xx0232
 
+**Chitară:** Em 022000 · D xx0232
 **Ukulele:** Em 0432 · D 2220
 
 ```text
@@ -12990,12 +12927,12 @@ He Heeee
 [Em]Zeci de [D]umbre [Em]negre.
 ```
 
-#### 266. De ce
+#### 264. De ce
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 186
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -13019,12 +12956,12 @@ De [C]ce, de [Am]ce
 De [C]ce.
 ```
 
-#### 267. De ce?
+#### 265. De ce?
 
 Sursa: Caiet cabană RO, p. 157 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/de-ce-2931)
 
-**Chitară:** G 320003 · D xx0232 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · C x32010
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -13052,12 +12989,12 @@ De ce pe stradă oriunde mergând?
 De ce îmi stai mereu în gând?
 ```
 
-#### 268. De-ar fi mândra-n deal la cruce
+#### 266. De-ar fi mândra-n deal la cruce
 
 Sursa: Cărticica Karban, p. 205
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -13091,12 +13028,12 @@ Sursa: Cărticica Karban, p. 205
 [D]Scrisa cu la[A]crimi de-a mele, [E]la, la, la, [A]la.
 ```
 
-#### 269. Dealul cu dor
+#### 267. Dealul cu dor
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 30
 
-**Chitară:** C x32010 · G 320003 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · Am x02210
 **Ukulele:** C 0003 · G 0232 · Am 2000
 
 ```text
@@ -13128,12 +13065,12 @@ Refren:
 Refren:
 ```
 
-#### 270. Deku
+#### 268. Deku
 
 **ROA** · Sursa: Caiet Christian Adventure, p. 57
 
-**Chitară:** Am x02210 · G 320003 · F 133211 · C x32010
 
+**Chitară:** Am x02210 · G 320003 · F 133211 · C x32010
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003
 
 ```text
@@ -13168,12 +13105,12 @@ Luna pe cer i-adună..
 Refren x2
 ```
 
-#### 271. Delir
+#### 269. Delir
 
 Sursa: Caiet cabană RO, p. 53
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -13211,12 +13148,12 @@ Obrazul și-n vis ți-l văd delirând
 Iar tu in visare nu vezi decât alta.
 ```
 
-#### 272. Delirul
+#### 270. Delirul
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 56 · Caiet cabană RO, p. 60 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/delirul-672)
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -13274,12 +13211,12 @@ Te-aștept să te întorci mereu.
 Refren x2
 ```
 
-#### 273. Departe
+#### 271. Departe
 
 **Hara** · muzica/versuri: Tudor Runcanu/Tudor Runcanu · Sursa: Cărticica Karban, p. 72
 
-**Chitară:** D xx0232 · A x02220 · Em 022000 · G 320003 · Bm x24432
 
+**Chitară:** D xx0232 · A x02220 · Em 022000 · G 320003 · Bm x24432
 **Ukulele:** D 2220 · A 2100 · Em 0432 · G 0232 · Bm 4222
 
 ```text
@@ -13308,12 +13245,12 @@ trucuri la intro și pe la mijloc dar poate ca astea nu sunt neapărat
 necesare.
 ```
 
-#### 274. Dintr-o cafea (I)
+#### 272. Dintr-o cafea (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 60 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/dintr-o-cafea-1394)
 
-**Chitară:** Am x02210 · Em 022000 · F 133211 · C x32010 · G 320003 · Dm xx0231 · D xx0232
 
+**Chitară:** Am x02210 · Em 022000 · F 133211 · C x32010 · G 320003 · Dm xx0231 · D xx0232
 **Ukulele:** Am 2000 · Em 0432 · F 2010 · C 0003 · G 0232 · Dm 2210 · D 2220
 
 ```text
@@ -13368,12 +13305,12 @@ Clanța-n mâna dreaptă mi-a rămas.
 Refren
 ```
 
-#### 275. Dintr-o cafea (II)
+#### 273. Dintr-o cafea (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 166
 
-**Chitară:** Em 022000 · Am x02210 · G 320003 · C x32010 · A7 x02020
 
+**Chitară:** Em 022000 · Am x02210 · G 320003 · C x32010 · A7 x02020
 **Ukulele:** Em 0432 · Am 2000 · G 0232 · C 0003 · A7 0100
 
 ```text
@@ -13405,12 +13342,12 @@ Cu[Am]reaua,
 Refren:
 ```
 
-#### 276. Dintre sute de catarge
+#### 274. Dintre sute de catarge
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 134
 
-**Chitară:** Am x02210 · E 022100 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -13432,12 +13369,12 @@ Refren:
 [Am]Valurile, [E]vânturi[Am]le.
 ```
 
-#### 277. Doi ochi căprui
+#### 275. Doi ochi căprui
 
 **Bmby** · alt titlu: „Ochii căprui” · Sursa: Caiet Christian Adventure, p. 61 · Caiet cabană RO, p. 54
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -13481,12 +13418,12 @@ Iar eu ca-ntotdeauna îi credeam
 Refren
 ```
 
-#### 278. Dona, dona (I)
+#### 276. Dona, dona (I)
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 145
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010 · Em 022000
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010 · Em 022000
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003 · Em 0432
 
 ```text
@@ -13524,12 +13461,12 @@ De ce n-ai ca rândunica
 Aripi ca zborul să-l înveți.
 ```
 
-#### 279. Dona, dona (II)
+#### 277. Dona, dona (II)
 
 **Victor Socaciu** · muzica/versuri: Sholom Secunda/Sholom Secunda/trad. ? · Sursa: Cărticica Karban, p. 149
 
-**Chitară:** Am x02210 · E7 020100 · Dm xx0231 · E 022100 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E7 020100 · Dm xx0231 · E 022100 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E7 1202 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -13562,12 +13499,12 @@ urmatoarul model:
 ------------
 ```
 
-#### 280. Dorul
+#### 278. Dorul
 
 **Aurelian Andreescu** · muzica/versuri: ???/??? · Sursa: Cărticica Karban, p. 23
 
-**Chitară:** D xx0232 · G 320003 · E 022100 · E7 020100 · Gm 355333 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · E 022100 · E7 020100 · Gm 355333 · A x02220
 **Ukulele:** D 2220 · G 0232 · E 4442 · E7 1202 · Gm 0231 · A 2100
 
 ```text
@@ -13602,12 +13539,12 @@ Bridge
 Refren
 ```
 
-#### 281. Dracula blues
+#### 279. Dracula blues
 
 **Alexandru Andrieș** · muzica/versuri: Alexandru Andrieș/Alexandru Andrieș · Sursa: Cărticica Karban, p. 25
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -13650,12 +13587,12 @@ Dacă îți place o forma mai "rock" poți folosi și acordurile A5, D5(în pozi
 a 5-a) și E5(în poziția a 7-a)...vezi punctul de "powerchords"...
 ```
 
-#### 282. Dragă Otee
+#### 280. Dragă Otee
 
 **Zdub&Zdob** · muzica/versuri: Zdub&Zdob/Zdub&Zdob · Sursa: Cărticica Karban, p. 178
 
-**Chitară:** Em 022000 · C x32010 · D7 xx0212 · G 320003 · Am x02210 · B7 x21202 · D xx0232
 
+**Chitară:** Em 022000 · C x32010 · D7 xx0212 · G 320003 · Am x02210 · B7 x21202 · D xx0232
 **Ukulele:** Em 0432 · C 0003 · D7 2223 · G 0232 · Am 2000 · B7 2322 · D 2220
 
 ```text
@@ -13701,12 +13638,12 @@ Melodie transpusa în Em (din C#m cred)
 Legenda tab: O-optime; P-pătrime; S-șaisprezecime
 ```
 
-#### 283. Dragoste în fân (I)
+#### 281. Dragoste în fân (I)
 
 **Dragoș Bălan** · Sursa: Caiet Christian Adventure, p. 67
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · E7 020100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · E7 020100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · E7 1202
 
 ```text
@@ -13752,12 +13689,12 @@ Privindu-te în luciul blând de coasă
 Refren
 ```
 
-#### 284. Dragoste în fân (II)
+#### 282. Dragoste în fân (II)
 
 variantă a cântecului „Dragoste în fân”, cu titlul „La strâns de fân” · Sursa: Caiet cabană RO, p. 26
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -13801,12 +13738,12 @@ Am Dm
 E Am
 ```
 
-#### 285. Dragostea cu patru foi
+#### 283. Dragostea cu patru foi
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/Dan Verona · Sursa: Cărticica Karban, p. 138
 
-**Chitară:** D xx0232 · F#m 244222 · Bm x24432 · Em 022000 · A x02220 · Fm 133111 · D7 xx0212 · G 320003 · Gm 355333
 
+**Chitară:** D xx0232 · F#m 244222 · Bm x24432 · Em 022000 · A x02220 · Fm 133111 · D7 xx0212 · G 320003 · Gm 355333
 **Ukulele:** D 2220 · F#m 2120 · Bm 4222 · Em 0432 · A 2100 · Fm 1013 · D7 2223 · G 0232 · Gm 0231
 
 ```text
@@ -13831,12 +13768,12 @@ Refren:
 Refren
 ```
 
-#### 286. Dragostea e o salata
+#### 284. Dragostea e o salata
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Horia Stoicanu/Horia Stoicanu · Sursa: Cărticica Karban, p. 167
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · D7 xx0212 · Em 022000 · D xx0232 · Dm xx0231
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · D7 xx0212 · Em 022000 · D xx0232 · Dm xx0231
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · D7 2223 · Em 0432 · D 2220 · Dm 2210
 
 ```text
@@ -13864,12 +13801,12 @@ Iar [Am]fetele, [Am]dragă, [Dm]fetele, [Dm]oh
 [F]Și mă înva[G]ță iar și [C]iar [G]ca...
 ```
 
-#### 287. Dragostea pasarii
+#### 285. Dragostea pasarii
 
 **Mircea Bodolan** · muzica/versuri: Mircea Bodolan/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 52
 
-**Chitară:** G 320003 · C x32010 · Em 022000 · Am x02210 · D xx0232 · Em/B x22000
 
+**Chitară:** G 320003 · C x32010 · Em 022000 · Am x02210 · D xx0232 · Em/B x22000
 **Ukulele:** G 0232 · C 0003 · Em 0432 · Am 2000 · D 2220 · Em/B 0432
 
 ```text
@@ -13921,12 +13858,12 @@ C       Em/B    Am     G
 |-------------------------3----------|
 ```
 
-#### 288. După pui de moroșan
+#### 286. După pui de moroșan
 
 **Popular din maramureș** · Sursa: Cărticica Karban, p. 208
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -13979,12 +13916,12 @@ C       Em/B    Am     G
 [D]Hai țurai, ta!
 ```
 
-#### 289. Emoție de toamnă (I)
+#### 287. Emoție de toamnă (I)
 
 **Nicu Alifantis** · Sursa: Caiet Christian Adventure, p. 68 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/emotie-de-toamna-3223)
 
-**Chitară:** G7 320001 · C7 x32310 · E 022100 · Am x02210 · Dm7 xx0211
 
+**Chitară:** G7 320001 · C7 x32310 · E 022100 · Am x02210 · Dm7 xx0211
 **Ukulele:** G7 0212 · C7 0001 · E 4442 · Am 2000 · Dm7 2213
 
 ```text
@@ -14019,12 +13956,12 @@ Refren
 Strofa 2
 ```
 
-#### 290. Emoție de toamnă (II)
+#### 288. Emoție de toamnă (II)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Nichita Stanescu · Sursa: Cărticica Karban, p. 17
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · G7 320001
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · G7 320001
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · G7 0212
 
 ```text
@@ -14047,12 +13984,12 @@ Strofa 2
 Notă: Strofele se repetă o dată în aceeași ordine.
 ```
 
-#### 291. Emoție de toamnă (III)
+#### 289. Emoție de toamnă (III)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Nichita Stanescu · Sursa: Cărticica Karban, p. 18
 
-**Chitară:** Dm7 xx0211 · G7 320001 · Cmaj7 x32000 · Fmaj7 xx3210 · Dm/B x20231 · E7 020100 · E+5 xx2323 · Am x02210
 
+**Chitară:** Dm7 xx0211 · G7 320001 · Cmaj7 x32000 · Fmaj7 xx3210 · Dm/B x20231 · E7 020100 · E+5 xx2323 · Am x02210
 **Ukulele:** Dm7 2213 · G7 0212 · Cmaj7 0002 · Fmaj7 2413 · Dm/B 2210 · E7 1202 · E+5 1003 · Am 2000
 
 ```text
@@ -14083,12 +14020,12 @@ A||----------------||
 E||----------------||
 ```
 
-#### 292. Epilog
+#### 290. Epilog
 
 Sursa: Caiet cabană RO, p. 59 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/epilog-658)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -14117,12 +14054,12 @@ Peste valuri călător
 Prada moartă-n gheare...
 ```
 
-#### 293. Era Vasile om frumos
+#### 291. Era Vasile om frumos
 
 **Ada Milea** · muzica/versuri: Ada Milea/Ada Milea · Sursa: Cărticica Karban, p. 99
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -14150,12 +14087,12 @@ A           D           E
 -----------|-----------|-0---------|
 ```
 
-#### 294. Esarfa în dar
+#### 292. Esarfa în dar
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Victor Carcu · Sursa: Cărticica Karban, p. 31
 
-**Chitară:** D xx0232 · Bm x24432 · F#m 244222 · Em 022000 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · Bm x24432 · F#m 244222 · Em 022000 · A x02220 · G 320003
 **Ukulele:** D 2220 · Bm 4222 · F#m 2120 · Em 0432 · A 2100 · G 0232
 
 ```text
@@ -14197,12 +14134,12 @@ Pe chipul tău [Em]drag,
 Notă: Pentru tonalitatea originala folosește capo în poziția a 2-a.
 ```
 
-#### 295. Ești așa frumoasă
+#### 293. Ești așa frumoasă
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 69
 
-**Chitară:** A x02220 · G 320003 · D xx0232 · Bm x24432 · Em 022000
 
+**Chitară:** A x02220 · G 320003 · D xx0232 · Bm x24432 · Em 022000
 **Ukulele:** A 2100 · G 0232 · D 2220 · Bm 4222 · Em 0432
 
 ```text
@@ -14247,12 +14184,12 @@ Esti așa frumoasă și dacă m-ai iubi, aș atinge luna
 Ești așa frumoasă și ne-am iubi o viață într-o zi
 ```
 
-#### 296. Fata din vis
+#### 294. Fata din vis
 
 **Compact** · Sursa: Caiet Christian Adventure, p. 73 · Caiet cabană RO, p. 99 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/fata-din-vis-603)
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · Bm x24432
 
+**Chitară:** D xx0232 · A x02220 · G 320003 · Bm x24432
 **Ukulele:** D 2220 · A 2100 · G 0232 · Bm 4222
 
 ```text
@@ -14301,12 +14238,12 @@ Dacă vrei, dacă vrei
 Voi sta lânga tine.
 ```
 
-#### 297. Fata morgană
+#### 295. Fata morgană
 
 Sursa: Caiet cabană RO, p. 156 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/fata-morgana-2222)
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · E 022100 · A x02220
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · E 022100 · A x02220
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Dm 2210 · E 4442 · A 2100
 
 ```text
@@ -14341,12 +14278,12 @@ De-atunci eu stau la fereastră, bentița roșie-o aștept
 Ea vine-odată cu fata ce-aduce soarele-n piept.
 ```
 
-#### 298. Floarea
+#### 296. Floarea
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 180
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003
 **Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232
 
 ```text
@@ -14387,12 +14324,12 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 299. Fluier în cer
+#### 297. Fluier în cer
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 79 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fluier-in-cer-812)
 
-**Chitară:** Am x02210 · F 133211 · G 320003 · C x32010 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · F 133211 · G 320003 · C x32010 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · F 2010 · G 0232 · C 0003 · E 4442 · Dm 2210
 
 ```text
@@ -14436,12 +14373,12 @@ Lumea se limpezea, se auzea,
 Cum bătea, inima.
 ```
 
-#### 300. Focul vânăt (I)
+#### 298. Focul vânăt (I)
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 168 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/focul-vanat-8740)
 
-**Chitară:** Am x02210 · E7 020100 · G7 320001 · C x32010 · Dm xx0231 · G 320003
 
+**Chitară:** Am x02210 · E7 020100 · G7 320001 · C x32010 · Dm xx0231 · G 320003
 **Ukulele:** Am 2000 · E7 1202 · G7 0212 · C 0003 · Dm 2210 · G 0232
 
 ```text
@@ -14486,12 +14423,12 @@ De iubire întâia oară cânt
 La scandal renunț întâia oară.
 ```
 
-#### 301. Focul vânăt (II)
+#### 299. Focul vânăt (II)
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Serghei Esenin/Trad.??? · Sursa: Cărticica Karban, p. 46
 
-**Chitară:** Em 022000 · B7 x21202 · D xx0232 · G 320003 · Am x02210
 
+**Chitară:** Em 022000 · B7 x21202 · D xx0232 · G 320003 · Am x02210
 **Ukulele:** Em 0432 · B7 2322 · D 2220 · G 0232 · Am 2000
 
 ```text
@@ -14521,12 +14458,12 @@ La scandal renunț întâia oară.
 [Em]La scandal re[B7]nunț intaia [Em]oară
 ```
 
-#### 302. Focuri vii
+#### 300. Focuri vii
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/focuri-vii-3204)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -14560,12 +14497,12 @@ Pe pământu-mi liber din izvor ceresc
 Refren
 ```
 
-#### 303. Fostele iubiri
+#### 301. Fostele iubiri
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Gheorghe Țărnea · Sursa: Cărticica Karban, p. 82
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · A7 x02020
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · A7 x02020
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · A7 0100
 
 ```text
@@ -14601,12 +14538,12 @@ Păream pe [Am]veci înlănțuiți
 Fără să [E]credem ca iubirea nu ne [Am]vrea. [A7]
 ```
 
-#### 304. Frumoasă-i vecina noastră
+#### 302. Frumoasă-i vecina noastră
 
 **Tiberiu Ceia** · Sursa: Cărticica Karban, p. 209
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -14631,12 +14568,12 @@ Refren:
 [A]Cu cine iu[D]besc.
 ```
 
-#### 305. Frunza
+#### 303. Frunza
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 32
 
-**Chitară:** F 133211 · C x32010 · Dm xx0231 · Am x02210 · E 022100
 
+**Chitară:** F 133211 · C x32010 · Dm xx0231 · Am x02210 · E 022100
 **Ukulele:** F 2010 · C 0003 · Dm 2210 · Am 2000 · E 4442
 
 ```text
@@ -14671,12 +14608,12 @@ Refren 1
 Refren 2
 ```
 
-#### 306. Frunza (I)
+#### 304. Frunza (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 138 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/frunza-1529)
 
-**Chitară:** Am x02210 · E 022100 · F 133211 · C x32010 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · F 133211 · C x32010 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · F 2010 · C 0003 · Dm 2210
 
 ```text
@@ -14715,12 +14652,12 @@ Urgia toamnei care bântuie
 De ce mă înspăimântă frunzele.
 ```
 
-#### 307. Frunza (II)
+#### 305. Frunza (II)
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/ · Sursa: Cărticica Karban, p. 83
 
-**Chitară:** Dm xx0231 · A x02220 · A7 x02020 · C x32010 · Am x02210
 
+**Chitară:** Dm xx0231 · A x02220 · A7 x02020 · C x32010 · Am x02210
 **Ukulele:** Dm 2210 · A 2100 · A7 0100 · C 0003 · Am 2000
 
 ```text
@@ -14751,12 +14688,12 @@ Refren
 Notă: Intro, intermediar și la final se poate fluiera pe acordurile Dm și A.
 ```
 
-#### 308. Gara
+#### 306. Gara
 
 Sursa: Caiet cabană RO, p. 140
 
-**Chitară:** C x32010 · Em 022000 · Am x02210 · F 133211 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Em 022000 · Am x02210 · F 133211 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Em 0432 · Am 2000 · F 2010 · Dm 2210 · G 0232
 
 ```text
@@ -14795,12 +14732,12 @@ Sala voastră de așteptare asta sunt eu
 Ca și celălalt din mine luați și mâncați.
 ```
 
-#### 309. Ghezesu'
+#### 307. Ghezesu'
 
 Sursa: Cărticica Karban, p. 244
 
-**Chitară:** G 320003 · C x32010 · F 133211
 
+**Chitară:** G 320003 · C x32010 · F 133211
 **Ukulele:** G 0232 · C 0003 · F 2010
 
 ```text
@@ -14845,12 +14782,12 @@ Refren:
 [G]Ca tauru [C]nu mai poate.
 ```
 
-#### 310. Glosă
+#### 308. Glosă
 
 Sursa: Caiet cabană RO, p. 35
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231
 
+**Chitară:** Am x02210 · G 320003 · Dm xx0231
 **Ukulele:** Am 2000 · G 0232 · Dm 2210
 
 ```text
@@ -14878,12 +14815,12 @@ Toate-s vechi și nouă toate:
 Vreme trece, vreme vine.
 ```
 
-#### 311. Grasă
+#### 309. Grasă
 
 **Ada Milea** · Sursa: Cărticica Karban, p. 100
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -14917,12 +14854,12 @@ A         E
 -|---------|-0-0-0---|
 ```
 
-#### 312. Hai să ne imaginăm
+#### 310. Hai să ne imaginăm
 
 Sursa: Caiet cabană RO, p. 163
 
-**Chitară:** C x32010 · D xx0232 · G 320003 · Em 022000 · G7 320001
 
+**Chitară:** C x32010 · D xx0232 · G 320003 · Em 022000 · G7 320001
 **Ukulele:** C 0003 · D 2220 · G 0232 · Em 0432 · G7 0212
 
 ```text
@@ -14954,12 +14891,12 @@ SĂ poți spera că ai fărâma ta de rai
 Pe-acest pământ de nori umbrit.
 ```
 
-#### 313. Hai, mândruțo!
+#### 311. Hai, mândruțo!
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 81
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -15000,12 +14937,12 @@ Poteca i-aș asfalta.
 Refren x2
 ```
 
-#### 314. Hăituit
+#### 312. Hăituit
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 82 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/haituit-567)
 
-**Chitară:** Bm x24432 · Em 022000 · A x02220 · D xx0232 · B7 x21202 · G 320003
 
+**Chitară:** Bm x24432 · Em 022000 · A x02220 · D xx0232 · B7 x21202 · G 320003
 **Ukulele:** Bm 4222 · Em 0432 · A 2100 · D 2220 · B7 2322 · G 0232
 
 ```text
@@ -15059,12 +14996,12 @@ viu.
 Hăituit, cumplit...
 ```
 
-#### 315. Hanul lui Manuc
+#### 313. Hanul lui Manuc
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 169
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -15109,12 +15046,12 @@ La [F]Hanul [G]lui Năl[C]bea.
 [F]Secolul [G]e două[C]zeci.
 ```
 
-#### 316. Hei trenule
+#### 314. Hei trenule
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 186
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
@@ -15132,12 +15069,12 @@ Ca-n [C]gară mă aș[D]teaptă iubita [G]mea
 [C]Zbor, zbor, spre [D]tine mă-[G]ndrept
 ```
 
-#### 317. Iepuraș coconaș
+#### 315. Iepuraș coconaș
 
 muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -15152,12 +15089,12 @@ muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
 Notă: Măsura cântecului e 2/4
 ```
 
-#### 318. Iertările
+#### 316. Iertările
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/??? · Sursa: Cărticica Karban, p. 47
 
-**Chitară:** Bm x24432 · Em 022000 · G 320003 · F# 244322 · D xx0232
 
+**Chitară:** Bm x24432 · Em 022000 · G 320003 · F# 244322 · D xx0232
 **Ukulele:** Bm 4222 · Em 0432 · G 0232 · F# 3121 · D 2220
 
 ```text
@@ -15186,12 +15123,12 @@ Notă: Sună parcă ceva mai bine dacă prinzi acordul G în forma să barata î
 poziția a 3-a.
 ```
 
-#### 319. Îmi pare rău
+#### 317. Îmi pare rău
 
 **Compact** · Sursa: Caiet cabană RO, p. 58 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/imi-pare-rau-12954)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -15219,12 +15156,12 @@ Eu nu te-am dat nicicând uitării
 Și te iubesc cum te iubeam altădat'.
 ```
 
-#### 320. Imposibila nuntă
+#### 318. Imposibila nuntă
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 111 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/imposibila-nunta-673)
 
-**Chitară:** F 133211 · Am x02210 · Dm xx0231 · E 022100 · Em 022000 · G 320003 · C x32010
 
+**Chitară:** F 133211 · Am x02210 · Dm xx0231 · E 022100 · Em 022000 · G 320003 · C x32010
 **Ukulele:** F 2010 · Am 2000 · Dm 2210 · E 4442 · Em 0432 · G 0232 · C 0003
 
 ```text
@@ -15271,12 +15208,12 @@ Ce păcat că totuși nu e nunta noastră
 Ce păcat că morții i-am fost dat ca soț.
 ```
 
-#### 321. Împreună
+#### 319. Împreună
 
 Sursa: Caiet cabană RO, p. 136
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -15312,12 +15249,12 @@ Peste anotimpul dublu
 Dintre zbor și dintre clipă.
 ```
 
-#### 322. În tren
+#### 320. În tren
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/George Topârceanu · Sursa: Cărticica Karban, p. 33
 
-**Chitară:** A x02220 · D xx0232 · E 022100 · B7 x21202 · G 320003
 
+**Chitară:** A x02220 · D xx0232 · E 022100 · B7 x21202 · G 320003
 **Ukulele:** A 2100 · D 2220 · E 4442 · B7 2322 · G 0232
 
 ```text
@@ -15362,12 +15299,12 @@ Pentru partea ritmica mai ascultă odată melodia și totul ar trebui să
 funcționeze...
 ```
 
-#### 323. Înserarea
+#### 321. Înserarea
 
 Sursa: Caiet cabană RO, p. 127
 
-**Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · C 0003 · Dm 2210 · E 4442
 
 ```text
@@ -15410,12 +15347,12 @@ R1:
 ...
 ```
 
-#### 324. Înțelegere (I)
+#### 322. Înțelegere (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 91 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/intelegere-1081)
 
-**Chitară:** Am x02210 · D xx0232 · G 320003 · C x32010 · Em 022000
 
+**Chitară:** Am x02210 · D xx0232 · G 320003 · C x32010 · Em 022000
 **Ukulele:** Am 2000 · D 2220 · G 0232 · C 0003 · Em 0432
 
 ```text
@@ -15456,12 +15393,12 @@ Nu ne-om minți noi niciodată
 Nici alții a ne minți nu pot.
 ```
 
-#### 325. Înțelegere (II)
+#### 323. Înțelegere (II)
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Mihail Lermontov;Trad. Mihai Beniuc · Sursa: Cărticica Karban, p. 34
 
-**Chitară:** C x32010 · Am x02210 · G 320003 · Em 022000 · D7 xx0212
 
+**Chitară:** C x32010 · Am x02210 · G 320003 · Em 022000 · D7 xx0212
 **Ukulele:** C 0003 · Am 2000 · G 0232 · Em 0432 · D7 2223
 
 ```text
@@ -15513,12 +15450,12 @@ E||--3-----------------------|--3-----------3-----2-----|--0--------------------
 G                          G           Bass-run       Em
 ```
 
-#### 326. Întoarcere la orient (I)
+#### 324. Întoarcere la orient (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 90 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/intoarcere-la-orient-6930)
 
-**Chitară:** Am x02210 · G 320003 · D xx0232
 
+**Chitară:** Am x02210 · G 320003 · D xx0232
 **Ukulele:** Am 2000 · G 0232 · D 2220
 
 ```text
@@ -15580,12 +15517,12 @@ Noapte bună tuturor
 Doamnelor și domnilor
 ```
 
-#### 327. Întoarcere la orient (II)
+#### 325. Întoarcere la orient (II)
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 35
 
-**Chitară:** Em 022000 · A x02220 · D xx0232 · Bm x24432 · G 320003
 
+**Chitară:** Em 022000 · A x02220 · D xx0232 · Bm x24432 · G 320003
 **Ukulele:** Em 0432 · A 2100 · D 2220 · Bm 4222 · G 0232
 
 ```text
@@ -15642,12 +15579,12 @@ E||-0---0-0-0---0---0---0---0-------||
 Cu notă ca la acest riff se lovesc numai corzile de bass.
 ```
 
-#### 328. Învață de la toate
+#### 326. Învață de la toate
 
 Sursa: Caiet cabană RO, p. 34 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/invata-de-la-toate-5399)
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -15687,12 +15624,12 @@ Ia seama fiu al jertfei prin-lumea-n care treci
 SĂ înveți din tot ce piere tu să trăiești în veci.
 ```
 
-#### 329. Iubesc ploile
+#### 327. Iubesc ploile
 
 Sursa: Caiet cabană RO, p. 158
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -15746,12 +15683,12 @@ Toți trecătorii sunt îndrăgostiți
 Și eu te aștept                             Doar tu știi ...
 ```
 
-#### 330. Iubire-ideal
+#### 328. Iubire-ideal
 
 Sursa: Caiet cabană RO, p. 103
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -15791,12 +15728,12 @@ Las să crească sămânța de pădure
 Iar părul rădăcină în pământ.
 ```
 
-#### 331. Iubirea cea mare
+#### 329. Iubirea cea mare
 
 Sursa: Caiet cabană RO, p. 90
 
-**Chitară:** C x32010 · F 133211 · Am x02210 · G 320003
 
+**Chitară:** C x32010 · F 133211 · Am x02210 · G 320003
 **Ukulele:** C 0003 · F 2010 · Am 2000 · G 0232
 
 ```text
@@ -15834,12 +15771,12 @@ O întrebare aș avea: Nu suntem și noi așa?
 Cine oare, să-mi răspundeți voi, ne va împiedica?
 ```
 
-#### 332. Iubita mea, ți-am cumpărat un munte
+#### 330. Iubita mea, ți-am cumpărat un munte
 
 **Emeric Imre** · Sursa: Caiet Christian Adventure, p. 87
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · F 133211 · Am x02210
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · F 133211 · Am x02210
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -15894,12 +15831,12 @@ Dm               G          C    F C
 Am dat pe acest munte viața mea
 ```
 
-#### 333. Iubito
+#### 331. Iubito
 
 **Vasile Mardare** · Sursa: Caiet cabană RO, p. 56 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/iubito-12253)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -15934,12 +15871,12 @@ Ca vara sângelui să nu se piardă
 Ca vraja basmului mereu să ardă.
 ```
 
-#### 334. Joc de copil
+#### 332. Joc de copil
 
 Sursa: Caiet cabană RO, p. 165
 
-**Chitară:** Em 022000 · Am x02210 · B7 x21202
 
+**Chitară:** Em 022000 · Am x02210 · B7 x21202
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -15973,12 +15910,12 @@ Bucuria lui îmbrățișează
 Cerul și pământul.
 ```
 
-#### 335. Jocul
+#### 333. Jocul
 
 **Phoenix** · muzica/versuri: N. Covaci/N. Covaci · Sursa: Cărticica Karban, p. 119
 
-**Chitară:** Am x02210 · C x32010 · G 320003 · Em 022000
 
+**Chitară:** Am x02210 · C x32010 · G 320003 · Em 022000
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Em 0432
 
 ```text
@@ -16018,12 +15955,12 @@ Refren:
 [Am]N-ai să poți să [Em]ieși din [Am]ele.
 ```
 
-#### 336. Jumătate tu, jumătate eu
+#### 334. Jumătate tu, jumătate eu
 
 **Stigma** · muzica/versuri: Stigma/??? · Sursa: Cărticica Karban, p. 155
 
-**Chitară:** Am x02210 · Am7 x02010 · Dm xx0231 · E7 020100 · E 022100 · G 320003
 
+**Chitară:** Am x02210 · Am7 x02010 · Dm xx0231 · E7 020100 · E 022100 · G 320003
 **Ukulele:** Am 2000 · Am7 0000 · Dm 2210 · E7 1202 · E 4442 · G 0232
 
 ```text
@@ -16065,12 +16002,12 @@ Să [Am]crezi ca nici un rău nu te mai [Dm]poate atinge
 Notă: Pentru tonalitatea originala folosește capo în poziția a 2-a.
 ```
 
-#### 337. La adio
+#### 335. La adio
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 40 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/la-adio-584)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -16126,12 +16063,12 @@ Sub cinic nuclear adio
 Noi bietul cuplu pârjolit.
 ```
 
-#### 338. La fereastra ta (I)
+#### 336. La fereastra ta (I)
 
 **Semnal M** · Sursa: Caiet Christian Adventure, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/la-fereastra-ta-218)
 
-**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · A x02220 · E 022100
 
+**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · A x02220 · E 022100
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220 · A 2100 · E 4442
 
 ```text
@@ -16186,12 +16123,12 @@ O romanță cu parfum
 Să pot sta în părul tău
 ```
 
-#### 339. La fereastra ta (II)
+#### 337. La fereastra ta (II)
 
 **Semnal M** · muzica/versuri: Semnal M/??? · Sursa: Cărticica Karban, p. 141
 
-**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · E 022100 · A x02220 · E7 020100
 
+**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · E 022100 · A x02220 · E7 020100
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220 · E 4442 · A 2100 · E7 1202
 
 ```text
@@ -16248,12 +16185,12 @@ Să pot [E7]sta în părul [A]tău
 Note:tempo 4/4; acordaj standard
 ```
 
-#### 340. La Mulți Ani!
+#### 338. La Mulți Ani!
 
 **tradițional** · Sursa: Cărticica Karban, p. 198
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · D7 xx0212
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · D7 xx0212
 **Ukulele:** G 0232 · D 2220 · C 0003 · D7 2223
 
 ```text
@@ -16320,12 +16257,12 @@ Some - one.     Ha - ppy Birth - day      to       you
 Notă: "Ionel" se înlocuiește cu numele sărbătoritului/sărbătoritei J
 ```
 
-#### 341. La nunta ta
+#### 339. La nunta ta
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Adrian Păunescu · Sursa: Cărticica Karban, p. 75
 
-**Chitară:** Em 022000 · G 320003 · Am x02210 · B7 x21202
 
+**Chitară:** Em 022000 · G 320003 · Am x02210 · B7 x21202
 **Ukulele:** Em 0432 · G 0232 · Am 2000 · B7 2322
 
 ```text
@@ -16362,12 +16299,12 @@ Afară doar de nunta mea.
 Refren
 ```
 
-#### 342. La război
+#### 340. La război
 
 Sursa: Caiet cabană RO, p. 42 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/la-razboi-5402)
 
-**Chitară:** A x02220 · D xx0232 · E 022100 · B7 x21202
 
+**Chitară:** A x02220 · D xx0232 · E 022100 · B7 x21202
 **Ukulele:** A 2100 · D 2220 · E 4442 · B7 2322
 
 ```text
@@ -16414,12 +16351,12 @@ Hei, băieți în această noapte
 Eu vreau să mă cunun cu moartea.
 ```
 
-#### 343. La un ceai
+#### 341. La un ceai
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 87 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/la-un-ceai-3410)
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -16454,12 +16391,12 @@ Nicicând să nu ne spunem vreun "Nu"
 Dar sunt un "je t'aime, moi non plus".
 ```
 
-#### 344. Lacrimi și surâs
+#### 342. Lacrimi și surâs
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 97
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · Am x02210 · G 320003
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · Am x02210 · G 320003
 **Ukulele:** Em 0432 · D 2220 · C 0003 · Am 2000 · G 0232
 
 ```text
@@ -16500,12 +16437,12 @@ Să nu mă-n[D]trebi nimic, nu-ți voi răs[Em]punde
 Tot ce-n [D]suflet se [G]as[D]cun[C]de
 ```
 
-#### 345. Lângă mine
+#### 343. Lângă mine
 
 **Direcția 5 & Paula Seling** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 60
 
-**Chitară:** Bm x24432 · A x02220 · G 320003 · B x24442
 
+**Chitară:** Bm x24432 · A x02220 · G 320003 · B x24442
 **Ukulele:** Bm 4222 · A 2100 · G 0232 · B 4322
 
 ```text
@@ -16535,12 +16472,12 @@ Să mă [G]ridic din nou, [A]să încerc să fiu
 Riff 1 (pe coarda 3):   g---4/5--4--2--0--2---
 ```
 
-#### 346. Lăsați-mă să cânt
+#### 344. Lăsați-mă să cânt
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 181
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -16561,12 +16498,12 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 347. Lavinia
+#### 345. Lavinia
 
 Sursa: Caiet cabană RO, p. 61
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -16593,12 +16530,12 @@ Chiar și acum
 Luminile se-aprind.
 ```
 
-#### 348. Lordul John
+#### 346. Lordul John
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/George Coșbuc · Sursa: Cărticica Karban, p. 168
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -16641,12 +16578,12 @@ Luminile se-aprind.
 [G]Spune să-i a[D]zvârle calul [A]să poată [D]pleca.
 ```
 
-#### 349. Lumină (I)
+#### 347. Lumină (I)
 
 **Ecoul** · Sursa: Caiet cabană RO, p. 101 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/lumina-807)
 
-**Chitară:** Am x02210 · G 320003 · E 022100 · C x32010
 
+**Chitară:** Am x02210 · G 320003 · E 022100 · C x32010
 **Ukulele:** Am 2000 · G 0232 · E 4442 · C 0003
 
 ```text
@@ -16693,12 +16630,12 @@ FĂcându-l floare de măr
 Lumină, viață, adevăr.
 ```
 
-#### 350. Lumină (II)
+#### 348. Lumină (II)
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 68
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -16731,12 +16668,12 @@ variantă cântata în mol sună mai bine.
 Vezi deci și variantă a 2-a.
 ```
 
-#### 351. Lumină (III)
+#### 349. Lumină (III)
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 69
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -16769,12 +16706,12 @@ variantă cântata în mol sună mai bine.
 Vezi deci și variantă 1-a și alege-o pe cea care îți sună mai bine J.
 ```
 
-#### 352. M-am îndrăgostit numai de ea
+#### 350. M-am îndrăgostit numai de ea
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 97 · Caiet cabană RO, p. 133 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/m-am-indragostit-numai-de-ea-4132)
 
-**Chitară:** Am x02210 · E7 020100 · Dm xx0231 · A x02220 · C x32010
 
+**Chitară:** Am x02210 · E7 020100 · Dm xx0231 · A x02220 · C x32010
 **Ukulele:** Am 2000 · E7 1202 · Dm 2210 · A 2100 · C 0003
 
 ```text
@@ -16820,12 +16757,12 @@ Eu, care spuneam prea lesne și oricui „Mi-e dor”
 /M-am îndrăgostit numai de ea/(x3)/ x2
 ```
 
-#### 353. Mă duse-i să trec la Olt
+#### 351. Mă duse-i să trec la Olt
 
 **popular/popular** · Sursa: Cărticica Karban, p. 210
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -16869,12 +16806,12 @@ la, la, la, [A]la...
 la, la, la, [A]la...
 ```
 
-#### 354. Madama de pică
+#### 352. Madama de pică
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă, Horia Stoicanu/Mircea Vintilă, Horia Stoicanu · Sursa: Cărticica Karban, p. 170
 
-**Chitară:** A x02220 · Bm x24432 · D xx0232 · E 022100 · Fm# 244222 · Cm# x46654
 
+**Chitară:** A x02220 · Bm x24432 · D xx0232 · E 022100 · Fm# 244222 · Cm# x46654
 **Ukulele:** A 2100 · Bm 4222 · D 2220 · E 4442 · Fm# 2120 · Cm# 1104
 
 ```text
@@ -16908,12 +16845,12 @@ Un [A]val, o [E]da
 [A]Ce parcă viata prin[E]dea
 ```
 
-#### 355. Mai stai
+#### 353. Mai stai
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 158
 
-**Chitară:** F 133211 · G 320003 · Am x02210
 
+**Chitară:** F 133211 · G 320003 · Am x02210
 **Ukulele:** F 2010 · G 0232 · Am 2000
 
 ```text
@@ -16940,12 +16877,12 @@ De [Am]chipul tău sunt pline
 Refren
 ```
 
-#### 356. Mama, mama
+#### 354. Mama, mama
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 124
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -16975,12 +16912,12 @@ Refren
 [F]Asta [G]am [C]să fac !!
 ```
 
-#### 357. Marea
+#### 355. Marea
 
 Sursa: Caiet cabană RO, p. 153
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432
 
 ```text
@@ -17003,12 +16940,12 @@ Iubito, ai să-mi scrii
 Iubito, poate ai să vii.
 ```
 
-#### 358. Mi-e dor de ochii tăi
+#### 356. Mi-e dor de ochii tăi
 
 **Ștefan Banica Jr.** · muzica/versuri: Ștefan Banica Jr./Ștefan Banica Jr.? · Sursa: Cărticica Karban, p. 28
 
-**Chitară:** G 320003 · C x32010 · Am x02210 · Em 022000 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · Am x02210 · Em 022000 · D xx0232
 **Ukulele:** G 0232 · C 0003 · Am 2000 · Em 0432 · D 2220
 
 ```text
@@ -17050,12 +16987,12 @@ Din noi doi a [G]greșit
 Refren 2x
 ```
 
-#### 359. Mica țiganiadă
+#### 357. Mica țiganiadă
 
 Sursa: Caiet cabană RO, p. 80 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mica-tiganiada-1603)
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · Em 022000 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · Em 022000 · E 022100
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Em 0432 · E 4442
 
 ```text
@@ -17121,12 +17058,12 @@ Gia mura mura
 Ce mișto ...
 ```
 
-#### 360. Micuța blondă
+#### 358. Micuța blondă
 
 Sursa: Caiet cabană RO, p. 54
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -17157,12 +17094,12 @@ Iubita mea s-a îmbrăcat în alb
 Și nici un soare-atât de cald ca ea.
 ```
 
-#### 361. Mielul (I)
+#### 359. Mielul (I)
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Caiet cabană RO, p. 51
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -17187,12 +17124,12 @@ Noi cu toții, domnule.
 Ce rămâne, mielule? Acest cântec, domnule.
 ```
 
-#### 362. Mielul (II)
+#### 360. Mielul (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 171
 
-**Chitară:** G 320003 · D7 xx0212 · C x32010
 
+**Chitară:** G 320003 · D7 xx0212 · C x32010
 **Ukulele:** G 0232 · D7 2223 · C 0003
 
 ```text
@@ -17249,12 +17186,12 @@ Ce rămâne, mielule? Acest cântec, domnule.
 [C]Acest [G]cântec, [D7]domnu[G]le.
 ```
 
-#### 363. Mihai, câți copii îmi dai?
+#### 361. Mihai, câți copii îmi dai?
 
 **Alexandru Andrieș** · muzica/versuri: Alexandru Andrieș/Alexandru Andrieș · Sursa: Cărticica Karban, p. 26
 
-**Chitară:** E 022100 · A x02220 · B7 x21202
 
+**Chitară:** E 022100 · A x02220 · B7 x21202
 **Ukulele:** E 4442 · A 2100 · B7 2322
 
 ```text
@@ -17286,12 +17223,12 @@ Se[B7]lim zice "Hai,
 Co[A]piii sint ai mei, Mi[E]hai"
 ```
 
-#### 364. Miruna (I)
+#### 362. Miruna (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 103 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/miruna-438)
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
 
+**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
 **Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222
 
 ```text
@@ -17358,12 +17295,12 @@ Plâng pe cămașa ta de noapte
 Plâng pe cămașa ta de noapte
 ```
 
-#### 365. Miruna (II)
+#### 363. Miruna (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Mircea Vintilă · Sursa: Cărticica Karban, p. 172
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
 
 ```text
@@ -17412,12 +17349,12 @@ Doar știi foarte bine ce-ți spuneam în seara aceea printre șoapte:
 [F]Plâng pe cămașa [G]ta de noapte...
 ```
 
-#### 366. Mistrețul galben
+#### 364. Mistrețul galben
 
 **Timpuri Noi** · Sursa: Caiet Christian Adventure, p. 104
 
-**Chitară:** Em 022000 · Am7 x02010 · Bm7 x24232 · C9 x32333 · D9 x54555
 
+**Chitară:** Em 022000 · Am7 x02010 · Bm7 x24232 · C9 x32333 · D9 x54555
 **Ukulele:** Em 0432 · Am7 0000 · Bm7 2222 · C9 0201 · D9 2423
 
 ```text
@@ -17454,12 +17391,12 @@ Cât de greu e să prinzi mistrețul
 (Uuuu)
 ```
 
-#### 367. Mr. Tambourine Man
+#### 365. Mr. Tambourine Man
 
 **Pasărea Colibri** · muzica/versuri: Bob Dylan/Bob Dylan/Trad. Florian Pittis · Sursa: Cărticica Karban, p. 106
 
-**Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000 · Asus4 x02230 · Dsus4 xx0233 · Dsus2 xx0230
 
+**Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000 · Asus4 x02230 · Dsus4 xx0233 · Dsus2 xx0230
 **Ukulele:** G 0232 · A 2100 · D 2220 · Em 0432 · Asus4 2200 · Dsus4 0230 · Dsus2 2200
 
 ```text
@@ -17506,12 +17443,12 @@ doi timpi pe fiecare acord.
 |1/ 2//3//4//|1/ 2//3//4//| exemplificat aici pentru două măsuri J
 ```
 
-#### 368. Mugur de fluier (I)
+#### 366. Mugur de fluier (I)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 105 · Caiet cabană RO, p. 79 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mugur-de-fluier-12376)
 
-**Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010 · Em 022000
 
+**Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010 · Em 022000
 **Ukulele:** G 0232 · D 2220 · Am 2000 · C 0003 · Em 0432
 
 ```text
@@ -17547,12 +17484,12 @@ Hei, hei, dusă e iarna
 Cu dinții ei de fier
 ```
 
-#### 369. Mugur de fluier (II)
+#### 367. Mugur de fluier (II)
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 131
 
-**Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010
 **Ukulele:** G 0232 · D 2220 · Am 2000 · C 0003
 
 ```text
@@ -17575,12 +17512,12 @@ Refren:
 [G]Cu dinții [D]ei de [Am]fier[D]
 ```
 
-#### 370. Muntele alb
+#### 368. Muntele alb
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 106 · Caiet cabană RO, p. 28 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/muntele-alb-1662)
 
-**Chitară:** Am x02210 · E 022100 · G 320003 · C x32010 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · G 320003 · C x32010 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003 · Dm 2210
 
 ```text
@@ -17645,12 +17582,12 @@ picioare
 /Tu ești muntele alb./ (x3)
 ```
 
-#### 371. Muzică și muzichia
+#### 369. Muzică și muzichia
 
 **Phoenix** · Sursa: Cărticica Karban, p. 123
 
-**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
 
 ```text
@@ -17676,12 +17613,12 @@ acest cântec fiind de fapt ritmul pe care îl poți găsi singur ascultând
 melodia J
 ```
 
-#### 372. Nebunul cu ochi închiși (I)
+#### 370. Nebunul cu ochi închiși (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 108 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/nebunul-cu-ochii-inchisi-1533)
 
-**Chitară:** Am x02210 · G 320003 · F 133211 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · F 133211 · E 022100
 **Ukulele:** Am 2000 · G 0232 · F 2010 · E 4442
 
 ```text
@@ -17712,12 +17649,12 @@ Lumea cea întreagă se-oprește să-l asculte,
 Refren x2
 ```
 
-#### 373. Nebunul cu ochi închiși (II)
+#### 371. Nebunul cu ochi închiși (II)
 
 **Phoenix** · muzica/versuri: Florin Bordeianu, Nicolae Covaci/Florin Bordeianu · Sursa: Cărticica Karban, p. 128
 
-**Chitară:** Am x02210 · G 320003 · F 133211 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · F 133211 · E 022100
 **Ukulele:** Am 2000 · G 0232 · F 2010 · E 4442
 
 ```text
@@ -17737,12 +17674,12 @@ Refren:
 Refren:
 ```
 
-#### 374. Nebunul de alb
+#### 372. Nebunul de alb
 
 **Emeric Imre** · Sursa: Caiet Christian Adventure, p. 109
 
-**Chitară:** Am x02210 · F 133211 · C x32010 · E7 020100 · Dm xx0231 · E 022100 · G 320003
 
+**Chitară:** Am x02210 · F 133211 · C x32010 · E7 020100 · Dm xx0231 · E 022100 · G 320003
 **Ukulele:** Am 2000 · F 2010 · C 0003 · E7 1202 · Dm 2210 · E 4442 · G 0232
 
 ```text
@@ -17793,12 +17730,12 @@ Cu chip slavon și nume de regină.
 Refren
 ```
 
-#### 375. Noapte de iubire
+#### 373. Noapte de iubire
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 185
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · E 022100
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · E 022100
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · E 4442
 
 ```text
@@ -17827,12 +17764,12 @@ Cu tine [G]toată dragos[Em]tea
 [C]Nici astăzi noaptea [D]noastră n-am ui[G]tat
 ```
 
-#### 376. Noapte la mare, noapte la munte
+#### 374. Noapte la mare, noapte la munte
 
 **Narcis** · Sursa: Caiet Christian Adventure, p. 110 · Caiet cabană RO, p. 32 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/noapte-la-mare-noapte-la-munte-320)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -17868,12 +17805,12 @@ Roiuri de stele, roiuri de șoapte/ x2
 Refren
 ```
 
-#### 377. Nopți (I)
+#### 375. Nopți (I)
 
 **Valeriu Sterian** · Sursa: Caiet cabană RO, p. 95 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/nopti-2077)
 
-**Chitară:** Am x02210 · Em 022000 · C x32010 · G 320003 · E 022100
 
+**Chitară:** Am x02210 · Em 022000 · C x32010 · G 320003 · E 022100
 **Ukulele:** Am 2000 · Em 0432 · C 0003 · G 0232 · E 4442
 
 ```text
@@ -17908,12 +17845,12 @@ Copilul său ucis ce zace-n bălți de sânge
 De cei ce vă acuză de-acolo din mormânt.
 ```
 
-#### 378. Nopți (II)
+#### 376. Nopți (II)
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/??? · Sursa: Cărticica Karban, p. 147
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · G 0232 · C 0003 · E 4442 · Dm 2210
 
 ```text
@@ -17940,12 +17877,12 @@ Refren:
 Refren:
 ```
 
-#### 379. Nu am cer
+#### 377. Nu am cer
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Daniela Crăsnaru · Sursa: Cărticica Karban, p. 48
 
-**Chitară:** A x02220 · E 022100 · D xx0232 · F 133211
 
+**Chitară:** A x02220 · E 022100 · D xx0232 · F 133211
 **Ukulele:** A 2100 · E 4442 · D 2220 · F 2010
 
 ```text
@@ -17977,12 +17914,12 @@ Refren:
 Refren:
 ```
 
-#### 380. Nu am chef azi
+#### 378. Nu am chef azi
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 111 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vama-veche/nu-am-chef-azi-2895)
 
-**Chitară:** Bm x24432 · E 022100 · E7 020100 · A x02220
 
+**Chitară:** Bm x24432 · E 022100 · E7 020100 · A x02220
 **Ukulele:** Bm 4222 · E 4442 · E7 1202 · A 2100
 
 ```text
@@ -18045,12 +17982,12 @@ Am fost un mare, mare fraier
 Au trecut ani, dar au trecut ani
 ```
 
-#### 381. Nu am mai fost acasă demult
+#### 379. Nu am mai fost acasă demult
 
 Sursa: Caiet cabană RO, p. 108
 
-**Chitară:** C x32010 · C7 x32310 · F 133211 · Am x02210 · Dm xx0231 · G 320003 · G7 320001
 
+**Chitară:** C x32010 · C7 x32310 · F 133211 · Am x02210 · Dm xx0231 · G 320003 · G7 320001
 **Ukulele:** C 0003 · C7 0001 · F 2010 · Am 2000 · Dm 2210 · G 0232 · G7 0212
 
 ```text
@@ -18085,12 +18022,12 @@ Dorm nu ca un vultur la pândă
 Dar ochii mi-au rămas de copil.
 ```
 
-#### 382. Nu mă-ntreba
+#### 380. Nu mă-ntreba
 
 **Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 70
 
-**Chitară:** C x32010 · F 133211
 
+**Chitară:** C x32010 · F 133211
 **Ukulele:** C 0003 · F 2010
 
 ```text
@@ -18111,12 +18048,12 @@ prima strofă, celelalte le-am completat după simțul meu ritmic.
 Deci dacă ceva nu corespunde....
 ```
 
-#### 383. Nu te mai iubesc (I)
+#### 381. Nu te mai iubesc (I)
 
 **Sentiment** · Sursa: Caiet Christian Adventure, p. 114 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/nu-te-mai-iubesc-7266)
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -18159,12 +18096,12 @@ Când noi doi ne-am sărutat...
 Refren
 ```
 
-#### 384. Nu te mai iubesc (II)
+#### 382. Nu te mai iubesc (II)
 
 variantă a cântecului „Nu te mai iubesc”, cu titlul „Mai ții minte seara-n care?” · Sursa: Caiet cabană RO, p. 58
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -18195,12 +18132,12 @@ Nu-i ca tine de frumoasă
 Dar o iubesc și sunt iubit.
 ```
 
-#### 385. Nu-i nimic, asta e! (I)
+#### 383. Nu-i nimic, asta e! (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 86 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/nu-i-nimic-asta-e-1449)
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Dm 2210
 
 ```text
@@ -18257,12 +18194,12 @@ Tu mi-ai cheltuit anii mei cei mai frumoși
 Dar nu-i nimic asta e!
 ```
 
-#### 386. Nu-i nimic, asta e! (II)
+#### 384. Nu-i nimic, asta e! (II)
 
 **Pasărea Colibri** · muzica/versuri: Bob Dylan/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 107
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · D7 xx0212 · G7 320001 · C7 x32310 · G/B x20003
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · D7 xx0212 · G7 320001 · C7 x32310 · G/B x20003
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · D7 2223 · G7 0212 · C7 0001 · G/B 0232
 
 ```text
@@ -18301,12 +18238,12 @@ Dar [C]nu-i ni[G]mic, asta [C]e!
 Dar [C]nu-i ni[G]mic, asta [C]e!
 ```
 
-#### 387. Nu-mi mai pasă
+#### 385. Nu-mi mai pasă
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 160
 
-**Chitară:** C x32010 · Dm xx0231 · F 133211 · G 320003 · Am x02210
 
+**Chitară:** C x32010 · Dm xx0231 · F 133211 · G 320003 · Am x02210
 **Ukulele:** C 0003 · Dm 2210 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -18340,12 +18277,12 @@ Dar nu-mi mai [C]pasă
 etc...(fade ouț)
 ```
 
-#### 388. Nunta (I)
+#### 386. Nunta (I)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 112 · Caiet cabană RO, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/nunta-456)
 
-**Chitară:** A5 x02220 · G5 320003 · C5 x32010 · F5 133211 · D5 xx0232 · F#5 244322
 
+**Chitară:** A5 x02220 · G5 320003 · C5 x32010 · F5 133211 · D5 xx0232 · F#5 244322
 **Ukulele:** A5 2100 · G5 0232 · C5 0003 · F5 2010 · D5 2220 · F#5 3121
 
 ```text
@@ -18382,12 +18319,12 @@ Roua norilor și florile de tei
 Refren
 ```
 
-#### 389. Nunta (II)
+#### 387. Nunta (II)
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 129
 
-**Chitară:** Am x02210 · C x32010 · F 133211 · G 320003
 
+**Chitară:** Am x02210 · C x32010 · F 133211 · G 320003
 **Ukulele:** Am 2000 · C 0003 · F 2010 · G 0232
 
 ```text
@@ -18410,12 +18347,12 @@ Refren:
 [F]Roua norilor și [G]florile de tei.
 ```
 
-#### 390. Oaia mică
+#### 388. Oaia mică
 
 **Ada Milea** · Sursa: Cărticica Karban, p. 101
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -18442,12 +18379,12 @@ Refren:
 Notă:Recomand folosirea unei ciupituri cu bass alternativ.
 ```
 
-#### 391. Oameni
+#### 389. Oameni
 
 **Aurelian Andreescu** · muzica/versuri: "Georgia on my mind" Ray Charles???/Marin Sorescu? · Sursa: Cărticica Karban, p. 24
 
-**Chitară:** D xx0232 · F# 244322 · Bm x24432 · G 320003 · E7 020100 · A x02220 · D7 xx0212 · Em 022000
 
+**Chitară:** D xx0232 · F# 244322 · Bm x24432 · G 320003 · E7 020100 · A x02220 · D7 xx0212 · Em 022000
 **Ukulele:** D 2220 · F# 3121 · Bm 4222 · G 0232 · E7 1202 · A 2100 · D7 2223 · Em 0432
 
 ```text
@@ -18466,12 +18403,12 @@ Fir de [Em]aur, vis de [E7]aur, cântul [A]vostru și al meu
 Cu iu[D]bire, [A]cărări[D]le.
 ```
 
-#### 392. Oameni buni
+#### 390. Oameni buni
 
 **Pasărea Colibri** · muzica/versuri: în original - Silvio · Sursa: Cărticica Karban, p. 108 · Cărticica Karban, p. 109
 
-**Chitară:** G 320003 · F 133211 · C x32010
 
+**Chitară:** G 320003 · F 133211 · C x32010
 **Ukulele:** G 0232 · F 2010 · C 0003
 
 ```text
@@ -18509,12 +18446,12 @@ Refren
 Refren
 ```
 
-#### 393. Oameni de zăpadă (I)
+#### 391. Oameni de zăpadă (I)
 
 **Victor Socaciu** · Sursa: Caiet cabană RO, p. 143 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/oameni-de-zapada-479)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · C x32010 · E7 020100
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · C x32010 · E7 020100
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · C 0003 · E7 1202
 
 ```text
@@ -18556,12 +18493,12 @@ Ninge că sunt rece, ninge că ești dusă
 Ninge ca la moartea ultimului an.
 ```
 
-#### 394. Oameni de zăpadă (II)
+#### 392. Oameni de zăpadă (II)
 
 **Victor Socaciu** · muzica/versuri: Victor Socaciu/Adrian Păunescu · Sursa: Cărticica Karban, p. 150
 
-**Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100 · G 320003 · F 133211
 
+**Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100 · G 320003 · F 133211
 **Ukulele:** Am 2000 · C 0003 · Dm 2210 · E 4442 · G 0232 · F 2010
 
 ```text
@@ -18688,12 +18625,12 @@ pe două chitare (una ținând ce se vede mai sus, cealaltă armonia) iese așa 
 fain încât aproape nu mai merita să cântați și din gura...J
 ```
 
-#### 395. Obsesia
+#### 393. Obsesia
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 61
 
-**Chitară:** E 022100 · C#m x46654 · A x02220 · B x24442
 
+**Chitară:** E 022100 · C#m x46654 · A x02220 · B x24442
 **Ukulele:** E 4442 · C#m 1104 · A 2100 · B 4322
 
 ```text
@@ -18720,12 +18657,12 @@ Refren 3X
 Notă:La refren se folosește acordul Cm# în forma să barata în poziția a 4-a.
 ```
 
-#### 396. Ochii tăi
+#### 394. Ochii tăi
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 182
 
-**Chitară:** Em 022000 · Am x02210 · D xx0232 · G 320003 · B7 x21202 · C x32010
 
+**Chitară:** Em 022000 · Am x02210 · D xx0232 · G 320003 · B7 x21202 · C x32010
 **Ukulele:** Em 0432 · Am 2000 · D 2220 · G 0232 · B7 2322 · C 0003
 
 ```text
@@ -18755,12 +18692,12 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 397. Ochii tăi (I)
+#### 395. Ochii tăi (I)
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 115 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/ochii-tai-360)
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432 · Am 2000
 
 ```text
@@ -18786,12 +18723,12 @@ Părul tău va fi iar ud de roua din zori de zi
 Refren x2
 ```
 
-#### 398. Ochii tăi (II)
+#### 396. Ochii tăi (II)
 
 **Holograf** · muzica/versuri: Holograf/Holograf · Sursa: Cărticica Karban, p. 73
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432 · Am 2000
 
 ```text
@@ -18813,12 +18750,12 @@ Mi-e t[G]are dor de [F]ei
 Și aș [G]vrea să pot să-ți [F]spun: Bine-ai [G]venit!
 ```
 
-#### 399. Ochii verzi
+#### 397. Ochii verzi
 
 Sursa: Caiet cabană RO, p. 57
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · D xx0232
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · D xx0232
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · D 2220
 
 ```text
@@ -18847,12 +18784,12 @@ Când mi-ai spus că mă iubești?
 Și acum mă părăsești.
 ```
 
-#### 400. Om în amurg
+#### 398. Om în amurg
 
 Sursa: Caiet cabană RO, p. 33 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/om-in-amurg-2702)
 
-**Chitară:** Em 022000 · Am x02210 · B7 x21202 · C x32010 · G 320003
 
+**Chitară:** Em 022000 · Am x02210 · B7 x21202 · C x32010 · G 320003
 **Ukulele:** Em 0432 · Am 2000 · B7 2322 · C 0003 · G 0232
 
 ```text
@@ -18886,12 +18823,12 @@ Ora amiezii a fost dulce, dulce
 Luna s-a dus să se culce.
 ```
 
-#### 401. Omul bun și pomul copt
+#### 399. Omul bun și pomul copt
 
 Sursa: Cărticica Karban, p. 206
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -18931,12 +18868,12 @@ Note:-Cântecul e cunoscut și într-o variantă ceva "mai pop" cântata de Mirc
 Rusu.
 ```
 
-#### 402. Omul pădurii (I)
+#### 400. Omul pădurii (I)
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 119 · Caiet cabană RO, p. 73 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/omul-padurii-831)
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -18992,12 +18929,12 @@ Fost-am omul pădurii x2
 Refren X2
 ```
 
-#### 403. Omul pădurii (II)
+#### 401. Omul pădurii (II)
 
 **Coborâi din deal în vale** · Sursa: Cărticica Karban, p. 49
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -19036,12 +18973,12 @@ Foarte important este ritmul pe care îl poți descoperi ușor dacă asculți cu
 atenție melodia.
 ```
 
-#### 404. Oprește-mă la tine
+#### 402. Oprește-mă la tine
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 121 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/opreste-ma-la-tine-921)
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Bm x24432 · D xx0232 · A x02220
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Bm x24432 · D xx0232 · A x02220
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · Bm 4222 · D 2220 · A 2100
 
 ```text
@@ -19080,12 +19017,12 @@ Cu gânduri innodate și pumnul pe toiag
 Fă-mi piedici iscusite să mor la tine-n prag.
 ```
 
-#### 405. Ordinea de zi
+#### 403. Ordinea de zi
 
 **George Nicolescu/Gil Dobrica** · muzica/versuri: George Nicolescu/??? · Sursa: Cărticica Karban, p. 98
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -19128,12 +19065,12 @@ Să re[F]facem ordi[G]nea de [C]zi.
 Note: Vocile de la refren se cântă doar la sfârșitul piesei
 ```
 
-#### 406. Pădure de argint
+#### 404. Pădure de argint
 
 **Nelu Lazăr** · Sursa: Caiet Christian Adventure, p. 124
 
-**Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100 · G 320003 · F 133211 · Em 022000
 
+**Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100 · G 320003 · F 133211 · Em 022000
 **Ukulele:** Am 2000 · C 0003 · Dm 2210 · E 4442 · G 0232 · F 2010 · Em 0432
 
 ```text
@@ -19176,12 +19113,12 @@ Dm Am
 Cuprinși de speranță…
 ```
 
-#### 407. Pădure liniștitoare
+#### 405. Pădure liniștitoare
 
 Sursa: Caiet cabană RO, p. 16
 
-**Chitară:** Am x02210 · F 133211 · Dm xx0231 · C x32010 · G 320003 · Em 022000
 
+**Chitară:** Am x02210 · F 133211 · Dm xx0231 · C x32010 · G 320003 · Em 022000
 **Ukulele:** Am 2000 · F 2010 · Dm 2210 · C 0003 · G 0232 · Em 0432
 
 ```text
@@ -19227,12 +19164,12 @@ O să am doar flori în față
 Și privirea în verdeață.
 ```
 
-#### 408. Pământul deocamdată
+#### 406. Pământul deocamdată
 
 Sursa: Caiet cabană RO, p. 48
 
-**Chitară:** Bm x24432 · A x02220 · G 320003 · D xx0232
 
+**Chitară:** Bm x24432 · A x02220 · G 320003 · D xx0232
 **Ukulele:** Bm 4222 · A 2100 · G 0232 · D 2220
 
 ```text
@@ -19310,12 +19247,12 @@ Ce-am putea și nu se poate
 Și noroi si stele.
 ```
 
-#### 409. Păpușa
+#### 407. Păpușa
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 125 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/papusa-10962)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -19364,12 +19301,12 @@ Numai de iubire nu.
 Refren x2
 ```
 
-#### 410. Păpușarii
+#### 408. Păpușarii
 
 **Vasile Mărdare** · Sursa: Caiet Christian Adventure, p. 126 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/papusarii-3109)
 
-**Chitară:** Bm x24432 · G 320003 · F# 244322 · Em 022000
 
+**Chitară:** Bm x24432 · G 320003 · F# 244322 · Em 022000
 **Ukulele:** Bm 4222 · G 0232 · F# 3121 · Em 0432
 
 ```text
@@ -19422,12 +19359,12 @@ sânge
 Refren x2
 ```
 
-#### 411. Păsări de fum
+#### 409. Păsări de fum
 
 **VH2/Holograf** · muzica/versuri: Mihai Pocorschi/Mihai Pocorschi · Sursa: Cărticica Karban, p. 159
 
-**Chitară:** Em 022000 · Em7 020000 · Am x02210 · Am7 x02010 · C x32010 · D xx0232 · Bm x24432
 
+**Chitară:** Em 022000 · Em7 020000 · Am x02210 · Am7 x02010 · C x32010 · D xx0232 · Bm x24432
 **Ukulele:** Em 0432 · Em7 0202 · Am 2000 · Am7 0000 · C 0003 · D 2220 · Bm 4222
 
 ```text
@@ -19463,12 +19400,12 @@ Em Em7 Am Am7);
 iar la ultimul vers al strofei C Bm (în loc de C D).
 ```
 
-#### 412. Pat de flori
+#### 410. Pat de flori
 
 **Contrapunct** · Sursa: Caiet Christian Adventure, p. 122 · Caiet cabană RO, p. 120 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/contrapunct/pat-de-flori-1667)
 
-**Chitară:** C x32010 · Am x02210 · G 320003 · Dm xx0231
 
+**Chitară:** C x32010 · Am x02210 · G 320003 · Dm xx0231
 **Ukulele:** C 0003 · Am 2000 · G 0232 · Dm 2210
 
 ```text
@@ -19520,12 +19457,12 @@ Că te-ntorci la mine-n zori
 Că te-ntorci pe pat de flori.
 ```
 
-#### 413. Pe corso (I)
+#### 411. Pe corso (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 127 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/pe-corso-749)
 
-**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210 · D xx0232
 
+**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210 · D xx0232
 **Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000 · D 2220
 
 ```text
@@ -19592,12 +19529,12 @@ Decât pentru mândre, mai bine
 Să mori sănătos!
 ```
 
-#### 414. Pe corso (II)
+#### 412. Pe corso (II)
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă/Horia Stoicanu · Sursa: Cărticica Karban, p. 173
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · C x32010
 
+**Chitară:** D xx0232 · G 320003 · A x02220 · C x32010
 **Ukulele:** D 2220 · G 0232 · A 2100 · C 0003
 
 ```text
@@ -19631,12 +19568,12 @@ Să mori sănă[G]tos!
 Amice, privește
 ```
 
-#### 415. Pe deal pe la Cornățel
+#### 413. Pe deal pe la Cornățel
 
 **Popular** · Sursa: Cărticica Karban, p. 212
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -19660,12 +19597,12 @@ Notă:Cântecul e în măsura 3/4 și (după părerea mea) e destul de simplu de
 cântat.
 ```
 
-#### 416. Peste răbdări
+#### 414. Peste răbdări
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Gh. Azap · Sursa: Cărticica Karban, p. 174
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -19697,12 +19634,12 @@ Refren
 [G]În lumea-n [D]care tu mă [G]minți
 ```
 
-#### 417. Peste-al nostru sărut
+#### 415. Peste-al nostru sărut
 
 **Ovidiu Scridon** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 183
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · Am x02210 · Am7 x02010
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · Am x02210 · Am7 x02010
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · Am 2000 · Am7 0000
 
 ```text
@@ -19736,12 +19673,12 @@ Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
 sus!
 ```
 
-#### 418. Piața Romană nr.9
+#### 416. Piața Romană nr.9
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 96 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/piata-romana-nr-9-1776)
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · D xx0232
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · D xx0232
 **Ukulele:** Am 2000 · G 0232 · C 0003 · D 2220
 
 ```text
@@ -19784,12 +19721,12 @@ AȘa că vino sus dacă plouă
 Piața Romană Nr.9.
 ```
 
-#### 419. Pisică neagră
+#### 417. Pisică neagră
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 36
 
-**Chitară:** E 022100 · A x02220 · B x24442
 
+**Chitară:** E 022100 · A x02220 · B x24442
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
@@ -19818,12 +19755,12 @@ să folosești și o chitară electrica atunci poți să transpui poate și riff
 care însoțește toată melodia.
 ```
 
-#### 420. Ploaia
+#### 418. Ploaia
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
 
-**Chitară:** Dm xx0231 · Am x02210 · B x24442 · E 022100 · G 320003 · C x32010
 
+**Chitară:** Dm xx0231 · Am x02210 · B x24442 · E 022100 · G 320003 · C x32010
 **Ukulele:** Dm 2210 · Am 2000 · B 4322 · E 4442 · G 0232 · C 0003
 
 ```text
@@ -19870,12 +19807,12 @@ Zău, îmi e greu
 Refren1 x2 + Refren2
 ```
 
-#### 421. Ploaia (II)
+#### 419. Ploaia (II)
 
 Sursa: Caiet cabană RO, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · A x02220
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · A x02220
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · A 2100
 
 ```text
@@ -19918,12 +19855,12 @@ Trecutele neguri din cale-ți vor zbura
 Și tainele iubirii le vom învăța.
 ```
 
-#### 422. Ploaia care va veni (I)
+#### 420. Ploaia care va veni (I)
 
 **Florian Pitiș** · Sursa: Caiet Christian Adventure, p. 129 · Caiet cabană RO, p. 94 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/ploaia-care-va-veni-1456)
 
-**Chitară:** D xx0232 · F#m 244222 · A x02220 · Em 022000
 
+**Chitară:** D xx0232 · F#m 244222 · A x02220 · Em 022000
 **Ukulele:** D 2220 · F#m 2120 · A 2100 · Em 0432
 
 ```text
@@ -19993,12 +19930,12 @@ Le va potopi pe toate. x4
 ul.
 ```
 
-#### 423. Ploaia care va veni (II)
+#### 421. Ploaia care va veni (II)
 
 **Pasărea Colibri** · muzica/versuri: Dorin Liviu Zaharia -adaptare după o piesa a grupului ECHIPA'84/Dorin Liviu · Sursa: Cărticica Karban, p. 110
 
-**Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · Em 022000
 
+**Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · Em 022000
 **Ukulele:** D 2220 · Bm 4222 · A 2100 · G 0232 · Em 0432
 
 ```text
@@ -20029,12 +19966,12 @@ Note:Cred că pe net am văzut transcrieri și din C.
 După părerea mea pe cd-ul cu Pasărea Colibrie este cântata din D.
 ```
 
-#### 424. Ploaie în luna lui marte
+#### 422. Ploaie în luna lui marte
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 131 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/ploaie-in-luna-lui-marte-280)
 
-**Chitară:** C x32010 · Am x02210 · Em 022000 · Dm xx0231 · G 320003 · E 022100
 
+**Chitară:** C x32010 · Am x02210 · Em 022000 · Dm xx0231 · G 320003 · E 022100
 **Ukulele:** C 0003 · Am 2000 · Em 0432 · Dm 2210 · G 0232 · E 4442
 
 ```text
@@ -20073,12 +20010,12 @@ RĂspunde-mi cine-s mai frumoși
 oameni? ploaia?
 ```
 
-#### 425. Podul de piatra
+#### 423. Podul de piatra
 
 **Mircea Florian** · Sursa: Cărticica Karban, p. 71
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -20104,12 +20041,12 @@ Podul de pi[A]atra [G]trebuie refă[D]cut.
 [G]Altul mai [D]trainic [A]și mai [D]frumos.
 ```
 
-#### 426. Podul de piatra
+#### 424. Podul de piatra
 
 muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -20126,12 +20063,12 @@ După părerea mea sună puțin cam "brigadierist" cântecul J...
 Pentru o variantă mai complicată cauta la Mircea Florian.
 ```
 
-#### 427. Poveste
+#### 425. Poveste
 
 **Ștefan Banica Jr.** · muzica/versuri: Ștefan Banica Jr./Ștefan Banica Jr.? · Sursa: Cărticica Karban, p. 27
 
-**Chitară:** G 320003 · Am x02210 · C x32010 · D xx0232 · D7 xx0212 · Cm x35543 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · Am x02210 · C x32010 · D xx0232 · D7 xx0212 · Cm x35543 · Em 022000 · A x02220
 **Ukulele:** G 0232 · Am 2000 · C 0003 · D 2220 · D7 2223 · Cm 0333 · Em 0432 · A 2100
 
 ```text
@@ -20170,12 +20107,12 @@ loviturile însemnate cu ^ se execută de jos în sus. A două bătaie e mai len
 (aproape arpegiată) și durează ceva mai mult.
 ```
 
-#### 428. Prietene
+#### 426. Prietene
 
 **Vampy** · Sursa: Caiet Christian Adventure, p. 130 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/prietene-3060)
 
-**Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · E 022100 · A x02220 · Bm x24432
 
+**Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · E 022100 · A x02220 · Bm x24432
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003 · E 4442 · A 2100 · Bm 4222
 
 ```text
@@ -20230,12 +20167,12 @@ Prietene, nu te mai uita-napoi,
 Prietene, haide vino lângă noi.
 ```
 
-#### 429. Primavara - Paparuga
+#### 427. Primavara - Paparuga
 
 **Phoenix** · muzica/versuri: Prelucrare Nicolae Covaci/Popular · Sursa: Cărticica Karban, p. 127
 
-**Chitară:** F 133211 · G 320003 · C x32010 · Em 022000 · Am x02210
 
+**Chitară:** F 133211 · G 320003 · C x32010 · Em 022000 · Am x02210
 **Ukulele:** F 2010 · G 0232 · C 0003 · Em 0432 · Am 2000
 
 ```text
@@ -20270,12 +20207,12 @@ F G C F G Em F
 [C]Locu' [Am]să să [G]moaie
 ```
 
-#### 430. Proverbe
+#### 428. Proverbe
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 93 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/proverbe-1542)
 
-**Chitară:** Am x02210 · Em 022000 · F 133211 · C x32010 · G 320003
 
+**Chitară:** Am x02210 · Em 022000 · F 133211 · C x32010 · G 320003
 **Ukulele:** Am 2000 · Em 0432 · F 2010 · C 0003 · G 0232
 
 ```text
@@ -20322,12 +20259,12 @@ Altuia-i sapi groapa, tu ajungi în ea
 Dar să lași ulciorul la apă mai rar.
 ```
 
-#### 431. Pseudofabula
+#### 429. Pseudofabula
 
 **Roșu și negru** · Sursa: Caiet Christian Adventure, p. 132
 
-**Chitară:** G 320003 · Am x02210 · F 133211 · Dm xx0231 · C x32010
 
+**Chitară:** G 320003 · Am x02210 · F 133211 · Dm xx0231 · C x32010
 **Ukulele:** G 0232 · Am 2000 · F 2010 · Dm 2210 · C 0003
 
 ```text
@@ -20398,12 +20335,12 @@ F            G  C
 Stă pitit un șoricel
 ```
 
-#### 432. Puștoaico
+#### 430. Puștoaico
 
 Sursa: Caiet cabană RO, p. 63
 
-**Chitară:** Em 022000 · Am x02210 · B7 x21202
 
+**Chitară:** Em 022000 · Am x02210 · B7 x21202
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -20424,12 +20361,12 @@ Puștoaico , ți-am fost suflet prea credincios
 Puștoaico, de-acum nimic nu are rost.
 ```
 
-#### 433. Puterea să alegi
+#### 431. Puterea să alegi
 
 Sursa: Caiet cabană RO, p. 43 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/puterea-s-alegi-5403)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -20459,12 +20396,12 @@ Dar te rog cât ai încă văpăi
 DĂ-i inimii tale mai dă-i.
 ```
 
-#### 434. Rănitul dintre linii (I)
+#### 432. Rănitul dintre linii (I)
 
 **Mircea Bodolan** · Sursa: Caiet cabană RO, p. 150
 
-**Chitară:** C x32010 · G7 320001
 
+**Chitară:** C x32010 · G7 320001
 **Ukulele:** C 0003 · G7 0212
 
 ```text
@@ -20502,12 +20439,12 @@ Cine-i alături și mă cheamă,
 mamă...
 ```
 
-#### 435. Rănitul dintre linii (II)
+#### 433. Rănitul dintre linii (II)
 
 **Mircea Bodolan** · muzica/versuri: Mircea Bodolan/Demostene Botez · Sursa: Cărticica Karban, p. 53
 
-**Chitară:** C x32010 · G7 320001
 
+**Chitară:** C x32010 · G7 320001
 **Ukulele:** C 0003 · G7 0212
 
 ```text
@@ -20543,12 +20480,12 @@ E||-------------------------|--3----------------------||
 Exemplificat aici pentru C și G7 (singurele acorduri folosite în melodie).
 ```
 
-#### 436. Rar
+#### 434. Rar
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/George Bacovia · Sursa: Cărticica Karban, p. 19
 
-**Chitară:** D xx0232 · C x32010 · Dm xx0231 · Bb x13331 · A x02220
 
+**Chitară:** D xx0232 · C x32010 · Dm xx0231 · Bb x13331 · A x02220
 **Ukulele:** D 2220 · C 0003 · Dm 2210 · Bb 3211 · A 2100
 
 ```text
@@ -20576,12 +20513,12 @@ Refren:
 Se fluiera următoarea progresie de acorduri Dm C Bb A
 ```
 
-#### 437. Resemnare paternă
+#### 435. Resemnare paternă
 
 Sursa: Caiet cabană RO, p. 105
 
-**Chitară:** Dm xx0231 · G7 320001 · D xx0232 · G 320003
 
+**Chitară:** Dm xx0231 · G7 320001 · D xx0232 · G 320003
 **Ukulele:** Dm 2210 · G7 0212 · D 2220 · G 0232
 
 ```text
@@ -20614,12 +20551,12 @@ Neobosită-ntruna doar învață
 Și un gol în suflet I-ai lăsat.
 ```
 
-#### 438. Romanță de toamnă
+#### 436. Romanță de toamnă
 
 **Vasile Mardare** · Sursa: Caiet cabană RO, p. 11 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/romanta-de-toamna-3289)
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -20658,12 +20595,12 @@ Scriu scrisori pe flori lăcrimând în ploi
 Într-un liber schimb cu universul.
 ```
 
-#### 439. Romanță între două trenuri (I)
+#### 437. Romanță între două trenuri (I)
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 112 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/romanta-intre-doua-trenuri-670)
 
-**Chitară:** G 320003 · Am x02210 · D7 xx0212 · B x24442 · C x32010 · Bm x24432
 
+**Chitară:** G 320003 · Am x02210 · D7 xx0212 · B x24442 · C x32010 · Bm x24432
 **Ukulele:** G 0232 · Am 2000 · D7 2223 · B 4322 · C 0003 · Bm 4222
 
 ```text
@@ -20704,12 +20641,12 @@ Uitată pe un vechi peron
 Sclipind la ultimul vagon.
 ```
 
-#### 440. Romanță între două trenuri (II)
+#### 438. Romanță între două trenuri (II)
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/Dan Verona · Sursa: Cărticica Karban, p. 139
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · E 022100 · F 133211 · Em 022000
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · E 022100 · F 133211 · Em 022000
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · E 4442 · F 2010 · Em 0432
 
 ```text
@@ -20746,12 +20683,12 @@ E||--------------------||
 exemplificată aici pentru acordul C.
 ```
 
-#### 441. Roșu aprins
+#### 439. Roșu aprins
 
 **Luna amară** · Sursa: Caiet Christian Adventure, p. 137 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/luna-amara/rosu-aprins-752)
 
-**Chitară:** C x32010 · G 320003 · Gsus4 330013 · Am x02210 · Am7 x02010 · F 133211 · Fadd9 xx3213 · B x24442
 
+**Chitară:** C x32010 · G 320003 · Gsus4 330013 · Am x02210 · Am7 x02010 · F 133211 · Fadd9 xx3213 · B x24442
 **Ukulele:** C 0003 · G 0232 · Gsus4 0233 · Am 2000 · Am7 0000 · F 2010 · Fadd9 0010 · B 4322
 
 ```text
@@ -20789,12 +20726,12 @@ Roșu aprins să-mi ascundă durerea
 Vreau să te iert
 ```
 
-#### 442. Rugă pentru părinți (I)
+#### 440. Rugă pentru părinți (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 47 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/stefan-hrusca/ruga-pentru-parinti-373)
 
-**Chitară:** Dm xx0231 · C x32010 · F 133211 · E 022100 · Am x02210
 
+**Chitară:** Dm xx0231 · C x32010 · F 133211 · E 022100 · Am x02210
 **Ukulele:** Dm 2210 · C 0003 · F 2010 · E 4442 · Am 2000
 
 ```text
@@ -20833,12 +20770,12 @@ RĂmas bun băiatul meu rămas bun fetița mea
 Tatăl meu, băiatul meu, mama mea , fetița mea ...
 ```
 
-#### 443. Rugă pentru părinți (II)
+#### 441. Rugă pentru părinți (II)
 
 **Ștefan Hrușcă** · Sursa: Cărticica Karban, p. 80
 
-**Chitară:** Am x02210 · Dm xx0231 · G7 320001 · C x32010 · E 022100 · F 133211
 
+**Chitară:** Am x02210 · Dm xx0231 · G7 320001 · C x32010 · E 022100 · F 133211
 **Ukulele:** Am 2000 · Dm 2210 · G7 0212 · C 0003 · E 4442 · F 2010
 
 ```text
@@ -20885,12 +20822,12 @@ munte" doar cu ceva foarte mici modificări.
 [F]Mama [E]mea, fetița [Am]mea...
 ```
 
-#### 444. Să nu-mi iei niciodată dragostea
+#### 442. Să nu-mi iei niciodată dragostea
 
 **Holograf** · Sursa: Cărticica Karban, p. 74
 
-**Chitară:** G 320003 · Cadd9 x32030 · D xx0232 · C x32010 · Em 022000 · Bm x24432 · Am x02210
 
+**Chitară:** G 320003 · Cadd9 x32030 · D xx0232 · C x32010 · Em 022000 · Bm x24432 · Am x02210
 **Ukulele:** G 0232 · Cadd9 0203 · D 2220 · C 0003 · Em 0432 · Bm 4222 · Am 2000
 
 ```text
@@ -20933,12 +20870,12 @@ Dar să [Em]nu-mi iei [C]nicio[D]dată [G]dragostea
 Refren
 ```
 
-#### 445. Să trosnească lemne-n foc (I)
+#### 443. Să trosnească lemne-n foc (I)
 
 **Grupul Ecoul** · Sursa: Caiet cabană RO, p. 100
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · G7 320001
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · G7 320001
 **Ukulele:** G 0232 · C 0003 · D 2220 · G7 0212
 
 ```text
@@ -20986,12 +20923,12 @@ SĂ miroase-a busuioc, să miroase
 SĂ miroase-a mere coapte.
 ```
 
-#### 446. Să trosnească lemne-n foc (II)
+#### 444. Să trosnească lemne-n foc (II)
 
 **Grupul Ecoul** · muzica/versuri: Grupul Ecoul/??? · Sursa: Cărticica Karban, p. 65
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -21027,12 +20964,12 @@ SĂ miroase-a mere coapte.
 [G]Poveste [D]poveste...
 ```
 
-#### 447. Sala pașilor pierduți
+#### 445. Sala pașilor pierduți
 
 Sursa: Caiet cabană RO, p. 164
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · E 022100 · Am x02210 · F 133211
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · E 022100 · Am x02210 · F 133211
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · E 4442 · Am 2000 · F 2010
 
 ```text
@@ -21087,12 +21024,12 @@ Greul ei și-amar și n-am fost
 Vrednici măcar de-o întrebare.
 ```
 
-#### 448. Săracă inima me' (I)
+#### 446. Săracă inima me' (I)
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 74 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/saraca-inima-me-304)
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -21136,12 +21073,12 @@ Fi Raiule cu plăcere
 Noi mai pe din gios om mere.
 ```
 
-#### 449. Săracă inima me' (II)
+#### 447. Săracă inima me' (II)
 
 **Ducu Bertzi** · muzica/versuri: popular din Maramureș - Ardeal?/populare · Sursa: Cărticica Karban, p. 50
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -21202,12 +21139,12 @@ E||----------------------|--0-------------------|||------------0---------|------
 La refren se poate folosi același model dar cu bass alternativ.
 ```
 
-#### 450. Scândura
+#### 448. Scândura
 
 Sursa: Caiet cabană RO, p. 151
 
-**Chitară:** G 320003 · Em 022000 · D xx0232 · Am x02210
 
+**Chitară:** G 320003 · Em 022000 · D xx0232 · Am x02210
 **Ukulele:** G 0232 · Em 0432 · D 2220 · Am 2000
 
 ```text
@@ -21238,12 +21175,12 @@ A tinereții trăite până la sânge
 Care mă doare când ninge.
 ```
 
-#### 451. Scrisoare de rămas bun (I)
+#### 449. Scrisoare de rămas bun (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 138 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/scrisoare-de-ramas-bun-2980)
 
-**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · G 0232
 
 ```text
@@ -21285,12 +21222,12 @@ Decât tăcerea ce-mi va fi mai rău
 Când nu mai știu ce-nseamnă umbra ta
 ```
 
-#### 452. Scrisoare de rămas bun (II)
+#### 450. Scrisoare de rămas bun (II)
 
 **Mircea Baniciu/Pasărea Colibri** · variantă a cântecului „Scrisoare de rămas bun”, cu titlul „Numărători de ploi” · Sursa: Caiet cabană RO, p. 123
 
-**Chitară:** G 320003 · Em 022000 · Am x02210 · D7 xx0212 · D xx0232 · E 022100
 
+**Chitară:** G 320003 · Em 022000 · Am x02210 · D7 xx0212 · D xx0232 · E 022100
 **Ukulele:** G 0232 · Em 0432 · Am 2000 · D7 2223 · D 2220 · E 4442
 
 ```text
@@ -21337,12 +21274,12 @@ Decât tăcerea ce-mi vafi mai rău
 Când nu mai știu ce-nseamnă umbra ta.
 ```
 
-#### 453. Scrisoare de rămas bun (III)
+#### 451. Scrisoare de rămas bun (III)
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Gheorghe Țărnea · Sursa: Cărticica Karban, p. 37
 
-**Chitară:** G 320003 · Em 022000 · Am x02210 · D7 xx0212 · D xx0232 · B7 x21202
 
+**Chitară:** G 320003 · Em 022000 · Am x02210 · D7 xx0212 · D xx0232 · B7 x21202
 **Ukulele:** G 0232 · Em 0432 · Am 2000 · D7 2223 · D 2220 · B7 2322
 
 ```text
@@ -21377,12 +21314,12 @@ Când nu mai știu ce-nseamnă umbra ta.
 [G]Iubito câtă lume între noi...
 ```
 
-#### 454. Seara de mai
+#### 452. Seara de mai
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 139 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/seara-de-mai-4551)
 
-**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
 
 ```text
@@ -21449,12 +21386,12 @@ Refren1
 Refren2 x2
 ```
 
-#### 455. Sfârșitul nu-i aici
+#### 453. Sfârșitul nu-i aici
 
 **Pasărea Colibri** · muzica/versuri: în original - Death Is Not The End · Sursa: Cărticica Karban, p. 111
 
-**Chitară:** A x02220 · E 022100
 
+**Chitară:** A x02220 · E 022100
 **Ukulele:** A 2100 · E 4442
 
 ```text
@@ -21492,12 +21429,12 @@ Printre-atâtea mii de venetici,
 Tine [E]minte sfârșitul nu-i [A]aici.
 ```
 
-#### 456. Și dacă (I)
+#### 454. Și dacă (I)
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 135
 
-**Chitară:** Am x02210 · C x32010 · F 133211 · G 320003
 
+**Chitară:** Am x02210 · C x32010 · F 133211 · G 320003
 **Ukulele:** Am 2000 · C 0003 · F 2010 · G 0232
 
 ```text
@@ -21518,12 +21455,12 @@ Tine [E]minte sfârșitul nu-i [A]aici.
 [C]De tine-[G]ntotdea[Am]una.
 ```
 
-#### 457. Și dacă (II)
+#### 455. Și dacă (II)
 
 **Pro Musica** · Sursa: Cărticica Karban, p. 136
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · Am x02210 · B7 x21202 · G 320003 · A x02220
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · Am x02210 · B7 x21202 · G 320003 · A x02220
 **Ukulele:** Em 0432 · D 2220 · C 0003 · Am 2000 · B7 2322 · G 0232 · A 2100
 
 ```text
@@ -21566,12 +21503,12 @@ Deci cam asta ar fi nouă variantă, poate cea mai aprtopiata de adevăr...
 [Am]De tine-[B7]ntotdea[Em]una.
 ```
 
-#### 458. Și de-ar fi (I)
+#### 456. Și de-ar fi (I)
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/si-de-ar-fi-305)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -21611,12 +21548,12 @@ Va veni și ziua cea dintâi din toate
 Inventată parcă numai pentru noi.
 ```
 
-#### 459. Și de-ar fi (II)
+#### 457. Și de-ar fi (II)
 
 **Ducu Bertzi** · Sursa: Cărticica Karban, p. 51
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -21650,12 +21587,12 @@ Refren 2
 Refren 2
 ```
 
-#### 460. Și-am iubit o ardeleancă
+#### 458. Și-am iubit o ardeleancă
 
 **Radu Ilie** · Sursa: Caiet Christian Adventure, p. 147 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/radu-ilie/si-am-iubit-o-ardeleanca-5581)
 
-**Chitară:** Am x02210 · Dm xx0231 · E7 020100 · C x32010 · F 133211
 
+**Chitară:** Am x02210 · Dm xx0231 · E7 020100 · C x32010 · F 133211
 **Ukulele:** Am 2000 · Dm 2210 · E7 1202 · C 0003 · F 2010
 
 ```text
@@ -21702,12 +21639,12 @@ Că mă pupă în toată torna
 Refren x2
 ```
 
-#### 461. Singur în noapte (I)
+#### 459. Singur în noapte (I)
 
 **Compact** · Sursa: Caiet cabană RO, p. 97 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/singur-in-noapte-11271)
 
-**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · Em 022000 · A x02220
 
+**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · Em 022000 · A x02220
 **Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · Em 0432 · A 2100
 
 ```text
@@ -21750,12 +21687,12 @@ Niciodată nu te voi uita
 Cheamă-mă oricând vei vrea.
 ```
 
-#### 462. Singur în noapte (II)
+#### 460. Singur în noapte (II)
 
 **Compact** · muzica/versuri: Adrian Ordean?/??? · Sursa: Cărticica Karban, p. 58
 
-**Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232
 **Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220
 
 ```text
@@ -21791,12 +21728,12 @@ Rătă[C]cesc  (Vocea a două:Rătă[D]cesc)
 Refren
 ```
 
-#### 463. Singură
+#### 461. Singură
 
 **Phoenix** · Sursa: Caiet cabană RO, p. 141 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/singur-832)
 
-**Chitară:** D xx0232 · G 320003 · B7 x21202 · Em 022000 · Am x02210 · C x32010
 
+**Chitară:** D xx0232 · G 320003 · B7 x21202 · Em 022000 · Am x02210 · C x32010
 **Ukulele:** D 2220 · G 0232 · B7 2322 · Em 0432 · Am 2000 · C 0003
 
 ```text
@@ -21839,12 +21776,12 @@ Amar la sân să cadă
 La mine-n suflet bat.
 ```
 
-#### 464. Spune ce vrei
+#### 462. Spune ce vrei
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 62
 
-**Chitară:** A x02220 · E/A x02100 · D/A x00232 · E/B x22100 · D xx0232
 
+**Chitară:** A x02220 · E/A x02100 · D/A x00232 · E/B x22100 · D xx0232
 **Ukulele:** A 2100 · E/A 4442 · D/A 2220 · E/B 4442 · D 2220
 
 ```text
@@ -21886,12 +21823,12 @@ Acordurile sunt date numai pentru puriști.
 Pe tot parcursul cântecului se repetă riff-ul de la intro.
 ```
 
-#### 465. Spune-mi cine ești (I)
+#### 463. Spune-mi cine ești (I)
 
 **Semnal M** · Sursa: Caiet Christian Adventure, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/spune-mi-cine-esti-1407)
 
-**Chitară:** Am x02210 · E7 020100 · C x32010 · D xx0232 · Dm xx0231 · F 133211 · Em 022000 · A x02220 · G 320003 · Fm 133111 · B x24442
 
+**Chitară:** Am x02210 · E7 020100 · C x32010 · D xx0232 · Dm xx0231 · F 133211 · Em 022000 · A x02220 · G 320003 · Fm 133111 · B x24442
 **Ukulele:** Am 2000 · E7 1202 · C 0003 · D 2220 · Dm 2210 · F 2010 · Em 0432 · A 2100 · G 0232 · Fm 1013 · B 4322
 
 ```text
@@ -21969,12 +21906,12 @@ Spune-mi dacă voi afla
 /Într-o bună zi și drumul/ spre inima ta
 ```
 
-#### 466. Spune-mi cine ești (II)
+#### 464. Spune-mi cine ești (II)
 
 **Semnal M** · muzica/versuri: Semnal M/??? · Sursa: Cărticica Karban, p. 143
 
-**Chitară:** Em 022000 · B7 x21202 · G 320003 · Am x02210 · C x32010 · Bm x24432 · E7 020100 · D xx0232
 
+**Chitară:** Em 022000 · B7 x21202 · G 320003 · Am x02210 · C x32010 · Bm x24432 · E7 020100 · D xx0232
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · Am 2000 · C 0003 · Bm 4222 · E7 1202 · D 2220
 
 ```text
@@ -22017,12 +21954,12 @@ Spune-mi dacă [E7]voi afla
 Note:la refren o chitară tine armonia, cealaltă intro-ul
 ```
 
-#### 467. Strada Popa Nan (I)
+#### 465. Strada Popa Nan (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 143 · Caiet cabană RO, p. 85 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/strada-popa-nan-689)
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -22066,12 +22003,12 @@ Nu e nicăieri, nicăieri .
 Refren x4
 ```
 
-#### 468. Strada Popa Nan (II)
+#### 466. Strada Popa Nan (II)
 
 **Mircea Vintilă** · muzica/versuri: Mircea Vintilă/Dorin Liviu Zaharia · Sursa: Cărticica Karban, p. 175
 
-**Chitară:** D xx0232 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A x02220
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
@@ -22098,12 +22035,12 @@ Refren:
 [D]Nu e nicăieri, [G]nică[D]ieri.
 ```
 
-#### 469. Strada ta (I)
+#### 467. Strada ta (I)
 
 **Iris** · Sursa: Caiet cabană RO, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/strada-ta-610)
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
 
 ```text
@@ -22135,12 +22072,12 @@ O clipă doar tu m-ai zărit
 Și te-am strigat dar n-ai venit.
 ```
 
-#### 470. Strada ta (II)
+#### 468. Strada ta (II)
 
 **Iris** · muzica/versuri: Cristian Minculescu/Cristian Minculescu · Sursa: Cărticica Karban, p. 89
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220 · E 022100
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220 · E 022100
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100 · E 4442
 
 ```text
@@ -22170,12 +22107,12 @@ Refren:
 Notă: Acordurile D C și E D de la refren se fac cu câte 2 bătăi.
 ```
 
-#### 471. Suflet fără chei
+#### 469. Suflet fără chei
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 135 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/suflet-fara-chei-306)
 
-**Chitară:** Am x02210 · E 022100 · F 133211 · Dm xx0231 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · F 133211 · Dm xx0231 · C x32010
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Dm 2210 · C 0003
 
 ```text
@@ -22217,12 +22154,12 @@ Unde-s pașii tăi cei dragi, sânii mirosind a fragi
 Mâna vai, pe strune-mi moare și pe tine nu te doare.
 ```
 
-#### 472. Sunt sărac
+#### 470. Sunt sărac
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 145 · Caiet cabană RO, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/sunt-sarac-2876)
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -22267,12 +22204,12 @@ Mai săraci suntem ca voi
 Noi tot am venit la voi !/ x2 Hei !
 ```
 
-#### 473. Supărat
+#### 471. Supărat
 
 **Theo & Hara Band** · muzica/versuri: Theo & Hara Band\??? · Sursa: Cărticica Karban, p. 137
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -22302,12 +22239,12 @@ E||-------------------------|-------------------------|--0----------------0-----
 Restul merge ca de la sine după ca asculți melodia de câteva ori.
 ```
 
-#### 474. Tăcut
+#### 472. Tăcut
 
 Sursa: Caiet cabană RO, p. 144
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · E 022100 · D7 xx0212 · D xx0232 · A x02220 · Bm x24432 · F# 244322 · Dm xx0231
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · E 022100 · D7 xx0212 · D xx0232 · A x02220 · Bm x24432 · F# 244322 · Dm xx0231
 **Ukulele:** C 0003 · G 0232 · Am 2000 · E 4442 · D7 2223 · D 2220 · A 2100 · Bm 4222 · F# 3121 · Dm 2210
 
 ```text
@@ -22349,12 +22286,12 @@ TĂcut ca două boabe mari de grâu
 TĂcut ca două boabe mari de grâu.
 ```
 
-#### 475. Taina (I)
+#### 473. Taina (I)
 
 **Holograf** · Sursa: Caiet cabană RO, p. 104 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/taina-5153)
 
-**Chitară:** D xx0232 · D7 xx0212 · G 320003 · A x02220 · A7 x02020
 
+**Chitară:** D xx0232 · D7 xx0212 · G 320003 · A x02220 · A7 x02020
 **Ukulele:** D 2220 · D7 2223 · G 0232 · A 2100 · A7 0100
 
 ```text
@@ -22388,12 +22325,12 @@ Lasă telefonu-n pace
 CĂci în noaptea asta, în noaptea asta, mamă nu-s de găsit.
 ```
 
-#### 476. Taina (II)
+#### 474. Taina (II)
 
 **Ecoul** · Sursa: Cărticica Karban, p. 67
 
-**Chitară:** D xx0232 · D7 xx0212 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · D7 xx0212 · G 320003 · A x02220
 **Ukulele:** D 2220 · D7 2223 · G 0232 · A 2100
 
 ```text
@@ -22416,12 +22353,12 @@ Lasă telefonu-n [G]pace
 Căci în [A]noaptea asta, în [D]noaptea asta, [A]mama nu-s de gă[D]sit.
 ```
 
-#### 477. Tango retoric
+#### 475. Tango retoric
 
 **Vasile Șeicaru** · muzica/versuri: Vasile Șeicaru/George Țărnea · Sursa: Cărticica Karban, p. 140
 
-**Chitară:** Am x02210 · E 022100 · A7 x02020 · Dm xx0231 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · A7 x02020 · Dm xx0231 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E 4442 · A7 0100 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -22443,12 +22380,12 @@ Dacă-n [Am]cer e doar [E]ger și totuși eu mai [Am]sper
 Refren:
 ```
 
-#### 478. Țăranul e pe câmp
+#### 476. Țăranul e pe câmp
 
 Sursa: Cărticica Karban, p. 260
 
-**Chitară:** F 133211 · C7 x32310
 
+**Chitară:** F 133211 · C7 x32310
 **Ukulele:** F 2010 · C7 0001
 
 ```text
@@ -22471,12 +22408,12 @@ Hei, hai lelita mea, și [C7]brânză la gu[F]noi.
 Notă: Măsura cântecului e 4/4
 ```
 
-#### 479. Tardive
+#### 477. Tardive
 
 **Karma** · Sursa: Caiet Christian Adventure, p. 148 · Caiet cabană RO, p. 122 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/tardive-1428)
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · F 133211
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231 · F 133211
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Dm 2210 · F 2010
 
 ```text
@@ -22514,12 +22451,12 @@ Că viața mă-ndeamnă să nu uit că mi-e dat
 Refren x2
 ```
 
-#### 480. Târg de sclavi
+#### 478. Târg de sclavi
 
 Sursa: Caiet cabană RO, p. 104
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -22551,12 +22488,12 @@ Vânzând ca-ntr-un târg pentru vite copii.
 .., 1....
 ```
 
-#### 481. Te întreb pe tine soare (I)
+#### 479. Te întreb pe tine soare (I)
 
 **Phoenix** · Sursa: Caiet cabană RO, p. 82 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/te-intreb-pe-tine-soare-642)
 
-**Chitară:** G 320003 · A x02220 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · A x02220 · C x32010 · D xx0232
 **Ukulele:** G 0232 · A 2100 · C 0003 · D 2220
 
 ```text
@@ -22599,12 +22536,12 @@ Te întreb pe tine soare:
 "MĂ vezi tu pe mine oare?"
 ```
 
-#### 482. Te întreb pe tine soare (II)
+#### 480. Te întreb pe tine soare (II)
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 120
 
-**Chitară:** G 320003 · G7 320001 · A x02220 · A7 x02020 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · G7 320001 · A x02220 · A7 x02020 · C x32010 · D xx0232
 **Ukulele:** G 0232 · G7 0212 · A 2100 · A7 0100 · C 0003 · D 2220
 
 ```text
@@ -22640,12 +22577,12 @@ Primul și al treilea vers al strofelor se repetă de vocea a două cu aceleași
 acorduri.
 ```
 
-#### 483. Te voi aștepta
+#### 481. Te voi aștepta
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 63
 
-**Chitară:** C x32010 · Em7 020000 · Am x02210 · A x02220 · F 133211 · Fm 133111 · A4 x02230
 
+**Chitară:** C x32010 · Em7 020000 · Am x02210 · A x02220 · F 133211 · Fm 133111 · A4 x02230
 **Ukulele:** C 0003 · Em7 0202 · Am 2000 · A 2100 · F 2010 · Fm 1013 · A4 2200
 
 ```text
@@ -22662,12 +22599,12 @@ Refren:
 Refren 3X
 ```
 
-#### 484. Teama
+#### 482. Teama
 
 Sursa: Caiet cabană RO, p. 44
 
-**Chitară:** Dm xx0231 · A x02220 · G 320003
 
+**Chitară:** Dm xx0231 · A x02220 · G 320003
 **Ukulele:** Dm 2210 · A 2100 · G 0232
 
 ```text
@@ -22696,12 +22633,12 @@ N-ai să știi ce mult te-aș fi iubit
 Și cuibul se strică pe creanga uscată.
 ```
 
-#### 485. Ți-am spus adio de mult
+#### 483. Ți-am spus adio de mult
 
 **Dan Zorilă** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 187
 
-**Chitară:** D xx0232 · D4 xx0233 · Bm x24432 · G 320003 · A x02220 · F#m 244222
 
+**Chitară:** D xx0232 · D4 xx0233 · Bm x24432 · G 320003 · A x02220 · F#m 244222
 **Ukulele:** D 2220 · D4 0230 · Bm 4222 · G 0232 · A 2100 · F#m 2120
 
 ```text
@@ -22735,12 +22672,12 @@ Refren
 Note: Acordul D4 se execută cu acordul D în cadrul aceleiași măsuri.
 ```
 
-#### 486. Tigano
+#### 484. Tigano
 
 **Bosquito** · muzica/versuri: Bosquito/Bosquito · Sursa: Cărticica Karban, p. 54
 
-**Chitară:** Dm xx0231 · Gm 355333 · C x32010 · Bb x13331 · A x02220
 
+**Chitară:** Dm xx0231 · Gm 355333 · C x32010 · Bb x13331 · A x02220
 **Ukulele:** Dm 2210 · Gm 0231 · C 0003 · Bb 3211 · A 2100
 
 ```text
@@ -22768,12 +22705,12 @@ Eram [Gm]un singur [C]glas
 Refren
 ```
 
-#### 487. Timișoara
+#### 485. Timișoara
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Mircea Florian · Sursa: Cărticica Karban, p. 121
 
-**Chitară:** Em 022000 · G 320003 · Am x02210 · D xx0232 · C x32010
 
+**Chitară:** Em 022000 · G 320003 · Am x02210 · D xx0232 · C x32010
 **Ukulele:** Em 0432 · G 0232 · Am 2000 · D 2220 · C 0003
 
 ```text
@@ -22839,12 +22776,12 @@ Note:Unele versuri le-am reîmpărțit pentru a reda mai bine vizual formulă de
 acorduri a cântecului.
 ```
 
-#### 488. Toți suntem puțin luați
+#### 486. Toți suntem puțin luați
 
 **Pasărea Colibri** · muzica/versuri: Rainy Day Women · Sursa: Cărticica Karban, p. 112
 
-**Chitară:** E 022100 · A x02220 · B x24442
 
+**Chitară:** E 022100 · A x02220 · B x24442
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
@@ -22889,12 +22826,12 @@ Pe de altă parte toată melodia poate fi interpretată și folosind numai acest
 riff-uri
 ```
 
-#### 489. Totuși, iubirea
+#### 487. Totuși, iubirea
 
 Sursa: Caiet cabană RO, p. 44
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -22932,12 +22869,12 @@ Prăval peste tine pădurea
 Adio, adică rămâi.
 ```
 
-#### 490. Trandafir de la Moldova
+#### 488. Trandafir de la Moldova
 
 **Popular** · Sursa: Cărticica Karban, p. 207
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -22966,12 +22903,12 @@ Notă: Cântecul e în măsura 2/4 și după părerea mea foarte simplu de
 interpretat.
 ```
 
-#### 491. Trandafirul albastru
+#### 489. Trandafirul albastru
 
 Sursa: Caiet cabană RO, p. 156
 
-**Chitară:** Bm x24432 · D xx0232 · A x02220 · F# 244322 · Em 022000
 
+**Chitară:** Bm x24432 · D xx0232 · A x02220 · F# 244322 · Em 022000
 **Ukulele:** Bm 4222 · D 2220 · A 2100 · F# 3121 · Em 0432
 
 ```text
@@ -23003,12 +22940,12 @@ Abia atunci m-ai iertat, m-ai iubit weichen blau
 Abia atunci m-ai iubit, prea târziu...
 ```
 
-#### 492. Trece vremea
+#### 490. Trece vremea
 
 **VH2** · muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 161
 
-**Chitară:** A x02220 · E 022100 · F#m 244222 · D xx0232 · A4 x02230 · E4 022200
 
+**Chitară:** A x02220 · E 022100 · F#m 244222 · D xx0232 · A4 x02230 · E4 022200
 **Ukulele:** A 2100 · E 4442 · F#m 2120 · D 2220 · A4 2200 · E4 4452
 
 ```text
@@ -23047,12 +22984,12 @@ Refren 2X
 E tot ce ne-a ră[A]mas...
 ```
 
-#### 493. Tristă fiară
+#### 491. Tristă fiară
 
 **Focul Viu** · Sursa: Caiet Christian Adventure, p. 153 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/trista-fiara-6177)
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · F 133211 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · F 133211 · E 022100
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · F 2010 · E 4442
 
 ```text
@@ -23110,12 +23047,12 @@ Aș vrea să te mai văd o dată.
 Refren x2
 ```
 
-#### 494. Tu
+#### 492. Tu
 
 **Conexiuni** · Sursa: Caiet Christian Adventure, p. 158 · Caiet cabană RO, p. 119 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/conexiuni/tu-394)
 
-**Chitară:** Dadd9 x54230 · Bm x24432 · G 320003 · A x02220 · D xx0232 · Fm 133111
 
+**Chitară:** Dadd9 x54230 · Bm x24432 · G 320003 · A x02220 · D xx0232 · Fm 133111
 **Ukulele:** Dadd9 2425 · Bm 4222 · G 0232 · A 2100 · D 2220 · Fm 1013
 
 ```text
@@ -23157,12 +23094,12 @@ Nu mai sunt eu, nu mai e nimic al meu
 Ești tu... Nu pleca, nu spune nu..
 ```
 
-#### 495. Țurțuri metalici
+#### 493. Țurțuri metalici
 
 **Karma** · Sursa: Caiet cabană RO, p. 155 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/turturi-metalici-7467)
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
@@ -23190,12 +23127,12 @@ Glasul tău dulce aș vrea să-l ascult
 Te văd, te aud, te strig și în somn.
 ```
 
-#### 496. Umbra (I)
+#### 494. Umbra (I)
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 121 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/umbra-283)
 
-**Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · C 0003 · Dm 2210
 
 ```text
@@ -23240,12 +23177,12 @@ O umbră în viață mă ține
 Și umbra aceea ești tu.
 ```
 
-#### 497. Umbra (II)
+#### 495. Umbra (II)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/George Bacovia · Sursa: Cărticica Karban, p. 20
 
-**Chitară:** Em 022000 · C x32010 · D xx0232 · G 320003 · B7 x21202 · Am x02210
 
+**Chitară:** Em 022000 · C x32010 · D xx0232 · G 320003 · B7 x21202 · Am x02210
 **Ukulele:** Em 0432 · C 0003 · D 2220 · G 0232 · B7 2322 · Am 2000
 
 ```text
@@ -23288,12 +23225,12 @@ E [B7]atâta de mult, dacă e [Em]nu
 Refren
 ```
 
-#### 498. Umbra (III)
+#### 496. Umbra (III)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/Adrian Păunescu · Sursa: Cărticica Karban, p. 21
 
-**Chitară:** Em 022000 · C x32010 · D xx0232 · G 320003 · B7 x21202 · Am x02210
 
+**Chitară:** Em 022000 · C x32010 · D xx0232 · G 320003 · B7 x21202 · Am x02210
 **Ukulele:** Em 0432 · C 0003 · D 2220 · G 0232 · B7 2322 · Am 2000
 
 ```text
@@ -23435,12 +23372,12 @@ G ) Pentru sugestii și injuraturi ...J) mă găsiți pe adresă
 famstrong@yahoo.com
 ```
 
-#### 499. Un alt început
+#### 497. Un alt început
 
 **Compact** · muzica/versuri: Paul Ciuci/Paul Ciuci · Sursa: Cărticica Karban, p. 57
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
 
+**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
 **Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222
 
 ```text
@@ -23465,12 +23402,12 @@ Notă: La refren partea cu G Bm și A se execută cu câte o lovitură pe fiecar
 acord.
 ```
 
-#### 500. Un elefant... (I)
+#### 498. Un elefant... (I)
 
 muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 261
 
-**Chitară:** D xx0232 · A7 x02020
 
+**Chitară:** D xx0232 · A7 x02020
 **Ukulele:** D 2220 · A7 0100
 
 ```text
@@ -23496,12 +23433,12 @@ altfel...
 Dacă cineva își aduce aminte îl rog să îmi scrie.
 ```
 
-#### 501. Un lup
+#### 499. Un lup
 
 **Roa** · Sursa: Caiet Christian Adventure, p. 164
 
-**Chitară:** Dm xx0231 · Bb x13331 · C x32010 · F 133211 · Gm 355333
 
+**Chitară:** Dm xx0231 · Bb x13331 · C x32010 · F 133211 · Gm 355333
 **Ukulele:** Dm 2210 · Bb 3211 · C 0003 · F 2010 · Gm 0231
 
 ```text
@@ -23536,12 +23473,12 @@ Au fugit
 Refren
 ```
 
-#### 502. Un om pe niște scări (I)
+#### 500. Un om pe niște scări (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 88 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/un-om-pe-niste-scari-1570)
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -23605,12 +23542,12 @@ F G   C
 Na na na Na na
 ```
 
-#### 503. Un om pe niște scări (II)
+#### 501. Un om pe niște scări (II)
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Cărticica Karban, p. 176
 
-**Chitară:** C x32010 · G 320003 · Dm xx0231
 
+**Chitară:** C x32010 · G 320003 · Dm xx0231
 **Ukulele:** C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -23648,12 +23585,12 @@ lăsați-[Dm]mă să fiu pe [C]scări.
 Notă: în locul acordului Dm poate fi folosit și acordul F
 ```
 
-#### 504. Un zvon
+#### 502. Un zvon
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Dan Verona · Sursa: Cărticica Karban, p. 39
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -23692,12 +23629,12 @@ Notă: în locul acordului Dm poate fi folosit și acordul F
 Hei!...
 ```
 
-#### 505. Urare pentru îndrăgostiți
+#### 503. Urare pentru îndrăgostiți
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 85
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -23740,12 +23677,12 @@ Refren
 Refren 2X
 ```
 
-#### 506. Vagabonzi
+#### 504. Vagabonzi
 
 Sursa: Caiet cabană RO, p. 56 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/vagabonzi-2704)
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232
 
 ```text
@@ -23767,12 +23704,12 @@ Spre geamul tău
 La care atârn-o stea.
 ```
 
-#### 507. Vara
+#### 505. Vara
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 125
 
-**Chitară:** Bm x24432 · A x02220 · G 320003 · F#m 244222 · D xx0232
 
+**Chitară:** Bm x24432 · A x02220 · G 320003 · F#m 244222 · D xx0232
 **Ukulele:** Bm 4222 · A 2100 · G 0232 · F#m 2120 · D 2220
 
 ```text
@@ -23822,12 +23759,12 @@ reda variantă piesei de pe albumul "Symphoenix". Pe "Cantafabule" piesa e
 ceva mă altfel J
 ```
 
-#### 508. Vara promisă (I)
+#### 506. Vara promisă (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 154 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/stefan-hrusca/vara-promisa-374)
 
-**Chitară:** Em 022000 · Am x02210 · D7 xx0212 · G 320003 · B7 x21202 · E 022100
 
+**Chitară:** Em 022000 · Am x02210 · D7 xx0212 · G 320003 · B7 x21202 · E 022100
 **Ukulele:** Em 0432 · Am 2000 · D7 2223 · G 0232 · B7 2322 · E 4442
 
 ```text
@@ -23876,12 +23813,12 @@ Ori n-a plecat ori n-a venit
 Cu-adevărat.
 ```
 
-#### 509. Vara promisă (II)
+#### 507. Vara promisă (II)
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 86
 
-**Chitară:** Dm xx0231 · Gm 355333 · C x32010 · C7 x32310 · F 133211 · A7 x02020 · D xx0232
 
+**Chitară:** Dm xx0231 · Gm 355333 · C x32010 · C7 x32310 · F 133211 · A7 x02020 · D xx0232
 **Ukulele:** Dm 2210 · Gm 0231 · C 0003 · C7 0001 · F 2010 · A7 0100 · D 2220
 
 ```text
@@ -23919,12 +23856,12 @@ La strofe trecerea de la C la C7 se face în cadrul aceleiași măsuri folosind
 numai la ultima bătaie a măsurii acordul C7.
 ```
 
-#### 510. Vara sufletului meu
+#### 508. Vara sufletului meu
 
 **Roa** · Sursa: Caiet Christian Adventure, p. 166
 
-**Chitară:** Bm x24432 · A x02220 · D xx0232 · G 320003
 
+**Chitară:** Bm x24432 · A x02220 · D xx0232 · G 320003
 **Ukulele:** Bm 4222 · A 2100 · D 2220 · G 0232
 
 ```text
@@ -23960,12 +23897,12 @@ Ca un copil visând.
 Refren
 ```
 
-#### 511. Verde crud (I)
+#### 509. Verde crud (I)
 
 **Anda Călugăreanu** · Sursa: Caiet cabană RO, p. 161
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -24001,12 +23938,12 @@ Te mai văd te mai aud
 Vis de albastru și azur.
 ```
 
-#### 512. Verde crud (II)
+#### 510. Verde crud (II)
 
 **Anda Călugăreanu** · muzica/versuri: Anda Călugăreanu/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 55
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · A7 x02020
 
+**Chitară:** D xx0232 · G 320003 · A x02220 · A7 x02020
 **Ukulele:** D 2220 · G 0232 · A 2100 · A7 0100
 
 ```text
@@ -24035,12 +23972,12 @@ Pentru ritm mai ascultă odată melodia.
 Acordul A7 poate fi folosit sau nu. Mie îmi sună foarte bine acolo...
 ```
 
-#### 513. Viata complicată
+#### 511. Viata complicată
 
 **Pasărea Colibri** · muzica/versuri: Ray Davies/The Kinks/Trad.Florian Pittis · Sursa: Cărticica Karban, p. 114
 
-**Chitară:** D xx0232 · A x02220 · A7 x02020 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · A7 x02020 · G 320003
 **Ukulele:** D 2220 · A 2100 · A7 0100 · G 0232
 
 ```text
@@ -24082,12 +24019,12 @@ Cum scăpam [A7]odată de complicată [D]via[A]ta? [D]
 De-am scapa [A7]odată de complicată [D]via[A]ta! [D]
 ```
 
-#### 514. Viața la țară (I)
+#### 512. Viața la țară (I)
 
 **Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 167 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/viata-la-tara-587)
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220 · E 022100
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220 · E 022100
 **Ukulele:** G 0232 · C 0003 · D 2220 · A 2100 · E 4442
 
 ```text
@@ -24190,12 +24127,12 @@ rtă
 Refren
 ```
 
-#### 515. Viața la țară (II)
+#### 513. Viața la țară (II)
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/George Topârceanu · Sursa: Cărticica Karban, p. 40
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220 · E 022100
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220 · E 022100
 **Ukulele:** G 0232 · C 0003 · D 2220 · A 2100 · E 4442
 
 ```text
@@ -24286,12 +24223,12 @@ G se prinde cum se vede în dicționarul meu, de mai jos iar în loc de C se
 folosește C9
 ```
 
-#### 516. Vine o zi
+#### 514. Vine o zi
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 170 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/vine-o-zi-366)
 
-**Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · Dm xx0231
 
+**Chitară:** Am x02210 · G 320003 · F 133211 · C x32010 · Dm xx0231
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003 · Dm 2210
 
 ```text
@@ -24330,12 +24267,12 @@ Nimeni nu va ști, nimeni nu va ști
 Oare când va fi...
 ```
 
-#### 517. Vino să dansăm, iubito
+#### 515. Vino să dansăm, iubito
 
 Sursa: Caiet cabană RO, p. 118
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -24379,12 +24316,12 @@ Dansu-n care nu poți plânge
 Este tot ce-a mai rămas.
 ```
 
-#### 518. Vinovații fără vină
+#### 516. Vinovații fără vină
 
 **Florian Pitiș** · Sursa: Caiet Christian Adventure, p. 171 · Caiet cabană RO, p. 84 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vinovatii-fara-vina-732)
 
-**Chitară:** A x02220 · Bm x24432 · E 022100 · D xx0232 · G 320003 · B x24442 · C#m x46654 · F 133211
 
+**Chitară:** A x02220 · Bm x24432 · E 022100 · D xx0232 · G 320003 · B x24442 · C#m x46654 · F 133211
 **Ukulele:** A 2100 · Bm 4222 · E 4442 · D 2220 · G 0232 · B 4322 · C#m 1104 · F 2010
 
 ```text
@@ -24446,12 +24383,12 @@ Mai presus e cât și cum gândesc.
 Refren x2
 ```
 
-#### 519. Vis de primăvară (I)
+#### 517. Vis de primăvară (I)
 
 **Pasărea Colibri** · Sursa: Caiet cabană RO, p. 83 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vis-de-primavara-3095)
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
 
 ```text
@@ -24494,12 +24431,12 @@ Pierdut între prieteni ce visul și-l adună
 Ca viața mea întreagă să fie-o zi de mai.
 ```
 
-#### 520. Vis de primăvară (II)
+#### 518. Vis de primăvară (II)
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 177
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
 
 ```text
@@ -24531,12 +24468,12 @@ Ca [G]viața mea întreaga să [Am]fie o zi de mai
 Ca [F]viața mea întreaga să [G]fie o zi de [C]mai.
 ```
 
-#### 521. Vis pierdut
+#### 519. Vis pierdut
 
 **Iris** · Sursa: Caiet Christian Adventure, p. 172 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/vis-pierdut-379)
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · C x32010
 
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · F 133211 · C x32010
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · C 0003
 
 ```text
@@ -24568,12 +24505,12 @@ Nu îmi pare rău de anii ce-au trecut
 Toți plecam ca un vis pierdut...
 ```
 
-#### 522. Voi pluti
+#### 520. Voi pluti
 
 **Direcția 5** · muzica/versuri: Marian Ionescu/Cristi Enache · Sursa: Cărticica Karban, p. 64
 
-**Chitară:** G 320003 · Em7 020000 · F 133211 · Am x02210 · Bb x13331 · Fsus4 133311 · C x32010
 
+**Chitară:** G 320003 · Em7 020000 · F 133211 · Am x02210 · Bb x13331 · Fsus4 133311 · C x32010
 **Ukulele:** G 0232 · Em7 0202 · F 2010 · Am 2000 · Bb 3211 · Fsus4 3011 · C 0003
 
 ```text
@@ -24592,12 +24529,12 @@ Strofa 2X
 Refren
 ```
 
-#### 523. Voi suferi
+#### 521. Voi suferi
 
 Sursa: Caiet cabană RO, p. 52 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/voi-suferi-4252)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
@@ -24640,12 +24577,12 @@ Tu du-te nu privi-napoi
 Și fie-ți pasul mai vioi.
 ```
 
-#### 524. Vreau o minune!
+#### 522. Vreau o minune!
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 174 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/holograf/vreau-o-minune-1465)
 
-**Chitară:** D xx0232 · Cadd9 x32030 · G 320003 · A x02220
 
+**Chitară:** D xx0232 · Cadd9 x32030 · G 320003 · A x02220
 **Ukulele:** D 2220 · Cadd9 0203 · G 0232 · A 2100
 
 ```text
@@ -24699,12 +24636,12 @@ Refren x3+
 Mama nu m-a dat de mic la școală...
 ```
 
-#### 525. Vreau să trecem marea
+#### 523. Vreau să trecem marea
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 175
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E7 020100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E7 020100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E7 1202
 
 ```text
@@ -24762,12 +24699,12 @@ De iubiri deșarte, de lacrimi, de silă
 Refren
 ```
 
-#### 526. Vremuri (I)
+#### 524. Vremuri (I)
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 176 · Caiet cabană RO, p. 78 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vremuri-1540)
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
@@ -24811,12 +24748,12 @@ Da, da ; Nu nu....
 La, la...la la la la la la...
 ```
 
-#### 527. Vremuri (II)
+#### 525. Vremuri (II)
 
 **Phoenix** · muzica/versuri: Florin Bordeianu/Nicolae Covaci · Sursa: Cărticica Karban, p. 122
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
@@ -24838,12 +24775,12 @@ Ce[C]va exage[D]rat
 Și [C]tot va fi ui[D]tat.
 ```
 
-#### 528. Ziua
+#### 526. Ziua
 
 Sursa: Caiet cabană RO, p. 63 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ziua-11151)
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -24871,12 +24808,12 @@ Am de învățat, mama nu mă lasă
 nu, nu, nu.
 ```
 
-#### 529. Zori de zi
+#### 527. Zori de zi
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 178 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/zori-de-zi-565)
 
-**Chitară:** A x02220 · E 022100 · F#m 244222 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · F#m 244222 · D xx0232
 **Ukulele:** A 2100 · E 4442 · F#m 2120 · D 2220
 
 ```text
@@ -24923,12 +24860,12 @@ Hai, hai , hai , hai sus pe cai.
 
 ## Partea a III-a — Repertoriu internațional
 
-#### 530. Al Chiaro Del Mattin
+#### 528. Al Chiaro Del Mattin
 
 Sursa: Caiet cabană EN, p. 60
 
-**Chitară:** C x32010 · G 320003
 
+**Chitară:** C x32010 · G 320003
 **Ukulele:** C 0003 · G 0232
 
 ```text
@@ -24961,12 +24898,12 @@ Se il vento verra (x2)
 Piu divertnete ancor sara.
 ```
 
-#### 531. Angie
+#### 529. Angie
 
 **Rolling Stones** · Sursa: Caiet Christian Adventure, p. 201 · Caiet cabană EN, p. 23
 
-**Chitară:** Am x02210 · E7 020100 · G 320003 · F 133211 · C x32010 · Dm xx0231
 
+**Chitară:** Am x02210 · E7 020100 · G 320003 · F 133211 · C x32010 · Dm xx0231
 **Ukulele:** Am 2000 · E7 1202 · G 0232 · F 2010 · C 0003 · Dm 2210
 
 ```text
@@ -25012,12 +24949,12 @@ Am   E7   G      F        C   Dm C
 Angie, Angie, they can't say we never tried
 ```
 
-#### 532. Anna Marie
+#### 530. Anna Marie
 
 Sursa: Caiet cabană EN, p. 50
 
-**Chitară:** D xx0232 · A x02220 · A7 x02020 · D7 xx0212 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · A7 x02020 · D7 xx0212 · G 320003
 **Ukulele:** D 2220 · A 2100 · A7 0100 · D7 2223 · G 0232
 
 ```text
@@ -25049,12 +24986,12 @@ That I’ll never love anyother
 As I loved my Anna Marie.
 ```
 
-#### 533. Another Brick in the Wall
+#### 531. Another Brick in the Wall
 
 **Pink Floyd** · Sursa: Caiet cabană EN, p. 37
 
-**Chitară:** Dm xx0231 · G 320003 · F 133211 · C x32010
 
+**Chitară:** Dm xx0231 · G 320003 · F 133211 · C x32010
 **Ukulele:** Dm 2210 · G 0232 · F 2010 · C 0003
 
 ```text
@@ -25071,12 +25008,12 @@ All in all you're just another brick in the wall
 All in all you're just another brick in the wall.
 ```
 
-#### 534. Blowing in the Wind
+#### 532. Blowing in the Wind
 
 Sursa: Caiet cabană EN, p. 30
 
-**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
 
+**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
 **Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -25112,12 +25049,12 @@ Yes n how many times can a man turn his head
 pretending he just didn't see?
 ```
 
-#### 535. Bye Bye Love
+#### 533. Bye Bye Love
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 6
 
-**Chitară:** F 133211 · C x32010 · G 320003
 
+**Chitară:** F 133211 · C x32010 · G 320003
 **Ukulele:** F 2010 · C 0003 · G 0232
 
 ```text
@@ -25147,12 +25084,12 @@ And here's the reason that I'm so free:
 My lovin' baby is through with me.
 ```
 
-#### 536. Chant Des Adieux
+#### 534. Chant Des Adieux
 
 Sursa: Caiet cabană EN, p. 65
 
-**Chitară:** G 320003 · C x32010 · F 133211
 
+**Chitară:** G 320003 · C x32010 · F 133211
 **Ukulele:** G 0232 · C 0003 · F 2010
 
 ```text
@@ -25195,12 +25132,12 @@ Car Dieu qui nous voit tous ensamble
 Saura nous revoir.
 ```
 
-#### 537. Country Roads
+#### 535. Country Roads
 
 **John Denver** · Sursa: Caiet cabană EN, p. 33
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Bb x13331
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Bb x13331
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Bb 3211
 
 ```text
@@ -25239,12 +25176,12 @@ And driving down the road I get the feeling
 That I should have been home yesterday, yesterday.
 ```
 
-#### 538. Don't Cry (I)
+#### 536. Don't Cry (I)
 
 **Guns'n'roses** · Sursa: Caiet Christian Adventure, p. 192 · Caiet cabană EN, p. 56
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · G/B x20003 · F 133211 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · G/B x20003 · F 133211 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · G/B 0232 · F 2010 · E 4442
 
 ```text
@@ -25322,12 +25259,12 @@ Don't you cry tonight
 CHORUS
 ```
 
-#### 539. Don't Cry (II)
+#### 537. Don't Cry (II)
 
 variantă a cântecului „Don't Cry” · Sursa: Caiet Christian Adventure, p. 193 (unde apare greșit intitulat „Dust in the Wind”, atribuit Kansas)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -25384,12 +25321,12 @@ in the morning light now baby
 CHORUS
 ```
 
-#### 540. Don't Think Twice, It's Alright
+#### 538. Don't Think Twice, It's Alright
 
 **Bob Dylan** · Sursa: Caiet cabană EN, p. 28
 
-**Chitară:** G 320003 · D xx0232 · Em 022000 · C x32010 · Am x02210
 
+**Chitară:** G 320003 · D xx0232 · Em 022000 · C x32010 · Am x02210
 **Ukulele:** G 0232 · D 2220 · Em 0432 · C 0003 · Am 2000
 
 ```text
@@ -25442,12 +25379,12 @@ I'd give her my heart but she wanted my soul
 But don't think twice, it's alright.
 ```
 
-#### 541. Dove Troveremo Tutto Il Pane
+#### 539. Dove Troveremo Tutto Il Pane
 
 Sursa: Caiet cabană EN, p. 60
 
-**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220 · A7 x02020
 
+**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220 · A7 x02020
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100 · A7 0100
 
 ```text
@@ -25477,7 +25414,7 @@ Dio ci ha dato tutto il pane
 Anche se non abbiamo niente.
 ```
 
-#### 542. Dream a Little Dream
+#### 540. Dream a Little Dream
 
 Sursa: Caiet cabană EN, p. 73
 
@@ -25507,12 +25444,12 @@ But in your dreams whatever they be
 Dream a little dream of me.
 ```
 
-#### 543. El Condor Pasa
+#### 541. El Condor Pasa
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 21
 
-**Chitară:** Em 022000 · G 320003 · D7 xx0212 · C x32010
 
+**Chitară:** Em 022000 · G 320003 · D7 xx0212 · C x32010
 **Ukulele:** Em 0432 · G 0232 · D7 2223 · C 0003
 
 ```text
@@ -25541,12 +25478,12 @@ I'd rather feel the earth beneath my feet
 Yes I would, if I only could, I surely would.
 ```
 
-#### 544. Eleanor Rigby
+#### 542. Eleanor Rigby
 
 Sursa: Caiet cabană EN, p. 15
 
-**Chitară:** F 133211 · Am x02210
 
+**Chitară:** F 133211 · Am x02210
 **Ukulele:** F 2010 · Am 2000
 
 ```text
@@ -25586,12 +25523,12 @@ Father McKenzie, wiping the dirt from his hands
 As he walks from the grave, no one was saved.
 ```
 
-#### 545. Every Breath You Take
+#### 543. Every Breath You Take
 
 **The police** · Sursa: Caiet Christian Adventure, p. 207
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · Dsus4 xx0233 · D7sus4 xx0213 · D xx0232 · C/A# x1201x · Am7 x02010 · A7 x02020 · D# xx1343 · F 133211 · D7sus2 xx0210
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · Dsus4 xx0233 · D7sus4 xx0213 · D xx0232 · C/A# x1201x · Am7 x02010 · A7 x02020 · D# xx1343 · F 133211 · D7sus2 xx0210
 **Ukulele:** G 0232 · Em 0432 · C 0003 · Dsus4 0230 · D7sus4 2233 · D 2220 · C/A# 0003 · Am7 0000 · A7 0100 · D# 0331 · F 2010 · D7sus2 2203
 
 ```text
@@ -25672,12 +25609,12 @@ Em
 I'll be watching you
 ```
 
-#### 546. Fade to Black
+#### 544. Fade to Black
 
 **Metallica** · Sursa: Caiet Christian Adventure, p. 195
 
-**Chitară:** Bm x24432 · Bm/A x04432 · A/C# x42220 · F6 133231 · E/G# 4x2100 · E/B x22100 · Am x02210 · C x32010 · G 320003 · Em 022000 · E 022100 · A x02220 · D5 xx0232 · E5 022100 · C5 x32010 · G#5 466544 · F#5 244322 · G5 320003 · D xx0232 · A5 x02220 · B5 x24442
 
+**Chitară:** Bm x24432 · Bm/A x04432 · A/C# x42220 · F6 133231 · E/G# 4x2100 · E/B x22100 · Am x02210 · C x32010 · G 320003 · Em 022000 · E 022100 · A x02220 · D5 xx0232 · E5 022100 · C5 x32010 · G#5 466544 · F#5 244322 · G5 320003 · D xx0232 · A5 x02220 · B5 x24442
 **Ukulele:** Bm 4222 · Bm/A 4222 · A/C# 2100 · F6 2213 · E/G# 4442 · E/B 4442 · Am 2000 · C 0003 · G 0232 · Em 0432 · E 4442 · A 2100 · D5 2220 · E5 4442 · C5 0003 · G#5 5343 · F#5 3121 · G5 0232 · D 2220 · A5 2100 · B5 4322
 
 ```text
@@ -25750,12 +25687,12 @@ A5 G5 A5 A5
 B5 A5 G5
 ```
 
-#### 547. Father to Son
+#### 545. Father to Son
 
 **Cat Stevens** · Sursa: Caiet cabană EN, p. 39
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Am x02210 · Em 022000 · D/G 3x0232
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Am x02210 · Em 022000 · D/G 3x0232
 **Ukulele:** G 0232 · D 2220 · C 0003 · Am 2000 · Em 0432 · D/G 2220
 
 ```text
@@ -25795,12 +25732,12 @@ Now there's a way, and I know that I have to go away.
 I know I have to go.
 ```
 
-#### 548. Gaudeamus igitur
+#### 546. Gaudeamus igitur
 
 Sursa: Cărticica Karban, p. 215
 
-**Chitară:** C x32010 · F 133211 · G 320003 · E7 020100 · Am x02210
 
+**Chitară:** C x32010 · F 133211 · G 320003 · E7 020100 · Am x02210
 **Ukulele:** C 0003 · F 2010 · G 0232 · E7 1202 · Am 2000
 
 ```text
@@ -25873,12 +25810,12 @@ Versurile actuale pot fi datate, cu siguranta, la 1781 când au fost publicate
 într-o carte de cântece studențești.
 ```
 
-#### 549. Gimme Hope Johana
+#### 547. Gimme Hope Johana
 
 Sursa: Caiet cabană EN, p. 46
 
-**Chitară:** A x02220 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · D xx0232 · E 022100
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
@@ -25919,12 +25856,12 @@ She doesn’t care if the fun and games she plays
 Is dangerous to everyone.
 ```
 
-#### 550. Girl
+#### 548. Girl
 
 **Beatles** · Sursa: Caiet cabană EN, p. 16
 
-**Chitară:** Em 022000 · B7 x21202 · E7 020100 · Am x02210 · D xx0232 · G 320003 · B x24442 · Bm x24432 · E 022100
 
+**Chitară:** Em 022000 · B7 x21202 · E7 020100 · Am x02210 · D xx0232 · G 320003 · B x24442 · Bm x24432 · E 022100
 **Ukulele:** Em 0432 · B7 2322 · E7 1202 · Am 2000 · D 2220 · G 0232 · B 4322 · Bm 4222 · E 4442
 
 ```text
@@ -25962,12 +25899,12 @@ That a man must break his back to earn his day of leisure?
 Will she still believe it when he's dead?
 ```
 
-#### 551. Give Peace a Chance
+#### 549. Give Peace a Chance
 
 **John Lennon** · Sursa: Caiet cabană EN, p. 6
 
-**Chitară:** C x32010 · G 320003 · F 133211 · G7 320001
 
+**Chitară:** C x32010 · G 320003 · F 133211 · G7 320001
 **Ukulele:** C 0003 · G 0232 · F 2010 · G7 0212
 
 ```text
@@ -25992,12 +25929,12 @@ Tommy Smothers, Bobby Dylan, Tommy Cooper, Derek Taylor,
 Norman Mailer, Alan Ginsberg, Hare Krishna, Hare, Hare Krishna.
 ```
 
-#### 552. Have You Ever Seen the Rain
+#### 550. Have You Ever Seen the Rain
 
 **CCR** · Sursa: Caiet Christian Adventure, p. 186
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Em 022000 · Am x02210
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432 · Am 2000
 
 ```text
@@ -26035,12 +25972,12 @@ And it can't stop, I wonder
 CHORUS
 ```
 
-#### 553. Hey Jude
+#### 551. Hey Jude
 
 **Beatles** · Sursa: Caiet Christian Adventure, p. 182 · Caiet cabană EN, p. 12
 
-**Chitară:** F 133211 · C x32010 · C7 x32310 · C7sus4 x3331x · Bb x13331 · Fmaj7 xx3210 · F7 131211 · Bb/A x13331 · Gm 355333 · Gm7 353333 · C/E 032010 · F6 133231 · Csus4 x33011 · CaddG x32010 · Eb xx1343
 
+**Chitară:** F 133211 · C x32010 · C7 x32310 · C7sus4 x3331x · Bb x13331 · Fmaj7 xx3210 · F7 131211 · Bb/A x13331 · Gm 355333 · Gm7 353333 · C/E 032010 · F6 133231 · Csus4 x33011 · CaddG x32010 · Eb xx1343
 **Ukulele:** F 2010 · C 0003 · C7 0001 · C7sus4 0011 · Bb 3211 · Fmaj7 2413 · F7 2313 · Bb/A 3211 · Gm 0231 · Gm7 0211 · C/E 0003 · F6 2213 · Csus4 0013 · CaddG 0003 · Eb 0331
 
 ```text
@@ -26095,12 +26032,12 @@ Na na na na
 Hey Jude
 ```
 
-#### 554. Hola Mi Amor
+#### 552. Hola Mi Amor
 
 Sursa: Caiet cabană EN, p. 66
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · Am x02210 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · Am x02210 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · Am 2000 · D 2220
 
 ```text
@@ -26123,12 +26060,12 @@ Quiero algo mas lo necesito
 Detalo todo io vente con migo.
 ```
 
-#### 555. Holiday
+#### 553. Holiday
 
 **Scorpions** · Sursa: Caiet cabană EN, p. 42
 
-**Chitară:** Dm xx0231 · C x32010 · Am x02210 · G 320003 · A x02220
 
+**Chitară:** Dm xx0231 · C x32010 · Am x02210 · G 320003 · A x02220
 **Ukulele:** Dm 2210 · C 0003 · Am 2000 · G 0232 · A 2100
 
 ```text
@@ -26169,12 +26106,12 @@ Longing for the sun you will come
 To the island many miles away from home.
 ```
 
-#### 556. Hotel California
+#### 554. Hotel California
 
 **The eagles** · Sursa: Caiet Christian Adventure, p. 206 · Caiet cabană EN, p. 36
 
-**Chitară:** Bm x24432 · F# 244322 · A x02220 · E 022100 · G 320003 · D xx0232 · Em 022000
 
+**Chitară:** Bm x24432 · F# 244322 · A x02220 · E 022100 · G 320003 · D xx0232 · Em 022000
 **Ukulele:** Bm 4222 · F# 3121 · A 2100 · E 4442 · G 0232 · D 2220 · Em 0432
 
 ```text
@@ -26230,12 +26167,12 @@ You can check out any time you like, butyou can never leave"
 CHORUS
 ```
 
-#### 557. House of the Rising Sun
+#### 555. House of the Rising Sun
 
 **The Animals** · Sursa: Caiet cabană EN, p. 38
 
-**Chitară:** Am x02210 · C x32010 · D xx0232 · F 133211 · E 022100
 
+**Chitară:** Am x02210 · C x32010 · D xx0232 · F 133211 · E 022100
 **Ukulele:** Am 2000 · C 0003 · D 2220 · F 2010 · E 4442
 
 ```text
@@ -26274,12 +26211,12 @@ Spend your life in sin and misery
 In the house of the Rising Sun.
 ```
 
-#### 558. I Remember
+#### 556. I Remember
 
 **Skid Row** · Sursa: Caiet cabană EN, p. 57
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
@@ -26321,12 +26258,12 @@ And through it all we kept the promise that we made
 Well I swear you’ll never be lonely.
 ```
 
-#### 559. I Want to Break Free
+#### 557. I Want to Break Free
 
 **Queen** · Sursa: Caiet Christian Adventure, p. 199
 
-**Chitară:** A x02220 · E 022100 · B x24442 · C#m x46654 · F#sus4 244422 · F# 244322
 
+**Chitară:** A x02220 · E 022100 · B x24442 · C#m x46654 · F#sus4 244422 · F# 244322
 **Ukulele:** A 2100 · E 4442 · B 4322 · C#m 1104 · F#sus4 4124 · F# 3121
 
 ```text
@@ -26381,12 +26318,12 @@ I want to break free yeah
 I want I want I want I want to break free....
 ```
 
-#### 560. I Want to Hold Your Hand
+#### 558. I Want to Hold Your Hand
 
 **Beatles** · Sursa: Caiet cabană EN, p. 19
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · E 022100 · F 133211 · Dm xx0231
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · E 022100 · F 133211 · Dm xx0231
 **Ukulele:** C 0003 · G 0232 · Am 2000 · E 4442 · F 2010 · Dm 2210
 
 ```text
@@ -26430,12 +26367,12 @@ That my love I can't hide
 I can't hide, I can't hide.
 ```
 
-#### 561. If I Had a Hammer
+#### 559. If I Had a Hammer
 
 **Trini Lopez** · Sursa: Caiet cabană EN, p. 32
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
@@ -26479,12 +26416,12 @@ sisters,
 All - over this land.
 ```
 
-#### 562. Ils Ont Change Ma Chanson
+#### 560. Ils Ont Change Ma Chanson
 
 **Mellanie** · Sursa: Caiet cabană EN, p. 62
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -26523,12 +26460,12 @@ Turned it upside down ma’
 Look what they done to my song.
 ```
 
-#### 563. Imagine
+#### 561. Imagine
 
 **John Lennon** · Sursa: Caiet cabană EN, p. 5
 
-**Chitară:** G 320003 · C x32010 · Em 022000 · Am x02210 · D xx0232 · B x24442
 
+**Chitară:** G 320003 · C x32010 · Em 022000 · Am x02210 · D xx0232 · B x24442
 **Ukulele:** G 0232 · C 0003 · Em 0432 · Am 2000 · D 2220 · B 4322
 
 ```text
@@ -26565,12 +26502,12 @@ Imagine all the people
 Sharing all the world.
 ```
 
-#### 564. In the Army
+#### 562. In the Army
 
 **Status Quo** · Sursa: Caiet cabană EN, p. 47
 
-**Chitară:** Em 022000 · Am x02210 · C x32010 · F#m 244222
 
+**Chitară:** Em 022000 · Am x02210 · C x32010 · F#m 244222
 **Ukulele:** Em 0432 · Am 2000 · C 0003 · F#m 2120
 
 ```text
@@ -26614,12 +26551,12 @@ Night is falling and you just can’t see
 Is this illusion or reality.
 ```
 
-#### 565. Kai yone
+#### 563. Kai yone
 
 muzica/versuri: ???/??? · Sursa: Cărticica Karban, p. 224
 
-**Chitară:** D xx0232 · A x02220 · Bm x24432 · E7 020100
 
+**Chitară:** D xx0232 · A x02220 · Bm x24432 · E7 020100
 **Ukulele:** D 2220 · A 2100 · Bm 4222 · E7 1202
 
 ```text
@@ -26636,12 +26573,12 @@ Note:Se repeat strofa I mărind ritmul.
 "j" se citește totdeauna "i"
 ```
 
-#### 566. Knockin' on Heaven's Door
+#### 564. Knockin' on Heaven's Door
 
 **Bob Dylan** · Sursa: Caiet cabană EN, p. 29
 
-**Chitară:** C x32010 · G 320003 · Dm xx0231
 
+**Chitară:** C x32010 · G 320003 · Dm xx0231
 **Ukulele:** C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -26671,12 +26608,12 @@ I just can’t see through it any more
 That lonely feeling is hard to trace
 ```
 
-#### 567. La Bamba
+#### 565. La Bamba
 
 Sursa: Caiet cabană EN, p. 67
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -26710,12 +26647,12 @@ Y ’ arriba y ’ arriba por ti sere
 Por ti sere por ti sere.
 ```
 
-#### 568. La Canzone Del Sole
+#### 566. La Canzone Del Sole
 
 Sursa: Caiet cabană EN, p. 61
 
-**Chitară:** G 320003 · D xx0232 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · C x32010
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -26750,12 +26687,12 @@ O mare nero,
 Tu eri chiaro et transparente come me.
 ```
 
-#### 569. Layla
+#### 567. Layla
 
 **Eric Clapton** · Sursa: Caiet Christian Adventure, p. 188
 
-**Chitară:** C#m x46654 · G#7 464544 · C x32010 · D xx0232 · E 022100 · E7 020100 · F#m 244222 · B x24442 · A x02220 · Am x02210 · Dm xx0231 · Bb x13331
 
+**Chitară:** C#m x46654 · G#7 464544 · C x32010 · D xx0232 · E 022100 · E7 020100 · F#m 244222 · B x24442 · A x02220 · Am x02210 · Dm xx0231 · Bb x13331
 **Ukulele:** C#m 1104 · G#7 1323 · C 0003 · D 2220 · E 4442 · E7 1202 · F#m 2120 · B 4322 · A 2100 · Am 2000 · Dm 2210 · Bb 3211
 
 ```text
@@ -26792,12 +26729,12 @@ And tell me all my loves in vain
 CHORUS
 ```
 
-#### 570. Les Champs-Elysees
+#### 568. Les Champs-Elysees
 
 Sursa: Caiet cabană EN, p. 68
 
-**Chitară:** D xx0232 · F#7 242322 · Bm x24432 · D7 xx0212 · G 320003 · E7 020100 · A7 x02020 · A x02220
 
+**Chitară:** D xx0232 · F#7 242322 · Bm x24432 · D7 xx0212 · G 320003 · E7 020100 · A7 x02020 · A x02220
 **Ukulele:** D 2220 · F#7 3424 · Bm 4222 · D7 2223 · G 0232 · E7 1202 · A7 0100 · A 2100
 
 ```text
@@ -26833,12 +26770,12 @@ Et de l'Etoile a la Concorde, un orchestre a mille chordes,
 tous les oiseaux du point du jour, chantent l'armour
 ```
 
-#### 571. Let It Be
+#### 569. Let It Be
 
 **Beatles** · Sursa: Caiet Christian Adventure, p. 183 · Caiet cabană EN, p. 8
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Dm 2210
 
 ```text
@@ -26879,12 +26816,12 @@ I wake up to the sound of music, Mother Mary comes to me
 Speaking words of wisdom, let it be
 ```
 
-#### 572. Living Next Door to Alice
+#### 570. Living Next Door to Alice
 
 **Smokie** · Sursa: Caiet Christian Adventure, p. 204
 
-**Chitară:** A x02220 · D xx0232 · E 022100 · E7 020100
 
+**Chitară:** A x02220 · D xx0232 · E 022100 · E7 020100
 **Ukulele:** A 2100 · D 2220 · E 4442 · E7 1202
 
 ```text
@@ -26931,12 +26868,12 @@ And the big limosine dissapeared.
 Go to chorus. repeat untill fade.
 ```
 
-#### 573. Losing My Religion
+#### 571. Losing My Religion
 
 Sursa: Caiet cabană EN, p. 34
 
-**Chitară:** Em 022000 · Am x02210 · Dm xx0231 · G 320003 · F 133211
 
+**Chitară:** Em 022000 · Am x02210 · Dm xx0231 · G 320003 · F 133211
 **Ukulele:** Em 0432 · Am 2000 · Dm 2210 · G 0232 · F 2010
 
 ```text
@@ -26998,12 +26935,12 @@ That was just a dream,
 That was just a dream, just a dream, just a dream…
 ```
 
-#### 574. Love Me Tender
+#### 572. Love Me Tender
 
 **Elvis Presley** · Sursa: Caiet cabană EN, p. 50
 
-**Chitară:** C x32010 · D xx0232 · G7 320001 · A7 x02020
 
+**Chitară:** C x32010 · D xx0232 · G7 320001 · A7 x02020
 **Ukulele:** C 0003 · D 2220 · G7 0212 · A7 0100
 
 ```text
@@ -27039,12 +26976,12 @@ I’ll be your through all the years
 Till the end of time.
 ```
 
-#### 575. Love of My Life
+#### 573. Love of My Life
 
 **Queen** · Sursa: Caiet Christian Adventure, p. 200
 
-**Chitară:** A x02220 · F#m 244222 · Bm x24432 · E 022100 · A7 x02020 · D xx0232 · G 320003 · Em 022000 · B x24442 · Cdim xx1212
 
+**Chitară:** A x02220 · F#m 244222 · Bm x24432 · E 022100 · A7 x02020 · D xx0232 · G 320003 · Em 022000 · B x24442 · Cdim xx1212
 **Ukulele:** A 2100 · F#m 2120 · Bm 4222 · E 4442 · A7 0100 · D 2220 · G 0232 · Em 0432 · B 4322 · Cdim 2323
 
 ```text
@@ -27088,12 +27025,12 @@ F#m
 Love of my life...
 ```
 
-#### 576. Michelle
+#### 574. Michelle
 
 **Beatles** · Sursa: Caiet cabană EN, p. 17
 
-**Chitară:** D xx0232 · G7 320001 · Bb x13331 · C x32010 · A x02220 · A7 x02020 · Dm xx0231 · F 133211
 
+**Chitară:** D xx0232 · G7 320001 · Bb x13331 · C x32010 · A x02220 · A7 x02020 · Dm xx0231 · F 133211
 **Ukulele:** D 2220 · G7 0212 · Bb 3211 · C 0003 · A 2100 · A7 0100 · Dm 2210 · F 2010
 
 ```text
@@ -27138,12 +27075,12 @@ And I will say the only words I know that you'll understand
 My Michelle.
 ```
 
-#### 577. Mr. Tambourine Man
+#### 575. Mr. Tambourine Man
 
 **Bob Dylan** · Sursa: Caiet cabană EN, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mr-tambourine-man-1904)
 
-**Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000
 
+**Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000
 **Ukulele:** G 0232 · A 2100 · D 2220 · Em 0432
 
 ```text
@@ -27182,12 +27119,12 @@ And the ancient empty
 Streets too dead for dream in.
 ```
 
-#### 578. Mrs. Robinson
+#### 576. Mrs. Robinson
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 22
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003 · D xx0232 · A7 x02020 · A x02220 · Dm xx0231
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003 · D xx0232 · A7 x02020 · A x02220 · Dm xx0231
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232 · D 2220 · A7 0100 · A 2100 · Dm 2210
 
 ```text
@@ -27230,12 +27167,12 @@ What's that you say Mrs. Robinson
 Joltin' Joe has left and gone away, hey hey hey.
 ```
 
-#### 579. My Bonnie Is Over the Ocean
+#### 577. My Bonnie Is Over the Ocean
 
 Sursa: Caiet cabană EN, p. 54
 
-**Chitară:** D xx0232 · G 320003 · A7 x02020 · B7 x21202 · E7 020100 · D7 xx0212 · A x02220
 
+**Chitară:** D xx0232 · G 320003 · A7 x02020 · B7 x21202 · E7 020100 · D7 xx0212 · A x02220
 **Ukulele:** D 2220 · G 0232 · A7 0100 · B7 2322 · E7 1202 · D7 2223 · A 2100
 
 ```text
@@ -27269,12 +27206,12 @@ The winds have blown over the ocean,
 And brought back my bonnie to me.
 ```
 
-#### 580. Ne Sent-Tu Pas Claque Tes Doigts
+#### 578. Ne Sent-Tu Pas Claque Tes Doigts
 
 Sursa: Caiet cabană EN, p. 64
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -27313,7 +27250,7 @@ Et prend la main de ton ami
 Et garde-la toute la vie, la vie, la vie.
 ```
 
-#### 581. No Woman, No Cry
+#### 579. No Woman, No Cry
 
 Sursa: Caiet cabană EN, p. 71
 
@@ -27335,12 +27272,12 @@ In this great future you can’t forget your past
 So cry your tears I say yeah
 ```
 
-#### 582. Nothing Else Matters
+#### 580. Nothing Else Matters
 
 **Metallica** · Sursa: Caiet Christian Adventure, p. 196
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003 · B x24442 · A x02220
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003 · B x24442 · A x02220
 **Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232 · B 4322 · A 2100
 
 ```text
@@ -27425,12 +27362,12 @@ But I know
 VERSE 1
 ```
 
-#### 583. Nowhere Man
+#### 581. Nowhere Man
 
 Sursa: Caiet cabană EN, p. 9
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -27479,12 +27416,12 @@ Sitting in his Nowhere Land
 Making all his Nowhere plans for nobody.
 ```
 
-#### 584. Ob-La-Di, Ob-La-Da
+#### 582. Ob-La-Di, Ob-La-Da
 
 Sursa: Caiet cabană EN, p. 10
 
-**Chitară:** G 320003 · D7 xx0212 · C x32010 · Bm x24432 · Em 022000 · D xx0232
 
+**Chitară:** G 320003 · D7 xx0212 · C x32010 · Bm x24432 · Em 022000 · D xx0232
 **Ukulele:** G 0232 · D7 2223 · C 0003 · Bm 4222 · Em 0432 · D 2220
 
 ```text
@@ -27532,12 +27469,12 @@ And in the evening she's a singer with the band.
 And if you want some fun take Obladi-Blada !
 ```
 
-#### 585. Oh, Carol!
+#### 583. Oh, Carol!
 
 **Neil Sedaka** · Sursa: Caiet Christian Adventure, p. 197 · Caiet cabană EN, p. 31
 
-**Chitară:** A x02220 · F#m 244222 · Bm x24432 · E 022100
 
+**Chitară:** A x02220 · F#m 244222 · Bm x24432 · E 022100
 **Ukulele:** A 2100 · F#m 2120 · Bm 4222 · E 4442
 
 ```text
@@ -27591,7 +27528,7 @@ Oh! Carol!
 I'm so in love with you
 ```
 
-#### 586. Oh, Mammy
+#### 584. Oh, Mammy
 
 Sursa: Caiet cabană EN, p. 72
 
@@ -27620,12 +27557,12 @@ Me rechauffer me recuillir
 Et je n’ai plus qu’a repartir.
 ```
 
-#### 587. Oh, Susanna
+#### 585. Oh, Susanna
 
 Sursa: Caiet cabană EN, p. 54
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -27660,12 +27597,12 @@ I said: “I came from Dixie Land
 Susanna, don’t you cry.”
 ```
 
-#### 588. Patience
+#### 586. Patience
 
 **Gun’n’Roses** · Sursa: Caiet cabană EN, p. 58
 
-**Chitară:** F 133211 · C x32010 · D xx0232 · G 320003 · Am x02210
 
+**Chitară:** F 133211 · C x32010 · D xx0232 · G 320003 · Am x02210
 **Ukulele:** F 2010 · C 0003 · D 2220 · G 0232 · Am 2000
 
 ```text
@@ -27704,12 +27641,12 @@ Stuck in the crowd and the streets don’t change but baby the
 Name I ain’t got time for the game ‘cause I need you.
 ```
 
-#### 589. People Are Strange
+#### 587. People Are Strange
 
 **The doors** · Sursa: Caiet Christian Adventure, p. 205
 
-**Chitară:** Em 022000 · Am x02210 · B7 x21202 · G 320003
 
+**Chitară:** Em 022000 · Am x02210 · B7 x21202 · G 320003
 **Ukulele:** Em 0432 · Am 2000 · B7 2322 · G 0232
 
 ```text
@@ -27739,12 +27676,12 @@ Streets are uneven when you're down.
 CHORUS X2
 ```
 
-#### 590. Phabaj (Hop hop hop)
+#### 588. Phabaj (Hop hop hop)
 
 **Phabaj (Hop hop hop)** · muzica/versuri: ???/??? · Sursa: Cărticica Karban, p. 224
 
-**Chitară:** Bm x24432 · Em 022000 · A x02220 · D xx0232 · F# 244322
 
+**Chitară:** Bm x24432 · Em 022000 · A x02220 · D xx0232 · F# 244322
 **Ukulele:** Bm 4222 · Em 0432 · A 2100 · D 2220 · F# 3121
 
 ```text
@@ -27759,12 +27696,12 @@ Note: -j se citește i
 -Strofa se repetă de 4 ori schimbându-se doar primul vers
 ```
 
-#### 591. Porom Pom Pom
+#### 589. Porom Pom Pom
 
 Sursa: Caiet cabană EN, p. 66
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322
 
 ```text
@@ -27794,12 +27731,12 @@ Y “tengo” sougre de reyes eu
 La palma de la mano.
 ```
 
-#### 592. Proud Mary
+#### 590. Proud Mary
 
 **CCR** · Sursa: Caiet Christian Adventure, p. 187
 
-**Chitară:** D xx0232 · A x02220 · Bm x24432
 
+**Chitară:** D xx0232 · A x02220 · Bm x24432
 **Ukulele:** D 2220 · A 2100 · Bm 4222
 
 ```text
@@ -27834,12 +27771,12 @@ Proud Mary keep on burnin'
 /Rollin', rollin', rollin' on the river/ x3
 ```
 
-#### 593. Road to Nowhere
+#### 591. Road to Nowhere
 
 **Taking Heads** · Sursa: Caiet cabană EN, p. 59
 
-**Chitară:** C x32010 · G 320003 · F 133211 · G# 466544 · A x02220 · F#m 244222 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · G 320003 · F 133211 · G# 466544 · A x02220 · F#m 244222 · D xx0232 · E 022100
 **Ukulele:** C 0003 · G 0232 · F 2010 · G# 5343 · A 2100 · F#m 2120 · D 2220 · E 4442
 
 ```text
@@ -27881,12 +27818,12 @@ They can tell you what to do but they’ll make a fool of you
 And it’s all right, baby, it’s all right.
 ```
 
-#### 594. Roses Are Red
+#### 592. Roses Are Red
 
 Sursa: Caiet cabană EN, p. 52
 
-**Chitară:** D xx0232 · A x02220 · A7 x02020 · D7 xx0212 · G 320003 · E 022100
 
+**Chitară:** D xx0232 · A x02220 · A7 x02020 · D7 xx0212 · G 320003 · E 022100
 **Ukulele:** D 2220 · A 2100 · A7 0100 · D7 2223 · G 0232 · E 4442
 
 ```text
@@ -27934,12 +27871,12 @@ I read your letters dear
 And I wrote back to you.
 ```
 
-#### 595. Sailing
+#### 593. Sailing
 
 Sursa: Caiet cabană EN, p. 41
 
-**Chitară:** G 320003 · C x32010 · Am x02210 · F 133211 · Dm xx0231
 
+**Chitară:** G 320003 · C x32010 · Am x02210 · F 133211 · Dm xx0231
 **Ukulele:** G 0232 · C 0003 · Am 2000 · F 2010 · Dm 2210
 
 ```text
@@ -27967,12 +27904,12 @@ I am dying forever trying
 To be with you, to be free.
 ```
 
-#### 596. Santiano
+#### 594. Santiano
 
 Sursa: Caiet cabană EN, p. 63
 
-**Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231
 
+**Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Dm 2210
 
 ```text
@@ -28011,12 +27948,12 @@ Au pays j’irai voir Margot
 A son doigt je pousserai l’anneau.
 ```
 
-#### 597. Seasons in the Sun
+#### 595. Seasons in the Sun
 
 Sursa: Caiet cabană EN, p. 26
 
-**Chitară:** C x32010 · Dm xx0231 · G7 320001 · G 320003
 
+**Chitară:** C x32010 · Dm xx0231 · G7 320001 · G 320003
 **Ukulele:** C 0003 · Dm 2210 · G7 0212 · G 0232
 
 ```text
@@ -28066,12 +28003,12 @@ whit the flowers everywhere,
 I wish that we could both be there.
 ```
 
-#### 598. She’ll Be Coming Round the Mountain
+#### 596. She’ll Be Coming Round the Mountain
 
 Sursa: Caiet cabană EN, p. 49
 
-**Chitară:** G 320003 · D xx0232 · G7 320001 · C x32010 · A x02220 · D7 xx0212
 
+**Chitară:** G 320003 · D xx0232 · G7 320001 · C x32010 · A x02220 · D7 xx0212
 **Ukulele:** G 0232 · D 2220 · G7 0212 · C 0003 · A 2100 · D7 2223
 
 ```text
@@ -28097,12 +28034,12 @@ Oh, we’ll all have chicken and dumpling when she
 comes…
 ```
 
-#### 599. Silent Night
+#### 597. Silent Night
 
 Sursa: Caiet cabană EN, p. 51
 
-**Chitară:** G 320003 · D xx0232 · D7 xx0212 · G7 320001 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · D7 xx0212 · G7 320001 · C x32010
 **Ukulele:** G 0232 · D 2220 · D7 2223 · G7 0212 · C 0003
 
 ```text
@@ -28133,12 +28070,12 @@ with the dawn of Redeeming grace,
 Jesus, Lord, at Thy birth;
 ```
 
-#### 600. Stairway to Heaven
+#### 598. Stairway to Heaven
 
 **Led Zeppelin** · Sursa: Caiet Christian Adventure, p. 194
 
-**Chitară:** Am x02210 · E+ xx2323 · C x32010 · D xx0232 · F 133211 · G 320003 · Em 022000 · Dsus4 xx0233
 
+**Chitară:** Am x02210 · E+ xx2323 · C x32010 · D xx0232 · F 133211 · G 320003 · Em 022000 · Dsus4 xx0233
 **Ukulele:** Am 2000 · E+ 1003 · C 0003 · D 2220 · F 2010 · G 0232 · Em 0432 · Dsus4 0230
 
 ```text
@@ -28218,12 +28155,12 @@ To be a rock and not to roll.
 And she s buying a stairway to heaven.
 ```
 
-#### 601. Stand by Me
+#### 599. Stand by Me
 
 **Ben E. King** · Sursa: Caiet cabană EN, p. 35
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
@@ -28253,12 +28190,12 @@ No, I won't shed a tear
 Just as long as you stand, stand by me.
 ```
 
-#### 602. Still Loving You
+#### 600. Still Loving You
 
 **Scorpions** · Sursa: Caiet Christian Adventure, p. 202
 
-**Chitară:** A x02220 · F 133211 · C x32010 · G 320003 · D xx0232 · E 022100
 
+**Chitară:** A x02220 · F 133211 · C x32010 · G 320003 · D xx0232 · E 022100
 **Ukulele:** A 2100 · F 2010 · C 0003 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -28300,12 +28237,12 @@ A FC A F C
 I`m still loving you, I need your love
 ```
 
-#### 603. Sweet Memories
+#### 601. Sweet Memories
 
 Sursa: Caiet cabană EN, p. 53
 
-**Chitară:** D xx0232 · A x02220 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · G 320003
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
@@ -28346,12 +28283,12 @@ One man, one wife, one love through life
 Sweet memories are made of this.
 ```
 
-#### 604. Taizé
+#### 602. Taizé
 
 Sursa: Caiet cabană EN, p. 68
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · F 133211 · A x02220 · D xx0232 · Em 022000 · B7 x21202
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · F 133211 · A x02220 · D xx0232 · Em 022000 · B7 x21202
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · F 2010 · A 2100 · D 2220 · Em 0432 · B7 2322
 
 ```text
@@ -28397,12 +28334,12 @@ Nada te turbe, nada te spanta
 Solo Dios, basta.
 ```
 
-#### 605. Tears in Heaven
+#### 603. Tears in Heaven
 
 **Eric Clapton** · Sursa: Caiet Christian Adventure, p. 189
 
-**Chitară:** G 320003 · D xx0232 · Em 022000 · C x32010 · Bm x24432 · Dm xx0231 · E 022100 · E7 020100 · Am x02210 · D7 xx0212 · Bb x13331 · F 133211 · Gm 355333
 
+**Chitară:** G 320003 · D xx0232 · Em 022000 · C x32010 · Bm x24432 · Dm xx0231 · E 022100 · E7 020100 · Am x02210 · D7 xx0212 · Bb x13331 · F 133211 · Gm 355333
 **Ukulele:** G 0232 · D 2220 · Em 0432 · C 0003 · Bm 4222 · Dm 2210 · E 4442 · E7 1202 · Am 2000 · D7 2223 · Bb 3211 · F 2010 · Gm 0231
 
 ```text
@@ -28474,12 +28411,12 @@ here in heaven
 G D Em C G
 ```
 
-#### 606. The Caravan of Love
+#### 604. The Caravan of Love
 
 Sursa: Caiet cabană EN, p. 48
 
-**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003 · Am x02210
 
+**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003 · Am x02210
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · G 0232 · Am 2000
 
 ```text
@@ -28548,12 +28485,12 @@ Keeps fit it, keeps fit it, keeps fit it
 The road about the caravan.
 ```
 
-#### 607. The Islander
+#### 605. The Islander
 
 **Nightwish** · Sursa: Caiet Christian Adventure, p. 198
 
-**Chitară:** A x02220 · G 320003 · Bm x24432 · B x24442 · D xx0232 · Em 022000
 
+**Chitară:** A x02220 · G 320003 · Bm x24432 · B x24442 · D xx0232 · Em 022000
 **Ukulele:** A 2100 · G 0232 · Bm 4222 · B 4322 · D 2220 · Em 0432
 
 ```text
@@ -28596,12 +28533,12 @@ And a smile beneath his brow
 CHORUS X2
 ```
 
-#### 608. The Red River Valley
+#### 606. The Red River Valley
 
 Sursa: Caiet cabană EN, p. 55
 
-**Chitară:** E 022100 · E7 020100 · A x02220 · B x24442 · B7 x21202
 
+**Chitară:** E 022100 · E7 020100 · A x02220 · B x24442 · B7 x21202
 **Ukulele:** E 4442 · E7 1202 · A 2100 · B 4322 · B7 2322
 
 ```text
@@ -28634,12 +28571,12 @@ May the white girl you marry remember
 That the Red Maiden loved you the best.
 ```
 
-#### 609. The Sound of Silence
+#### 607. The Sound of Silence
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 20
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211
 
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -28687,12 +28624,12 @@ are written on the subway walls, and tenement halls
 and whisper the sound of silence."
 ```
 
-#### 610. Ticket to Ride
+#### 608. Ticket to Ride
 
 **Beatles** · Sursa: Caiet cabană EN, p. 18
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · Bb x13331
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · Bb x13331
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · Bb 3211
 
 ```text
@@ -28738,7 +28675,7 @@ She's got a ticket to ride but she don't care.
 My baby don't care, my baby don't care...
 ```
 
-#### 611. Tous Les Garcons Et Les Filles
+#### 609. Tous Les Garcons Et Les Filles
 
 Sursa: Caiet cabană EN, p. 70
 
@@ -28795,12 +28732,12 @@ Le jour ou moi aussi
 J’aurai quelqu’un qui m’aime.
 ```
 
-#### 612. Trust My Sobriety
+#### 610. Trust My Sobriety
 
 Sursa: Caiet cabană EN, p. 43
 
-**Chitară:** Am x02210 · F 133211 · G 320003 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · F 133211 · G 320003 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · F 2010 · G 0232 · E 4442 · Dm 2210
 
 ```text
@@ -28847,12 +28784,12 @@ Up and on and
 All the children took their turn.
 ```
 
-#### 613. Twist and Shout
+#### 611. Twist and Shout
 
 **Beatles** · Sursa: Caiet cabană EN, p. 7
 
-**Chitară:** G 320003 · C x32010 · F 133211
 
+**Chitară:** G 320003 · C x32010 · F 133211
 **Ukulele:** G 0232 · C 0003 · F 2010
 
 ```text
@@ -28878,12 +28815,12 @@ Well, shake it, shake it, shake it, baby, now. (shake it up
 baby).
 ```
 
-#### 614. Unchained Melody
+#### 612. Unchained Melody
 
 **The Righteous Brothers** · Sursa: Caiet cabană EN, p. 30
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · D7 xx0212
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · D7 xx0212
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · D7 2223
 
 ```text
@@ -28912,12 +28849,12 @@ Lonely rivers sigh wait for me, wait for me.
 I'll be coming home.Wait for me.
 ```
 
-#### 615. Vânare de vânt
+#### 613. Vânare de vânt
 
 **Pasărea Colibri** · muzica/versuri: Blowin' in the wind · Sursa: Cărticica Karban, p. 113
 
-**Chitară:** C x32010 · F 133211 · G7 320001 · Am x02210
 
+**Chitară:** C x32010 · F 133211 · G7 320001 · Am x02210
 **Ukulele:** C 0003 · F 2010 · G7 0212 · Am 2000
 
 ```text
@@ -28961,12 +28898,12 @@ Refren engleza
 Refren româna
 ```
 
-#### 616. What's Up
+#### 614. What's Up
 
 **4 Non Blondes** · Sursa: Caiet Christian Adventure, p. 191
 
-**Chitară:** G 320003 · Am x02210 · C x32010
 
+**Chitară:** G 320003 · Am x02210 · C x32010
 **Ukulele:** G 0232 · Am 2000 · C 0003
 
 ```text
@@ -29034,12 +28971,12 @@ hope
 For a destination
 ```
 
-#### 617. When the Saints
+#### 615. When the Saints
 
 Sursa: Caiet cabană EN, p. 44
 
-**Chitară:** G 320003 · D xx0232 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · C x32010
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -29064,12 +29001,12 @@ Lord, how I want to be in that number
 When the revelation comes.
 ```
 
-#### 618. Wind of Change
+#### 616. Wind of Change
 
 **Scorpions** · Sursa: Caiet Christian Adventure, p. 203 · Caiet cabană EN, p. 40
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · Em 022000 · E7 020100
 
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · Em 022000 · E7 020100
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · Em 0432 · E7 1202
 
 ```text
@@ -29146,12 +29083,12 @@ What my guitar wants to say
 CHORUS1+CHORUS2
 ```
 
-#### 619. Wish You Were Here
+#### 617. Wish You Were Here
 
 **Pink Floyd** · Sursa: Caiet cabană EN, p. 24
 
-**Chitară:** C x32010 · D xx0232 · Am x02210 · G 320003
 
+**Chitară:** C x32010 · D xx0232 · Am x02210 · G 320003
 **Ukulele:** C 0003 · D 2220 · Am 2000 · G 0232
 
 ```text
@@ -29202,12 +29139,12 @@ What have we found
 The same old fears?…Wish you were here
 ```
 
-#### 620. With a Little Help from My Friends
+#### 618. With a Little Help from My Friends
 
 **Beatles** · Sursa: Caiet cabană EN, p. 11
 
-**Chitară:** G 320003 · D xx0232 · Am x02210 · D7 xx0212 · F 133211 · C x32010 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · Am x02210 · D7 xx0212 · F 133211 · C x32010 · Em 022000 · A x02220
 **Ukulele:** G 0232 · D 2220 · Am 2000 · D7 2223 · F 2010 · C 0003 · Em 0432 · A 2100
 
 ```text
@@ -29251,12 +29188,12 @@ Yes I get by with a little help from my friends
 With a little help from my friends.
 ```
 
-#### 621. Wonderful Tonight
+#### 619. Wonderful Tonight
 
 **Eric Clapton** · Sursa: Caiet Christian Adventure, p. 190 · Caiet cabană EN, p. 25
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432
 
 ```text
@@ -29309,12 +29246,12 @@ ht            Oh my darling, you were wonderful
 tonight
 ```
 
-#### 622. Yellow Submarine
+#### 620. Yellow Submarine
 
 **Beatles** · Sursa: Caiet Christian Adventure, p. 184 · Caiet cabană EN, p. 14
 
-**Chitară:** C x32010 · D xx0232 · G 320003 · Em 022000 · Am x02210
 
+**Chitară:** C x32010 · D xx0232 · G 320003 · Em 022000 · Am x02210
 **Ukulele:** C 0003 · D 2220 · G 0232 · Em 0432 · Am 2000
 
 ```text
@@ -29351,12 +29288,12 @@ In our yellow submarine.
 CHORUS X2
 ```
 
-#### 623. Yesterday
+#### 621. Yesterday
 
 **Beatles** · Sursa: Caiet Christian Adventure, p. 185 · Caiet cabană EN, p. 13
 
-**Chitară:** F 133211 · Em 022000 · A7 x02020 · Dm xx0231 · C x32010 · Bb x13331 · G 320003 · C7 x32310
 
+**Chitară:** F 133211 · Em 022000 · A7 x02020 · Dm xx0231 · C x32010 · Bb x13331 · G 320003 · C7 x32310
 **Ukulele:** F 2010 · Em 0432 · A7 0100 · Dm 2210 · C 0003 · Bb 3211 · G 0232 · C7 0001
 
 ```text
@@ -29395,12 +29332,12 @@ Dm    G     Bb F F
 Hm hm hm hm hm hm hm
 ```
 
-#### 624. You Drive Me Crazy
+#### 622. You Drive Me Crazy
 
 **Ronnie Harwood** · Sursa: Caiet cabană EN, p. 45
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · A x02220
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · A x02220
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -29439,12 +29376,12 @@ You drive me crazy.
 
 ## Partea a IV-a — Colinde și cântece de iarnă
 
-#### 625. Afară ninge liniștit
+#### 623. Afară ninge liniștit
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional/G. Coșbuc · Sursa: Colinde Karban, p. 19
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
 **Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
@@ -29506,12 +29443,12 @@ E
 Exemplificată aici pentru C. Versurile sunt ale poeziei “Colindătorii” de G. Coșbuc.
 ```
 
-#### 626. Afară-i frig și e-norat (Balada sadicului)
+#### 624. Afară-i frig și e-norat (Balada sadicului)
 
 muzica/versuri: colinda Afară ninge liniștit“ -S  țefan Hrușcă · Sursa: Colinde Karban, p. 113
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
 **Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
@@ -29630,12 +29567,12 @@ E
 Exemplificată aici pentru C.
 ```
 
-#### 627. Alle Jahre wieder
+#### 625. Alle Jahre wieder
 
 muzica/versuri: Ernst Anschütz/Wilhelm Hey · Sursa: Colinde Karban, p. 83
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -29674,12 +29611,12 @@ Der sie nicht vergisst.
 Note:Măsura este 4/4. Merge un arpegiu simplu.
 ```
 
-#### 628. Aseară pe-nserate
+#### 626. Aseară pe-nserate
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 20
 
-**Chitară:** Fm 133111 · Bbm x13321 · C x32010 · D xx0232 · A x02220
 
+**Chitară:** Fm 133111 · Bbm x13321 · C x32010 · D xx0232 · A x02220
 **Ukulele:** Fm 1013 · Bbm 3111 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -29734,12 +29671,12 @@ E         1
 Fm
 ```
 
-#### 629. Asta-i fata cea frumoasă
+#### 627. Asta-i fata cea frumoasă
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 21
 
-**Chitară:** E 022100 · A x02220 · B x24442
 
+**Chitară:** E 022100 · A x02220 · B x24442
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
@@ -29794,12 +29731,12 @@ E         0     0     0     0
 Exemplificat aici pentru E.
 ```
 
-#### 630. Away in a manger
+#### 628. Away in a manger
 
 muzica/versuri: tradițional englez · Sursa: Colinde Karban, p. 52
 
-**Chitară:** F 133211 · Am x02210 · Bb x13331 · Gm 355333 · C x32010 · G 320003 · D xx0232
 
+**Chitară:** F 133211 · Am x02210 · Bb x13331 · Gm 355333 · C x32010 · G 320003 · D xx0232
 **Ukulele:** F 2010 · Am 2000 · Bb 3211 · Gm 0231 · C 0003 · G 0232 · D 2220
 
 ```text
@@ -29839,12 +29776,12 @@ E         1         1         1
 Trecerile /Am la Bb/ și /Gm la C7/ sunt în cadrul aceleiași măsuri cu două bătăi pe primul acord și una pe ultimul.
 ```
 
-#### 631. Blue Christmas
+#### 629. Blue Christmas
 
 Sursa: Colinde Karban, p. 53
 
-**Chitară:** E 022100 · B x24442 · A x02220 · F 133211
 
+**Chitară:** E 022100 · B x24442 · A x02220 · F 133211
 **Ukulele:** E 4442 · B 4322 · A 2100 · F 2010
 
 ```text
@@ -29884,12 +29821,12 @@ Exemplificat aici pentru E. Semnele “ ” reprezintă lovirea corzii de sus î
 O variantă cunoscută a melodiei este cea interpretată de Elvis Presley.
 ```
 
-#### 632. Când din crâșmă ai ieșit (Colind horror)
+#### 630. Când din crâșmă ai ieșit (Colind horror)
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 109
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
 **Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
@@ -29938,12 +29875,12 @@ G                                              C                                
 Exemplificată aici pentru G, C și D. (De altfel cred că aceasta este și ciupitura folosită de Ada)
 ```
 
-#### 633. Când fost-a micuț prunc Isus
+#### 631. Când fost-a micuț prunc Isus
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 22
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · E 022100
 
+**Chitară:** D xx0232 · G 320003 · A x02220 · E 022100
 **Ukulele:** D 2220 · G 0232 · A 2100 · E 4442
 
 ```text
@@ -29995,12 +29932,12 @@ E
 D
 ```
 
-#### 634. Ce-ați văzut păstori
+#### 632. Ce-ați văzut păstori
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 23
 
-**Chitară:** Am x02210 · E 022100 · F 133211 · Em 022000 · C x32010 · Dm xx0231 · G 320003 · D xx0232
 
+**Chitară:** Am x02210 · E 022100 · F 133211 · Em 022000 · C x32010 · Dm xx0231 · G 320003 · D xx0232
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Em 0432 · C 0003 · Dm 2210 · G 0232 · D 2220
 
 ```text
@@ -30052,12 +29989,12 @@ E
 Exemplificată aici pentru Am.
 ```
 
-#### 635. Cerul și pământul (I)
+#### 633. Cerul și pământul (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 117 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/victor-socaciu/cerul-si-pamantul-13353)
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -30097,12 +30034,12 @@ Hristos se naște veniți la închinare
 Cu vesel suflet veselă cântare.
 ```
 
-#### 636. Cerul și pământul (II)
+#### 634. Cerul și pământul (II)
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/popular · Sursa: Cărticica Karban, p. 77
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -30133,12 +30070,12 @@ Refren:
 [G]Veselă cânt[C]are.
 ```
 
-#### 637. Cerul și pământul (III)
+#### 635. Cerul și pământul (III)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 24
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -30171,12 +30108,12 @@ G             C
 Fiu născu în lume.
 ```
 
-#### 638. Cheamă-ți gazdă
+#### 636. Cheamă-ți gazdă
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 97
 
-**Chitară:** C x32010 · G 320003 · F 133211
 
+**Chitară:** C x32010 · G 320003 · F 133211
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
@@ -30242,12 +30179,12 @@ E        3              3    3    3    3                   3    3    3    3
 Schimbarea se face tot pe a 4-a bătaie.
 ```
 
-#### 639. Coborât-o coborât
+#### 637. Coborât-o coborât
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 25
 
-**Chitară:** F 133211 · Bb x13331 · C x32010 · B x24442 · D xx0232
 
+**Chitară:** F 133211 · Bb x13331 · C x32010 · B x24442 · D xx0232
 **Ukulele:** F 2010 · Bb 3211 · C 0003 · B 4322 · D 2220
 
 ```text
@@ -30294,12 +30231,12 @@ E         1
 |    _ |    |      | _ | _ |    |    _ |    |      | _ | _ |
 ```
 
-#### 640. Colindă tristă (I)
+#### 638. Colindă tristă (I)
 
 **Karma** · Sursa: Caiet cabană RO, p. 115 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/colinda-trista-1189)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -30342,12 +30279,12 @@ Când zurgălăii șuieră-ntr-o dungă
 Pe-o filă ultimă de calendar.
 ```
 
-#### 641. Colindă tristă (II)
+#### 639. Colindă tristă (II)
 
 **Karma** · Sursa: Colinde Karban, p. 98 · Cărticica Karban, p. 96
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003 · C x32010
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232 · C 0003
 
 ```text
@@ -30402,12 +30339,12 @@ Dm               E
 Pe-o filă ultimă de calendar
 ```
 
-#### 642. Colindăm, colindăm iarna
+#### 640. Colindăm, colindăm iarna
 
 Sursa: Colinde Karban, p. 8
 
-**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
 **Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -30461,12 +30398,12 @@ A         3
 E
 ```
 
-#### 643. Colindul cerbului
+#### 641. Colindul cerbului
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 26
 
-**Chitară:** Gm 355333 · D xx0232 · Dm xx0231 · A x02220
 
+**Chitară:** Gm 355333 · D xx0232 · Dm xx0231 · A x02220
 **Ukulele:** Gm 0231 · D 2220 · Dm 2210 · A 2100
 
 ```text
@@ -30516,12 +30453,12 @@ E         3
 | _ | _ | _ |    | _ | _ | _ |    | _ | _ | _ |
 ```
 
-#### 644. Colindul gutuii (I)
+#### 642. Colindul gutuii (I)
 
 **Tatiana Stepa** · Sursa: Caiet cabană RO, p. 41
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
@@ -30552,12 +30489,12 @@ Luxul mamei cel mai mare când copii ne mai simțeam
 Era pâinea de pe masă și gutuia de la geam.
 ```
 
-#### 645. Colindul gutuii (II)
+#### 643. Colindul gutuii (II)
 
 **Tatiana Stepa** · muzica/versuri: Tatiana Stepa/??? · Sursa: Colinde Karban, p. 106
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · D xx0232
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100 · D xx0232
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · D 2220
 
 ```text
@@ -30604,12 +30541,12 @@ E
 Exemplificată aici pentru Am.
 ```
 
-#### 646. Colindul pușcăriașului
+#### 644. Colindul pușcăriașului
 
 muzica/versuri: tradițional “O ce veste minunată” · Sursa: Colinde Karban, p. 112
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · A x02220
 **Ukulele:** G 0232 · D 2220 · C 0003 · A 2100
 
 ```text
@@ -30657,12 +30594,12 @@ E         3
 Exemplificat aici pentru G.
 ```
 
-#### 647. Corindăm, corindăm (I)
+#### 645. Corindăm, corindăm (I)
 
 **Paula Seling** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 18
 
-**Chitară:** F 133211 · G 320003 · C x32010 · D xx0232 · E 022100
 
+**Chitară:** F 133211 · G 320003 · C x32010 · D xx0232 · E 022100
 **Ukulele:** F 2010 · G 0232 · C 0003 · D 2220 · E 4442
 
 ```text
@@ -30714,12 +30651,12 @@ A         3
 E
 ```
 
-#### 648. Corindăm, corindăm (II)
+#### 646. Corindăm, corindăm (II)
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 14
 
-**Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · E 022100
 **Ukulele:** C 0003 · G 0232 · F 2010 · D 2220 · E 4442
 
 ```text
@@ -30765,12 +30702,12 @@ A         3
 E
 ```
 
-#### 649. Corindăm, corindăm (III)
+#### 647. Corindăm, corindăm (III)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 50 · Cărticica Karban, p. 79
 
-**Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · E 022100
 **Ukulele:** C 0003 · G 0232 · F 2010 · D 2220 · E 4442
 
 ```text
@@ -30824,12 +30761,12 @@ E
 |          |            |          |
 ```
 
-#### 650. Creștinilor, noi astăzi
+#### 648. Creștinilor, noi astăzi
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 27
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · Em 022000 · E 022100
 
+**Chitară:** D xx0232 · A x02220 · G 320003 · Em 022000 · E 022100
 **Ukulele:** D 2220 · A 2100 · G 0232 · Em 0432 · E 4442
 
 ```text
@@ -30884,12 +30821,12 @@ E
 Exemplificat aici pentru A.
 ```
 
-#### 651. Cu secera-n mână (Colind horror)
+#### 649. Cu secera-n mână (Colind horror)
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 110
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -30916,12 +30853,12 @@ A          A                   E
 Note:Măsura este 4/4. Ada folosește o tehnică de lovire a coardelor.
 ```
 
-#### 652. Dalbu-i dealu
+#### 650. Dalbu-i dealu
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 28
 
-**Chitară:** G 320003 · D xx0232 · Am x02210 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · Am x02210 · A x02220
 **Ukulele:** G 0232 · D 2220 · Am 2000 · A 2100
 
 ```text
@@ -30975,12 +30912,12 @@ A
 E         3
 ```
 
-#### 653. Decembre (I)
+#### 651. Decembre (I)
 
 **Nicu Alifantis** · Sursa: Caiet cabană RO, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/decembre-276)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232
 
 ```text
@@ -31026,12 +30963,12 @@ Am Dm G Am
 Am Dm E Am
 ```
 
-#### 654. Decembre (II)
+#### 652. Decembre (II)
 
 **Nicu Alifantis** · Sursa: Cărticica Karban, p. 16
 
-**Chitară:** Em 022000 · Am x02210 · B7 x21202
 
+**Chitară:** Em 022000 · Am x02210 · B7 x21202
 **Ukulele:** Em 0432 · Am 2000 · B7 2322
 
 ```text
@@ -31061,12 +30998,12 @@ Te uită cum ninge De[B7]cembre...
 Nu râde ... citește-[Em]nainte.
 ```
 
-#### 655. Decembre (III)
+#### 653. Decembre (III)
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/G.Bacovia · Sursa: Colinde Karban, p. 103
 
-**Chitară:** Em 022000 · Am x02210 · B x24442
 
+**Chitară:** Em 022000 · Am x02210 · B x24442
 **Ukulele:** Em 0432 · Am 2000 · B 4322
 
 ```text
@@ -31120,12 +31057,12 @@ Te uită cum ninge Decembre...
 Nu râde ... citește-nainte.
 ```
 
-#### 656. Deck the Halls
+#### 654. Deck the Halls
 
 Sursa: Colinde Karban, p. 54
 
-**Chitară:** D xx0232 · Bm x24432 · A x02220 · E 022100 · G 320003
 
+**Chitară:** D xx0232 · Bm x24432 · A x02220 · E 022100 · G 320003
 **Ukulele:** D 2220 · Bm 4222 · A 2100 · E 4442 · G 0232
 
 ```text
@@ -31191,12 +31128,12 @@ E
 Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzilor de sus în jos. Celelalte bătăi sunt de jos în sus.
 ```
 
-#### 657. Deschide nană ușile
+#### 655. Deschide nană ușile
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 29
 
-**Chitară:** G 320003 · E 022100
 
+**Chitară:** G 320003 · E 022100
 **Ukulele:** G 0232 · E 4442
 
 ```text
@@ -31238,12 +31175,12 @@ A         5     5     5         5     5     5
 E         3     3     3         3     3     3
 ```
 
-#### 658. Deschide ușa, creștine (I)
+#### 656. Deschide ușa, creștine (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 114 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/narcisa-suciu/deschide-usa-crestine-920)
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -31293,12 +31230,12 @@ Care cu puterea sa
 Va împărăți în veac!
 ```
 
-#### 659. Deschide ușa, creștine (II)
+#### 657. Deschide ușa, creștine (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 30
 
-**Chitară:** C x32010 · F 133211 · G 320003
 
+**Chitară:** C x32010 · F 133211 · G 320003
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
@@ -31350,12 +31287,12 @@ E         3     3     3     3
 Semnele “ ” reprezintă lovirea corzilor de sus în jos. Bătăile de jos în sus se accentuează.
 ```
 
-#### 660. Ding ding, ding (Colind horror)
+#### 658. Ding ding, ding (Colind horror)
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 111
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · E 022100
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · E 022100
 **Ukulele:** G 0232 · D 2220 · C 0003 · E 4442
 
 ```text
@@ -31391,12 +31328,12 @@ G                                              C
 Exemplificată aici pentru G, C și D. (De altfel cred că aceasta este și ciupitura folosită de Ada)
 ```
 
-#### 661. Drumul magilor
+#### 659. Drumul magilor
 
 **Mircea Baniciu** · Sursa: Colinde Karban, p. 100
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003 · D xx0232 · E 022100
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -31462,12 +31399,12 @@ E
 |          | _ _ |      | _ _ |      | _ _ |
 ```
 
-#### 662. Entre le boeuf et l’âne gris
+#### 660. Entre le boeuf et l’âne gris
 
 muzica/versuri: tradițional · Sursa: Colinde Karban, p. 76
 
-**Chitară:** Em 022000 · D xx0232 · G 320003 · Bm x24432 · Am x02210
 
+**Chitară:** Em 022000 · D xx0232 · G 320003 · Bm x24432 · Am x02210
 **Ukulele:** Em 0432 · D 2220 · G 0232 · Bm 4222 · Am 2000
 
 ```text
@@ -31506,12 +31443,12 @@ Volent alentour de ce Dieu d’amour.
 Note:Măsura este 4/4
 ```
 
-#### 663. Feliz Navidad
+#### 661. Feliz Navidad
 
 **José Feliciano** · Sursa: Colinde Karban, p. 90
 
-**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432 · E 022100
 
+**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432 · E 022100
 **Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222 · E 4442
 
 ```text
@@ -31555,12 +31492,12 @@ Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzii de sus î
 Ca și variațiune în măsurile cu Em se poate folosi în a doua jumătate a măsuri Em7
 ```
 
-#### 664. Ferice-i ferice
+#### 662. Ferice-i ferice
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 31
 
-**Chitară:** Fm 133111 · Bbm x13321
 
+**Chitară:** Fm 133111 · Bbm x13321
 **Ukulele:** Fm 1013 · Bbm 3111
 
 ```text
@@ -31621,12 +31558,12 @@ A         3         3         3
 E         1         1         1
 ```
 
-#### 665. Flori de măr (I)
+#### 663. Flori de măr (I)
 
 **Ștefan Hrușcă** · Sursa: Cărticica Karban, p. 87
 
-**Chitară:** G 320003 · D xx0232 · D7 xx0212 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · D7 xx0212 · C x32010
 **Ukulele:** G 0232 · D 2220 · D7 2223 · C 0003
 
 ```text
@@ -31656,12 +31593,12 @@ Să trăiască cine-as[D]cultă, să trăiască cine-as[G]cultă
 Cine-ascultă să tră[D]ia, cine-ascultă să tră[G]ia.
 ```
 
-#### 666. Flori de măr (II)
+#### 664. Flori de măr (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 32
 
-**Chitară:** G 320003 · D xx0232 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · A x02220
 **Ukulele:** G 0232 · D 2220 · A 2100
 
 ```text
@@ -31712,12 +31649,12 @@ E         3
 G
 ```
 
-#### 667. Florile dalbe (I)
+#### 665. Florile dalbe (I)
 
 **Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 116 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/florile-dalbe-11616)
 
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
 
+**Chitară:** Am x02210 · E 022100 · Dm xx0231
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
@@ -31749,12 +31686,12 @@ Când cuptorul a tomnit ,florile dalbe
 Anul nou a și venit, florile, florile dalbe.
 ```
 
-#### 668. Florile dalbe (II)
+#### 666. Florile dalbe (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 33 · Cărticica Karban, p. 78
 
-**Chitară:** Em 022000 · Am x02210 · D xx0232 · A x02220
 
+**Chitară:** Em 022000 · Am x02210 · D xx0232 · A x02220
 **Ukulele:** Em 0432 · Am 2000 · D 2220 · A 2100
 
 ```text
@@ -31818,12 +31755,12 @@ E         0                         0
 Em
 ```
 
-#### 669. Frosty The Snowman
+#### 667. Frosty The Snowman
 
 muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 55
 
-**Chitară:** C x32010 · F 133211 · G 320003 · Em 022000 · Dm xx0231 · E 022100 · Am x02210 · D xx0232
 
+**Chitară:** C x32010 · F 133211 · G 320003 · Em 022000 · Dm xx0231 · E 022100 · Am x02210 · D xx0232
 **Ukulele:** C 0003 · F 2010 · G 0232 · Em 0432 · Dm 2210 · E 4442 · Am 2000 · D 2220
 
 ```text
@@ -31876,12 +31813,12 @@ E                                 3
 Exemplificat aici pentru C. Atenție la trecerile de la F ls F dim, C Am, Dm G7 și Am D se fac într-o măsură.
 ```
 
-#### 670. Go Tell It On The Mountain
+#### 668. Go Tell It On The Mountain
 
 Sursa: Colinde Karban, p. 56
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
 
+**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
 **Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
 
 ```text
@@ -31932,12 +31869,12 @@ And God sent out salvation
 On that blessed Christmas morn
 ```
 
-#### 671. Here Comes Santa Claus
+#### 669. Here Comes Santa Claus
 
 Sursa: Colinde Karban, p. 57
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Am x02210 · Em 022000
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Am x02210 · Em 022000
 **Ukulele:** G 0232 · D 2220 · C 0003 · Bm 4222 · Am 2000 · Em 0432
 
 ```text
@@ -31989,12 +31926,12 @@ E         3         3     3            3     3     3
 |          | _ _ |          _ |      | _ _ |
 ```
 
-#### 672. Iarăși flori dalbe
+#### 670. Iarăși flori dalbe
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 34
 
-**Chitară:** G 320003 · C x32010
 
+**Chitară:** G 320003 · C x32010
 **Ukulele:** G 0232 · C 0003
 
 ```text
@@ -32054,12 +31991,12 @@ E         3         3         3
 | _ _ _ _ |          |
 ```
 
-#### 673. Ihr Kinderlein kommet
+#### 671. Ihr Kinderlein kommet
 
 muzica/versuri: J.A.P. Schulz/C. von Schmidt · Sursa: Colinde Karban, p. 84
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · E 022100
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · E 022100
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · E 4442
 
 ```text
@@ -32113,12 +32050,12 @@ E
 |          | _ _ |      |          | _ _ |
 ```
 
-#### 674. În întâmpinarea Crăciunului
+#### 672. În întâmpinarea Crăciunului
 
 **Tatiana Stepa** · muzica/versuri: Tatiana Stepa/Adrian Păunescu · Sursa: Colinde Karban, p. 107
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010 · F 133211
 
+**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010 · F 133211
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003 · F 2010
 
 ```text
@@ -32158,12 +32095,12 @@ E
 Am
 ```
 
-#### 675. Jingle Bells (I)
+#### 673. Jingle Bells (I)
 
 Sursa: Caiet cabană EN, p. 44
 
-**Chitară:** D xx0232 · A x02220 · D7 xx0212 · G 320003 · Em 022000 · E 022100
 
+**Chitară:** D xx0232 · A x02220 · D7 xx0212 · G 320003 · Em 022000 · E 022100
 **Ukulele:** D 2220 · A 2100 · D7 2223 · G 0232 · Em 0432 · E 4442
 
 ```text
@@ -32193,12 +32130,12 @@ Just get a bob-tail bay two forty four is speed
 Then hitch him to an open sleigh and crack! You’ll take the lead.
 ```
 
-#### 676. Jingle Bells (II)
+#### 674. Jingle Bells (II)
 
 Sursa: Colinde Karban, p. 58
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
 **Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -32254,12 +32191,12 @@ E         3            3
 |      |      |      |
 ```
 
-#### 677. Junelu-i tinerelu
+#### 675. Junelu-i tinerelu
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 35
 
-**Chitară:** F 133211 · C x32010 · B x24442
 
+**Chitară:** F 133211 · C x32010 · B x24442
 **Ukulele:** F 2010 · C 0003 · B 4322
 
 ```text
@@ -32320,12 +32257,12 @@ E         1     1     1         3            1                  1     1     1   
 F                      C           F                                          B
 ```
 
-#### 678. Kling, Glöckchen, klingelingeling
+#### 676. Kling, Glöckchen, klingelingeling
 
 Sursa: Colinde Karban, p. 85
 
-**Chitară:** C x32010 · G 320003 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · G 320003 · D xx0232 · E 022100
 **Ukulele:** C 0003 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -32365,12 +32302,12 @@ E
 Exemplificat aici pentru C. Semnele “ ” reprezintă lovirea corzilor de sus în jos. Celelalte bătăi sunt de jos în sus.
 ```
 
-#### 679. La tătă casa-i lumină
+#### 677. La tătă casa-i lumină
 
 **Ducu Hotima** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 16
 
-**Chitară:** G 320003 · Am x02210 · D xx0232
 
+**Chitară:** G 320003 · Am x02210 · D xx0232
 **Ukulele:** G 0232 · Am 2000 · D 2220
 
 ```text
@@ -32421,12 +32358,12 @@ G                                              G                    Am
 Am arătat mai sus si trecerile din versurile 2 și 3 ale fiecărei strofe de la G la Am și invers.
 ```
 
-#### 680. La Viflaim, la Viflaim
+#### 678. La Viflaim, la Viflaim
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 36
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -32473,12 +32410,12 @@ E
 A
 ```
 
-#### 681. Last Christmas
+#### 679. Last Christmas
 
 **Wham!** · Sursa: Colinde Karban, p. 59
 
-**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · E 022100
 
+**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · E 022100
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · E 4442
 
 ```text
@@ -32544,12 +32481,12 @@ E
 D
 ```
 
-#### 682. Le bonhomme de neige
+#### 680. Le bonhomme de neige
 
 muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 77
 
-**Chitară:** G 320003 · D xx0232 · A x02220 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · A x02220 · C x32010
 **Ukulele:** G 0232 · D 2220 · A 2100 · C 0003
 
 ```text
@@ -32610,12 +32547,12 @@ E         3
 |          | _ _ |      |          | _ _ |
 ```
 
-#### 683. Le petit renne au nez rouge
+#### 681. Le petit renne au nez rouge
 
 Sursa: Colinde Karban, p. 78
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · B x24442 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · B x24442 · Em 022000 · A x02220
 **Ukulele:** G 0232 · D 2220 · C 0003 · B 4322 · Em 0432 · A 2100
 
 ```text
@@ -32657,12 +32594,12 @@ E         3         3     3            3     3     3
 |          | _ _ |          _ |      | _ _ |
 ```
 
-#### 684. Leise rieselt der Schnee
+#### 682. Leise rieselt der Schnee
 
 Sursa: Colinde Karban, p. 86
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Dm xx0231 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Dm xx0231 · D xx0232 · E 022100
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · Dm 2210 · D 2220 · E 4442
 
 ```text
@@ -32703,12 +32640,12 @@ E
 Exemplificat aici pentru C.
 ```
 
-#### 685. Let It Snow!
+#### 683. Let It Snow!
 
 muzica/versuri: Sammy Cahn, J.Styne 1945 · Sursa: Colinde Karban, p. 60
 
-**Chitară:** F 133211 · C x32010 · Gm 355333 · D xx0232 · Dm xx0231 · G 320003
 
+**Chitară:** F 133211 · C x32010 · Gm 355333 · D xx0232 · Dm xx0231 · G 320003
 **Ukulele:** F 2010 · C 0003 · Gm 0231 · D 2220 · Dm 2210 · G 0232
 
 ```text
@@ -32756,12 +32693,12 @@ E         1         1     1     1       1     1
 F
 ```
 
-#### 686. Linu-i lin
+#### 684. Linu-i lin
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 37 · Cărticica Karban, p. 88
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -32796,12 +32733,12 @@ G          C      D
 Să trăia cine-o ascultă.
 ```
 
-#### 687. Mă luai luai
+#### 685. Mă luai luai
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 38
 
-**Chitară:** Em 022000 · Am x02210 · B x24442 · D xx0232 · A x02220
 
+**Chitară:** Em 022000 · Am x02210 · B x24442 · D xx0232 · A x02220
 **Ukulele:** Em 0432 · Am 2000 · B 4322 · D 2220 · A 2100
 
 ```text
@@ -32847,12 +32784,12 @@ A
 E         0
 ```
 
-#### 688. Măruț mărgăritar
+#### 686. Măruț mărgăritar
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 39
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
 **Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -32898,12 +32835,12 @@ E         3
 |          |          |          |
 ```
 
-#### 689. Merry Xmas Everybody
+#### 687. Merry Xmas Everybody
 
 **Slade** · Sursa: Colinde Karban, p. 61
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · F 133211 · Bm x24432 · Bb x13331 · E 022100
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · F 133211 · Bm x24432 · Bb x13331 · E 022100
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · F 2010 · Bm 4222 · Bb 3211 · E 4442
 
 ```text
@@ -32957,12 +32894,12 @@ E
 - La strofe acordul D poate fi “înfrumusețat” cu D4.
 ```
 
-#### 690. Mon Beau Sapin
+#### 688. Mon Beau Sapin
 
 muzica/versuri: tradițional german · Sursa: Colinde Karban, p. 79
 
-**Chitară:** G 320003 · D xx0232 · Em 022000 · Am x02210
 
+**Chitară:** G 320003 · D xx0232 · Em 022000 · Am x02210
 **Ukulele:** G 0232 · D 2220 · Em 0432 · Am 2000
 
 ```text
@@ -33005,12 +32942,12 @@ M’offrent  la douce image
 Note:Măsura este 3/4
 ```
 
-#### 691. Moș Crăciun (I)
+#### 689. Moș Crăciun (I)
 
 **tradițional** · Sursa: Cărticica Karban, p. 220
 
-**Chitară:** G 320003 · C x32010 · D7 xx0212
 
+**Chitară:** G 320003 · C x32010 · D7 xx0212
 **Ukulele:** G 0232 · C 0003 · D7 2223
 
 ```text
@@ -33035,12 +32972,12 @@ Refren:
 Refren:
 ```
 
-#### 692. Moș Crăciun (II)
+#### 690. Moș Crăciun (II)
 
 muzica/versuri: D.G. Kiriac/tradițional · Sursa: Colinde Karban, p. 9
 
-**Chitară:** G 320003 · D xx0232 · C x32010
 
+**Chitară:** G 320003 · D xx0232 · C x32010
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
@@ -33087,12 +33024,12 @@ E         3
 |          | _ _ |
 ```
 
-#### 693. Must Be Santa
+#### 691. Must Be Santa
 
 Sursa: Colinde Karban, p. 62
 
-**Chitară:** D xx0232 · A x02220 · Em 022000 · Bm x24432
 
+**Chitară:** D xx0232 · A x02220 · Em 022000 · Bm x24432
 **Ukulele:** D 2220 · A 2100 · Em 0432 · Bm 4222
 
 ```text
@@ -33148,12 +33085,12 @@ Em      A            D
 Must be Santa, Santa Claus
 ```
 
-#### 694. Ninge iar (I)
+#### 692. Ninge iar (I)
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 110 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/ninge-iar-1857)
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322 · G 0232
 
 ```text
@@ -33197,12 +33134,12 @@ Azi pe sub zăpadă ți-aș săpa tunel
 Într-un vis cu sănii și cu clopoței.
 ```
 
-#### 695. Ninge iar (II)
+#### 693. Ninge iar (II)
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 84
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · B7 x21202 · G 320003
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B7 2322 · G 0232
 
 ```text
@@ -33240,12 +33177,12 @@ E||---------------|----------3----0--||
 cu o trecere în Em sau respectiv, în G.
 ```
 
-#### 696. Ninge iar (III)
+#### 694. Ninge iar (III)
 
 **Ștefan Hrușcă** · muzica/versuri: S  țefan Hrușcă/Dan Verona · Sursa: Colinde Karban, p. 104
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · B x24442 · G 320003 · B7 x21202
 
+**Chitară:** Em 022000 · D xx0232 · C x32010 · B x24442 · G 320003 · B7 x21202
 **Ukulele:** Em 0432 · D 2220 · C 0003 · B 4322 · G 0232 · B7 2322
 
 ```text
@@ -33301,12 +33238,12 @@ B7
 cu o trecere în Em sau respectiv, în G.
 ```
 
-#### 697. Noapte de vis
+#### 695. Noapte de vis
 
 muzica/versuri: Franz X. Gruber/Joseph Mohr/traduse · Sursa: Colinde Karban, p. 10
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
 
 ```text
@@ -33358,12 +33295,12 @@ E         3                  3
 Note:Măsura este 3/4
 ```
 
-#### 698. Noapte sfântă (I)
+#### 696. Noapte sfântă (I)
 
 **Tradițional** · Sursa: Cărticica Karban, p. 219
 
-**Chitară:** C x32010 · G7 320001 · F 133211 · G 320003 · Am x02210
 
+**Chitară:** C x32010 · G7 320001 · F 133211 · G 320003 · Am x02210
 **Ukulele:** C 0003 · G7 0212 · F 2010 · G 0232 · Am 2000
 
 ```text
@@ -33385,12 +33322,12 @@ Note:Măsura este 3/4
 [C]"Mărite-ntru [G]cele de [C]sus!"
 ```
 
-#### 699. Noapte sfântă (II)
+#### 697. Noapte sfântă (II)
 
 muzica/versuri: Franz Xaver Gruber/Joseph Mohr · Sursa: Colinde Karban, p. 11
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
@@ -33430,12 +33367,12 @@ C            G       C
 “Mărite-ntru cele de sus!”
 ```
 
-#### 700. O Christmas Tree
+#### 698. O Christmas Tree
 
 muzica/versuri: tradițional · Sursa: Colinde Karban, p. 63
 
-**Chitară:** D xx0232 · A x02220 · Em 022000 · B x24442 · G 320003
 
+**Chitară:** D xx0232 · A x02220 · Em 022000 · B x24442 · G 320003
 **Ukulele:** D 2220 · A 2100 · Em 0432 · B 4322 · G 0232
 
 ```text
@@ -33473,12 +33410,12 @@ Of all the trees most lovely.
 Pentru cei care trecerea Em-B7-Em pare prea complicată pot să o înlocuiască cu Em.
 ```
 
-#### 701. O Come Little Children
+#### 699. O Come Little Children
 
 muzica/versuri: tradițional german - Ihr Kinderlein kommet · Sursa: Colinde Karban, p. 64
 
-**Chitară:** A x02220 · E 022100 · D xx0232
 
+**Chitară:** A x02220 · E 022100 · D xx0232
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
@@ -33516,12 +33453,12 @@ E
 | _ _ |      | _ _ |      | _ _ |      | _ _ |
 ```
 
-#### 702. O Tannenbaum
+#### 700. O Tannenbaum
 
 Sursa: Colinde Karban, p. 87
 
-**Chitară:** C x32010 · G 320003 · F 133211 · E 022100
 
+**Chitară:** C x32010 · G 320003 · F 133211 · E 022100
 **Ukulele:** C 0003 · G 0232 · F 2010 · E 4442
 
 ```text
@@ -33580,12 +33517,12 @@ E         3
 |          |          | _ _ |
 ```
 
-#### 703. O, brad frumos! (I)
+#### 701. O, brad frumos! (I)
 
 **Tradițional** · Sursa: Cărticica Karban, p. 221
 
-**Chitară:** F 133211 · C x32010 · C7 x32310
 
+**Chitară:** F 133211 · C x32010 · C7 x32310
 **Ukulele:** F 2010 · C 0003 · C7 0001
 
 ```text
@@ -33609,12 +33546,12 @@ O, brad frumos [C]a [F]lui Hristos
 Cu frunza-[C7]ți neschim[F]bată!
 ```
 
-#### 704. O, brad frumos! (II)
+#### 702. O, brad frumos! (II)
 
 muzica/versuri: tradițional german · Sursa: Colinde Karban, p. 12
 
-**Chitară:** F 133211 · C x32010
 
+**Chitară:** F 133211 · C x32010
 **Ukulele:** F 2010 · C 0003
 
 ```text
@@ -33657,12 +33594,12 @@ Cu frunza-ți neschimbată!
 Măsura ete 3/4
 ```
 
-#### 705. O, ce veste minunată (2)
+#### 703. O, ce veste minunată (2)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 41
 
-**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
 **Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -33696,12 +33633,12 @@ E
 |          |          |          |
 ```
 
-#### 706. O, ce veste minunată! (1)
+#### 704. O, ce veste minunată! (1)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 40
 
-**Chitară:** E 022100 · B x24442 · A x02220
 
+**Chitară:** E 022100 · B x24442 · A x02220
 **Ukulele:** E 4442 · B 4322 · A 2100
 
 ```text
@@ -33749,12 +33686,12 @@ Note:Ultimele 3 versuri din fiecare strofă se repetă mereu.
 Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest cântec.
 ```
 
-#### 707. Ostașii luminii colindă (I)
+#### 705. Ostașii luminii colindă (I)
 
 **Doi și Jumătate** · Sursa: Caiet cabană RO, p. 116
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000
 
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432
 
 ```text
@@ -33784,12 +33721,12 @@ Merele de aur, merele visate
 De colindătorii veacurilor toate.
 ```
 
-#### 708. Ostașii luminii colindă (II)
+#### 706. Ostașii luminii colindă (II)
 
 **Doi și Jumătate** · muzica/versuri: Doi și Jumătate/Elena Farago · Sursa: Colinde Karban, p. 92
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000 · D xx0232 · E 022100
 
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000 · D xx0232 · E 022100
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432 · D 2220 · E 4442
 
 ```text
@@ -33845,12 +33782,12 @@ G                        C
 Exemplificat aici pentru G urmat de C.
 ```
 
-#### 709. Pe cununa munților
+#### 707. Pe cununa munților
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 42
 
-**Chitară:** F 133211 · C x32010 · Bb x13331
 
+**Chitară:** F 133211 · C x32010 · Bb x13331
 **Ukulele:** F 2010 · C 0003 · Bb 3211
 
 ```text
@@ -33907,12 +33844,12 @@ F
 Exemplificat pentru primul vers.
 ```
 
-#### 710. Pe podele de nuiele
+#### 708. Pe podele de nuiele
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 13
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432 · E 022100
 
+**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432 · E 022100
 **Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222 · E 4442
 
 ```text
@@ -33961,12 +33898,12 @@ E
 |          |          |          |
 ```
 
-#### 711. Pe strada din Viflaim
+#### 709. Pe strada din Viflaim
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 43
 
-**Chitară:** E 022100 · A x02220 · B x24442
 
+**Chitară:** E 022100 · A x02220 · B x24442
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
@@ -34012,12 +33949,12 @@ E
 În original armonia este ceva mai complexă.
 ```
 
-#### 712. Pére Noël arrive ce soir
+#### 710. Pére Noël arrive ce soir
 
 muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 80
 
-**Chitară:** A x02220 · D xx0232 · E 022100 · G 320003 · B x24442
 
+**Chitară:** A x02220 · D xx0232 · E 022100 · G 320003 · B x24442
 **Ukulele:** A 2100 · D 2220 · E 4442 · G 0232 · B 4322
 
 ```text
@@ -34071,12 +34008,12 @@ E
 |      |      |      |
 ```
 
-#### 713. Plecarea
+#### 711. Plecarea
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Serghei Esenin · Sursa: Colinde Karban, p. 93
 
-**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · E 022100
 **Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · E 4442
 
 ```text
@@ -34115,12 +34052,12 @@ E
 | _ _ |      | _ _ |      | _ _ |      | _ _ |
 ```
 
-#### 714. Pom înrămuratu
+#### 712. Pom înrămuratu
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 44
 
-**Chitară:** F 133211 · Bb x13331 · C x32010
 
+**Chitară:** F 133211 · Bb x13331 · C x32010
 **Ukulele:** F 2010 · Bb 3211 · C 0003
 
 ```text
@@ -34166,12 +34103,12 @@ E         1     1     1         1     1     1                1     1     1      
 | _ _ |      |          | _ _ |      |                 | _ _ |      |          | _ _ |      |
 ```
 
-#### 715. Pomul de Crăciun
+#### 713. Pomul de Crăciun
 
 **Mircea Baniciu** · Sursa: Colinde Karban, p. 101
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · F 133211 · Am x02210
 
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · F 133211 · Am x02210
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · F 2010 · Am 2000
 
 ```text
@@ -34215,12 +34152,12 @@ Refren
 Strofele se arpegiază iar la refren merge un pop-strum.
 ```
 
-#### 716. Rocking Around the Christmas Tree
+#### 714. Rocking Around the Christmas Tree
 
 **Brenda Lee** · muzica/versuri: Johnny Marks/Johnny Marks · Sursa: Colinde Karban, p. 65
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Em 022000 · A x02220
 **Ukulele:** G 0232 · D 2220 · C 0003 · Bm 4222 · Em 0432 · A 2100
 
 ```text
@@ -34272,12 +34209,12 @@ E         3         3                      3
 Exemplificat aici pentru G. Semnele “ ” reprezintă lovirea corzii de sus în jos.
 ```
 
-#### 717. Rudolph The Red Nosed Reindeer
+#### 715. Rudolph The Red Nosed Reindeer
 
 muzica/versuri: Johnny Marks 1949 · Sursa: Colinde Karban, p. 66
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · D xx0232 · E 022100
 
+**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · D xx0232 · E 022100
 **Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · D 2220 · E 4442
 
 ```text
@@ -34324,12 +34261,12 @@ Exemplificat aici pentru C. Semnele “ ” reprezintă lovirea corzii de sus î
 La strofe linia C-C-C poate fi înlocuită cu C-C7-C la fel și G7-G7-G7 cu G7-G-G7.
 ```
 
-#### 718. Sainte Nuit
+#### 716. Sainte Nuit
 
 muzica/versuri: tradițional german- Stille Nacht, heilige Nacht · Sursa: Colinde Karban, p. 81
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Db x43121 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Db x43121 · Em 022000 · A x02220
 **Ukulele:** G 0232 · D 2220 · C 0003 · Db 1114 · Em 0432 · A 2100
 
 ```text
@@ -34392,12 +34329,12 @@ E         3                  3
 Pentru altă variantă de armonizare vezi și transcriere melodiei în germană.
 ```
 
-#### 719. Santa Claus Is Coming To Town
+#### 717. Santa Claus Is Coming To Town
 
 muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 67
 
-**Chitară:** G 320003 · C x32010 · Cm x35543 · Em 022000 · Am x02210 · D xx0232 · A x02220
 
+**Chitară:** G 320003 · C x32010 · Cm x35543 · Em 022000 · Am x02210 · D xx0232 · A x02220
 **Ukulele:** G 0232 · C 0003 · Cm 0333 · Em 0432 · Am 2000 · D 2220 · A 2100
 
 ```text
@@ -34445,12 +34382,12 @@ Exemplificată aici pentru G.
 Acordul Cm este opțional și se potrivește mai bine la varianta ciupită a cântecului.
 ```
 
-#### 720. Scrisoare la-nceput de iarnă
+#### 718. Scrisoare la-nceput de iarnă
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 94
 
-**Chitară:** Am x02210 · F 133211 · Em 022000 · D xx0232 · E 022100
 
+**Chitară:** Am x02210 · F 133211 · Em 022000 · D xx0232 · E 022100
 **Ukulele:** Am 2000 · F 2010 · Em 0432 · D 2220 · E 4442
 
 ```text
@@ -34498,12 +34435,12 @@ E
 | _ _ |      | _   |        _ |      | _ _ |            | _ _ |      | _   |        _ |      | _ _ |
 ```
 
-#### 721. Seara serilor
+#### 719. Seara serilor
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 95
 
-**Chitară:** Dm xx0231 · A x02220 · E 022100
 
+**Chitară:** Dm xx0231 · A x02220 · E 022100
 **Ukulele:** Dm 2210 · A 2100 · E 4442
 
 ```text
@@ -34562,12 +34499,12 @@ E
 | _ _ |      | _ _ |      | _ _ |      | _ _ |
 ```
 
-#### 722. Singur de Crăciun
+#### 720. Singur de Crăciun
 
 **Maria Magdalena Dănăilă** · Sursa: Colinde Karban, p. 99
 
-**Chitară:** Am x02210 · C x32010 · Em 022000 · Dm xx0231 · F 133211 · E 022100 · G 320003 · D xx0232
 
+**Chitară:** Am x02210 · C x32010 · Em 022000 · Dm xx0231 · F 133211 · E 022100 · G 320003 · D xx0232
 **Ukulele:** Am 2000 · C 0003 · Em 0432 · Dm 2210 · F 2010 · E 4442 · G 0232 · D 2220
 
 ```text
@@ -34618,12 +34555,12 @@ E
 |          |          |          |
 ```
 
-#### 723. Steaguri albe
+#### 721. Steaguri albe
 
 **Ștefan Hrușcă** · muzica/versuri: S  țefan Hrușcă/Adrian Păunescu · Sursa: Colinde Karban, p. 105
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · F 133211
 
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · F 133211
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · F 2010
 
 ```text
@@ -34679,12 +34616,12 @@ E
 Exemplificat aici pentru Am.
 ```
 
-#### 724. Stille Nacht, heilige Nacht
+#### 722. Stille Nacht, heilige Nacht
 
 muzica/versuri: Joseph Mohr/Franz Gruber · Sursa: Colinde Karban, p. 88
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
 
 ```text
@@ -34734,12 +34671,12 @@ E         3                  3
 | _ _ |      | _ _ |      | _ _ |
 ```
 
-#### 725. Stop The Calvary
+#### 723. Stop The Calvary
 
 muzica/versuri: Lewie Jona/Lewie Jona · Sursa: Colinde Karban, p. 68
 
-**Chitară:** D xx0232 · A x02220 · E 022100
 
+**Chitară:** D xx0232 · A x02220 · E 022100
 **Ukulele:** D 2220 · A 2100 · E 4442
 
 ```text
@@ -34782,12 +34719,12 @@ E
 Exemplificat aici pentru acordul D. Semnele “ ” reprezintă lovirea corzii de sus în jos.
 ```
 
-#### 726. Sus boieri nu mai dormiți
+#### 724. Sus boieri nu mai dormiți
 
 **Maria Gheorghiu** · Sursa: Colinde Karban, p. 17
 
-**Chitară:** Em 022000 · D xx0232 · Bm x24432 · A x02220
 
+**Chitară:** Em 022000 · D xx0232 · Bm x24432 · A x02220
 **Ukulele:** Em 0432 · D 2220 · Bm 4222 · A 2100
 
 ```text
@@ -34835,12 +34772,12 @@ Em
 exemplificată pentru primul vers. În original e cu capo în poz. I
 ```
 
-#### 727. Sus sus sus pe lângă lună
+#### 725. Sus sus sus pe lângă lună
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 45
 
-**Chitară:** F 133211 · Bb x13331 · C x32010 · D xx0232 · A x02220
 
+**Chitară:** F 133211 · Bb x13331 · C x32010 · D xx0232 · A x02220
 **Ukulele:** F 2010 · Bb 3211 · C 0003 · D 2220 · A 2100
 
 ```text
@@ -34904,12 +34841,12 @@ E         1
 F
 ```
 
-#### 728. The Little Drummer Boy
+#### 726. The Little Drummer Boy
 
 Sursa: Colinde Karban, p. 69
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
 
+**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
 **Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
 
 ```text
@@ -34947,12 +34884,12 @@ E
 | _ _ |      | _ _ |      | _ _ |      | _ _ |
 ```
 
-#### 729. The Night Before Christmas Song
+#### 727. The Night Before Christmas Song
 
 muzica/versuri: Johnny Marks/Clement Clarke Moore · Sursa: Colinde Karban, p. 70
 
-**Chitară:** G 320003 · C x32010 · Em 022000 · F 133211 · Dm xx0231 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · Em 022000 · F 133211 · Dm xx0231 · D xx0232
 **Ukulele:** G 0232 · C 0003 · Em 0432 · F 2010 · Dm 2210 · D 2220
 
 ```text
@@ -34995,12 +34932,12 @@ E         3
 Exemplificat aici pentru G.
 ```
 
-#### 730. Trei crai
+#### 728. Trei crai
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 46
 
-**Chitară:** Fm 133111 · Bbm x13321 · C x32010 · A x02220 · E 022100
 
+**Chitară:** Fm 133111 · Bbm x13321 · C x32010 · A x02220 · E 022100
 **Ukulele:** Fm 1013 · Bbm 3111 · C 0003 · A 2100 · E 4442
 
 ```text
@@ -35053,12 +34990,12 @@ A                                                         3
 E
 ```
 
-#### 731. Trei păstori
+#### 729. Trei păstori
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 47
 
-**Chitară:** C x32010 · G 320003 · D xx0232
 
+**Chitară:** C x32010 · G 320003 · D xx0232
 **Ukulele:** C 0003 · G 0232 · D 2220
 
 ```text
@@ -35113,12 +35050,12 @@ E                          3
 Exemplificat aici pentru C.
 ```
 
-#### 732. Twinkle, Twinkle Little Star
+#### 730. Twinkle, Twinkle Little Star
 
 Sursa: Colinde Karban, p. 71
 
-**Chitară:** C x32010 · F 133211 · G 320003 · E 022100
 
+**Chitară:** C x32010 · F 133211 · G 320003 · E 022100
 **Ukulele:** C 0003 · F 2010 · G 0232 · E 4442
 
 ```text
@@ -35144,12 +35081,12 @@ E
 |          |
 ```
 
-#### 733. Un creștin s-a-nvrednicit
+#### 731. Un creștin s-a-nvrednicit
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 96
 
-**Chitară:** Dm xx0231 · A x02220 · E 022100
 
+**Chitară:** Dm xx0231 · A x02220 · E 022100
 **Ukulele:** Dm 2210 · A 2100 · E 4442
 
 ```text
@@ -35214,12 +35151,12 @@ E
 |          |          |          |
 ```
 
-#### 734. Veniți păstori în Viflaiem
+#### 732. Veniți păstori în Viflaiem
 
 **Ducu Bertzi** · muzica/versuri: tradițional din Rona de Jos, Maramureș - cules de Vasile Marina · Sursa: Colinde Karban, p. 15
 
-**Chitară:** Dm xx0231 · D xx0232 · A x02220 · F 133211 · C x32010 · Gm 355333 · E 022100
 
+**Chitară:** Dm xx0231 · D xx0232 · A x02220 · F 133211 · C x32010 · Gm 355333 · E 022100
 **Ukulele:** Dm 2210 · D 2220 · A 2100 · F 2010 · C 0003 · Gm 0231 · E 4442
 
 ```text
@@ -35264,12 +35201,12 @@ E
 | _ _ |      | _ _ |      |          |
 ```
 
-#### 735. Vine marea
+#### 733. Vine marea
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 48
 
-**Chitară:** D xx0232 · G 320003 · Bm x24432 · A x02220 · E 022100
 
+**Chitară:** D xx0232 · G 320003 · Bm x24432 · A x02220 · E 022100
 **Ukulele:** D 2220 · G 0232 · Bm 4222 · A 2100 · E 4442
 
 ```text
@@ -35333,12 +35270,12 @@ A
 E
 ```
 
-#### 736. We Wish You A Merry Christmas
+#### 734. We Wish You A Merry Christmas
 
 Sursa: Colinde Karban, p. 72
 
-**Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232 · Bm x24432 · Em 022000 · A x02220 · E 022100
 
+**Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232 · Bm x24432 · Em 022000 · A x02220 · E 022100
 **Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220 · Bm 4222 · Em 0432 · A 2100 · E 4442
 
 ```text
@@ -35390,12 +35327,12 @@ E
 Exemplificat aici pentru acordul G. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
 ```
 
-#### 737. White Christmas
+#### 735. White Christmas
 
 Sursa: Colinde Karban, p. 73
 
-**Chitară:** G 320003 · Am x02210 · D xx0232 · C x32010 · Cm x35543 · Em 022000 · A x02220
 
+**Chitară:** G 320003 · Am x02210 · D xx0232 · C x32010 · Cm x35543 · Em 022000 · A x02220
 **Ukulele:** G 0232 · Am 2000 · D 2220 · C 0003 · Cm 0333 · Em 0432 · A 2100
 
 ```text
@@ -35443,12 +35380,12 @@ E         3
 Exemplificată aici pentru G. O variantă cunoscută a melodiei este cea interpretată de Elvis Presley.
 ```
 
-#### 738. Winter Wonderland
+#### 736. Winter Wonderland
 
 muzica/versuri: Felix Bernard/Dick Smith · Sursa: Colinde Karban, p. 74
 
-**Chitară:** C x32010 · G 320003 · Dm xx0231 · D xx0232 · E 022100 · B x24442 · A x02220
 
+**Chitară:** C x32010 · G 320003 · Dm xx0231 · D xx0232 · E 022100 · B x24442 · A x02220
 **Ukulele:** C 0003 · G 0232 · Dm 2210 · D 2220 · E 4442 · B 4322 · A 2100
 
 ```text
@@ -35499,12 +35436,12 @@ walking in a winter wonderland, wo oh oh...
 Note:Măsura este 4/4 iar ritmul este unul de swing.
 ```
 
-#### 739. Zăurel de zăurel
+#### 737. Zăurel de zăurel
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 49
 
-**Chitară:** G 320003 · C x32010 · D xx0232
 
+**Chitară:** G 320003 · C x32010 · D xx0232
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
@@ -35551,12 +35488,12 @@ E         3     3     3     3
 Exemplificată aici penru G. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
 ```
 
-#### 740. Zori din zori
+#### 738. Zori din zori
 
 **Mircea Baniciu** · Sursa: Colinde Karban, p. 102
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Am x02210 · Em 022000
 
+**Chitară:** G 320003 · C x32010 · D xx0232 · Am x02210 · Em 022000
 **Ukulele:** G 0232 · C 0003 · D 2220 · Am 2000 · Em 0432
 
 ```text
@@ -35608,182 +35545,182 @@ La refren măsura este 3/4.
 
 ## Index pe artiști
 
-- **???** — [Să nu uităm](#171-să-nu-uităm)
-- **4 Non Blondes** — [What's Up](#616-whats-up)
-- **Ada Milea** — [Era Vasile om frumos](#293-era-vasile-om-frumos), [Grasă](#311-grasă), [Oaia mică](#390-oaia-mică), [Când din crâșmă ai ieșit (Colind horror)](#632-când-din-crâșmă-ai-ieșit-colind-horror), [Cu secera-n mână (Colind horror)](#651-cu-secera-n-mână-colind-horror), [Ding ding, ding (Colind horror)](#660-ding-ding-ding-colind-horror)
-- **adaptat** — [Apă de izvor](#117-apă-de-izvor)
-- **Adrian Ivanițchi** — [Amintirea paradisului](#203-amintirea-paradisului), [Arsură (I)](#211-arsură-i), [Arsură (II)](#212-arsură-ii), [Arsură (III)](#213-arsură-iii)
-- **Albatros** — [Uiuiui brădui](#85-uiuiui-brădui), [O, mama](#166-o-mama)
-- **Alexandru Andrieș** — [Dracula blues](#281-dracula-blues), [Mihai, câți copii îmi dai?](#363-mihai-câți-copii-îmi-dai)
-- **Anda Călugăreanu** — [Verde crud (I)](#511-verde-crud-i), [Verde crud (II)](#512-verde-crud-ii)
-- **Andrei Mureșan** — [Deșteaptă-te române (I)](#99-deșteaptă-te-române-i)
-- **Andrei Mureșanu** — [Deșteaptă-te române (II)](#100-deșteaptă-te-române-ii)
-- **Anonim** — [A fi munțoman](#1-a-fi-munțoman), [Amintiri din Făgăraș (I)](#7-amintiri-din-făgăraș-i), [Bătrânul refugiu](#13-bătrânul-refugiu), [Bun rămas cabanei](#15-bun-rămas-cabanei), [Cabana Mălăiești](#17-cabana-mălăiești), [Copilul munților](#27-copilul-munților), [Dor de ducă (I)](#30-dor-de-ducă-i), [Dor de munții mei](#33-dor-de-munții-mei), [Fata din Caraiman](#37-fata-din-caraiman), [Fata munților (II)](#39-fata-munților-ii), [Imnul ghizilor](#51-imnul-ghizilor), [Imnul prieteniei](#53-imnul-prieteniei), [Legenda Craiului](#56-legenda-craiului), [Libertate-n vârf de munți](#57-libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#62-mi-e-dragă-pădurea), [Prieteni buni](#77-prieteni-buni), [Bărbățelul](#121-bărbățelul), [Carolina (I)](#131-carolina-i), [Ceata noastră (I)](#139-ceata-noastră-i), [Fetița franceză](#153-fetița-franceză), [Te-am cunoscut în troleibuz (I)](#178-te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#185-un-kil-de-rom), [Bat la poarta ta](#220-bat-la-poarta-ta), [Colo-n vale](#251-colo-n-vale), [Delirul](#272-delirul), [Hai, mândruțo!](#313-hai-mândruțo), [Păpușa](#409-păpușa), [Seara de mai](#454-seara-de-mai)
-- **Anotimpul 5** — [Dacă n-ai amintiri](#260-dacă-n-ai-amintiri)
-- **Aurelian Andreescu** — [Dorul](#280-dorul), [Oameni](#391-oameni)
-- **Autentic** — [Trec țiganii](#183-trec-țiganii)
-- **Axa** — [Imnul Bucegilor](#48-imnul-bucegilor)
-- **Beatles** — [Girl](#550-girl), [Hey Jude](#553-hey-jude), [I Want to Hold Your Hand](#560-i-want-to-hold-your-hand), [Let It Be](#571-let-it-be), [Michelle](#576-michelle), [Ticket to Ride](#610-ticket-to-ride), [Twist and Shout](#613-twist-and-shout), [With a Little Help from My Friends](#620-with-a-little-help-from-my-friends), [Yellow Submarine](#622-yellow-submarine), [Yesterday](#623-yesterday)
-- **Beatles(Yelow submarine)** — [Imnul reșițenilor](#157-imnul-reșițenilor)
-- **Ben E. King** — [Stand by Me](#601-stand-by-me)
-- **Bmby** — [Doi ochi căprui](#277-doi-ochi-căprui)
-- **Bob Dylan** — [Don't Think Twice, It's Alright](#540-dont-think-twice-its-alright), [Knockin' on Heaven's Door](#566-knockin-on-heavens-door), [Mr. Tambourine Man](#577-mr-tambourine-man)
-- **Bosquito** — [Bosquito](#124-bosquito), [Tigano](#486-tigano)
-- **Brenda Lee** — [Rocking Around the Christmas Tree](#716-rocking-around-the-christmas-tree)
-- **...ca și completare la Katiusa (prima variantă)** — [Katiusa (variantă)](#163-katiusa-variantă)
-- **CALEnDAR** — [Un munte așternut](#87-un-munte-așternut)
-- **Cântece Horror** — [Bing bang (I)](#122-bing-bang-i)
-- **Cargo** — [Aproape de voi](#118-aproape-de-voi), [Astăzi și mâine](#215-astăzi-și-mâine), [Ca o stea](#225-ca-o-stea), [Ploaia](#420-ploaia)
+- **???** — [Să nu uităm](#169-să-nu-uităm)
+- **4 Non Blondes** — [What's Up](#614-whats-up)
+- **Ada Milea** — [Era Vasile om frumos](#291-era-vasile-om-frumos), [Grasă](#309-grasă), [Oaia mică](#388-oaia-mică), [Când din crâșmă ai ieșit (Colind horror)](#630-când-din-crâșmă-ai-ieșit-colind-horror), [Cu secera-n mână (Colind horror)](#649-cu-secera-n-mână-colind-horror), [Ding ding, ding (Colind horror)](#658-ding-ding-ding-colind-horror)
+- **adaptat** — [Apă de izvor](#115-apă-de-izvor)
+- **Adrian Ivanițchi** — [Amintirea paradisului](#201-amintirea-paradisului), [Arsură (I)](#209-arsură-i), [Arsură (II)](#210-arsură-ii), [Arsură (III)](#211-arsură-iii)
+- **Albatros** — [Uiuiui brădui](#84-uiuiui-brădui), [O, mama](#164-o-mama)
+- **Alexandru Andrieș** — [Dracula blues](#279-dracula-blues), [Mihai, câți copii îmi dai?](#361-mihai-câți-copii-îmi-dai)
+- **Anda Călugăreanu** — [Verde crud (I)](#509-verde-crud-i), [Verde crud (II)](#510-verde-crud-ii)
+- **Andrei Mureșan** — [Deșteaptă-te române (I)](#98-deșteaptă-te-române-i)
+- **Andrei Mureșanu** — [Deșteaptă-te române (II)](#99-deșteaptă-te-române-ii)
+- **Anonim** — [A fi munțoman](#1-a-fi-munțoman), [Amintiri din Făgăraș (I)](#7-amintiri-din-făgăraș-i), [Bătrânul refugiu](#13-bătrânul-refugiu), [Bun rămas cabanei](#15-bun-rămas-cabanei), [Cabana Mălăiești](#17-cabana-mălăiești), [Copilul munților](#27-copilul-munților), [Dor de ducă (I)](#30-dor-de-ducă-i), [Dor de munții mei](#33-dor-de-munții-mei), [Fata din Caraiman](#36-fata-din-caraiman), [Fata munților (II)](#38-fata-munților-ii), [Imnul ghizilor](#50-imnul-ghizilor), [Imnul prieteniei](#52-imnul-prieteniei), [Legenda Craiului](#55-legenda-craiului), [Libertate-n vârf de munți](#56-libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#61-mi-e-dragă-pădurea), [Prieteni buni](#76-prieteni-buni), [Bărbățelul](#119-bărbățelul), [Carolina (I)](#129-carolina-i), [Ceata noastră (I)](#137-ceata-noastră-i), [Fetița franceză](#151-fetița-franceză), [Te-am cunoscut în troleibuz (I)](#176-te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#183-un-kil-de-rom), [Bat la poarta ta](#218-bat-la-poarta-ta), [Colo-n vale](#249-colo-n-vale), [Delirul](#270-delirul), [Hai, mândruțo!](#311-hai-mândruțo), [Păpușa](#407-păpușa), [Seara de mai](#452-seara-de-mai)
+- **Anotimpul 5** — [Dacă n-ai amintiri](#258-dacă-n-ai-amintiri)
+- **Aurelian Andreescu** — [Dorul](#278-dorul), [Oameni](#389-oameni)
+- **Autentic** — [Trec țiganii](#181-trec-țiganii)
+- **Axa** — [Imnul Bucegilor](#47-imnul-bucegilor)
+- **Beatles** — [Girl](#548-girl), [Hey Jude](#551-hey-jude), [I Want to Hold Your Hand](#558-i-want-to-hold-your-hand), [Let It Be](#569-let-it-be), [Michelle](#574-michelle), [Ticket to Ride](#608-ticket-to-ride), [Twist and Shout](#611-twist-and-shout), [With a Little Help from My Friends](#618-with-a-little-help-from-my-friends), [Yellow Submarine](#620-yellow-submarine), [Yesterday](#621-yesterday)
+- **Beatles(Yelow submarine)** — [Imnul reșițenilor](#155-imnul-reșițenilor)
+- **Ben E. King** — [Stand by Me](#599-stand-by-me)
+- **Bmby** — [Doi ochi căprui](#275-doi-ochi-căprui)
+- **Bob Dylan** — [Don't Think Twice, It's Alright](#538-dont-think-twice-its-alright), [Knockin' on Heaven's Door](#564-knockin-on-heavens-door), [Mr. Tambourine Man](#575-mr-tambourine-man)
+- **Bosquito** — [Bosquito](#122-bosquito), [Tigano](#484-tigano)
+- **Brenda Lee** — [Rocking Around the Christmas Tree](#714-rocking-around-the-christmas-tree)
+- **...ca și completare la Katiusa (prima variantă)** — [Katiusa (variantă)](#161-katiusa-variantă)
+- **CALEnDAR** — [Un munte așternut](#86-un-munte-așternut)
+- **Cântece Horror** — [Bing bang (I)](#120-bing-bang-i)
+- **Cargo** — [Aproape de voi](#116-aproape-de-voi), [Astăzi și mâine](#213-astăzi-și-mâine), [Ca o stea](#223-ca-o-stea), [Ploaia](#418-ploaia)
 - **Carmen Ciocolata** — [Când te scuturi de zăpadă](#20-când-te-scuturi-de-zăpadă)
 - **Carmen Silva Ciocolată** — [Cabana Schiorilor](#18-cabana-schiorilor)
-- **Cat Stevens** — [Father to Son](#547-father-to-son)
-- **Cătălin Condreț** — [Visul (I)](#91-visul-i)
-- **Cătălin Crișan** — [Dacă pleci](#261-dacă-pleci)
-- **CCR** — [Have You Ever Seen the Rain](#552-have-you-ever-seen-the-rain), [Proud Mary](#592-proud-mary)
-- **Celelalte Cuvinte** — [Dacă vrei](#262-dacă-vrei)
-- **Coborâi din deal în vale** — [Omul pădurii (II)](#403-omul-pădurii-ii)
-- **Compact** — [Cântec pentru prieteni](#21-cântec-pentru-prieteni), [Fata din vis](#296-fata-din-vis), [Îmi pare rău](#319-îmi-pare-rău), [Singur în noapte (I)](#461-singur-în-noapte-i), [Singur în noapte (II)](#462-singur-în-noapte-ii), [Un alt început](#499-un-alt-început)
-- **Conexiuni** — [Tu](#494-tu)
-- **Contrapunct** — [Pat de flori](#412-pat-de-flori)
-- **Costică David** — [Cine nu iubește muntele](#24-cine-nu-iubește-muntele), [Dor de munți](#32-dor-de-munți), [Trenul dragostei](#82-trenul-dragostei)
+- **Cat Stevens** — [Father to Son](#545-father-to-son)
+- **Cătălin Condreț** — [Visul (I)](#90-visul-i)
+- **Cătălin Crișan** — [Dacă pleci](#259-dacă-pleci)
+- **CCR** — [Have You Ever Seen the Rain](#550-have-you-ever-seen-the-rain), [Proud Mary](#590-proud-mary)
+- **Celelalte Cuvinte** — [Dacă vrei](#260-dacă-vrei)
+- **Coborâi din deal în vale** — [Omul pădurii (II)](#401-omul-pădurii-ii)
+- **Compact** — [Cântec pentru prieteni](#21-cântec-pentru-prieteni), [Fata din vis](#294-fata-din-vis), [Îmi pare rău](#317-îmi-pare-rău), [Singur în noapte (I)](#459-singur-în-noapte-i), [Singur în noapte (II)](#460-singur-în-noapte-ii), [Un alt început](#497-un-alt-început)
+- **Conexiuni** — [Tu](#492-tu)
+- **Contrapunct** — [Pat de flori](#410-pat-de-flori)
+- **Costică David** — [Cine nu iubește muntele](#24-cine-nu-iubește-muntele), [Dor de munți](#32-dor-de-munți), [Trenul dragostei](#81-trenul-dragostei)
 - **Costica David** — [Dar nu-s normali](#28-dar-nu-s-normali)
-- **Craii Dianei** — [Cerbul](#246-cerbul)
-- **Cristian Paturca** — [Imnul golanilor](#104-imnul-golanilor)
-- **Dan Andrei Aldea** — [Om bun (I)](#71-om-bun-i), [Om bun (II)](#72-om-bun-ii)
-- **Dan Andrei Aldea/ Sfinx** — [Om bun (III)](#73-om-bun-iii)
-- **Dan Andrei Aldea/Pasărea Colibri** — [Cântecul bufonului (II)](#240-cântecul-bufonului-ii)
-- **Dan Zorilă** — [Corina](#254-corina), [De ce](#266-de-ce), [Hei trenule](#316-hei-trenule), [Noapte de iubire](#375-noapte-de-iubire), [Ți-am spus adio de mult](#485-ți-am-spus-adio-de-mult)
-- **Darwin** — [Omagiul unui alpinist](#74-omagiul-unui-alpinist)
-- **Direcția 5** — [Am nevoie de tine](#201-am-nevoie-de-tine), [Obsesia](#395-obsesia), [Spune ce vrei](#464-spune-ce-vrei), [Te voi aștepta](#483-te-voi-aștepta), [Voi pluti](#522-voi-pluti)
-- **Direcția 5 & Paula Seling** — [Lângă mine](#345-lângă-mine)
-- **Doi și Jumătate** — [Ostașii luminii colindă (I)](#707-ostașii-luminii-colindă-i), [Ostașii luminii colindă (II)](#708-ostașii-luminii-colindă-ii)
-- **Doru Stănculescu** — [Fără petale (I)](#35-fără-petale-i), [Fără petale (II)](#36-fără-petale-ii), [Hai dihai (I)](#46-hai-dihai-i), [Hai dihai (II)](#47-hai-dihai-ii)
-- **Dragoș Bălan** — [Nunta pe Caraiman (II)](#69-nunta-pe-caraiman-ii), [Dragoste în fân (I)](#283-dragoste-în-fân-i)
-- **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#23-ce-frumos-e-sus-la-munte), [Evadare](#34-evadare), [În codrul verde](#54-în-codrul-verde), [Mă întorc la tine, muntele meu drag](#60-mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#525-vreau-să-trecem-marea)
-- **Ducu Bertzi** — [Floare de colț (I)](#43-floare-de-colț-i), [Floare de colț (II)](#44-floare-de-colț-ii), [Pe cine și câte cărări](#76-pe-cine-și-câte-cărări), [Dragu-mii veselia](#148-dragu-mii-veselia), [Când s-o-mpărțit norocu'](#231-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#233-cântec-bătrânesc), [Dans](#264-dans), [Focul vânăt (I)](#300-focul-vânăt-i), [Focul vânăt (II)](#301-focul-vânăt-ii), [Iertările](#318-iertările), [M-am îndrăgostit numai de ea](#352-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#379-nu-am-cer), [Omul pădurii (I)](#402-omul-pădurii-i), [Săracă inima me' (I)](#448-săracă-inima-me-i), [Săracă inima me' (II)](#449-săracă-inima-me-ii), [Și de-ar fi (I)](#458-și-de-ar-fi-i), [Și de-ar fi (II)](#459-și-de-ar-fi-ii), [Suflet fără chei](#471-suflet-fără-chei), [Cheamă-ți gazdă](#638-cheamă-ți-gazdă), [Corindăm, corindăm (II)](#648-corindăm-corindăm-ii), [Pe podele de nuiele](#710-pe-podele-de-nuiele), [Plecarea](#713-plecarea), [Scrisoare la-nceput de iarnă](#720-scrisoare-la-nceput-de-iarnă), [Seara serilor](#721-seara-serilor), [Un creștin s-a-nvrednicit](#733-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#734-veniți-păstori-în-viflaiem)
-- **Ducu Hotima** — [La tătă casa-i lumină](#679-la-tătă-casa-i-lumină)
-- **Ecoul** — [Cana cu vin (I)](#126-cana-cu-vin-i), [Cana cu vin (II)](#127-cana-cu-vin-ii), [Lumină (I)](#349-lumină-i), [Lumină (II)](#350-lumină-ii), [Lumină (III)](#351-lumină-iii), [Nu mă-ntreba](#382-nu-mă-ntreba), [Taina (II)](#476-taina-ii)
-- **Elvis Presley** — [Love Me Tender](#574-love-me-tender)
-- **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#332-iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#374-nebunul-de-alb)
-- **Eric Clapton** — [Layla](#569-layla), [Tears in Heaven](#605-tears-in-heaven), [Wonderful Tonight](#621-wonderful-tonight)
-- **Este unul din cântecele mele preferate dar destul de greu de explicat cum se** — [Cu galeata în mână](#144-cu-galeata-în-mână)
-- **Florian Pitiș** — [Ploaia care va veni (I)](#422-ploaia-care-va-veni-i), [Vinovații fără vină](#518-vinovații-fără-vină)
-- **Focul Viu** — [Viață de haiduc](#88-viață-de-haiduc), [Dacii liberi](#98-dacii-liberi), [Tristă fiară](#493-tristă-fiară)
-- **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#405-ordinea-de-zi)
-- **Grupul Ecoul** — [Să trosnească lemne-n foc (I)](#445-să-trosnească-lemne-n-foc-i), [Să trosnească lemne-n foc (II)](#446-să-trosnească-lemne-n-foc-ii)
-- **Guns'n'roses** — [Don't Cry (I)](#538-dont-cry-i)
-- **Gun’n’Roses** — [Patience](#588-patience)
-- **Hara** — [Departe](#273-departe)
-- **Holograf** — [Ești așa frumoasă](#295-ești-așa-frumoasă), [Ochii tăi (I)](#397-ochii-tăi-i), [Ochii tăi (II)](#398-ochii-tăi-ii), [Să nu-mi iei niciodată dragostea](#444-să-nu-mi-iei-niciodată-dragostea), [Taina (I)](#475-taina-i), [Vine o zi](#516-vine-o-zi), [Vreau o minune!](#524-vreau-o-minune)
-- **Intro:** — [Te-am cunoscut în troleibuz (II)](#179-te-am-cunoscut-în-troleibuz-ii)
-- **Intro: E - A - E - B7 - A - E** — [Ce nasoala ești](#138-ce-nasoala-ești)
-- **Ion Cioroiu** — [M-a ținut mama acasă](#59-m-a-ținut-mama-acasă)
-- **Iris** — [Baby](#218-baby), [Strada ta (I)](#469-strada-ta-i), [Strada ta (II)](#470-strada-ta-ii), [Vis pierdut](#521-vis-pierdut)
-- **John Denver** — [Country Roads](#537-country-roads)
-- **John Lennon** — [Give Peace a Chance](#551-give-peace-a-chance), [Imagine](#563-imagine)
-- **José Feliciano** — [Feliz Navidad](#663-feliz-navidad)
-- **Karma** — [Alții mama nu mai face](#3-alții-mama-nu-mai-face), [Călător](#19-călător), [În loc de bun rămas](#55-în-loc-de-bun-rămas), [Mă întorc și pașii-s grei](#61-mă-întorc-și-pașii-s-grei), [Copilița fără minte](#143-copilița-fără-minte), [Puștoaică de liceu](#168-puștoaică-de-liceu), [Ai venit](#195-ai-venit), [Amintiri](#204-amintiri), [Bunica](#224-bunica), [Lacrimi și surâs](#344-lacrimi-și-surâs), [Muntele alb](#370-muntele-alb), [Sunt sărac](#472-sunt-sărac), [Tardive](#479-tardive), [Țurțuri metalici](#495-țurțuri-metalici), [Colindă tristă (I)](#640-colindă-tristă-i), [Colindă tristă (II)](#641-colindă-tristă-ii)
-- **Led Zeppelin** — [Stairway to Heaven](#600-stairway-to-heaven)
-- **Luna amară** — [Roșu aprins](#441-roșu-aprins)
-- **Mădălina Amon** — [O nouă viață](#70-o-nouă-viață), [Amintire de fum](#202-amintire-de-fum)
-- **Maria Gheorghiu** — [Sus boieri nu mai dormiți](#726-sus-boieri-nu-mai-dormiți)
-- **Maria Magdalena Dănăilă** — [Singur de Crăciun](#722-singur-de-crăciun)
-- **Mellanie** — [Ils Ont Change Ma Chanson](#562-ils-ont-change-ma-chanson)
-- **Melodia este una de la un cântec destul de cunoscut din anii de grădiniță.** — [În pădurea verde](#158-în-pădurea-verde)
-- **Metallica** — [Fade to Black](#546-fade-to-black), [Nothing Else Matters](#582-nothing-else-matters)
-- **Mihai Mărgineanu** — [Ce mult te-am iubit Paraschivo (I)](#136-ce-mult-te-am-iubit-paraschivo-i), [Femei, femei](#152-femei-femei), [M-am dus să tai un copac](#164-m-am-dus-să-tai-un-copac), [Sobița](#175-sobița)
-- **Mircea Baniciu** — [Ceasornicarul (II)](#245-ceasornicarul-ii), [Drumul magilor](#661-drumul-magilor), [Pomul de Crăciun](#715-pomul-de-crăciun), [Zori din zori](#740-zori-din-zori)
-- **Mircea Baniciu/Pasărea Colibri** — [Dealul cu dor](#269-dealul-cu-dor), [Esarfa în dar](#294-esarfa-în-dar), [Frunza](#305-frunza), [În tren](#322-în-tren), [Înțelegere (II)](#325-înțelegere-ii), [Întoarcere la orient (II)](#327-întoarcere-la-orient-ii), [Pisică neagră](#419-pisică-neagră), [Scrisoare de rămas bun (II)](#452-scrisoare-de-rămas-bun-ii), [Scrisoare de rămas bun (III)](#453-scrisoare-de-rămas-bun-iii), [Un zvon](#504-un-zvon), [Viața la țară (II)](#515-viața-la-țară-ii)
-- **Mircea Bodolan** — [Dragostea pasarii](#287-dragostea-pasarii), [Rănitul dintre linii (I)](#434-rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#435-rănitul-dintre-linii-ii)
-- **Mircea Florian** — [Podul de piatra](#425-podul-de-piatra)
-- **Mircea Vintilă** — [Madama de pică](#354-madama-de-pică), [Pe corso (II)](#414-pe-corso-ii), [Strada Popa Nan (II)](#468-strada-popa-nan-ii)
-- **Mircea Vintilă/Pasărea Colibri** — [38](#189-38), [Adio, deci pe curând (II)](#194-adio-deci-pe-curând-ii), [Alte clipe trăite alt epilog](#198-alte-clipe-trăite-alt-epilog), [Când se lasă seara](#232-când-se-lasă-seara), [Dintr-o cafea (II)](#275-dintr-o-cafea-ii), [Dragostea e o salata](#286-dragostea-e-o-salata), [Hanul lui Manuc](#315-hanul-lui-manuc), [Lordul John](#348-lordul-john), [Mielul (I)](#361-mielul-i), [Mielul (II)](#362-mielul-ii), [Miruna (II)](#365-miruna-ii), [Peste răbdări](#416-peste-răbdări), [Un om pe niște scări (II)](#503-un-om-pe-niște-scări-ii), [Vis de primăvară (II)](#520-vis-de-primăvară-ii)
-- **Mondial** — [Atât de fragedă](#216-atât-de-fragedă)
-- **Narcis** — [Noapte la mare, noapte la munte](#376-noapte-la-mare-noapte-la-munte)
+- **Craii Dianei** — [Cerbul](#244-cerbul)
+- **Cristian Paturca** — [Imnul golanilor](#103-imnul-golanilor)
+- **Dan Andrei Aldea** — [Om bun (I)](#70-om-bun-i), [Om bun (II)](#71-om-bun-ii)
+- **Dan Andrei Aldea/ Sfinx** — [Om bun (III)](#72-om-bun-iii)
+- **Dan Andrei Aldea/Pasărea Colibri** — [Cântecul bufonului (II)](#238-cântecul-bufonului-ii)
+- **Dan Zorilă** — [Corina](#252-corina), [De ce](#264-de-ce), [Hei trenule](#314-hei-trenule), [Noapte de iubire](#373-noapte-de-iubire), [Ți-am spus adio de mult](#483-ți-am-spus-adio-de-mult)
+- **Darwin** — [Omagiul unui alpinist](#73-omagiul-unui-alpinist)
+- **Direcția 5** — [Am nevoie de tine](#199-am-nevoie-de-tine), [Obsesia](#393-obsesia), [Spune ce vrei](#462-spune-ce-vrei), [Te voi aștepta](#481-te-voi-aștepta), [Voi pluti](#520-voi-pluti)
+- **Direcția 5 & Paula Seling** — [Lângă mine](#343-lângă-mine)
+- **Doi și Jumătate** — [Ostașii luminii colindă (I)](#705-ostașii-luminii-colindă-i), [Ostașii luminii colindă (II)](#706-ostașii-luminii-colindă-ii)
+- **Doru Stănculescu** — [Fără petale (I)](#35-fără-petale-i), [Hai dihai (I)](#45-hai-dihai-i), [Hai dihai (II)](#46-hai-dihai-ii)
+- **Dragoș Bălan** — [Nunta pe Caraiman (II)](#68-nunta-pe-caraiman-ii), [Dragoste în fân (I)](#281-dragoste-în-fân-i)
+- **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#23-ce-frumos-e-sus-la-munte), [Evadare](#34-evadare), [În codrul verde](#53-în-codrul-verde), [Mă întorc la tine, muntele meu drag](#59-mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#523-vreau-să-trecem-marea)
+- **Ducu Bertzi** — [Floare de colț (I)](#42-floare-de-colț-i), [Floare de colț (II)](#43-floare-de-colț-ii), [Pe cine și câte cărări](#75-pe-cine-și-câte-cărări), [Dragu-mii veselia](#146-dragu-mii-veselia), [Când s-o-mpărțit norocu'](#229-când-s-o-mpărțit-norocu), [Cântec bătrânesc](#231-cântec-bătrânesc), [Dans](#262-dans), [Focul vânăt (I)](#298-focul-vânăt-i), [Focul vânăt (II)](#299-focul-vânăt-ii), [Iertările](#316-iertările), [M-am îndrăgostit numai de ea](#350-m-am-îndrăgostit-numai-de-ea), [Nu am cer](#377-nu-am-cer), [Omul pădurii (I)](#400-omul-pădurii-i), [Săracă inima me' (I)](#446-săracă-inima-me-i), [Săracă inima me' (II)](#447-săracă-inima-me-ii), [Și de-ar fi (I)](#456-și-de-ar-fi-i), [Și de-ar fi (II)](#457-și-de-ar-fi-ii), [Suflet fără chei](#469-suflet-fără-chei), [Cheamă-ți gazdă](#636-cheamă-ți-gazdă), [Corindăm, corindăm (II)](#646-corindăm-corindăm-ii), [Pe podele de nuiele](#708-pe-podele-de-nuiele), [Plecarea](#711-plecarea), [Scrisoare la-nceput de iarnă](#718-scrisoare-la-nceput-de-iarnă), [Seara serilor](#719-seara-serilor), [Un creștin s-a-nvrednicit](#731-un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#732-veniți-păstori-în-viflaiem)
+- **Ducu Hotima** — [La tătă casa-i lumină](#677-la-tătă-casa-i-lumină)
+- **Ecoul** — [Cana cu vin (I)](#124-cana-cu-vin-i), [Cana cu vin (II)](#125-cana-cu-vin-ii), [Lumină (I)](#347-lumină-i), [Lumină (II)](#348-lumină-ii), [Lumină (III)](#349-lumină-iii), [Nu mă-ntreba](#380-nu-mă-ntreba), [Taina (II)](#474-taina-ii)
+- **Elvis Presley** — [Love Me Tender](#572-love-me-tender)
+- **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#330-iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#372-nebunul-de-alb)
+- **Eric Clapton** — [Layla](#567-layla), [Tears in Heaven](#603-tears-in-heaven), [Wonderful Tonight](#619-wonderful-tonight)
+- **Este unul din cântecele mele preferate dar destul de greu de explicat cum se** — [Cu galeata în mână](#142-cu-galeata-în-mână)
+- **Florian Pitiș** — [Ploaia care va veni (I)](#420-ploaia-care-va-veni-i), [Vinovații fără vină](#516-vinovații-fără-vină)
+- **Focul Viu** — [Viață de haiduc](#87-viață-de-haiduc), [Dacii liberi](#97-dacii-liberi), [Tristă fiară](#491-tristă-fiară)
+- **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#403-ordinea-de-zi)
+- **Grupul Ecoul** — [Să trosnească lemne-n foc (I)](#443-să-trosnească-lemne-n-foc-i), [Să trosnească lemne-n foc (II)](#444-să-trosnească-lemne-n-foc-ii)
+- **Guns'n'roses** — [Don't Cry (I)](#536-dont-cry-i)
+- **Gun’n’Roses** — [Patience](#586-patience)
+- **Hara** — [Departe](#271-departe)
+- **Holograf** — [Ești așa frumoasă](#293-ești-așa-frumoasă), [Ochii tăi (I)](#395-ochii-tăi-i), [Ochii tăi (II)](#396-ochii-tăi-ii), [Să nu-mi iei niciodată dragostea](#442-să-nu-mi-iei-niciodată-dragostea), [Taina (I)](#473-taina-i), [Vine o zi](#514-vine-o-zi), [Vreau o minune!](#522-vreau-o-minune)
+- **Intro:** — [Te-am cunoscut în troleibuz (II)](#177-te-am-cunoscut-în-troleibuz-ii)
+- **Intro: E - A - E - B7 - A - E** — [Ce nasoala ești](#136-ce-nasoala-ești)
+- **Ion Cioroiu** — [M-a ținut mama acasă](#58-m-a-ținut-mama-acasă)
+- **Iris** — [Baby](#216-baby), [Strada ta (I)](#467-strada-ta-i), [Strada ta (II)](#468-strada-ta-ii), [Vis pierdut](#519-vis-pierdut)
+- **John Denver** — [Country Roads](#535-country-roads)
+- **John Lennon** — [Give Peace a Chance](#549-give-peace-a-chance), [Imagine](#561-imagine)
+- **José Feliciano** — [Feliz Navidad](#661-feliz-navidad)
+- **Karma** — [Alții mama nu mai face](#3-alții-mama-nu-mai-face), [Călător](#19-călător), [În loc de bun rămas](#54-în-loc-de-bun-rămas), [Mă întorc și pașii-s grei](#60-mă-întorc-și-pașii-s-grei), [Copilița fără minte](#141-copilița-fără-minte), [Puștoaică de liceu](#166-puștoaică-de-liceu), [Ai venit](#193-ai-venit), [Amintiri](#202-amintiri), [Bunica](#222-bunica), [Lacrimi și surâs](#342-lacrimi-și-surâs), [Muntele alb](#368-muntele-alb), [Sunt sărac](#470-sunt-sărac), [Tardive](#477-tardive), [Țurțuri metalici](#493-țurțuri-metalici), [Colindă tristă (I)](#638-colindă-tristă-i), [Colindă tristă (II)](#639-colindă-tristă-ii)
+- **Led Zeppelin** — [Stairway to Heaven](#598-stairway-to-heaven)
+- **Luna amară** — [Roșu aprins](#439-roșu-aprins)
+- **Mădălina Amon** — [O nouă viață](#69-o-nouă-viață), [Amintire de fum](#200-amintire-de-fum)
+- **Maria Gheorghiu** — [Sus boieri nu mai dormiți](#724-sus-boieri-nu-mai-dormiți)
+- **Maria Magdalena Dănăilă** — [Singur de Crăciun](#720-singur-de-crăciun)
+- **Mellanie** — [Ils Ont Change Ma Chanson](#560-ils-ont-change-ma-chanson)
+- **Melodia este una de la un cântec destul de cunoscut din anii de grădiniță.** — [În pădurea verde](#156-în-pădurea-verde)
+- **Metallica** — [Fade to Black](#544-fade-to-black), [Nothing Else Matters](#580-nothing-else-matters)
+- **Mihai Mărgineanu** — [Ce mult te-am iubit Paraschivo (I)](#134-ce-mult-te-am-iubit-paraschivo-i), [Femei, femei](#150-femei-femei), [M-am dus să tai un copac](#162-m-am-dus-să-tai-un-copac), [Sobița](#173-sobița)
+- **Mircea Baniciu** — [Ceasornicarul (II)](#243-ceasornicarul-ii), [Drumul magilor](#659-drumul-magilor), [Pomul de Crăciun](#713-pomul-de-crăciun), [Zori din zori](#738-zori-din-zori)
+- **Mircea Baniciu/Pasărea Colibri** — [Dealul cu dor](#267-dealul-cu-dor), [Esarfa în dar](#292-esarfa-în-dar), [Frunza](#303-frunza), [În tren](#320-în-tren), [Înțelegere (II)](#323-înțelegere-ii), [Întoarcere la orient (II)](#325-întoarcere-la-orient-ii), [Pisică neagră](#417-pisică-neagră), [Scrisoare de rămas bun (II)](#450-scrisoare-de-rămas-bun-ii), [Scrisoare de rămas bun (III)](#451-scrisoare-de-rămas-bun-iii), [Un zvon](#502-un-zvon), [Viața la țară (II)](#513-viața-la-țară-ii)
+- **Mircea Bodolan** — [Dragostea pasarii](#285-dragostea-pasarii), [Rănitul dintre linii (I)](#432-rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#433-rănitul-dintre-linii-ii)
+- **Mircea Florian** — [Podul de piatra](#423-podul-de-piatra)
+- **Mircea Vintilă** — [Madama de pică](#352-madama-de-pică), [Pe corso (II)](#412-pe-corso-ii), [Strada Popa Nan (II)](#466-strada-popa-nan-ii)
+- **Mircea Vintilă/Pasărea Colibri** — [38](#187-38), [Adio, deci pe curând (II)](#192-adio-deci-pe-curând-ii), [Alte clipe trăite alt epilog](#196-alte-clipe-trăite-alt-epilog), [Când se lasă seara](#230-când-se-lasă-seara), [Dintr-o cafea (II)](#273-dintr-o-cafea-ii), [Dragostea e o salata](#284-dragostea-e-o-salata), [Hanul lui Manuc](#313-hanul-lui-manuc), [Lordul John](#346-lordul-john), [Mielul (I)](#359-mielul-i), [Mielul (II)](#360-mielul-ii), [Miruna (II)](#363-miruna-ii), [Peste răbdări](#414-peste-răbdări), [Un om pe niște scări (II)](#501-un-om-pe-niște-scări-ii), [Vis de primăvară (II)](#518-vis-de-primăvară-ii)
+- **Mondial** — [Atât de fragedă](#214-atât-de-fragedă)
+- **Narcis** — [Noapte la mare, noapte la munte](#374-noapte-la-mare-noapte-la-munte)
 - **Narcisa Suciu** — [Balada fulgerată de vânt (II)](#12-balada-fulgerată-de-vânt-ii)
-- **Necunoscut** — [Copacul](#142-copacul)
-- **Neil Sedaka** — [Oh, Carol!](#585-oh-carol)
-- **Nelu Lazăr** — [Pădure de argint](#406-pădure-de-argint)
-- **Nicu Alifantis** — [Balada blondelor iubiri](#219-balada-blondelor-iubiri), [Emoție de toamnă (I)](#289-emoție-de-toamnă-i), [Emoție de toamnă (II)](#290-emoție-de-toamnă-ii), [Emoție de toamnă (III)](#291-emoție-de-toamnă-iii), [Piața Romană nr.9](#418-piața-romană-nr9), [Ploaie în luna lui marte](#424-ploaie-în-luna-lui-marte), [Rar](#436-rar), [Umbra (I)](#496-umbra-i), [Umbra (II)](#497-umbra-ii), [Umbra (III)](#498-umbra-iii), [Decembre (I)](#653-decembre-i), [Decembre (II)](#654-decembre-ii), [Decembre (III)](#655-decembre-iii)
-- **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște (I)](#209-aproape-liniște-i), [Aproape liniște (II)](#210-aproape-liniște-ii)
-- **Nightwish** — [The Islander](#607-the-islander)
+- **Necunoscut** — [Copacul](#140-copacul)
+- **Neil Sedaka** — [Oh, Carol!](#583-oh-carol)
+- **Nelu Lazăr** — [Pădure de argint](#404-pădure-de-argint)
+- **Nicu Alifantis** — [Balada blondelor iubiri](#217-balada-blondelor-iubiri), [Emoție de toamnă (I)](#287-emoție-de-toamnă-i), [Emoție de toamnă (II)](#288-emoție-de-toamnă-ii), [Emoție de toamnă (III)](#289-emoție-de-toamnă-iii), [Piața Romană nr.9](#416-piața-romană-nr9), [Ploaie în luna lui marte](#422-ploaie-în-luna-lui-marte), [Rar](#434-rar), [Umbra (I)](#494-umbra-i), [Umbra (II)](#495-umbra-ii), [Umbra (III)](#496-umbra-iii), [Decembre (I)](#651-decembre-i), [Decembre (II)](#652-decembre-ii), [Decembre (III)](#653-decembre-iii)
+- **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște (I)](#207-aproape-liniște-i), [Aproape liniște (II)](#208-aproape-liniște-ii)
+- **Nightwish** — [The Islander](#605-the-islander)
 - **Odyssey** — [Dor de ducă (II)](#31-dor-de-ducă-ii)
-- **Ovidiu Scridon** — [Azi](#217-azi), [Floarea](#298-floarea), [Lăsați-mă să cânt](#346-lăsați-mă-să-cânt), [Ochii tăi](#396-ochii-tăi), [Peste-al nostru sărut](#417-peste-al-nostru-sărut)
-- **Pasărea Colibri** — [Alcool](#115-alcool), [2000 de ani](#188-2000-de-ani), [Adio, deci pe curând (I)](#193-adio-deci-pe-curând-i), [Alo! Ei a mea!](#197-alo-ei-a-mea), [Boxerul](#223-boxerul), [Canadiana](#228-canadiana), [Cântecul bufonului (I)](#239-cântecul-bufonului-i), [Ce de lupi se înconjoară](#243-ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#244-ceasornicarul-i), [Cu tine în gând](#255-cu-tine-în-gând), [Dacă ai ghici](#258-dacă-ai-ghici), [Dintr-o cafea (I)](#274-dintr-o-cafea-i), [Frunza (I)](#306-frunza-i), [Înțelegere (I)](#324-înțelegere-i), [Întoarcere la orient (I)](#326-întoarcere-la-orient-i), [Miruna (I)](#364-miruna-i), [Mr. Tambourine Man](#367-mr-tambourine-man), [Nebunul cu ochi închiși (I)](#372-nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#385-nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#386-nu-i-nimic-asta-e-ii), [Oameni buni](#392-oameni-buni), [Oprește-mă la tine](#404-oprește-mă-la-tine), [Pe corso (I)](#413-pe-corso-i), [Ploaia care va veni (II)](#423-ploaia-care-va-veni-ii), [Proverbe](#430-proverbe), [Scrisoare de rămas bun (I)](#451-scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#455-sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#467-strada-popa-nan-i), [Toți suntem puțin luați](#488-toți-suntem-puțin-luați), [Un om pe niște scări (I)](#502-un-om-pe-niște-scări-i), [Viata complicată](#513-viata-complicată), [Viața la țară (I)](#514-viața-la-țară-i), [Vis de primăvară (I)](#519-vis-de-primăvară-i), [Vânare de vânt](#615-vânare-de-vânt)
-- **Paula Seling** — [Corindăm, corindăm (I)](#647-corindăm-corindăm-i)
-- **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#590-phabaj-hop-hop-hop)
-- **Phoenix** — [Andri Popa (I)](#9-andri-popa-i), [Fată verde (I)](#40-fată-verde-i), [Fată verde (II)](#41-fată-verde-ii), [Fată verde (III)](#42-fată-verde-iii), [Strunga (I)](#80-strunga-i), [Strunga (II)](#81-strunga-ii), [În umbra marelui URSS](#105-în-umbra-marelui-urss), [Dansul codrilor](#265-dansul-codrilor), [Fluier în cer](#299-fluier-în-cer), [Focuri vii](#302-focuri-vii), [Hăituit](#314-hăituit), [Jocul](#335-jocul), [Mama, mama](#356-mama-mama), [Mugur de fluier (I)](#368-mugur-de-fluier-i), [Mugur de fluier (II)](#369-mugur-de-fluier-ii), [Muzică și muzichia](#371-muzică-și-muzichia), [Nebunul cu ochi închiși (II)](#373-nebunul-cu-ochi-închiși-ii), [Nunta (I)](#388-nunta-i), [Nunta (II)](#389-nunta-ii), [Primavara - Paparuga](#429-primavara---paparuga), [Singură](#463-singură), [Te întreb pe tine soare (I)](#481-te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#482-te-întreb-pe-tine-soare-ii), [Timișoara](#487-timișoara), [Vara](#507-vara), [Vremuri (I)](#526-vremuri-i), [Vremuri (II)](#527-vremuri-ii), [Zori de zi](#529-zori-de-zi)
-- **Phoenix/Pasărea Colibri** — [Andri Popa (II)](#10-andri-popa-ii), [Canarul (I)](#229-canarul-i), [Canarul (II)](#230-canarul-ii)
-- **Pink Floyd** — [Another Brick in the Wall](#533-another-brick-in-the-wall), [Wish You Were Here](#619-wish-you-were-here)
-- **Poesis(Pasărea Colibri** — [Cântec șoptit (I)](#237-cântec-șoptit-i), [Cântec șoptit (II)](#238-cântec-șoptit-ii)
-- **popular** — [Hai să-ntindem hora mare](#102-hai-să-ntindem-hora-mare)
-- **Popular** — [Pe deal pe la Cornățel](#415-pe-deal-pe-la-cornățel), [Trandafir de la Moldova](#490-trandafir-de-la-moldova)
-- **Popular din maramureș** — [Așa beu oamenii buni](#119-așa-beu-oamenii-buni), [După pui de moroșan](#288-după-pui-de-moroșan)
-- **popular/popular** — [Mă duse-i să trec la Olt](#353-mă-duse-i-să-trec-la-olt)
-- **populara?/traditonal?** — [Caravanele (I)](#129-caravanele-i), [Caravanele (II)](#130-caravanele-ii), [Inimă de țigancă (I)](#159-inimă-de-țigancă-i), [Inimă de țigancă (II)](#160-inimă-de-țigancă-ii), [Șatra (I)](#172-șatra-i), [Șatra (II)](#173-șatra-ii), [Țigăncușa (II)](#181-țigăncușa-ii)
-- **Pro Musica** — [Dintre sute de catarge](#276-dintre-sute-de-catarge), [Și dacă (I)](#456-și-dacă-i), [Și dacă (II)](#457-și-dacă-ii)
-- **Queen** — [I Want to Break Free](#559-i-want-to-break-free), [Love of My Life](#575-love-of-my-life)
-- **Radu Ilie** — [Și-am iubit o ardeleancă](#460-și-am-iubit-o-ardeleancă)
-- **Radu Pietreanu** — [Toamna la șuior](#108-toamna-la-șuior)
-- **Reclamele sunt mici cântecele care la susținerea unui "concert" se cântă** — [Reclame](#169-reclame)
-- **Refren:** — [Tu Ardeal](#114-tu-ardeal)
-- **ROA** — [Deku](#270-deku)
-- **Roa** — [Un lup](#501-un-lup), [Vara sufletului meu](#510-vara-sufletului-meu)
-- **Rolling Stones** — [Angie](#531-angie)
-- **Romanegila** — [Țigăncușa (I)](#180-țigăncușa-i)
-- **Ronnie Harwood** — [You Drive Me Crazy](#624-you-drive-me-crazy)
-- **Roșu și negru** — [Pseudofabula](#431-pseudofabula)
-- **Roza Vânturilor** — [Imnul Dianei (II)](#50-imnul-dianei-ii), [Numai noi](#67-numai-noi), [Râpa](#78-râpa)
-- **Scorpions** — [Holiday](#555-holiday), [Still Loving You](#602-still-loving-you), [Wind of Change](#618-wind-of-change)
-- **Semnal M** — [La fereastra ta (I)](#338-la-fereastra-ta-i), [La fereastra ta (II)](#339-la-fereastra-ta-ii), [Spune-mi cine ești (I)](#465-spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#466-spune-mi-cine-ești-ii)
-- **Sentiment** — [Nu te mai iubesc (I)](#383-nu-te-mai-iubesc-i)
-- **Simon & Garfunkel** — [Bye Bye Love](#535-bye-bye-love), [El Condor Pasa](#543-el-condor-pasa), [Mrs. Robinson](#578-mrs-robinson), [The Sound of Silence](#609-the-sound-of-silence)
-- **Skid Row** — [I Remember](#558-i-remember)
-- **Slade** — [Merry Xmas Everybody](#689-merry-xmas-everybody)
-- **Smokie** — [Living Next Door to Alice](#572-living-next-door-to-alice)
+- **Ovidiu Scridon** — [Azi](#215-azi), [Floarea](#296-floarea), [Lăsați-mă să cânt](#344-lăsați-mă-să-cânt), [Ochii tăi](#394-ochii-tăi), [Peste-al nostru sărut](#415-peste-al-nostru-sărut)
+- **Pasărea Colibri** — [Alcool](#113-alcool), [2000 de ani](#186-2000-de-ani), [Adio, deci pe curând (I)](#191-adio-deci-pe-curând-i), [Alo! Ei a mea!](#195-alo-ei-a-mea), [Boxerul](#221-boxerul), [Canadiana](#226-canadiana), [Cântecul bufonului (I)](#237-cântecul-bufonului-i), [Ce de lupi se înconjoară](#241-ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#242-ceasornicarul-i), [Cu tine în gând](#253-cu-tine-în-gând), [Dacă ai ghici](#256-dacă-ai-ghici), [Dintr-o cafea (I)](#272-dintr-o-cafea-i), [Frunza (I)](#304-frunza-i), [Înțelegere (I)](#322-înțelegere-i), [Întoarcere la orient (I)](#324-întoarcere-la-orient-i), [Miruna (I)](#362-miruna-i), [Mr. Tambourine Man](#365-mr-tambourine-man), [Nebunul cu ochi închiși (I)](#370-nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#383-nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#384-nu-i-nimic-asta-e-ii), [Oameni buni](#390-oameni-buni), [Oprește-mă la tine](#402-oprește-mă-la-tine), [Pe corso (I)](#411-pe-corso-i), [Ploaia care va veni (II)](#421-ploaia-care-va-veni-ii), [Proverbe](#428-proverbe), [Scrisoare de rămas bun (I)](#449-scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#453-sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#465-strada-popa-nan-i), [Toți suntem puțin luați](#486-toți-suntem-puțin-luați), [Un om pe niște scări (I)](#500-un-om-pe-niște-scări-i), [Viata complicată](#511-viata-complicată), [Viața la țară (I)](#512-viața-la-țară-i), [Vis de primăvară (I)](#517-vis-de-primăvară-i), [Vânare de vânt](#613-vânare-de-vânt)
+- **Paula Seling** — [Corindăm, corindăm (I)](#645-corindăm-corindăm-i)
+- **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#588-phabaj-hop-hop-hop)
+- **Phoenix** — [Andri Popa (I)](#9-andri-popa-i), [Fată verde (I)](#39-fată-verde-i), [Fată verde (II)](#40-fată-verde-ii), [Fată verde (III)](#41-fată-verde-iii), [Strunga](#79-strunga), [În umbra marelui URSS](#104-în-umbra-marelui-urss), [Dansul codrilor](#263-dansul-codrilor), [Fluier în cer](#297-fluier-în-cer), [Focuri vii](#300-focuri-vii), [Hăituit](#312-hăituit), [Jocul](#333-jocul), [Mama, mama](#354-mama-mama), [Mugur de fluier (I)](#366-mugur-de-fluier-i), [Mugur de fluier (II)](#367-mugur-de-fluier-ii), [Muzică și muzichia](#369-muzică-și-muzichia), [Nebunul cu ochi închiși (II)](#371-nebunul-cu-ochi-închiși-ii), [Nunta (I)](#386-nunta-i), [Nunta (II)](#387-nunta-ii), [Primavara - Paparuga](#427-primavara---paparuga), [Singură](#461-singură), [Te întreb pe tine soare (I)](#479-te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#480-te-întreb-pe-tine-soare-ii), [Timișoara](#485-timișoara), [Vara](#505-vara), [Vremuri (I)](#524-vremuri-i), [Vremuri (II)](#525-vremuri-ii), [Zori de zi](#527-zori-de-zi)
+- **Phoenix/Pasărea Colibri** — [Andri Popa (II)](#10-andri-popa-ii), [Canarul (I)](#227-canarul-i), [Canarul (II)](#228-canarul-ii)
+- **Pink Floyd** — [Another Brick in the Wall](#531-another-brick-in-the-wall), [Wish You Were Here](#617-wish-you-were-here)
+- **Poesis(Pasărea Colibri** — [Cântec șoptit (I)](#235-cântec-șoptit-i), [Cântec șoptit (II)](#236-cântec-șoptit-ii)
+- **popular** — [Hai să-ntindem hora mare](#101-hai-să-ntindem-hora-mare)
+- **Popular** — [Pe deal pe la Cornățel](#413-pe-deal-pe-la-cornățel), [Trandafir de la Moldova](#488-trandafir-de-la-moldova)
+- **Popular din maramureș** — [Așa beu oamenii buni](#117-așa-beu-oamenii-buni), [După pui de moroșan](#286-după-pui-de-moroșan)
+- **popular/popular** — [Mă duse-i să trec la Olt](#351-mă-duse-i-să-trec-la-olt)
+- **populara?/traditonal?** — [Caravanele (I)](#127-caravanele-i), [Caravanele (II)](#128-caravanele-ii), [Inimă de țigancă (I)](#157-inimă-de-țigancă-i), [Inimă de țigancă (II)](#158-inimă-de-țigancă-ii), [Șatra (I)](#170-șatra-i), [Șatra (II)](#171-șatra-ii), [Țigăncușa (II)](#179-țigăncușa-ii)
+- **Pro Musica** — [Dintre sute de catarge](#274-dintre-sute-de-catarge), [Și dacă (I)](#454-și-dacă-i), [Și dacă (II)](#455-și-dacă-ii)
+- **Queen** — [I Want to Break Free](#557-i-want-to-break-free), [Love of My Life](#573-love-of-my-life)
+- **Radu Ilie** — [Și-am iubit o ardeleancă](#458-și-am-iubit-o-ardeleancă)
+- **Radu Pietreanu** — [Toamna la Șuior](#80-toamna-la-șuior)
+- **Reclamele sunt mici cântecele care la susținerea unui "concert" se cântă** — [Reclame](#167-reclame)
+- **Refren:** — [Tu Ardeal](#112-tu-ardeal)
+- **ROA** — [Deku](#268-deku)
+- **Roa** — [Un lup](#499-un-lup), [Vara sufletului meu](#508-vara-sufletului-meu)
+- **Rolling Stones** — [Angie](#529-angie)
+- **Romanegila** — [Țigăncușa (I)](#178-țigăncușa-i)
+- **Ronnie Harwood** — [You Drive Me Crazy](#622-you-drive-me-crazy)
+- **Roșu și negru** — [Pseudofabula](#429-pseudofabula)
+- **Roza Vânturilor** — [Imnul Dianei (II)](#49-imnul-dianei-ii), [Numai noi](#66-numai-noi), [Râpa](#77-râpa)
+- **Scorpions** — [Holiday](#553-holiday), [Still Loving You](#600-still-loving-you), [Wind of Change](#616-wind-of-change)
+- **Semnal M** — [La fereastra ta (I)](#336-la-fereastra-ta-i), [La fereastra ta (II)](#337-la-fereastra-ta-ii), [Spune-mi cine ești (I)](#463-spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#464-spune-mi-cine-ești-ii)
+- **Sentiment** — [Nu te mai iubesc (I)](#381-nu-te-mai-iubesc-i)
+- **Simon & Garfunkel** — [Bye Bye Love](#533-bye-bye-love), [El Condor Pasa](#541-el-condor-pasa), [Mrs. Robinson](#576-mrs-robinson), [The Sound of Silence](#607-the-sound-of-silence)
+- **Skid Row** — [I Remember](#556-i-remember)
+- **Slade** — [Merry Xmas Everybody](#687-merry-xmas-everybody)
+- **Smokie** — [Living Next Door to Alice](#570-living-next-door-to-alice)
 - **Sorina Moldvai** — [Copil hoinar](#26-copil-hoinar)
-- **Spitalul de urgenta** — [Prietenii](#167-prietenii), [Trăiască berea](#182-trăiască-berea)
-- **Status Quo** — [In the Army](#564-in-the-army)
-- **Ștefan Banică** — [S-o facem lată](#170-s-o-facem-lată)
-- **Ștefan Banica jr.** — [Asta-s eu](#214-asta-s-eu)
-- **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#358-mi-e-dor-de-ochii-tăi), [Poveste](#427-poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#106-întoarcerea-țăranului), [Copacul îndrăgostit](#253-copacul-îndrăgostit), [Fostele iubiri](#303-fostele-iubiri), [Frunza (II)](#307-frunza-ii), [La nunta ta](#341-la-nunta-ta), [Rugă pentru părinți (I)](#442-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#443-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#505-urare-pentru-îndrăgostiți), [Vara promisă (I)](#508-vara-promisă-i), [Vara promisă (II)](#509-vara-promisă-ii), [Afară ninge liniștit](#625-afară-ninge-liniștit), [Aseară pe-nserate](#628-aseară-pe-nserate), [Asta-i fata cea frumoasă](#629-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#633-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#634-ce-ați-văzut-păstori), [Cerul și pământul (I)](#635-cerul-și-pământul-i), [Cerul și pământul (II)](#636-cerul-și-pământul-ii), [Cerul și pământul (III)](#637-cerul-și-pământul-iii), [Coborât-o coborât](#639-coborât-o-coborât), [Colindul cerbului](#643-colindul-cerbului), [Corindăm, corindăm (III)](#649-corindăm-corindăm-iii), [Creștinilor, noi astăzi](#650-creștinilor-noi-astăzi), [Dalbu-i dealu](#652-dalbu-i-dealu), [Deschide nană ușile](#657-deschide-nană-ușile), [Deschide ușa, creștine (I)](#658-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#659-deschide-ușa-creștine-ii), [Ferice-i ferice](#664-ferice-i-ferice), [Flori de măr (I)](#665-flori-de-măr-i), [Flori de măr (II)](#666-flori-de-măr-ii), [Florile dalbe (I)](#667-florile-dalbe-i), [Florile dalbe (II)](#668-florile-dalbe-ii), [Iarăși flori dalbe](#672-iarăși-flori-dalbe), [Junelu-i tinerelu](#677-junelu-i-tinerelu), [La Viflaim, la Viflaim](#680-la-viflaim-la-viflaim), [Linu-i lin](#686-linu-i-lin), [Mă luai luai](#687-mă-luai-luai), [Măruț mărgăritar](#688-măruț-mărgăritar), [Ninge iar (II)](#695-ninge-iar-ii), [Ninge iar (III)](#696-ninge-iar-iii), [O, ce veste minunată (2)](#705-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#706-o-ce-veste-minunată-1), [Pe cununa munților](#709-pe-cununa-munților), [Pe strada din Viflaim](#711-pe-strada-din-viflaim), [Pom înrămuratu](#714-pom-înrămuratu), [Steaguri albe](#723-steaguri-albe), [Sus sus sus pe lângă lună](#727-sus-sus-sus-pe-lângă-lună), [Trei crai](#730-trei-crai), [Trei păstori](#731-trei-păstori), [Vine marea](#735-vine-marea), [Zăurel de zăurel](#739-zăurel-de-zăurel)
-- **Stigma** — [Jumătate tu, jumătate eu](#336-jumătate-tu-jumătate-eu)
-- **Supa & Maria** — [Tropa trop](#83-tropa-trop)
+- **Spitalul de urgenta** — [Prietenii](#165-prietenii), [Trăiască berea](#180-trăiască-berea)
+- **Status Quo** — [In the Army](#562-in-the-army)
+- **Ștefan Banică** — [S-o facem lată](#168-s-o-facem-lată)
+- **Ștefan Banica jr.** — [Asta-s eu](#212-asta-s-eu)
+- **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#356-mi-e-dor-de-ochii-tăi), [Poveste](#425-poveste)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#105-întoarcerea-țăranului), [Copacul îndrăgostit](#251-copacul-îndrăgostit), [Fostele iubiri](#301-fostele-iubiri), [Frunza (II)](#305-frunza-ii), [La nunta ta](#339-la-nunta-ta), [Rugă pentru părinți (I)](#440-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#441-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#503-urare-pentru-îndrăgostiți), [Vara promisă (I)](#506-vara-promisă-i), [Vara promisă (II)](#507-vara-promisă-ii), [Afară ninge liniștit](#623-afară-ninge-liniștit), [Aseară pe-nserate](#626-aseară-pe-nserate), [Asta-i fata cea frumoasă](#627-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#631-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#632-ce-ați-văzut-păstori), [Cerul și pământul (I)](#633-cerul-și-pământul-i), [Cerul și pământul (II)](#634-cerul-și-pământul-ii), [Cerul și pământul (III)](#635-cerul-și-pământul-iii), [Coborât-o coborât](#637-coborât-o-coborât), [Colindul cerbului](#641-colindul-cerbului), [Corindăm, corindăm (III)](#647-corindăm-corindăm-iii), [Creștinilor, noi astăzi](#648-creștinilor-noi-astăzi), [Dalbu-i dealu](#650-dalbu-i-dealu), [Deschide nană ușile](#655-deschide-nană-ușile), [Deschide ușa, creștine (I)](#656-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#657-deschide-ușa-creștine-ii), [Ferice-i ferice](#662-ferice-i-ferice), [Flori de măr (I)](#663-flori-de-măr-i), [Flori de măr (II)](#664-flori-de-măr-ii), [Florile dalbe (I)](#665-florile-dalbe-i), [Florile dalbe (II)](#666-florile-dalbe-ii), [Iarăși flori dalbe](#670-iarăși-flori-dalbe), [Junelu-i tinerelu](#675-junelu-i-tinerelu), [La Viflaim, la Viflaim](#678-la-viflaim-la-viflaim), [Linu-i lin](#684-linu-i-lin), [Mă luai luai](#685-mă-luai-luai), [Măruț mărgăritar](#686-măruț-mărgăritar), [Ninge iar (II)](#693-ninge-iar-ii), [Ninge iar (III)](#694-ninge-iar-iii), [O, ce veste minunată (2)](#703-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#704-o-ce-veste-minunată-1), [Pe cununa munților](#707-pe-cununa-munților), [Pe strada din Viflaim](#709-pe-strada-din-viflaim), [Pom înrămuratu](#712-pom-înrămuratu), [Steaguri albe](#721-steaguri-albe), [Sus sus sus pe lângă lună](#725-sus-sus-sus-pe-lângă-lună), [Trei crai](#728-trei-crai), [Trei păstori](#729-trei-păstori), [Vine marea](#733-vine-marea), [Zăurel de zăurel](#737-zăurel-de-zăurel)
+- **Stigma** — [Jumătate tu, jumătate eu](#334-jumătate-tu-jumătate-eu)
+- **Supa & Maria** — [Tropa trop](#82-tropa-trop)
 - **Taine Folk** — [Cântec uitat de lume](#22-cântec-uitat-de-lume)
-- **Taking Heads** — [Road to Nowhere](#593-road-to-nowhere)
-- **Tatiana Stepa** — [Colindul gutuii (I)](#644-colindul-gutuii-i), [Colindul gutuii (II)](#645-colindul-gutuii-ii), [În întâmpinarea Crăciunului](#674-în-întâmpinarea-crăciunului)
-- **The Animals** — [House of the Rising Sun](#557-house-of-the-rising-sun)
-- **The doors** — [People Are Strange](#589-people-are-strange)
-- **The eagles** — [Hotel California](#556-hotel-california)
-- **The police** — [Every Breath You Take](#545-every-breath-you-take)
-- **The Righteous Brothers** — [Unchained Melody](#614-unchained-melody)
-- **Theo & Hara Band** — [Supărat](#473-supărat)
-- **Tiberiu Ceia** — [Frumoasă-i vecina noastră](#304-frumoasă-i-vecina-noastră)
-- **Timpuri Noi** — [Mistrețul galben](#366-mistrețul-galben)
-- **Titus Constantin** — [Munții mei](#66-munții-mei)
-- **tradițional** — [Du-mă acasă mai tramvai](#149-du-mă-acasă-mai-tramvai), [La Mulți Ani!](#340-la-mulți-ani), [Moș Crăciun (I)](#691-moș-crăciun-i)
-- **Tradițional** — [Mi-a zis mama că mi-o da](#165-mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#247-ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă (I)](#698-noapte-sfântă-i), [O, brad frumos! (I)](#703-o-brad-frumos-i)
-- **tradus de la Stephen Foster** — [Suzana](#176-suzana)
-- **Trini Lopez** — [If I Had a Hammer](#561-if-i-had-a-hammer)
-- **Unde** — [Tron în Apuseni (I)](#112-tron-în-apuseni-i), [Cântec în noapte](#234-cântec-în-noapte)
-- **Ursul Trubadur** — [Luna în cascade](#58-luna-în-cascade), [Pădure nebună](#75-pădure-nebună), [Viață de vagabond](#89-viață-de-vagabond)
-- **Valeriu Sterian** — [Amintire cu haiduci (I)](#4-amintire-cu-haiduci-i), [Amintire cu haiduci (II)](#5-amintire-cu-haiduci-ii), [Amintire cu haiduci (III)](#6-amintire-cu-haiduci-iii), [Cântec de oameni](#96-cântec-de-oameni), [Anxietate](#208-anxietate), [Nopți (I)](#377-nopți-i), [Nopți (II)](#378-nopți-ii)
-- **Vali Șerban** — [Avram Iancu](#95-avram-iancu), [Tron în Apuseni (II)](#113-tron-în-apuseni-ii)
-- **Vama Veche** — [Am doar 18 ani](#200-am-doar-18-ani), [Calul din Malboro](#227-calul-din-malboro), [Nu am chef azi](#380-nu-am-chef-azi)
-- **Vampy** — [Prietene](#428-prietene)
-- **Vârf Carpatin** — [Balada fulgerată de vânt (I)](#11-balada-fulgerată-de-vânt-i), [Vulturul](#94-vulturul)
-- **Varf Carpatin** — [Imnul Pietrei Craiului](#52-imnul-pietrei-craiului)
-- **Vasile Mărdare** — [Cabana](#16-cabana), [Păpușarii](#410-păpușarii)
-- **Vasile Mardare** — [Iubito](#333-iubito), [Romanță de toamnă](#438-romanță-de-toamnă)
-- **Vasile Șeicaru** — [Din prea mult sau prea puțin](#145-din-prea-mult-sau-prea-puțin), [Actorul](#191-actorul), [Antiprimăvara](#207-antiprimăvara), [Biletul de tren](#222-biletul-de-tren), [Cireșarii](#248-cireșarii), [Dragostea cu patru foi](#285-dragostea-cu-patru-foi), [Imposibila nuntă](#320-imposibila-nuntă), [La adio](#337-la-adio), [Romanță între două trenuri (I)](#439-romanță-între-două-trenuri-i), [Romanță între două trenuri (II)](#440-romanță-între-două-trenuri-ii), [Tango retoric](#477-tango-retoric), [Ninge iar (I)](#694-ninge-iar-i)
-- **Versuri Artur Stavri/melodie populara** — [A ruginit frunza din vii](#190-a-ruginit-frunza-din-vii)
-- **VH2** — [Mai stai](#355-mai-stai), [Nu-mi mai pasă](#387-nu-mi-mai-pasă), [Trece vremea](#492-trece-vremea)
-- **VH2/Holograf** — [Păsări de fum](#411-păsări-de-fum)
-- **Victor Socaciu** — [Moartea unui alpinist (II)](#65-moartea-unui-alpinist-ii), [Colindul mâinilor truditoare](#97-colindul-mâinilor-truditoare), [Caii liberi](#226-caii-liberi), [Cântec pentru Charlie Chaplin](#235-cântec-pentru-charlie-chaplin), [Dona, dona (I)](#278-dona-dona-i), [Dona, dona (II)](#279-dona-dona-ii), [La un ceai](#343-la-un-ceai), [Oameni de zăpadă (I)](#393-oameni-de-zăpadă-i), [Oameni de zăpadă (II)](#394-oameni-de-zăpadă-ii)
-- **Wham!** — [Last Christmas](#681-last-christmas)
-- **Yoyo** — [Freamătă pădurea](#45-freamătă-pădurea), [Tropa trop spre cabană](#84-tropa-trop-spre-cabană)
-- **Zdub&Zdob** — [Dragă Otee](#282-dragă-otee)
+- **Taking Heads** — [Road to Nowhere](#591-road-to-nowhere)
+- **Tatiana Stepa** — [Colindul gutuii (I)](#642-colindul-gutuii-i), [Colindul gutuii (II)](#643-colindul-gutuii-ii), [În întâmpinarea Crăciunului](#672-în-întâmpinarea-crăciunului)
+- **The Animals** — [House of the Rising Sun](#555-house-of-the-rising-sun)
+- **The doors** — [People Are Strange](#587-people-are-strange)
+- **The eagles** — [Hotel California](#554-hotel-california)
+- **The police** — [Every Breath You Take](#543-every-breath-you-take)
+- **The Righteous Brothers** — [Unchained Melody](#612-unchained-melody)
+- **Theo & Hara Band** — [Supărat](#471-supărat)
+- **Tiberiu Ceia** — [Frumoasă-i vecina noastră](#302-frumoasă-i-vecina-noastră)
+- **Timpuri Noi** — [Mistrețul galben](#364-mistrețul-galben)
+- **Titus Constantin** — [Munții mei](#65-munții-mei)
+- **tradițional** — [Du-mă acasă mai tramvai](#147-du-mă-acasă-mai-tramvai), [La Mulți Ani!](#338-la-mulți-ani), [Moș Crăciun (I)](#689-moș-crăciun-i)
+- **Tradițional** — [Mi-a zis mama că mi-o da](#163-mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#245-ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă (I)](#696-noapte-sfântă-i), [O, brad frumos! (I)](#701-o-brad-frumos-i)
+- **tradus de la Stephen Foster** — [Suzana](#174-suzana)
+- **Trini Lopez** — [If I Had a Hammer](#559-if-i-had-a-hammer)
+- **Unde** — [Tron în Apuseni (I)](#110-tron-în-apuseni-i), [Cântec în noapte](#232-cântec-în-noapte)
+- **Ursul Trubadur** — [Luna în cascade](#57-luna-în-cascade), [Pădure nebună](#74-pădure-nebună), [Viață de vagabond](#88-viață-de-vagabond)
+- **Valeriu Sterian** — [Amintire cu haiduci (I)](#4-amintire-cu-haiduci-i), [Amintire cu haiduci (II)](#5-amintire-cu-haiduci-ii), [Amintire cu haiduci (III)](#6-amintire-cu-haiduci-iii), [Cântec de oameni](#95-cântec-de-oameni), [Anxietate](#206-anxietate), [Nopți (I)](#375-nopți-i), [Nopți (II)](#376-nopți-ii)
+- **Vali Șerban** — [Avram Iancu](#94-avram-iancu), [Tron în Apuseni (II)](#111-tron-în-apuseni-ii)
+- **Vama Veche** — [Am doar 18 ani](#198-am-doar-18-ani), [Calul din Malboro](#225-calul-din-malboro), [Nu am chef azi](#378-nu-am-chef-azi)
+- **Vampy** — [Prietene](#426-prietene)
+- **Vârf Carpatin** — [Balada fulgerată de vânt (I)](#11-balada-fulgerată-de-vânt-i), [Vulturul](#93-vulturul)
+- **Varf Carpatin** — [Imnul Pietrei Craiului](#51-imnul-pietrei-craiului)
+- **Vasile Mărdare** — [Cabana](#16-cabana), [Păpușarii](#408-păpușarii)
+- **Vasile Mardare** — [Iubito](#331-iubito), [Romanță de toamnă](#436-romanță-de-toamnă)
+- **Vasile Șeicaru** — [Din prea mult sau prea puțin](#143-din-prea-mult-sau-prea-puțin), [Actorul](#189-actorul), [Antiprimăvara](#205-antiprimăvara), [Biletul de tren](#220-biletul-de-tren), [Cireșarii](#246-cireșarii), [Dragostea cu patru foi](#283-dragostea-cu-patru-foi), [Imposibila nuntă](#318-imposibila-nuntă), [La adio](#335-la-adio), [Romanță între două trenuri (I)](#437-romanță-între-două-trenuri-i), [Romanță între două trenuri (II)](#438-romanță-între-două-trenuri-ii), [Tango retoric](#475-tango-retoric), [Ninge iar (I)](#692-ninge-iar-i)
+- **Versuri Artur Stavri/melodie populara** — [A ruginit frunza din vii](#188-a-ruginit-frunza-din-vii)
+- **VH2** — [Mai stai](#353-mai-stai), [Nu-mi mai pasă](#385-nu-mi-mai-pasă), [Trece vremea](#490-trece-vremea)
+- **VH2/Holograf** — [Păsări de fum](#409-păsări-de-fum)
+- **Victor Socaciu** — [Moartea unui alpinist (II)](#64-moartea-unui-alpinist-ii), [Colindul mâinilor truditoare](#96-colindul-mâinilor-truditoare), [Caii liberi](#224-caii-liberi), [Cântec pentru Charlie Chaplin](#233-cântec-pentru-charlie-chaplin), [Dona, dona (I)](#276-dona-dona-i), [Dona, dona (II)](#277-dona-dona-ii), [La un ceai](#341-la-un-ceai), [Oameni de zăpadă (I)](#391-oameni-de-zăpadă-i), [Oameni de zăpadă (II)](#392-oameni-de-zăpadă-ii)
+- **Wham!** — [Last Christmas](#679-last-christmas)
+- **Yoyo** — [Freamătă pădurea](#44-freamătă-pădurea), [Tropa trop spre cabană](#83-tropa-trop-spre-cabană)
+- **Zdub&Zdob** — [Dragă Otee](#280-dragă-otee)
 
 ## Anexă: dicționar de acorduri
 
