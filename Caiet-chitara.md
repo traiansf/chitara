@@ -718,8 +718,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 660. [Noapte sfântă (II)](#660-noapte-sfântă-ii)
 661. [O, brad frumos! (I)](#661-o-brad-frumos-i)
 662. [O, brad frumos! (II)](#662-o-brad-frumos-ii)
-663. [O, ce veste minunată (2)](#663-o-ce-veste-minunată-2)
-664. [O, ce veste minunată! (1)](#664-o-ce-veste-minunată-1)
+663. [O, ce veste minunată! (I)](#663-o-ce-veste-minunată-i)
+664. [O, ce veste minunată! (II)](#664-o-ce-veste-minunată-ii)
 665. [Ostașii luminii colindă (I)](#665-ostașii-luminii-colindă-i)
 666. [Ostașii luminii colindă (II)](#666-ostașii-luminii-colindă-ii)
 667. [Pe cununa munților](#667-pe-cununa-munților)
@@ -31718,46 +31718,7 @@ Cu frunza-ți neschimbată!
 Măsura ete 3/4
 ```
 
-#### 663. O, ce veste minunată (2)
-
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 41
-
-**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
-
-**Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
-
-```text
-C               F G
-O, ce veste minunată
-   C             F G
-În Viflaim ni s-arată!
-C           F
-Că a născut prunc,
-C               F
-Prunc din Duhul Sfânt.
-G          F C
-Fecioara Maria;
-(Variantă la prima strofă:
-C              F G
-O ce veste minunată
-C                F G
-În Vifleem ni s-arată!
-C           F
-Cerul strălucea,
-C         F
-Îngerul venea
-G           F C
-Pe-o rază curată.)
-E                               0
-B                               1
-G                    0                    0
-D
-A         3
-E
-|          |          |          |
-```
-
-#### 664. O, ce veste minunată! (1)
+#### 663. O, ce veste minunată! (I)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 40
 
@@ -31808,6 +31769,45 @@ B           E
 Cu credință tare.
 Note:Ultimele 3 versuri din fiecare strofă se repetă mereu.
 Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest cântec.
+```
+
+#### 664. O, ce veste minunată! (II)
+
+**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 41
+
+**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
+
+**Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
+
+```text
+C               F G
+O, ce veste minunată
+   C             F G
+În Viflaim ni s-arată!
+C           F
+Că a născut prunc,
+C               F
+Prunc din Duhul Sfânt.
+G          F C
+Fecioara Maria;
+(Variantă la prima strofă:
+C              F G
+O ce veste minunată
+C                F G
+În Vifleem ni s-arată!
+C           F
+Cerul strălucea,
+C         F
+Îngerul venea
+G           F C
+Pe-o rază curată.)
+E                               0
+B                               1
+G                    0                    0
+D
+A         3
+E
+|          |          |          |
 ```
 
 #### 665. Ostașii luminii colindă (I)
@@ -35893,7 +35893,7 @@ Note:Măsura este 4/4 iar ritmul este unul de swing.
 - **Ștefan Banică** — [S-o facem lată](#161-s-o-facem-lată)
 - **Ștefan Banica jr.** — [Asta-s eu](#208-asta-s-eu)
 - **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#358-mi-e-dor-de-ochii-tăi), [Poveste](#424-poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#103-întoarcerea-țăranului), [Copacul îndrăgostit](#252-copacul-îndrăgostit), [Fostele iubiri](#307-fostele-iubiri), [Frunza (I)](#309-frunza-i), [Frunza (II)](#310-frunza-ii), [La nunta ta](#342-la-nunta-ta), [Rugă pentru părinți (I)](#440-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#441-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#504-urare-pentru-îndrăgostiți), [Vara promisă (I)](#507-vara-promisă-i), [Vara promisă (II)](#508-vara-promisă-ii), [Afară ninge liniștit](#624-afară-ninge-liniștit), [Aseară pe-nserate](#625-aseară-pe-nserate), [Asta-i fata cea frumoasă](#626-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#627-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#628-ce-ați-văzut-păstori), [Cerul și pământul (I)](#629-cerul-și-pământul-i), [Cerul și pământul (II)](#630-cerul-și-pământul-ii), [Cerul și pământul (III)](#631-cerul-și-pământul-iii), [Coborât-o coborât](#633-coborât-o-coborât), [Colindul cerbului](#636-colindul-cerbului), [Corindăm, corindăm (II)](#639-corindăm-corindăm-ii), [Creștinilor, noi astăzi](#640-creștinilor-noi-astăzi), [Dalbu-i dealu](#641-dalbu-i-dealu), [Deschide nană ușile](#642-deschide-nană-ușile), [Deschide ușa, creștine (I)](#643-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#644-deschide-ușa-creștine-ii), [Ferice-i ferice](#646-ferice-i-ferice), [Flori de măr (I)](#647-flori-de-măr-i), [Flori de măr (II)](#648-flori-de-măr-ii), [Florile dalbe (I)](#649-florile-dalbe-i), [Florile dalbe (II)](#650-florile-dalbe-ii), [Iarăși flori dalbe](#651-iarăși-flori-dalbe), [Junelu-i tinerelu](#652-junelu-i-tinerelu), [La Viflaim, la Viflaim](#654-la-viflaim-la-viflaim), [Linu-i lin](#655-linu-i-lin), [Mă luai luai](#656-mă-luai-luai), [Măruț mărgăritar](#657-măruț-mărgăritar), [O, ce veste minunată (2)](#663-o-ce-veste-minunată-2), [O, ce veste minunată! (1)](#664-o-ce-veste-minunată-1), [Pe cununa munților](#667-pe-cununa-munților), [Pe strada din Viflaim](#669-pe-strada-din-viflaim), [Pom înrămuratu](#670-pom-înrămuratu), [Sus sus sus pe lângă lună](#673-sus-sus-sus-pe-lângă-lună), [Trei crai](#674-trei-crai), [Trei păstori](#675-trei-păstori), [Vine marea](#678-vine-marea), [Zăurel de zăurel](#679-zăurel-de-zăurel), [Ninge iar (II)](#704-ninge-iar-ii), [Ninge iar (III)](#705-ninge-iar-iii), [Steaguri albe](#710-steaguri-albe)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#103-întoarcerea-țăranului), [Copacul îndrăgostit](#252-copacul-îndrăgostit), [Fostele iubiri](#307-fostele-iubiri), [Frunza (I)](#309-frunza-i), [Frunza (II)](#310-frunza-ii), [La nunta ta](#342-la-nunta-ta), [Rugă pentru părinți (I)](#440-rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#441-rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#504-urare-pentru-îndrăgostiți), [Vara promisă (I)](#507-vara-promisă-i), [Vara promisă (II)](#508-vara-promisă-ii), [Afară ninge liniștit](#624-afară-ninge-liniștit), [Aseară pe-nserate](#625-aseară-pe-nserate), [Asta-i fata cea frumoasă](#626-asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#627-când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#628-ce-ați-văzut-păstori), [Cerul și pământul (I)](#629-cerul-și-pământul-i), [Cerul și pământul (II)](#630-cerul-și-pământul-ii), [Cerul și pământul (III)](#631-cerul-și-pământul-iii), [Coborât-o coborât](#633-coborât-o-coborât), [Colindul cerbului](#636-colindul-cerbului), [Corindăm, corindăm (II)](#639-corindăm-corindăm-ii), [Creștinilor, noi astăzi](#640-creștinilor-noi-astăzi), [Dalbu-i dealu](#641-dalbu-i-dealu), [Deschide nană ușile](#642-deschide-nană-ușile), [Deschide ușa, creștine (I)](#643-deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#644-deschide-ușa-creștine-ii), [Ferice-i ferice](#646-ferice-i-ferice), [Flori de măr (I)](#647-flori-de-măr-i), [Flori de măr (II)](#648-flori-de-măr-ii), [Florile dalbe (I)](#649-florile-dalbe-i), [Florile dalbe (II)](#650-florile-dalbe-ii), [Iarăși flori dalbe](#651-iarăși-flori-dalbe), [Junelu-i tinerelu](#652-junelu-i-tinerelu), [La Viflaim, la Viflaim](#654-la-viflaim-la-viflaim), [Linu-i lin](#655-linu-i-lin), [Mă luai luai](#656-mă-luai-luai), [Măruț mărgăritar](#657-măruț-mărgăritar), [O, ce veste minunată! (I)](#663-o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#664-o-ce-veste-minunată-ii), [Pe cununa munților](#667-pe-cununa-munților), [Pe strada din Viflaim](#669-pe-strada-din-viflaim), [Pom înrămuratu](#670-pom-înrămuratu), [Sus sus sus pe lângă lună](#673-sus-sus-sus-pe-lângă-lună), [Trei crai](#674-trei-crai), [Trei păstori](#675-trei-păstori), [Vine marea](#678-vine-marea), [Zăurel de zăurel](#679-zăurel-de-zăurel), [Ninge iar (II)](#704-ninge-iar-ii), [Ninge iar (III)](#705-ninge-iar-iii), [Steaguri albe](#710-steaguri-albe)
 - **Stigma** — [Jumătate tu, jumătate eu](#337-jumătate-tu-jumătate-eu)
 - **Supa & Maria** — [Tropa trop](#80-tropa-trop)
 - **Taine Folk** — [Cântec uitat de lume](#20-cântec-uitat-de-lume)
