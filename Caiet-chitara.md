@@ -865,43 +865,35 @@ Refren x2
 **Ukulele:** C 0003 · C7 0001 · F 2010 · Fm 1013 · Am 2000 · G 0232
 
 ```text
- C                       C7
-Soarele mai strălucește șters
-      F            Fm          C
-Dar pân' la munte mai avem de mers
-Am                             G
-Gândul zboară tot mai sus acum
-F             G               C [fill]
-Hai veniți cu noi, haideți la drum.
+[C]Soarele mai strălucește [C7]șters
+Dar [F]pân' la munte [Fm]mai avem de [C]mers
+[Am]Gândul zboară tot mai sus a[G]cum
+[F]Hai veniți cu [G]noi, haideți la [C]drum. [fill]
 
-Către munții noștri plecăm iar
-Căci noi de altceva n-avem habar
-Visurile le purtăm pe frunți
-Haideți cu noi, haideți sus în munți.
+[C]Către munții noștri plecăm [C7]iar
+Căci [F]noi de altce[Fm]va n-avem ha[C]bar
+[Am]Visurile le purtăm pe [G]frunți
+[F]Haideți cu [G]noi, haideți sus în [C]munți.
 
 Refren:
- Am                                        F
-Veseli toți trăim doar clipa când ne întâlnim
- C                       G
-Și visăm cu sufletul în munți
-C         C7             F                  Fm
-Asta e nu ai ce-i face, alții mama nu mai face
-C          G                C
-Și așa ca noi nu sunt prea mulți.
+[Am]Veseli toți trăim doar clipa [F]când ne întâlnim
+[C]Și visăm cu sufletul în [G]munți
+[C]Asta e nu [C7]ai ce-i face, [F]alții mama [Fm]nu mai face
+[C]Și așa ca [G]noi nu sunt prea [C]mulți.
 
-Veseli toți trăim doar clipa când ne matolim
-Și visăm la vodcă și la țuici
-Căci asta e nu ai ce-i face, alții mama nu mai face
-Și așa ca noi nu sunt prea mulți.
+[Am]Veseli toți trăim doar clipa [F]când ne matolim
+[C]Și visăm la vodcă și la [G]țuici (țuici, țuici)
+[C]Căci asta e nu [C7]ai ce-i face, [F]alții mama [Fm]nu mai face
+[C]Și așa ca [G]noi nu sunt prea [C]mulți.
 
-Noi fără chitară nu putem
-Fiindcă-i prea multă liniște în tren
-Iar cu nașu' oricum n-o pățim
-Căci el ne iubește și-l iubim.
-Frunză verde ramură de brad
-Păi este iarnă dar murim de cald
-În noi pălincuța cântă-acum
-Și ne spune baftă și drum bun.
+[C]Noi fără chitară nu pu[C7]tem
+[F]Fiindcă-i mult prea [Fm]liniște în [C]tren
+[Am]Iar cu nașu' oricum n-o pă[G]țim
+[F]Căci el ne iu[G]bește și-l iu[C]bim.
+[C]Frunză verde ramură de [C7]brad
+Păi [F]este iarnă [Fm]dar murim de [C]cald
+[Am]În noi pălincuța cântă-a[G]cum
+[F]Și ne spune [G]baftă și drum [C]bun.
 
 Refren + /Și așa ca noi nu sunt prea mulți./ x3
 ```
@@ -915,30 +907,32 @@ Refren + /Și așa ca noi nu sunt prea mulți./ x3
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
-Am        C     G         Am
-În codru verde nu se mai vede
-G         C      G       Am
-Nu se mai pierde urmă de cal
-Pe la izvoare nu mai apare
-Umbra călare a vreunui haiduc
+[Am]În codru [C]verde [G]nu se mai [Am]vede
+[G]Nu se mai [C]pierde [G]urmă de [Am]cal
+[Am]Pe la iz[C]voare [G]nu mai a[Am]pare
+[G]Umbra că[C]lare a [G]vreunui hai[Am]duc
 
-Unde s-au dus, când au apus
-Anii de sus ai gloriei lor
-Unde-s pistoalele, unde-s pumnalele
-Caii și flintele haiducilor
+[Am]Unde s-au [C]dus, [G]când au a[Am]pus
+[G]Anii de [C]sus ai [G]gloriei [Am]lor
+[Am]Unde-s pis[C]toalele, [G]unde-s pum[Am]nalele
+[G]Caii și [C]flintele [G]haiduci[Am]lor
 
 Refren x2:
-Lai, lai, lai ............
+[Am]Lai, lai, lai, [C]lai la lai
+[G]Lai, lai, lai [Am]lai, la lai
+[G]Lai lai [C]lai la lai
+[G]Lai lai lai [Am]lai
+ ............
 
-La drumul mare nu mai apare
-Să mai omoare câte-un ciocoi
-Să-i ia toti banii pentru țăranii
-Pentru sărmanii plini de nevoi
+[Am]La drumul [C]mare [G]nu mai a[Am]pare
+[G]Să mai o[C]moare [G]câte-un cio[Am]coi
+[Am]Să-i ia toti [C]banii [G]pentru ță[Am]ranii
+[G]Pentru săr[C]manii [G]plini de ne[Am]voi
 
-Unde s-au dus, când au apus
-Anii de sus ai gloriei lor
-Unde-s pistoalele, unde-s pumnalele
-Caii și flintele haiducilor
+[Am]Unde s-au [C]dus, [G]când au a[Am]pus
+[G]Anii de [C]sus ai [G]gloriei [Am]lor
+[Am]Unde-s pis[C]toalele, [G]unde-s pum[Am]nalele
+[G]Caii și [C]flintele [G]haiduci[Am]lor
 
 Refren x2
 ```
@@ -1007,32 +1001,32 @@ bine J
 
 ```text
 
-[C]    Azi totu-mi pare schim[C]bat, [C]tinerețea-ncet s-a [Dm]scurs
+[C]        Azi totu-mi pare schim[C]bat, [C]tinerețea-ncet s-a [Dm]scurs
 
-[Dm]    Îți amintești cum ne-am plim[F]bat [G]sus pe creastă la a[C]pus
-Flori de munte am adunat, pe toate le-am îndrăgit
-Printre stânci noi ne-am jucat pe vremea când ne-am iubit O o o
+[Dm]   Îți amintești cum ne-am plim[F]bat [G]sus pe creastă la a[C]pus
+[C]    Flori de munte-am adu[C]nat, [C]pe toate le-am îndră[Dm]git
+[Dm]   Printre stânci noi ne-am ju[F]cat [G]pe vremea când ne-am iu[C]bit
 
 Refren:
-[C]Mâine, voi urca iar în [Dm]creastă
-Amintirile mă [F]cheamă
+[C]O o o Mâine, voi urca iar în [Dm]creastă
+Amintirile mă [F]cheamă  [F]
 [G]Mâine vesel iar voi [C]fi
 
-Mâine voi porni înspre tine
-Să-ți trezesc în amintire
-Tot ce crezi că vis a fost
+[C]O o o Mâine, voi porni înspre [Dm]tine
+Să-ți trezesc în amin[F]tire [F]
+[G]Tot ce crezi că vis a [C]fost
 
-Îți amintești, în Făgăraș, capre negre am întâlnit
-Nu eram într-un oraș, dar eram la asfințit
-Cerul îndată s-a înstelat când spre Bâlea am privit
-Dar ce folos, tu ai uitat și frumosul l-ai strivit
+[C]  Îți amintești, în Făgă[C]raș, [C]capre negre am întâl[Dm]nit
+[Dm] Nu eram într-un o[F]raș, [G]dar eram la asfin[C]țit
+[C]  Cerul îndată s-a înste[C]lat [C]când spre Bâlea am pri[Dm]vit
+[Dm]Dar ce folos, tu ai ui[F]tat [G]și frumosul l-ai stri[C]vit
 
 Refren
 
-Pentru tine totu-i vis și frumosul de-altă dat’
-Mai frumos ca-n paradis l-ai lăsat fără oftat
-Dar crucea mea de-ai întâlni, pe-un vâlcel sau vreun versant
-Eu te rog nu te opri, uită tot ce ți-am cântat
+[C]  Pentru tine totu-i [C]vis [C]și frumosul de-altă [Dm]dat’
+[Dm] Mai frumos ca-n para[F]dis [G]l-ai lăsat fără of[C]tat
+[C]Dar crucea mea de-ai întâl[C]ni, [C]pe-un vâlcel sau vreun ver[Dm]sant
+[Dm] Eu te rog nu te o[F]pri, [G]uită tot ce ți-am cân[C]tat
 
 Refren
 ```
@@ -1103,44 +1097,36 @@ Uită tot ce ți-am cântat.
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
-D
-Cine trece-n valea Seacă
-G           D
-Cu hangerul fără teacă
-D
-Și cu pieptul dezgolit
-G       A    D
-Andrii Popa cel vestit
-Andrii Popa cel vestit
+[D]Cine trece-n valea Seacă
+[G]Cu hangerul [D]fără teacă
+[D]Și cu pieptul dezgolit
+/[G]Andrii [A]Popa [D]cel vestit/ x2
 
-Șapte ani cu voinicie
-Și-a bătut joc de domnie
-Și tot pradă neîncetat
-/Andrii Popa hoț barbat/ x2
+[D]Șapte ani cu voinicie
+[G]Și-a bătut joc [D]de domnie
+[D]Și tot pradă neîncetat
+/[G]Andrii [A]Popa [D]hoț barbat/ x2
 
 Refren x2:
-  D   G
-E haiduc
-     A   D
-Și e vestit
- G     A     D   G D
-Andri Popa cel voinic
+[D]E hai[G]duc
+Și [A]e ves[D]tit
+[G]Andri [A]Popa [D]cel [G]voi[D]nic
 
-Zi și noapte tot călare
-Trage bir din drumul mare
-Și din tară peste tot
-/Fug neferii cât ce pot/ x2
+[D]Zi și noapte tot călare
+[G]Trage bir din [D]drumul mare
+[D]Și din tară peste tot
+/[G]Fug ne[A]ferii [D]cât ce pot/ x2
 
-Căci el are-o pușcă plină
-Cu trei glonti la rădăcină
-Și-are-un murg de patru ani
-/Care muscă din dușmani/ x2
+[D]Căci el are-o pușcă plină
+[G]Cu trei glonti la [D]rădăcină
+[D]Și-are-un murg de patru ani
+/[G]Care [A]mușcă din [D]dușmani/ x2
 Refren x2
 
-Si-are frați de cruce șapte
-Ce-au supt sângele cu lapte
-Și nu-i pasă de nimic
-/Andi popa cel voinic. / x2
+[D]Si-are frați de cruce șapte
+[G]Ce-au supt sânge[D]le cu lapte
+[D]Și nu-i pasă de nimic
+/[G]Andri [A]Popa [D]cel voinic. / x2
 Refren x2
 ```
 
@@ -1284,29 +1270,23 @@ Refren x2
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
-   Am                Dm
-Departe în munți, ascuns printre stânci
-    G               C       E
-Se află bătrânul refugiu
-  Am                Dm
-Acolo se întâlnesc acei ce iubesc
-   G                 C    E
-Pereții de stâncă și cerul.
+De[Am]parte în munți, as[Dm]cuns printre stânci
+Se [G]află bătrânul re[C]fugiu   [E]
+A[Am]colo se întâlnesc a[Dm]cei ce iubesc
+Pe[G]reții de stâncă și [C]cerul.  [E]
 
 Refren:
-      Am             Dm
-Nu-i nimeni să-i înțeleagă
-      G                C             E
-Nu-i nimeni la fel ca ei, la fel ca ei
-      Am             Dm
-Doar dorul în dulce leagăn
-    G                    C  E Am
-Să urce /spre creste mereu/ X3.
+Nu-i [Am]nimeni să-i înțe[Dm]leagă
+Nu-i [G]nimeni la fel ca [C]ei, la fel ca [E]noi
+Doar [Am]dorul în dulce [Dm]leagăn
+Să [G]urce spre creste me[C]reu
+           spre creste me[E]reu
+           spre creste me[Am]reu
 
-Mi-e inima-n furci, de vrei poți să urci
-Să faci primii pași în perete
-Speranța apoi s-o facem în doi
-Să urci cât mai sus către creste.
+Mi-e [Am]inima-n furci, de [Dm]vrei poți să urci
+Să [G]faci primii pași în pe[C]rete [E]
+Spe[Am]ranța apoi s-o [Dm]facem în doi
+Și-[G]apoi tot mai sus către [C]creste.  [E]
 
 Refren x2
 ```
@@ -1511,34 +1491,36 @@ Refren
 Printre munți și printre [C]creste, sub aripa nori[G]lor
 În poiana minu[G7]nată se găsește o ca[G]bană
 Cabana Schiori[C]lor
-Toată ziua ei schiază, pentru unii e un chin
-Pentru cei ce știu mai bine s-alunece pe zăpadă
-E-o plăcere și-un sublim
+Toată ziua ei schi[C]ază, pentru unii e un [G]chin
+Pentru cei ce știu mai [G7]bine s-alunece pe ză[G]padă
+E-o plăcere și-un su[C]blim
 
 Refren:
 Frumoasă-i [C]viața, dacă știi să o tra[G]iești
 Frumoasa-i [G7]fata, dacă știi să o iu[C]besti
-/Zero lei și zero bani, zero lei și zero bani
-Au format și gașca noastră de hoinari/ x2
-/Noi n-avem bani, n-avem bani, n-avem bani,
-Suntem simpli hoinari
-În schimb avem, noi avem, toți avem cam la 20 de ani/ x2
+[C]Zero lei și zero bani, zero lei și zero bani
+Au format și gașca noastră de hoi[G]nari
+Zero lei și zero bani, zero lei și zero bani
+Au format și gașca noastră de hoi[C]nari
+/Noi n-avem [C]bani, n-avem bani, n-avem bani,
+Suntem simpli hoi[G]nari
+În schimb [G7]avem, noi avem, toți avem cam la 20 de [C]ani/ x2
 
-Unii locuiesc la munte, alții vin de la oraș
-Si schiază-n muntii Rodnei, Retezat sau Postăvaru
-în Bucegi sau Făgăraș
-Lumea Cantă și schiază, schiul zboară sub picior
-Flori pe pârtie brodează, pe unii ii intristează
-Pentru alții e ușor
+Unii locuiesc la [C]munte, alții vin de la o[G]raș
+Si schiază-n muntii [G7]Rodnei, Retezat sau Postă[G]varu
+în Bucegi sau Făgă[C]raș
+Lumea Cantă și schi[C]ază, schiul zboară sub pi[G]cior
+Flori pe pârtie bro[G7]dează, pe unii ii intris[G]tează
+Pentru alții e u[C]șor
 
 Refren
 
-Cand se lasă inserarea peste creasta munților
-Hărmălaia se oprește și in liniste adoarme
-Cabana Schiorilor
-Va veni și despărțirea, să plecăm nu e ușor
-Dup-această despărțire va rămâne-o amintire
-Frumusețea munților
+Cand se lasă inse[C]rarea peste creasta munți[G]lor
+Hărmălaia se o[G7]prește și in liniste a[G]doarme
+Cabana Schiori[C]lor
+Va veni și despăr[C]țirea, să plecăm nu e u[G]șor
+Dup-această despăr[G7]țire va rămâne-n amin[G]tire
+Frumusețea munți[C]lor
 
 Refren
 ```
@@ -1602,29 +1584,28 @@ Refren x4
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
- D             G           A                D
-Ninge astăzi pentru tine muntele e alb de nea
-Soarele din ceruri vine doar pentru iubita mea
-Și călugării din schituri vor cu toții a te vedea
-La cabană au venit doar pentru iubita mea.
+[D]Ninge astăzi [G]pentru tine [A]muntele e alb de [D]nea
+[D]Soarele din [G]ceruri vine [A]doar pentru iubita [D]mea
+[D]Și călugă[G]rii din schituri [A]vor cu toții a te ve[D]dea
+[D]La cabană [G]au venit [A]doar pentru iubita [D]mea.
 
 Refren:
-Când te scuturi de zăpadă
-Nu știi cât ești de frumoasă
-Ochii-ți verzi zăpada-i albă
-Și se face cald în casă.
+[D]Când te scuturi [G]de zăpadă
+[A]Nu știi cât ești de fru[D]moasă
+[D]Ochii-ți verzi ză[G]pada-i albă
+[A]Și se face cald în [D]casă.
 
-Și zăpada de pe culme în vale s-a rostogolit
-Muntele e pus pe glumă de când știe c-ai venit
-Acum coboară și dorul chemat de la locul lui
-Tocmai de pe Vârful Omu până-n Valea Dorului.
+[D]Și zăpada [G]de pe culme [A]în vale s-a rostogo[D]lit
+[D]Muntele e [G]pus pe glumă [A]de când știe c-ai ve[D]nit
+[D]Acum coboa[G]ră și dorul [A]chemat de la locul [D]lui
+[D]Tocmai de pe [G]Vârful Omu [A]până-n Valea Doru[D]lui.
 
 Refren
 
-Jepii Mici ca să te vadă și-au cumpărat ochelari
-Și în cea mai mare grabă i-au chemat pe Jepii Mari
-Nu știu sigur azi sau mâine pe Morar am să te sui
-Să ne logodim iubito sus în vârful muntelui.
+[D]Jepii Mici ca [G]să te vadă [A]și-au cumpărat oche[D]lari
+[D]Și în cea mai [G]mare grabă [A]i-au chemat pe Jepii [D]Mari
+[D]Nu știu sigur [G]azi sau mâine [A]pe Morar am să te [D]sui
+[D]Să ne logo[G]dim iubito [A]sus în vârful munte[D]lui.
 
 Refren x2
 ```
