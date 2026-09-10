@@ -10872,20 +10872,22 @@ Te caut zi și noapte, te caut, dar știu că e-n zadar
 
 Baby știu acum că mergi să întalnești
 Un străin ce te va duce, la casa din povești
-
 Ce noroc, ce mare nenoroc
+   F             G          C
 Că timpul stinge totul, dar focul naște foc
+F          G          C
 Mai dă-i o zi din viața ta,
+F                    G
 Acelui om care-ți spunea
 
 Refren:
- C           G    Am
+C     G           Am
 Baby, baby, baby, tu vei fi a mea
-        F         Am      Dm          G
+        F        Am      Dm          G
 Ca un răsarit de soare, după noaptea grea
- C             G               Am
+C     G           Am
 Baby, baby, baby, tu vei fi a mea
-        F           Fm                            C
+        F             Fm                         C
 Tu ești unica iubire, unica iubire, chiar și ultima...
 
             Eb                             F
