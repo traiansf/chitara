@@ -1784,29 +1784,24 @@ Sursa: Caiet cabană RO, p. 37 · [tabulaturi.ro](https://www.tabulaturi.ro/acor
 
 ```text
 1.
-     A         E    A
-Când soarele răsare
-    A            D     A
-Și cerul nori nu are
-  A                D
-Îmi vine să mă duc
-                    A
-Munții din nou să-i urc
-               E    A
-Cabană cu cabană.
+Când [A]soarele ră[E]sa[A]re
+Și [A]cerul nori nu [D]a[A]re
+/Îmi [A]vine să mă [D]duc
+ Mun[D]ții din nou să-i [A]urc
+ Ca[A]bană cu ca[E]ba[A]nă./ x2
 2.
-CĂrarea este plină
-De umbră și lumină
-Iar brazii mă așteaptă
-Cu cetina lor toată
-Blândețe să-mi împartă.
+Că[A]rarea este [E]pli[A]nă
+De [A]umbră și lu[D]mi[A]nă
+/Iar [A]brazii mă aș[D]teaptă
+ Cu [D]cetina lor [A]toată
+ Blân[A]dețe să-mi îm[E]par[A]tă./ x2
 
 3.
-Iar fete-n poienița
-Pun flori în coroniță
-Și-aleg din sânziene
-Parfum și mângâiere
-Și-aleg iubirea toatã.
+Iar [A]fete-n poie[E]ni[A]ță
+Pun [A]flori în coro[D]ni[A]ță
+/Și-a[A]leg din sânzi[D]ene
+ Par[D]fum și mângâ[A]iere
+ Și-a[A]leg iubirea [E]toa[A]tã./x2
 ```
 
 #### 24. Copil hoinar
