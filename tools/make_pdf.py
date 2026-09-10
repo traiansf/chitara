@@ -71,7 +71,9 @@ CHORD_RE = re.compile(
     r"^[A-G](?:#|b)?(?:m|maj|min|dim|aug|\+)?(?:sus)?[0-9]*"
     r"(?:\(?(?:add|sus|maj)?[A-G0-9#b]*\)?)?(?:/[A-G](?:#|b)?m?)?$"
 )
-SKIP_TOKENS = {"FC", "FCG", "[fill]"}
+# a bare "/" separates alternative ways to play the preceding chord (not a
+# bass note — that's "X/Y" attached to the chord token itself)
+SKIP_TOKENS = {"FC", "FCG", "[fill]", "/"}
 
 
 def is_chord_line(ln):

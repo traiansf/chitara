@@ -5543,9 +5543,9 @@ Refren
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 91 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/in-umbra-marelui-urss-748)
 
-**Chitară:** Em 022000 · D xx0232 · Am x02210 · C x32010 · Bm x24432 · A x02220 · G 320003
+**Chitară:** Em 022000 · D xx0232 · Am x02210 · C x32010 · Bm x24432 · G 320003 · E 022100 · A x02220
 
-**Ukulele:** Em 0432 · D 2220 · Am 2000 · C 0003 · Bm 4222 · A 2100 · G 0232
+**Ukulele:** Em 0432 · D 2220 · Am 2000 · C 0003 · Bm 4222 · G 0232 · E 4442 · A 2100
 
 ```text
 Em          D
@@ -10317,9 +10317,9 @@ Eu din zid abia vă mai aud.
 
 **Vasile Șeicaru** · Sursa: Caiet cabană RO, p. 38 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/antiprimavara-500)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · Cm x35543 · E 022100
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100 · Cm x35543
 
-**Ukulele:** Am 2000 · Dm 2210 · G 0232 · Cm 0333 · E 4442
+**Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442 · Cm 0333
 
 ```text
 1.
@@ -21821,9 +21821,9 @@ Refren x2
 
 **Compact** · Sursa: Caiet cabană RO, p. 97 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/singur-in-noapte-11271)
 
-**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · Em 022000 · A x02220
+**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · A7 x02020 · B7 x21202 · E 022100 · Em 022000 · A x02220
 
-**Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · Em 0432 · A 2100
+**Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · A7 0100 · B7 2322 · E 4442 · Em 0432 · A 2100
 
 ```text
 Compact

@@ -85,8 +85,10 @@ ALIAS = {"Db": "C#", "Eb": "D#", "Gb": "F#", "Ab": "G#", "Bb": "A#",
 
 # tokens allowed on a chord line that aren't themselves a chord: "FC"/"FCG"
 # are run-together chords from the source layout (their components appear
-# separately); "[fill]" marks an instrumental fill, not a chord to play
-SKIP_TOKENS = {"FC", "FCG", "[fill]"}
+# separately); "[fill]" marks an instrumental fill, not a chord to play; a
+# bare "/" separates alternative ways to play the preceding chord (not a
+# bass note — that's "X/Y" attached to the chord token itself)
+SKIP_TOKENS = {"FC", "FCG", "[fill]", "/"}
 
 CHORD_RE = re.compile(
     r"^[A-G](?:#|b)?"
