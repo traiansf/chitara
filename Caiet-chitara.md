@@ -4181,40 +4181,29 @@ Iubito, tu să stai cuminte-n casă/ x2
 **Ukulele:** Dm 2210 · F 2010 · C 0003
 
 ```text
- Dm
-/O vară întreagă m-a ținut pădurea
-    F
-Cu fața în iarbă și gândul aiurea
-Dm
-Iar acum în toamnă la plecare
-    F         C                        Dm
-Se tânguie că mă rup din inima ei și o doare.
-C    Dm
-Și o doare/ x2
+/O [Dm]vară întreagă m-a ți[Dm]nut pădurea
+Cu [F]fața în iarbă și cu [F]gândul aiurea
+Iar a[Dm]cum în toamnă [Dm]la plecare
+Se [F]tânguie că mă rup din [C]inima ei și o [Dm]doare. [Dm]/ x2
 
 Refren:
-  F
-Pădure, pădure nebună
-       Dm
-În fiecare noapte cu lună
-         F
-Voi rătăci fără țintă agale
-      Dm               C                Dm
-Ca o frunză mânată de vânt pe potecile tale.
- C           Dm
-Pe potecile tale
+Pă[F]dure, pădure ne[F]bună
+În fie[Dm]care noapte cu [Dm]lună
+Voi rătă[F]ci fără țintă a[F]gale
+Ca o [Dm]frunză mânată de [C]vânt pe potecile [Dm]tale. [Dm]
+Ca o [F]frunză mânată de [C]vânt pe potecile [Dm]tale.  [Dm]
 
-/În fiecare noapte de iarnă
-Umbra mea albă va veni să se-aștearnă
-Ca o ursoaică cu puii uciși
-La umbra stejarilor trădați de frunziș./ x2
+/În [Dm]fiecare [Dm]noapte de iarnă
+Umbra [F]mea cea albă va [F]veni să se-aștearnă
+Ca [Dm]o ursoaică cu [Dm]puii uciși
+La [F]umbra stejarilor [C]trădați de frun[Dm]ziș. [Dm]/ x2
 
 Refren
 
-/În fiecare dimineață
-Uneori ca o umbră alteori ca o ceață
-Ca o negură, sau ca o brumă
-Voi veni, voi veni, nu te mai tângui pădure nebună./ x2
+/Voi [Dm]veni în fiecare [Dm]dimineață
+Une[F]ori ca o umbră alte[F]ori ca o ceață
+Ori [Dm]ca o negură, sau [Dm]ca o brumă
+Voi [F]veni, voi veni, nu te mai [C]tângui pădure ne[Dm]bună. [Dm]/ x2
 
 Refren x2
 ```
