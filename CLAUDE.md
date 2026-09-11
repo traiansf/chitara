@@ -133,6 +133,10 @@ Ce face fiecare grup:
 
 - Editarea introducerii sau a oricărui cântec cere regenerarea PDF-ului;
   introducerea intră în prima pagină a lui.
+- **Înainte de orice push, regenerează PDF-ul (`make pdf`) și site-ul
+  (`make html`) și include-le în commit.** `docs/` se publică pe GitHub Pages
+  direct din `main`, deci un push fără regenerare lasă site-ul și PDF-ul în
+  urma caietului.
 - Acordurile apar în două notații: pe rândul de deasupra versului, aliniate pe
   silabă, sau în text între paranteze drepte (`[Am]Om bun`) la cântecele lui
   Karban. Uneltele trebuie să le trateze pe amândouă.
