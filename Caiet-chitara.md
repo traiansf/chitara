@@ -2025,26 +2025,26 @@ Refren x2
 ```text
 [C]Oriunde te-ai a[G]fla, în [Am]lumea asta [F]mare
 [C]În sat sau la o[G]raș, pe [Am]plajă sau că[F]rare
-Intri în panică și te trec fiori
-Când auzi adesea, printre trecători
+[C]Intri în pani[G]că [Am]și te trec [F]fiori
+[C]Când auzi a[G]desea, [Am]printre trecă[F]tori [F]
 
 Refren:
 [C]  Dar nu-s nor[G]mali, [Am]  dar nu-s nor[F]mali
-[C]Cară la ba[G]gaje, [Am]parc-ar fi ha[F]mali
-Dar nu-s normali, dar nu-s normali
-Când se urcă-n tren, loc nu mai a[F]veeeeeeeeeem
+[C]Cară la ba[G]gaje, de [Am]parc-ar fi ha[F]mali
+[C]  Dar nu-s nor[G]mali, [Am]  dar nu-s nor[F]mali
+[C]Când se urcă-n [G]tren, [Am]loc nu mai a[F]veeeeeee[F]eeem
 
-Când ne-ntâlnim în gară, de dimineață-n zori
-Și dintr-o dată gara-i prea mică pentru noi
-Se uită toți la ceas, căci timpul trece greu
-Oftând cu nerăbdare, i-auzi spunând mereu
+[C]Când ne-ntâlnim în [G]gară, de [Am]dimineață-n [F]zori
+[C]Și dintr-o dată [G]gara-i [Am]prea mică pentru [F]noi
+[C]Se uită toți la [G]ceas, căci [Am]timpul trece [F]greu
+[C]Oftând cu nerăb[G]dare, [Am]i-auzi spunând me[F]reu [F]
 
 Refren
 
-Cei ce nu-nțeleg vraja muntelui
-Și mă-ntreabă adesea de ce plec hai-hui
-Le răspund că-n munți soarele-i mai cald
-Numai pentru-atâta sunt montaniard
+[C]Cei ce nu-nțe[G]leg [Am]vraja munte[F]lui
+[C]Și mă-ntreabă a[G]desea [Am]de ce plec hai-[F]hui
+[C]Le răspund că-n [G]munți [Am]soarele-i mai [F]cald
+[C]Numai pentru-a[G]tâta [Am]sunt montani[F]ard [F]
 
 Refren x2
 ```
@@ -2380,56 +2380,51 @@ Refren
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
-C
-Într-o zi cu cer senin
-                G
-Frumos ca niciodată
-Urcau spre Caraiman, pe Jepi
-                   C
-Câțiva băieți și-o fată
+[C]Într-o zi cu [C]cer senin
+Fru[C]mos ca nicio[G]dată
+Ur[G]cau spre Carai[G]man, pe Jepi
+Câți[G]va băieți și-o [C]fată
 
-Având în spate un rucsac
-Salteaua și cu cortul
-Și-o pălărie verde-n cap
-Lăsau în urmă totul
+A[C]vând în spate [C]un rucsac
+Sal[C]teaua și cu [G]cortul
+Și-o [G]pălărie [G]verde-n cap
+Lă[G]sau în urmă [C]totul
 
 Refren:
 
-    F             C
-Frumoasă-i viața sus în munți
-      G            C
-Când mergi pe o cărare
-Puțini în lume sunt ca noi
-Puțini în lumea mare
+Fru[F]moasă-i viața [C]sus în munți
+Când [G]mergi pe o că[C]rare
+Pu[F]țini în lume [C]sunt ca noi
+Pu[G]țini în lumea [C]mare
 
-Și cum urcau așa pieptiș
-Ajunseră-n pădure
-Ieși în calea lor un urs
-Ce culegea la mure
+Și [C]cum urcau a[C]șa pieptiș
+A[C]junseră-n pă[G]dure
+Ie[G]și în calea [G]lor un urs
+Ce [G]culegea la [C]mure
 
-Și zise ursul: „Măi băieți”
-Crezând că târgu-i gata„
-Vă dau ursoaica mea, în schimb
-Voi dați-mi mie fata”
+Și [C]zise ursul: „[C]Măi băieți”
+Cre[C]zând că târgu-i [G]gata„
+Vă [G]dau ursoaica [G]mea, în schimb
+Voi [G]dați-mi mie [C]fata”
 
 Refren
 
-Au zis băieții: „Fugi de-aici
-Ursoaica ta-i nătângă
-Noi ducem fata-n Caraiman
-Acolo ea ne cântă”
+Au [C]zis băieții: „[C]Fugi de-aici
+Ur[C]soaica ta-i nă[G]tângă
+Noi [G]ducem fata-n [G]Caraiman
+A[G]colo ea ne [C]cântă”
 
-Și după drumul lung și greu
-Ajunseră-n poiană
-Acolo fata le făcu
-O ciorbă și-o tocană
+Și [C]după drumul [C]lung și greu
+A[C]junseră-n po[G]iană
+A[G]colo fata [G]le făcu
+O [G]ciorbă și-o to[C]cană
 
 Refren
 
-Și strânși în jurul focului
-De nimeni nu le pasă
-Căci ei de dragul muntelui
-Lăsară totu-acasă
+Și [C]strânși în jurul [C]focului
+De [C]nimeni nu le [G]pasă
+Căci [G]ei de dragul [G]muntelui
+Lă[G]sară totu-a[C]casă
 
 Refren
 ```
@@ -2444,43 +2439,40 @@ Sursa: Caiet cabană RO, p. 8 · [tabulaturi.ro](https://www.tabulaturi.ro/acord
 
 ```text
 1.
-          C
-În Piatra Craiului plecat-am iară
-Pe-un cal frumos la spate c-o chitară
-         F                        C
-Și hoinăream hai-hui prin Piatra Craiului
-        G               C
-S-o întâlnesc pe fata munților.
+[C] [C] În Piatra [C]Craiului plecat-am [C]iară
+Pe-un cal fru[C]mos la spate c-o chi[C]tară
+/Și hoină[F]ream hai-hui prin Piatra [C]Craiului
+S-o întâl[G]nesc pe fata munți[C]lor./ x2
 
 2.
-Și iată la o cotitură apare
-O fată blondă pe un cal călare
-I-am spus să stea pe loc să o sărut cu foc
-Dar ea n-a vrut și-n goană a fugit.
+[C] [C] Și iată [C]la o cotitură a[C]pare
+O fată [C]blondă pe un cal că[C]lare
+/I-am spus să [F]stea pe loc să o să[C]rut cu foc
+Dar ea n-a [G]vrut și-n goană a fu[C]git./ x2
 
 3.
-Priveam năluca-n zare cum dispare
-O fată blondă pe un cal călare
-Pe cal încălecam, la cal bice-i dădeam
-SĂ o ajung pe fata munților.
+[C] [C] Priveam nă[C]luca-n zare cum dis[C]pare
+O fată [C]blondă pe un cal că[C]lare
+/Pe cal în[F]călecam, la cal bi[C]ce-i dădeam
+Să o a[G]jung pe fata munți[C]lor./ x2
 
 4.
-În goană lângă un mic izvor
-Stătea întinsă fata munților
-Și-o luai pe calul meu și nu mai știu nici eu
-De-atâta foc și dor c-o sărutai.
+[C] [C] Într-o po[C]iană lâng-un mic iz[C]vor
+Stătea în[C]tinsă fata munți[C]lor
+Și-o luai pe [F]calul meu și nu mai [C]știu nici eu
+De-atâta [G]foc și dor ce-o săru[C]tai.
 
 5.
-În Piatra Craiului venit-am iară
-Cu un rucsac în spate și-o chitară
-Și hoinăream hai-hui prin Piatra Craiului
-SĂ-i întâlnesc pe cei ce m-au născut.
+[C] [C] În Piatra [C]Craiului venit-am [C]iară
+Cu un ruc[C]sac în spate și-o chi[C]tară
+/Și hoină[F]ream hai-hui prin Piatra [C]Craiului
+Să-i întâl[G]nesc pe cei ce m-au năs[C]cut./ x2
 
 6.
-Trecut-au zile lungi și ani de-atunci
-Și-n Piatra Craiului au apărut
-O fată și-un băiat pe-un cal înaripat
-Și-un cântec vechi de la străbuni lăsat.
+[C] [C] Trecut-au [C]zile lungi și ani de-a[C]tunci
+Și-n Piatra [C]Craiului au apă[C]rut
+/O fată [F]și-un băiat pe-un cal î[C]naripat
+Și-un cântec [G]vechi de la străbuni lă[C]sat./ x2
 ```
 
 #### 38. Fata munților (II)
