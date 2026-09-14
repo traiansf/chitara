@@ -62,6 +62,7 @@ python3 tools/add_guitar_chords.py         # recalculează digitațiile de chita
 python3 tools/add_ukulele_chords.py        # idem, ukulele
 python3 tools/add_guitar_chords.py --check # verifică fiecare digitație contra notelor ei
 python3 tools/replace_song_block.py '#### 176. Miruna' continut.txt
+python3 tools/collapse_repeated_chords.py  # comprimă acordurile repetate în ^
 tools/run.sh                               # reface caietul de la zero (vezi mai jos)
 make pdf                                   # = python3 tools/make_pdf.py
 make html                                  # regenerează site-ul HTML interactiv (docs/)
@@ -77,7 +78,7 @@ Cere `python3` cu **pymupdf** (`fitz`), **poppler** (`pdftotext`) și
 **Vii** — citesc și rescriu caietul curent: `reorganize_parts.py`,
 `dedup_lib.py` (parserul comun), `make_pdf.py`, `add_guitar_chords.py`,
 `add_ukulele_chords.py`, `replace_song_block.py`, `normalize_verses.py`,
-`restore_diacritics.py`, `generate_html.py`.
+`restore_diacritics.py`, `generate_html.py`, `collapse_repeated_chords.py`.
 
 `generate_html.py` citește caietul cu parserul din `make_pdf.py` și
 generează integral `docs/` — un site static (o pagină per cântec, cu
@@ -140,6 +141,12 @@ Ce face fiecare grup:
 - Acordurile apar în două notații: pe rândul de deasupra versului, aliniate pe
   silabă, sau în text între paranteze drepte (`[Am]Om bun`) la cântecele lui
   Karban. Uneltele trebuie să le trateze pe amândouă.
+- În notația inline, un acord identic cu cel imediat anterior de pe același
+  rând (fie el o bătaie în plus fără silabă nouă, fie o vocală prelungită pe
+  mai multe lovituri, ex. `Dia[Dm]a[Dm]na`) se scrie `^` în loc să repete
+  `[Dm]`; `tools/collapse_repeated_chords.py` face conversia automat. Nu
+  se confundă cu `/` de pe rândul de acorduri (deasupra versului), care
+  înseamnă altceva: o digitație alternativă pentru acordul precedent.
 - `tools/data/ro_forms.txt` e generat (27 MB) și ignorat de git.
 - Mesajele de commit și documentația sunt în română; docstring-urile și
   comentariile din cod, în engleză.

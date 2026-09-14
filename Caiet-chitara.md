@@ -12,7 +12,9 @@
 
 Cele cinci culegeri, scanate, stau în [`surse/`](surse) — titlurile de mai sus duc direct la ele.
 
-**Cum citești acordurile:** fiecare cântec e într-un bloc monospațiat; acordurile sunt scrise pe rândul de deasupra versului, aliniate deasupra silabei pe care se schimbă acordul. `R:` = refren; strofele sunt numerotate ca în caietele originale. Vezi și [anexa cu digitațiile acordurilor](#anexă-dicționar-de-acorduri).
+**Cum citești acordurile:** fiecare cântec e într-un bloc monospațiat; acordurile sunt scrise pe rândul de deasupra versului, aliniate deasupra silabei pe care se schimbă acordul, sau — la unele cântece — inline, în text între paranteze drepte (`[Am]Om bun`). `R:` = refren; strofele sunt numerotate ca în caietele originale. Vezi și [anexa cu digitațiile acordurilor](#anexă-dicționar-de-acorduri).
+
+**Semnul `^` în notația inline** marchează un acord identic cu cel imediat anterior, lovit din nou fără silabă nouă (o bătaie în plus) sau prelungind o vocală pe mai multe lovituri (`[Dm]Dia^a^na^`, în loc de `[Dm]Dia[Dm]a[Dm]na[Dm]`) — mai lizibil decât repetarea acordului. Nu se confundă cu `/` de pe rândul de acorduri de deasupra versului, care are alt sens: o digitație alternativă a acordului precedent.
 
 **Acorduri actualizate:** la unele cântece acordurile din culegerile originale au fost înlocuite, de obicei după variante văzute pe YouTube — de pildă cele cântate de Cati Vișinescu. Sursa și pagina notate la fiecare cântec arată de unde vin versurile, nu neapărat acordurile.
 
@@ -1001,31 +1003,31 @@ bine J
 
 ```text
 
-[C]        Azi totu-mi pare schim[C]bat, [C]tinerețea-ncet s-a [Dm]scurs
+[C]        Azi totu-mi pare schim^bat, ^tinerețea-ncet s-a [Dm]scurs
 
 [Dm]   Îți amintești cum ne-am plim[F]bat [G]sus pe creastă la a[C]pus
-[C]    Flori de munte-am adu[C]nat, [C]pe toate le-am îndră[Dm]git
+[C]    Flori de munte-am adu^nat, ^pe toate le-am îndră[Dm]git
 [Dm]   Printre stânci noi ne-am ju[F]cat [G]pe vremea când ne-am iu[C]bit
 
 Refren:
 [C]O o o Mâine, voi urca iar în [Dm]creastă
-Amintirile mă [F]cheamă  [F]
+Amintirile mă [F]cheamă  ^
 [G]Mâine vesel iar voi [C]fi
 
 [C]O o o Mâine, voi porni înspre [Dm]tine
-Să-ți trezesc în amin[F]tire [F]
+Să-ți trezesc în amin[F]tire ^
 [G]Tot ce crezi că vis a [C]fost
 
-[C]  Îți amintești, în Făgă[C]raș, [C]capre negre am întâl[Dm]nit
+[C]  Îți amintești, în Făgă^raș, ^capre negre am întâl[Dm]nit
 [Dm] Nu eram într-un o[F]raș, [G]dar eram la asfin[C]țit
-[C]  Cerul îndată s-a înste[C]lat [C]când spre Bâlea am pri[Dm]vit
+[C]  Cerul îndată s-a înste^lat ^când spre Bâlea am pri[Dm]vit
 [Dm]Dar ce folos, tu ai ui[F]tat [G]și frumosul l-ai stri[C]vit
 
 Refren
 
-[C]  Pentru tine totu-i [C]vis [C]și frumosul de-altă [Dm]dat’
+[C]  Pentru tine totu-i ^vis ^și frumosul de-altă [Dm]dat’
 [Dm] Mai frumos ca-n para[F]dis [G]l-ai lăsat fără of[C]tat
-[C]Dar crucea mea de-ai întâl[C]ni, [C]pe-un vâlcel sau vreun ver[Dm]sant
+[C]Dar crucea mea de-ai întâl^ni, ^pe-un vâlcel sau vreun ver[Dm]sant
 [Dm] Eu te rog nu te o[F]pri, [G]uită tot ce ți-am cân[C]tat
 
 Refren
@@ -1184,7 +1186,7 @@ Refren:
 ```text
 
 1.
-RĂu mă [C]dor ochii mă [C]dor   [F]
+RĂu mă [C]dor ochii mă ^dor   [F]
 De dure[G]rea frunze[C]lor.
 
 R:
@@ -2026,25 +2028,25 @@ Refren x2
 [C]Oriunde te-ai a[G]fla, în [Am]lumea asta [F]mare
 [C]În sat sau la o[G]raș, pe [Am]plajă sau că[F]rare
 [C]Intri în pani[G]că [Am]și te trec [F]fiori
-[C]Când auzi a[G]desea, [Am]printre trecă[F]tori [F]
+[C]Când auzi a[G]desea, [Am]printre trecă[F]tori ^
 
 Refren:
 [C]  Dar nu-s nor[G]mali, [Am]  dar nu-s nor[F]mali
 [C]Cară la ba[G]gaje, de [Am]parc-ar fi ha[F]mali
 [C]  Dar nu-s nor[G]mali, [Am]  dar nu-s nor[F]mali
-[C]Când se urcă-n [G]tren, [Am]loc nu mai a[F]veeeeeee[F]eeem
+[C]Când se urcă-n [G]tren, [Am]loc nu mai a[F]veeeeeee^eeem
 
 [C]Când ne-ntâlnim în [G]gară, de [Am]dimineață-n [F]zori
 [C]Și dintr-o dată [G]gara-i [Am]prea mică pentru [F]noi
 [C]Se uită toți la [G]ceas, căci [Am]timpul trece [F]greu
-[C]Oftând cu nerăb[G]dare, [Am]i-auzi spunând me[F]reu [F]
+[C]Oftând cu nerăb[G]dare, [Am]i-auzi spunând me[F]reu ^
 
 Refren
 
 [C]Cei ce nu-nțe[G]leg [Am]vraja munte[F]lui
 [C]Și mă-ntreabă a[G]desea [Am]de ce plec hai-[F]hui
 [C]Le răspund că-n [G]munți [Am]soarele-i mai [F]cald
-[C]Numai pentru-a[G]tâta [Am]sunt montani[F]ard [F]
+[C]Numai pentru-a[G]tâta [Am]sunt montani[F]ard ^
 
 Refren x2
 ```
@@ -2380,14 +2382,14 @@ Refren
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
-[C]Într-o zi cu [C]cer senin
+[C]Într-o zi cu ^cer senin
 Fru[C]mos ca nicio[G]dată
-Ur[G]cau spre Carai[G]man, pe Jepi
+Ur[G]cau spre Carai^man, pe Jepi
 Câți[G]va băieți și-o [C]fată
 
-A[C]vând în spate [C]un rucsac
+A[C]vând în spate ^un rucsac
 Sal[C]teaua și cu [G]cortul
-Și-o [G]pălărie [G]verde-n cap
+Și-o [G]pălărie ^verde-n cap
 Lă[G]sau în urmă [C]totul
 
 Refren:
@@ -2397,33 +2399,33 @@ Când [G]mergi pe o că[C]rare
 Pu[F]țini în lume [C]sunt ca noi
 Pu[G]țini în lumea [C]mare
 
-Și [C]cum urcau a[C]șa pieptiș
+Și [C]cum urcau a^șa pieptiș
 A[C]junseră-n pă[G]dure
-Ie[G]și în calea [G]lor un urs
+Ie[G]și în calea ^lor un urs
 Ce [G]culegea la [C]mure
 
-Și [C]zise ursul: „[C]Măi băieți”
+Și [C]zise ursul: „^Măi băieți”
 Cre[C]zând că târgu-i [G]gata„
-Vă [G]dau ursoaica [G]mea, în schimb
+Vă [G]dau ursoaica ^mea, în schimb
 Voi [G]dați-mi mie [C]fata”
 
 Refren
 
-Au [C]zis băieții: „[C]Fugi de-aici
+Au [C]zis băieții: „^Fugi de-aici
 Ur[C]soaica ta-i nă[G]tângă
-Noi [G]ducem fata-n [G]Caraiman
+Noi [G]ducem fata-n ^Caraiman
 A[G]colo ea ne [C]cântă”
 
-Și [C]după drumul [C]lung și greu
+Și [C]după drumul ^lung și greu
 A[C]junseră-n po[G]iană
-A[G]colo fata [G]le făcu
+A[G]colo fata ^le făcu
 O [G]ciorbă și-o to[C]cană
 
 Refren
 
-Și [C]strânși în jurul [C]focului
+Și [C]strânși în jurul ^focului
 De [C]nimeni nu le [G]pasă
-Căci [G]ei de dragul [G]muntelui
+Căci [G]ei de dragul ^muntelui
 Lă[G]sară totu-a[C]casă
 
 Refren
@@ -2439,38 +2441,38 @@ Sursa: Caiet cabană RO, p. 8 · [tabulaturi.ro](https://www.tabulaturi.ro/acord
 
 ```text
 1.
-[C] [C] În Piatra [C]Craiului plecat-am [C]iară
-Pe-un cal fru[C]mos la spate c-o chi[C]tară
+[C] ^ În Piatra ^Craiului plecat-am ^iară
+Pe-un cal fru[C]mos la spate c-o chi^tară
 /Și hoină[F]ream hai-hui prin Piatra [C]Craiului
 S-o întâl[G]nesc pe fata munți[C]lor./ x2
 
 2.
-[C] [C] Și iată [C]la o cotitură a[C]pare
-O fată [C]blondă pe un cal că[C]lare
+[C] ^ Și iată ^la o cotitură a^pare
+O fată [C]blondă pe un cal că^lare
 /I-am spus să [F]stea pe loc să o să[C]rut cu foc
 Dar ea n-a [G]vrut și-n goană a fu[C]git./ x2
 
 3.
-[C] [C] Priveam nă[C]luca-n zare cum dis[C]pare
-O fată [C]blondă pe un cal că[C]lare
+[C] ^ Priveam nă^luca-n zare cum dis^pare
+O fată [C]blondă pe un cal că^lare
 /Pe cal în[F]călecam, la cal bi[C]ce-i dădeam
 Să o a[G]jung pe fata munți[C]lor./ x2
 
 4.
-[C] [C] Într-o po[C]iană lâng-un mic iz[C]vor
-Stătea în[C]tinsă fata munți[C]lor
+[C] ^ Într-o po^iană lâng-un mic iz^vor
+Stătea în[C]tinsă fata munți^lor
 Și-o luai pe [F]calul meu și nu mai [C]știu nici eu
 De-atâta [G]foc și dor ce-o săru[C]tai.
 
 5.
-[C] [C] În Piatra [C]Craiului venit-am [C]iară
-Cu un ruc[C]sac în spate și-o chi[C]tară
+[C] ^ În Piatra ^Craiului venit-am ^iară
+Cu un ruc[C]sac în spate și-o chi^tară
 /Și hoină[F]ream hai-hui prin Piatra [C]Craiului
 Să-i întâl[G]nesc pe cei ce m-au năs[C]cut./ x2
 
 6.
-[C] [C] Trecut-au [C]zile lungi și ani de-a[C]tunci
-Și-n Piatra [C]Craiului au apă[C]rut
+[C] ^ Trecut-au ^zile lungi și ani de-a^tunci
+Și-n Piatra [C]Craiului au apă^rut
 /O fată [F]și-un băiat pe-un cal î[C]naripat
 Și-un cântec [G]vechi de la străbuni lă[C]sat./ x2
 ```
@@ -2651,20 +2653,20 @@ Tradăti de frunziș, cu puii uciși.
 ```text
 
 1.
-[D]N-o știi [D]nimeni [D]că m-am [D]dus
-[A]Numa’ [A]or ve[D]dea că [A]nu-s [A]
-[D]Sus e [D]cerul, [D]largă-i [D]lumea
-[A]Bine [A]c-a-nfrun[D]zit pă[A]du[D]rea.
+[D]N-o știi ^nimeni ^că m-am ^dus
+[A]Numa’ ^or ve[D]dea că [A]nu-s ^
+[D]Sus e ^cerul, ^largă-i ^lumea
+[A]Bine ^c-a-nfrun[D]zit pă[A]du[D]rea.
 
 R:
 [D]Hai, [D7]hai, [G]hai, hai, di[D]hai, dihai
 [A]Pe sub flori mă [D]legănai, [A7]   [D]
 
 2.
-[D]Sus e [D]cerul [D]largă-i [D]lumea
-[A]N-o ști [A]nimeni [D]că m-am [A]dus [A]
-[D]Bine [D]c-a-nfrun[D]zit pă[D]durea
-[A]Numai [A]or ve[D]dea [A]că [D]nu-s.
+[D]Sus e ^cerul ^largă-i ^lumea
+[A]N-o ști ^nimeni [D]că m-am [A]dus ^
+[D]Bine ^c-a-nfrun^zit pă^durea
+[A]Numai ^or ve[D]dea [A]că [D]nu-s.
 ```
 
 #### 43. Hai dihai (II)
@@ -2700,64 +2702,64 @@ Notă:D7 - Se cantă la repetarea refrenului
 **Ukulele:** D 2220 · A 2100 · G 0232 · C 0003
 
 ```text
-[D]Dacă ai un dor ce te fra[D]mântă
+[D]Dacă ai un dor ce te fra^mântă
 [D]Nu căta că-i drum obosi[A]tor
 [A]Hai prietene cu min' pe [G]stâncă
 [A]Pe cărările Bucegi[D]lor.
 
-[D]Pe cărări umblate doar de [D]ciute
+[D]Pe cărări umblate doar de ^ciute
 [D]Sub aripa Caraimanu[A]lui
 [A]Ai s-auzi povești necunos[G]cute
 [A]Spuse doar de glasul munte[D]lui.
 
 Refren:
-[D]  Când Bu[D]cegii[D] dau zvon de piatră si iz[A]voare
+[D]  Când Bu^cegii^ dau zvon de piatră si iz[A]voare
 [A] Oriunde-ai [G]fi [A]răspunde la a lor che[D]mare
-[D]  Carai[D]manul,[D] Coștila-ascunsă dup'-un [A]nor
-Și Mo[G]rarul [A]te vor primi la pieptul [D]lor. [D]
+[D]  Carai^manul,^ Coștila-ascunsă dup'-un [A]nor
+Și Mo[G]rarul [A]te vor primi la pieptul [D]lor. ^
 
-[D]Pe platou la mare înăl[D]țime
+[D]Pe platou la mare înăl^țime
 [D]Babele la sfat s-au adu[A]nat
 [A]Numai Baba Mare stă deo[G]parte
 [A]Și-și pune întrebari neînce[D]tat.
 
-[D]Oare Sfinxul care tace-ntr-[D]una
+[D]Oare Sfinxul care tace-ntr-^una
 [D]Și priveste în zari nepăsă[A]tor
 [A]Se iubeste-n taină cu Bă[G]trâna
 [A]Sau le face curte Doamne[D]lor.
 
 Refren
 
-[D]Jos în Peștera întune[D]coasă
+[D]Jos în Peștera întune^coasă
 [D]Stă bătrânul schit uitat de [A]ani
 [A]Aici doina-ți pare mai du[G]ioasă
 [A]Îngânată de batrâni cio[D]bani.
 
-[D]Numai starețul cu barba-i [D]albă
+[D]Numai starețul cu barba-i ^albă
 [D]Adâncit în rugăciunea [A]lui
 [A]Spune-ncet cu vocea lui do[G]molă
 [A]Prăvila străveche a munte[D]lui.
 
 Refren
 
-[D]Pe Morar în nopti cu lună [D]plină
+[D]Pe Morar în nopti cu lună ^plină
 [D]Sau pe brânele Bucșoiu[A]lui
 [A]Vin scăldate parcă în lu[G]mină
 [A]Zânele din Valea Cerbu[D]lui.
 
-[D]Au pe cap cununi de campa[D]nulă
+[D]Au pe cap cununi de campa^nulă
 [D]Și în plete flori de colț de-ar[A]gint
 [A]Capre negre-n colț de piatră [G]sură
 [A]Străjuiesc în noapte locul [D]sfânt.
 
 Refren
 
-[D]De la Vârful Omu pâna-n [D]zare
+[D]De la Vârful Omu pâna-n ^zare
 [D]Dunărea albastră poți s-o [A]vezi
 [A]Piatra Craiului si Piatra [G]Mare
 [A]Făgărasul cu-ale lui ză[D]pezi.
 
-[D]Hoinărind vreodată pe-o că[D]rare
+[D]Hoinărind vreodată pe-o că^rare
 [D]Dac-o cruce-n cale-ai întâl[A]nit
 [A]Nu uita să pui măcar o [G]floare
 [A]Pentru cel ce muntele-a iu[D]bit.
@@ -2824,8 +2826,8 @@ De îndată ce-am ajuns în Crai.
 **Ukulele:** Dm 2210 · C 0003 · F 2010
 
 ```text
-[Dm]Și-am por[Dm]nit să [C]reclă[C]dim [Dm]Dia[Dm]a[Dm]na[Dm]
-[Dm]Un re[F]fugiu [C]vechi și [C]pără[Dm]si[C]i[Dm]it[Dm]
+[Dm]Și-am por^nit să [C]reclă^dim [Dm]Dia^a^na^
+[Dm]Un re[F]fugiu [C]vechi și ^pără[Dm]si[C]i[Dm]it^
         F       C        Dm C  Dm
 Și-am lăsat șprițul și damigeană
          F      C          Dm     C  Dm
@@ -2939,9 +2941,9 @@ Refren
 **Ukulele:** Am 2000 · G 0232 · C 0003
 
 ```text
-[Am]Și-avem un singur [G]Crai ce-aș[G]teaptă neclin[Am]tit
-[C]Cu ale sale [G]creste ce-s [G]roșii-n asfin[Am]țit
-[C]Plecăm sâmbătă [G]seara, ple[G]căm toți împre[Am]ună
+[Am]Și-avem un singur [G]Crai ce-aș^teaptă neclin[Am]tit
+[C]Cu ale sale [G]creste ce-s ^roșii-n asfin[Am]țit
+[C]Plecăm sâmbătă [G]seara, ple^căm toți împre[Am]ună
 [Am]Și liberi o să [C]fim sub [G]cerul plin de [Am]lună.
 
 Să vii să îl străbatem pe ale sale drumuri
@@ -2950,9 +2952,9 @@ Să vezi cum cresc la brazi cu miile de muguri
 Ce vitregă-i natura cu vânt neîncetat.
 
 Refren:
-[C]Și-aș vrea să vii și [G]tu, să [G]mergem împre[Am]ună
-[C]Să împletim a[G]colo a [G]Craiului cu[Am]nună
-[C]Din garofițe [G]roșii și [G]din bujori de [Am]munte
+[C]Și-aș vrea să vii și [G]tu, să ^mergem împre[Am]ună
+[C]Să împletim a[G]colo a ^Craiului cu[Am]nună
+[C]Din garofițe [G]roșii și ^din bujori de [Am]munte
 [Am]Din liliacul [C]alb și [G]flori de colț că[Am]runte
 [C]Hei [G]Hai [Am] Liliac și [G] flori de colț că [Am]runte
 
@@ -4068,7 +4070,7 @@ Veșnic pe drum căutând un castel.
 [Dm]Și-n toiul pe[Am]trecerii [E]preț de o [Am]clipă
 [Dm]Om bun și la [Am]tine [E]ne vom [Am]gândi.
 [Am]Deschide [E]poarta și dă-ne o [Am]coajă
-[C]Ai milă de [C]niște [E]bieți menestreli
+[C]Ai milă de ^niște [E]bieți menestreli
 [Dm]Veșnic pe [Am]drum [E]asta ni-i [Am]soarta
 [Dm]Veșnic pe [Am]drum cău[E]tând un [Am]castel.
 ```
@@ -4085,23 +4087,23 @@ Veșnic pe drum căutând un castel.
 Om [Am]bun des[C]chide-[G]ne poar[Am]ta
 [G]Dă-ne o [Am]coajă și [C]nu ne [E]goni
 [Am]Și-n schimb [C]îți vom [G]alunga tris[Am]tețea
-[G]Cu vesele [C]cântece [Am]și ghidu[Am]șii
+[G]Cu vesele [C]cântece [Am]și ghidu^șii
 [Am]Venim de de[C]parte și [G]mergem de[Am]parte
 [G]Tocmai în [Am]zare [C]sus la ca[E]stel
 [Am]Ne-am oprit [C]aici pe [G]drum ne-a prins [Am]noaptea
-[G]Da adă[C]post unor [Am]bieți mene[Am]strei.
+[G]Da adă[C]post unor [Am]bieți mene^strei.
 [Am]La castel [C]mâine va [G]fi sărbă[Am]toare
 [G]Prințesa-mpli[Am]nește [C]ani două[E]zeci
 [Am]Vom bea mult [C]vin vom [G]goli tăvi cu [Am]mâncare
-[G]Ce va fi-a[C]colo să [Am]tot pe[Am]treci.
+[G]Ce va fi-a[C]colo să [Am]tot pe^treci.
 [Am]Noi vom [C]cânta [G]noaptea în[Am]treaga
 [G]Oaspeții [Am]veseli [C]vor dăn[E]țui
 [Am]Și-n toiul pe[C]trecerii [G]preț de o [Am]clipă
-[G]Om bun și la [C]tine ne [Am]vom [Am]gândi.
+[G]Om bun și la [C]tine ne [Am]vom ^gândi.
 [Am]Deschide [C]poarta și [G]dă-ne o [Am]coajă
 [G]Ai milă de [Am]niște [C]bieți menes[E]trei
 [Am]Veșnic pe [C]drum asta [G]ni-i soar[Am]ta
-[G]Veșnic pe [C]drum cău[Am]tând un cas[Am]tel.
+[G]Veșnic pe [C]drum cău[Am]tând un cas^tel.
 ```
 
 #### 73. Omagiul unui alpinist
@@ -4175,29 +4177,29 @@ Iubito, tu să stai cuminte-n casă/ x2
 **Ukulele:** Dm 2210 · F 2010 · C 0003
 
 ```text
-/O [Dm]vară întreagă m-a ți[Dm]nut pădurea
-Cu [F]fața în iarbă și cu [F]gândul aiurea
-Iar a[Dm]cum în toamnă [Dm]la plecare
-Se [F]tânguie că mă rup din [C]inima ei și o [Dm]doare. [Dm]/ x2
+/O [Dm]vară întreagă m-a ți^nut pădurea
+Cu [F]fața în iarbă și cu ^gândul aiurea
+Iar a[Dm]cum în toamnă ^la plecare
+Se [F]tânguie că mă rup din [C]inima ei și o [Dm]doare. ^/ x2
 
 Refren:
-Pă[F]dure, pădure ne[F]bună
-În fie[Dm]care noapte cu [Dm]lună
-Voi rătă[F]ci fără țintă a[F]gale
-Ca o [Dm]frunză mânată de [C]vânt pe potecile [Dm]tale. [Dm]
-Ca o [F]frunză mânată de [C]vânt pe potecile [Dm]tale.  [Dm]
+Pă[F]dure, pădure ne^bună
+În fie[Dm]care noapte cu ^lună
+Voi rătă[F]ci fără țintă a^gale
+Ca o [Dm]frunză mânată de [C]vânt pe potecile [Dm]tale. ^
+Ca o [F]frunză mânată de [C]vânt pe potecile [Dm]tale.  ^
 
-/În [Dm]fiecare [Dm]noapte de iarnă
-Umbra [F]mea cea albă va [F]veni să se-aștearnă
-Ca [Dm]o ursoaică cu [Dm]puii uciși
-La [F]umbra stejarilor [C]trădați de frun[Dm]ziș. [Dm]/ x2
+/În [Dm]fiecare ^noapte de iarnă
+Umbra [F]mea cea albă va ^veni să se-aștearnă
+Ca [Dm]o ursoaică cu ^puii uciși
+La [F]umbra stejarilor [C]trădați de frun[Dm]ziș. ^/ x2
 
 Refren
 
-/Voi [Dm]veni în fiecare [Dm]dimineață
-Une[F]ori ca o umbră alte[F]ori ca o ceață
-Ori [Dm]ca o negură, sau [Dm]ca o brumă
-Voi [F]veni, voi veni, nu te mai [C]tângui pădure ne[Dm]bună. [Dm]/ x2
+/Voi [Dm]veni în fiecare ^dimineață
+Une[F]ori ca o umbră alte^ori ca o ceață
+Ori [Dm]ca o negură, sau ^ca o brumă
+Voi [F]veni, voi veni, nu te mai [C]tângui pădure ne[Dm]bună. ^/ x2
 
 Refren x2
 ```
@@ -6306,32 +6308,32 @@ Ca să scoată castronelul
 
 ```text
 [A]Așa beu oa[E]menii buni, [D]așa beu oa[E]menii buni
-[A]De sâm[D]bata [E]până [A]luni, [A]de sâm[E]bata [A]până luni.
+[A]De sâm[D]bata [E]până [A]luni, ^de sâm[E]bata [A]până luni.
 [A]Așa beu oa[E]menii frați, [D]așa beu oa[E]menii frați
-[A]De sâm[D]bata [E]până [A]marți, [A]de sâm[E]bata [A]până marți.
+[A]De sâm[D]bata [E]până [A]marți, ^de sâm[E]bata [A]până marți.
 [A]Așa beu oa[E]meni cu cecuri, [D]așa beu oa[E]meni cu cecuri
-[A]De sâm[D]bata [E]până mie[A]rcuri, [A]de sâm[E]bata [A]până miercuri.
+[A]De sâm[D]bata [E]până mie[A]rcuri, ^de sâm[E]bata [A]până miercuri.
 [A]Așa beu oa[E]meni ca noi, [D]așa beu oa[E]meni ca noi
-[A]De sâm[D]bata [E]până [A]joi, [A]de sâm[E]bata [A]până joi.
+[A]De sâm[D]bata [E]până [A]joi, ^de sâm[E]bata [A]până joi.
 [A]Așa beu oa[E]menii tineri, [D]așa beu oa[E]menii tineri
-[A]De sâm[D]bata [E]până [A]vineri, [A]de sâm[E]bata [A]până vineri.
+[A]De sâm[D]bata [E]până [A]vineri, ^de sâm[E]bata [A]până vineri.
 [A]S-așa beu și [E]eu cu tata, [D]s-așa beu și [E]eu cu tata
-[A]Dintr-o sâm[D]bata [E]într-[A]alta, [A]dintr-o sâm[E]bata [A]într-alta.
+[A]Dintr-o sâm[D]bata [E]într-[A]alta, ^dintr-o sâm[E]bata [A]într-alta.
 [A]De n-ar fi ho[E]rinca-n sat, [D]de n-ar fi ho[E]rinca-n sat
-[A]Nicio[D]dată [E]n-aș fi [A]bat, [A]nicio[E]dată [A]n-aș fi bat.
+[A]Nicio[D]dată [E]n-aș fi [A]bat, ^nicio[E]dată [A]n-aș fi bat.
 [A]Dar așa ho[E]rinca este, [D]dar așa ho[E]rinca este,
-[A]Io-s la [D]lume [E]de po[A]veste, [A]io-s la [E]lume [A]de poveste.
+[A]Io-s la [D]lume [E]de po[A]veste, ^io-s la [E]lume [A]de poveste.
 [A]Că mă poves[E]tesc în sat, [D]că mă poves[E]tesc în sat,
-[A]C-am bă[D]ut și [E]iară-s [A]bat, [A]c-am bă[E]ut și [A]iară-s bat.
+[A]C-am bă[D]ut și [E]iară-s [A]bat, ^c-am bă[E]ut și [A]iară-s bat.
 [A]Tata-i om de [E]vaza-n sat, [D]tata-i om de [E]vaza-n sat,
-[A]Nicio[D]dată [E]n-o fost [A]bat, [A]nicio[E]dată [A]n-o fost bat.
+[A]Nicio[D]dată [E]n-o fost [A]bat, ^nicio[E]dată [A]n-o fost bat.
 [A]Iar eu fi[E]ciorul lui, [D]iar eu fi[E]ciorul lui,
-[A]Tot la [D]usa [E]birtu[A]lui, [A]tot la [E]usa [A]birtului.
+[A]Tot la [D]usa [E]birtu[A]lui, ^tot la [E]usa [A]birtului.
 Variantă studenteasca:
 [A]De n-ar fi [E]barul de zi, [D]de n-ar fi [E]barul de zi,
-[A]De la cur[D]suri [E]n-as [A]lipsi, [A]de la cur[E]suri [A]n-as lipsi.
+[A]De la cur[D]suri [E]n-as [A]lipsi, ^de la cur[E]suri [A]n-as lipsi.
 [A]De n-ar fi [E]barul de noapte, [D]de n-ar fi [E]barul de noapte,
-[A]As în[D]vață [E]și eu [A]carte, [A]as în[E]vață [A]și eu carte.
+[A]As în[D]vață [E]și eu [A]carte, ^as în[E]vață [A]și eu carte.
 ```
 
 #### 115. Bade pălărie nouă
@@ -7263,22 +7265,22 @@ Sursa: Cărticica Karban, p. 240
 **Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
-[Am]Păi doi olteni săpau o groaapa[Am]
+[Am]Păi doi olteni săpau o groaapa^
 Păi doi olteni săpau o [Dm]groaapaaaaaaaa
 S-așa [Am]lungă s-[E]așa [Am]lată
-[Am]Păi unu pune o-ntrebaare[Am]
+[Am]Păi unu pune o-ntrebaare^
 Ce facem cu pământul [Dm]careeeeeee
 Rezul[Am]ta de [E]la să[Am]pare
-[Am]Păi facem o groapa mai maare[Am]
+[Am]Păi facem o groapa mai maare^
 Și punem pământul [Dm]careeeeeeee
 Rezul[Am]ta de [E]la să[Am]pare
-[Am]Dar ce facem cu pământul care[Am]
+[Am]Dar ce facem cu pământul care^
 Dar ce facem cu pământul [Dm]careeeeeeee
 Rezul[Am]ta nou de [E]la să[Am]pare
-[Am]Păi facem o groapa mai maare[Am]
+[Am]Păi facem o groapa mai maare^
 Și punem pământul [Dm]careeeeeeee
 Rezul[Am]ta nou de [E]la să[Am]pare
-[Am]Păi mai lăsați oltenii-n paace[Am]
+[Am]Păi mai lăsați oltenii-n paace^
 Mai lăsați oltenii-n [Dm]paaceeeeeeee
 Că-s și [Am]alte [E]dobito[Am]ace
 ```
@@ -7338,7 +7340,7 @@ Sursa: Cărticica Karban, p. 240
 [D]Ea ar fi băr[G]batul [A7]dacă ar avea [D]...
 [D]Putintica [G]minte [A7]s-aibă ea va [D]zic
 [D]N-ar sta zi și [G]noapte cu [A7]nașu-n [D]...
-[D]Lingeria [D]dânșii [A7]costa o a[D]vere
+[D]Lingeria ^dânșii [A7]costa o a[D]vere
 [D]Prin ea vezi ce [G]are [A7]dama-ntre [D]...
 [D]Păi cere câteo[G]dată [A7]în Dacie s-o [D]plimb
 [D]Iese dezbra[G]cata [A7]și vrea numai [D]...
@@ -8648,7 +8650,7 @@ Sursa: Cărticica Karban, p. 200
 [C]Până [F]n-o mai ră[G]mâne [C]nimic.
 [C]Câte-un [G]strop, strop, strop, [C]câte-un [G]strop, strop, strop.
 [C]Până [F]n-o mai ră[G]mânea de[C]loc.
-[C]Câte-un pică, pică, pică, [C]câte-un [G]pică, pică, pică,
+[C]Câte-un pică, pică, pică, ^câte-un [G]pică, pică, pică,
 [C]Până [F]n-o mai ră[G]mânea ni[C]mica.
 [C]Câte-o [G]cană, cană, cană, [C]câte-o [G]cană, cană, cană,
 [C]Pân¶ [F]s-o face, [G]face dami[C]geana.
@@ -9095,7 +9097,7 @@ Tot ți-o fura ci[Am]neva
 [Am(I)]Un doctor în istorie zace fără glorie
 [Dm(I)]Ca un cerșe[Am(I)]tor
 [Am(I)]Doamne, vin îndată căci [Dm(I)]te-am văzut aseară
-[E(I)]La televi[E(I)]zor
+[E(I)]La televi^zor
 ```
 
 #### 174. Trec țiganii
@@ -9242,17 +9244,17 @@ muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 217
 Pe o fusta de stu[A7]dentă
 Și fiindcă ea nu se lasă
 A mai chemat un profe[D]sor.
-[D]Un, [D]Doi
+[D]Un, ^Doi
 [D]Doi profesori se legănau
 Pe o fusta de stu[A7]dentă
 Și fiindcă ea nu se lasă
 Au mai chemat un profe[D]sor.
-[D]Un, [D]Doi, [D]Trei
+[D]Un, ^Doi, ^Trei
 [D]Trei profesori se legănau
 Pe o fusta de stu[A7]dentă
 Și fiindcă ea nu se lasă
 Au mai chemat un profe[D]sor.
-[D]Un, [D]Doi, [D]Trei, [D]Patru
+[D]Un, ^Doi, ^Trei, ^Patru
 s.a.m.d. cred că până la 10 profesori...
 Notă: Melodia cântecului probabil ca o știți din anii de grdinita cu
 elefanții ce se legănau pe o pânză de păianjen.
@@ -13985,27 +13987,27 @@ Refren
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · D7 2223 · Em 0432 · D 2220 · Dm 2210
 
 ```text
-[C]Maladia ce-[C]aveam se [G]trăgea din a[C]mor
-[C]Și sufeream [F]seara des[C]tul de na[C]sol.
+[C]Maladia ce-^aveam se [G]trăgea din a[C]mor
+[C]Și sufeream [F]seara des[C]tul de na^sol.
 [F]Câte am [Am]luat, toate-au [D7]fost în za[Am]dar
-[F]Dar m-a sal[F]vat un [C]biet bucă[F]tar,
+[F]Dar m-a sal^vat un [C]biet bucă[F]tar,
 [F]Tot mormă[G]ind iar și [C]iar [G]ca...
 Refren 1:
-[C]Dragostea [G]e o sa[C]lata [C]
-[Em]Cu ceva [F]sare în [C]plus, [C]
+[C]Dragostea [G]e o sa[C]lata ^
+[Em]Cu ceva [F]sare în [C]plus, ^
 [Am]Ea se ia [D]pe farfu[D7]ri[F]e
-Iar [Am]fetele, [Am]dragă, [Dm]fetele, [Dm]oh
-[C]Fetele [G]se iau pe [C]sus. [C]
+Iar [Am]fetele, ^dragă, [Dm]fetele, ^oh
+[C]Fetele [G]se iau pe [C]sus. ^
 Refren 2:
-[C]Dragostea [G]e ca o su[C]pa [C]
-[Em]Cu pătrun[F]jel și mă[C]rar, [C]
+[C]Dragostea [G]e ca o su[C]pa ^
+[Em]Cu pătrun[F]jel și mă[C]rar, ^
 [Am]Supa se [D]pune pe [D7]ma[F]să
-Iar [Am]fetele, [Am]dragă, [Dm]fetele, [Dm]oh
-[C]Fetele [G]se pun pe [C]jar. [C]
-[C]Eu de marea du[C]rere că[G]zusem la [C]pat,
-[C]Se părea ca des[F]tinul [C]mi s-a blo[C]cat
+Iar [Am]fetele, ^dragă, [Dm]fetele, ^oh
+[C]Fetele [G]se pun pe [C]jar. ^
+[C]Eu de marea du^rere că[G]zusem la [C]pat,
+[C]Se părea ca des[F]tinul [C]mi s-a blo^cat
 [F]Dar îngerul [Am]meu din [D7]para[Am]normal
-[F]Se întru[F]pase într-un [C]biet bucă[F]tar
+[F]Se întru^pase într-un [C]biet bucă[F]tar
 [F]Și mă înva[G]ță iar și [C]iar [G]ca...
 ```
 
@@ -14716,21 +14718,21 @@ Refren:
 [Em]Într-o zi din întâm[D]plare
 [D]Am zărit trecând o [Em]floare
 [Em]Chipul ei m-a ferme[D]cat
-[D]Într-un fel foarte ciu[D]dat
+[D]Într-un fel foarte ciu^dat
 Refren 1:
 [Em]Și din vraja ei di[C]vina
 Ochii [D]mei n-o să-și re[G]vină
 [Em]Ce mai face nu știu [D]zău
 [D]Dorul ei m-apasă [Em]rău
 [Em]S-o găsesc am încer[D]cat
-[D]Dar zadarnic am spe[D]rat
+[D]Dar zadarnic am spe^rat
 Refren 2:
 [Em]De ce oare nu se-a[C]rată
 Fata [D]asta minu[G]nată
 [Em]Toamna-ascultă a mea [D]șoapta
 [D]Fa s-o mai zăresc o[Em]dată
 [Em]Să încerc să îi vor[D]besc
-[D]Să-nțeleagă c-o iu[D]besc
+[D]Să-nțeleagă c-o iu^besc
 Refren 3:
 [Em]Și dacă nu m-o [C]iubi
 Ca un [D]fum m-oi ri[G]sipi
@@ -16233,7 +16235,7 @@ Refren:
 [Am]Și-am plecat de cu [C]zori la [G]joc
 [Am]Și acum ne învâr[Em]tim în [Am]loc.
 [Am]Bate Ioane pasul [C]mai cu [G]foc,
-[Am]Să ne fie [Am]cu noroc!
+[Am]Să ne fie ^cu noroc!
 [Am]Și de-atâta [C]învâr[G]tit,
 [Am]Gropile s-au [Em]adân[Am]cit
 [Am]Și acum să [C]vezi be[G]lele;
@@ -19036,7 +19038,7 @@ Refren:
 [A]Doru' prinse-a mă-[D]ntreba
 [A]Doru' prinse-a mă-ntreba
 [A]Doru' ți-i de ci[D]neva?
-[E]Doru' ți-i de ci[E]neva?
+[E]Doru' ți-i de ci^neva?
 [A]Eu la dor am prins [D]a-i spune
 [A]Mai dorule, mai nebune!
 [A]Mai văzut-ai om pe [D]lume
@@ -20799,7 +20801,7 @@ Refren:
 [C]Etern pasa[Em]ger, mai [F]vine un [C]tren
 [Dm]Adio mai [G]trece un [C]tren
 [C]Iubirea me[Em]reu, [F]aleargă spre [C]noi
-[Dm]C-o floare și-o [G]gară în [G]doi
+[Dm]C-o floare și-o [G]gară în ^doi
 [C]Va mai pleca un tren și [Dm]iată
 [G]Un vis pe care-l credeam [C]stins
 [E]Ne luminează viața [F]toată
@@ -21088,14 +21090,14 @@ SĂ miroase-a mere coapte.
 [D]Și bunica [G]să mă [D]ia
 [G]Să mă ducă-[D]ncet spre [A]pernă
 [D]Și să simt ve[G]nind din [D]ea
-[G]Toată lini[D]ștea e[D]ternă
+[G]Toată lini[D]ștea e^ternă
 [G]Să trosnească lem[A]ne-n foc
 [D]Sub un biet ibric cu lapte
 [G]Să miroas-a bu[A]suioc, să mi[D]roasă
 [G]Să miroas-a [D]mere [A]coapte
 [G]Și să ningă nins [D]enorm
 [D]Pân` la streașină și peste
-[G]Și in scaun să [G]adorm, [D]adorm
+[G]Și in scaun să ^adorm, [D]adorm
 [G]Ca de-un [A]drog și de-o pov[D]este
 [G]Ca de-un [A]drog și de-o pov[D]este
 [G]Poveste [D]poveste...
@@ -21220,42 +21222,42 @@ Noi mai pe din gios om mere.
 
 ```text
 [Am]Dă-i să[E]racă [Am]irima [E]me'
-[Dm]Să[Dm]racă i[E]rima [Am]me'
+[Dm]Să^racă i[E]rima [Am]me'
 [Dm]Fost-am [Am]la dof[E]tor cu [Am]ie'
-[Dm]Fost-am [E]la dof[Am]tor cu [Am]ie'
+[Dm]Fost-am [E]la dof[Am]tor cu ^ie'
 Refren
-[Dm]Ai [Dm]hai, i[Am]rima [Am]hai,
-[E]La mul[E]te re[Am]le mă [Am]dai
-[Dm]Hai [Dm]hai, i[Am]rima [Am]hai,
-[E]Pe din [E]gios, pe [Am]după [Am]Rai.
+[Dm]Ai ^hai, i[Am]rima ^hai,
+[E]La mul^te re[Am]le mă ^dai
+[Dm]Hai ^hai, i[Am]rima ^hai,
+[E]Pe din ^gios, pe [Am]după ^Rai.
 [Am]La dof[E]tor și [Am]la po[E]tică
-[Dm]La do[Dm]ftor și [E]la po[Am]tică
+[Dm]La do^ftor și [E]la po[Am]tică
 [Dm]Și mi-or [Am]zâs ca [E]n-am ni[Am]mica
-[Dm]Și mi-or [E]zâs ca [Am]n-am ni[Am]mica.
+[Dm]Și mi-or [E]zâs ca [Am]n-am ni^mica.
 [Am]Potica[E]rasu [Am]așa mi-o [E]zâs
-[Dm]Potica[Dm]rasu [E]așa mi-o [Am]zâs
+[Dm]Potica^rasu [E]așa mi-o [Am]zâs
 [Dm]Leacuri [Am]la i[E]rima [Am]nu-s
-[Dm]Leacuri [E]la i[Am]rima [Am]nu-s.
+[Dm]Leacuri [E]la i[Am]rima ^nu-s.
 [Am]Păi la i[E]rima [Am]este un [E]leac
-[Dm]Păi la i[Dm]rima [E]este un [Am]leac
+[Dm]Păi la i^rima [E]este un [Am]leac
 [Dm]Cete[Am]ra și [E]omu' [Am]drag
-[Dm]Cete[E]ra și [Am]omu' [Am]drag.
+[Dm]Cete[E]ra și [Am]omu' ^drag.
 [Am]Păi la i[E]rima [Am]este-un [E]țâfru
-[Dm]Păi la i[Dm]rima [E]este-un [Am]țâfru
+[Dm]Păi la i^rima [E]este-un [Am]țâfru
 [Dm]Cete[Am]ra și [E]omul mân[Am]dru
-[Dm]Cete[E]ra și [Am]omul mân[Am]dru
+[Dm]Cete[E]ra și [Am]omul mân^dru
 [Am]Dai mai pre[E]tine, [Am]eu și [E]tu
-[Dm]Dai mai pre[Dm]tine, [E]eu și [Am]tu
+[Dm]Dai mai pre^tine, [E]eu și [Am]tu
 [Dm]Soahan [Am]n-om vi[E]de' Ra[Am]iu'
-[Dm]Soahan [E]n-om vi[Am]de' Ra[Am]iu'.
+[Dm]Soahan [E]n-om vi[Am]de' Ra^iu'.
 [Am]Și Rai[E]ule [Am]sănă[E]tos
-[Dm]Și Rai[Dm]ule [E]sănă[Am]tos
+[Dm]Și Rai^ule [E]sănă[Am]tos
 [Dm]Noi om [Am]mer' mai [E]pe din [Am]gios
-[Dm]Noi om [E]mer' mai [Am]pe din [Am]gios.
+[Dm]Noi om [E]mer' mai [Am]pe din ^gios.
 [Am]Și Rai[E]ule [Am]cu plă[E]cere
-[Dm]Și Rai[Dm]ule [E]cu plă[Am]cere
+[Dm]Și Rai^ule [E]cu plă[Am]cere
 [Dm]Noi mai [Am]pe din [E]gios om [Am]mere
-[Dm]Noi mai [E]pe din [Am]gios om [Am]mere.
+[Dm]Noi mai [E]pe din [Am]gios om ^mere.
 Notă:Atenție la forma de pronunție tipic maramureseana a unor cuvinte!
 Cântecul poate fi acompaniat folosind o tehnică de tip "brushing" după cum
 urmează:
@@ -21700,12 +21702,12 @@ Inventată parcă numai pentru noi.
 [Am]Depărtarea [E]asta [Am]nu mai are rost.
 Refren 1:
 [Dm]Între două [Am]zile [Dm]nu-i decât o [Am]noapte
-[Dm]Orologiul [Am]bate [E]miezul nopții [E]rar.
+[Dm]Orologiul [Am]bate [E]miezul nopții ^rar.
 [Dm]Te visez [Am]frumoasă [Dm]tristă și de[Am]parte
 [Dm]Unde să te [Am]caut [E]să te găsesc [Am]iar
 Refren 2:
 [Am]Și de-ar fi [E]când va fi [Am]iar duminica-[Dm]ntr-o zi
-[Am]Tu să te gân[Am]dești la [E]mine
+[Am]Tu să te gân^dești la [E]mine
 [Am]Nopți la rând [E]port în gând [Am]chipul tău și [Dm]ora când
 [Am]Am să mă în[E]torc la [Am]tine
 [Am]Ochii tăi mi-[E]acopăr [Am]de departe [E]steaua
@@ -22772,7 +22774,7 @@ Nu sunt [F]naiv, este [Fm]nativ să [C]zbori.
 Tine de [F]fler, e un [Fm]mister în [C]noi.
 Refren:
 [F]Sub privirea ta, [Fm]te voi aștepta
-[C]Îți voi aminti de [A(I)]noi  [A(I)] [A4] [Am(I)]
+[C]Îți voi aminti de [A(I)]noi  ^ [A4] [Am(I)]
 [F]Te voi cauta[Fm]=din [C]nou.
 Refren 3X
 ```
@@ -22927,7 +22929,7 @@ Bridge:
 [C]Vai ce bine, [D]vai ce bine,
 [C]Timișoara, [D]Timișoara,
 [C]Sunt acasă, [D]sunt cu tine,
-[C]Timișoara, [D]Timișoara, [D]hei...
+[C]Timișoara, [D]Timișoara, ^hei...
 [Em]Fug înspre a[G]pus,
 [Am]Hoți de rai, [Em]cauta
 [Am]Și-ai să le [D]afli [Em]hramul.
@@ -23564,9 +23566,9 @@ famstrong@yahoo.com
 [D]Când ploaia în parc ne [G]prindea și [A]totul era liniș[D]tit
 [D]Trăiam clipe care-aș fi [G]vrut să [A]n-aibă un sfâr[D]șit.
 Refren:
-[G]Un altul desi[A]gur te [D]va iubi mai [G]mult [G]=[Bm]=[A]
+[G]Un altul desi[A]gur te [D]va iubi mai [G]mult ^=[Bm]=[A]
 [A]Va fi un [G]alt înce[D]put
-[G]Nu știu desi[A]gur ce [D]ți-ai dori mai [G]mult [G]=[Bm]=[A]
+[G]Nu știu desi[A]gur ce [D]ți-ai dori mai [G]mult ^=[Bm]=[A]
 [A]Poate un [G]alt înce[D]put.
 [D]Acuma mi-e greu să mai [G]cred că [A]tot ce s-a-ntâm[D]plat
 [D]Mai poate fi măcar o [G]dată mai [A]poate fi adevă[D]rat
@@ -23593,17 +23595,17 @@ muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 261
 Pe o pânză de păian[A7]jen
 Și fiindcă ea nu se rupea
 A mai chemat un ele[D]fant.
-[D]Un, [D]Doi
+[D]Un, ^Doi
 [D]Doi elefanți se legănau
 Pe o pânză de păian[A7]jen
 Și fiindcă ea nu se rupea
 Au mai chemat un ele[D]fant.
-[D]Un, [D]Doi, [D]Trei
+[D]Un, ^Doi, ^Trei
 [D]Trei elefanți se legănau
 Pe o pânză de păian[A7]jen
 Și fiindcă ea nu se rupea
 Au mai chemat un ele[D]fant.
-[D]Un, [D]Doi, [D]Trei, [D]Patru
+[D]Un, ^Doi, ^Trei, ^Patru
 s.a.m.d. cred că până la 10 elefanți...
 Notă: Melodia cântecului probabil ca o știți din anii de grdinita...
 Nu știu dacă la sfârșitul cântecului mai era și o poanta sau o strofa mai
