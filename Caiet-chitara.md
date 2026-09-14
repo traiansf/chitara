@@ -16,6 +16,8 @@ Cele cinci culegeri, scanate, stau în [`surse/`](surse) — titlurile de mai su
 
 **Semnul `^` în notația inline** marchează un acord identic cu cel imediat anterior, lovit din nou fără silabă nouă (o bătaie în plus) sau prelungind o vocală pe mai multe lovituri (`[Dm]Dia^a^na^`, în loc de `[Dm]Dia[Dm]a[Dm]na[Dm]`) — mai lizibil decât repetarea acordului. Nu se confundă cu `/` de pe rândul de acorduri de deasupra versului, care are alt sens: o digitație alternativă a acordului precedent.
 
+**Măsura și bătaia:** dacă nu sunt menționate explicit la un cântec, se presupune măsura 4/4 și bătaia standard de folk: jos-jos-sus-sus-jos-sus (JJSSJS) — timpul 1 jos (lovitura accentuată, pe care se schimbă de obicei acordul), timpul 2 împărțit jos-sus, timpul 3 împărțit sus-jos, timpul 4 sus (o mișcare rapidă ce leagă natural măsura de următoarea). E aceeași bătaie cunoscută internațional ca „D DU UDU” (jos-jos-sus-sus-jos-sus), una dintre cele mai răspândite bătăi din muzica pop și acustică — vezi [explicația în engleză](https://bmusician.com/blog/guitar-strumming-patterns-for-beginners/) (pagina n-are ancore; caută „Pattern 4 – Down-Down-Up-Up-Down-Up”, în secțiunea *Basic Guitar Strumming Patterns Every Beginner Should Learn First* — aceeași bătaie apare mai jos și sub numele *the Island Strum*).
+
 **Acorduri actualizate:** la unele cântece acordurile din culegerile originale au fost înlocuite, de obicei după variante văzute pe YouTube — de pildă cele cântate de Cati Vișinescu. Sursa și pagina notate la fiecare cântec arată de unde vin versurile, nu neapărat acordurile.
 
 Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link direct; **alte** cântece ale acelorași artiști (necuprinse aici) sunt listate în [addendumul cu linkuri](Caiet-chitara-addendum.md) — 1755 de piese de la 47 de artiști. Acestea apar și în [indexul pe artiști](#index-pe-artiști), marcate cu 🌐 (1356 de piese, după eliminarea variantelor duplicate — linkul duce la varianta cu cele mai multe aprecieri).
@@ -867,35 +869,35 @@ Refren x2
 **Ukulele:** C 0003 · C7 0001 · F 2010 · Fm 1013 · Am 2000 · G 0232
 
 ```text
-[C]Soarele mai strălucește [C7]șters
-Dar [F]pân' la munte [Fm]mai avem de [C]mers
-[Am]Gândul zboară tot mai sus a[G]cum
-[F]Hai veniți cu [G]noi, haideți la [C]drum. [fill]
+[C]Soarele mai ^strălucește [C7]șters  ^
+Dar [F]pân' la munte [Fm]mai avem de [C]mers  ^
+[Am]Gândul zboară ^tot mai sus a[G]cum  ^
+[F]Hai veniți cu [G]noi, haideți la [C]drum. ^[fill]
 
-[C]Către munții noștri plecăm [C7]iar
-Căci [F]noi de altce[Fm]va n-avem ha[C]bar
-[Am]Visurile le purtăm pe [G]frunți
-[F]Haideți cu [G]noi, haideți sus în [C]munți.
+[C]Către munții ^noștri plecăm [C7]iar  ^
+Căci [F]noi de altce[Fm]va n-avem ha[C]bar  ^
+[Am]Visurile ^le purtăm pe [G]frunți  ^
+[F]Haideți cu [G]noi, haideți sus în [C]munți.  ^
 
 Refren:
-[Am]Veseli toți trăim doar clipa [F]când ne întâlnim
-[C]Și visăm cu sufletul în [G]munți
+[Am]Veseli toți tră^im doar clipa [F]când ne întâl^nim
+[C]Și visăm cu ^sufletul în [G]munți  ^
 [C]Asta e nu [C7]ai ce-i face, [F]alții mama [Fm]nu mai face
-[C]Și așa ca [G]noi nu sunt prea [C]mulți.
+[C]Și așa ca [G]noi nu sunt prea [C]mulți.  ^
 
-[Am]Veseli toți trăim doar clipa [F]când ne matolim
-[C]Și visăm la vodcă și la [G]țuici (țuici, țuici)
+[Am]Veseli toți tră^im doar clipa [F]când ne mato^lim
+[C]Și visăm la ^vodcă și la [G]țuici (țuici, ^țuici)
 [C]Căci asta e nu [C7]ai ce-i face, [F]alții mama [Fm]nu mai face
-[C]Și așa ca [G]noi nu sunt prea [C]mulți.
+[C]Și așa ca [G]noi nu sunt prea [C]mulți.  ^
 
-[C]Noi fără chitară nu pu[C7]tem
-[F]Fiindcă-i mult prea [Fm]liniște în [C]tren
-[Am]Iar cu nașu' oricum n-o pă[G]țim
-[F]Căci el ne iu[G]bește și-l iu[C]bim.
-[C]Frunză verde ramură de [C7]brad
-Păi [F]este iarnă [Fm]dar murim de [C]cald
-[Am]În noi pălincuța cântă-a[G]cum
-[F]Și ne spune [G]baftă și drum [C]bun.
+[C]Noi fără chi^tară nu pu[C7]tem  ^
+[F]Fiindcă-i mult prea [Fm]liniște în [C]tren ^
+[Am]Iar cu nașu' ^oricum n-o pă[G]țim  ^
+[F]Căci el ne iu[G]bește și-l iu[C]bim.  ^
+[C]Frunză verde ^ramură de [C7]brad  ^
+Păi [F]este iarnă [Fm]dar murim de [C]cald  ^
+[Am]În noi pălin^cuța cântă-a[G]cum  ^
+[F]Și ne spune [G]baftă și drum [C]bun.  ^
 
 Refren + /Și așa ca noi nu sunt prea mulți./ x3
 ```
@@ -909,6 +911,7 @@ Refren + /Și așa ca noi nu sunt prea mulți./ x3
 **Ukulele:** Am 2000 · C 0003 · G 0232
 
 ```text
+[Am]___      ^____   ^ ___            ^
 [Am]În codru [C]verde [G]nu se mai [Am]vede
 [G]Nu se mai [C]pierde [G]urmă de [Am]cal
 [Am]Pe la iz[C]voare [G]nu mai a[Am]pare
@@ -987,7 +990,7 @@ Refren:
 [Dm]La drumul [F]mare [C]nu mai [Dm]apare
 [C]Să mai o[F]moare [A]câte-un cio[Dm]coi.
 [Dm]Să-i ia toți [F]banii [C]pentru ță[Dm]ranii
-[C]Pentru săr[F]mani [A]plini de ne[Dm]voi.
+[C]Pentru săr[F]manii [A]plini de ne[Dm]voi.
 Refren
 Notă: aceasta variantă difera puțin de cea transcrisă de mine dar sună și ea
 bine J
@@ -1003,32 +1006,48 @@ bine J
 
 ```text
 
-[C]        Azi totu-mi pare schim^bat, ^tinerețea-ncet s-a [Dm]scurs
+[C]  Azi to^tu-mi pare schim^bat,  ^ 
+[C]  Tine^rețea-ncet s-a [Dm]scu^urs
+[Dm]  Îți amin^tești cum ne-am plim[F]bat  ^
+[G]  Sus pe ^creastă la a[C]pus.  ^
 
-[Dm]   Îți amintești cum ne-am plim[F]bat [G]sus pe creastă la a[C]pus
-[C]    Flori de munte-am adu^nat, ^pe toate le-am îndră[Dm]git
-[Dm]   Printre stânci noi ne-am ju[F]cat [G]pe vremea când ne-am iu[C]bit
+[C]  Flori de ^munte-am adu^nat,  ^ 
+[C]  Pe toate le-am îndră[Dm]gi^it
+[Dm]  Printre ^stânci noi ne-am ju[F]cat  ^
+[G]  Pe vre^mea când ne-am iu[C]bit  ^
 
 Refren:
-[C]O o o Mâine, voi urca iar în [Dm]creastă
-Amintirile mă [F]cheamă  ^
-[G]Mâine vesel iar voi [C]fi
+O o o [C]Mâine, 
+[C]  Voi urca iar în [Dm]creastă  
+[Dm]  Amintirile mă [F]cheamă  ^
+[G]  Mâine ^vesel iar voi [C]fi  ^
 
-[C]O o o Mâine, voi porni înspre [Dm]tine
-Să-ți trezesc în amin[F]tire ^
-[G]Tot ce crezi că vis a [C]fost
+O o o [C]Mâine, 
+[C]  voi porni înspre [Dm]tine
+[Dm]  Să-ți trezesc în amin[F]tire ^
+[G]  Tot ce ^crezi că vis a [C]fost ^
 
-[C]  Îți amintești, în Făgă^raș, ^capre negre am întâl[Dm]nit
-[Dm] Nu eram într-un o[F]raș, [G]dar eram la asfin[C]țit
-[C]  Cerul îndată s-a înste^lat ^când spre Bâlea am pri[Dm]vit
-[Dm]Dar ce folos, tu ai ui[F]tat [G]și frumosul l-ai stri[C]vit
+[C]  Îți amin^tești, în Făgă^raș,  ^ 
+[C]  Capre negre am întâl[Dm]ni^it 
+[Dm]  Nu e^ram într-un o[F]raș,  ^
+[G]  Dar e^ram la asfin[C]țit.  ^
+
+[C]  Cerul în^dată s-a înste^lat  ^ 
+[C]  Când spre ^Bâlea am pri[Dm]vi^it
+[Dm]  Dar ce fo^los, tu ai ui[F]tat  ^ 
+[G]  Și fru^mosul l-ai stri[C]vit  ^
 
 Refren
 
-[C]  Pentru tine totu-i ^vis ^și frumosul de-altă [Dm]dat’
-[Dm] Mai frumos ca-n para[F]dis [G]l-ai lăsat fără of[C]tat
-[C]Dar crucea mea de-ai întâl^ni, ^pe-un vâlcel sau vreun ver[Dm]sant
-[Dm] Eu te rog nu te o[F]pri, [G]uită tot ce ți-am cân[C]tat
+[C]  Pentru ^tine totu-i ^vis  ^ 
+[C]  Și fru^mosul de-altă [Dm]da^at
+[Dm]  Mai fru^mos ca-n para[F]dis  ^ 
+[G]  L-ai lă^sat fără of[C]tat.  ^
+
+[C]  Dar crucea ^mea de-ai întâl^ni,  ^ 
+[C]  pe-un vâl^cel sau vreun ver[Dm]sa^ant
+[Dm]  Eu te ^rog nu te o[F]pri,  ^ 
+[G]  Uită ^tot ce ți-am cân[C]tat ^
 
 Refren
 ```
