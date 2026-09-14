@@ -40,6 +40,30 @@ def emit_chords_data(path):
         encoding="utf-8")
 
 
+INLINE_CHORD_RE = re.compile(r"\[([A-G][^\]]*)\]|\^")
+
+
+def inline_tokens(ln):
+    """[(rendered_column, label)] for each chord/collapsed-repeat token,
+    where rendered_column is its position once brackets/^ collapse to
+    zero width (i.e. the column the floated label would need)."""
+    tokens, col, i = [], 0, 0
+    for m in INLINE_CHORD_RE.finditer(ln):
+        col += m.start() - i
+        label = m.group(1) if m.group(1) is not None else "/"
+        tokens.append((col, label))
+        i = m.end()
+    return tokens
+
+
+def fits_floating(tokens):
+    """False if any two floated labels would overlap: a label anchored at
+    column c occupies [c, c+len(label)), so it collides with the next
+    anchor if that starts before the label ends."""
+    return all(b - a >= len(label) for (a, label), (b, _) in
+               zip(tokens, tokens[1:]))
+
+
 def render_pre_interactive(body_lines):
     """Like make_pdf.render_pre, but every chord token gets its own
     <span data-chord="..."> (not one span per whole chord-only line), so
@@ -69,20 +93,53 @@ def render_pre_interactive(body_lines):
                 pos = m.end()
             pieces.append(html.escape(ln[pos:], quote=False))
             out.append(f'<span class="ln">{"".join(pieces)}</span>')
-        else:
-            # Match against the raw line, not a pre-escaped one — escaping
-            # ln once, then matching/re-escaping the captured group again,
-            # double-escapes any &/</>/" already inside it.
-            pieces, pos = [], 0
-            for m in re.finditer(r"\[([A-G][^\]]*)\]", ln):
-                pieces.append(html.escape(ln[pos:m.start()], quote=False))
+            continue
+
+        tokens = inline_tokens(ln)
+        if not tokens:
+            # No inline chord or collapsed-repeat on this line: leave
+            # verbatim, including any literal "^" — that's the unrelated
+            # pre-existing tab-notation up-stroke marker (documented in the
+            # annex), not our collapsed-repeat marker, which never appears
+            # without a chord on the same line (collapse_repeated_chords.py
+            # never collapses the first chord of a line).
+            out.append(f'<span class="ln">{html.escape(ln, quote=False)}</span>')
+            continue
+
+        # Match against the raw line, not a pre-escaped one — escaping ln
+        # once, then matching/re-escaping the captured group again, double-
+        # escapes any &/</>/" already inside it. A bare "^" here is a
+        # repeated chord collapsed by collapse_repeated_chords.py (see
+        # CLAUDE.md); render it like the customary lead-sheet "/" for
+        # "hold/restrike the previous chord".
+        floating = fits_floating(tokens)
+        # Floating lifts each chord (and "/") onto its own line above the
+        # lyrics via .ch-anchor, so the song reads like the chords-above-
+        # lyrics songs instead of showing brackets inline. But a floated
+        # label is positioned by its left edge only, so two labels packed
+        # within a character or so of each other (e.g. the "=" quick-
+        # change shorthand, ^=[Bm]=[A]) would visually overlap; for those
+        # rare lines fall back to the old inline-with-brackets rendering,
+        # still translating ^ to a literal "/", just not floated.
+        pieces, pos = [], 0
+        for m in INLINE_CHORD_RE.finditer(ln):
+            pieces.append(html.escape(ln[pos:m.start()], quote=False))
+            if m.group(1) is not None:
                 tok = m.group(1)
                 attr = html.escape(tok, quote=True)
                 text = html.escape(tok, quote=False)
-                pieces.append(f'[<span class="ch" data-chord="{attr}">{text}</span>]')
-                pos = m.end()
-            pieces.append(html.escape(ln[pos:], quote=False))
-            out.append(f'<span class="ln">{"".join(pieces)}</span>')
+                ch_span = f'<span class="ch" data-chord="{attr}">{text}</span>'
+                pieces.append(
+                    f'<span class="ch-anchor">{ch_span}</span>' if floating
+                    else f'[{ch_span}]')
+            else:
+                pieces.append(
+                    '<span class="ch-anchor"><span class="rep">/</span></span>'
+                    if floating else '/')
+            pos = m.end()
+        pieces.append(html.escape(ln[pos:], quote=False))
+        cls = "ln has-float" if floating else "ln"
+        out.append(f'<span class="{cls}">{"".join(pieces)}</span>')
     return "".join(out)
 
 

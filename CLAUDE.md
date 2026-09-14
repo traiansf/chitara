@@ -88,6 +88,14 @@ butoane de transpunere a acordurilor) publicat pe GitHub Pages din
 plus `nav.js`/`site.css`), copiată neschimbată în `docs/assets/` la
 fiecare rulare; `docs/` însuși nu se editează manual, la fel ca PDF-ul.
 
+Pe site (nu și în PDF, deocamdată), cântecele cu notație inline sunt afișate
+ca cele cu acorduri deasupra versului: fiecare acord (și `^`, ca `/`) e scos
+din text și „plutește” deasupra silabei, via `.ch-anchor` (CSS, coloană
+absolută, lățime zero — nu rescrie linia). Dacă două acorduri ar cădea prea
+aproape ca să încapă plutind (acordurile înghesuite cu `=`), linia aceea
+rămâne în stilul vechi, cu paranteze inline — `fits_floating()` decide per
+linie.
+
 **Istorice** — au construit caietul și rulează *înaintea* reorganizării, pe
 structura plată în trei părți cu cântecele la `###`: `extract_*.py`,
 `build_data.py`, `compile_caiet.py`, `karban_merge.py`, `dedup_songs.py`,

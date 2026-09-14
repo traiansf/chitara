@@ -20,9 +20,26 @@ pre {
   font-size: 0.95rem;
 }
 .ln { display: block; white-space: pre-wrap; }
+/* Floated chords are absolutely positioned at the character column they
+   were written at; if the line wrapped, that column would land on
+   whatever now sits above it on the wrapped continuation, overlapping
+   letters instead of just drifting out of alignment (as the harmless
+   chords-above-lyrics wrap does, since there the chord row is a normal
+   block element, never overlapping). So floated lines don't wrap; the
+   surrounding <pre> already scrolls horizontally for exactly this case. */
+.ln.has-float { padding-top: 1.2em; white-space: pre; }
 .bl { display: block; height: 0.7em; }
 .ch { color: #8b1a1a; font-weight: bold; cursor: help; }
 .fingering[data-chord] { cursor: help; }
+/* Inline [Chord] songs: render like chords-above-lyrics songs by lifting
+   the chord out of the text flow onto a floating line above, instead of
+   showing it inline with brackets. The anchor is zero-width so it doesn't
+   push the following lyric text sideways; the floated child is positioned
+   relative to it, landing above the lyric line at the exact column where
+   the chord was written. */
+.ch-anchor { position: relative; display: inline-block; width: 0; }
+.ch-anchor > * { position: absolute; left: 0; bottom: 1.2em; white-space: nowrap; }
+.rep { color: #444; font-weight: bold; }
 
 .chord-tooltip {
   position: fixed; z-index: 20;
