@@ -2661,10 +2661,10 @@ R:
 [A]Pe sub flori mă [D]legănai, [A7]   [D]
 
 2.
-Sus e cerul largă-i lumea
-N-o ști nimeni că m-am dus
-Bine c-a-nfrunzit pădurea
-Numai or vedea că nu-s.
+[D]Sus e [D]cerul [D]largă-i [D]lumea
+[A]N-o ști [A]nimeni [D]că m-am [A]dus [A]
+[D]Bine [D]c-a-nfrun[D]zit pă[D]durea
+[A]Numai [A]or ve[D]dea [A]că [D]nu-s.
 ```
 
 #### 43. Hai dihai (II)
@@ -2700,63 +2700,67 @@ Notă:D7 - Se cantă la repetarea refrenului
 **Ukulele:** D 2220 · A 2100 · G 0232 · C 0003
 
 ```text
-                         D
-Dacă ai un dor ce te framântă
-                       A
-Nu căta că-i drum obositor
-                        G
-Hai prietene cu min' pe stâncă
- A                D
-Pe cărările Bucegilor.
-Pe cărări umblate doar de ciute
-Sub aripa Caraimanului
-Ai s-auzi povești necunoscute
-Spuse doar de glasul muntelui.
+[D]Dacă ai un dor ce te fra[D]mântă
+[D]Nu căta că-i drum obosi[A]tor
+[A]Hai prietene cu min' pe [G]stâncă
+[A]Pe cărările Bucegi[D]lor.
 
-C
-Când Bucegii dau zvon de piatră si
-   A
-izvoare
-           G   A                   D
-Oriunde-ai fi răspunde la a lor chemare
-Caraimanul, Coștilă-ascunsă dup'-un nor
-Și Morarul te vor primi la pieptul lor.
+[D]Pe cărări umblate doar de [D]ciute
+[D]Sub aripa Caraimanu[A]lui
+[A]Ai s-auzi povești necunos[G]cute
+[A]Spuse doar de glasul munte[D]lui.
 
-Pe platou la mare înălțime
-Babele la sfat s-au adunat
-Numai Baba Mare stă deoparte
-Și-și pune întrebari neîncetat.
-Oare Sfinxul care tace-ntr-una
-Și priveste în zari nepăsător
-Se iubeste-n taină cu Bătrâna
-Sau le face curte Doamnelor.
+Refren:
+[D]  Când Bu[D]cegii[D] dau zvon de piatră si iz[A]voare
+[A] Oriunde-ai [G]fi [A]răspunde la a lor che[D]mare
+[D]  Carai[D]manul,[D] Coștila-ascunsă dup'-un [A]nor
+Și Mo[G]rarul [A]te vor primi la pieptul [D]lor. [D]
 
-Jos în Peștera întunecoasă
-Stă bătrânul schit uitat de ani
-Aici doina-ți pare mai duioasă
-Îngânată de batrâni ciobani.
-Numai starețul cu barba-i albă
-Adâncit în rugăciunea lui
-Spune-ncet cu vocea lui domolă
-Prăvila străveche a muntelui.
+[D]Pe platou la mare înăl[D]țime
+[D]Babele la sfat s-au adu[A]nat
+[A]Numai Baba Mare stă deo[G]parte
+[A]Și-și pune întrebari neînce[D]tat.
 
-Pe Morar în nopti cu lună plină
-Sau pe brânele Bucșoiului
-Vin scăldate parcă în lumină
-Zânele din Valea Cerbului.
-Au pe cap cununi de campanulă
-Și în plete flori de colț de-argint
-Capre negre-n colț de piatră sură
-Străjuiesc în noapte locul sfânt.
+[D]Oare Sfinxul care tace-ntr-[D]una
+[D]Și priveste în zari nepăsă[A]tor
+[A]Se iubeste-n taină cu Bă[G]trâna
+[A]Sau le face curte Doamne[D]lor.
 
-De la Vârful Omu pâna-n zare
-Dunărea albastră poți s-o vezi
-Piatra Craiului si Piatra Mare
-Făgărasul cu-ale lui zăpezi.
-Hoinărind vreodată pe-o cărare
-Dac-o cruce-n cale-ai întâlnit
-Nu uita să pui măcar o floare
-Pentru cel ce muntele-a iubit.
+Refren
+
+[D]Jos în Peștera întune[D]coasă
+[D]Stă bătrânul schit uitat de [A]ani
+[A]Aici doina-ți pare mai du[G]ioasă
+[A]Îngânată de batrâni cio[D]bani.
+
+[D]Numai starețul cu barba-i [D]albă
+[D]Adâncit în rugăciunea [A]lui
+[A]Spune-ncet cu vocea lui do[G]molă
+[A]Prăvila străveche a munte[D]lui.
+
+Refren
+
+[D]Pe Morar în nopti cu lună [D]plină
+[D]Sau pe brânele Bucșoiu[A]lui
+[A]Vin scăldate parcă în lu[G]mină
+[A]Zânele din Valea Cerbu[D]lui.
+
+[D]Au pe cap cununi de campa[D]nulă
+[D]Și în plete flori de colț de-ar[A]gint
+[A]Capre negre-n colț de piatră [G]sură
+[A]Străjuiesc în noapte locul [D]sfânt.
+
+Refren
+
+[D]De la Vârful Omu pâna-n [D]zare
+[D]Dunărea albastră poți s-o [A]vezi
+[A]Piatra Craiului si Piatra [G]Mare
+[A]Făgărasul cu-ale lui ză[D]pezi.
+
+[D]Hoinărind vreodată pe-o că[D]rare
+[D]Dac-o cruce-n cale-ai întâl[A]nit
+[A]Nu uita să pui măcar o [G]floare
+[A]Pentru cel ce muntele-a iu[D]bit.
 ```
 
 #### 45. Imnul Dianei (I)
@@ -2820,11 +2824,9 @@ De îndată ce-am ajuns în Crai.
 **Ukulele:** Dm 2210 · C 0003 · F 2010
 
 ```text
-Dm              C          Dm
-Și-am pornit să reclădim Diana
-       F    C          Dm   C  Dm
-Un refugiu vechi și părăsit
-          F        C        Dm C  Dm
+[Dm]Și-am por[Dm]nit să [C]reclă[C]dim [Dm]Dia[Dm]a[Dm]na[Dm]
+[Dm]Un re[F]fugiu [C]vechi și [C]pără[Dm]si[C]i[Dm]it[Dm]
+        F       C        Dm C  Dm
 Și-am lăsat șprițul și damigeană
          F      C          Dm     C  Dm
 Și spre Plaiul Foii am pornit.
