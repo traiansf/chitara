@@ -41,14 +41,14 @@ def emit_chords_data(path):
 
 
 INLINE_CHORD_RE = re.compile(r"\[([A-G][^\]]*)\]|\^")
-MIN_LABEL_GAP = 0.6  # ch units of breathing room between adjacent floats
+MIN_LABEL_GAP = 1  # whole characters of breathing room between adjacent floats
 
 
 def inline_tokens(ln):
     """[(nominal_column, label)] for each chord/collapsed-repeat token,
     where nominal_column is its position once brackets/^ collapse to zero
-    width (i.e. the column the floated label would sit at if there were
-    no crowding)."""
+    width (i.e. the column its syllable sits at before any crowding-nudge
+    widens the gap before it)."""
     tokens, col, i = [], 0, 0
     for m in INLINE_CHORD_RE.finditer(ln):
         col += m.start() - i
@@ -59,18 +59,24 @@ def inline_tokens(ln):
 
 
 def layout_floating(tokens):
-    """[(left_ch, label)]: nominal columns nudged right just enough that
-    no two floated labels touch or overlap. A label at column c occupies
-    [c, c+len(label)); when the next token's nominal column would land
-    inside that span (or right against it), push it to end + MIN_LABEL_GAP
-    instead. Nudges cascade left to right, so a tightly packed run (e.g.
-    the "=" quick-chord-change shorthand, ^=[Bm]=[A]) still renders with
-    every label visible and legible, just drifting right of its exact
-    source column instead of falling back to unfloated brackets."""
-    out, right_edge = [], None
+    """[(spaces_before, left, label)]: nominal columns nudged right just
+    enough that no two floated labels touch or overlap. A label at column
+    c occupies [c, c+len(label)+MIN_LABEL_GAP); when the next token's
+    nominal column would land inside that span, both the label AND its
+    syllable move right by the same amount — spaces_before literal spaces
+    get inserted into the rendered lyric text right before that token's
+    source position, so the chord stays glued above the syllable it
+    belongs to instead of drifting away from it. Nudges cascade left to
+    right, so a tightly packed run (e.g. the "=" quick-chord-change
+    shorthand, ^=[Bm]=[A]) still renders with every label visible and
+    legible, just with a bit of extra space inserted before it."""
+    out, extra, right_edge = [], 0, None
     for col, label in tokens:
-        left = col if right_edge is None else max(col, right_edge)
-        out.append((left, label))
+        eff_col = col + extra
+        spaces_before = 0 if right_edge is None else max(0, right_edge - eff_col)
+        extra += spaces_before
+        left = eff_col + spaces_before
+        out.append((spaces_before, left, label))
         right_edge = left + len(label) + MIN_LABEL_GAP
     return out
 
@@ -119,19 +125,27 @@ def render_pre_interactive(body_lines):
 
         # Lift each chord (and "^", shown as the customary lead-sheet "/"
         # for "hold/restrike the previous chord") onto its own floated row
-        # above the lyrics, positioned by explicit left offset (in ch units
-        # — layout_floating nudges crowded labels right of their source
-        # column so they never touch or overlap) rather than inline
-        # brackets, so the song reads like the chords-above-lyrics songs.
-        lyric, pos = [], 0
-        for m in matches:
+        # above the lyrics, positioned by explicit left offset (in ch units,
+        # from the start of the line) rather than inline brackets, so the
+        # song reads like the chords-above-lyrics songs. All floats anchor
+        # off one zero-width, zero-height marker at the very start of the
+        # line (.ln-anchor) — it sits inline at the text's own baseline, so
+        # "bottom" on a float measures from that baseline, not from the
+        # bottom of the .ln block (which would include the padding-top
+        # reserved for the float row, pushing floats down into the text).
+        # layout_floating nudges a crowded label's column right (e.g. the
+        # "=" quick-chord-change shorthand, ^=[Bm]=[A]) and reports how many
+        # literal spaces to insert into the lyric text at that point too,
+        # so the chord stays glued above the syllable it belongs to instead
+        # of drifting away from it.
+        lyric, floats, pos = [], [], 0
+        for (spaces_before, left, label), m in zip(
+                layout_floating(inline_tokens(ln)), matches):
             lyric.append(html.escape(ln[pos:m.start()], quote=False))
+            if spaces_before:
+                lyric.append(" " * spaces_before)
             pos = m.end()
-        lyric.append(html.escape(ln[pos:], quote=False))
-
-        floats = []
-        for (left, label), m in zip(layout_floating(inline_tokens(ln)), matches):
-            style = f'style="left:{left:.2f}ch"'
+            style = f'style="left:{left}ch"'
             if m.group(1) is not None:
                 attr = html.escape(label, quote=True)
                 text = html.escape(label, quote=False)
@@ -139,9 +153,11 @@ def render_pre_interactive(body_lines):
                     f'<span class="ch float" data-chord="{attr}" {style}>{text}</span>')
             else:
                 floats.append(f'<span class="rep float" {style}>/</span>')
+        lyric.append(html.escape(ln[pos:], quote=False))
 
         out.append(
-            f'<span class="ln has-float">{"".join(lyric)}{"".join(floats)}</span>')
+            f'<span class="ln has-float"><span class="ln-anchor">'
+            f'{"".join(floats)}</span>{"".join(lyric)}</span>')
     return "".join(out)
 
 

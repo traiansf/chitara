@@ -2838,9 +2838,9 @@ Dar [C]vino ^să mă [Dm]iei! ^Na na ^na na ^na na na
 Dar [C]lasă-^mă-n Car[Dm]pați ! [C] [Dm] ^
 
 [Dm]Și într-o ^zi ^cu [C]ploaie ^și cu [Dm]cea^a^ță
-[Dm]Cu ruc[F]sacii-n [C]spate ^și vop[Dm]sea [C] [Dm]
-/[Dm]În a[F]lertul [C]nostru ^pas de [Dm]ra[C]a[Dm]ță
-[Dm]Am ata[F]cat-o [C]pe Di^aa[Dm]na. [C] [Dm]/ x2
+[Dm]Cu ruc[F]sa^cii-n [C]spate ^și vop[Dm]sea [C] [Dm]
+/[Dm]În a[F]ler^tul [C]nostru ^pas de [Dm]ra[C]a[Dm]ță
+[Dm]Am ata[F]ca^t-o [C]pe Di^aa[Dm]na. [C] [Dm]/ x2
 
 Refren
 

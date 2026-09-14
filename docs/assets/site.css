@@ -24,20 +24,28 @@ pre {
    each chord (and collapsed-repeat "^", shown as "/") out of the text
    flow onto a floating row above, instead of showing it inline with
    brackets. Each .float span gets an explicit left:Nch from
-   generate_html.py's layout_floating(), normally its exact source
-   column, nudged right only when it would otherwise touch or overlap
-   the previous label (e.g. the "=" quick-chord-change shorthand). Floated
-   lines are absolutely positioned at a fixed character column, which
-   would land on whatever now sits above it on a wrapped continuation,
-   overlapping letters instead of just drifting out of alignment (as the
-   harmless chords-above-lyrics wrap does, since there the chord row is a
-   normal block element, never overlapping) — so floated lines don't
-   wrap; the surrounding <pre> already scrolls horizontally for this. */
-.ln.has-float { position: relative; padding-top: 1.25em; white-space: pre; }
+   generate_html.py's layout_floating() — the column of the syllable it
+   belongs to, nudged right (together with that syllable, via inserted
+   spaces in the lyric text) only when it would otherwise touch or
+   overlap the previous label (e.g. the "=" quick-chord-change shorthand).
+   .ln-anchor is a zero-size marker at the very start of the line, sitting
+   inline at the text's own baseline; every .float in that line positions
+   off it (left relative to column 0, bottom relative to the baseline),
+   not off the .ln block itself (whose bottom edge is padding-top + one
+   text line down from the baseline, which would place floats too low,
+   overlapping the lyric text). Floated lines are absolutely positioned at
+   a fixed character column, which would land on whatever now sits above
+   it on a wrapped continuation, overlapping letters instead of just
+   drifting out of alignment (as the harmless chords-above-lyrics wrap
+   does, since there the chord row is a normal block element, never
+   overlapping) — so floated lines don't wrap; the surrounding <pre>
+   already scrolls horizontally for this. */
+.ln.has-float { padding-top: 1.25em; white-space: pre; }
+.ln-anchor { position: relative; display: inline-block; width: 0; }
 .bl { display: block; height: 0.7em; }
 .ch { color: #8b1a1a; font-weight: bold; cursor: help; }
 .fingering[data-chord] { cursor: help; }
-.float { position: absolute; bottom: 0.75em; white-space: nowrap; }
+.float { position: absolute; left: 0; bottom: 0.75em; white-space: nowrap; }
 .rep { color: #444; font-weight: bold; }
 
 .chord-tooltip {
