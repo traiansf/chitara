@@ -2461,8 +2461,8 @@ Să o a[G]jung pe fata munți[C]lor./ x2
 4.
 [C] ^ Într-o po^iană lâng-un mic iz^vor
 Stătea în[C]tinsă fata munți^lor
-Și-o luai pe [F]calul meu și nu mai [C]știu nici eu
-De-atâta [G]foc și dor ce-o săru[C]tai.
+/Și-o luai pe [F]calul meu și nu mai [C]știu nici eu
+De-atâta [G]foc și dor ce-o săru[C]tai./ x2
 
 5.
 [C] ^ În Piatra ^Craiului venit-am ^iară
@@ -2826,52 +2826,41 @@ De îndată ce-am ajuns în Crai.
 **Ukulele:** Dm 2210 · C 0003 · F 2010
 
 ```text
-[Dm]Și-am por^nit să [C]reclă^dim [Dm]Dia^a^na^
-[Dm]Un re[F]fugiu [C]vechi și ^pără[Dm]si[C]i[Dm]it^
-        F       C        Dm C  Dm
-Și-am lăsat șprițul și damigeană
-         F      C          Dm     C  Dm
-Și spre Plaiul Foii am pornit.
-         F         C        Dm C  Dm
-Și-am lăsat șprițul și damigeană
-         F      C          Dm
-Și spre Plaiul Foii am pornit.
+[Dm]Și-am por^nit ^să [C]reclă^dim [Dm]Dia^a^na
+[Dm]Un re[F]fu^giu [C]vechi și ^pără[Dm]sit [C] [Dm]
+/[Dm]Și-am [F]lăsat ^șpri[C]țul și ^dami[Dm]gea[C]a[Dm]na
+[Dm]Și din [F]Pla^iul [C]Foii ^am por[Dm]nit.[C] [Dm]/x2
 
 Refren:
+[Dm]Ma^mă [C]un^de [F]ești?^ [C]Bate-^mă de [Dm]vrei ^
+Dar [C]vino ^să mă [Dm]iei! ^Na na ^na na ^na na na 
+[Dm]Ma^mă [C]un^de [F]ești?^ [C]Poți să ^mă și [Dm]bați ^
+Dar [C]lasă-^mă-n Car[Dm]pați ! [C] [Dm] ^
 
- Dm  C    F     C          Dm
-Mamă unde ești? Bate-mă de vrei
-C              Dm
-Dar vino să mă iei! (Dar lasă-mă cu
-Mamă unde ești? Poți să mă și bați
-Dar lasă-mă-n Carpați ! (Dar să nu m
-mai iei)
-
-Și într-o zi cu ploaie și cu ceață
-Cu rucsacii-n spate și vopsea
-/În alertul nostru pas de rață
-Am atacat-o pe Diana./ x2
+[Dm]Și într-o ^zi ^cu [C]ploaie ^și cu [Dm]cea^a^ță
+[Dm]Cu ruc[F]sacii-n [C]spate ^și vop[Dm]sea [C] [Dm]
+/[Dm]În a[F]lertul [C]nostru ^pas de [Dm]ra[C]a[Dm]ță
+[Dm]Am ata[F]cat-o [C]pe Di^aa[Dm]na. [C] [Dm]/ x2
 
 Refren
 
-Scândură lungă, scândură lată
-O cărăm până ne facem mici
-/Și echipa noastră cocoșată
-Parcă-ar fi o ceată de pitici./ x2
+Scân[Dm]dură ^lun^gă, [C]scâân^dură [Dm]la^a^tă
+[Dm]O că[F]răm ^pâ[C]nă ne ^facem [Dm]mici [C] [Dm] 
+/[Dm]Și e[F]chi^pa [C]noastră-i ^coco[Dm]șa[C]a[Dm]tă
+[Dm]De parcă-am [F]fi ^o [C]ceată ^de pi[Dm]tici. [C] [Dm]/ x2
 
 Refren
 
-Totu-i bine până la-nserare
-Când cu calde lacrimi ne rugăm
-/O, Ceresc Părinte, îndurare!
-Fă mai cald să nu mai înghețăm./ x2
+[Dm]Totu-i ^bi^ne [C]până ^la-nse[Dm]ra^a^re
+[Dm]Când cu [F]cal^de [C]lacrimi ^ne ru[Dm]găm [C] [Dm]
+/[Dm]O, Ce[F]resc ^Pă[C]rinte, ^îndu[Dm]ra[C]a[Dm]re!
+[Dm]Fă mai [F]cald ^să [C]nu mai ^înghe[Dm]țăm. [C] [Dm]/ x2
 
 Refren
-ei)
-Și-am ajuns acolo toți o forță
-Și-ntr-o scurtă clipă de răgaz
-/Am aprins a tinereții torță
-De îndată ce-am ajuns în Crai./ x2
+[Dm]Și-am a^juns ^a[C]colo ^toți o [Dm]fo^or^ță
+[Dm]Și-ntr-o [F]scur^tă [C]clipă ^de ră[Dm]gaz [C] [Dm]
+/[Dm]Am a[F]prins ^a [C]tine^reții [Dm]to[C]o[Dm]rță
+[Dm]De în[F]da^tă [C]ce-am a^juns în [Dm]Crai. [C] [Dm]/ x2
 
 Refren x2
 ```
