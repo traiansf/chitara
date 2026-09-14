@@ -41,12 +41,14 @@ def emit_chords_data(path):
 
 
 INLINE_CHORD_RE = re.compile(r"\[([A-G][^\]]*)\]|\^")
+MIN_LABEL_GAP = 0.6  # ch units of breathing room between adjacent floats
 
 
 def inline_tokens(ln):
-    """[(rendered_column, label)] for each chord/collapsed-repeat token,
-    where rendered_column is its position once brackets/^ collapse to
-    zero width (i.e. the column the floated label would need)."""
+    """[(nominal_column, label)] for each chord/collapsed-repeat token,
+    where nominal_column is its position once brackets/^ collapse to zero
+    width (i.e. the column the floated label would sit at if there were
+    no crowding)."""
     tokens, col, i = [], 0, 0
     for m in INLINE_CHORD_RE.finditer(ln):
         col += m.start() - i
@@ -56,12 +58,21 @@ def inline_tokens(ln):
     return tokens
 
 
-def fits_floating(tokens):
-    """False if any two floated labels would overlap: a label anchored at
-    column c occupies [c, c+len(label)), so it collides with the next
-    anchor if that starts before the label ends."""
-    return all(b - a >= len(label) for (a, label), (b, _) in
-               zip(tokens, tokens[1:]))
+def layout_floating(tokens):
+    """[(left_ch, label)]: nominal columns nudged right just enough that
+    no two floated labels touch or overlap. A label at column c occupies
+    [c, c+len(label)); when the next token's nominal column would land
+    inside that span (or right against it), push it to end + MIN_LABEL_GAP
+    instead. Nudges cascade left to right, so a tightly packed run (e.g.
+    the "=" quick-chord-change shorthand, ^=[Bm]=[A]) still renders with
+    every label visible and legible, just drifting right of its exact
+    source column instead of falling back to unfloated brackets."""
+    out, right_edge = [], None
+    for col, label in tokens:
+        left = col if right_edge is None else max(col, right_edge)
+        out.append((left, label))
+        right_edge = left + len(label) + MIN_LABEL_GAP
+    return out
 
 
 def render_pre_interactive(body_lines):
@@ -95,8 +106,8 @@ def render_pre_interactive(body_lines):
             out.append(f'<span class="ln">{"".join(pieces)}</span>')
             continue
 
-        tokens = inline_tokens(ln)
-        if not tokens:
+        matches = list(INLINE_CHORD_RE.finditer(ln))
+        if not matches:
             # No inline chord or collapsed-repeat on this line: leave
             # verbatim, including any literal "^" — that's the unrelated
             # pre-existing tab-notation up-stroke marker (documented in the
@@ -106,40 +117,31 @@ def render_pre_interactive(body_lines):
             out.append(f'<span class="ln">{html.escape(ln, quote=False)}</span>')
             continue
 
-        # Match against the raw line, not a pre-escaped one — escaping ln
-        # once, then matching/re-escaping the captured group again, double-
-        # escapes any &/</>/" already inside it. A bare "^" here is a
-        # repeated chord collapsed by collapse_repeated_chords.py (see
-        # CLAUDE.md); render it like the customary lead-sheet "/" for
-        # "hold/restrike the previous chord".
-        floating = fits_floating(tokens)
-        # Floating lifts each chord (and "/") onto its own line above the
-        # lyrics via .ch-anchor, so the song reads like the chords-above-
-        # lyrics songs instead of showing brackets inline. But a floated
-        # label is positioned by its left edge only, so two labels packed
-        # within a character or so of each other (e.g. the "=" quick-
-        # change shorthand, ^=[Bm]=[A]) would visually overlap; for those
-        # rare lines fall back to the old inline-with-brackets rendering,
-        # still translating ^ to a literal "/", just not floated.
-        pieces, pos = [], 0
-        for m in INLINE_CHORD_RE.finditer(ln):
-            pieces.append(html.escape(ln[pos:m.start()], quote=False))
-            if m.group(1) is not None:
-                tok = m.group(1)
-                attr = html.escape(tok, quote=True)
-                text = html.escape(tok, quote=False)
-                ch_span = f'<span class="ch" data-chord="{attr}">{text}</span>'
-                pieces.append(
-                    f'<span class="ch-anchor">{ch_span}</span>' if floating
-                    else f'[{ch_span}]')
-            else:
-                pieces.append(
-                    '<span class="ch-anchor"><span class="rep">/</span></span>'
-                    if floating else '/')
+        # Lift each chord (and "^", shown as the customary lead-sheet "/"
+        # for "hold/restrike the previous chord") onto its own floated row
+        # above the lyrics, positioned by explicit left offset (in ch units
+        # — layout_floating nudges crowded labels right of their source
+        # column so they never touch or overlap) rather than inline
+        # brackets, so the song reads like the chords-above-lyrics songs.
+        lyric, pos = [], 0
+        for m in matches:
+            lyric.append(html.escape(ln[pos:m.start()], quote=False))
             pos = m.end()
-        pieces.append(html.escape(ln[pos:], quote=False))
-        cls = "ln has-float" if floating else "ln"
-        out.append(f'<span class="{cls}">{"".join(pieces)}</span>')
+        lyric.append(html.escape(ln[pos:], quote=False))
+
+        floats = []
+        for (left, label), m in zip(layout_floating(inline_tokens(ln)), matches):
+            style = f'style="left:{left:.2f}ch"'
+            if m.group(1) is not None:
+                attr = html.escape(label, quote=True)
+                text = html.escape(label, quote=False)
+                floats.append(
+                    f'<span class="ch float" data-chord="{attr}" {style}>{text}</span>')
+            else:
+                floats.append(f'<span class="rep float" {style}>/</span>')
+
+        out.append(
+            f'<span class="ln has-float">{"".join(lyric)}{"".join(floats)}</span>')
     return "".join(out)
 
 

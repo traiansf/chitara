@@ -90,11 +90,11 @@ fiecare rulare; `docs/` însuși nu se editează manual, la fel ca PDF-ul.
 
 Pe site (nu și în PDF, deocamdată), cântecele cu notație inline sunt afișate
 ca cele cu acorduri deasupra versului: fiecare acord (și `^`, ca `/`) e scos
-din text și „plutește” deasupra silabei, via `.ch-anchor` (CSS, coloană
-absolută, lățime zero — nu rescrie linia). Dacă două acorduri ar cădea prea
-aproape ca să încapă plutind (acordurile înghesuite cu `=`), linia aceea
-rămâne în stilul vechi, cu paranteze inline — `fits_floating()` decide per
-linie.
+din text și „plutește” deasupra silabei (CSS, `left:Nch` calculat de
+`layout_floating()` — nu rescrie linia). Coloana e cea din sursă, decalată
+spre dreapta doar cât trebuie ca să nu atingă acordul anterior (acordurile
+înghesuite cu `=` ajung deci ușor la dreapta poziției lor "exacte", dar
+rămân lizibile și separate, nu lipite).
 
 **Istorice** — au construit caietul și rulează *înaintea* reorganizării, pe
 structura plată în trei părți cu cântecele la `###`: `extract_*.py`,
