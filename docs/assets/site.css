@@ -27,7 +27,7 @@ pre {
    chords-above-lyrics wrap does, since there the chord row is a normal
    block element, never overlapping). So floated lines don't wrap; the
    surrounding <pre> already scrolls horizontally for exactly this case. */
-.ln.has-float { padding-top: 1.4em; white-space: pre; }
+.ln.has-float { padding-top: 1.5em; white-space: pre; }
 .bl { display: block; height: 0.7em; }
 .ch { color: #8b1a1a; font-weight: bold; cursor: help; }
 .fingering[data-chord] { cursor: help; }
@@ -38,7 +38,7 @@ pre {
    relative to it, landing above the lyric line at the exact column where
    the chord was written. */
 .ch-anchor { position: relative; display: inline-block; width: 0; }
-.ch-anchor > * { position: absolute; left: 0; bottom: 0.3em; white-space: nowrap; }
+.ch-anchor > * { position: absolute; left: 0; bottom: 0.45em; white-space: nowrap; }
 .rep { color: #444; font-weight: bold; }
 
 .chord-tooltip {
