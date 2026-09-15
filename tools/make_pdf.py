@@ -82,6 +82,63 @@ def is_chord_line(ln):
         t in SKIP_TOKENS or CHORD_RE.match(t) for t in toks)
 
 
+INLINE_CHORD_RE = re.compile(r"\[([A-G][^\]]*)\]|\^")
+MIN_LABEL_GAP = 1  # whole characters of breathing room between adjacent floats
+
+
+def inline_tokens(ln):
+    """[(nominal_column, label)] for each chord/collapsed-repeat token,
+    where nominal_column is its position once brackets/^ collapse to zero
+    width (i.e. the column its syllable sits at before any crowding-nudge
+    widens the gap before it)."""
+    tokens, col, i = [], 0, 0
+    for m in INLINE_CHORD_RE.finditer(ln):
+        col += m.start() - i
+        label = m.group(1) if m.group(1) is not None else "/"
+        tokens.append((col, label))
+        i = m.end()
+    return tokens
+
+
+def layout_floating(tokens, min_gap=MIN_LABEL_GAP):
+    """[(spaces_before, left, label)]: nominal columns nudged right just
+    enough that no two floated labels touch or overlap. A label at column
+    c occupies [c, c+len(label)+min_gap); when the next token's nominal
+    column would land inside that span, both the label AND its syllable
+    move right by the same amount — spaces_before literal spaces get
+    inserted into the rendered lyric text right before that token's
+    source position, so the chord stays glued above the syllable it
+    belongs to instead of drifting away from it. Nudges cascade left to
+    right, so a tightly packed run (e.g. the "=" quick-chord-change
+    shorthand, ^=[Bm]=[A]) still renders with every label visible and
+    legible, just with a bit of extra space inserted before it.
+
+    min_gap is in "characters" of the surrounding text — exact in a
+    monospace context (the HTML site), where a space is exactly as wide
+    as any other character. In a proportional font (make_pdf.py's
+    converted-song rendering) a space is narrower than an average bold
+    letter, so callers there should pass a larger min_gap to compensate;
+    len(label) alone would under-reserve room and let labels visually
+    fuse together."""
+    out, extra, right_edge = [], 0, None
+    for col, label in tokens:
+        eff_col = col + extra
+        spaces_before = 0 if right_edge is None else max(0, right_edge - eff_col)
+        extra += spaces_before
+        left = eff_col + spaces_before
+        out.append((spaces_before, left, label))
+        right_edge = left + len(label) + min_gap
+    return out
+
+
+def has_inline_chords(body):
+    """True if any non-chord-line in this song body carries a real [Chord]
+    bracket — i.e. the song uses Karban-style inline notation rather than
+    (or in addition to) chords-above-lyrics."""
+    real_chord = re.compile(r"\[([A-G][^\]]*)\]")
+    return any(not is_chord_line(ln) and real_chord.search(ln) for ln in body)
+
+
 def slug(text):
     s = unicodedata.normalize("NFC", text).lower()
     s = re.sub(r"[^\w\s-]", "", s, flags=re.UNICODE)
@@ -147,7 +204,8 @@ def parse(md_path):
         while body and not body[0]:
             body.pop(0)
         songs.append(dict(num=num, title=title, meta=meta, uke=uke, gtr=gtr,
-                          body=body, shrink=1.0, part=part_at[i]))
+                          body=body, shrink=1.0, part=part_at[i],
+                          converted=has_inline_chords(body)))
 
     def section(start_pat, stop_pat):
         s = re.search(start_pat, text)
@@ -308,7 +366,32 @@ def header_mm(s):
 def best_layout(s):
     """Maximize font size (cap 12pt); tie-break toward simpler layouts.
     Complexity: 0 single, 1 two-col, 2 single wrapped, 3 two-col wrapped.
+
+    Converted (formerly-inline) songs skip all of this: they render in a
+    proportional font via render_converted_body(), which wraps by real
+    measured text width (fs_fit_prop()) rather than the character-column
+    wrap_* helpers above (which assume a fixed-width font). Still offers
+    the same single-vs-two-column choice as the monospace path (reusing
+    split_two_cols(), which only looks at blank-line boundaries and
+    doesn't care about a song's notation style) — some of these songs are
+    exceptionally long even by this book's standards and need it just as
+    much as a handful of monospace ones already do. main()'s existing
+    verify-and-shrink loop, the same mechanism that already corrects any
+    misjudged monospace layout, remains a backstop for whatever this
+    measured estimate misses (Chrome's own line breaking rarely matches a
+    hand-rolled one exactly).
     """
+    if s["converted"]:
+        h = BODY_H - header_mm(s)
+        body = s["body"]
+        fs_single = fs_fit_prop(body, BODY_W, h)
+        c1, c2 = split_two_cols(body)
+        fs_cols = min(fs_fit_prop(c1, COL_W, h), fs_fit_prop(c2, COL_W, h))
+        if fs_cols > fs_single:
+            return dict(fs=fs_cols * s["shrink"], cols=(c1, c2), single=None,
+                        wrapped=False)
+        return dict(fs=fs_single * s["shrink"], cols=None, single=body,
+                    wrapped=False)
     h = BODY_H - header_mm(s)
     body = s["body"]
     cands = [(fs_fit(body, BODY_W, h), 0, None, body)]
@@ -351,6 +434,228 @@ def render_pre(body_lines):
     return "".join(out)
 
 
+def two_row_tokens(chord_line):
+    """Same shape as inline_tokens()'s output — [(column, label)] — but
+    read from a native chords-above-lyrics line instead of [Chord]/^
+    brackets, so both sources can feed the same floating renderer."""
+    return [(m.start(), m.group(0)) for m in re.finditer(r"\S+", chord_line)]
+
+
+DEJAVU_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+DEJAVU_REG = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+PROP_GAP_EM = 0.3  # minimum clearance between one floated label's glyph and the next
+_prop_fonts_cache = {}
+
+
+def _prop_fonts():
+    if not _prop_fonts_cache:
+        import fitz
+        _prop_fonts_cache["bold"] = fitz.Font(fontfile=DEJAVU_BOLD)
+        _prop_fonts_cache["reg"] = fitz.Font(fontfile=DEJAVU_REG)
+    return _prop_fonts_cache["bold"], _prop_fonts_cache["reg"]
+
+
+def measured_spacing(tokens, lyric):
+    """[(spaces_before, label)] for each token, using real DejaVu Sans
+    (Bold, for the chord labels) glyph widths via pymupdf instead of a
+    character count, which is meaningless in a proportional font: a bold
+    2-letter chord like Dm can easily be wider than the few plain
+    characters of lyric sitting under it, and would visually collide with
+    whatever floats next unless something makes room. spaces_before
+    counts how many nbsp characters (see render_prop_row) to insert right
+    before that token's source position so its label clears the previous
+    one by at least PROP_GAP_EM, simulating each insertion's effect on a
+    running cursor position to decide the next one."""
+    bold, reg = _prop_fonts()
+    nbsp_w = reg.text_length(" ", 1)
+    out, cursor_em, label_end_em, prev_col = [], 0.0, None, 0
+    for col, label in tokens:
+        cursor_em += reg.text_length(lyric[prev_col:col], 1)
+        spaces_before = 0
+        if label_end_em is not None and cursor_em < label_end_em:
+            spaces_before = int(-(-(label_end_em - cursor_em) // nbsp_w))  # ceil
+            cursor_em += spaces_before * nbsp_w
+        out.append((spaces_before, label))
+        label_end_em = cursor_em + bold.text_length(label, 1) + PROP_GAP_EM
+        prev_col = col
+    return out
+
+
+def render_prop_row(tokens, lyric):
+    """One floating-chord row for the proportional (converted) layout:
+    tokens is [(column, label)] from either inline_tokens() or
+    two_row_tokens(); lyric is the plain text it sits above (already
+    stripped of any [Chord]/^ markup). Mirrors generate_html.py's
+    approach but each label anchors independently at its own natural
+    position in the text (no shared per-row left-from-start reference),
+    so normal CSS reflow — required for print, there is no horizontal
+    scroll fallback — carries a wrapped continuation's chords with it for
+    free instead of leaving them anchored to the wrong visual line."""
+    layout = measured_spacing(tokens, lyric)
+    pieces, pos = [], 0
+    for (col, _), (spaces_before, label) in zip(tokens, layout):
+        pieces.append(html.escape(lyric[pos:col], quote=False))
+        if spaces_before:
+            # a literal space would be collapsed to one by normal HTML
+            # whitespace rules (unlike generate_html.py's <pre>, .pf rows
+            # need real word-wrap); nbsp is exempt from collapsing and
+            # doesn't itself introduce a wrap point
+            pieces.append("\u00a0" * spaces_before)
+        pos = col
+        cls = "pf-r" if label == "/" else "pf-c"
+        pieces.append(f'<span class="pf-a"><span class="{cls}">'
+                      f'{html.escape(label, quote=False)}</span></span>')
+    pieces.append(html.escape(lyric[pos:], quote=False))
+    return "".join(pieces)
+
+
+
+def classify_converted_rows(body_lines):
+    """Split a converted song's body into logical rows, one per source
+    line (blank lines included) — the single shared classification used
+    by both render_converted_body() and fs_fit_prop(), so sizing and
+    rendering can never disagree about what a given line is. Yields
+    ('blank', None), ('pair', (tokens, lyric)) for both native
+    chords-above-lyrics pairs and inline [Chord]/^ lines (both reduce to
+    the same (tokens, lyric) shape), ('interlude', [tokens]) for a chord
+    row with no lyric under it, or ('plain', text)."""
+    i, n = 0, len(body_lines)
+    while i < n:
+        ln = body_lines[i]
+        if not ln.strip():
+            yield "blank", None
+            i += 1
+            continue
+        nxt = body_lines[i + 1] if i + 1 < n else None
+        if is_chord_line(ln) and nxt is not None and nxt.strip() \
+                and not is_chord_line(nxt):
+            yield "pair", (two_row_tokens(ln), nxt)
+            i += 2
+            continue
+        if is_chord_line(ln):
+            yield "interlude", ln.split()
+            i += 1
+            continue
+        tokens = inline_tokens(ln)
+        if not tokens:
+            yield "plain", ln
+        else:
+            yield "pair", (tokens, INLINE_CHORD_RE.sub("", ln))
+        i += 1
+
+
+def render_converted_body(body_lines):
+    """Proportional-font rendering for a song that uses inline [Chord]/^
+    notation anywhere (see has_inline_chords) — including any native
+    chords-above-lyrics pairs mixed into the same song, converted to the
+    same floating representation so the page doesn't flip between two
+    rendering styles mid-song. Each source line is its own block (like
+    render_pre), so word-wrap only ever reflows within one sung line, not
+    across several."""
+    out = []
+    for kind, data in classify_converted_rows(body_lines):
+        if kind == "blank":
+            out.append('<p class="pf-bl"></p>')
+        elif kind == "pair":
+            tokens, lyric = data
+            out.append(f'<p class="pf">{render_prop_row(tokens, lyric)}</p>')
+        elif kind == "interlude":
+            # a chord row with no lyric under it: nothing to float above,
+            # so render its tokens plainly in place, at normal line-height
+            # like any other chordless row — no need to reserve headroom
+            # for a floated row that doesn't exist here
+            toks = [f'<span class="{"pf-r" if t == "/" else "pf-c"}">'
+                    f'{html.escape(t, quote=False)}</span>' for t in data]
+            out.append(f'<p class="pf-plain">{" ".join(toks)}</p>')
+        else:
+            out.append(f'<p class="pf-plain">{html.escape(data, quote=False)}</p>')
+    return "".join(out)
+
+
+PF_PAD_TOP_EM = 1.25
+PF_LINE_H_EM = 1.3
+PF_BLANK_EM = 1.9  # a verse break needs to read as clearly bigger than the
+                    # headroom already reserved above every chord-bearing
+                    # row, not blend in with it
+
+
+def prop_row_plain(tokens, lyric):
+    """The same text render_prop_row() turns into HTML, minus the markup
+    — lyric with measured_spacing()'s nbsp padding applied, for wrap-width
+    measurement in fs_fit_prop()."""
+    layout = measured_spacing(tokens, lyric)
+    pieces, pos = [], 0
+    for (col, _), (spaces_before, _label) in zip(tokens, layout):
+        pieces.append(lyric[pos:col])
+        if spaces_before:
+            pieces.append(" " * spaces_before)
+        pos = col
+    pieces.append(lyric[pos:])
+    return "".join(pieces)
+
+
+def wrap_count_prop(text, width_pt, fontsize):
+    """How many visual lines `text` wraps into at `fontsize`pt within
+    `width_pt` points of a proportional font, measured with real DejaVu
+    Sans glyph widths — a monospace character count would be meaningless
+    here. Splits on plain spaces only, so an inline nbsp run (see
+    measured_spacing) is never itself a break point, matching the CSS."""
+    _, reg = _prop_fonts()
+    words = text.split(" ")
+    space_w = reg.text_length(" ", fontsize)
+    lines, cur_w = 1, 0.0
+    for w in words:
+        ww = reg.text_length(w, fontsize)
+        add = ww if cur_w == 0 else space_w + ww
+        if cur_w > 0 and cur_w + add > width_pt:
+            lines += 1
+            cur_w = ww
+        else:
+            cur_w += add
+    return max(lines, 1)
+
+
+def fs_fit_prop(body_lines, width_mm, height_mm):
+    """fs_fit()'s proportional-font counterpart: the largest font size
+    (capped at FS_MAX) whose rendered height — measured via
+    wrap_count_prop(), not assumed from a character count — fits
+    height_mm. Total height is monotonically non-decreasing in font size
+    (bigger text only ever wraps to more lines, never fewer), so a binary
+    search on font size is valid; 24 steps easily gets sub-hundredth-pt
+    precision without an actual Chrome render."""
+    width_pt, height_pt = width_mm / PT2MM, height_mm / PT2MM
+    rows = list(classify_converted_rows(body_lines))
+    texts = [prop_row_plain(*data) if kind == "pair" else
+             " ".join(data) if kind == "interlude" else
+             (data if kind == "plain" else "")
+             for kind, data in rows]
+
+    def fits(fs):
+        total = 0.0
+        for (kind, _), text in zip(rows, texts):
+            if kind == "blank":
+                total += PF_BLANK_EM * fs
+            else:
+                # only a "pair" row floats a chord above itself and needs
+                # the extra headroom; a chordless plain/interlude row
+                # renders at plain line-height, same as render_converted_body
+                if kind == "pair":
+                    total += PF_PAD_TOP_EM * fs
+                total += wrap_count_prop(text, width_pt, fs) * PF_LINE_H_EM * fs
+            if total > height_pt:
+                return False
+        return True
+
+    lo, hi = 1.0, FS_MAX
+    for _ in range(24):
+        mid = (lo + hi) / 2
+        if fits(mid):
+            lo = mid
+        else:
+            hi = mid
+    return lo
+
+
 CSS = f"""
 @page {{ size: A4; margin: 0; }}
 * {{ margin: 0; padding: 0; box-sizing: border-box; }}
@@ -363,6 +668,25 @@ pre {{ font-family: {MONO_STACK}; line-height: {LINE_H};
 .ln {{ display: block; white-space: pre; }}
 .bl {{ display: block; height: {BLANK_F * LINE_H:.3f}em; }}
 .ch {{ color: #8b1a1a; {'font-weight: bold;' if CH_BOLD else ''} }}
+/* Converted (formerly-inline) songs: proportional font instead of the
+   monospace grid, since inline notation carries no column-alignment
+   information to preserve anyway. Chords float above their syllable via
+   a zero-width, zero-height inline anchor (.pf-a) placed exactly at that
+   syllable's own position in the text — not at a computed offset from
+   the row's start — so normal word-wrap (required in print; there is no
+   scroll fallback) carries a wrapped continuation's chords with it
+   automatically instead of leaving them pinned to the wrong visual row.
+   The generous line-height reserves headroom above EVERY wrapped line of
+   a paragraph, not just its first, for exactly the same reason. */
+.pf-body {{ font-family: 'DejaVu Sans', sans-serif; }}
+.pf {{ padding-top: 1.25em; line-height: 1.3; margin: 0; }}
+.pf-plain {{ line-height: 1.3; margin: 0; }}
+.pf-bl {{ height: {PF_BLANK_EM:.2f}em; margin: 0; }}
+.pf-a {{ position: relative; display: inline-block; width: 0; }}
+.pf-a > span {{ position: absolute; left: 0; bottom: 0.75em; white-space: nowrap;
+              font-weight: bold; }}
+.pf-c {{ color: #8b1a1a; }}
+.pf-r {{ color: #444; }}
 code {{ font-family: {MONO_STACK}; font-size: 92%; }}
 .mk {{ color: #ffffff; font-size: 3pt; }}
 h2.song {{ font-size: 12.5pt; margin-bottom: 1.2mm; }}
@@ -374,7 +698,7 @@ h2.song .n {{ color: #888; font-weight: normal; }}
 .rule {{ border-bottom: 0.3mm solid #ccc; margin-bottom: 2mm;
         line-height: 0.5; }}
 .cols {{ display: flex; gap: {COL_GAP}mm; }}
-.cols pre {{ flex: 1 1 0; }}
+.cols pre, .cols > div {{ flex: 1 1 0; min-width: 0; }}
 .divider {{ display: flex; align-items: center; justify-content: center; }}
 .divider h1 {{ font-size: 22pt; text-align: center; color: #333;
               line-height: 1.6; }}
@@ -415,7 +739,15 @@ def song_page(s):
     parts.append(f'<div class="rule"><span class="mk">§{s["num"]}§</span>'
                  f'</div>')
     style = f'font-size:{fs:.2f}pt'
-    if lay["cols"]:
+    if s["converted"] and lay["cols"]:
+        c1, c2 = lay["cols"]
+        parts.append(f'<div class="cols pf-body" style="{style}">'
+                     f'<div>{render_converted_body(c1)}</div>'
+                     f'<div>{render_converted_body(c2)}</div></div>')
+    elif s["converted"]:
+        parts.append(f'<div class="pf-body" style="{style}">'
+                     f'{render_converted_body(lay["single"])}</div>')
+    elif lay["cols"]:
         c1, c2 = lay["cols"]
         parts.append(f'<div class="cols">'
                      f'<pre style="{style}">{render_pre(c1)}</pre>'

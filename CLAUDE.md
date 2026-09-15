@@ -88,13 +88,32 @@ butoane de transpunere a acordurilor) publicat pe GitHub Pages din
 plus `nav.js`/`site.css`), copiată neschimbată în `docs/assets/` la
 fiecare rulare; `docs/` însuși nu se editează manual, la fel ca PDF-ul.
 
-Pe site (nu și în PDF, deocamdată), cântecele cu notație inline sunt afișate
-ca cele cu acorduri deasupra versului: fiecare acord (și `^`, ca `/`) e scos
-din text și „plutește” deasupra silabei (CSS, `left:Nch` calculat de
-`layout_floating()` — nu rescrie linia). Coloana e cea din sursă, decalată
-spre dreapta doar cât trebuie ca să nu atingă acordul anterior (acordurile
-înghesuite cu `=` ajung deci ușor la dreapta poziției lor "exacte", dar
-rămân lizibile și separate, nu lipite).
+Pe site, cântecele cu notație inline sunt afișate ca cele cu acorduri
+deasupra versului: fiecare acord (și `^`, ca `/`) e scos din text și
+„plutește” deasupra silabei (CSS, `left:Nch` calculat de `layout_floating()`
+— nu rescrie linia). Coloana e cea din sursă, decalată spre dreapta doar cât
+trebuie ca să nu atingă acordul anterior (acordurile înghesuite cu `=` ajung
+deci ușor la dreapta poziției lor "exacte", dar rămân lizibile și separate,
+nu lipite).
+
+`make_pdf.py` face la fel pentru orice cântec cu măcar un acord inline
+(`s["converted"]`, testat de `has_inline_chords()`) — inclusiv perechile
+native acord-deasupra-versului din același cântec, convertite la aceeași
+reprezentare, ca pagina să nu sară între două stiluri. Diferă de site pe
+două puncte, amândouă pentru că e tipar (nu există derulare orizontală de
+rezervă): font proporțional (`'DejaVu Sans'`, nu monospace — cântecele
+astea nu poartă informație de aliniere pe coloană oricum) în loc de grid
+monospace, iar fiecare ancoră stă chiar la poziția ei naturală din text
+(nu la un offset calculat de la începutul rândului), ca împărțirea pe
+rânduri (necesară la tipar) să ducă acordurile cu ea automat. Înghesuiala
+se rezolvă măsurând lățimea reală a glifelor DejaVu Sans Bold cu pymupdf
+(`measured_spacing()`) — un număr de caractere n-are legătură fixă cu
+lățimea într-un font proporțional — inserând spații fixe (` `,
+imune la restrângerea CSS a spațiilor multiple) exact cât trebuie.
+Dimensiunea fontului per cântec vine din `fs_fit_prop()` (căutare binară
+pe lățimile măsurate, nu numărătoare de caractere ca `fs_fit()`), cu
+bucla obișnuită de verificare/micșorare din `main()` ca plasă de
+siguranță pentru ce ratează estimarea.
 
 **Istorice** — au construit caietul și rulează *înaintea* reorganizării, pe
 structura plată în trei părți cu cântecele la `###`: `extract_*.py`,

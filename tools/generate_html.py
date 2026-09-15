@@ -40,45 +40,13 @@ def emit_chords_data(path):
         encoding="utf-8")
 
 
-INLINE_CHORD_RE = re.compile(r"\[([A-G][^\]]*)\]|\^")
-MIN_LABEL_GAP = 1  # whole characters of breathing room between adjacent floats
-
-
-def inline_tokens(ln):
-    """[(nominal_column, label)] for each chord/collapsed-repeat token,
-    where nominal_column is its position once brackets/^ collapse to zero
-    width (i.e. the column its syllable sits at before any crowding-nudge
-    widens the gap before it)."""
-    tokens, col, i = [], 0, 0
-    for m in INLINE_CHORD_RE.finditer(ln):
-        col += m.start() - i
-        label = m.group(1) if m.group(1) is not None else "/"
-        tokens.append((col, label))
-        i = m.end()
-    return tokens
-
-
-def layout_floating(tokens):
-    """[(spaces_before, left, label)]: nominal columns nudged right just
-    enough that no two floated labels touch or overlap. A label at column
-    c occupies [c, c+len(label)+MIN_LABEL_GAP); when the next token's
-    nominal column would land inside that span, both the label AND its
-    syllable move right by the same amount — spaces_before literal spaces
-    get inserted into the rendered lyric text right before that token's
-    source position, so the chord stays glued above the syllable it
-    belongs to instead of drifting away from it. Nudges cascade left to
-    right, so a tightly packed run (e.g. the "=" quick-chord-change
-    shorthand, ^=[Bm]=[A]) still renders with every label visible and
-    legible, just with a bit of extra space inserted before it."""
-    out, extra, right_edge = [], 0, None
-    for col, label in tokens:
-        eff_col = col + extra
-        spaces_before = 0 if right_edge is None else max(0, right_edge - eff_col)
-        extra += spaces_before
-        left = eff_col + spaces_before
-        out.append((spaces_before, left, label))
-        right_edge = left + len(label) + MIN_LABEL_GAP
-    return out
+# inline_tokens / layout_floating / INLINE_CHORD_RE live in make_pdf.py —
+# make_pdf's own proportional-font rendering (for the PDF) needs the same
+# token/crowding logic, and make_pdf is the lower-level module generate_html
+# already imports from, so it's the natural shared home.
+INLINE_CHORD_RE = make_pdf.INLINE_CHORD_RE
+inline_tokens = make_pdf.inline_tokens
+layout_floating = make_pdf.layout_floating
 
 
 def render_pre_interactive(body_lines):

@@ -2949,39 +2949,39 @@ Refren
 **Ukulele:** Am 2000 · G 0232 · C 0003
 
 ```text
-[Am]Și-avem un singur [G]Crai ce-aș^teaptă neclin[Am]tit
-[C]Cu ale sale [G]creste ce-s ^roșii-n asfin[Am]țit
-[C]Plecăm sâmbătă [G]seara, ple^căm toți împre[Am]ună
-[Am]Și liberi o să [C]fim sub [G]cerul plin de [Am]lună.
+Și-a[Am]vem un singur [G]Crai ce-aș^teaptă neclin[Am]tit
+Cu [C]ale sale [G]creste ce-s ^roșii-n asfin[Am]țit
+Ple[C]căm sâmbătă [G]seara, ple^căm toți împre[Am]ună
+Și [Am]liberi o să [C]fim sub [G]cerul plin de [Am]lună.
 
-Să vii să îl străbatem pe ale sale drumuri
-Să vezi cum cresc la brazi cu miile de muguri
-Și jneapănul să vezi cum creanga și-a plecat
-Ce vitregă-i natura cu vânt neîncetat.
+Să [Am]vii să îl stră[G]batem pe ^ale sale [Am]drumuri
+Să [C]vezi cum cresc la [G]brazi cu ^miile de [Am]muguri
+Și [C]jneapănul să [G]vezi cum ^creanga și-a ple[Am]cat
+Ce [Am]vitregă-i na[C]tura cu [G]vânt neînce[Am]tat.
 
 Refren:
-[C]Și-aș vrea să vii și [G]tu, să ^mergem împre[Am]ună
-[C]Să împletim a[G]colo a ^Craiului cu[Am]nună
-[C]Din garofițe [G]roșii și ^din bujori de [Am]munte
-[Am]Din liliacul [C]alb și [G]flori de colț că[Am]runte
-[C]Hei [G]Hai [Am] Liliac și [G] flori de colț că [Am]runte
+Și-aș [C]vrea să vii și [G]tu, să ^mergem împre[Am]ună
+Să [C]împletim a[G]colo a ^Craiului cu[Am]nună
+Din [C]garofițe [G]roșii și ^din bujori de [Am]munte
+Din [Am]liliacul [C]alb și [G]flori de colț că[Am]runte
+[C]Hei [G]Hai [Am]Liliac și [G]flori de colț că[Am]runte
 
-De pleci din Curmătura traseu pe bandă-albastră
-Ajungi în Șaua Caprei cobori apoi sub coastă
-Să treci și de Găvan, de Padina închisă
-De stânca Orgii Mari și de Diana stinsă.
+De [Am]pleci din Curmă[G]tura tra^seu pe bandă-al[Am]bastră
+A[C]jungi în Șaua [G]Caprei co^bori apoi sub [Am]coastă
+Să [C]treci și de Gă[G]van, de ^Padina în[Am]chisă
+De [Am]stânca Orgii [C]Mari și [G]de Diana [Am]stinsă.
 
-De vrei să știi ce-i munte să treci prin Crăpătură
-Să treci de Vârful Turnu, să mângâi stânca dură
-Să treci de Ascuțit, țimbalele amândouă
-De vrei s-ajungi la Om când ninge și când plouă.
+De [Am]vrei să știi ce-i [G]munte să ^treci prin Crăpă[Am]tură
+Să [C]treci de Vârful [G]Turnu, să ^mângâi stânca [Am]dură
+Să [C]treci de Ascu[G]țit, țim^balele amân[Am]două
+De [Am]vrei s-ajungi la [C]Om când [G]ninge și când [Am]plouă.
 
 Refren
 
-Pe Lanțuri de te-ncumeți în nopți cu lună plină
-Și prin zăpada-naltă să tai poteca lină
-Ochii ți se îndreaptă spre bolta înstelată
-La crucea unei fete să-ngenuchezi odată
+Pe [Am]Lanțuri de te-n[G]cumeți în ^nopți cu lună [Am]plină
+Și [C]prin zăpada-[G]naltă să ^tai poteca [Am]lină
+[C]Ochii ți se în[G]dreaptă spre ^bolta înste[Am]lată
+La [Am]crucea unei [C]fete să-n[G]genuchezi o[Am]dată
 
 Refren
 ```
