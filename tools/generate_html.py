@@ -47,6 +47,8 @@ def emit_chords_data(path):
 INLINE_CHORD_RE = make_pdf.INLINE_CHORD_RE
 inline_tokens = make_pdf.inline_tokens
 layout_floating = make_pdf.layout_floating
+classify_converted_rows = make_pdf.classify_converted_rows
+measured_spacing = make_pdf.measured_spacing
 
 
 def render_pre_interactive(body_lines):
@@ -126,6 +128,78 @@ def render_pre_interactive(body_lines):
         out.append(
             f'<span class="ln has-float"><span class="ln-anchor">'
             f'{"".join(floats)}</span>{"".join(lyric)}</span>')
+    return "".join(out)
+
+
+def render_prop_interactive(tokens, lyric):
+    """HTML counterpart of make_pdf.render_prop_row: same natural-position
+    anchor (.pf-a, an inline-block of zero width sitting right where the
+    chord occurs in the text) and the same measured_spacing() nbsp padding
+    to keep crowded labels apart, using real DejaVu Sans glyph widths
+    (pymupdf) rather than a character count, which is meaningless in a
+    proportional font. Unlike make_pdf's print-only pf-c/pf-r spans, chord
+    labels here carry data-chord and the "ch"/"rep" classes chords.js and
+    the fingering tooltip already look for, so transpose keeps working."""
+    layout = measured_spacing(tokens, lyric)
+    pieces, pos = [], 0
+    for (col, label), (spaces_before, _) in zip(tokens, layout):
+        pieces.append(html.escape(lyric[pos:col], quote=False))
+        if spaces_before:
+            # nbsp, not a plain space: outside <pre>, normal HTML
+            # whitespace rules would collapse repeated plain spaces to one
+            pieces.append(" " * spaces_before)
+        pos = col
+        if label == "/":
+            pieces.append('<span class="pf-a"><span class="rep">/</span></span>')
+        else:
+            attr = html.escape(label, quote=True)
+            text = html.escape(label, quote=False)
+            pieces.append(
+                f'<span class="pf-a"><span class="ch" '
+                f'data-chord="{attr}">{text}</span></span>')
+    pieces.append(html.escape(lyric[pos:], quote=False))
+    return "".join(pieces)
+
+
+def render_interlude_interactive(tokens):
+    """A chord-only row with no lyric under it (see
+    make_pdf.classify_converted_rows), rendered plainly in place — nothing
+    to float above. Skips SKIP_TOKENS (the "/" alt-voicing marker, a
+    section cue like "FC") the same way render_pre_interactive's
+    is_chord_line branch does: those aren't chords, so no data-chord/
+    transpose treatment."""
+    pieces = []
+    for t in tokens:
+        if t in make_pdf.SKIP_TOKENS:
+            pieces.append(html.escape(t, quote=False))
+        else:
+            attr = html.escape(t, quote=True)
+            text = html.escape(t, quote=False)
+            pieces.append(f'<span class="ch" data-chord="{attr}">{text}</span>')
+    return " ".join(pieces)
+
+
+def render_converted_interactive(body_lines):
+    """Rendering for a song with inline [Chord]/^ notation anywhere (see
+    make_pdf.has_inline_chords / s["converted"]): a non-monospace,
+    proportional-font layout sharing make_pdf's classify_converted_rows()
+    split and floating-anchor technique, instead of render_pre_interactive's
+    monospace <pre> + left:Nch positioning (meaningless once characters
+    stop being a fixed width). Any native chords-above-lyrics pairs mixed
+    into the same song get converted to the same floating representation
+    too, so the page never flips between two rendering styles mid-song —
+    exactly like make_pdf.render_converted_body for the PDF."""
+    out = []
+    for kind, data in classify_converted_rows(body_lines):
+        if kind == "blank":
+            out.append('<p class="pf-bl"></p>')
+        elif kind == "pair":
+            tokens, lyric = data
+            out.append(f'<p class="pf">{render_prop_interactive(tokens, lyric)}</p>')
+        elif kind == "interlude":
+            out.append(f'<p class="pf-plain">{render_interlude_interactive(data)}</p>')
+        else:
+            out.append(f'<p class="pf-plain">{html.escape(data, quote=False)}</p>')
     return "".join(out)
 
 
@@ -209,7 +283,10 @@ def render_sidebar(songs, filenames, current_num, prefix=""):
 
 
 def song_page(s, filenames, prev_s, next_s, songs):
-    body_html = render_pre_interactive(s["body"])
+    if s["converted"]:
+        body = f'<div class="pf-body">{render_converted_interactive(s["body"])}</div>'
+    else:
+        body = f'<pre>{render_pre_interactive(s["body"])}</pre>'
     fingerings = "".join(render_fingering_line(s[k]) for k in ("gtr", "uke") if s[k])
     nav_links = []
     if prev_s:
@@ -234,7 +311,7 @@ def song_page(s, filenames, prev_s, next_s, songs):
 <button type="button" data-action="up">▲ semiton</button>
 <button type="button" data-action="reset">reset</button>
 </div>
-<pre>{body_html}</pre>
+{body}
 <div class="song-nav">{" ".join(nav_links)}</div>
 </main>
 <script src="../assets/chords-data.js"></script>

@@ -88,32 +88,28 @@ butoane de transpunere a acordurilor) publicat pe GitHub Pages din
 plus `nav.js`/`site.css`), copiată neschimbată în `docs/assets/` la
 fiecare rulare; `docs/` însuși nu se editează manual, la fel ca PDF-ul.
 
-Pe site, cântecele cu notație inline sunt afișate ca cele cu acorduri
-deasupra versului: fiecare acord (și `^`, ca `/`) e scos din text și
-„plutește” deasupra silabei (CSS, `left:Nch` calculat de `layout_floating()`
-— nu rescrie linia). Coloana e cea din sursă, decalată spre dreapta doar cât
-trebuie ca să nu atingă acordul anterior (acordurile înghesuite cu `=` ajung
-deci ușor la dreapta poziției lor "exacte", dar rămân lizibile și separate,
-nu lipite).
-
-`make_pdf.py` face la fel pentru orice cântec cu măcar un acord inline
-(`s["converted"]`, testat de `has_inline_chords()`) — inclusiv perechile
-native acord-deasupra-versului din același cântec, convertite la aceeași
-reprezentare, ca pagina să nu sară între două stiluri. Diferă de site pe
-două puncte, amândouă pentru că e tipar (nu există derulare orizontală de
-rezervă): font proporțional (`'DejaVu Sans'`, nu monospace — cântecele
-astea nu poartă informație de aliniere pe coloană oricum) în loc de grid
-monospace, iar fiecare ancoră stă chiar la poziția ei naturală din text
-(nu la un offset calculat de la începutul rândului), ca împărțirea pe
-rânduri (necesară la tipar) să ducă acordurile cu ea automat. Înghesuiala
-se rezolvă măsurând lățimea reală a glifelor DejaVu Sans Bold cu pymupdf
-(`measured_spacing()`) — un număr de caractere n-are legătură fixă cu
-lățimea într-un font proporțional — inserând spații fixe (` `,
-imune la restrângerea CSS a spațiilor multiple) exact cât trebuie.
-Dimensiunea fontului per cântec vine din `fs_fit_prop()` (căutare binară
-pe lățimile măsurate, nu numărătoare de caractere ca `fs_fit()`), cu
-bucla obișnuită de verificare/micșorare din `main()` ca plasă de
-siguranță pentru ce ratează estimarea.
+Pe site, orice cântec cu măcar un acord inline (`s["converted"]`, testat de
+`has_inline_chords()` din `make_pdf.py`) — inclusiv perechile native
+acord-deasupra-versului din același cântec, ca pagina să nu sară între două
+stiluri — se randează cu font proporțional (`'DejaVu Sans'`, nu monospace),
+nu în `<pre>`: `generate_html.py` refolosește direct din `make_pdf.py`
+`classify_converted_rows()` și `measured_spacing()`, aceeași împărțire pe
+rânduri și aceeași rezolvare a înghesuielii (lățimea reală a glifelor
+DejaVu Sans Bold, măsurată cu pymupdf — un număr de caractere n-are
+legătură fixă cu lățimea într-un font proporțional) cu care `make_pdf.py`
+randează cântecele astea în PDF. Fiecare acord stă într-o ancoră de lățime
+zero (`.pf-a`) chiar la poziția ei naturală din text, nu la un offset
+calculat de la începutul rândului — CSS obișnuit (poziționare absolută
+relativă la ancoră), nu `left:Nch` ca la restul site-ului (cântecele cu
+acorduri native deasupra versului, care rămân în `<pre>` monospace); asta
+lasă răsfrângerea rândului pe navigator (redimensionare, zoom, sidebar) să
+ducă acordurile cu ea automat, fără recalcul. Diferă de PDF doar prin ce
+ține de interactivitate — fiecare acord poartă `data-chord`, ca
+transpunerea și tooltipul de digitație (`chords.js`) să funcționeze la fel
+ca la cântecele native — și prin faptul că nu are nevoie de `fs_fit_prop()`/
+`wrap_count_prop()`: la tipar rândurile trebuie împărțite dinainte, la o
+lățime de pagină fixă, cât la site navigatorul le împarte live, la orice
+lățime de fereastră.
 
 **Istorice** — au construit caietul și rulează *înaintea* reorganizării, pe
 structura plată în trei părți cu cântecele la `###`: `extract_*.py`,

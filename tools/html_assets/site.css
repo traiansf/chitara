@@ -48,6 +48,28 @@ pre {
 .float { position: absolute; left: 0; bottom: 0.75em; white-space: nowrap; }
 .rep { color: #444; font-weight: bold; }
 
+/* Converted (inline [Chord]/^ notation) songs: same floating-chord idea
+   as .ln.has-float above, but in a real proportional font instead of
+   <pre> monospace (see tools/generate_html.py's render_converted_interactive
+   and make_pdf.py's render_converted_body, which the PDF shares this
+   technique with). Each row is its own <p>; every chord/^ anchors at its
+   own natural inline position via .pf-a, a zero-width inline-block sitting
+   exactly where the token occurs in the text, so normal browser reflow —
+   window resize, sidebar toggle, zoom — carries a wrapped line's chords
+   with it for free, unlike a computed left:Nch offset (only exact in a
+   monospace font). Crowding between adjacent labels is resolved at
+   generation time by measuring real DejaVu Sans Bold glyph widths
+   (make_pdf.measured_spacing) and inserting narrow no-break spaces —
+   'DejaVu Sans' is set explicitly below so that measurement matches what
+   renders here whenever the visitor's system has that font; elsewhere it's
+   still a reasonable approximation via the sans-serif fallback. */
+.pf-body { font-family: 'DejaVu Sans', sans-serif; }
+.pf { padding-top: 1.25em; line-height: 1.3; margin: 0; }
+.pf-plain { line-height: 1.3; margin: 0; }
+.pf-bl { height: 1.6em; margin: 0; }
+.pf-a { position: relative; display: inline-block; width: 0; }
+.pf-a > span { position: absolute; left: 0; bottom: 0.75em; white-space: nowrap; }
+
 .chord-tooltip {
   position: fixed; z-index: 20;
   background: #fff; border: 1px solid #999; border-radius: 4px;
