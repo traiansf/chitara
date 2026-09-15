@@ -1118,14 +1118,14 @@ Uită tot ce ți-am cântat.
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
-[D]Cine trece-n valea Seacă
+[D]Cine trece-n ^valea Seacă
 [G]Cu hangerul [D]fără teacă
-[D]Și cu pieptul dezgolit
+[D]Și cu pieptul ^dezgolit
 /[G]Andrii [A]Popa [D]cel vestit/ x2
 
-[D]Șapte ani cu voinicie
+[D]Șapte ani cu ^voinicie
 [G]Și-a bătut joc [D]de domnie
-[D]Și tot pradă neîncetat
+[D]Și tot pradă ^neîncetat
 /[G]Andrii [A]Popa [D]hoț barbat/ x2
 
 Refren x2:
@@ -1133,20 +1133,20 @@ Refren x2:
 Și [A]e ves[D]tit
 [G]Andri [A]Popa [D]cel [G]voi[D]nic
 
-[D]Zi și noapte tot călare
+[D]Zi și noapte ^tot călare
 [G]Trage bir din [D]drumul mare
-[D]Și din tară peste tot
+[D]Și din tară ^peste tot
 /[G]Fug ne[A]ferii [D]cât ce pot/ x2
 
-[D]Căci el are-o pușcă plină
+[D]Căci el are-o ^pușcă plină
 [G]Cu trei glonti la [D]rădăcină
-[D]Și-are-un murg de patru ani
+[D]Și-are-un murg de ^patru ani
 /[G]Care [A]mușcă din [D]dușmani/ x2
 Refren x2
 
-[D]Si-are frați de cruce șapte
+[D]Si-are frați de ^cruce șapte
 [G]Ce-au supt sânge[D]le cu lapte
-[D]Și nu-i pasă de nimic
+[D]Și nu-i pasă ^de nimic
 /[G]Andri [A]Popa [D]cel voinic. / x2
 Refren x2
 ```
@@ -1205,28 +1205,30 @@ Refren:
 ```text
 
 1.
-RĂu mă [C]dor ochii mă ^dor   [F]
-De dure[G]rea frunze[C]lor.
+[C]  Rău mă ^dor ochii mă ^doo^oo[F]or
+De dure[G]rea frunze[C]lor. ^ 
 
 R:
-Și mă [Am]duc (si ma duc) și iar mă [G]duc (si iar ma duuu[F]uc)
-Până [G]la izvor sub [C]nuc
-Și mă fac și iar mă fac
-Lemn de brad și lemn de fag.
+Și mă [Am]duc (si ma ^duc) și iar mă [G]duc (si iar ma ^duu[F]uc)
+Până [G]la izvor sub [C]nuc ^
+Și mă [Am]fac (si ma ^fac) și iar mă [G]fac (si iar ma ^faa[F]ac)
+Lemn de [G]brad și lemn de [C]fag. ^
+
 2.
-RĂu mă dor picioarele
-De bătut cărările.
+[C]  Rău mă ^dor picioare^lee^ee[F]e
+De bă[G]tut cărări[C]le.  ^
+
 3.
-RĂu mă dor ochii mă dor
-De lumina stelelor.
+[C]  Rău mă ^dor ochii mă ^doo^oo[F]or
+De lu[G]mina stelel[C]or.  ^
 
 4.
-Unde au plecat nu știu
-Dar mi-e sufletul pustiu.
+[C]  Unde ^au plecat nu ^știi^ii[F]iu
+Dar mi-e [G]sufletul pus[C]tiu. ^
 
 5.
-Și-am să merg fără să știu
-Dus de dorul meu târziu.
+[C]  Și-am să ^merg fără să ^știi^ii[F]iu
+Dus de [G]dorul meu târ[C]ziu. ^
 ```
 
 #### 11. Balada fulgerată de vânt (II)
