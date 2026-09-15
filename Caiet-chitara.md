@@ -1293,23 +1293,23 @@ Refren x2
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
 
 ```text
-De[Am]parte în munți, as[Dm]cuns printre stânci
-Se [G]află bătrânul re[C]fugiu   [E]
-A[Am]colo se întâlnesc a[Dm]cei ce iubesc
-Pe[G]reții de stâncă și [C]cerul.  [E]
+De[Am]parte în ^munți, as[Dm]cuns printre ^stânci
+Se [G]află bă^trânul re[C]fugiu   [E]
+A[Am]colo se întâl^nesc a[Dm]cei ce iu^besc
+Pe[G]reții de ^stâncă și [C]cerul.  [E]  ^
 
 Refren:
-Nu-i [Am]nimeni să-i înțe[Dm]leagă
-Nu-i [G]nimeni la fel ca [C]ei, la fel ca [E]noi
-Doar [Am]dorul în dulce [Dm]leagăn
-Să [G]urce spre creste me[C]reu
+Nu-i [Am]nimeni ^  să-i înțe[Dm]leagă  ^
+Nu-i [G]nimeni ^  la fel ca [C]ei, la fel ca [E]noi
+Doar [Am]dorul ^  în dulce-i [Dm]leagăn  ^
+Să-i [G]urce ^  spre creste me[C]reu
            spre creste me[E]reu
-           spre creste me[Am]reu
+           spre creste me[Am]reu  ^
 
-Mi-e [Am]inima-n furci, de [Dm]vrei poți să urci
-Să [G]faci primii pași în pe[C]rete [E]
-Spe[Am]ranța apoi s-o [Dm]facem în doi
-Și-[G]apoi tot mai sus către [C]creste.  [E]
+Mi-e [Am]inima-n ^furci, de [Dm]vrei poți să ^urci
+Să [G]faci primii ^pași în pe[C]rete [E]
+Spe[Am]ranța a^poi s-o [Dm]facem în ^doi
+Și-[G]apoi tot mai ^sus către [C]creste.  [E]  ^
 
 Refren x2
 ```
@@ -1426,10 +1426,14 @@ Mă rugai să privesc, mă rugai să ascult
 Căprioare venind dintr-un basm de demult
 
 Refren:
-[Em]Și într-o zi am aflat de-o [C]cabană [D]care-ar fi[G] ars
-[Em]Mi-a fost greu să și cred că e [C]vorba de [Em]acel adă[B7]post
-[Em]Nici nu știu dacă e [C]casa mică în [D]care-am [G]fost
-[Em]Iar de-ar fi să pot ști [C]n-ar avea, [B7]n-ar avea [Em] niciun rost
+[Em]Și într-o zi am aflat
+  de-o [C]cabană [D]care-ar fi[G] ars
+[Em]Mi-a fost greu să și cred
+  că e [C]vorba de [Em]acel adă[B7]post
+[Em]Nici nu știu dacă e 
+  [C]casa mică în [D]care-am [G]fost
+[Em]Iar de-ar fi să pot ști 
+  [C]n-ar avea, [B7]n-ar avea [Em] niciun rost
 
 Miroseam a zăpezi într-o casă de lemn
 La mansardă urcam sub același îndemn
@@ -1527,7 +1531,8 @@ Zero lei și zero bani, zero lei și zero bani
 Au format și gașca noastră de hoi[C]nari
 /Noi n-avem [C]bani, n-avem bani, n-avem bani,
 Suntem simpli hoi[G]nari
-În schimb [G7]avem, noi avem, toți avem cam la 20 de [C]ani/ x2
+În schimb [G7]avem, noi avem, toți avem
+cam la 20 de [C]ani/ x2
 
 Unii locuiesc la [C]munte, alții vin de la o[G]raș
 Si schiază-n muntii [G7]Rodnei, Retezat sau Postă[G]varu
@@ -1963,32 +1968,39 @@ Sursa: Cărticica Karban, p. 257
 
 **Ukulele:** D 2220 · A7 0100
 
-```text
-[D]În poiana verde,
-[A7]Veselie [D]multa,
-[D]Cu băieți și fete
-[A7]Cânta cucul, [D]cânta
-Cu-cu, cu-cu!
-Refren:
-[D]A-ha, a-ha!
-[D]O di ri di! O di ri di di na!
-[A7]O di ri di di na! [D]U-ha!
-[D]Auzi colo, cornul?
-[A7]El ni-i bun pri[D]eten,
-[D]Cântul lui trezește
-[A7]Codrul des de [D]cetini.
-Cu-cu, cu-cu!
-[D]Ne răpește glasul
-[A7]Pe aripa [D]vântul,
-[D]Știe cucul, știe
-[A7]Ce șoptește [D]cântul.
-Cu-cu, cu-cu!
-[D]Rând pe rând, alt cântec
-[A7]Printre ramuri [D]urca
-[D]Și pornim cu toții
-[A7]Veselă ma[D]zurca.
-Cu-cu, cu-cu!
 Notă: Măsura cântecului e 3/4
+
+```text
+[D]În poiana ^verde,
+[A7]Veselie [D]multă,
+[D]Cu băieți și ^fete
+[A7]Cânta cucul, [D]cântă
+
+[G]Cu-cu, ^cu-cu!
+[D]A-ha, ^a-ha!
+[D]O di ri di! ^O di ri di di na!
+[A7]O di ri di di na! [D]U-ha!
+
+[D]Auzi colo, ^cornul?
+[A7]El ni-i bun pri[D]eten,
+[D]Cântul lui tre^zește
+[A7]Codrul des de [D]cetini.
+
+Refren:
+
+[D]Ne răpește ^glasul
+[A7]Pe aripă [D]vântul,
+[D]Știe cucul, ^știe
+[A7]Ce șoptește [D]cântul.
+
+Refren:
+
+[D]Rând pe rând, alt ^cântec
+[A7]Printre ramuri [D]urcă
+[D]Și pornim cu ^toții
+[A7]Veselă ma[D]zurcă.
+
+Refren:
 ```
 
 #### 27. Dacă n-ai amintiri
@@ -2046,10 +2058,10 @@ Refren x2
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
 
 ```text
-[C]Oriunde te-ai a[G]fla, în [Am]lumea asta [F]mare
-[C]În sat sau la o[G]raș, pe [Am]plajă sau că[F]rare
-[C]Intri în pani[G]că [Am]și te trec [F]fiori
-[C]Când auzi a[G]desea, [Am]printre trecă[F]tori ^
+Ori[C]unde te-ai a[G]fla, în [Am]lumea asta [F]mare
+În [C]sat sau la o[G]raș, pe [Am]plajă sau că[F]rare
+In[C]tri în pani[G]că [Am]și te trec [F]fiori
+[C]Când auzi a[G]desea, [Am]printre trecă[F]tori
 
 Refren:
 [C]  Dar nu-s nor[G]mali, [Am]  dar nu-s nor[F]mali
@@ -2057,17 +2069,17 @@ Refren:
 [C]  Dar nu-s nor[G]mali, [Am]  dar nu-s nor[F]mali
 [C]Când se urcă-n [G]tren, [Am]loc nu mai a[F]veeeeeee^eeem
 
-[C]Când ne-ntâlnim în [G]gară, de [Am]dimineață-n [F]zori
-[C]Și dintr-o dată [G]gara-i [Am]prea mică pentru [F]noi
-[C]Se uită toți la [G]ceas, căci [Am]timpul trece [F]greu
-[C]Oftând cu nerăb[G]dare, [Am]i-auzi spunând me[F]reu ^
+Când [C]ne-ntâlnim în [G]gară, de [Am]dimineață-n [F]zori
+Și [C]dintr-o dată [G]gara-i [Am]prea mică pentru [F]noi
+Se [C]uită toți la [G]ceas, căci [Am]timpul trece [F]greu
+Of[C]tând cu nerăb[G]dare, [Am]i-auzi spunând me[F]reu
 
 Refren
 
 [C]Cei ce nu-nțe[G]leg [Am]vraja munte[F]lui
 [C]Și mă-ntreabă a[G]desea [Am]de ce plec hai-[F]hui
 [C]Le răspund că-n [G]munți [Am]soarele-i mai [F]cald
-[C]Numai pentru-a[G]tâta [Am]sunt montani[F]ard ^
+[C]Numai pentru-a[G]tâta [Am]sunt montani[F]ard
 
 Refren x2
 ```
@@ -2596,28 +2608,28 @@ Refren x2 xn.. :)
 **Ukulele:** Am 2000 · E 4442 · Dm 2210
 
 ```text
-[Am]Vis de-ar[E]gint și de pe[Am]tale
-[Dm]Cuibul tău e sus pe [Am]creste
-[Dm]Raza ta-mi coboară-n [Am]cale
-[E]Mai frumos ca-ntr-o po[Am]veste
+[Am]  Vis de-ar[E]gint și de pe[Am]tale  ^
+[Dm]  Cuibul ^tău e sus pe [Am]creste  ^
+[Dm]  Raza ^ta-mi coboară-n [Am]cale  ^
+[E]  Mai fru^mos ca-ntr-o po[Am]veste  ^
 
 Refren (x2):
-[Dm]Tu floare de [Am]colț
-[E]Minune sub [Am]bolți
-[Dm]Fragedă [Am]stea
-[E]Iubita [Am]mea
+[Dm]  Tu floare de [Am]colț
+[E]  Minune sub [Am]bolți
+[Dm]  Fragedă [Am]stea
+[E]  Iubita [Am]mea
 
-[Am]Floare [E]ninsă-n vârf de [Am]stâncă
-[Dm]Mai presus de nori și [Am]stele
-[Dm]Cine oare să te-aj[Am]ungă
-[E]Numai dorurile [Am]mele
+[Am]  Floare [E]ninsă-n vârf de [Am]stâncă  ^
+[Dm]  Mai pre^sus de nori și [Am]stele  ^
+[Dm]  Cine ^oare să te-aj[Am]ungă  ^
+[E]  Numai ^dorurile [Am]mele
 
 Refren
 
-[Am]Floare [E]de lumină [Am]vie
-[Dm]Zâmbet cald de dimi[Am]neață
-[Dm]Te aștept de-o veșni[Am]cie
-[E]Te-ntâlnesc o dată-n [Am]viață
+[Am]  Floare [E]de lumină [Am]vie
+[Dm]  Zâmbet ^cald de dimi[Am]neață
+[Dm]  Te aș^tept de-o veșni[Am]cie
+[E]  Te-ntâl^nesc o dată-n [Am]viață
 
 Refren
 
