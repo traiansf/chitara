@@ -4889,72 +4889,52 @@ SĂ-ntoarcem timpul înapoi.
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 139 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/seara-de-mai-4551)
 
-**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
-**Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
+**Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
-D             Bm       G
-Mai ții minte seara de ma
-A              D
-Stele pe cer luceau
-Bm            G
-Ce frumoasă erai
-A             D Bm G
-Parcă îti semanau...
-A
-De ce oare?
+[C]Ții [Am]minte seara de [F]mai
+[G]Stele pe cer strălu[C]ceau
+[Am]Ce frumoasă e[F]rai
+[G]Parcă îți semăna[C]a[Am]a[F]au...
+[G]De ce oare?
 
 Refren:
+[C]Dar tu ai plecat
+[Am]Nu m-ai așteptat
+[F]Poate m-ai uitat
+[G]De ce oare?
+[C]Nu, nu-mi [Am]spune
+nu-mi [F]spune
+Că sunt [G]vinovat!
+[C]Ea, ea-mi [Am]spune
+ea-mi [F]spune
+Că s-a [G]terminat!
 
-  D       Bm
-/Nu spune
-          G
-Nu spune
-    G
-Nu spune
-         A
-Că sunt vinovat ! / x2
-
-Refren2:
-
-D
-Dar tu ai plecat
-Bm
-Nu m-ai așteptat
-G
-Poate m-ai uitat
-A
-De ce oare?
-
-i
-Vântul în plete-ți bătea
-Ți-am spus cat te iubesc
-M-ai privit și-ai oftat
-Și mi-ai spus că nu mă crezi...
-De ce oare?
+[C]Vân[Am]tul prin plete-ți bă[F]tea
+[G]Când ți-am spus te iu[C]besc
+[Am]M-ai privit și-ai of[F]tat
+[G]Și mi-ai spus că nu [C]cre[Am]e[F]ezi...
+[G]De ce oare?
 
 Refren
 
-E seară și e târziu
-Străzile sunt pustii
-În zadar te aștept
-Căci tu n-ai să mai vii...
-De ce oare?
+[C]E [Am]seară și e târ[F]ziu
+[G]Străzile sunt pus[C]tii
+[Am]În zadar te aș[F]tept
+[G]Căci tu n-ai să mai [C]vii[Am]i[F]i...
+[G]De ce oare?
 
 Refren
 
-Iți spun adio acum,
+[C]Iți [Am]spun adio a[F]cum,
+[G]Voi pleca pe alt [C]drum.
+[Am]Cât de mult te-am iu[F]bit
+[G]Cât de mult te-am do[C]ri[Am]i[F]it !
+[G]De ce oare?
 
-Voi pleca pe alt drum.
-
-Cât de mult te-am iubit
-
-Cât de mult te-am dorit !
-
-Refren1
-
-Refren2 x2
+Refren
 ```
 
 #### Tardive
