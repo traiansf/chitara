@@ -6519,15 +6519,15 @@ Cum mănânci îți vine'a
 
 Țuică de Pitești bălaie (laie)...
 De te scarpină la (ce mă?) ... limbă
-Dispoziția ti-o schimbă. x2
+/Dispoziția ti-o schimbă./ x2
 
 Fripturică de boboci (oci)...
 Cu garnitură de (ce mă?) ... ceapă
 /De îți lasă gura apă./ x2
 
 Mere, pere, cozonaci, (naci)...
-Să mănânci până te (ce mă?) ... culci/
-De'atâtea bucate dulci./ x2
+Să mănânci până te (ce mă?) ... culci
+/De'atâtea bucate dulci./ x2
 
 Cui meniu n'a plăcut (cut)...
 Apăi muma lui sa'i (ce mă?) ... facă
