@@ -18,16 +18,17 @@ transpunere a acordurilor)
 
 | Partea | Cântece |
 |---|---|
-| **I — Cântece de cabană** | **177** |
-| &nbsp;&nbsp;I.1 — De munte și de drum | 91 |
-| &nbsp;&nbsp;I.2 — Naționaliste și de dor de țară | 19 |
-| &nbsp;&nbsp;I.3 — Studențești, de chef și deocheate | 67 |
+| **I — Cântece de cabană** | **166** |
+| &nbsp;&nbsp;I.1 — De munte și de drum | 77 |
+| &nbsp;&nbsp;I.2 — Populare și lăutărești | 17 |
+| &nbsp;&nbsp;I.3 — Naționaliste și de dor de țară | 19 |
+| &nbsp;&nbsp;I.4 — Studențești, de chef și deocheate | 53 |
 | II — Repertoriu românesc | 350 |
 | III — Repertoriu internațional | 95 |
-| **IV — Colinde și cântece de iarnă** | **116** |
-| &nbsp;&nbsp;IV.1 — Colinde românești | 61 |
+| **IV — Colinde și cântece de iarnă** | **115** |
+| &nbsp;&nbsp;IV.1 — Colinde românești | 56 |
 | &nbsp;&nbsp;IV.2 — Colinde internaționale | 10 |
-| &nbsp;&nbsp;IV.3 — Cântece de iarnă românești | 18 |
+| &nbsp;&nbsp;IV.3 — Cântece de iarnă românești | 22 |
 | &nbsp;&nbsp;IV.4 — Cântece de iarnă internaționale | 27 |
 
 176 de artiști în index, 550 de cântece atribuite. Fiecare cântec poartă

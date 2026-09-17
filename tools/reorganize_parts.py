@@ -15,8 +15,9 @@ CATS = "/home/traian/chitara/tools/categorii.json"
 PARTS = [
     ("I", "Partea I", "Cântece de cabană", [
         ("I.1", "De munte și de drum"),
-        ("I.2", "Naționaliste și de dor de țară"),
-        ("I.3", "Studențești, de chef și deocheate"),
+        ("I.2", "Populare și lăutărești"),
+        ("I.3", "Naționaliste și de dor de țară"),
+        ("I.4", "Studențești, de chef și deocheate"),
     ]),
     ("II", "Partea a II-a", "Repertoriu românesc", []),
     ("III", "Partea a III-a", "Repertoriu internațional", []),
