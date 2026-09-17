@@ -948,7 +948,7 @@ Refren x2
 [G]  Sus pe ^creastă la a[C]pus.  ^
 
 [C]  Flori de ^munte-am adu^nat,  ^ 
-[C]  Pe toate le-am îndră[Dm]gi^it
+[C]  Pe toa^te le-am îndră[Dm]gi^it
 [Dm]  Printre ^stânci noi ne-am ju[F]cat  ^
 [G]  Pe vre^mea când ne-am iu[C]bit  ^
 
@@ -964,7 +964,7 @@ O o o [C]Mâine,
 [G]  Tot ce ^crezi că vis a [C]fost ^
 
 [C]  Îți amin^tești, în Făgă^raș,  ^ 
-[C]  Capre negre am întâl[Dm]ni^it 
+[C]  Capre ^negre am întâl[Dm]ni^it 
 [Dm]  Nu e^ram într-un o[F]raș,  ^
 [G]  Dar e^ram la asfin[C]țit.  ^
 
