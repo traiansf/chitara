@@ -49,6 +49,7 @@ inline_tokens = make_pdf.inline_tokens
 layout_floating = make_pdf.layout_floating
 classify_converted_rows = make_pdf.classify_converted_rows
 measured_spacing = make_pdf.measured_spacing
+keep_multispace = make_pdf.keep_multispace
 
 
 def render_pre_interactive(body_lines):
@@ -143,7 +144,7 @@ def render_prop_interactive(tokens, lyric):
     layout = measured_spacing(tokens, lyric)
     pieces, pos = [], 0
     for (col, label), (spaces_before, _) in zip(tokens, layout):
-        pieces.append(html.escape(lyric[pos:col], quote=False))
+        pieces.append(html.escape(keep_multispace(lyric[pos:col]), quote=False))
         if spaces_before:
             # nbsp, not a plain space: outside <pre>, normal HTML
             # whitespace rules would collapse repeated plain spaces to one
@@ -157,7 +158,7 @@ def render_prop_interactive(tokens, lyric):
             pieces.append(
                 f'<span class="pf-a"><span class="ch" '
                 f'data-chord="{attr}">{text}</span></span>')
-    pieces.append(html.escape(lyric[pos:], quote=False))
+    pieces.append(html.escape(keep_multispace(lyric[pos:]), quote=False))
     return "".join(pieces)
 
 

@@ -452,6 +452,10 @@ def two_row_tokens(chord_line):
 DEJAVU_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 DEJAVU_REG = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 PROP_GAP_EM = 0.3  # minimum clearance between one floated label's glyph and the next
+# extra clearance on top of PROP_GAP_EM when no lyric word sits between two
+# floated labels (e.g. a run of chords/repeats ending a verse) - with no
+# syllable to anchor to, they read as one smear unless visibly separated
+PROP_GAP_EM_NO_WORD = 0.5
 _prop_fonts_cache = {}
 
 
@@ -472,21 +476,35 @@ def measured_spacing(tokens, lyric):
     whatever floats next unless something makes room. spaces_before
     counts how many nbsp characters (see render_prop_row) to insert right
     before that token's source position so its label clears the previous
-    one by at least PROP_GAP_EM, simulating each insertion's effect on a
-    running cursor position to decide the next one."""
+    one by at least PROP_GAP_EM, or PROP_GAP_EM_NO_WORD when no lyric word
+    sits between the two, simulating each insertion's effect on a running
+    cursor position to decide the next one."""
     bold, reg = _prop_fonts()
     nbsp_w = reg.text_length(" ", 1)
     out, cursor_em, label_end_em, prev_col = [], 0.0, None, 0
     for col, label in tokens:
-        cursor_em += reg.text_length(lyric[prev_col:col], 1)
+        gap_text = lyric[prev_col:col]
+        cursor_em += reg.text_length(gap_text, 1)
         spaces_before = 0
-        if label_end_em is not None and cursor_em < label_end_em:
-            spaces_before = int(-(-(label_end_em - cursor_em) // nbsp_w))  # ceil
-            cursor_em += spaces_before * nbsp_w
+        if label_end_em is not None:
+            target_em = label_end_em
+            if not gap_text.strip():
+                target_em += PROP_GAP_EM_NO_WORD
+            if cursor_em < target_em:
+                spaces_before = int(-(-(target_em - cursor_em) // nbsp_w))  # ceil
+                cursor_em += spaces_before * nbsp_w
         out.append((spaces_before, label))
         label_end_em = cursor_em + bold.text_length(label, 1) + PROP_GAP_EM
         prev_col = col
     return out
+
+
+def keep_multispace(text):
+    """A run of 2+ literal spaces in inline-notation lyrics is the source
+    convention for "this chord lands half a measure early" - outside a
+    <pre>, plain HTML would collapse it to one space and lose that meaning,
+    so everything past the first space in the run becomes nbsp instead."""
+    return re.sub(r"  +", lambda m: " " + " " * (len(m.group(0)) - 1), text)
 
 
 def render_prop_row(tokens, lyric):
@@ -502,7 +520,7 @@ def render_prop_row(tokens, lyric):
     layout = measured_spacing(tokens, lyric)
     pieces, pos = [], 0
     for (col, _), (spaces_before, label) in zip(tokens, layout):
-        pieces.append(html.escape(lyric[pos:col], quote=False))
+        pieces.append(html.escape(keep_multispace(lyric[pos:col]), quote=False))
         if spaces_before:
             # a literal space would be collapsed to one by normal HTML
             # whitespace rules (unlike generate_html.py's <pre>, .pf rows
@@ -513,7 +531,7 @@ def render_prop_row(tokens, lyric):
         cls = "pf-r" if label == "/" else "pf-c"
         pieces.append(f'<span class="pf-a"><span class="{cls}">'
                       f'{html.escape(label, quote=False)}</span></span>')
-    pieces.append(html.escape(lyric[pos:], quote=False))
+    pieces.append(html.escape(keep_multispace(lyric[pos:]), quote=False))
     return "".join(pieces)
 
 
