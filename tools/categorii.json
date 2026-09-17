@@ -91,15 +91,7 @@
   "motiv": "dragoste",
   "sectiune": "II"
  },
- "Amintire cu haiduci (I) || Caiet Christian Adventure, p. 15": {
-  "motiv": "haiduci, codru",
-  "sectiune": "I.1"
- },
- "Amintire cu haiduci (II) || Cărticica Karban, p. 144": {
-  "motiv": "haiduci, codru",
-  "sectiune": "I.1"
- },
- "Amintire cu haiduci (III) || Cărticica Karban, p. 145": {
+ "Amintire cu haiduci || Caiet Christian Adventure, p. 15": {
   "motiv": "haiduci, codru",
   "sectiune": "I.1"
  },
@@ -111,11 +103,7 @@
   "motiv": "folk, dragoste",
   "sectiune": "II"
  },
- "Amintiri din Făgăraș (I) || Caiet Christian Adventure, p. 17": {
-  "motiv": "creastă, Făgăraș",
-  "sectiune": "I.1"
- },
- "Amintiri din Făgăraș (II) || Caiet cabană RO, p. 30": {
+ "Amintiri din Făgăraș || Caiet Christian Adventure, p. 17": {
   "motiv": "creastă, Făgăraș",
   "sectiune": "I.1"
  },
@@ -131,11 +119,7 @@
   "motiv": "baladă, legenda lui Manole",
   "sectiune": "II"
  },
- "Andri Popa (I) || Caiet Christian Adventure, p. 19": {
-  "motiv": "haiduc, Andri Popa",
-  "sectiune": "I.1"
- },
- "Andri Popa (II) || Cărticica Karban, p. 116": {
+ "Andri Popa || Caiet Christian Adventure, p. 19": {
   "motiv": "haiduc, Andri Popa",
   "sectiune": "I.1"
  },
@@ -235,11 +219,7 @@
   "motiv": "baladă de dragoste",
   "sectiune": "II"
  },
- "Balada fulgerată de vânt (I) || Caiet cabană RO, p. 36": {
-  "motiv": "mers până la izvor, încadrat manual",
-  "sectiune": "I.1"
- },
- "Balada fulgerată de vânt (II) || Caiet Christian Adventure, p. 134": {
+ "Balada fulgerată de vânt || Caiet cabană RO, p. 36": {
   "motiv": "mers până la izvor, încadrat manual",
   "sectiune": "I.1"
  },
@@ -971,11 +951,7 @@
   "motiv": "folk",
   "sectiune": "II"
  },
- "Fata munților (I) || Caiet cabană RO, p. 8": {
-  "motiv": "Piatra Craiului, hoinăreală",
-  "sectiune": "I.1"
- },
- "Fata munților (II) || Caiet Christian Adventure, p. 72": {
+ "Fata munților (Fata din Crai) || Caiet cabană RO, p. 8": {
   "motiv": "Piatra Craiului, hoinăreală",
   "sectiune": "I.1"
  },
@@ -1020,10 +996,6 @@
   "sectiune": "I.3"
  },
  "Floare de colț (I) || Caiet Christian Adventure, p. 78": {
-  "motiv": "floare de colț, creste",
-  "sectiune": "I.1"
- },
- "Floare de colț (II) || Cărticica Karban, p. 45": {
   "motiv": "floare de colț, creste",
   "sectiune": "I.1"
  },
@@ -1135,11 +1107,7 @@
   "motiv": "hazliu de autor",
   "sectiune": "II"
  },
- "Hai dihai (I) || Caiet cabană RO, p. 23": {
-  "motiv": "dus în lume, pădurea",
-  "sectiune": "I.1"
- },
- "Hai dihai (II) || Cărticica Karban, p. 154": {
+ "Hai dihai || Caiet cabană RO, p. 23": {
   "motiv": "dus în lume, pădurea",
   "sectiune": "I.1"
  },
@@ -1247,12 +1215,8 @@
   "motiv": "Imnul Bucegilor",
   "sectiune": "I.1"
  },
- "Imnul Dianei (I) || Caiet cabană RO, p. 7": {
+ "Imnul Dianei || Caiet cabană RO, p. 7": {
   "motiv": "refugiul Diana, Plaiul Foii",
-  "sectiune": "I.1"
- },
- "Imnul Dianei (II) || Caiet Christian Adventure, p. 136": {
-  "motiv": "refugiul Diana, Carpați",
   "sectiune": "I.1"
  },
  "Imnul Pietrei Craiului || Caiet Christian Adventure, p. 85": {
@@ -1883,15 +1847,7 @@
   "motiv": "repertoriu internațional",
   "sectiune": "III"
  },
- "Om bun (I) || Caiet cabană RO, p. 15": {
-  "motiv": "menestreli pe drum, adăpost",
-  "sectiune": "I.1"
- },
- "Om bun (II) || Cărticica Karban, p. 11": {
-  "motiv": "menestreli pe drum, adăpost",
-  "sectiune": "I.1"
- },
- "Om bun (III) || Cărticica Karban, p. 12": {
+ "Om bun || Caiet cabană RO, p. 15": {
   "motiv": "menestreli pe drum, adăpost",
   "sectiune": "I.1"
  },
@@ -2727,11 +2683,7 @@
   "motiv": "rock",
   "sectiune": "II"
  },
- "Visul (I) || Caiet Christian Adventure, p. 173": {
-  "motiv": "vis născut în munți, la cabană",
-  "sectiune": "I.1"
- },
- "Visul (II) || Caiet cabană RO, p. 36": {
+ "Visul || Caiet Christian Adventure, p. 173": {
   "motiv": "vis născut în munți, la cabană",
   "sectiune": "I.1"
  },
