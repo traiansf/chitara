@@ -18,12 +18,12 @@ transpunere a acordurilor)
 
 | Partea | Cântece |
 |---|---|
-| **I — Cântece de cabană** | **171** |
+| **I — Cântece de cabană** | **174** |
 | &nbsp;&nbsp;I.1 — De munte și de drum | 78 |
-| &nbsp;&nbsp;I.2 — Populare și lăutărești | 21 |
+| &nbsp;&nbsp;I.2 — Populare și lăutărești | 23 |
 | &nbsp;&nbsp;I.3 — Naționaliste și de dor de țară | 19 |
-| &nbsp;&nbsp;I.4 — Studențești, de chef și deocheate | 53 |
-| II — Repertoriu românesc | 345 |
+| &nbsp;&nbsp;I.4 — Studențești, de chef și deocheate | 54 |
+| II — Repertoriu românesc | 342 |
 | III — Repertoriu internațional | 95 |
 | **IV — Colinde și cântece de iarnă** | **115** |
 | &nbsp;&nbsp;IV.1 — Colinde românești | 56 |

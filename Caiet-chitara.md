@@ -24,14 +24,14 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (171 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (174 cântece)
 
 - [I.1 — De munte și de drum](#i1--de-munte-și-de-drum) (78 cântece)
-- [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (21 cântece)
+- [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (23 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
-- [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (53 cântece)
+- [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (54 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (345 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (342 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
 
@@ -143,9 +143,11 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Pe deal pe la Cornățel](#pe-deal-pe-la-cornățel)
 - [Șatra (I)](#șatra-i)
 - [Șatra (II)](#șatra-ii)
+- [Și-am iubit o ardeleancă](#și-am-iubit-o-ardeleancă)
 - [Tango țigan](#tango-țigan)
 - [Țigăncușa (I)](#țigăncușa-i)
 - [Țigăncușa (II)](#țigăncușa-ii)
+- [Trandafir de la Moldova](#trandafir-de-la-moldova)
 - [Trec țiganii](#trec-țiganii)
 - [Uiuiui brădui](#uiuiui-brădui)
 
@@ -217,6 +219,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Să nu uităm](#să-nu-uităm)
 - [Și-alta dată](#și-alta-dată)
 - [Sobița](#sobița)
+- [Sunt sărac](#sunt-sărac)
 - [Suzana](#suzana)
 - [Te-am cunoscut în troleibuz (I)](#te-am-cunoscut-în-troleibuz-i)
 - [Te-am cunoscut în troleibuz (II)](#te-am-cunoscut-în-troleibuz-ii)
@@ -503,7 +506,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Și dacă (II)](#și-dacă-ii)
 - [Și de-ar fi (I)](#și-de-ar-fi-i)
 - [Și de-ar fi (II)](#și-de-ar-fi-ii)
-- [Și-am iubit o ardeleancă](#și-am-iubit-o-ardeleancă)
 - [Singur în noapte (I)](#singur-în-noapte-i)
 - [Singur în noapte (II)](#singur-în-noapte-ii)
 - [Singură](#singură)
@@ -516,7 +518,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Strada ta (II)](#strada-ta-ii)
 - [Strunga](#strunga)
 - [Suflet fără chei](#suflet-fără-chei)
-- [Sunt sărac](#sunt-sărac)
 - [Supărat](#supărat)
 - [Tăcut](#tăcut)
 - [Taina (I)](#taina-i)
@@ -534,7 +535,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Timișoara](#timișoara)
 - [Toți suntem puțin luați](#toți-suntem-puțin-luați)
 - [Totuși, iubirea](#totuși-iubirea)
-- [Trandafir de la Moldova](#trandafir-de-la-moldova)
 - [Trandafirul albastru](#trandafirul-albastru)
 - [Trece vremea](#trece-vremea)
 - [Tristă fiară](#tristă-fiară)
@@ -1632,19 +1632,14 @@ Pun [A]flori în coro[D]ni[A]ță
 **Ukulele:** Dm 2210 · F 2010 · C 0003
 
 ```text
-Dm          F
-Colo-n vale la izvor,
-C            Dm
-Se-ntâlnește dor cu dor,
-Dm        F
-Se sărută până mor
-C         Dm
-Facă voia ochilor.
+[Dm]  Colo-n vale [F]la izvor,
+[C]  Se-ntâlnește [Dm]dor cu dor,
+[Dm]  Se sărută [F]până mor
+[C]  Facă voia [Dm]ochilor.
 
 Refren:
-
-Adă bade ziua spusă,
-Să mă văd la tine dusă,
+[Dm]  Adă bade [F]ziua spusă,
+[C]  Să mă văd la [Dm]tine dusă,
 și să nu mai ducem dor,
 Că ni-i greu inimilor
 
@@ -5128,6 +5123,58 @@ E||------------------------||
 de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
 ```
 
+#### Și-am iubit o ardeleancă
+
+**Radu Ilie** · Sursa: Caiet Christian Adventure, p. 147 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/radu-ilie/si-am-iubit-o-ardeleanca-5581)
+
+**Chitară:** Am x02210 · Dm xx0231 · E7 020100 · C x32010 · F 133211
+
+**Ukulele:** Am 2000 · Dm 2210 · E7 1202 · C 0003 · F 2010
+
+```text
+Am            Dm     Am
+Ș-am iubit o ardeleancă
+  E7      Am      E7      Am
+O ardeleancă și-o ardeleancă
+Cu ochi negri de țigancă
+Păi de țigancă, păi de țigancă
+
+Refren x2:
+Dm
+Dar în ciuda tuturor
+C
+Am s-o iubesc pâna mor
+F                             E7
+Chiar de-ar fi să omor pe cineva
+
+Dm
+Lumea să mă lase-n pace
+Am
+Că iubesc pă cine-mi place
+E7                        Am
+C-așa-i viața mea de haimana
+
+Satu' întreg și lumea toata
+Mă dușmănește păntr-o fată
+Satu' întreg și lumea toata
+Mă dușmănește păntr-o fată
+
+Refren x2
+
+Fă-mă mamă dupa ghiuri
+Păi după ghiuri, păi după ghiuri
+Că ma țucă în vârful șurii
+În vârful șurii, în vârful șurii.
+
+Refren x2
+
+Dă-mă mamă după Toma
+Păi după Toma, păi după Toma
+Că mă pupă în toată torna
+În toată torna, în toată torna.
+Refren x2
+```
+
 #### Tango țigan
 
 Sursa: Caiet cabană RO, p. 70
@@ -5307,6 +5354,40 @@ A||------------2---------|------------2---------|--0-------------------|--0-----
 E||--0-------------------|--0-------------------|------------0---------|----------------------||
 exemplificat aici pentru primele patru strofe ale melodiei. Ultimele două se
 repetă J
+```
+
+#### Trandafir de la Moldova
+
+**Popular** · Sursa: Cărticica Karban, p. 207
+
+**Chitară:** A x02220 · E 022100 · D xx0232
+
+**Ukulele:** A 2100 · E 4442 · D 2220
+
+```text
+[A]Trandafir de la Moldova,
+[E]Te-aș iubi dar nu știu [A]vorba.
+[A]Trandafir de la Moldova,
+[E]Te-aș iubi dar nu știu [A]vorba.
+Refren:
+[A]Luncă-i luncă, iarba-i verde,
+[E]Ce-am iubit nu se mai [A]vede,
+[A]Ce-a fost verde s-a [D]uscat,
+[E]Ce-am iubit s-a spulbe[A]rat.
+[A]Trandafir moldovenesc,
+[E]Te-aș iubi dar nu-ndraz[A]nesc, mai.
+[A]Trandafir moldovenesc,
+[E]Te-aș iubi dar nu-ndraz[A]nesc, mai.
+[A]Trandafir de la Bacău,
+[E]Vino să te iubesc [A]eu, mai.
+[A]Trandafir de la Bacău,
+[E]Vino să te iubesc [A]eu, mai.
+[A]Trandafir din Dorohoi,
+[E]Să ne iubim amân[A]doi, mai!
+[A]Trandafir din Dorohoi,
+[E]Să ne iubim amân[A]doi, mai!
+Notă: Cântecul e în măsura 2/4 și după părerea mea foarte simplu de
+interpretat.
 ```
 
 #### Trec țiganii
@@ -8649,6 +8730,56 @@ Noroc că-s ghizi la BTT
 Și vin să mă ajute.
 
 Refren x2
+```
+
+#### Sunt sărac
+
+**Karma** · Sursa: Caiet Christian Adventure, p. 145 · Caiet cabană RO, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/sunt-sarac-2876)
+
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
+
+**Ukulele:** Am 2000 · Dm 2210 · E 4442
+
+```text
+Am            Dm           Am
+Mă întreb ce s-ar fi întâmplat
+Dm     Am        E          Am
+Dacă-n zori m-aș fi trezit bogat
+Am         Dm           Am
+Deseori la asta m-am gândit
+Dm   Am    E            Am
+Însa visul meu nu s-a-mplinit.
+
+Refren:
+ Am  Dm           Am
+Sunt sărac, sunt sărac
+         Dm         Am
+N-am un ban în buzunar
+        Dm        Am
+Sunt sărac și ce dacă
+       E           Am
+Eu cu soarta mă împac.
+
+Refren
+
+Banul e vorba țăranului
+Banul este ochiul dracului.
+Când îl ai îti pare foarte mic
+Când nu-l ai nu valorezi nimic.
+
+Refren
+
+Fericirea n-o poți cumpăra
+Nici cu bani și nici cu altceva
+Cânt și nimeni nu mă va opri
+Să dau glas tăcerii inimii.
+
+Refren x3+
+
+/Mai săraci, mai săraci,
+Mai săraci suntem ca voi
+Și ce dacă,
+Noi tot am venit la voi !/ x2 Hei !
 ```
 
 #### Suzana
@@ -21234,58 +21365,6 @@ Refren 2
 Refren 2
 ```
 
-#### Și-am iubit o ardeleancă
-
-**Radu Ilie** · Sursa: Caiet Christian Adventure, p. 147 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/radu-ilie/si-am-iubit-o-ardeleanca-5581)
-
-**Chitară:** Am x02210 · Dm xx0231 · E7 020100 · C x32010 · F 133211
-
-**Ukulele:** Am 2000 · Dm 2210 · E7 1202 · C 0003 · F 2010
-
-```text
-Am            Dm     Am
-Ș-am iubit o ardeleancă
-  E7      Am      E7      Am
-O ardeleancă și-o ardeleancă
-Cu ochi negri de țigancă
-Păi de țigancă, păi de țigancă
-
-Refren x2:
-Dm
-Dar în ciuda tuturor
-C
-Am s-o iubesc pâna mor
-F                             E7
-Chiar de-ar fi să omor pe cineva
-
-Dm
-Lumea să mă lase-n pace
-Am
-Că iubesc pă cine-mi place
-E7                        Am
-C-așa-i viața mea de haimana
-
-Satu' întreg și lumea toata
-Mă dușmănește păntr-o fată
-Satu' întreg și lumea toata
-Mă dușmănește păntr-o fată
-
-Refren x2
-
-Fă-mă mamă dupa ghiuri
-Păi după ghiuri, păi după ghiuri
-Că ma țucă în vârful șurii
-În vârful șurii, în vârful șurii.
-
-Refren x2
-
-Dă-mă mamă după Toma
-Păi după Toma, păi după Toma
-Că mă pupă în toată torna
-În toată torna, în toată torna.
-Refren x2
-```
-
 #### Singur în noapte (I)
 
 **Compact** · Sursa: Caiet cabană RO, p. 97 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/singur-in-noapte-11271)
@@ -21840,56 +21919,6 @@ Steaua-mi bate în fereastră unde-i umbra ta albastră
 Unde-s pașii tăi cei dragi, sânii mirosind a fragi
 Și mi-e frig și mi-e amar și mă chinui în zadar
 Mâna vai, pe strune-mi moare și pe tine nu te doare.
-```
-
-#### Sunt sărac
-
-**Karma** · Sursa: Caiet Christian Adventure, p. 145 · Caiet cabană RO, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/sunt-sarac-2876)
-
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
-
-**Ukulele:** Am 2000 · Dm 2210 · E 4442
-
-```text
-Am            Dm           Am
-Mă întreb ce s-ar fi întâmplat
-Dm     Am        E          Am
-Dacă-n zori m-aș fi trezit bogat
-Am         Dm           Am
-Deseori la asta m-am gândit
-Dm   Am    E            Am
-Însa visul meu nu s-a-mplinit.
-
-Refren:
- Am  Dm           Am
-Sunt sărac, sunt sărac
-         Dm         Am
-N-am un ban în buzunar
-        Dm        Am
-Sunt sărac și ce dacă
-       E           Am
-Eu cu soarta mă împac.
-
-Refren
-
-Banul e vorba țăranului
-Banul este ochiul dracului.
-Când îl ai îti pare foarte mic
-Când nu-l ai nu valorezi nimic.
-
-Refren
-
-Fericirea n-o poți cumpăra
-Nici cu bani și nici cu altceva
-Cânt și nimeni nu mă va opri
-Să dau glas tăcerii inimii.
-
-Refren x3+
-
-/Mai săraci, mai săraci,
-Mai săraci suntem ca voi
-Și ce dacă,
-Noi tot am venit la voi !/ x2 Hei !
 ```
 
 #### Supărat
@@ -22555,40 +22584,6 @@ Ce spun se aude aiurea
 MĂ-ntorc la silaba dintâi
 Prăval peste tine pădurea
 Adio, adică rămâi.
-```
-
-#### Trandafir de la Moldova
-
-**Popular** · Sursa: Cărticica Karban, p. 207
-
-**Chitară:** A x02220 · E 022100 · D xx0232
-
-**Ukulele:** A 2100 · E 4442 · D 2220
-
-```text
-[A]Trandafir de la Moldova,
-[E]Te-aș iubi dar nu știu [A]vorba.
-[A]Trandafir de la Moldova,
-[E]Te-aș iubi dar nu știu [A]vorba.
-Refren:
-[A]Luncă-i luncă, iarba-i verde,
-[E]Ce-am iubit nu se mai [A]vede,
-[A]Ce-a fost verde s-a [D]uscat,
-[E]Ce-am iubit s-a spulbe[A]rat.
-[A]Trandafir moldovenesc,
-[E]Te-aș iubi dar nu-ndraz[A]nesc, mai.
-[A]Trandafir moldovenesc,
-[E]Te-aș iubi dar nu-ndraz[A]nesc, mai.
-[A]Trandafir de la Bacău,
-[E]Vino să te iubesc [A]eu, mai.
-[A]Trandafir de la Bacău,
-[E]Vino să te iubesc [A]eu, mai.
-[A]Trandafir din Dorohoi,
-[E]Să ne iubim amân[A]doi, mai!
-[A]Trandafir din Dorohoi,
-[E]Să ne iubim amân[A]doi, mai!
-Notă: Cântecul e în măsura 2/4 și după părerea mea foarte simplu de
-interpretat.
 ```
 
 #### Trandafirul albastru
@@ -35298,7 +35293,7 @@ Note:Măsura este 4/4 iar ritmul este unul de swing.
 - **John Denver** — [Country Roads](#country-roads)
 - **John Lennon** — [Give Peace a Chance](#give-peace-a-chance), [Imagine](#imagine)
 - **José Feliciano** — [Feliz Navidad](#feliz-navidad)
-- **Karma** — [Alții mama nu mai face](#alții-mama-nu-mai-face), [Călător](#călător), [În loc de bun rămas](#în-loc-de-bun-rămas), [Mă întorc și pașii-s grei](#mă-întorc-și-pașii-s-grei), [Muntele alb](#muntele-alb), [Copilița fără minte](#copilița-fără-minte), [Puștoaică de liceu](#puștoaică-de-liceu), [Ai venit](#ai-venit), [Amintiri](#amintiri), [Bunica](#bunica), [Lacrimi și surâs](#lacrimi-și-surâs), [Sunt sărac](#sunt-sărac), [Tardive](#tardive), [Țurțuri metalici](#țurțuri-metalici), [Colindă tristă (I)](#colindă-tristă-i), [Colindă tristă (II)](#colindă-tristă-ii)
+- **Karma** — [Alții mama nu mai face](#alții-mama-nu-mai-face), [Călător](#călător), [În loc de bun rămas](#în-loc-de-bun-rămas), [Mă întorc și pașii-s grei](#mă-întorc-și-pașii-s-grei), [Muntele alb](#muntele-alb), [Copilița fără minte](#copilița-fără-minte), [Puștoaică de liceu](#puștoaică-de-liceu), [Sunt sărac](#sunt-sărac), [Ai venit](#ai-venit), [Amintiri](#amintiri), [Bunica](#bunica), [Lacrimi și surâs](#lacrimi-și-surâs), [Tardive](#tardive), [Țurțuri metalici](#țurțuri-metalici), [Colindă tristă (I)](#colindă-tristă-i), [Colindă tristă (II)](#colindă-tristă-ii)
 - **Led Zeppelin** — [Stairway to Heaven](#stairway-to-heaven)
 - **Luna amară** — [Roșu aprins](#roșu-aprins)
 - **Mădălina Amon** — [O nouă viață](#o-nouă-viață), [Amintire de fum](#amintire-de-fum)
