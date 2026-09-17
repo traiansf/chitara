@@ -502,9 +502,21 @@ def measured_spacing(tokens, lyric):
 def keep_multispace(text):
     """A run of 2+ literal spaces in inline-notation lyrics is the source
     convention for "this chord lands half a measure early" - outside a
-    <pre>, plain HTML would collapse it to one space and lose that meaning,
-    so everything past the first space in the run becomes nbsp instead."""
-    return re.sub(r"  +", lambda m: " " + " " * (len(m.group(0)) - 1), text)
+    <pre>, plain HTML would collapse it to one space and lose that meaning.
+    Naively keeping the literal character count (regular space + one nbsp)
+    only adds one bare ~0.28em space glyph, too subtle to read as
+    deliberate; instead the run becomes a regular space (a wrap point)
+    plus enough nbsp to clear at least PROP_GAP_EM_NO_WORD beyond a normal
+    single space - the same "visibly more room" magnitude already used
+    between wordless floated labels, so both read as one visual language."""
+    _, reg = _prop_fonts()
+    space_w = reg.text_length(" ", 1)
+    min_nbsp = int(-(-PROP_GAP_EM_NO_WORD // space_w))  # ceil
+
+    def grow(m):
+        return " " + " " * max(len(m.group(0)) - 1, min_nbsp)
+
+    return re.sub(r"  +", grow, text)
 
 
 def render_prop_row(tokens, lyric):
