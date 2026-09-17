@@ -37,7 +37,7 @@ MONO_STACK = "'Iosevka Fixed', 'DejaVu Sans Mono', monospace"
 # the book's sections, in order; a section with no songs is skipped.  Each gets
 # one divider page: the two strings are its upper and lower line.  Part I's four
 # subsections share the part line, so the part itself needs no page of its own.
-SECTIONS = [("I.1", "Partea I — Cântece de cabană", "I.1 — De munte și de drum"),
+SECTIONS = [("I.1", "Partea I — Cântece de cabană", "I.1 — De munte, de drum și de dor"),
             ("I.2", "Partea I — Cântece de cabană", "I.2 — Populare și lăutărești"),
             ("I.3", "Partea I — Cântece de cabană", "I.3 — Naționaliste și de dor de țară"),
             ("I.4", "Partea I — Cântece de cabană", "I.4 — Studențești, de chef și deocheate"),

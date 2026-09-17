@@ -25,7 +25,7 @@
  },
  "Adelina || Caiet cabană RO, p. 55": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Adio, deci pe curând (I) || Caiet Christian Adventure, p. 11": {
   "motiv": "dragoste",
@@ -45,7 +45,7 @@
  },
  "Ai venit || Cărticica Karban, p. 93": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Aiurit și aburit || Caiet cabană RO, p. 108": {
   "motiv": "poezie Poesis",
@@ -109,7 +109,7 @@
  },
  "Amintiri || Cărticica Karban, p. 94": {
   "motiv": "folk, amintiri",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Amorul cubist || Caiet cabană RO, p. 130": {
   "motiv": "dragoste",
@@ -265,7 +265,7 @@
  },
  "Bunica || Cărticica Karban, p. 95": {
   "motiv": "folk, familie",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Bye Bye Love || Caiet cabană EN, p. 6": {
   "motiv": "repertoriu internațional",
@@ -405,7 +405,7 @@
  },
  "Cerbul || Caiet Christian Adventure, p. 45": {
   "motiv": "baladă din codru",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Cerul și pământul (I) || Caiet cabană RO, p. 117": {
   "motiv": "colind / cântec de iarnă",
@@ -661,7 +661,7 @@
  },
  "Dacă vrei să pleci || Caiet cabană RO, p. 125": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Dacă vrei || Cărticica Karban, p. 56": {
   "motiv": "rock",
@@ -689,7 +689,7 @@
  },
  "De ce? || Caiet cabană RO, p. 157": {
   "motiv": "folk existențial",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "De-ar fi mândra-n deal la cruce || Cărticica Karban, p. 205": {
   "motiv": "populară, dragoste",
@@ -725,7 +725,7 @@
  },
  "Delirul || Caiet Christian Adventure, p. 56": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Departe || Cărticica Karban, p. 72": {
   "motiv": "pop, despărțire",
@@ -777,7 +777,7 @@
  },
  "Doi ochi căprui || Caiet Christian Adventure, p. 61": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Doi olteni (variantă) || Cărticica Karban, p. 239": {
   "motiv": "glumă, olteni",
@@ -841,11 +841,11 @@
  },
  "Dragoste în fân (I) || Caiet Christian Adventure, p. 67": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Dragoste în fân (II) || Caiet cabană RO, p. 26": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Dragostea cu patru foi || Cărticica Karban, p. 138": {
   "motiv": "dragoste",
@@ -1113,7 +1113,7 @@
  },
  "Hai să ne imaginăm || Caiet cabană RO, p. 163": {
   "motiv": "folk, utopie",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Hai să-ntindem hora mare || Cărticica Karban, p. 189": {
   "motiv": "Basarabia, frați uniți",
@@ -1257,7 +1257,7 @@
  },
  "Iubesc ploile || Caiet cabană RO, p. 158": {
   "motiv": "folk poetic",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Iubire-ideal || Caiet cabană RO, p. 103": {
   "motiv": "dragoste",
@@ -1373,7 +1373,7 @@
  },
  "Lacrimi și surâs || Cărticica Karban, p. 97": {
   "motiv": "folk, dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Last Christmas || Colinde Karban, p. 59": {
   "motiv": "colind / cântec de iarnă",
@@ -1381,7 +1381,7 @@
  },
  "Lavinia || Caiet cabană RO, p. 61": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Layla || Caiet Christian Adventure, p. 188": {
   "motiv": "repertoriu internațional",
@@ -1525,7 +1525,7 @@
  },
  "Micuța blondă || Caiet cabană RO, p. 54": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Mielul (I) || Caiet cabană RO, p. 51": {
   "motiv": "Vintilă, alegorie",
@@ -1717,11 +1717,11 @@
  },
  "Nu te mai iubesc (I) || Caiet Christian Adventure, p. 114": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Nu te mai iubesc (II) || Caiet cabană RO, p. 58": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Nu-i nimic, asta e! (I) || Caiet cabană RO, p. 86": {
   "motiv": "folk",
@@ -1833,7 +1833,7 @@
  },
  "Ochii verzi || Caiet cabană RO, p. 57": {
   "motiv": "populară",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Oh, Carol! || Caiet Christian Adventure, p. 197": {
   "motiv": "repertoriu internațional",
@@ -2057,7 +2057,7 @@
  },
  "Păpușa || Caiet Christian Adventure, p. 125": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Păpușarii || Caiet Christian Adventure, p. 126": {
   "motiv": "folk, protest",
@@ -2177,7 +2177,7 @@
  },
  "Seara de mai || Caiet Christian Adventure, p. 139": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Seara serilor || Colinde Karban, p. 95": {
   "motiv": "colind / cântec de iarnă",
@@ -2353,7 +2353,7 @@
  },
  "Tardive || Caiet Christian Adventure, p. 148": {
   "motiv": "folk",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Te voi aștepta || Cărticica Karban, p. 63": {
   "motiv": "pop, dragoste",
@@ -2569,7 +2569,7 @@
  },
  "Un lup || Caiet Christian Adventure, p. 164": {
   "motiv": "rock",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Un munte așternut || Caiet Christian Adventure, p. 165": {
   "motiv": "bocanci, chitară, muntele",
@@ -2597,7 +2597,7 @@
  },
  "Vagabonzi || Caiet cabană RO, p. 56": {
   "motiv": "vagabonzi ai iubirii, metaforă urbană",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Vara promisă (I) || Caiet cabană RO, p. 154": {
   "motiv": "folk, dragoste",
@@ -2657,7 +2657,7 @@
  },
  "Vino să dansăm, iubito || Caiet cabană RO, p. 118": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Vino, vino (I) || Cărticica Karban, p. 218": {
   "motiv": "printre munți, între brazi",
@@ -2697,7 +2697,7 @@
  },
  "Voi suferi || Caiet cabană RO, p. 52": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Vreau o minune! || Caiet Christian Adventure, p. 174": {
   "motiv": "rock",
@@ -2705,7 +2705,7 @@
  },
  "Vreau să trecem marea || Caiet Christian Adventure, p. 175": {
   "motiv": "folk",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Vremuri (I) || Caiet Christian Adventure, p. 176": {
   "motiv": "Phoenix",
@@ -2777,7 +2777,7 @@
  },
  "Ziua || Caiet cabană RO, p. 63": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Zori de zi || Caiet Christian Adventure, p. 178": {
   "motiv": "Phoenix",
@@ -2825,7 +2825,7 @@
  },
  "Înserarea || Caiet cabană RO, p. 127": {
   "motiv": "folk",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Întoarcere la orient (I) || Caiet Christian Adventure, p. 90": {
   "motiv": "folk, Făt Frumos",
@@ -2897,7 +2897,7 @@
  },
  "Țurțuri metalici || Caiet cabană RO, p. 155": {
   "motiv": "dragoste",
-  "sectiune": "II"
+  "sectiune": "I.1"
  },
  "Țăranul e pe câmp || Cărticica Karban, p. 260": {
   "motiv": "joc de copii",

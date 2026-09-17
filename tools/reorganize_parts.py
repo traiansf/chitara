@@ -14,7 +14,7 @@ CATS = "/home/traian/chitara/tools/categorii.json"
 # (cheie, titlu roman, denumire, subsecțiuni) — ordinea din carte
 PARTS = [
     ("I", "Partea I", "Cântece de cabană", [
-        ("I.1", "De munte și de drum"),
+        ("I.1", "De munte, de drum și de dor"),
         ("I.2", "Populare și lăutărești"),
         ("I.3", "Naționaliste și de dor de țară"),
         ("I.4", "Studențești, de chef și deocheate"),
