@@ -277,7 +277,7 @@ def render_sidebar(songs, filenames, current_num, prefix=""):
         out.append(
             f'<a class="song-link{cls}" data-search="{search}" '
             f'href="{prefix}{song_filename(s, filenames)}">'
-            f'{s["num"]}. {html.escape(s["title"])}</a>')
+            f'{html.escape(s["title"])}</a>')
     out.append("</nav>")
     return "".join(out)
 
@@ -302,7 +302,7 @@ def song_page(s, filenames, prev_s, next_s, songs):
 <button type="button" class="sidebar-toggle">☰ Cuprins</button>
 {render_sidebar(songs, filenames, s["num"], prefix="")}
 <main>
-<h1>{s["num"]}. {html.escape(s["title"])}</h1>
+<h1>{html.escape(s["title"])}</h1>
 {f'<div class="meta">{make_pdf.mini_md(s["meta"])}</div>' if s["meta"] else ""}
 {fingerings}
 <div class="transpose-controls">

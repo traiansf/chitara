@@ -16,7 +16,7 @@ face în el, direct sau printr-o unealtă, apoi se regenerează PDF-ul.
 Un cântec arată așa:
 
 ````
-#### 176. Miruna (I)
+#### Miruna (I)
 
 **Pasărea Colibri** · muzica/versuri: … · Sursa: Cărticica Karban, p. 88 · [tabulaturi.ro](…)
 
@@ -30,8 +30,11 @@ Un cântec arată așa:
 ````
 
 **Identitatea stabilă a unui cântec e `titlu || Sursa, p. N`** — unică pe toate
-cele 738. Numărul curent și ancora sunt derivate și se schimbă la fiecare
-rearanjare, deci nu construi nimic care să indexeze după număr.
+cele 738. Cântecele n-au număr de ordine (sunt alfabetice în fiecare
+secțiune și titlurile sunt deja unice); ancora e derivată din titlu și se
+poate schimba dacă alt cântec cu titlu identic i-o ia înainte alfabetic
+(rar — doar câteva perechi de titluri identice azi), deci nu construi nimic
+în afara caietului care indexează după ancoră.
 
 ## Structura cărții
 
@@ -42,11 +45,11 @@ titlu contează:
 |---|---|
 | `## Partea a II-a — Repertoriu românesc` | parte |
 | `### I.1 — De munte și de drum` | subsecțiune (părțile I și IV) |
-| `#### 176. Titlu` | cântec |
+| `#### Titlu` | cântec |
 
 `tools/categorii.json` ține încadrarea fiecărui cântec: cheia stabilă →
 `{"sectiune": "I.1"…"IV.4", "motiv": …}`. `tools/reorganize_parts.py` e singurul
-lucru care atribuie numere, ancore, cuprins și index pe artiști; e idempotent,
+lucru care atribuie ancore, cuprins și index pe artiști; e idempotent,
 deci **a muta un cântec înseamnă o linie schimbată în JSON plus o re-rulare**,
 nu o editare manuală a caietului.
 
@@ -61,7 +64,7 @@ python3 tools/make_pdf.py                  # regenerează PDF-ul (~2 min)
 python3 tools/add_guitar_chords.py         # recalculează digitațiile de chitară
 python3 tools/add_ukulele_chords.py        # idem, ukulele
 python3 tools/add_guitar_chords.py --check # verifică fiecare digitație contra notelor ei
-python3 tools/replace_song_block.py '#### 176. Miruna' continut.txt
+python3 tools/replace_song_block.py '#### Miruna' continut.txt
 python3 tools/collapse_repeated_chords.py  # comprimă acordurile repetate în ^
 tools/run.sh                               # reface caietul de la zero (vezi mai jos)
 make pdf                                   # = python3 tools/make_pdf.py

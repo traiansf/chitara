@@ -2,9 +2,9 @@
 """Rearrange Caiet-chitara.md into the four-part structure declared in categorii.json.
 
 Part I gets three subsections; parts II-IV are flat.  Songs keep their bodies
-untouched: only the header line, the running number and the anchors change.
-Running it over its own output changes nothing, so it is safe to re-run after
-editing categorii.json.
+untouched: only the header line and the anchors change.  Running it over its
+own output changes nothing, so it is safe to re-run after editing
+categorii.json.
 """
 import collections, json, re, sys, unicodedata
 
@@ -27,7 +27,10 @@ PARTS = [
         ("IV.4", "Cântece de iarnă internaționale"),
     ]),
 ]
-SONG_RE = re.compile(r"^#{3,4} (\d+)\. (.+)$")
+# the running number is gone from live (####-level) headings, but a ###-level
+# song only ever occurs in the historic flat layout (no subsections yet, so no
+# "### I.1 — ..." subsection header to confuse it with) and is always numbered
+SONG_RE = re.compile(r"^(?:#### (?:\d+\. )?|### \d+\. )(.+)$")
 
 
 def gh_slug(text, anchors):
@@ -58,8 +61,9 @@ def parse(lines):
             block.pop()  # the separator before the next part heading is not the song's
         meta = next((l for l in block if l.strip() and not l.startswith("**Ukulele:**")), "")
         src = re.search(r"Sursa: ([^·]+)", meta)
-        songs.append(dict(title=m.group(2).strip(),
-                          key=f"{m.group(2).strip()} || {src.group(1).strip() if src else '?'}",
+        title = m.group(1).strip()
+        songs.append(dict(title=title,
+                          key=f"{title} || {src.group(1).strip() if src else '?'}",
                           block=block))
     return songs
 
@@ -83,12 +87,9 @@ def main():
         sys.exit(f"secțiuni necunoscute în categorii.json: {sorted(unknown)}")
 
     anchors = collections.Counter()
-    num = 0
     for _, (sec, _) in order:
         for s in sorted(buckets[sec], key=lambda s: sortkey(s["title"])):
-            num += 1
-            s["num"] = num
-            s["slug"] = gh_slug(f"{num}. {s['title']}", anchors)
+            s["slug"] = gh_slug(s["title"], anchors)
 
     # ---- rebuild the file: intro and annex are kept verbatim
     intro = lines[:lines.index("## Cuprins")]
@@ -112,8 +113,8 @@ def main():
         for sec, subname in (subs or [(pkey, None)]):
             title = f"{sec} — {subname}" if subname else f"{roman} — {name}"
             out += [f"### {title} (alfabetic)", ""]
-            for s in sorted(buckets[sec], key=lambda s: s["num"]):
-                out.append(f"{s['num']}. [{s['title']}](#{s['slug']})")
+            for s in sorted(buckets[sec], key=lambda s: sortkey(s["title"])):
+                out.append(f"- [{s['title']}](#{s['slug']})")
             out += [""]
 
     artist_index = collections.defaultdict(list)
@@ -122,8 +123,8 @@ def main():
         for sec, subname in (subs or [(pkey, None)]):
             if subname:
                 out += [f"### {sec} — {subname}", ""]
-            for s in sorted(buckets[sec], key=lambda s: s["num"]):
-                out += [f"#### {s['num']}. {s['title']}"] + s["block"] + [""]
+            for s in sorted(buckets[sec], key=lambda s: sortkey(s["title"])):
+                out += [f"#### {s['title']}"] + s["block"] + [""]
                 meta = next((l for l in s["block"] if l.strip()), "")
                 if (am := re.match(r"^\*\*(.+?)\*\*", meta)):
                     artist_index[am.group(1)].append((s["title"], s["slug"]))
@@ -135,7 +136,7 @@ def main():
     out += [""] + annex
 
     open(MD, "w", encoding="utf-8").write("\n".join(out))
-    print(f"{num} cântece rearanjate")
+    print(f"{len(songs)} cântece rearanjate")
     for _, (sec, _) in order:
         print(f"  {sec:4} {len(buckets[sec]):4}")
 

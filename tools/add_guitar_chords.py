@@ -202,7 +202,7 @@ def main():
     path = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_PATH
     lines = open(path, encoding="utf-8").read().split("\n")
 
-    starts = [i for i, ln in enumerate(lines) if re.match(r"^#### \d+\. ", ln)]
+    starts = [i for i, ln in enumerate(lines) if ln.startswith("#### ")]
     bounds = []
     for start in starts:
         end = len(lines)

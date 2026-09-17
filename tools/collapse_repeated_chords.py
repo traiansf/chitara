@@ -77,7 +77,7 @@ def main():
     song = None
     out = []
     for ln in lines:
-        if re.match(r"^#### \d+\. ", ln):
+        if ln.startswith("#### "):
             song = ln
         if ln.startswith("```"):
             in_fence = not in_fence

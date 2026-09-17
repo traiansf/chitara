@@ -5,7 +5,10 @@ SRC = "/home/traian/chitara/Caiet-chitara.md"
 # Songs sit one level below their part's subsection since tools/reorganize_parts.py
 # introduced subsections for Part I and Part IV; ### is still accepted so that the
 # older pipeline steps, which write the flat layout, can be read back.
-HEAD_RE = re.compile(r"^#{3,4} (\d+)\. (.+)$")
+# the running number is gone from live (####-level) headings, but a ###-level
+# song only ever occurs in the historic flat layout (no subsections yet, so no
+# "### I.1 — ..." subsection header to confuse it with) and is always numbered
+HEAD_RE = re.compile(r"^(?:#### (?:(\d+)\. )?|### (\d+)\. )(.+)$")
 PART_H = re.compile(r"^## Partea (I|a II-a|a III-a|a IV-a) — ")
 SUB_H = re.compile(r"^### ([IV]+\.\d) — ")
 PART_KEY = {"I": "I", "a II-a": "II", "a III-a": "III", "a IV-a": "IV"}
@@ -68,7 +71,9 @@ def parse_songs(lines):
                 meta_idx, meta = j, lines[j].strip()
                 break
         am = re.match(r"^\*\*(.+?)\*\*", meta)
-        songs.append(dict(num=int(m.group(1)), title=m.group(2).strip(),
+        num = m.group(1) or m.group(2)
+        songs.append(dict(num=int(num) if num else None,
+                          title=m.group(3).strip(),
                           part=part_of[i], start=i, end=end,
                           meta_idx=meta_idx, meta=meta,
                           artist=am.group(1) if am else None))

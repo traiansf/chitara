@@ -107,7 +107,7 @@ def main():
     lines = open(path, encoding="utf-8").read().split("\n")
 
     song_starts = [i for i, ln in enumerate(lines)
-                   if re.match(r"^#### \d+\. ", ln)]
+                   if ln.startswith("#### ")]
     bounds = []
     for k, start in enumerate(song_starts):
         end = len(lines)

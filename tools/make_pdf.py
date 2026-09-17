@@ -21,6 +21,7 @@ Requires google-chrome-stable and pymupdf.
 Usage: python3 tools/make_pdf.py [--md PATH] [--out PATH]
 """
 import argparse
+import collections
 import html
 import re
 import subprocess
@@ -175,15 +176,22 @@ def parse(md_path):
         part_at[i] = cur_part
 
     songs = []
-    starts = [i for i, l in enumerate(lines) if re.match(r"^#### \d+\. ", l)]
+    anchors = collections.Counter()
+    starts = [i for i, l in enumerate(lines) if l.startswith("#### ")]
     for k, i in enumerate(starts):
         end = starts[k + 1] if k + 1 < len(starts) else len(lines)
         for j in range(i + 1, end):
             if lines[j].startswith("## ") or SUB_H.match(lines[j]):
                 end = j
                 break
-        m = re.match(r"^#### (\d+)\. (.*)", lines[i])
-        num, title = int(m.group(1)), m.group(2).strip()
+        title = re.match(r"^#### (?:\d+\. )?(.*)", lines[i]).group(1).strip()
+        # num is an internal per-run id (0..N-1), used only to key the
+        # page-tracking/verification maps below — it is never displayed.
+        num = k
+        base = slug(title)
+        n = anchors[base]
+        anchors[base] += 1
+        anchor = base if n == 0 else f"{base}-{n}"
         meta = uke = gtr = ""
         body, in_f = [], False
         for j in range(i + 1, end):
@@ -203,9 +211,9 @@ def parse(md_path):
             body.pop()
         while body and not body[0]:
             body.pop(0)
-        songs.append(dict(num=num, title=title, meta=meta, uke=uke, gtr=gtr,
-                          body=body, shrink=1.0, part=part_at[i],
-                          converted=has_inline_chords(body)))
+        songs.append(dict(num=num, title=title, anchor=anchor, meta=meta,
+                          uke=uke, gtr=gtr, body=body, shrink=1.0,
+                          part=part_at[i], converted=has_inline_chords(body)))
 
     def section(start_pat, stop_pat):
         s = re.search(start_pat, text)
@@ -690,7 +698,6 @@ pre {{ font-family: {MONO_STACK}; line-height: {LINE_H};
 code {{ font-family: {MONO_STACK}; font-size: 92%; }}
 .mk {{ color: #ffffff; font-size: 3pt; }}
 h2.song {{ font-size: 12.5pt; margin-bottom: 1.2mm; }}
-h2.song .n {{ color: #888; font-weight: normal; }}
 .meta {{ font-size: 7.5pt; color: #444; margin-bottom: 0.8mm; }}
 .meta a, .toc a, .idx a {{ color: #1a4d8b; text-decoration: none; }}
 .uke {{ font-size: 7.5pt; color: #333; margin-bottom: 0.8mm; }}
@@ -727,10 +734,8 @@ h1.sec {{ font-size: 16pt; margin-bottom: 4mm; }}
 def song_page(s):
     lay = best_layout(s)
     fs = lay["fs"]
-    anchor = slug(f'{s["num"]}. {s["title"]}')
-    parts = [f'<div class="page" id="{anchor}">']
-    parts.append(f'<h2 class="song"><span class="n">{s["num"]}.</span> '
-                 f'{html.escape(s["title"])}</h2>')
+    parts = [f'<div class="page" id="{s["anchor"]}">']
+    parts.append(f'<h2 class="song">{html.escape(s["title"])}</h2>')
     if s["meta"]:
         parts.append(f'<div class="meta">{mini_md(s["meta"])}</div>')
     for key in ("gtr", "uke"):
@@ -782,10 +787,9 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
             m = re.match(r"\*\*(.+?)\*\*", s["meta"])
             if m and m.group(1) != "Anonim":
                 artist = f" — {m.group(1)}"
-            label = html.escape(f'{s["num"]}. {s["title"]}{artist}')
-            anchor = slug(f'{s["num"]}. {s["title"]}')
+            label = html.escape(f'{s["title"]}{artist}')
             es.append(f'<div class="toc-e"><span class="t">'
-                      f'<a href="#{anchor}">{label}</a></span>'
+                      f'<a href="#{s["anchor"]}">{label}</a></span>'
                       f'<span class="dots"></span>'
                       f'<span class="pg">{pg}</span></div>')
         return "\n".join(es)
