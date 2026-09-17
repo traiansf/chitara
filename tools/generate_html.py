@@ -142,14 +142,14 @@ def render_prop_interactive(tokens, lyric):
     labels here carry data-chord and the "ch"/"rep" classes chords.js and
     the fingering tooltip already look for, so transpose keeps working."""
     layout = measured_spacing(tokens, lyric)
-    pieces, pos = [], 0
+    pieces, pos, prev_label = [], 0, None
     for (col, label), (spaces_before, _) in zip(tokens, layout):
-        pieces.append(html.escape(keep_multispace(lyric[pos:col]), quote=False))
+        pieces.append(html.escape(keep_multispace(lyric[pos:col], prev_label), quote=False))
         if spaces_before:
             # nbsp, not a plain space: outside <pre>, normal HTML
             # whitespace rules would collapse repeated plain spaces to one
             pieces.append(" " * spaces_before)
-        pos = col
+        pos, prev_label = col, label
         if label == "/":
             pieces.append('<span class="pf-a"><span class="rep">/</span></span>')
         else:
@@ -158,7 +158,7 @@ def render_prop_interactive(tokens, lyric):
             pieces.append(
                 f'<span class="pf-a"><span class="ch" '
                 f'data-chord="{attr}">{text}</span></span>')
-    pieces.append(html.escape(keep_multispace(lyric[pos:]), quote=False))
+    pieces.append(html.escape(keep_multispace(lyric[pos:], prev_label), quote=False))
     return "".join(pieces)
 
 

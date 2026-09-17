@@ -456,6 +456,12 @@ PROP_GAP_EM = 0.3  # minimum clearance between one floated label's glyph and the
 # floated labels (e.g. a run of chords/repeats ending a verse) - with no
 # syllable to anchor to, they read as one smear unless visibly separated
 PROP_GAP_EM_NO_WORD = 0.5
+# extra clearance on top of a chord/repeat's own measured width when the
+# source marks it as landing early (2+ literal spaces before the next
+# syllable) - kept separate from PROP_GAP_EM_NO_WORD so the two can be
+# tuned independently; a flat nbsp count sized for "C" would still let a
+# wider or annotated chord ("Dm7", not just "C") spill into the syllable
+PROP_GAP_EM_EARLY = 0.3
 _prop_fonts_cache = {}
 
 
@@ -499,19 +505,21 @@ def measured_spacing(tokens, lyric):
     return out
 
 
-def keep_multispace(text):
+def keep_multispace(text, prev_label=None):
     """A run of 2+ literal spaces in inline-notation lyrics is the source
     convention for "this chord lands half a measure early" - outside a
     <pre>, plain HTML would collapse it to one space and lose that meaning.
-    Naively keeping the literal character count (regular space + one nbsp)
-    only adds one bare ~0.28em space glyph, too subtle to read as
-    deliberate; instead the run becomes a regular space (a wrap point)
-    plus enough nbsp to clear at least PROP_GAP_EM_NO_WORD beyond a normal
-    single space - the same "visibly more room" magnitude already used
-    between wordless floated labels, so both read as one visual language."""
-    _, reg = _prop_fonts()
+    A flat nbsp count sized for a narrow chord like "C" would still let a
+    wider or annotated one ("Dm7", not just "Dm") spill past the run and
+    into the syllable, so the run becomes a regular space (a wrap point)
+    plus enough nbsp to clear prev_label's own measured width - the label
+    immediately before this run, i.e. the chord this convention is about -
+    plus PROP_GAP_EM_EARLY. prev_label is None when nothing floats right
+    before the run (rare); that falls back to PROP_GAP_EM_EARLY alone."""
+    bold, reg = _prop_fonts()
     space_w = reg.text_length(" ", 1)
-    min_nbsp = int(-(-PROP_GAP_EM_NO_WORD // space_w))  # ceil
+    label_w = bold.text_length(prev_label, 1) if prev_label else 0.0
+    min_nbsp = int(-(-(label_w + PROP_GAP_EM_EARLY) // space_w))  # ceil
 
     def grow(m):
         return " " + " " * max(len(m.group(0)) - 1, min_nbsp)
@@ -530,20 +538,20 @@ def render_prop_row(tokens, lyric):
     scroll fallback — carries a wrapped continuation's chords with it for
     free instead of leaving them anchored to the wrong visual line."""
     layout = measured_spacing(tokens, lyric)
-    pieces, pos = [], 0
+    pieces, pos, prev_label = [], 0, None
     for (col, _), (spaces_before, label) in zip(tokens, layout):
-        pieces.append(html.escape(keep_multispace(lyric[pos:col]), quote=False))
+        pieces.append(html.escape(keep_multispace(lyric[pos:col], prev_label), quote=False))
         if spaces_before:
             # a literal space would be collapsed to one by normal HTML
             # whitespace rules (unlike generate_html.py's <pre>, .pf rows
             # need real word-wrap); nbsp is exempt from collapsing and
             # doesn't itself introduce a wrap point
             pieces.append("\u00a0" * spaces_before)
-        pos = col
+        pos, prev_label = col, label
         cls = "pf-r" if label == "/" else "pf-c"
         pieces.append(f'<span class="pf-a"><span class="{cls}">'
                       f'{html.escape(label, quote=False)}</span></span>')
-    pieces.append(html.escape(keep_multispace(lyric[pos:]), quote=False))
+    pieces.append(html.escape(keep_multispace(lyric[pos:], prev_label), quote=False))
     return "".join(pieces)
 
 
