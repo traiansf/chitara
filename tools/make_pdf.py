@@ -140,6 +140,86 @@ def has_inline_chords(body):
     return any(not is_chord_line(ln) and real_chord.search(ln) for ln in body)
 
 
+REPEAT_CLOSE_RE = re.compile(r"/\s*[xX](\d+)\s*$")
+
+
+def _visible_slash(text):
+    """Index of the first '/' outside any [Chord] bracket, or -1 - a slash
+    chord's own bass note (e.g. [G7/4]) is blanked out first (preserving
+    indices) so it's never mistaken for a repeat marker."""
+    blanked = re.sub(r"\[[^\]]*\]", lambda m: " " * len(m.group(0)), text)
+    return blanked.find("/")
+
+
+def find_repeats(body_lines):
+    """[(start, end, count)] for each /.../ xN passage: the source's own
+    convention for "repeat this bit N times", a leading '/' and a
+    trailing '/ xN' bracketing the repeated lines (which may be just one
+    line, or several). The closing xN is unambiguous — a real chord's own
+    bass-note '/' (e.g. [G7/4]) never has a literal 'x' right after it —
+    but its opening '/' must be the nearest one at or before it within
+    the same strophe (a blank-line-separated block): one found only in an
+    earlier strophe means the source is missing its own opening '/', so
+    that's reported (sys.exit) rather than silently guessed at."""
+    strophes, cur = [], []
+    for i, ln in enumerate(body_lines):
+        if not ln.strip():
+            if cur:
+                strophes.append(cur)
+            cur = []
+        else:
+            cur.append(i)
+    if cur:
+        strophes.append(cur)
+
+    spans = []
+    for strophe in strophes:
+        avail_from = 0  # position in strophe below which lines are already
+                         # claimed by an earlier (in reading order) pair
+        for pos, idx in enumerate(strophe):
+            ln = body_lines[idx]
+            m = REPEAT_CLOSE_RE.search(ln)
+            if not m:
+                continue
+            count = int(m.group(1))
+            opener_pos = None
+            for p in range(pos, avail_from - 1, -1):
+                text = body_lines[strophe[p]][:m.start()] if p == pos \
+                    else body_lines[strophe[p]]
+                if _visible_slash(text) != -1:
+                    opener_pos = p
+                    break
+            if opener_pos is None:
+                sys.exit(f"marcaj de repetiție '/x{count}' fără '/' de "
+                         f"deschidere în aceeași strofă: {ln!r}")
+            spans.append((strophe[opener_pos], idx, count))
+            avail_from = pos + 1
+    return spans
+
+
+def mark_repeats(body_lines):
+    """body_lines with each /.../ xN repeat passage (find_repeats)
+    redrawn as the ASCII repeat-barline convention, ||: ... :|| ×N,
+    instead of the source's bare '/'. Plain text substitution within
+    each line rather than a structural bracket around several, so it
+    passes through word-wrap and column-splitting for free — no line-
+    index bookkeeping needed downstream. Unicode has real repeat-sign
+    glyphs (U+1D106/U+1D107), but DejaVu Sans — the only font this
+    project ships or relies on, for both the PDF and the site — has no
+    glyphs for them (confirmed via fitz.Font.has_glyph), so they'd
+    render as tofu; ||:/:|| is what chord-sheet sites already use for
+    the same thing, and is plain ASCII."""
+    lines = list(body_lines)
+    for start, end, count in find_repeats(lines):
+        m = REPEAT_CLOSE_RE.search(lines[end])
+        before = lines[end][:m.start()].rstrip()
+        lines[end] = f"{before} :|| ×{count}"
+        pos = _visible_slash(lines[start])
+        after = lines[start][pos + 1:].lstrip()
+        lines[start] = f"{lines[start][:pos]}||: {after}"
+    return lines
+
+
 def slug(text):
     s = unicodedata.normalize("NFC", text).lower()
     s = re.sub(r"[^\w\s-]", "", s, flags=re.UNICODE)
@@ -211,6 +291,7 @@ def parse(md_path):
             body.pop()
         while body and not body[0]:
             body.pop(0)
+        body = mark_repeats(body)
         songs.append(dict(num=num, title=title, anchor=anchor, meta=meta,
                           uke=uke, gtr=gtr, body=body, shrink=1.0,
                           part=part_at[i], converted=has_inline_chords(body)))
