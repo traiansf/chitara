@@ -24,9 +24,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (202 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (201 cântece)
 
-- [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (105 cântece)
+- [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (24 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (54 cântece)
@@ -119,8 +119,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Muntele alb](#muntele-alb)
 - [Munții mei](#munții-mei)
 - [Noapte la mare, noapte la munte](#noapte-la-mare-noapte-la-munte)
-- [Nu te mai iubesc (I)](#nu-te-mai-iubesc-i)
-- [Nu te mai iubesc (II)](#nu-te-mai-iubesc-ii)
+- [Nu te mai iubesc](#nu-te-mai-iubesc)
 - [Numai noi](#numai-noi)
 - [Nunta pe Caraiman (I)](#nunta-pe-caraiman-i)
 - [Nunta pe Caraiman (II)](#nunta-pe-caraiman-ii)
@@ -3863,65 +3862,51 @@ Iubita mea s-a îmbrăcat în alb
 **Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003 · Dm 2210
 
 ```text
-Am    E    Am
-Ninge cu vorbe secate
-      G
-Când iarna e grea
-       C
-Și viscolul bate
-Dm    E    Am
-Ninge cu vorbe secate.
+[Am]Ninge cu [E]vorbe se[Am]cate  ^
+Când [G]iarna e grea
+Și [C]viscolul bate
+[Dm]Ninge cu [E]vorbe se[Am]cate.  ^
 
-Și iarna e solitară
-Când stele de gheață
-Scânteie afară
-Și iarna e solitară.
+[Am]  Și iarna [E]e soli[Am]tară  ^
+Când [G]stele de gheață
+Scân[C]teie afară
+[Dm]Și iarna [E]e soli[Am]tară.  ^
 
 Refren:
 
-G
-Tu ești visul meu alb
-C
-În care mă-mbrac
- Dm                Am
-În miresme de crin și de liliac
- E         Am
-Tu ești visul meu alb.
+Tu ești [G]visul meu alb
+În [C]care mă-mbrac
+În mi[Dm]resme de crin și de [Am]liliac
+/Tu ești [E]visul meu [Am]alb/ x2
 
-Tu ești muntele alb
-Pe care-l urcăm
-Și-nălțimile tale ne cad la picioa
-Tu ești muntele alb.
+Tu ești [G]muntele alb
+Pe [C]care-l urcăm
+Și-năl[Dm]țimile tale ne [Am]cad la picioare
+/Tu ești [E]muntele [Am]alb/ x2
 
-Ninge cu vorbele tale
-E iarna fierbinte
-Ca o rugăminte
-Ninge cu vorbele tale.
+[Am]Ninge cu [E]vorbele [Am]tale  ^
+E [G]iarnă fierbinte
+Ca [C]o rugăminte
+[Dm]Ninge cu [E]vorbele [Am]tale  ^
 
-Și te-aș iubi în ianuarie
-Ca pe-o floare de crin
-Ca pe-o stea căzătoare
-Și te-aș iubi în ianuarie.
+[Am]Și te-aș iu[E]bi în ia[Am]nuarie  ^
+Ca pe-o [G]floare de crin
+Ca pe-o [C]stea căzătoare
+[Dm]Și te-aș iu[E]bi în ianu[Am]arie.  ^
 
 Refren
 
-Și îmi pastrez jurământul
-Să fiu o biată frunză
-Ce-o leagănă vântul
-Și îmi păstrez jurământul.
+[Am]Și îmi păs[E]trez jură[Am]mântul  ^
+Să fiu [G]biată frunză
+Ce-o [C]leagănă vântul
+[Dm]Și îmi păs[E]trez jură[Am]mântul  ^
 
-Iar tu rămâi ca o sete
-Pe care-o astâmperi
-Când iarna începe
-Iar tu rămâi ca o sete.
+[Am]Iar tu ră[E]mâi ca o [Am]sete  ^
+Pe [G]care-o astâmperi
+Când [C]iarna începe
+[Dm]Iar tu ră[E]mâi ca o [Am]sete  ^
 
-Refren x2:
-Tu ești muntele alb
-Pe care-l urcăm
-Și-nălțimile tale ne cad la
-re
-picioare
-/Tu ești muntele alb./ (x3)
+Refren x2
 ```
 
 #### Munții mei
@@ -4049,88 +4034,54 @@ Refren
 Refren
 ```
 
-#### Nu te mai iubesc (I)
+#### Nu te mai iubesc
 
-**Sentiment** · Sursa: Caiet Christian Adventure, p. 114 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/nu-te-mai-iubesc-7266)
+**Sentiment** · Sursa: Caiet Christian Adventure, p. 114 · Caiet cabană RO, p. 58 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ursul-trubadur/nu-te-mai-iubesc-7266)
 
 **Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
-C                     Am
-Mai ții minte seara-n care
-F                     G
-Eu ți-am spus că te iubesc,ooo
-M-ai privit cu nepăsare
-M-ai făcut ca să roșesc,ooo
+[C]Mai ții minte seara-n [Am]care
+[F]Eu ți-am spus că te iu[G]besc,ooo
+[C]M-ai privit cu nepă[Am]sare
+[F]M-ai făcut ca să ro[G]șesc,ooo
 
 Refren:
-Nu te mai iubesc
-Aș vrea să știe orișicine
-Cât te-am iubit
-Dar tu ai râs, ai râs de mine
+[C]Nuuuuu te mai iu[Am]besc
+Și-aș [F]vrea să știe [G]orișicine
+[C]Cââââât te-am iu[Am]bit
+Dar [F]tu ai râs, ai [G]râs de mine  ^
+ooo, [C]  [Am] [F] [G]
 
-Te credeai o preafrumoasă
-Cosânzeană din povești
-N-ai știut ce e iubirea
-Și acum mă părăsești
-Refren
-
-Azi iubesc o altă fată
-Altă dragoste-am găsit
-O iubesc și mă iubește
-Și de-aceea-s fericit
-Refren
-
-Ai rămas o amintire
-Dintr-o viață de școlar
-O poveste de iubire
-De care nu ai habar
-Refren
-
-Banca și aleea școlii
-Eu pe toate le-am uitat
-Însă n-am uitat și clipa
-Când noi doi ne-am sărutat...
+[C]Te credeai o preafru[Am]moasă
+[F]Cosânzeană din po[G]vești, ooo
+[C]N-ai știut ce e iu[Am]birea
+[F]Și acum mă pără[G]sești, ooo
 
 Refren
-```
 
-#### Nu te mai iubesc (II)
+[C]Azi iubesc o altă [Am]fată
+[F]Altă dragoste-am gă[G]sit, ooo
+[C]O iubesc și mă iu[Am]bește
+[F]Și de-aceea-s feri[G]cit, ooo
 
-variantă a cântecului „Nu te mai iubesc”, cu titlul „Mai ții minte seara-n care?” · Sursa: Caiet cabană RO, p. 58
+Refren
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+[C]Ai rămas o amin[Am]tire
+[F]Dintr-o viață de șco[G]lar, ooo
+[C]O poveste de iu[Am]bire
+[F]De care nu ai ha[G]bar, ooo
 
-**Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
+Refren
 
-```text
-1.
-  G                    Em
-Mai ții minte seara-n care
-       C                D
-Eu ți-am spus că te iubesc?
-M-ai privit cu nepăsare
-M-ai făcut ca să roșesc.
+[C]Banca și aleea [Am]școlii
+[F]Eu pe toate le-am ui[G]tat, ooo
+[C]Însă n-am uitat și [Am]clipa
+[F]Când noi doi ne-am săru[G]tat, ooo
 
-R:
-Nu te mai iubesc
-Și aș vrea să știe orișicine
-Cum te-am iubit
-Iar tu ai râs, ai râs de mine.
-
-2.
-Te credeai o preafrumoasă
-Cosânzeană din povești
-N-ai știut ce e iubirea
-Și acum mă părăsești.
-
-3.
-Azi iubesc o altă fată
-Altă dragoste-am găsit
-Nu-i ca tine de frumoasă
-Dar o iubesc și sunt iubit.
+Refren
 ```
 
 #### Numai noi
@@ -36003,7 +35954,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Roza Vânturilor** — [Numai noi](#numai-noi), [Râpa](#râpa)
 - **Scorpions** — [Holiday](#holiday), [Still Loving You](#still-loving-you), [Wind of Change](#wind-of-change)
 - **Semnal M** — [La fereastra ta (I)](#la-fereastra-ta-i), [La fereastra ta (II)](#la-fereastra-ta-ii), [Spune-mi cine ești (I)](#spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#spune-mi-cine-ești-ii)
-- **Sentiment** — [Nu te mai iubesc (I)](#nu-te-mai-iubesc-i)
+- **Sentiment** — [Nu te mai iubesc](#nu-te-mai-iubesc)
 - **Simon & Garfunkel** — [Bye Bye Love](#bye-bye-love), [El Condor Pasa](#el-condor-pasa), [Mrs. Robinson](#mrs-robinson), [The Sound of Silence](#the-sound-of-silence)
 - **Skid Row** — [I Remember](#i-remember)
 - **Slade** — [Merry Xmas Everybody](#merry-xmas-everybody)
