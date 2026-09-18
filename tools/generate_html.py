@@ -52,6 +52,19 @@ measured_spacing = make_pdf.measured_spacing
 keep_multispace = make_pdf.keep_multispace
 
 
+def inline_chord_span(label, attrs="", cls=""):
+    """The <span> for an inline chord's label. data-chord is the bare
+    chord even for an optional one ("(G)", see make_pdf.split_optional),
+    so transposing and the fingering tooltip treat it like any other;
+    its "opt" class has site.css draw the parentheses around whatever
+    name chords.js writes into it."""
+    chord, optional = make_pdf.split_optional(label)
+    classes = " ".join(c for c in ("ch", "opt" if optional else "", cls) if c)
+    attr = html.escape(chord, quote=True)
+    text = html.escape(chord, quote=False)
+    return f'<span class="{classes}" data-chord="{attr}"{attrs}>{text}</span>'
+
+
 def render_tab_interactive(lines):
     """A tablature block (make_pdf.tab_blocks) as its own monospace box
     that never wraps — site.css lets it scroll sideways on a narrow screen
@@ -151,10 +164,7 @@ def render_pre_interactive(body_lines):
             pos = m.end()
             style = f'style="left:{left}ch"'
             if m.group(1) is not None:
-                attr = html.escape(label, quote=True)
-                text = html.escape(label, quote=False)
-                floats.append(
-                    f'<span class="ch float" data-chord="{attr}" {style}>{text}</span>')
+                floats.append(inline_chord_span(label, f" {style}", "float"))
             else:
                 floats.append(f'<span class="rep float" {style}>/</span>')
         lyric.append(html.escape(ln[pos:], quote=False))
@@ -186,11 +196,7 @@ def render_prop_interactive(tokens, lyric):
         if label == "/":
             pieces.append('<span class="pf-a"><span class="rep">/</span></span>')
         else:
-            attr = html.escape(label, quote=True)
-            text = html.escape(label, quote=False)
-            pieces.append(
-                f'<span class="pf-a"><span class="ch" '
-                f'data-chord="{attr}">{text}</span></span>')
+            pieces.append(f'<span class="pf-a">{inline_chord_span(label)}</span>')
     pieces.append(html.escape(keep_multispace(lyric[pos:], prev_label), quote=False))
     return "".join(pieces)
 

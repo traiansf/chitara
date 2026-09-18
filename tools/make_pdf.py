@@ -85,8 +85,19 @@ def is_chord_line(ln):
         t in SKIP_TOKENS or CHORD_RE.match(t) for t in toks)
 
 
-INLINE_CHORD_RE = re.compile(r"\[([A-G][^\]]*)\]|\^")
+# an inline chord, [Am] — or [(Am)] for an optional one (play it or not),
+# whose label keeps the parentheses so it floats above the lyric as "(Am)"
+INLINE_CHORD = r"\[(\([A-G][^\]]*\)|[A-G][^\]]*)\]"
+INLINE_CHORD_RE = re.compile(INLINE_CHORD + r"|\^")
 MIN_LABEL_GAP = 1  # whole characters of breathing room between adjacent floats
+
+
+def split_optional(label):
+    """(chord, optional) for an inline chord label: "(G)" -> ("G", True),
+    "G" -> ("G", False)."""
+    if label.startswith("(") and label.endswith(")"):
+        return label[1:-1], True
+    return label, False
 
 
 def inline_tokens(ln):
@@ -152,7 +163,7 @@ def has_inline_chords(body):
 # grid, so it is rendered as its own monospace block that never wraps —
 # shrunk to fit instead — even in the proportional layout of converted songs.
 
-REAL_CHORD_RE = re.compile(r"\[([A-G][^\]]*)\]")
+REAL_CHORD_RE = re.compile(INLINE_CHORD)
 
 
 class TabLine(str):

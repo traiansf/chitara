@@ -38,7 +38,7 @@ def rebuild_chord_line(line, shift):
     return buf
 
 
-INLINE_CHORD_RE = re.compile(r"\[[A-G][^\]]*\]")
+INLINE_CHORD_RE = re.compile(r"\[\(?[A-G][^\]]*\]")  # [Am], or [(Am)] if optional
 
 
 def transform_block(lines):

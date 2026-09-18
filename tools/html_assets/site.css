@@ -44,6 +44,11 @@ pre {
 .ln-anchor { position: relative; display: inline-block; width: 0; }
 .bl { display: block; height: 0.7em; }
 .ch { color: #8b1a1a; font-weight: bold; cursor: help; }
+/* an optional inline chord, [(G)] in the source: data-chord and the text
+   are the bare chord, so it transposes like any other; the parentheses
+   are drawn here, around whatever name chords.js writes in */
+.ch.opt::before { content: "("; }
+.ch.opt::after { content: ")"; }
 /* a chord named in a note (make_pdf.note_html): looks like one and has
    the fingering tooltip, but is not transposed */
 .ch-note { color: #8b1a1a; font-weight: bold; cursor: help; }

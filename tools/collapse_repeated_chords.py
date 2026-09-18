@@ -38,7 +38,10 @@ CHORD_RE = re.compile(
     r"(?:/[A-G](?:#|b)?)?$"
 )
 SKIP_TOKENS = {"FC", "FCG", "[fill]", "/"}
-INLINE_RE = re.compile(r"\[([A-G][^\]]*)\]")
+# [Am], or [(Am)] for an optional chord: one is never collapsed into "^"
+# nor is it a repeat of the plain chord before it, but it still stands
+# between two plain ones, so [D]..[(G)]..[D] keeps its second [D]
+INLINE_RE = re.compile(r"\[(\([A-G][^\]]*\)|[A-G][^\]]*)\]")
 
 
 def line_is_chords(line):
@@ -56,8 +59,9 @@ def collapse_line(line):
         out.append(gap)
         stripped.append(gap)
         chord = m.group(1)
-        out.append("^" if chord == prev_chord else m.group(0))
-        n += chord == prev_chord
+        repeat = chord == prev_chord and not chord.startswith("(")
+        out.append("^" if repeat else m.group(0))
+        n += repeat
         prev_chord, last_end = chord, m.end()
     tail = line[last_end:]
     out.append(tail)

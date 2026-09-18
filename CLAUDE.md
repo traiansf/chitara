@@ -195,6 +195,13 @@ Ce face fiecare grup:
   `[Dm]`; `tools/collapse_repeated_chords.py` face conversia automat. Nu
   se confundă cu `/` de pe rândul de acorduri (deasupra versului), care
   înseamnă altceva: o digitație alternativă pentru acordul precedent.
+- Tot în notația inline, un acord opțional (se cântă sau nu, după gust) se
+  scrie între paranteze rotunde în interiorul celor drepte: `Ia, [(G)]hai`.
+  Apare deasupra versului tot în paranteze, `(G)` — și în PDF, și pe site,
+  unde se transpune ca oricare altul (`data-chord` e acordul gol, `G`;
+  parantezele le desenează `site.css`, clasa `.ch.opt`). Intră în
+  rândurile de digitații și nu devine niciodată `^`; nici acordul de după
+  el nu se comprimă în `^` peste el (`[D]…[(G)]…[D]` rămâne așa).
 - Blocurile ` ```tab ` se randează separat, mereu monospațiat și fără
   rupere de rând — și în cântecele cu font proporțional: în PDF își
   micșorează doar propriul font cât să încapă în coloană, pe site se

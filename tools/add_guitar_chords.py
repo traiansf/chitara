@@ -193,6 +193,11 @@ def check():
     return not bad
 
 
+def unwrap_optional(tok):
+    """An optional inline chord, [(G)], needs the same fingering as G."""
+    return tok[1:-1] if tok.startswith("(") and tok.endswith(")") else tok
+
+
 def line_is_chords(line):
     toks = line.split()
     return bool(toks) and all(t in SKIP_TOKENS or CHORD_RE.match(t)
@@ -235,7 +240,8 @@ def main():
                         if CHORD_RE.match(t)]
             else:
                 toks = (ln.split() if line_is_chords(ln)
-                        else [t for t in re.findall(r"\[([^\]]*)\]", ln)
+                        else [t for t in map(unwrap_optional,
+                                             re.findall(r"\[([^\]]*)\]", ln))
                               if CHORD_RE.match(t)])
             for t in toks:
                 if t in SKIP_TOKENS or t in seen:
