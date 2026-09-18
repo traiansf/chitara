@@ -220,6 +220,16 @@ function currentFingeringFor(rawChord, instrument) {
   return /^[0-9a-fx]+$/.test(last) ? last : null;
 }
 
+function originalFingeringFor(rawChord, instrument) {
+  // the untransposed fingering, for a chord label that is never
+  // transposed itself (.ch-note, a chord named in a note)
+  const el = document.querySelector(
+    '.fingering[data-chord="' + rawChord + '"][data-instrument="' + instrument + '"]'
+  );
+  const f = el ? el.dataset.fingering : null;
+  return f && /^[0-9a-fx]+$/.test(f) ? f : null;
+}
+
 function tooltipContentFor(el) {
   const raw = el.dataset.chord;
   if (el.classList.contains("fingering")) {
@@ -227,9 +237,10 @@ function tooltipContentFor(el) {
     const fingering = currentFingeringFor(raw, instrument);
     return fingering ? buildFingeringSVG(fingering, STRING_COUNT[instrument]) : null;
   }
+  const lookup = el.classList.contains("ch-note") ? originalFingeringFor : currentFingeringFor;
   const parts = [];
   for (const instrument of ["guitar", "ukulele"]) {
-    const fingering = currentFingeringFor(raw, instrument);
+    const fingering = lookup(raw, instrument);
     if (fingering) parts.push(buildFingeringSVG(fingering, STRING_COUNT[instrument]));
   }
   return parts.length ? parts.join("") : null;
@@ -261,12 +272,13 @@ function initFingeringTooltip() {
   };
   const hide = () => { tip.hidden = true; };
 
+  const TIPPED = ".ch[data-chord], .ch-note[data-chord], .fingering[data-chord]";
   document.addEventListener("mouseover", (e) => {
-    const el = e.target.closest(".ch[data-chord], .fingering[data-chord]");
+    const el = e.target.closest(TIPPED);
     if (el) show(el);
   });
   document.addEventListener("mouseout", (e) => {
-    const el = e.target.closest(".ch[data-chord], .fingering[data-chord]");
+    const el = e.target.closest(TIPPED);
     if (el) hide();
   });
   // keyboard access: only the fingering-summary line (a handful of spans

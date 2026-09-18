@@ -24,16 +24,16 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (204 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (202 cântece)
 
-- [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (107 cântece)
+- [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (105 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (24 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (54 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (313 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (315 cântece)
 
-- [II.1 — Folk](#ii1--folk) (225 cântece)
+- [II.1 — Folk](#ii1--folk) (227 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (88 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
@@ -91,7 +91,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Evadare](#evadare)
 - [Fata din Caraiman](#fata-din-caraiman)
 - [Fata munților (Fata din Crai)](#fata-munților-fata-din-crai)
-- [Floare de colț (I)](#floare-de-colț-i)
+- [Floare de colț](#floare-de-colț)
 - [Freamătă pădurea](#freamătă-pădurea)
 - [Hai dihai](#hai-dihai)
 - [Hai să ne imaginăm](#hai-să-ne-imaginăm)
@@ -116,8 +116,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Mi-e dragă pădurea](#mi-e-dragă-pădurea)
 - [Micul prinț](#micul-prinț)
 - [Micuța blondă](#micuța-blondă)
-- [Moartea unui alpinist (I)](#moartea-unui-alpinist-i)
-- [Moartea unui alpinist (II)](#moartea-unui-alpinist-ii)
 - [Muntele alb](#muntele-alb)
 - [Munții mei](#munții-mei)
 - [Noapte la mare, noapte la munte](#noapte-la-mare-noapte-la-munte)
@@ -388,6 +386,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Mihai, câți copii îmi dai?](#mihai-câți-copii-îmi-dai)
 - [Miruna (I)](#miruna-i)
 - [Miruna (II)](#miruna-ii)
+- [Moartea unui alpinist (I)](#moartea-unui-alpinist-i)
+- [Moartea unui alpinist (II)](#moartea-unui-alpinist-ii)
 - [Mr. Tambourine Man](#mr-tambourine-man)
 - [Mugur de fluier (I)](#mugur-de-fluier-i)
 - [Mugur de fluier (II)](#mugur-de-fluier-ii)
@@ -2788,7 +2788,7 @@ Să-i întâl[G]nesc pe cei ce m-au năs[C]cut./ x2
 Și-un cântec [G]vechi de la străbuni lă[C]sat./ x2
 ```
 
-#### Floare de colț (I)
+#### Floare de colț
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 78 · Caiet cabană RO, p. 31 · Cărticica Karban, p. 45 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/floare-de-colt-301)
 
@@ -3852,103 +3852,6 @@ Pieriți voi flori, apui tu soare,
 Iubita mea s-a îmbrăcat în alb
 Și nu există nici o floare
 Și nici un soare-atât de cald ca ea.
-```
-
-#### Moartea unui alpinist (I)
-
-Sursa: Caiet cabană RO, p. 17 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/moartea-unui-alpinist-1661)
-
-**Chitară:** Am x02210 · E 022100 · Dm xx0231 · C x32010 · E7 020100
-
-**Ukulele:** Am 2000 · E 4442 · Dm 2210 · C 0003 · E7 1202
-
-```text
-1.
-  Am         E    Dm      C
-Ninge peste munte cu melancolie
-   Am         E   Dm        C
-Ninge peste moartea unui alpinist
-Ninge peste astre, ninge și sfârșește
-Inima ce-mi bate azi în pieptul trist.
-
-R:
-   Am           E
-Ninge sfânt și păgân,
-  Dm             C
-Numai ochii ne rămân
-  Am           E7      Am       E
-Despărțirea să ne-o vadă
-CĂci în munți noi ne-am stins
-Și-am ajuns de-atâta nins
-Niște oameni de zăpadă.
-
-2.
-Stânca grea și dură viața i-a răpit
-Duhurile văii casă i-au făcut
-Giulgiul îi e zăpada pe care-a iubit-o
-Vântul îl jelește ca la început.
-
-3.
-Voi cei ce astăzi dormiți în munți
-Voi pe care stânca dură v-a învins
-O, pustietatea lasă să v-asculte
-Iar șoptirea blândă mi se pare plâns.
-
-4.
-Pulberea uitării ninge pe morminte
-Cei legați în coardă nu vă vor uita
-CĂtre culmea vieții mergem înainte
-Până-n ziua-n care stânca ne-o trăda.
-```
-
-#### Moartea unui alpinist (II)
-
-**Victor Socaciu** · variantă a cântecului „Moartea unui alpinist”, cu titlul „Omagiul unui alpinist” · Sursa: Caiet Christian Adventure, p. 116
-
-**Chitară:** Am x02210 · C x32010 · Dm xx0231 · F 133211 · E 022100 · E7 020100
-
-**Ukulele:** Am 2000 · C 0003 · Dm 2210 · F 2010 · E 4442 · E7 1202
-
-```text
-Am           C    Dm   F    C
-Ninge peste munte cu melancolie
-Dm          E       Dm    F   E
-Ninge peste moartea unui alpinist
-Am           C      Dm    F      C
-Ninge peste creste, ninge și sfârșește
-Dm          E    Dm               E
-Inima ce-mi bate azi în pieptu-mi trist.
-
-Refren:
- Am          E
-Ninge sfânt și păgân,
- F           C
-Numai ochii ne rămân
- Am          E7      Am
-Despărțirea s-o mai vadă
-Căci în munți noi ne-am strâns
-Și-am ajuns de-atâta nins
-Niste oameni de zăpadă.
-
-Stânca grea și dură viața i-a răpit
-Duhurile văii casa i-au făcut
-Giulgiu-i de zăpadă pe care-a iubit-o
-Vântul îl jelește ca la început.
-Refren
-
-Voi cei ce astăzi dormiți în munte
-Voi pe care stânca dură v-a învins
-O, pustietatea lasă să v-asculte
-Iar șoptirea blândă mi se pare plâns.
-
-Refren
-
-Pulberea uitării ninge pe morminte
-Cei legați în coardă nu vă vom uita
-Către culmea vieții mergem înainte
-Până-n cllipa-n care stânca ne-o trăda.
-
-Refren
 ```
 
 #### Muntele alb
@@ -11984,9 +11887,9 @@ Mi-am pierdut și timpul
 
 **Ecoul** · muzica/versuri: Sorina Claudia Blaj/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 66
 
-**Chitară:** C x32010 · Csus4 x33011 · G 320003 · F 133211
+**Chitară:** C x32010 · Csus4 x33011 · G 320003 · F 133211 · C4 x33011
 
-**Ukulele:** C 0003 · Csus4 0013 · G 0232 · F 2010
+**Ukulele:** C 0003 · Csus4 0013 · G 0232 · F 2010 · C4 0013
 
 ```text
 [C]Aseară te-am aștep[Csus4]tat
@@ -16007,6 +15910,103 @@ Doar știi foarte bine ce-ți spuneam în seara aceea printre șoapte:
 [F]Plâng pe cămașa [G]ta de noapte...
 ```
 
+#### Moartea unui alpinist (I)
+
+Sursa: Caiet cabană RO, p. 17 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/moartea-unui-alpinist-1661)
+
+**Chitară:** Am x02210 · E 022100 · Dm xx0231 · C x32010 · E7 020100
+
+**Ukulele:** Am 2000 · E 4442 · Dm 2210 · C 0003 · E7 1202
+
+```text
+1.
+  Am         E    Dm      C
+Ninge peste munte cu melancolie
+   Am         E   Dm        C
+Ninge peste moartea unui alpinist
+Ninge peste astre, ninge și sfârșește
+Inima ce-mi bate azi în pieptul trist.
+
+R:
+   Am           E
+Ninge sfânt și păgân,
+  Dm             C
+Numai ochii ne rămân
+  Am           E7      Am       E
+Despărțirea să ne-o vadă
+CĂci în munți noi ne-am stins
+Și-am ajuns de-atâta nins
+Niște oameni de zăpadă.
+
+2.
+Stânca grea și dură viața i-a răpit
+Duhurile văii casă i-au făcut
+Giulgiul îi e zăpada pe care-a iubit-o
+Vântul îl jelește ca la început.
+
+3.
+Voi cei ce astăzi dormiți în munți
+Voi pe care stânca dură v-a învins
+O, pustietatea lasă să v-asculte
+Iar șoptirea blândă mi se pare plâns.
+
+4.
+Pulberea uitării ninge pe morminte
+Cei legați în coardă nu vă vor uita
+CĂtre culmea vieții mergem înainte
+Până-n ziua-n care stânca ne-o trăda.
+```
+
+#### Moartea unui alpinist (II)
+
+**Victor Socaciu** · variantă a cântecului „Moartea unui alpinist”, cu titlul „Omagiul unui alpinist” · Sursa: Caiet Christian Adventure, p. 116
+
+**Chitară:** Am x02210 · C x32010 · Dm xx0231 · F 133211 · E 022100 · E7 020100
+
+**Ukulele:** Am 2000 · C 0003 · Dm 2210 · F 2010 · E 4442 · E7 1202
+
+```text
+Am           C    Dm   F    C
+Ninge peste munte cu melancolie
+Dm          E       Dm    F   E
+Ninge peste moartea unui alpinist
+Am           C      Dm    F      C
+Ninge peste creste, ninge și sfârșește
+Dm          E    Dm               E
+Inima ce-mi bate azi în pieptu-mi trist.
+
+Refren:
+ Am          E
+Ninge sfânt și păgân,
+ F           C
+Numai ochii ne rămân
+ Am          E7      Am
+Despărțirea s-o mai vadă
+Căci în munți noi ne-am strâns
+Și-am ajuns de-atâta nins
+Niste oameni de zăpadă.
+
+Stânca grea și dură viața i-a răpit
+Duhurile văii casa i-au făcut
+Giulgiu-i de zăpadă pe care-a iubit-o
+Vântul îl jelește ca la început.
+Refren
+
+Voi cei ce astăzi dormiți în munte
+Voi pe care stânca dură v-a învins
+O, pustietatea lasă să v-asculte
+Iar șoptirea blândă mi se pare plâns.
+
+Refren
+
+Pulberea uitării ninge pe morminte
+Cei legați în coardă nu vă vom uita
+Către culmea vieții mergem înainte
+Până-n cllipa-n care stânca ne-o trăda.
+
+Refren
+```
+
 #### Mr. Tambourine Man
 
 **Pasărea Colibri** · muzica/versuri: Bob Dylan/Bob Dylan/Trad. Florian Pittis · Sursa: Cărticica Karban, p. 106
@@ -16689,9 +16689,9 @@ Ninge ca la moartea ultimului an.
 
 **Victor Socaciu** · muzica/versuri: Victor Socaciu/Adrian Păunescu · Sursa: Cărticica Karban, p. 150
 
-**Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100 · G 320003 · F 133211
+**Chitară:** Am x02210 · C x32010 · Dm xx0231 · E 022100 · G 320003 · F 133211 · Em 022000
 
-**Ukulele:** Am 2000 · C 0003 · Dm 2210 · E 4442 · G 0232 · F 2010
+**Ukulele:** Am 2000 · C 0003 · Dm 2210 · E 4442 · G 0232 · F 2010 · Em 0432
 
 ```text
 [Am]Ninge fără [C]milă, [Dm]cu vinovă[Am]ție
@@ -21595,9 +21595,9 @@ Notă: Măsura cântecului e 2/4
 
 **Tradițional** · Sursa: Cărticica Karban, p. 203
 
-**Chitară:** C x32010 · G7 320001 · F 133211
+**Chitară:** C x32010 · G7 320001 · F 133211 · D xx0232 · A7 x02020
 
-**Ukulele:** C 0003 · G7 0212 · F 2010
+**Ukulele:** C 0003 · G7 0212 · F 2010 · D 2220 · A7 0100
 
 ```text
 [C]Ciobănaș cu [G7]trei sute de [C]oi,
@@ -31303,9 +31303,9 @@ E|--------0----------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 39
 
-**Chitară:** G 320003 · C x32010 · D xx0232
+**Chitară:** G 320003 · C x32010 · D xx0232 · F 133211
 
-**Ukulele:** G 0232 · C 0003 · D 2220
+**Ukulele:** G 0232 · C 0003 · D 2220 · F 2010
 
 ```text
 G             C        G        C
@@ -32624,9 +32624,9 @@ Note:Măsura este 4/4. Merge un arpegiu simplu.
 
 muzica/versuri: tradițional englez · Sursa: Colinde Karban, p. 52
 
-**Chitară:** F 133211 · Am x02210 · Bb x13331 · Gm 355333 · C x32010 · G 320003 · D xx0232
+**Chitară:** F 133211 · Am x02210 · Bb x13331 · Gm 355333 · C x32010 · G 320003 · D xx0232 · C7 x32310
 
-**Ukulele:** F 2010 · Am 2000 · Bb 3211 · Gm 0231 · C 0003 · G 0232 · D 2220
+**Ukulele:** F 2010 · Am 2000 · Bb 3211 · Gm 0231 · C 0003 · G 0232 · D 2220 · C7 0001
 
 ```text
  F        F          Am       Bb Gm
@@ -34030,9 +34030,9 @@ Strofele se arpegiază iar la refren merge un pop-strum.
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 94
 
-**Chitară:** Am x02210 · F 133211 · Em 022000
+**Chitară:** Am x02210 · F 133211 · Em 022000 · Cm x35543
 
-**Ukulele:** Am 2000 · F 2010 · Em 0432
+**Ukulele:** Am 2000 · F 2010 · Em 0432 · Cm 0333
 
 ```text
 Ducu Bertzi/Gheorghe Țărnea
@@ -34397,9 +34397,9 @@ Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzilor de sus 
 
 **José Feliciano** · Sursa: Colinde Karban, p. 90
 
-**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432
+**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432 · Em7 020000
 
-**Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222
+**Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222 · Em7 0202
 
 ```text
 José Feliciano - 1970
@@ -34452,9 +34452,9 @@ Ca și variațiune în măsurile cu `Em` se poate folosi în a doua jumătate a 
 
 muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 55
 
-**Chitară:** C x32010 · F 133211 · G 320003 · Fdim xx3434 · Am x02210 · Em 022000 · Dm xx0231 · E 022100 · D xx0232
+**Chitară:** C x32010 · F 133211 · G 320003 · Fdim xx3434 · Am x02210 · Em 022000 · Dm xx0231 · E 022100 · D xx0232 · G7 320001
 
-**Ukulele:** C 0003 · F 2010 · G 0232 · Fdim 1212 · Am 2000 · Em 0432 · Dm 2210 · E 4442 · D 2220
+**Ukulele:** C 0003 · F 2010 · G 0232 · Fdim 1212 · Am 2000 · Em 0432 · Dm 2210 · E 4442 · D 2220 · G7 0212
 
 ```text
 C          C              F           C
@@ -34977,9 +34977,9 @@ E|--------1---------1-----1-----1-------1-----1--|
 
 **Slade** · Sursa: Colinde Karban, p. 61
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · F 133211 · Bm x24432 · Bb x13331
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · F 133211 · Bm x24432 · Bb x13331 · D4 xx0233
 
-**Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · F 2010 · Bm 4222 · Bb 3211
+**Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · F 2010 · Bm 4222 · Bb 3211 · D4 0230
 
 ```text
          G              C                D
@@ -35152,9 +35152,9 @@ Must be Santa, Santa Claus
 
 muzica/versuri: tradițional · Sursa: Colinde Karban, p. 63
 
-**Chitară:** D xx0232 · A x02220 · Em 022000 · B x24442 · G 320003
+**Chitară:** D xx0232 · A x02220 · Em 022000 · B x24442 · G 320003 · B7 x21202
 
-**Ukulele:** D 2220 · A 2100 · Em 0432 · B 4322 · G 0232
+**Ukulele:** D 2220 · A 2100 · Em 0432 · B 4322 · G 0232 · B7 2322
 
 ```text
 D                 A D
@@ -35394,9 +35394,9 @@ Exemplificat aici pentru `G`. Semnele “ ” reprezintă lovirea corzii de sus 
 
 muzica/versuri: Johnny Marks 1949 · Sursa: Colinde Karban, p. 66
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · D xx0232
+**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · D xx0232 · C7 x32310 · G7 320001
 
-**Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · D 2220
+**Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · D 2220 · C7 0001 · G7 0212
 
 ```text
 C                     C
@@ -35571,9 +35571,9 @@ Exemplificat aici pentru acordul `D`. Semnele “ ” reprezintă lovirea corzii
 
 muzica/versuri: Johnny Marks/Clement Clarke Moore · Sursa: Colinde Karban, p. 70
 
-**Chitară:** G7 320001 · C x32010 · Em 022000 · F 133211 · Dm xx0231 · D7 xx0212
+**Chitară:** G7 320001 · C x32010 · Em 022000 · F 133211 · Dm xx0231 · D7 xx0212 · G 320003
 
-**Ukulele:** G7 0212 · C 0003 · Em 0432 · F 2010 · Dm 2210 · D7 2223
+**Ukulele:** G7 0212 · C 0003 · Em 0432 · F 2010 · Dm 2210 · D7 2223 · G 0232
 
 ```text
 G7        C        Em       F   C
@@ -35925,7 +35925,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Doru Stănculescu** — [Hai dihai](#hai-dihai), [Fără petale](#fără-petale)
 - **Dragoș Bălan** — [Dragoste în fân (I)](#dragoste-în-fân-i), [Nunta pe Caraiman (II)](#nunta-pe-caraiman-ii)
 - **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#ce-frumos-e-sus-la-munte), [Evadare](#evadare), [În codrul verde](#în-codrul-verde), [Mă întorc la tine, muntele meu drag](#mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#vreau-să-trecem-marea)
-- **Ducu Bertzi** — [Floare de colț (I)](#floare-de-colț-i), [Când s-o-mpărțit norocu'](#când-s-o-mpărțit-norocu), [Cântec bătrânesc](#cântec-bătrânesc), [Dans](#dans), [Dragu-mii veselia](#dragu-mii-veselia), [Focul vânăt (I)](#focul-vânăt-i), [Focul vânăt (II)](#focul-vânăt-ii), [Iertările](#iertările), [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea), [Nu am cer](#nu-am-cer), [Omul pădurii (I)](#omul-pădurii-i), [Pe cine și câte cărări](#pe-cine-și-câte-cărări), [Săracă inima me' (I)](#săracă-inima-me-i), [Săracă inima me' (II)](#săracă-inima-me-ii), [Și de-ar fi (I)](#și-de-ar-fi-i), [Și de-ar fi (II)](#și-de-ar-fi-ii), [Suflet fără chei](#suflet-fără-chei), [Cheamă-ți gazdă](#cheamă-ți-gazdă), [Corindăm, corindăm (I)](#corindăm-corindăm-i), [Pe podele de nuiele](#pe-podele-de-nuiele), [Seara serilor](#seara-serilor), [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem), [Plecarea](#plecarea), [Scrisoare la-nceput de iarnă](#scrisoare-la-nceput-de-iarnă)
+- **Ducu Bertzi** — [Floare de colț](#floare-de-colț), [Când s-o-mpărțit norocu'](#când-s-o-mpărțit-norocu), [Cântec bătrânesc](#cântec-bătrânesc), [Dans](#dans), [Dragu-mii veselia](#dragu-mii-veselia), [Focul vânăt (I)](#focul-vânăt-i), [Focul vânăt (II)](#focul-vânăt-ii), [Iertările](#iertările), [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea), [Nu am cer](#nu-am-cer), [Omul pădurii (I)](#omul-pădurii-i), [Pe cine și câte cărări](#pe-cine-și-câte-cărări), [Săracă inima me' (I)](#săracă-inima-me-i), [Săracă inima me' (II)](#săracă-inima-me-ii), [Și de-ar fi (I)](#și-de-ar-fi-i), [Și de-ar fi (II)](#și-de-ar-fi-ii), [Suflet fără chei](#suflet-fără-chei), [Cheamă-ți gazdă](#cheamă-ți-gazdă), [Corindăm, corindăm (I)](#corindăm-corindăm-i), [Pe podele de nuiele](#pe-podele-de-nuiele), [Seara serilor](#seara-serilor), [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem), [Plecarea](#plecarea), [Scrisoare la-nceput de iarnă](#scrisoare-la-nceput-de-iarnă)
 - **Ducu Hotima** — [La tătă casa-i lumină](#la-tătă-casa-i-lumină)
 - **Ecoul** — [Cana cu vin (I)](#cana-cu-vin-i), [Cana cu vin (II)](#cana-cu-vin-ii), [Lumină (I)](#lumină-i), [Lumină (II)](#lumină-ii), [Lumină (III)](#lumină-iii), [Nu mă-ntreba](#nu-mă-ntreba), [Taina (I)](#taina-i), [Taina (II)](#taina-ii)
 - **Elvis Presley** — [Love Me Tender](#love-me-tender)
@@ -36048,7 +36048,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Versuri Artur Stavri/melodie populara** — [A ruginit frunza din vii](#a-ruginit-frunza-din-vii)
 - **VH2** — [Mai stai](#mai-stai), [Nu-mi mai pasă](#nu-mi-mai-pasă), [Trece vremea](#trece-vremea)
 - **VH2/Holograf** — [Păsări de fum](#păsări-de-fum)
-- **Victor Socaciu** — [Moartea unui alpinist (II)](#moartea-unui-alpinist-ii), [Colindul mâinilor truditoare](#colindul-mâinilor-truditoare), [Caii liberi](#caii-liberi), [Cântec pentru Charlie Chaplin](#cântec-pentru-charlie-chaplin), [Dona, dona (I)](#dona-dona-i), [Dona, dona (II)](#dona-dona-ii), [La un ceai](#la-un-ceai), [Oameni de zăpadă (I)](#oameni-de-zăpadă-i), [Oameni de zăpadă (II)](#oameni-de-zăpadă-ii)
+- **Victor Socaciu** — [Colindul mâinilor truditoare](#colindul-mâinilor-truditoare), [Caii liberi](#caii-liberi), [Cântec pentru Charlie Chaplin](#cântec-pentru-charlie-chaplin), [Dona, dona (I)](#dona-dona-i), [Dona, dona (II)](#dona-dona-ii), [La un ceai](#la-un-ceai), [Moartea unui alpinist (II)](#moartea-unui-alpinist-ii), [Oameni de zăpadă (I)](#oameni-de-zăpadă-i), [Oameni de zăpadă (II)](#oameni-de-zăpadă-ii)
 - **Wham!** — [Last Christmas](#last-christmas)
 - **Yoyo** — [Freamătă pădurea](#freamătă-pădurea), [Tropa trop spre cabană](#tropa-trop-spre-cabană)
 - **Zdub&Zdob** — [Dragă Otee](#dragă-otee)

@@ -44,6 +44,9 @@ pre {
 .ln-anchor { position: relative; display: inline-block; width: 0; }
 .bl { display: block; height: 0.7em; }
 .ch { color: #8b1a1a; font-weight: bold; cursor: help; }
+/* a chord named in a note (make_pdf.note_html): looks like one and has
+   the fingering tooltip, but is not transposed */
+.ch-note { color: #8b1a1a; font-weight: bold; cursor: help; }
 .fingering[data-chord] { cursor: help; }
 .float { position: absolute; left: 0; bottom: 0.75em; white-space: nowrap; }
 .rep { color: #444; font-weight: bold; }

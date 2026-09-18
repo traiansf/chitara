@@ -38,7 +38,10 @@ obișnuit și nu trece prin nicio procesare de acorduri. Doar ` ```text `
 se randează cu acorduri transpozabile; digitațiile (`add_*_chords.py`)
 iau acordurile și din rândurile de acorduri ale blocurilor ` ```tab `,
 fiindcă unele se cântă doar acolo (intro-uri, riff-uri). Un exemplu cu
-toate trei: *Vara*.
+toate trei: *Vara*. Într-o notă, un acord se scrie între apostroafe
+inverse (`` `C7` ``): apare evidențiat ca acord, cu digitația în tooltip
+pe site și în rândurile de digitații, dar nu se transpune — nota se
+referă adesea la un exemplu din tab, care rămâne în tonalitatea scrisă.
 
 **Identitatea stabilă a unui cântec e `titlu || Sursa, p. N`** — unică pe toate
 cele 738. Cântecele n-au număr de ordine (sunt alfabetice în fiecare

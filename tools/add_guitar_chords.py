@@ -230,10 +230,13 @@ def main():
                 in_fence = not in_fence
                 continue
             if not in_fence:
-                continue
-            toks = (ln.split() if line_is_chords(ln)
-                    else [t for t in re.findall(r"\[([^\]]*)\]", ln)
-                          if CHORD_RE.match(t)])
+                # a chord named in a note outside the fences: `C7`
+                toks = [t for t in re.findall(r"`([^`]+)`", ln)
+                        if CHORD_RE.match(t)]
+            else:
+                toks = (ln.split() if line_is_chords(ln)
+                        else [t for t in re.findall(r"\[([^\]]*)\]", ln)
+                              if CHORD_RE.match(t)])
             for t in toks:
                 if t in SKIP_TOKENS or t in seen:
                     continue

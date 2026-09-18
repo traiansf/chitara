@@ -591,9 +591,40 @@ def split_two_cols(body):
     return best[1], best[2]
 
 
+FING_PT = 12.0      # the fingering lines under a song's title (Chitară/Ukulele)
+FING_LINE_H = 1.25
+
+
+def fingering_items(line):
+    """('Chitară', [('Am', 'x02210'), ...]) from a '**Chitară:** Am x02210 ·
+    …' line."""
+    label, _, rest = line.partition(":** ")
+    return label.strip("*"), [tuple(it.split(" ", 1)) for it in rest.split(" · ")
+                              if " " in it]
+
+
+def fingering_html(line):
+    """A fingering line, each chord name bold and each chord kept whole on
+    one line (a chord never wraps away from its own fingering)."""
+    label, items = fingering_items(line)
+    chords = " · ".join(
+        f'<span class="fg"><b>{html.escape(c, quote=False)}</b> '
+        f'{html.escape(f, quote=False)}</span>' for c, f in items)
+    return f'<b class="fl">{html.escape(label, quote=False)}:</b> {chords}'
+
+
 def header_mm(s):
-    chord_lines = sum((1 + len(s[k]) // 135) for k in ("gtr", "uke") if s[k])
-    return 5.6 + (3.7 if s["meta"] else 0) + 3.7 * chord_lines + 6.5
+    """Height of a song page's header: title, meta line, fingering lines
+    (measured, since at FING_PT a long one wraps), rule."""
+    width_pt = BODY_W / PT2MM * 0.97  # bold chord names run a little wider
+    fing = 0.0
+    for k in ("gtr", "uke"):
+        if s[k]:
+            label, items = fingering_items(s[k])
+            text = f"{label}: " + " · ".join(f"{c}\u00a0{f}" for c, f in items)
+            n = wrap_count_prop(text, width_pt, FING_PT)
+            fing += n * FING_PT * FING_LINE_H * PT2MM + 0.8
+    return 5.6 + (3.7 if s["meta"] else 0) + fing + 6.5
 
 
 TAIL_GAP_MM = 3.0  # space between the lyrics and a full-width tablature section
@@ -750,12 +781,24 @@ PROSE_EM = 0.9       # a note's font size, relative to the song's
 PROSE_VPAD_EM = 0.6  # its vertical margins, in the song's em
 
 
+def note_html(text, chord_span):
+    """mini_md() of a note, with every `code` span that holds a chord name
+    (`C7`, `Em`) handed to chord_span(name) instead: a chord mentioned in
+    passing, shown as one but never transposed — a note often refers to a
+    tablature example, which stays in its written key."""
+    def chord(m):
+        name = html.unescape(m.group(1))
+        return chord_span(name) if CHORD_RE.match(name) else m.group(0)
+    return re.sub(r"<code>([^<]+)</code>", chord, mini_md(text))
+
+
 def render_prose(text):
     """A paragraph of plain text from outside the fences (a note): ordinary
     wrapping text in the proportional font, whatever the song around it
-    uses. Only Markdown's own inline formatting (mini_md) applies — it is
-    never read for chords."""
-    return f'<span class="prose">{mini_md(text)}</span>'
+    uses. Only Markdown's own inline formatting (mini_md) applies, plus
+    chord names written as `code` (note_html)."""
+    span = lambda c: f'<span class="ch">{html.escape(c, quote=False)}</span>'
+    return f'<span class="prose">{note_html(text, span)}</span>'
 
 
 def render_pre(body_lines, width_mm, fs):
@@ -1142,8 +1185,11 @@ code {{ font-family: {MONO_STACK}; font-size: 92%; }}
 h2.song {{ font-size: 12.5pt; margin-bottom: 1.2mm; }}
 .meta {{ font-size: 7.5pt; color: #444; margin-bottom: 0.8mm; }}
 .meta a, .toc a, .idx a {{ color: #1a4d8b; text-decoration: none; }}
-.uke {{ font-size: 7.5pt; color: #333; margin-bottom: 0.8mm; }}
+.uke {{ font-size: {FING_PT}pt; line-height: {FING_LINE_H}; color: #333;
+       margin-bottom: 0.8mm; }}
 .uke b {{ color: #8b1a1a; }}
+.uke b.fl {{ color: #555; }}
+.fg {{ white-space: nowrap; }}
 .rule {{ border-bottom: 0.3mm solid #ccc; margin-bottom: 2mm;
         line-height: 0.5; }}
 .cols {{ display: flex; gap: {COL_GAP}mm; }}
@@ -1182,7 +1228,7 @@ def song_page(s):
         parts.append(f'<div class="meta">{mini_md(s["meta"])}</div>')
     for key in ("gtr", "uke"):
         if s[key]:
-            parts.append(f'<div class="uke">{mini_md(s[key])}</div>')
+            parts.append(f'<div class="uke">{fingering_html(s[key])}</div>')
     parts.append(f'<div class="rule"><span class="mk">§{s["num"]}§</span>'
                  f'</div>')
     style = f'font-size:{fs:.2f}pt'
