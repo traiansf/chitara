@@ -4358,21 +4358,25 @@ Ve[Am]nim de de[E]parte și [Am]mergem de^parte
 [C]Tocmai în [Dm]zare [E]sus la cas^tel
 Ne-am o[Dm]prit a[Am]ici pe [E]drum ne-a prins [Am]noaptea
 [Dm]Da adă[E]post unor [Am]bieți menes^trei.
+[C]  [G]  [Am]  ^
 
 La cas[Am]tel [E]mâine va [Am]fi sărbă^toare
 [C]Prințesa-npli[Dm]nește [E]ani două^zeci
 Vom [Dm]bea mult [Am]vin, vom goli [E]tăvi cu mân[Am]care
 [Dm]Ce va fi a[E]colo [Am]să tot pe^treci.
+[C]  [G]  [Am]  ^
 
 [Am]Noi vom cân[E]ta [Am]noaptea în^treagă
 [C]Oaspeții [Dm]veseli [E]vor dănțu^i
 Și-n [Dm]toiul pe[Am]trecerii [E]preț de o [Am]clipă
 Om [Dm]bun și la [E]tine [Am]ne vom gân^di.
+[C]  [G]  [Am]  ^
 
 Des[Am]chide [E]poarta și [Am]dă-ne o ^coajă
 Ai [C]milă de [Dm]niște [E]bieți menes^trei
 [Dm]Veșnic pe [Am]drum [E]asta ni-i [Am]soarta
 [Dm]Veșnic pe [E]drum cău[Am]tând un cas^tel.
+[C]  [G]  [Am]  ^
 ```
 
 #### Omagiul unui alpinist
@@ -4759,36 +4763,31 @@ Refren
 **Ukulele:** Am 2000 · G 0232 · C 0003 · Dm 2210 · F 2010
 
 ```text
-Am      G                   C
-A fost un joc de copil fără rost
-Dm
-Un joc inutil - am sperat să pot face
-Am
-Din vise și flori
-  F           G      Am
-/Un neant în care să zbor/ x3
+A [Am]fost un [G]joc de copil fără [C]rost
+Un [Dm]joc inutil - am spe^rat să pot face
+Din [Am]vise și flori
+/Un ne[F]ant în [G]care să [Am]zbori/ x2
+să [Am]zbori
 
 Refren x2:
- C                               G
-Nici nu știu ce să spun mi-este sufletul gol
-        Dm                   Am
-Aș vrea iar să te adun peste clipe ce dor
-    F         G
-Am rămas fără glas
-Dm         Am
-Bun răma - as
+Nici nu [C]știu ce să spun mi-este [G]sufletul gol
+Aș vrea [Dm]iar să te adun peste [Am]clipe ce dor
+Am ră[F]mas fără [G]glas (fără glas)
+Bun ră[Dm]ma - as  [Am]
 
-Păcat că nu ai știut ce-i curat
-Mi-e cântecul mut - lângă tine-am aflat
-Ce e setea de vis
-/Și tristețea unui învins/ x3
+Pă[Am]cat că [G]nu ai știut ce cu[C]rat
+Mi-e [Dm]cântecul mut - lângă ^tine-am aflat
+Ce e [Am]setea de vis
+/Și tris[F]tețea [G]unui în[Am]vins/ x2
+în[Am]vins
 
 Refren x2
 
-Îmi sterg o lacrimă caldă zâmbesc
-Că viața mă-ndeamnă să nu uit că mi-e dat
-Și să pierd uneori
-/Că ades mi-e greu chiar să mor/ x3
+Îmi [Am]sterg o [G]lacrimă caldă zâm[C]besc
+Că [Dm]viața mă-ndeamnă să nu ^uit că mi-e dat
+Să și [Am]pierd uneori
+/Că a[F]des e [G]greu chiar să [Am]mori/ x2
+să [Am]mori
 
 Refren x2
 ```
@@ -5006,27 +5005,28 @@ Refren x2
 
 ```text
 1.
- C           G                   Am
-Când țurțuri metalici apar la ferești
-   F           C                      G
-Și ninge pe față cu fulgi mari de nea
-Mai spune-mi o dată cât de mult mă iubești
-SĂrută-mi obrazul și nu pleca.
+[C]  Când țurțuri me[G]talici apar la fe[Am]re^ești
+[F]  Și ninge pe [C]față cu fulgi mari de [G]nea  ^
+[C]  Mai spune-mi o [G]dată cât de mult mă iu[Am]be^ești
+[F]  Sărută-mi o[C]brazul și nu ple[G]ca.  ^
 
-R:
-   C            Am
-Nu pleca mai rămâi
-        F                G
-Doar o clipă-n viața mea
-    F       G               C        Am
-Țurțuri metalici apar la ferești
-Mai spune-mi o dată cât de mult mă iubești.
+Refren:
+/Nu ple[C]ca mai ră[Am]mâi
+Doar o [F]clipă-n viața [G]mea/ x2
+/[F]  Când țurțuri me[G]talici apar la fe[C]re[Am]ești
+[F]  Mai spune-mi o [G]dată cât de mult mă iu[C]bești.  ^/ x2
 
 2.
-Afară e frig și e noapte demult
-Cu tine-n gând am să adorm
-Glasul tău dulce aș vrea să-l ascult
-Te văd, te aud, te strig și în somn.
+[C]  Afară e [G]frig și e noapte de[Am]mu^ult
+[F]  Cu tine-n [C]gând am să a[G]dorm  ^
+[C] Glasul tău [G]dulce aș vrea să-l as[Am]cu^ult
+[F] Te văd, te a[C]ud, te strig și în [G]somn.  ^
+
+Refren
+
+/[F]  Mai spune-mi o [G]dată/ x3
+  cât de mult mă iu[C]bești. ^ 
+
 ```
 
 #### Ultima zi
