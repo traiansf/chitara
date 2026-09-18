@@ -102,6 +102,20 @@ def line_is_chords(line):
     return bool(toks) and all(is_chord_token(t) for t in toks)
 
 
+def content_start(song):
+    """Index of the first line of a song's content — its first fence, or a
+    note written outside the fences before it — past the title, the
+    meta line and the **Chitară:** line: where the **Ukulele:** line goes."""
+    head = next((i for i, ln in enumerate(song) if ln.startswith("**Chitară:**")),
+                None)
+    if head is None:
+        head = next((i for i in range(1, len(song)) if song[i].strip()), 0)
+        if song[head].startswith("```"):
+            return head
+    return next((i for i in range(head + 1, len(song)) if song[i].strip()),
+                len(song))
+
+
 def main():
     path = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_PATH
     lines = open(path, encoding="utf-8").read().split("\n")
@@ -165,7 +179,8 @@ def main():
 
         if chords and first_fence is not None:
             pairs = " · ".join(f"{c} {lookup(c)}" for c in chords)
-            song[first_fence:first_fence] = [f"**Ukulele:** {pairs}", ""]
+            at = content_start(song)
+            song[at:at] = [f"**Ukulele:** {pairs}", ""]
             n_inserted += 1
         else:
             n_no_chords += 1

@@ -249,8 +249,14 @@ def main():
             uke = next((i for i, ln in enumerate(song)
                         if ln.startswith("**Ukulele:**")), None)
             if uke is None:
-                uke = next(i for i, ln in enumerate(song)
-                           if ln.startswith("```"))
+                # right after the meta line, before any content (a fence,
+                # or a note written outside the fences before it)
+                meta = next((i for i in range(1, len(song)) if song[i].strip()), 0)
+                if song[meta].startswith("```"):
+                    uke = meta
+                else:
+                    uke = next((i for i in range(meta + 1, len(song))
+                                if song[i].strip()), len(song))
                 song[uke:uke] = [note, ""]
             else:
                 song[uke:uke] = [note]

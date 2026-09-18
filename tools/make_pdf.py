@@ -35,13 +35,14 @@ CHROME = "google-chrome-stable"
 MONO_STACK = "'Iosevka Fixed', 'DejaVu Sans Mono', monospace"
 
 # the book's sections, in order; a section with no songs is skipped.  Each gets
-# one divider page: the two strings are its upper and lower line.  Part I's four
-# subsections share the part line, so the part itself needs no page of its own.
+# one divider page: the two strings are its upper and lower line.  Subsections
+# share their part's line, so a part with subsections needs no page of its own.
 SECTIONS = [("I.1", "Partea I — Cântece de cabană", "I.1 — De munte, de drum și de dor"),
             ("I.2", "Partea I — Cântece de cabană", "I.2 — Populare și lăutărești"),
             ("I.3", "Partea I — Cântece de cabană", "I.3 — Naționaliste și de dor de țară"),
             ("I.4", "Partea I — Cântece de cabană", "I.4 — Studențești, de chef și deocheate"),
-            ("II", "Partea a II-a", "Repertoriu românesc"),
+            ("II.1", "Partea a II-a — Repertoriu românesc", "II.1 — Folk"),
+            ("II.2", "Partea a II-a — Repertoriu românesc", "II.2 — Ne-folk"),
             ("III", "Partea a III-a", "Repertoriu internațional"),
             ("IV.1", "Partea a IV-a — Colinde și cântece de iarnă", "IV.1 — Colinde românești"),
             ("IV.2", "Partea a IV-a — Colinde și cântece de iarnă", "IV.2 — Colinde internaționale"),
@@ -137,8 +138,66 @@ def has_inline_chords(body):
     """True if any non-chord-line in this song body carries a real [Chord]
     bracket — i.e. the song uses Karban-style inline notation rather than
     (or in addition to) chords-above-lyrics."""
-    real_chord = re.compile(r"\[([A-G][^\]]*)\]")
-    return any(not is_chord_line(ln) and real_chord.search(ln) for ln in body)
+    return any(is_text(ln) and not is_chord_line(ln) and REAL_CHORD_RE.search(ln)
+               for ln in body)
+
+
+# ---------------------------------------------------------------- tablature
+# A song's body mixes three kinds of line, told apart by type so that every
+# step downstream (wrapping, column splitting, sizing, rendering) can keep
+# them apart: plain str for the ```text fences (lyrics and chords, the only
+# lines ever read for chords), TabLine for the ```tab fences and ProseLine
+# for the plain text outside the fences (a note), neither of which is ever
+# read for chords. ASCII tablature only means anything on a fixed character
+# grid, so it is rendered as its own monospace block that never wraps —
+# shrunk to fit instead — even in the proportional layout of converted songs.
+
+REAL_CHORD_RE = re.compile(r"\[([A-G][^\]]*)\]")
+
+
+class TabLine(str):
+    """A line of a ```tab fence."""
+
+
+class ProseLine(str):
+    """One paragraph of plain text outside the fences, its source lines
+    joined as Markdown would join them."""
+
+
+def is_text(ln):
+    """A line of a ```text fence (lyrics, chords) — not tablature or prose."""
+    return not isinstance(ln, (TabLine, ProseLine))
+
+
+def tab_blocks(body_lines):
+    """[(start, end)] half-open line ranges, one per tablature block (a run
+    of TabLine, i.e. one ```tab fence)."""
+    blocks, i, n = [], 0, len(body_lines)
+    while i < n:
+        if isinstance(body_lines[i], TabLine):
+            start = i
+            while i < n and isinstance(body_lines[i], TabLine):
+                i += 1
+            blocks.append((start, i))
+        else:
+            i += 1
+    return blocks
+
+
+def tab_frame(body_lines):
+    """(intro_end, tail_start) for a song whose tablature sits only before
+    its lyrics (the ```text fences) and/or after them — the lyrics being
+    body_lines[intro_end:tail_start], everything around them tablature
+    and notes — or None when it has no tablature, or has some between two
+    lyric lines."""
+    lyric = [k for k, ln in enumerate(body_lines) if ln.strip() and is_text(ln)]
+    blocks = tab_blocks(body_lines)
+    if not lyric or not blocks:
+        return None
+    first, last = lyric[0], lyric[-1]
+    if any(b > first and a < last for a, b in blocks):
+        return None
+    return first, last + 1
 
 
 REPEAT_CLOSE_RE = re.compile(r"/\s*[xX](\d+)\s*$")
@@ -164,7 +223,7 @@ def find_repeats(body_lines):
     that's reported (sys.exit) rather than silently guessed at."""
     strophes, cur = [], []
     for i, ln in enumerate(body_lines):
-        if not ln.strip():
+        if not ln.strip() or not is_text(ln):
             if cur:
                 strophes.append(cur)
             cur = []
@@ -274,13 +333,31 @@ def parse(md_path):
         anchors[base] += 1
         anchor = base if n == 0 else f"{base}-{n}"
         meta = uke = gtr = ""
-        body, in_f = [], False
+        # the body keeps the song's parts in order — ```text lines as they
+        # are, ```tab lines as TabLine, each paragraph of plain text outside
+        # the fences as one ProseLine. No blank line goes between parts (the
+        # CSS spaces them): split_two_cols() treats a blank line as a verse
+        # boundary, and most converted songs have none of their own.
+        body, fence, para = [], None, []
+
+        def part_break():
+            if para:
+                body.append(ProseLine(" ".join(para)))
+                para.clear()
+
         for j in range(i + 1, end):
             ln = lines[j]
             if ln.startswith("```"):
-                in_f = not in_f
+                if fence is None:
+                    part_break()
+                    fence = ln[3:].strip() or "text"
+                else:
+                    fence = None
+                    part_break()
                 continue
-            if in_f:
+            if fence == "tab":
+                body.append(TabLine(ln.rstrip()))
+            elif fence is not None:
                 body.append(ln.rstrip())
             elif ln.startswith("**Ukulele:**"):
                 uke = ln
@@ -288,6 +365,13 @@ def parse(md_path):
                 gtr = ln
             elif ln.strip() and not meta:
                 meta = ln.strip()
+            elif ln.strip() == "---":
+                part_break()  # the rule closing a part, not the song's
+            elif ln.strip():
+                para.append(ln.strip())
+            elif para:
+                part_break()
+        part_break()
         while body and not body[-1]:
             body.pop()
         while body and not body[0]:
@@ -389,16 +473,28 @@ def wrap_chord_only(ln, maxw):
 
 
 def wrap_body(body, maxw):
+    """Tablature blocks (tab_blocks) pass through unwrapped: render_pre()
+    shrinks them to fit instead. Prose passes through too: it is rendered
+    as ordinary wrapped text."""
+    ends = dict(tab_blocks(body))
     out, i = [], 0
     while i < len(body):
+        if i in ends:
+            out += body[i:ends[i]]
+            i = ends[i]
+            continue
         ln = body[i]
         if not ln.strip():
             out.append("")
             i += 1
             continue
+        if isinstance(ln, ProseLine):
+            out.append(ln)
+            i += 1
+            continue
         nxt = body[i + 1] if i + 1 < len(body) else None
         if is_chord_line(ln) and nxt and nxt.strip() \
-                and not is_chord_line(nxt):
+                and not is_chord_line(nxt) and is_text(nxt):
             if len(ln) <= maxw and len(nxt) <= maxw:
                 out += [ln, nxt]
             else:
@@ -424,10 +520,48 @@ def eff_lines(lines):
     return sum(1.0 if l.strip() else BLANK_F for l in lines) or 1.0
 
 
-def fs_fit(lines, width_mm, height_mm):
+TAB_PAD_MM = 4.0    # a .tab block's left border + horizontal padding
+TAB_VPAD_MM = 3.0   # its vertical margins + padding
+TAB_FS_MIN = 7.0    # a staff printed smaller than this gets hard to read
+
+
+def tab_scale(lines, width_mm, fs):
+    """Font-size factor (at most 1, relative to the song's fs) that lets a
+    tablature block's longest line fit width_mm without wrapping."""
     w = max((len(l) for l in lines), default=1)
+    fit = (width_mm - TAB_PAD_MM) / (max(w, 1) * ADV * PT2MM)
+    return min(1.0, fit / fs)
+
+
+def tab_fs(cols, width_mm, fs):
+    """Smallest font size any tablature block in these columns ends up at
+    (infinity when there is none)."""
+    return min([float("inf")] + [fs * tab_scale(c[a:b], width_mm, fs)
+                                 for c in cols for a, b in tab_blocks(c)])
+
+
+def layout_score(fs, tab):
+    """A layout's font size, minus a point for every point its smallest
+    tablature block (tab_fs) falls below TAB_FS_MIN: enough to prefer one
+    column when two would crush a staff, not so much that a whole song
+    shrinks to spare one staff a fraction of a point."""
+    return fs - max(0.0, TAB_FS_MIN - tab)
+
+
+def fs_fit(lines, width_mm, height_mm):
+    """Tablature lines don't constrain the width (they shrink on their
+    own, see tab_scale); counting them at full size keeps the height
+    estimate on the safe side. Prose wraps like ordinary text, so its
+    height can only be measured, not worked out in closed form."""
+    if any(isinstance(l, ProseLine) for l in lines):
+        height = mono_height_fn(lines, width_mm)
+        return max_fs(lambda fs: height(fs) <= height_mm)
+    blocks = tab_blocks(lines)
+    in_tab = {k for a, b in blocks for k in range(a, b)}
+    w = max((len(l) for k, l in enumerate(lines) if k not in in_tab), default=1)
     fs_w = width_mm / (max(w, 1) * ADV * PT2MM)
-    fs_h = height_mm / (eff_lines(lines) * LINE_H * PT2MM)
+    fs_h = (height_mm - TAB_VPAD_MM * len(blocks)) \
+        / (eff_lines(lines) * LINE_H * PT2MM)
     return min(fs_w, fs_h, FS_MAX)
 
 
@@ -444,6 +578,9 @@ def split_two_cols(body):
         while mid > 1 and (is_chord_line(body[mid - 1])
                            or body[mid].startswith(" " * INDENT)):
             mid -= 1
+        for a, b in tab_blocks(body):
+            if a < mid < b:  # never inside a tablature block: its nearer end
+                mid = a if a > 0 and mid - a <= b - mid else b
         best = (0, body[:mid], body[mid:])
     return best[1], best[2]
 
@@ -453,7 +590,88 @@ def header_mm(s):
     return 5.6 + (3.7 if s["meta"] else 0) + 3.7 * chord_lines + 6.5
 
 
+TAIL_GAP_MM = 3.0  # space between the lyrics and a full-width tablature section
+
+
+def mono_height_fn(lines, width_mm):
+    """fs -> rendered height (mm) of monospace body lines laid out width_mm
+    wide, or infinity when a line other than tablature (which shrinks on
+    its own) would not fit that width at fs."""
+    blocks = tab_blocks(lines)
+    in_tab = {k for a, b in blocks for k in range(a, b)}
+    prose = [l for l in lines if isinstance(l, ProseLine)]
+    grid = [l for k, l in enumerate(lines)
+            if k not in in_tab and not isinstance(l, ProseLine)]
+    w = max((len(l) for l in grid), default=1)
+    width_pt = width_mm / PT2MM
+
+    def height(fs):
+        if w * ADV * PT2MM * fs > width_mm:
+            return float("inf")
+        rows = sum(1.0 if l.strip() else BLANK_F for l in grid) \
+            + sum(b - a for a, b in blocks)
+        return rows * LINE_H * PT2MM * fs + TAB_VPAD_MM * len(blocks) \
+            + sum(prose_height_pt(p, width_pt, fs) for p in prose) * PT2MM
+
+    return height
+
+
+def framed_layout(s, intro_end, tail_start, h):
+    """Layout for a song with tablature only at its start and/or end
+    (tab_frame): those sections across the whole page width, so their
+    tablature isn't squeezed into a column, and the lyrics between them in
+    one column or two, whichever allows the larger font. One font size for
+    all of it."""
+    def trim(lines):
+        lines = list(lines)
+        while lines and not lines[-1].strip():
+            lines.pop()
+        while lines and not lines[0].strip():
+            lines.pop(0)
+        return lines
+
+    body = s["body"]
+    intro = trim(body[:intro_end])
+    lyrics = trim(body[intro_end:tail_start])
+    tail = trim(body[tail_start:])
+    height_fn = prop_height_fn if s["converted"] else mono_height_fn
+    fixed = [height_fn(p, BODY_W) for p in (intro, tail) if p]
+    best = None
+    for cols in (None, split_two_cols(lyrics)):
+        parts = [height_fn(c, COL_W) for c in cols] if cols \
+            else [height_fn(lyrics, BODY_W)]
+        fs = max_fs(lambda f: max(p(f) for p in parts)
+                    + sum(TAIL_GAP_MM + x(f) for x in fixed) <= h)
+        if best is None or fs > best[0]:
+            best = (fs, cols)
+    fs, cols = best
+    return dict(fs=fs, cols=cols, single=None if cols else lyrics,
+                intro=intro or None, tail=tail or None, wrapped=False)
+
+
 def best_layout(s):
+    """The song's layout, font size already scaled by its shrink factor
+    (see main()). A song with tablature only at its start and/or end
+    (tab_frame) gets framed_layout() when that costs its lyrics nothing,
+    or when the regular layout would have to shrink a tablature block to
+    fit it in a column — unless the framed one would then print the song
+    smaller than TAB_FS_MIN where the regular one wouldn't (a long, narrow
+    section, tablature with the lyrics interleaved, reads better in
+    columns than squeezed into full-width rows)."""
+    h = BODY_H - header_mm(s)
+    lay = regular_layout(s, h)
+    frame = tab_frame(s["body"])
+    if frame is not None:
+        framed = framed_layout(s, *frame, h)
+        parts, width = (lay["cols"], COL_W) if lay["cols"] else ([lay["single"]], BODY_W)
+        squeezed = tab_fs(parts, width, lay["fs"]) < lay["fs"] * 0.999
+        if framed["fs"] >= lay["fs"] or (
+                squeezed and framed["fs"] >= TAB_FS_MIN):
+            lay = framed
+    return dict(lay, fs=lay["fs"] * s["shrink"])
+
+
+def regular_layout(s, h):
     """Maximize font size (cap 12pt); tie-break toward simpler layouts.
     Complexity: 0 single, 1 two-col, 2 single wrapped, 3 two-col wrapped.
 
@@ -471,46 +689,85 @@ def best_layout(s):
     measured estimate misses (Chrome's own line breaking rarely matches a
     hand-rolled one exactly).
     """
-    if s["converted"]:
-        h = BODY_H - header_mm(s)
-        body = s["body"]
-        fs_single = fs_fit_prop(body, BODY_W, h)
-        c1, c2 = split_two_cols(body)
-        fs_cols = min(fs_fit_prop(c1, COL_W, h), fs_fit_prop(c2, COL_W, h))
-        if fs_cols > fs_single:
-            return dict(fs=fs_cols * s["shrink"], cols=(c1, c2), single=None,
-                        wrapped=False)
-        return dict(fs=fs_single * s["shrink"], cols=None, single=body,
-                    wrapped=False)
-    h = BODY_H - header_mm(s)
+    def cand(fs, cx, cols, single):
+        # the last element is what the smallest tablature block ends up
+        # at, for layout_score()
+        if cols:
+            return (fs, cx, cols, single, tab_fs(cols, COL_W, fs))
+        return (fs, cx, cols, single, tab_fs([single], BODY_W, fs))
+
     body = s["body"]
-    cands = [(fs_fit(body, BODY_W, h), 0, None, body)]
+    if s["converted"]:
+        c1, c2 = split_two_cols(body)
+        cands = [
+            cand(fs_fit_prop(body, BODY_W, h), 0, None, body),
+            cand(min(fs_fit_prop(c1, COL_W, h), fs_fit_prop(c2, COL_W, h)),
+                 1, (c1, c2), None)]
+        fs, _, cols, single, _ = max(
+            cands, key=lambda c: (layout_score(c[0], c[4]), -c[1]))
+        return dict(fs=fs, cols=cols, single=single, intro=None, tail=None,
+                    wrapped=False)
+    cands = [cand(fs_fit(body, BODY_W, h), 0, None, body)]
     c1, c2 = split_two_cols(body)
-    cands.append((min(fs_fit(c1, COL_W, h), fs_fit(c2, COL_W, h)),
-                  1, (c1, c2), None))
+    cands.append(cand(min(fs_fit(c1, COL_W, h), fs_fit(c2, COL_W, h)),
+                      1, (c1, c2), None))
     for tgt in (12.0, 11.0):
         ws = int(BODY_W / (tgt * ADV * PT2MM))
         wb = wrap_body(body, ws)
         if wb != body:
-            cands.append((fs_fit(wb, BODY_W, h), 2, None, wb))
+            cands.append(cand(fs_fit(wb, BODY_W, h), 2, None, wb))
         wc = max(MIN_WRAP, int(COL_W / (tgt * ADV * PT2MM)))
         wbc = wrap_body(body, wc)
         d1, d2 = split_two_cols(wbc)
-        cands.append((min(fs_fit(d1, COL_W, h), fs_fit(d2, COL_W, h)),
-                      3, (d1, d2), None))
-    fs, cx, cols, single = max(cands, key=lambda c: (round(c[0] * 4), -c[1]))
-    return dict(fs=fs * s["shrink"], cols=cols, single=single,
+        cands.append(cand(min(fs_fit(d1, COL_W, h), fs_fit(d2, COL_W, h)),
+                          3, (d1, d2), None))
+    fs, cx, cols, single, _ = max(
+        cands, key=lambda c: (round(layout_score(c[0], c[4]) * 4), -c[1]))
+    return dict(fs=fs, cols=cols, single=single, intro=None, tail=None,
                 wrapped=cx >= 2)
 
 
 # ---------------------------------------------------------------- html
 
-def render_pre(body_lines):
+def render_tab(lines, width_mm, fs):
+    """A tablature block (tab_blocks): its own monospace box, never
+    wrapped, its font shrunk just enough (tab_scale) for the longest line
+    to fit width_mm. Chord rows inside keep the chord colour."""
+    rows = "".join(
+        f'<span class="ln{" ch" if is_chord_line(ln) else ""}">'
+        f'{html.escape(ln, quote=False)}</span>' for ln in lines)
+    return (f'<span class="tab" style="font-size:'
+            f'{tab_scale(lines, width_mm, fs):.3f}em">{rows}</span>')
+
+
+PROSE_EM = 0.9       # a note's font size, relative to the song's
+PROSE_VPAD_EM = 0.6  # its vertical margins, in the song's em
+
+
+def render_prose(text):
+    """A paragraph of plain text from outside the fences (a note): ordinary
+    wrapping text in the proportional font, whatever the song around it
+    uses. Only Markdown's own inline formatting (mini_md) applies — it is
+    never read for chords."""
+    return f'<span class="prose">{mini_md(text)}</span>'
+
+
+def render_pre(body_lines, width_mm, fs):
     """Each line is its own block so blank separators can be genuinely
     half-height (inside one <pre>, every line box gets a full-height
     strut from the block font and cannot shrink)."""
-    out = []
-    for ln in body_lines:
+    ends = dict(tab_blocks(body_lines))
+    out, skip_to = [], 0
+    for i, ln in enumerate(body_lines):
+        if i < skip_to:
+            continue
+        if i in ends:
+            out.append(render_tab(body_lines[i:ends[i]], width_mm, fs))
+            skip_to = ends[i]
+            continue
+        if isinstance(ln, ProseLine):
+            out.append(render_prose(ln))
+            continue
         if not ln.strip():
             out.append('<span class="bl"></span>')
             continue
@@ -646,17 +903,28 @@ def classify_converted_rows(body_lines):
     ('blank', None), ('pair', (tokens, lyric)) for both native
     chords-above-lyrics pairs and inline [Chord]/^ lines (both reduce to
     the same (tokens, lyric) shape), ('interlude', [tokens]) for a chord
-    row with no lyric under it, or ('plain', text)."""
+    row with no lyric under it, ('tab', [lines]) for a whole tablature
+    block (tab_blocks), ('prose', text) for a paragraph of plain text
+    from outside the fences, or ('plain', text)."""
+    ends = dict(tab_blocks(body_lines))
     i, n = 0, len(body_lines)
     while i < n:
+        if i in ends:
+            yield "tab", body_lines[i:ends[i]]
+            i = ends[i]
+            continue
         ln = body_lines[i]
+        if isinstance(ln, ProseLine):
+            yield "prose", ln
+            i += 1
+            continue
         if not ln.strip():
             yield "blank", None
             i += 1
             continue
         nxt = body_lines[i + 1] if i + 1 < n else None
         if is_chord_line(ln) and nxt is not None and nxt.strip() \
-                and not is_chord_line(nxt):
+                and not is_chord_line(nxt) and is_text(nxt):
             yield "pair", (two_row_tokens(ln), nxt)
             i += 2
             continue
@@ -672,7 +940,7 @@ def classify_converted_rows(body_lines):
         i += 1
 
 
-def render_converted_body(body_lines):
+def render_converted_body(body_lines, width_mm, fs):
     """Proportional-font rendering for a song that uses inline [Chord]/^
     notation anywhere (see has_inline_chords) — including any native
     chords-above-lyrics pairs mixed into the same song, converted to the
@@ -695,6 +963,10 @@ def render_converted_body(body_lines):
             toks = [f'<span class="{"pf-r" if t == "/" else "pf-c"}">'
                     f'{html.escape(t, quote=False)}</span>' for t in data]
             out.append(f'<p class="pf-plain">{" ".join(toks)}</p>')
+        elif kind == "tab":
+            out.append(render_tab(data, width_mm, fs))
+        elif kind == "prose":
+            out.append(render_prose(data))
         else:
             out.append(f'<p class="pf-plain">{html.escape(data, quote=False)}</p>')
     return "".join(out)
@@ -722,6 +994,13 @@ def prop_row_plain(tokens, lyric):
     return "".join(pieces)
 
 
+def prose_height_pt(text, width_pt, fs):
+    """Rendered height (pt) of one render_prose() paragraph."""
+    f = fs * PROSE_EM
+    return wrap_count_prop(text, width_pt, f) * PF_LINE_H_EM * f \
+        + PROSE_VPAD_EM * fs
+
+
 def wrap_count_prop(text, width_pt, fontsize):
     """How many visual lines `text` wraps into at `fontsize`pt within
     `width_pt` points of a proportional font, measured with real DejaVu
@@ -743,26 +1022,29 @@ def wrap_count_prop(text, width_pt, fontsize):
     return max(lines, 1)
 
 
-def fs_fit_prop(body_lines, width_mm, height_mm):
-    """fs_fit()'s proportional-font counterpart: the largest font size
-    (capped at FS_MAX) whose rendered height — measured via
-    wrap_count_prop(), not assumed from a character count — fits
-    height_mm. Total height is monotonically non-decreasing in font size
-    (bigger text only ever wraps to more lines, never fewer), so a binary
-    search on font size is valid; 24 steps easily gets sub-hundredth-pt
-    precision without an actual Chrome render."""
-    width_pt, height_pt = width_mm / PT2MM, height_mm / PT2MM
+def prop_height_fn(body_lines, width_mm):
+    """fs -> rendered height (mm) of a converted song's body lines laid
+    out width_mm wide, measured via wrap_count_prop() rather than assumed
+    from a character count. Everything that doesn't depend on fs is
+    worked out once, up front, since callers probe many font sizes."""
+    width_pt = width_mm / PT2MM
     rows = list(classify_converted_rows(body_lines))
     texts = [prop_row_plain(*data) if kind == "pair" else
              " ".join(data) if kind == "interlude" else
-             (data if kind == "plain" else "")
+             (data if kind in ("plain", "prose") else "")
              for kind, data in rows]
 
-    def fits(fs):
+    def height(fs):
         total = 0.0
-        for (kind, _), text in zip(rows, texts):
+        for (kind, data), text in zip(rows, texts):
             if kind == "blank":
                 total += PF_BLANK_EM * fs
+            elif kind == "tab":
+                # never wraps, and its font is at most fs: counting every
+                # line at full size errs on the safe side
+                total += len(data) * LINE_H * fs + TAB_VPAD_MM / PT2MM
+            elif kind == "prose":
+                total += prose_height_pt(text, width_pt, fs)
             else:
                 # only a "pair" row floats a chord above itself and needs
                 # the extra headroom; a chordless plain/interlude row
@@ -770,10 +1052,18 @@ def fs_fit_prop(body_lines, width_mm, height_mm):
                 if kind == "pair":
                     total += PF_PAD_TOP_EM * fs
                 total += wrap_count_prop(text, width_pt, fs) * PF_LINE_H_EM * fs
-            if total > height_pt:
-                return False
-        return True
+        return total * PT2MM
 
+    return height
+
+
+def max_fs(fits):
+    """The largest font size (capped at FS_MAX) for which fits(fs) holds,
+    fits being monotone — true up to some size, false beyond. 24 halvings
+    easily get sub-hundredth-pt precision without an actual Chrome
+    render."""
+    if fits(FS_MAX):
+        return FS_MAX
     lo, hi = 1.0, FS_MAX
     for _ in range(24):
         mid = (lo + hi) / 2
@@ -782,6 +1072,15 @@ def fs_fit_prop(body_lines, width_mm, height_mm):
         else:
             hi = mid
     return lo
+
+
+def fs_fit_prop(body_lines, width_mm, height_mm):
+    """fs_fit()'s proportional-font counterpart: the largest font size
+    (capped at FS_MAX) whose rendered height (prop_height_fn) fits
+    height_mm. Height never decreases as the font grows (bigger text only
+    ever wraps to more lines, never fewer), so max_fs() applies."""
+    height = prop_height_fn(body_lines, width_mm)
+    return max_fs(lambda fs: height(fs) <= height_mm)
 
 
 CSS = f"""
@@ -814,6 +1113,23 @@ pre {{ font-family: {MONO_STACK}; line-height: {LINE_H};
 .pf-a > span {{ position: absolute; left: 0; bottom: 0.75em; white-space: nowrap;
               font-weight: bold; }}
 .pf-c {{ color: #8b1a1a; }}
+/* Tablature (tab_blocks): a monospace box of its own, never wrapped —
+   render_tab() shrinks its font-size instead, only as far as needed for
+   the longest line to fit; that font-size is relative to the song's, so
+   the same markup works inside both <pre> and .pf-body. */
+.tab {{ display: block; font-family: {MONO_STACK}; line-height: {LINE_H};
+       white-space: pre; font-feature-settings: "liga" 0, "calt" 0;
+       background: #f3f3f3; border-left: 0.6mm solid #bbb;
+       padding: 0.5mm 1.5mm; margin: 1mm 0; }}
+.tab .ln {{ white-space: pre; }}
+.intro {{ margin-bottom: {TAIL_GAP_MM}mm; }}
+/* A note from outside the fences: ordinary wrapping text, whatever the
+   song around it uses (render_prose). */
+.prose {{ display: block; font-family: 'DejaVu Sans', sans-serif;
+         font-size: {PROSE_EM}em; line-height: {PF_LINE_H_EM};
+         white-space: normal; color: #333;
+         margin: {PROSE_VPAD_EM / 2 / PROSE_EM:.3f}em 0; }}
+.tail {{ margin-top: {TAIL_GAP_MM}mm; }}
 .pf-r {{ color: #444; }}
 code {{ font-family: {MONO_STACK}; font-size: 92%; }}
 .mk {{ color: #ffffff; font-size: 3pt; }}
@@ -864,22 +1180,36 @@ def song_page(s):
     parts.append(f'<div class="rule"><span class="mk">§{s["num"]}§</span>'
                  f'</div>')
     style = f'font-size:{fs:.2f}pt'
+    if lay["intro"]:
+        if s["converted"]:
+            parts.append(f'<div class="pf-body intro" style="{style}">'
+                         f'{render_converted_body(lay["intro"], BODY_W, fs)}</div>')
+        else:
+            parts.append(f'<pre class="intro" style="{style}">'
+                         f'{render_pre(lay["intro"], BODY_W, fs)}</pre>')
     if s["converted"] and lay["cols"]:
         c1, c2 = lay["cols"]
         parts.append(f'<div class="cols pf-body" style="{style}">'
-                     f'<div>{render_converted_body(c1)}</div>'
-                     f'<div>{render_converted_body(c2)}</div></div>')
+                     f'<div>{render_converted_body(c1, COL_W, fs)}</div>'
+                     f'<div>{render_converted_body(c2, COL_W, fs)}</div></div>')
     elif s["converted"]:
         parts.append(f'<div class="pf-body" style="{style}">'
-                     f'{render_converted_body(lay["single"])}</div>')
+                     f'{render_converted_body(lay["single"], BODY_W, fs)}</div>')
     elif lay["cols"]:
         c1, c2 = lay["cols"]
         parts.append(f'<div class="cols">'
-                     f'<pre style="{style}">{render_pre(c1)}</pre>'
-                     f'<pre style="{style}">{render_pre(c2)}</pre></div>')
+                     f'<pre style="{style}">{render_pre(c1, COL_W, fs)}</pre>'
+                     f'<pre style="{style}">{render_pre(c2, COL_W, fs)}</pre></div>')
     else:
         parts.append(f'<pre style="{style}">'
-                     f'{render_pre(lay["single"])}</pre>')
+                     f'{render_pre(lay["single"], BODY_W, fs)}</pre>')
+    if lay["tail"]:
+        if s["converted"]:
+            parts.append(f'<div class="pf-body tail" style="{style}">'
+                         f'{render_converted_body(lay["tail"], BODY_W, fs)}</div>')
+        else:
+            parts.append(f'<pre class="tail" style="{style}">'
+                         f'{render_pre(lay["tail"], BODY_W, fs)}</pre>')
     parts.append("</div>")
     return "\n".join(parts), fs, bool(lay["cols"]), lay["wrapped"]
 

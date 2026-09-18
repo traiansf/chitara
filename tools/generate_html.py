@@ -52,12 +52,39 @@ measured_spacing = make_pdf.measured_spacing
 keep_multispace = make_pdf.keep_multispace
 
 
+def render_tab_interactive(lines):
+    """A tablature block (make_pdf.tab_blocks) as its own monospace box
+    that never wraps — site.css lets it scroll sideways on a narrow screen
+    instead. Chord rows inside are coloured but carry no data-chord: the
+    fret numbers under them can't be transposed, so neither are they."""
+    rows = "".join(
+        f'<span class="ln{" tab-ch" if make_pdf.is_chord_line(ln) else ""}">'
+        f'{html.escape(ln, quote=False)}</span>' for ln in lines)
+    return f'<span class="tab">{rows}</span>'
+
+
+def render_prose_interactive(text):
+    """A paragraph of plain text from outside the fences (a note), as in
+    make_pdf.render_prose: ordinary wrapping text, never read for chords."""
+    return f'<span class="prose">{make_pdf.mini_md(text)}</span>'
+
+
 def render_pre_interactive(body_lines):
     """Like make_pdf.render_pre, but every chord token gets its own
     <span data-chord="..."> (not one span per whole chord-only line), so
     each can be rewritten independently by chords.js on transpose."""
-    out = []
-    for ln in body_lines:
+    ends = dict(make_pdf.tab_blocks(body_lines))
+    out, skip_to = [], 0
+    for i, ln in enumerate(body_lines):
+        if i < skip_to:
+            continue
+        if i in ends:
+            out.append(render_tab_interactive(body_lines[i:ends[i]]))
+            skip_to = ends[i]
+            continue
+        if isinstance(ln, make_pdf.ProseLine):
+            out.append(render_prose_interactive(ln))
+            continue
         if not ln.strip():
             out.append('<span class="bl"></span>')
             continue
@@ -199,6 +226,10 @@ def render_converted_interactive(body_lines):
             out.append(f'<p class="pf">{render_prop_interactive(tokens, lyric)}</p>')
         elif kind == "interlude":
             out.append(f'<p class="pf-plain">{render_interlude_interactive(data)}</p>')
+        elif kind == "tab":
+            out.append(render_tab_interactive(data))
+        elif kind == "prose":
+            out.append(render_prose_interactive(data))
         else:
             out.append(f'<p class="pf-plain">{html.escape(data, quote=False)}</p>')
     return "".join(out)

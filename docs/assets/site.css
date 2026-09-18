@@ -70,6 +70,37 @@ pre {
 .pf-a { position: relative; display: inline-block; width: 0; }
 .pf-a > span { position: absolute; left: 0; bottom: 0.75em; white-space: nowrap; }
 
+/* Tablature (make_pdf.tab_blocks): a monospace box of its own in every
+   song, whether the rest of it is <pre> or proportional .pf-body. It
+   never wraps (a wrapped staff is unreadable); on a narrow screen it
+   scrolls sideways instead. */
+.tab {
+  display: block;
+  font-family: 'DejaVu Sans Mono', monospace;
+  font-size: 0.95rem;
+  line-height: 1.35;
+  white-space: pre;
+  overflow-x: auto;
+  background: #f1f1ec;
+  border-left: 3px solid #ccc;
+  padding: 4px 8px;
+  margin: 6px 0;
+}
+.tab .ln { white-space: pre; }
+.tab-ch { color: #8b1a1a; font-weight: bold; }
+
+/* A note from outside the song's fences: ordinary wrapping text in every
+   song, whether the rest of it is <pre> or .pf-body. */
+.prose {
+  display: block;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  white-space: normal;
+  color: #333;
+  margin: 6px 0;
+}
+
 .chord-tooltip {
   position: fixed; z-index: 20;
   background: #fff; border: 1px solid #999; border-radius: 4px;

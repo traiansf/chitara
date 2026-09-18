@@ -1,13 +1,13 @@
 # Caiet de cântece pentru chitară
 
-Un caiet de **738 de cântece** cu acorduri — de cabană, folk românesc,
+Un caiet de **727 de cântece** cu acorduri — de cabană, folk românesc,
 repertoriu internațional și colinde — compilat din cinci culegeri tipărite și
 scanate.
 
 📖 **[Caiet-chitara.md](Caiet-chitara.md)** — caietul, cu cuprins, index pe
 artiști și dicționar de acorduri
 🖨️ **[Caiet-chitara.pdf](Caiet-chitara.pdf)** — același caiet pentru tipărit,
-759 de pagini, un cântec pe pagină
+750 de pagini, un cântec pe pagină
 🔗 **[Caiet-chitara-addendum.md](Caiet-chitara-addendum.md)** — 1755 de piese
 ale acelorași artiști, cu linkuri către tabulaturi.ro
 🎸 **[traiansf.github.io/chitara](https://traiansf.github.io/chitara/)** —
@@ -19,11 +19,13 @@ transpunere a acordurilor)
 | Partea | Cântece |
 |---|---|
 | **I — Cântece de cabană** | **204** |
-| &nbsp;&nbsp;I.1 — De munte, de drum și de dor | 108 |
-| &nbsp;&nbsp;I.2 — Populare și lăutărești | 23 |
+| &nbsp;&nbsp;I.1 — De munte, de drum și de dor | 107 |
+| &nbsp;&nbsp;I.2 — Populare și lăutărești | 24 |
 | &nbsp;&nbsp;I.3 — Naționaliste și de dor de țară | 19 |
 | &nbsp;&nbsp;I.4 — Studențești, de chef și deocheate | 54 |
-| II — Repertoriu românesc | 312 |
+| **II — Repertoriu românesc** | **313** |
+| &nbsp;&nbsp;II.1 — Folk | 225 |
+| &nbsp;&nbsp;II.2 — Ne-folk | 88 |
 | III — Repertoriu internațional | 95 |
 | **IV — Colinde și cântece de iarnă** | **115** |
 | &nbsp;&nbsp;IV.1 — Colinde românești | 56 |
@@ -31,7 +33,7 @@ transpunere a acordurilor)
 | &nbsp;&nbsp;IV.3 — Cântece de iarnă românești | 22 |
 | &nbsp;&nbsp;IV.4 — Cântece de iarnă internaționale | 27 |
 
-176 de artiști în index, 550 de cântece atribuite. Fiecare cântec poartă
+176 de artiști în index, 542 de cântece atribuite. Fiecare cântec poartă
 digitațiile acordurilor lui, pentru chitară și pentru ukulele:
 
 ```

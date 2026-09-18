@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Rearrange Caiet-chitara.md into the four-part structure declared in categorii.json.
 
-Part I gets three subsections; parts II-IV are flat.  Songs keep their bodies
+Parts I, II and IV get subsections; part III is flat.  Songs keep their bodies
 untouched: only the header line and the anchors change.  Running it over its
 own output changes nothing, so it is safe to re-run after editing
 categorii.json.
@@ -19,7 +19,10 @@ PARTS = [
         ("I.3", "Naționaliste și de dor de țară"),
         ("I.4", "Studențești, de chef și deocheate"),
     ]),
-    ("II", "Partea a II-a", "Repertoriu românesc", []),
+    ("II", "Partea a II-a", "Repertoriu românesc", [
+        ("II.1", "Folk"),
+        ("II.2", "Ne-folk"),
+    ]),
     ("III", "Partea a III-a", "Repertoriu internațional", []),
     ("IV", "Partea a IV-a", "Colinde și cântece de iarnă", [
         ("IV.1", "Colinde românești"),

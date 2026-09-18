@@ -29,6 +29,14 @@ Un cântec arată așa:
 ```
 ````
 
+După rândurile de digitații, corpul cântecului are trei feluri de părți,
+în orice ordine: blocuri ` ```text ` (versuri și acorduri — singurele din
+care se citesc acorduri), blocuri ` ```tab ` (tabulatură, cu rândurile
+aliniate pe aceleași coloane: acorduri, marcaje de ciupit ca `P O P D`,
+silabe sub note) și text liber în afara blocurilor (note: „Notă: măsura
+e 3/4…"), care e Markdown obișnuit și nu trece prin nicio procesare de
+acorduri. Un exemplu cu toate trei: *Vara*.
+
 **Identitatea stabilă a unui cântec e `titlu || Sursa, p. N`** — unică pe toate
 cele 738. Cântecele n-au număr de ordine (sunt alfabetice în fiecare
 secțiune și titlurile sunt deja unice); ancora e derivată din titlu și se
@@ -38,13 +46,13 @@ poate schimba dacă alt cântec cu titlu identic i-o ia înainte alfabetic
 
 ## Structura cărții
 
-Patru părți; părțile I și IV au subsecțiuni, II și III nu. Nivelurile de
+Patru părți; părțile I, II și IV au subsecțiuni, III nu. Nivelurile de
 titlu contează:
 
 | Nivel | Ce e |
 |---|---|
 | `## Partea a II-a — Repertoriu românesc` | parte |
-| `### I.1 — De munte și de drum` | subsecțiune (părțile I și IV) |
+| `### I.1 — De munte și de drum` | subsecțiune (părțile I, II și IV) |
 | `#### Titlu` | cântec |
 
 `tools/categorii.json` ține încadrarea fiecărui cântec: cheia stabilă →
@@ -173,6 +181,20 @@ Ce face fiecare grup:
   `[Dm]`; `tools/collapse_repeated_chords.py` face conversia automat. Nu
   se confundă cu `/` de pe rândul de acorduri (deasupra versului), care
   înseamnă altceva: o digitație alternativă pentru acordul precedent.
+- Blocurile ` ```tab ` se randează separat, mereu monospațiat și fără
+  rupere de rând — și în cântecele cu font proporțional: în PDF își
+  micșorează doar propriul font cât să încapă în coloană, pe site se
+  derulează orizontal. Acordurile din ele nu se transpun (cifrele din tab
+  nu se pot transpune). Un cântec cu tabulatură doar înaintea versurilor
+  și/sau după ele (`tab_frame()` din `make_pdf.py`) are în PDF partea
+  aceea pe toată lățimea paginii, iar versurile pe una sau două coloane —
+  dacă asta nu micșorează versurile, sau dacă altfel tab-ul n-ar încăpea
+  într-o coloană fără să fie micșorat; nu și când l-ar coborî sub 7pt, iar
+  așezarea obișnuită nu.
+  Cântecele cu tab și între strofe rămân pe așezarea obișnuită. Notele din
+  afara blocurilor apar ca text obișnuit, cu font proporțional.
+  `replace_song_block.py` înlocuiește doar primul bloc ` ```text ` al
+  cântecului.
 - `tools/data/ro_forms.txt` e generat (27 MB) și ignorat de git.
 - Mesajele de commit și documentația sunt în română; docstring-urile și
   comentariile din cod, în engleză.

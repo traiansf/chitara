@@ -73,17 +73,19 @@ def main():
     path = sys.argv[1] if len(sys.argv) > 1 else DEFAULT_PATH
     lines = open(path, encoding="utf-8").read().split("\n")
 
-    in_fence, collapsed, touched_songs = False, 0, set()
+    fence, collapsed, touched_songs = None, 0, set()
     song = None
     out = []
     for ln in lines:
         if ln.startswith("#### "):
             song = ln
         if ln.startswith("```"):
-            in_fence = not in_fence
+            # the fence's language, or None once closed: only ```text
+            # fences hold lyrics, ```tab ones hold tablature
+            fence = (ln[3:].strip() or "text") if fence is None else None
             out.append(ln)
             continue
-        if in_fence and not line_is_chords(ln):
+        if fence not in (None, "tab") and not line_is_chords(ln):
             new_ln, n = collapse_line(ln)
             if n:
                 collapsed += n
