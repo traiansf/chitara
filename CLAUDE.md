@@ -75,6 +75,7 @@ nu o editare manuală a caietului.
 ```bash
 python3 tools/reorganize_parts.py          # rearanjează după categorii.json
 python3 tools/make_pdf.py                  # regenerează PDF-ul (~2 min)
+python3 tools/make_pdf.py --lista Lista-mea.md --out Caietul-meu.pdf  # caiet din listă, transpus
 python3 tools/add_guitar_chords.py         # recalculează digitațiile de chitară
 python3 tools/add_ukulele_chords.py        # idem, ukulele
 python3 tools/add_guitar_chords.py --check # verifică fiecare digitație contra notelor ei
@@ -88,6 +89,17 @@ make html                                  # regenerează site-ul HTML interacti
 Cere `python3` cu **pymupdf** (`fitz`), **poppler** (`pdftotext`) și
 **google-chrome-stable** (headless, pentru PDF).
 
+`make_pdf.py --lista` face un caiet mic, doar din cântecele unei liste
+Markdown — un titlu `# …`, apoi câte un rând `- Titlu [Dm]` pe cântec —
+în ordinea listei, după un cuprins, fiecare transpus ca să înceapă cu
+acordul dintre paranteze drepte (`tools/transpose.py`, perechea Python a
+transpunerii din `chords.js`; bemoli în tonalitățile cu bemoli, ex. Bb în
+Dm și F). Se transpun acordurile din blocurile ` ```text ` și rândurile
+de digitații, iar pe rândul de sub titlu apare „transpus: Em → Dm";
+tabulatura și notele rămân ca în caiet. Titlurile se potrivesc întregi
+(fără să conteze literele mari); unul care lipsește din caiet oprește
+rularea. Fără `--out`, PDF-ul ia numele listei.
+
 ## Cele două generații de unelte
 
 `tools/` amestecă unelte vii cu pași istorici. Distincția contează:
@@ -95,7 +107,8 @@ Cere `python3` cu **pymupdf** (`fitz`), **poppler** (`pdftotext`) și
 **Vii** — citesc și rescriu caietul curent: `reorganize_parts.py`,
 `dedup_lib.py` (parserul comun), `make_pdf.py`, `add_guitar_chords.py`,
 `add_ukulele_chords.py`, `replace_song_block.py`, `normalize_verses.py`,
-`restore_diacritics.py`, `generate_html.py`, `collapse_repeated_chords.py`.
+`restore_diacritics.py`, `generate_html.py`, `collapse_repeated_chords.py`,
+`transpose.py` (folosit de `make_pdf.py --lista`).
 
 `generate_html.py` citește caietul cu parserul din `make_pdf.py` și
 generează integral `docs/` — un site static (o pagină per cântec, cu
