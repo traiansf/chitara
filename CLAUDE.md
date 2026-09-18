@@ -193,6 +193,12 @@ Ce face fiecare grup:
   un rând, iar sub 8pt trec pe mai multe rânduri (`fingering_layout()`
   din `make_pdf.py`) — aceeași mărime pentru ambele rânduri ale unui
   cântec.
+- În PDF, un rând cu acorduri plutitoare (font proporțional) care nu
+  încape pe lățimea coloanei se rupe, și fiecare bucată a lui primește
+  deasupra spațiul pentru acorduri, ca un rând întreg (`PF_ROW_H_EM`,
+  `.pf` din `make_pdf.py`) — altfel acordurile de pe continuare ar
+  pluti peste textul de deasupra. Rândurile care nu se rup rămân
+  exact ca înainte, iar `prop_height_fn()` socotește la fel.
 - Editarea introducerii sau a oricărui cântec cere regenerarea PDF-ului;
   introducerea intră în prima pagină a lui.
 - **Înainte de orice push, regenerează PDF-ul (`make pdf`) și site-ul

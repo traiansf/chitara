@@ -1076,6 +1076,12 @@ def render_converted_body(body_lines, width_mm, fs):
 
 PF_PAD_TOP_EM = 1.25
 PF_LINE_H_EM = 1.3
+# a chord row's every visual line, a wrapped continuation's too, is this
+# tall: the headroom its floated chords need plus the line itself (.pf)
+PF_ROW_H_EM = PF_PAD_TOP_EM + PF_LINE_H_EM
+# ... of which line-height puts half of the headroom below the text, where
+# .pf's negative bottom margin takes it back
+PF_ROW_LEAD_EM = (PF_ROW_H_EM - PF_LINE_H_EM) / 2
 PF_BLANK_EM = 1.9  # a verse break needs to read as clearly bigger than the
                     # headroom already reserved above every chord-bearing
                     # row, not blend in with it
@@ -1148,12 +1154,12 @@ def prop_height_fn(body_lines, width_mm):
             elif kind == "prose":
                 total += prose_height_pt(text, width_pt, fs)
             else:
-                # only a "pair" row floats a chord above itself and needs
-                # the extra headroom; a chordless plain/interlude row
-                # renders at plain line-height, same as render_converted_body
-                if kind == "pair":
-                    total += PF_PAD_TOP_EM * fs
-                total += wrap_count_prop(text, width_pt, fs) * PF_LINE_H_EM * fs
+                # only a "pair" row floats chords above itself and needs the
+                # headroom, above each line it wraps into (PF_ROW_H_EM); a
+                # chordless plain/interlude row renders at plain line-height,
+                # same as render_converted_body
+                line_h = PF_ROW_H_EM if kind == "pair" else PF_LINE_H_EM
+                total += wrap_count_prop(text, width_pt, fs) * line_h * fs
         return total * PT2MM
 
     return height
@@ -1205,15 +1211,24 @@ pre {{ font-family: {MONO_STACK}; line-height: {LINE_H};
    the row's start — so normal word-wrap (required in print; there is no
    scroll fallback) carries a wrapped continuation's chords with it
    automatically instead of leaving them pinned to the wrong visual row.
-   The generous line-height reserves headroom above EVERY wrapped line of
-   a paragraph, not just its first, for exactly the same reason. */
+   The generous line-height (PF_ROW_H_EM) reserves headroom above EVERY
+   wrapped line of a row, not just its first, for exactly the same
+   reason — a continuation's chords would otherwise float into the line
+   above. Line-height splits that headroom half above the text, half
+   below; padding-top tops up the half above and the negative bottom
+   margin takes back the half below, so a row that doesn't wrap sits
+   exactly where padding-top: PF_PAD_TOP_EM + line-height: PF_LINE_H_EM
+   would put it. */
 .pf-body {{ font-family: 'DejaVu Sans', sans-serif; }}
-.pf {{ padding-top: 1.25em; line-height: 1.3; margin: 0; }}
+.pf {{ padding-top: {PF_PAD_TOP_EM - PF_ROW_LEAD_EM:.3f}em; line-height: {PF_ROW_H_EM:.2f};
+      margin: 0 0 -{PF_ROW_LEAD_EM:.3f}em; }}
 .pf-plain {{ line-height: 1.3; margin: 0; }}
 .pf-bl {{ height: {PF_BLANK_EM:.2f}em; margin: 0; }}
 .pf-a {{ position: relative; display: inline-block; width: 0; }}
+/* a floated label keeps the plain line-height: .pf's taller one would
+   centre it higher above its anchor */
 .pf-a > span {{ position: absolute; left: 0; bottom: 0.75em; white-space: nowrap;
-              font-weight: bold; }}
+              font-weight: bold; line-height: {PF_LINE_H_EM}; }}
 .pf-c {{ color: #8b1a1a; }}
 /* Tablature (tab_blocks): a monospace box of its own, never wrapped —
    render_tab() shrinks its font-size instead, only as far as needed for
