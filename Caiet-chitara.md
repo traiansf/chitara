@@ -1128,9 +1128,11 @@ Refren x2
 De dure[G]rea frunze[C]lor. ^ 
 
 R:
-Și mă [Am]duc (si ma ^duc) și iar mă [G]duc (si iar ma ^duu[F]uc)
+Și mă [Am]duc (si ma ^duc)
+și iar mă [G]duc (si iar ma ^duu[F]uc)
 Până [G]la izvor sub [C]nuc ^
-Și mă [Am]fac (si ma ^fac) și iar mă [G]fac (si iar ma ^faa[F]ac)
+Și mă [Am]fac (si ma ^fac)
+și iar mă [G]fac (si iar ma ^faa[F]ac)
 Lemn de [G]brad și lemn de [C]fag. ^
 
 2.x2
@@ -5346,10 +5348,15 @@ A7 în loc de G7 și G în loc de F...
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
-A [C]fost odată un vis fru[Am]mos, un vis frumos cu [F]un băiat și-o [G]fată
-A [C]fost un vis cam dure[Am]ros, cam dureros de [F]te rănesc mă [G]iaar[C]tă.  [Am]  [F]  [G]
-A [C]fost un vis născut în [Am]munți, născut în munți cres[F]cut la o ca[G]bană
-Um[C]brit de brazi înalți că[Am]runți, înalți cărunți ce [F]astăzi se de[G]stra[C]mă  [Am]  [F]  [G]
+A [C]fost odată un vis fru[Am]mos, un vis frumos
+cu [F]un băiat și-o [G]fată
+A [C]fost un vis cam dure[Am]ros, cam dureros
+de [F]te rănesc mă [G]iaar[C]tă.  [Am]  [F]  [G]
+
+A [C]fost un vis născut în [Am]munți, născut în munți
+cres[F]cut la o ca[G]bană
+Um[C]brit de brazi înalți că[Am]runți, înalți cărunți
+ce [F]astăzi se de[G]stra[C]mă  [Am]  [F]  [G]
 
 Refren:
 De [C]ce vă destrămați u[Am]șor vă destrămați
@@ -5359,17 +5366,25 @@ Să [F]dăinuiți pe [G]veci.
 /Să dăinu[C]iți dirim diriri[Am]ra dirariram [F]ooo[G]o/ x2
 Să dăinu[C]iți  ^
 
-Ard [C]stelele ca lumâ[Am]nări, ca lumânări, pe-al [F]muntelui al[G]tar
-Vin [C]cerbii iarăși pe că[Am]rări, iar pe cărări pă[F]durile tre[G]sa[C]ar  [Am]  [F]  [G]
-Iz[C]voarele în șopot [Am]lin, în șopot lin, ves[F]tesc iubirea [G]noastră
-Iar [C]ale tale vise [Am]vin, vise vin, să-ți [F]bată la fe[G]rea[C]stră.  [Am]  [F]  [G]
+Ard [C]stelele ca lumâ[Am]nări, ca lumânări,
+pe-al [F]muntelui al[G]tar
+Vin [C]cerbii iarăși pe că[Am]rări, iar pe cărări
+pă[F]durile tre[G]sa[C]ar  [Am]  [F]  [G]
+Iz[C]voarele în șopot [Am]lin, în șopot lin,
+ves[F]tesc iubirea [G]noastră
+Iar [C]ale tale vise [Am]vin, vise vin,
+să-ți [F]bată la fe[G]rea[C]stră.  [Am]  [F]  [G]
 
 Refren
 
-Ră[C]mâi cu bine visul [Am]meu, visul meu și [F]s-auzim de [G]bine
-Te [C]voi păstra în gând me[Am]reu, în gând mereu, voi [F]fi mereu cu [G]ti[C]ne  [Am]  [F]  [G]
-Iar [C]cel ce va veni a[Am]poi, veni apoi, pe [F]munte tu să-l [G]duci, tu să-l duci
-Vă [C]voi veghea pe amân[Am]doi, pe amândoi, pe [F]creste de-ai să-l [G]u[C]urci.  [Am]  [F]  [G]
+Ră[C]mâi cu bine visul [Am]meu, visul meu
+și [F]s-auzim de [G]bine
+Te [C]voi păstra în gând me[Am]reu, în gând mereu,
+voi [F]fi mereu cu [G]ti[C]ne  [Am]  [F]  [G]
+Iar [C]cel ce va veni a[Am]poi, veni apoi,
+pe [F]munte tu să-l [G]duci, tu să-l duci
+Vă [C]voi veghea pe amân[Am]doi, pe amândoi,
+pe [F]creste de-ai să-l [G]u[C]urci.  [Am]  [F]  [G]
 
 Refren2:
 Să [C]nu vă destrămați u[Am]șor vă destrămați
