@@ -1960,9 +1960,9 @@ Refren
 
 Sursa: Cărticica Karban, p. 257
 
-**Chitară:** D xx0232 · A7 x02020
+**Chitară:** D xx0232 · A7 x02020 · G 320003
 
-**Ukulele:** D 2220 · A7 0100
+**Ukulele:** D 2220 · A7 0100 · G 0232
 
 Notă: Măsura cântecului e 3/4
 
@@ -2932,9 +2932,9 @@ Pe-acest pământ de nori umbrit.
 
 **Axa** · Sursa: Caiet Christian Adventure, p. 83 · Caiet cabană RO, p. 22 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/imnul-bucegilor-2699)
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · C x32010
+**Chitară:** D xx0232 · A x02220 · G 320003
 
-**Ukulele:** D 2220 · A 2100 · G 0232 · C 0003
+**Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
 [D]Dacă ai un dor ce te fra^mântă
@@ -4111,9 +4111,9 @@ Hei, hei.
 
 **Narcis** · Sursa: Caiet Christian Adventure, p. 110 · Caiet cabană RO, p. 32 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/noapte-la-mare-noapte-la-munte-320)
 
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010
+**Chitară:** C x32010 · Dm xx0231 · G 320003
 
-**Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003
+**Ukulele:** C 0003 · Dm 2210 · G 0232
 
 ```text
 /[C]Noi niciodată [Dm]nu am fost doi
@@ -4499,7 +4499,6 @@ Om [Am]bun des[E]chide-ne [Am]poar^ta
 Și-n [Dm]schimb îți [Am]vom alun[E]ga tris[Am]tețea
 Cu [Dm]vesele [E]cântece [Am]și ghidu^șii.
 [C]  [G]  [Am]  ^
-
 
 Ve[Am]nim de de[E]parte și [Am]mergem de^parte
 [C]Tocmai în [Dm]zare [E]sus la cas^tel
@@ -4944,9 +4943,9 @@ Refren x2
 
 **Radu Pietreanu** · Sursa: Caiet Christian Adventure, p. 150
 
-**Chitară:** F 133211 · G 320003 · C x32010 · Am x02210
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003
 
-**Ukulele:** F 2010 · G 0232 · C 0003 · Am 2000
+**Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
 Un [C]bucium cheamă ^stins în Mara[Am]mureș  ^
@@ -5188,7 +5187,7 @@ Sursa: Caiet cabană RO, p. 46 · [tabulaturi.ro](https://www.tabulaturi.ro/acor
 1.
       Em
 Dacă va veni cea din urmă zi
-Am Em B 7
+Am Em B7
 S-o trăim măcar pe ea frumos
  Em
 SĂ plecăm în munți unde-s numai punți
@@ -6711,7 +6710,7 @@ E||--0-------------------|--0-------------------|------------0---------|--------
 ```
 
 exemplificat aici pentru primele patru strofe ale melodiei. Ultimele două se
-repetă J
+repetă
 
 #### Trandafir de la Moldova
 
@@ -6960,9 +6959,9 @@ Refren
 
 **Valeriu Sterian** · muzica/versuri: Valeriu Sterian/Valeriu Sterian · Sursa: Cărticica Karban, p. 146  · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/valeriu-sterian/cantec-de-oameni-3956)
 
-**Chitară:** Am x02210 · C x32010 · G 320003
+**Chitară:** Em 022000 · G 320003 · D xx0232 · Am x02210 · C x32010
 
-**Ukulele:** Am 2000 · C 0003 · G 0232
+**Ukulele:** Em 0432 · G 0232 · D 2220 · Am 2000 · C 0003
 
 ```text
 [Em]  Mă [G]duc a[D]des cu [Em]gândul  ^
@@ -7856,9 +7855,9 @@ Imnul "Desteptati-va [Am]români".
 
 muzica/versuri: colinda Afară ninge liniștit“ -S  țefan Hrușcă · Sursa: Colinde Karban, p. 113
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
+**Chitară:** G 320003 · C x32010 · D xx0232
 
-**Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
+**Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
 G                C
@@ -8595,7 +8594,7 @@ Aici [A]zace da-da-da, aici [E]zace nu-nu-nu
 Aici [B7]zace un student be[E]țiv sau nu
 Notă: Aici o variantă gasita într-o carte cu cântece din repertoril
 internațional.
-Personal prefer variantă transpusa de mine J
+Personal prefer variantă transpusa de mine
 ```
 
 #### Ce facem cu studentul beat?
@@ -9614,7 +9613,7 @@ Un că[G]țel cu [C]pu*a cât o [Em]casă
 [Am]Spre [Em]mândria [B7]întregului [Em]popor
 Notă:Melodia am găsit-o transcrisă în variantă de mai sus pe o pagina în
 limba germană.
-Versurile erau în aceeași limba și bineînțeles... inocente J
+Versurile erau în aceeași limba și bineînțeles... inocente
 Cântata din Em variațiunile sunt mai simplu de prins decât în versiunea mea
 (simplificata din Am).
 ```
@@ -11384,16 +11383,16 @@ S-a[C]propii [B]cerul de pă[Em]mânt
 Bridge
 Refren
 Note:Piesa îmi sună mai bine cântata la poziții înalte. Va avertizez c-am
-transpus-o din memorie, pentru simplul fapt că nu am caseta cu mine...J...
+transpus-o din memorie, pentru simplul fapt că nu am caseta cu mine...
 Prin urmare n-am pretenția ca acordurile sunt chiar astea (nici măcar nu știu
 dacă pe caseta e din mi minor).
 În cazul în care sunteți la început și va sperie bareurile am dat câte două
-prinderi pentru fiecare acord (mare filosofie....J).
+prinderi pentru fiecare acord (mare filosofie....).
 În timpul strofelor puteți ciupi corzile sau încerca un ritm jazz-istic (doar
-e cântata de Aura Urziceanu...J)...
+e cântata de Aura Urziceanu...)...
 Dacă va da mâna să încercați și solo-ul lui Dan Badulescu, va doresc
 succes... va vor trebui, evident, două chitare. Cum eu cânt de unul singur și
-doar pe chitara acustica, nu m-a preocupat ideea..J
+doar pe chitara acustica, nu m-a preocupat ideea..
 ```
 
 #### Aproape liniște (II)
@@ -11402,7 +11401,7 @@ doar pe chitara acustica, nu m-a preocupat ideea..J
 
 **Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · F#dim7 xx4545 · C x32010 · B7 x21202 · Edim7 xx2323 · Ebdim7 xx1212
 
-**Ukulele:** Em 0432 · B 4322 · G 0232 · Am 2000 · Adim7 2323 · F#dim7 1212 · C 0003 · B7 2322 · Edim7 0101 · Ebdim7 2323
+**Ukulele:** Em 0432 · B 4322 · G 0232 · Am 2000 · Adim7 2323 · F#dim7 2323 · C 0003 · B7 2322 · Edim7 0101 · Ebdim7 2323
 
 ```text
 [Em]Norii-s de-[B]argint și zboară de[Em]parte
@@ -11541,7 +11540,7 @@ Ca [F]păsările mort voi cântă[G]rii mai greu decât [C]viu
 [Em]Dovadă n-am dar [G]îmi [A]aduc aminte
 [Bm]Odată am [G]știut să zbor [D],odată [A]
 [Em]Dovadă n-am dar [G]îmi [A]aduc aminte.
-Note:O transcriere de notă 10+ J
+Note:O transcriere de notă 10+
 ```
 
 #### Azi
@@ -12156,7 +12155,7 @@ Refren:
 [D]Plângea de după sârmele de-argint
 [G]Și plânsu-i [A]se [G]pierdea în [D]vânt.
 Refren
-Notă:O variantă mai simplă a melodiei. Recomandata pentru începători J
+Notă:O variantă mai simplă a melodiei. Recomandata pentru începători
 ```
 
 #### Când s-o-mpărțit norocu'
@@ -13642,7 +13641,7 @@ Se ridică în picioare boierul Șulea Trepe,
 Note:Cântecul e un fel de blues în care Andrieș se joacă liber cu lungimea
 strofelor (oare nu face el asta în majoritatea cântecelor sale?).
 Aici e dată forma în care interpretez eu acest cântec și poate nu este
-transpunerea fidela a originalului J
+transpunerea fidela a originalului
 Pe A se tine tot ritmul melodiei. Acordurile D și E se bat o singură dată cu
 sustain.
 Mie îmi sună destul de bine.
@@ -13813,7 +13812,7 @@ Când o tipi în [G]pat o pierzi
 Că-i și mândra [G]lângă mine
 [A]Că-i și mândra [D]lângă mine.
 Notă: Din nou foarte important ritmul melodiei precum și "timing"-ul!
-Referitor la timing după primul vers prinde bine o pauza J
+Referitor la timing după primul vers prinde bine o pauza
 ```
 
 #### Emoție de toamnă (I)
@@ -15632,7 +15631,7 @@ Nu-l [Dm]lasă [E]să mo[Am]ară
 [Dm]Lumina, [E]viata, ade[Am]văr
 Notă: Am găsit și eu cântecul printre mp3-urile mele și mi se pare ca o
 variantă cântata în mol sună mai bine.
-Vezi deci și variantă 1-a și alege-o pe cea care îți sună mai bine J.
+Vezi deci și variantă 1-a și alege-o pe cea care îți sună mai bine.
 ```
 
 #### M-am îndrăgostit numai de ea
@@ -19000,7 +18999,7 @@ Sunt acorduri pe care le am de la Ilie Stepan.
 O să sune mult mai bine.
 Cu respect ... Nelu
 am revizuit (puțin) melodia. Trebuie însa să mărturisesc ca nici variantă mea
-nu sună departe de advar deși aceasta nouă variantă sună mult mai bine ... J
+nu sună departe de advar deși aceasta nouă variantă sună mult mai bine ...
 Într-un mail ulterior am aflat ca:
 Nu il cunosc personal pe Ilie Stepan, acum vreo 7 ani l-am văzut in compania
 unor cunoscuți de-ai mei din Timișoara, și i-am rugat pe aceștia să-i ceară
@@ -19536,7 +19535,7 @@ Te [E]iau când în mormânt te-ai așezat.
 Notă: Fiecare vers se întinde pe durata a două măsuri.
 Cântat cu aceste acorduri cântecul sună puțin bine dar dacă încerci să-l
 cânți acompaniat de o a două chitara care interpretează următoarele riff-uri
-atunci sună aproape perfect J
+atunci sună aproape perfect
 
 ```tab
 E-riff               A-riff              B-riff
@@ -19867,7 +19866,7 @@ P   D
 |-0------------------------------------0-----------0-----------------|
 ```
 
-Și după câteva măsuri cantate pe orga și/sau flaut??! ....J=(habar n-am ce-i acolo),
+Și după câteva măsuri cantate pe orga și/sau flaut??! ... (habar n-am ce-i acolo),
 timp în care chitara schițează doar niște solo-uri, urmează:
 
 ```tab
@@ -19993,7 +19992,7 @@ cont mai mult de chitara 2(Dan Badulescu, cred). La început sunt sigur c-o să
 va vină greu să cântați la chitara concomitent cu vocea. Mie îmi sună destul
 de bine când cânt odată cu Cd-ul, sper ca și vouă...Puteți încerca și pe două
 chitare (una ținând ce se vede mai sus, cealaltă o progresie de genul Em-C-D-
-G ) Pentru sugestii și injuraturi ...J) mă găsiți pe adresă
+G ) Pentru sugestii și injuraturi ...) mă găsiți pe adresă
 famstrong@yahoo.com
 
 #### Un om pe niște scări (I)
@@ -21683,7 +21682,7 @@ Cu creierii fleci.[Riff 3 + Turnaround]
 ```
 
 Notă:Refrenul se poate "înfrumuseta" cu diferite versuri finale de la
-strofele următoare și poate fi cântat și pe mai multe voci J
+strofele următoare și poate fi cântat și pe mai multe voci
 
 #### Cucule pasăre grasă
 
@@ -21831,7 +21830,7 @@ Zboară-n zări [D]nebun
 Zboară peste [A]noi
 Nu se n-toarce µ[D]napoi
 (x2 - a două oară cu vocea crescendo)
-Refren: J
+Refren:
 [D]La la la la la [G]lala lala la [D]la
 Nah nah nah [A]nană na na na na na [D]na  (x2)
 [D]Dorul, ce [G]ți-e menit
@@ -22531,7 +22530,7 @@ Să pot sta în părul tău
 
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220 · E 4442 · A 2100 · E7 1202
 
-Intro (opțional și inexactJ)
+Intro (opțional și inexact)
 Gtr I
 
 ```tab
@@ -22673,7 +22672,7 @@ E|--------------------------|-------------------------|-3---------
 Some - one.     Ha - ppy Birth - day      to       you
 ```
 
-Notă: "Ionel" se înlocuiește cu numele sărbătoritului/sărbătoritei J
+Notă: "Ionel" se înlocuiește cu numele sărbătoritului/sărbătoritei
 
 #### Lângă mine
 
@@ -22965,7 +22964,7 @@ Sur[A]dule!
 Nată: Mai jos am indicat acordurile barate.
 La fel de bine pot fi folosite și cele în poziția întâi foarte important la
 acest cântec fiind de fapt ritmul pe care îl poți găsi singur ascultând
-melodia J
+melodia
 ```
 
 #### Nu am chef azi
@@ -24148,7 +24147,7 @@ lume. [A]
 [D]Repede și [E]ieftin m-au [A]vândut.
 ```
 
-Notă:Simplu și de efect J=Ciupitura este ceva de genul:
+Notă:Simplu și de efect. Ciupitura este ceva de genul:
 
 ```tab
 A                         D                         E                         A
@@ -25411,9 +25410,9 @@ Yes I would, if I only could, I surely would.
 
 Sursa: Caiet cabană EN, p. 15
 
-**Chitară:** F 133211 · Am x02210
+**Chitară:** F 133211 · Am x02210 · Am7 x02010 · Am6 x02212 · F7 131211
 
-**Ukulele:** F 2010 · Am 2000
+**Ukulele:** F 2010 · Am 2000 · Am7 0000 · Am6 2423 · F7 2313
 
 ```text
 Beatles
@@ -25429,7 +25428,7 @@ Where a wedding has been, lives in a dream
 Waits at the window, wearing the face
 That she keeps in a jar by the door, who is it for?
 
-A m 7 A m 6 F 7 Am
+Am7   Am6   F7  Am
 R:
 All the lonely people, where do they all come
 from?
@@ -27056,12 +27055,12 @@ Streets too dead for dream in.
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 22
 
-**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003 · D xx0232 · A7 x02020 · A x02220 · Dm xx0231
+**Chitară:** G7 320001 · C x32010 · Am x02210 · F 133211 · G 320003 · D xx0232 · A7 x02020 · D7 xx0212 · A x02220 · Dm xx0231
 
-**Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232 · D 2220 · A7 0100 · A 2100 · Dm 2210
+**Ukulele:** G7 0212 · C 0003 · Am 2000 · F 2010 · G 0232 · D 2220 · A7 0100 · D7 2223 · A 2100 · Dm 2210
 
 ```text
-G 7 C Am
+G7  C Am
 R:
 And here's to you Mrs. Robinson
     C           Am            F           G
@@ -27071,14 +27070,14 @@ God bless you please Mrs. Robinson
    C           Am               F        D      A7
 Heaven holds a place for those who pray, hey, hey, hey.
 
-A 7
+A7
 1.
 We'd like to know a little bit about you for our files
-D 7
+D7
 We'd like to help you learn to help yourself
      G        C              F    A    Dm
 Look around you all you see are sympathetic eyes
-A 7 D 7 G 7
+A7  D7  G7
 Stroll around the grounds until you feel at home.
 
 2.
@@ -27299,9 +27298,9 @@ VERSE 1
 
 Sursa: Caiet cabană EN, p. 9
 
-**Chitară:** C x32010 · G 320003 · F 133211
+**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · Em 022000
 
-**Ukulele:** C 0003 · G 0232 · F 2010
+**Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · Em 0432
 
 ```text
 Beatles
@@ -27310,18 +27309,18 @@ Beatles
 He's a real Nowhere Man
     F            C
 Sitting in his Nowhere Land
-D m F C
+Dm  F C
 Making all his Nowhere plans for nobody.
 
 Doesn't have a point of view
 Knows not where he's going to
 Isn't he a bit like you and me?
-E m F
+Em  F
 R:
 Nowhere Man please listen
-E m F
+Em  F
 You don't know what you're missing
-E m F D m G
+Em  F Dm  G
 Nowhere Man the world is at your command.
 
 2.
@@ -28679,7 +28678,7 @@ Am      F
 After people read the papers
   G                      Am
 Drive your problems from here,
-A m F
+Am  F
 All good people read good books
     G             Am
 Now your consicence is clear,
@@ -29315,9 +29314,9 @@ You drive me crazy.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional/G. Coșbuc · Sursa: Colinde Karban, p. 19
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
+**Chitară:** G 320003 · C x32010 · D xx0232
 
-**Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
+**Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
 G                C
@@ -29387,9 +29386,9 @@ Exemplificată aici pentru `C`. Versurile sunt ale poeziei “Colindătorii” d
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 20
 
-**Chitară:** Fm 133111 · Bbm x13321 · C x32010 · D xx0232 · A x02220
+**Chitară:** Fm 133111 · Bbm x13321 · C x32010
 
-**Ukulele:** Fm 1013 · Bbm 3111 · C 0003 · D 2220 · A 2100
+**Ukulele:** Fm 1013 · Bbm 3111 · C 0003
 
 ```text
 Fm        Bbm
@@ -29516,9 +29515,9 @@ Exemplificat aici pentru `E`.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 22
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · E 022100
+**Chitară:** D xx0232 · G 320003 · A x02220
 
-**Ukulele:** D 2220 · G 0232 · A 2100 · E 4442
+**Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
 Intro D
@@ -29577,9 +29576,9 @@ E|--------------------------------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 23
 
-**Chitară:** Am x02210 · E 022100 · F 133211 · Em 022000 · C x32010 · Dm xx0231 · G 320003 · D xx0232
+**Chitară:** Am x02210 · E 022100 · F 133211 · Em 022000 · C x32010 · Dm xx0231 · G 320003
 
-**Ukulele:** Am 2000 · E 4442 · F 2010 · Em 0432 · C 0003 · Dm 2210 · G 0232 · D 2220
+**Ukulele:** Am 2000 · E 4442 · F 2010 · Em 0432 · C 0003 · Dm 2210 · G 0232
 
 transcriere:Drăgușin Daniel; email:dragusindaniel@yahoo.com; http://www.vol.ro/chitara
 
@@ -29840,9 +29839,9 @@ Schimbarea se face tot pe a 4-a bătaie.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 25
 
-**Chitară:** F 133211 · Bb x13331 · C x32010 · B x24442 · D xx0232
+**Chitară:** F 133211 · Bb x13331 · C x32010 · B x24442
 
-**Ukulele:** F 2010 · Bb 3211 · C 0003 · B 4322 · D 2220
+**Ukulele:** F 2010 · Bb 3211 · C 0003 · B 4322
 
 ```text
 F         F       F
@@ -29896,9 +29895,9 @@ E|--------1-------------------------------------------------------------|
 
 Sursa: Colinde Karban, p. 8
 
-**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
+**Chitară:** C x32010 · F 133211 · G 320003
 
-**Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
+**Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
 Refren:
@@ -29959,9 +29958,9 @@ E|-------------------------------------------|
 
 **Paula Seling** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 18
 
-**Chitară:** F 133211 · G 320003 · C x32010 · D xx0232 · E 022100
+**Chitară:** F 133211 · G 320003 · C x32010
 
-**Ukulele:** F 2010 · G 0232 · C 0003 · D 2220 · E 4442
+**Ukulele:** F 2010 · G 0232 · C 0003
 
 ```text
 Sculati, sculati gazde mari
@@ -30079,9 +30078,9 @@ E|--------3-----------------------------------------------|
 
 muzica/versuri: tradițional “O ce veste minunată” · Sursa: Colinde Karban, p. 112
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · A x02220
+**Chitară:** G 320003 · D xx0232 · C x32010
 
-**Ukulele:** G 0232 · D 2220 · C 0003 · A 2100
+**Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
 G     G   G  D     D
@@ -30138,9 +30137,9 @@ Exemplificat aici pentru `G`.
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 14
 
-**Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · E 022100
+**Chitară:** C x32010 · G 320003 · F 133211
 
-**Ukulele:** C 0003 · G 0232 · F 2010 · D 2220 · E 4442
+**Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
 Intro C
@@ -30193,9 +30192,9 @@ E|-------------------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 50 · Cărticica Karban, p. 79
 
-**Chitară:** C x32010 · G 320003 · F 133211 · D xx0232 · E 022100
+**Chitară:** C x32010 · G 320003 · F 133211
 
-**Ukulele:** C 0003 · G 0232 · F 2010 · D 2220 · E 4442
+**Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
 C        G        C      F
@@ -30256,9 +30255,9 @@ E|-------------------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 27
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · Em 022000 · E 022100
+**Chitară:** D xx0232 · A x02220 · G 320003 · Em 022000
 
-**Ukulele:** D 2220 · A 2100 · G 0232 · Em 0432 · E 4442
+**Ukulele:** D 2220 · A 2100 · G 0232 · Em 0432
 
 ```text
 D                A
@@ -30321,9 +30320,9 @@ Exemplificat aici pentru A.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 28
 
-**Chitară:** G 320003 · D xx0232 · Am x02210 · A x02220
+**Chitară:** G 320003 · D xx0232 · Am x02210
 
-**Ukulele:** G 0232 · D 2220 · Am 2000 · A 2100
+**Ukulele:** G 0232 · D 2220 · Am 2000
 
 ```text
 Intro G
@@ -30384,9 +30383,9 @@ E|--------3----------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 29
 
-**Chitară:** G 320003 · E 022100
+**Chitară:** G 320003
 
-**Ukulele:** G 0232 · E 4442
+**Ukulele:** G 0232
 
 ```text
 G        G G   G
@@ -30419,6 +30418,7 @@ G       G  G    G
 Să să vadă pă fereastră,
 G          G       G          G
 Corinde le corind, corinde le corind.
+```
 
 ```tab
 E|-----------------------------------------------|
@@ -30598,9 +30598,9 @@ Semnele “ ” reprezintă lovirea corzilor de sus în jos. Bătăile de jos î
 
 **Mircea Baniciu** · Sursa: Colinde Karban, p. 100
 
-**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003 · D xx0232 · E 022100
+**Chitară:** C x32010 · Am x02210 · Dm xx0231 · G 320003 · D xx0232
 
-**Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232 · D 2220 · E 4442
+**Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232 · D 2220
 
 ```text
 Mircea Baniciu/???
@@ -30778,9 +30778,9 @@ Cine-ascultă să tră[D]ia, cine-ascultă să tră[G]ia.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 32
 
-**Chitară:** G 320003 · D xx0232 · A x02220
+**Chitară:** G 320003 · D xx0232
 
-**Ukulele:** G 0232 · D 2220 · A 2100
+**Ukulele:** G 0232 · D 2220
 
 ```text
 G                G                     D
@@ -30875,9 +30875,9 @@ Anul nou a și venit, florile, florile dalbe.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 33 · Cărticica Karban, p. 78
 
-**Chitară:** Em 022000 · Am x02210 · D xx0232 · A x02220
+**Chitară:** Em 022000 · Am x02210
 
-**Ukulele:** Em 0432 · Am 2000 · D 2220 · A 2100
+**Ukulele:** Em 0432 · Am 2000
 
 ```text
 Intro: Em, Am, Em
@@ -31248,9 +31248,9 @@ Să trăia cine-o ascultă.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 38
 
-**Chitară:** Em 022000 · Am x02210 · B x24442 · D xx0232 · A x02220
+**Chitară:** Em 022000 · Am x02210 · B x24442
 
-**Ukulele:** Em 0432 · Am 2000 · B 4322 · D 2220 · A 2100
+**Ukulele:** Em 0432 · Am 2000 · B 4322
 
 ```text
 Intro Em Em
@@ -31303,9 +31303,9 @@ E|--------0----------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 39
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220
+**Chitară:** G 320003 · C x32010 · D xx0232
 
-**Ukulele:** G 0232 · C 0003 · D 2220 · A 2100
+**Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
 G             C        G        C
@@ -31358,9 +31358,9 @@ E|--------3----------------------------------|
 
 muzica/versuri: Franz X. Gruber/Joseph Mohr/traduse · Sursa: Colinde Karban, p. 10
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000
 
-**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
+**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432
 
 ```text
 G         G    G        G
@@ -31569,9 +31569,9 @@ Măsura ete 3/4
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 40
 
-**Chitară:** E 022100 · B x24442 · A x02220
+**Chitară:** E 022100 · B x24442 · A x02220 · C#m x46654
 
-**Ukulele:** E 4442 · B 4322 · A 2100
+**Ukulele:** E 4442 · B 4322 · A 2100 · C#m 1104
 
 ```text
 E             B
@@ -31580,7 +31580,7 @@ E               B
 În Viflaim se arată
 E     A    E
 Cerul strălucea
-         C m
+         C#m
 Îngerii veneau
 B          E
 Pe-o rază curată
@@ -31590,7 +31590,7 @@ E                B
 În Viflaim să se-nscrie
 E       A   E
 Într-un mic sălaș
-          C m
+          C#m
 Lâng-acel oraș
 B          E
 S-a născut Messia
@@ -31600,7 +31600,7 @@ E                B
 Ora i-a sosit să nască
 E     A       E
 Pe al său fiu sfânt
-         C m
+         C#m
 Nouă pe pământ
 B         E
 Să ne mântuiască
@@ -31610,7 +31610,7 @@ E             B
 Turmă ca el nimeni n-are
 E      A  E
 Noi îl lăudăm
-           C m
+           C#m
 Și ne închinăm
 B           E
 Cu credință tare.
@@ -31819,9 +31819,9 @@ Exemplificat pentru primul vers.
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 13
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432 · E 022100
+**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
 
-**Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222 · E 4442
+**Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222
 
 ```text
 Urarea se recită pe cadența:D D Bm G D A A.
@@ -31988,9 +31988,9 @@ E         1     1     1         1     1     1                1     1     1      
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 95
 
-**Chitară:** Dm xx0231 · A x02220 · E 022100
+**Chitară:** Dm xx0231 · A x02220
 
-**Ukulele:** Dm 2210 · A 2100 · E 4442
+**Ukulele:** Dm 2210 · A 2100
 
 Ducu Bertzi/Gheorghe Țărnea
 - transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
@@ -32057,9 +32057,9 @@ E|--------------------------------------------------------|
 
 **Maria Gheorghiu** · Sursa: Colinde Karban, p. 17
 
-**Chitară:** Em 022000 · D xx0232 · Bm x24432 · A x02220
+**Chitară:** Em 022000 · D xx0232 · Bm x24432
 
-**Ukulele:** Em 0432 · D 2220 · Bm 4222 · A 2100
+**Ukulele:** Em 0432 · D 2220 · Bm 4222
 
 ```text
 Em    Em      D      Em
@@ -32115,9 +32115,9 @@ exemplificată pentru primul vers. În original e cu capo în poz. I
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 45
 
-**Chitară:** F 133211 · Bb x13331 · C x32010 · D xx0232 · A x02220
+**Chitară:** F 133211 · Bb x13331 · C x32010
 
-**Ukulele:** F 2010 · Bb 3211 · C 0003 · D 2220 · A 2100
+**Ukulele:** F 2010 · Bb 3211 · C 0003
 
 ```text
 Intro: F Bb F C F
@@ -32188,9 +32188,9 @@ E|--------1-----------------------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 46
 
-**Chitară:** Fm 133111 · Bbm x13321 · C x32010 · A x02220 · E 022100
+**Chitară:** Fm 133111 · Bbm x13321 · C x32010
 
-**Ukulele:** Fm 1013 · Bbm 3111 · C 0003 · A 2100 · E 4442
+**Ukulele:** Fm 1013 · Bbm 3111 · C 0003
 
 ```text
 Intro Fm Fm C C
@@ -32254,9 +32254,9 @@ E|-----------------------------------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 47
 
-**Chitară:** C x32010 · G 320003 · D xx0232
+**Chitară:** C x32010 · G 320003
 
-**Ukulele:** C 0003 · G 0232 · D 2220
+**Ukulele:** C 0003 · G 0232
 
 ```text
 C
@@ -32319,9 +32319,9 @@ Exemplificat aici pentru C.
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 96
 
-**Chitară:** Dm xx0231 · A x02220 · E 022100
+**Chitară:** Dm xx0231 · A x02220
 
-**Ukulele:** Dm 2210 · A 2100 · E 4442
+**Ukulele:** Dm 2210 · A 2100
 
 ```text
 Ducu Bertzi/Gheorghe Țărnea
@@ -32393,9 +32393,9 @@ E|--------------------------------------------|
 
 **Ducu Bertzi** · muzica/versuri: tradițional din Rona de Jos, Maramureș - cules de Vasile Marina · Sursa: Colinde Karban, p. 15
 
-**Chitară:** Dm xx0231 · D xx0232 · A x02220 · F 133211 · C x32010 · Gm 355333 · E 022100
+**Chitară:** Dm xx0231 · D xx0232 · A x02220 · F 133211 · C x32010 · Gm 355333
 
-**Ukulele:** Dm 2210 · D 2220 · A 2100 · F 2010 · C 0003 · Gm 0231 · E 4442
+**Ukulele:** Dm 2210 · D 2220 · A 2100 · F 2010 · C 0003 · Gm 0231
 
 ```text
 Intro F Gm Dm Gm Dm Gm A Dm
@@ -32447,9 +32447,9 @@ E|------------------------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 48
 
-**Chitară:** D xx0232 · G 320003 · Bm x24432 · A x02220 · E 022100
+**Chitară:** D xx0232 · G 320003 · Bm x24432 · A x02220 · F#m 244222
 
-**Ukulele:** D 2220 · G 0232 · Bm 4222 · A 2100 · E 4442
+**Ukulele:** D 2220 · G 0232 · Bm 4222 · A 2100 · F#m 2120
 
 ```text
 Intro D
@@ -32457,51 +32457,51 @@ Intro D
 Vine marea cât de mare
 Bm       Bm  G       A
 Dar de mare  țărmuri n-are
-F m      Bm  A     D
+F#m      Bm  A     D
 Asta-i sara  de Crăciun.
 D        D  G       D
 Dar de lină țărmuri mână
 Bm         Bm  G     A
 Dar de tot ci  ne-o adună
-F m      Bm  A     D
+F#m      Bm  A     D
 Asta-i sara  de Crăciun.
 D       D  G    D
 O adună un bour sur
 Bm      Bm  G    A
 Cu cornile  de taur
-F m      Bm  A     D
+F#m      Bm  A     D
 Asta-i sara  de Crăciun.
 D           D  G   D
 Da-n coarne ce legănează
 Bm          Bm G   A
 Da-n coarne ce legănează
-F m      Bm  A     D
+F#m      Bm  A     D
 Asta-i sara  de Crăciun.
 D        D  G   D
 Legăneaz-un legănuțu
 Bm      Bm G    A
 Legănuț de păltinuțu
-F m      Bm  A     D
+F#m      Bm  A     D
 Asta-i sara  de Crăciun.
 D        D    G    D
 Da în el cine-i culcatu
 Bm       Bm   G    A
 Da în el cine-i culcatu
-F m      Bm  A     D
+F#m      Bm  A     D
 Asta-i sara  de Crăciun.
 D       D G   D
 E Iisus înfășuratu
 Bm      Bm G   A
 E Iisus în fășuratu
-F m      Bm  A     D
+F#m      Bm  A     D
 Asta-i sara  de Crăciun.
 D        D  G    D
 Tot cu fașă de mătasă
 Bm      Bm G     A
 De nouă su rori aleasă
-F m      Bm  A     D
+F#m      Bm  A     D
 Asta-i sara  de Crăciun,
-F  m        Bm  A     D
+F#m         Bm  A     D
 Da asta-i sara  de Crăciun.
 ```
 
@@ -32720,9 +32720,9 @@ Note: Măsura este 4/4
 
 Sursa: Colinde Karban, p. 56
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
+**Chitară:** D xx0232 · A x02220 · G 320003
 
-**Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
+**Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
 Refren:
@@ -32813,9 +32813,9 @@ And to wash all our sins away
 
 muzica/versuri: J.A.P. Schulz/C. von Schmidt · Sursa: Colinde Karban, p. 84
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · E 022100
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210
 
-**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · E 4442
+**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
     C          C         G           C
@@ -32876,9 +32876,9 @@ E|-------------------------------------------------|
 
 Sursa: Colinde Karban, p. 85
 
-**Chitară:** C x32010 · G 320003 · D xx0232 · E 022100
+**Chitară:** C x32010 · G 320003 · D xx0232
 
-**Ukulele:** C 0003 · G 0232 · D 2220 · E 4442
+**Ukulele:** C 0003 · G 0232 · D 2220
 
 ```text
 C                                  G                 C
@@ -32927,9 +32927,9 @@ Exemplificat aici pentru `C`. Semnele “ ” reprezintă lovirea corzilor de su
 
 muzica/versuri: tradițional german - Ihr Kinderlein kommet · Sursa: Colinde Karban, p. 64
 
-**Chitară:** A x02220 · E 022100 · D xx0232
+**Chitară:** A x02220 · E 022100 · D xx0232 · F#m 244222
 
-**Ukulele:** A 2100 · E 4442 · D 2220
+**Ukulele:** A 2100 · E 4442 · D 2220 · F#m 2120
 
 ```text
   A           A           E            A
@@ -32938,7 +32938,7 @@ O come little Children, o come one and all
 To Bethlehem’s stable in Bethlehem’s  stall
     E          E            A        D
 And see with rejoicing this glorious sight
-    A         F m        E            A
+    A         F#m        E            A
 Our Father in heaven has sent us this night.
   A          A         E        A
 O see in the manger in hallowed light
@@ -32946,7 +32946,7 @@ O see in the manger in hallowed light
 A star throws its beam on this holiest sight
    E               E                A        D
 In clean swaddling clothes lays the heavenly child
-     A           F m         E       A
+     A           F#m         E       A
 More lovely than angels this baby so mild.
    A              A               E          A
 Oh there lays the Christ child on hay and on straw
@@ -32954,7 +32954,7 @@ Oh there lays the Christ child on hay and on straw
 The shepherds are kneeling before Him with awe
     E               E        A        D
 And Mary and Joseph smile on Him with love
-      A             F m        E          A
+      A             F#m        E          A
 While angels are singing sweet songs from above.
 ```
 
@@ -33047,9 +33047,9 @@ Pentru altă variantă de armonizare vezi și transcriere melodiei în germană.
 
 muzica/versuri: Joseph Mohr/Franz Gruber · Sursa: Colinde Karban, p. 88
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
+**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000
 
-**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
+**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432
 
 ```text
 G      G      G       G
@@ -33106,9 +33106,9 @@ E|--------3------------------3---------------|
 
 Sursa: Colinde Karban, p. 69
 
-**Chitară:** D xx0232 · A x02220 · G 320003 · E 022100
+**Chitară:** D xx0232 · A x02220 · G 320003
 
-**Ukulele:** D 2220 · A 2100 · G 0232 · E 4442
+**Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
 D
@@ -33155,9 +33155,9 @@ E|-------------------------------------------------|
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 109
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · E 022100
+**Chitară:** G 320003 · C x32010 · D xx0232
 
-**Ukulele:** G 0232 · C 0003 · D 2220 · E 4442
+**Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
 G               C      G   G
@@ -33359,9 +33359,9 @@ Era pâinea de pe masă și gutuia de la geam.
 
 **Tatiana Stepa** · muzica/versuri: Tatiana Stepa/??? · Sursa: Colinde Karban, p. 106
 
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · D xx0232
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
 
-**Ukulele:** Am 2000 · Dm 2210 · E 4442 · D 2220
+**Ukulele:** Am 2000 · Dm 2210 · E 4442
 
 ```text
 Am         Dm        Dm          E         E
@@ -33933,9 +33933,9 @@ cu o trecere în `Em` sau respectiv, în `G`.
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Serghei Esenin · Sursa: Colinde Karban, p. 93
 
-**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · E 022100
+**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003
 
-**Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · E 4442
+**Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232
 
 ```text
 Intro: C F C F
@@ -34030,9 +34030,9 @@ Strofele se arpegiază iar la refren merge un pop-strum.
 
 **Ducu Bertzi** · Sursa: Colinde Karban, p. 94
 
-**Chitară:** Am x02210 · F 133211 · Em 022000 · D xx0232 · E 022100
+**Chitară:** Am x02210 · F 133211 · Em 022000
 
-**Ukulele:** Am 2000 · F 2010 · Em 0432 · D 2220 · E 4442
+**Ukulele:** Am 2000 · F 2010 · Em 0432
 
 ```text
 Ducu Bertzi/Gheorghe Țărnea
@@ -34087,9 +34087,9 @@ E|------------------------------------------------------------------------------
 
 **Maria Magdalena Dănăilă** · Sursa: Colinde Karban, p. 99
 
-**Chitară:** Am x02210 · C x32010 · Em 022000 · Dm xx0231 · F 133211 · E 022100 · G 320003 · D xx0232
+**Chitară:** Am x02210 · C x32010 · Em 022000 · Dm xx0231 · F 133211 · E 022100 · G 320003
 
-**Ukulele:** Am 2000 · C 0003 · Em 0432 · Dm 2210 · F 2010 · E 4442 · G 0232 · D 2220
+**Ukulele:** Am 2000 · C 0003 · Em 0432 · Dm 2210 · F 2010 · E 4442 · G 0232
 
 ```text
 Intro: Am G C Dm E E
@@ -34270,9 +34270,9 @@ La refren măsura este 3/4.
 
 Sursa: Colinde Karban, p. 53
 
-**Chitară:** E 022100 · B x24442 · A x02220 · F 133211
+**Chitară:** E 022100 · B x24442 · A x02220 · F 133211 · Bbdim xx2323
 
-**Ukulele:** E 4442 · B 4322 · A 2100 · F 2010
+**Ukulele:** E 4442 · B 4322 · A 2100 · F 2010 · Bbdim 0101
 
 ```text
          E              B
@@ -34287,7 +34287,7 @@ won’t be the same dear, if you’re not here with me.
 And when those blue snow flakes start falling,
                   B                   E
 that’s when those blue memories start calling,
-          E       E                A            Bb dim
+          E       E                A            Bbdim
 you’ll be doing alright, with your Christmas of white,
     B                     E
 but I’ll have a blue blue Christmas.
@@ -34295,7 +34295,7 @@ but I’ll have a blue blue Christmas.
 Ohh, ohh, ohh Ahhh Ahh ahh a ahh ohhhh
           B                    E
 ohh, ohh, ohh Ahhhhh Ahh ahh a ahh ohhhh
-          E        E               A            Bb dim
+          E        E               A            Bbdim
 You’ll be doing allright with your Christmas of white
     B                     E
 but I’ll have a blue blue Christmas,
@@ -34397,9 +34397,9 @@ Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzilor de sus 
 
 **José Feliciano** · Sursa: Colinde Karban, p. 90
 
-**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432 · E 022100
+**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432
 
-**Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222 · E 4442
+**Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222
 
 ```text
 José Feliciano - 1970
@@ -34452,9 +34452,9 @@ Ca și variațiune în măsurile cu `Em` se poate folosi în a doua jumătate a 
 
 muzica/versuri: S.Nelson, J.Rollins 1950 · Sursa: Colinde Karban, p. 55
 
-**Chitară:** C x32010 · F 133211 · G 320003 · Em 022000 · Dm xx0231 · E 022100 · Am x02210 · D xx0232
+**Chitară:** C x32010 · F 133211 · G 320003 · Fdim xx3434 · Am x02210 · Em 022000 · Dm xx0231 · E 022100 · D xx0232
 
-**Ukulele:** C 0003 · F 2010 · G 0232 · Em 0432 · Dm 2210 · E 4442 · Am 2000 · D 2220
+**Ukulele:** C 0003 · F 2010 · G 0232 · Fdim 1212 · Am 2000 · Em 0432 · Dm 2210 · E 4442 · D 2220
 
 ```text
 C          C              F           C
@@ -34463,7 +34463,7 @@ Frosty the Snow Man was a jolly happy soul
 With a corn-cob pipe and a button nose and two eyes made out of coal.
 C          C             F               C
 Frosty the Snow Man is a fairy tale they say
-       F       F dim        C        Am          F       G        C
+       F       Fdim         C        Am          F       G        C
 He was made of snow but the children know how he came to life one day.
 Refren:
       F                   Em            Dm       G        C
@@ -34472,7 +34472,7 @@ There must have been some magic in that old silk hat they found,
 For when they put it on his head he began to dance around.
     C          C              F               C
 Oh, Frosty the Snow Man was alive as he could be,
-        F        F dim        C         Am            F       G       C
+        F        Fdim         C         Am            F       G       C
 And the children say he could laugh and play just the same as you and me.
 C          C                 F                C
 Frosty the Snow Man knew the sun was hot that day,
@@ -34480,7 +34480,7 @@ Frosty the Snow Man knew the sun was hot that day,
 So he said, “Let’s run and we’ll have fun now before I melt away.”
 C           C              F                 C
 Down to the village with a broomstick in his hand,
-        F        F  dim    C          Am              F        G      C
+        F        Fdim      C          Am              F        G      C
 Running here and there all around the square, saying “Catch me if you can.”
    F                 Em              Dm           G       C
 He led them down the streets of town right to the traffic cop,
@@ -34488,7 +34488,7 @@ He led them down the streets of town right to the traffic cop,
 And he only paused a moment when he heard him holler, “Stop!”
 C          C               F            C
 Frosty the Snow Man had to hurry on his way,
-       F          F dim         C         Am           F     G         C
+       F          Fdim          C         Am           F     G         C
 But he waved good-bye, saying, “Don’t you cry; I’ll be back again some day.”
 Refren
 C                                                          G
@@ -34676,9 +34676,9 @@ E|--------3------------3---------|
 
 **Wham!** · Sursa: Colinde Karban, p. 59
 
-**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · E 022100
+**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220
 
-**Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · E 4442
+**Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100
 
 ```text
 George Michael/George Michael
@@ -34870,9 +34870,9 @@ E|--------3---------3-----3------------3-----3-----3--|
 
 Sursa: Colinde Karban, p. 86
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Dm xx0231 · D xx0232 · E 022100
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Dm xx0231
 
-**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · Dm 2210 · D 2220 · E 4442
+**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · Dm 2210
 
 ```text
 Eduard Ebel (ca. 1900)
@@ -34916,7 +34916,6 @@ E|-------------------------------------------|
 ```
 
 Exemplificat aici pentru C.
-```
 
 #### Let It Snow!
 
@@ -34978,9 +34977,9 @@ E|--------1---------1-----1-----1-------1-----1--|
 
 **Slade** · Sursa: Colinde Karban, p. 61
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · F 133211 · Bm x24432 · Bb x13331 · E 022100
+**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000 · F 133211 · Bm x24432 · Bb x13331
 
-**Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · F 2010 · Bm 4222 · Bb 3211 · E 4442
+**Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432 · F 2010 · Bm 4222 · Bb 3211
 
 ```text
          G              C                D
@@ -35197,9 +35196,9 @@ Pentru cei care trecerea `Em`-`B7`-`Em` pare prea complicată pot să o înlocui
 
 Sursa: Colinde Karban, p. 87
 
-**Chitară:** C x32010 · G 320003 · F 133211 · E 022100
+**Chitară:** C x32010 · G 320003 · F 133211
 
-**Ukulele:** C 0003 · G 0232 · F 2010 · E 4442
+**Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
    C          G  C
@@ -35270,9 +35269,9 @@ E|--------3-----------------------------|
 
 muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 80
 
-**Chitară:** A x02220 · D xx0232 · E 022100 · G 320003 · B x24442
+**Chitară:** A x02220 · D xx0232 · E 022100 · G 320003 · F#m 244222 · B x24442
 
-**Ukulele:** A 2100 · D 2220 · E 4442 · G 0232 · B 4322
+**Ukulele:** A 2100 · D 2220 · E 4442 · G 0232 · F#m 2120 · B 4322
 
 ```text
 A
@@ -35299,7 +35298,7 @@ Des joujous dans ton bas de soie.
 Et bien tu devras dormir
      G       A      D
 Sans faire aucun soupir
-      F  m            E
+      F#m             E
 Me˛me si t’en a pas envie
      B              E    E
 Tu devras rester au lit
@@ -35395,9 +35394,9 @@ Exemplificat aici pentru `G`. Semnele “ ” reprezintă lovirea corzii de sus 
 
 muzica/versuri: Johnny Marks 1949 · Sursa: Colinde Karban, p. 66
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · D xx0232 · E 022100
+**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · D xx0232
 
-**Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · D 2220 · E 4442
+**Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · D 2220
 
 ```text
 C                     C
@@ -35448,15 +35447,14 @@ E|----------------------------------------------------|
 
 Exemplificat aici pentru `C`. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
 La strofe linia `C`-`C`-`C` poate fi înlocuită cu `C`-`C7`-`C` la fel și `G7`-`G7`-`G7` cu `G7`-`G`-`G7`.
-```
 
 #### Santa Claus Is Coming To Town
 
 muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 67
 
-**Chitară:** G 320003 · C x32010 · Cm x35543 · Em 022000 · Am x02210 · D xx0232 · A x02220
+**Chitară:** G 320003 · C x32010 · Cm x35543 · Em 022000 · Am x02210 · D xx0232 · A x02220 · Ddim xx0101
 
-**Ukulele:** G 0232 · C 0003 · Cm 0333 · Em 0432 · Am 2000 · D 2220 · A 2100
+**Ukulele:** G 0232 · C 0003 · Cm 0333 · Em 0432 · Am 2000 · D 2220 · A 2100 · Ddim 1212
 
 ```text
     G                     C          Cm   G
@@ -35472,7 +35470,7 @@ Refren:
 He sees you when you’re sleeping.
    G                   C
 He knows when you’re awake.
-   A                    D      D dim
+   A                    D      Ddim
 He knows if you’ve been bad or good,
       Em       A        D     D
 so be good for goodness sake! oh!
@@ -35515,15 +35513,14 @@ E|--------3-------------------------3---------------------|
 Exemplificată aici pentru `G`.
 
 Acordul `Cm` este opțional și se potrivește mai bine la varianta ciupită a cântecului.
-```
 
 #### Stop The Calvary
 
 muzica/versuri: Lewie Jona/Lewie Jona · Sursa: Colinde Karban, p. 68
 
-**Chitară:** D xx0232 · A x02220 · E 022100
+**Chitară:** D xx0232 · A x02220
 
-**Ukulele:** D 2220 · A 2100 · E 4442
+**Ukulele:** D 2220 · A 2100
 
 ```text
 D                  A
@@ -35569,7 +35566,6 @@ E|-------------------------------|
 ```
 
 Exemplificat aici pentru acordul `D`. Semnele “ ” reprezintă lovirea corzii de sus în jos.
-```
 
 #### The Night Before Christmas Song
 
@@ -35659,15 +35655,14 @@ E|--------3-----------------------------|
 ```
 
 Exemplificat aici pentru `G`.
-```
 
 #### Twinkle, Twinkle Little Star
 
 Sursa: Colinde Karban, p. 71
 
-**Chitară:** C x32010 · F 133211 · G 320003 · E 022100
+**Chitară:** C x32010 · F 133211 · G 320003
 
-**Ukulele:** C 0003 · F 2010 · G 0232 · E 4442
+**Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
 C        C       F      C
@@ -35700,9 +35695,9 @@ E|---------------------|
 
 Sursa: Colinde Karban, p. 72
 
-**Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232 · Bm x24432 · Em 022000 · A x02220 · E 022100
+**Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232 · Bm x24432 · Em 022000 · A x02220
 
-**Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220 · Bm 4222 · Em 0432 · A 2100 · E 4442
+**Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220 · Bm 4222 · Em 0432 · A 2100
 
 ```text
    G                    C
@@ -35758,15 +35753,14 @@ E|-----------------------------------------|
 ```
 
 Exemplificat aici pentru acordul `G`. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
-```
 
 #### White Christmas
 
 Sursa: Colinde Karban, p. 73
 
-**Chitară:** G 320003 · Am x02210 · D xx0232 · C x32010 · Cm x35543 · Em 022000 · A x02220
+**Chitară:** G 320003 · Am x02210 · D xx0232 · C x32010 · Cm x35543 · Em 022000
 
-**Ukulele:** G 0232 · Am 2000 · D 2220 · C 0003 · Cm 0333 · Em 0432 · A 2100
+**Ukulele:** G 0232 · Am 2000 · D 2220 · C 0003 · Cm 0333 · Em 0432
 
 Irving Berlin
 - transcrisă de Eugen Karban; E-Mail genuK@gmx.net -

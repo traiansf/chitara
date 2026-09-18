@@ -352,6 +352,10 @@ def parse(md_path):
                     part_break()
                     fence = ln[3:].strip() or "text"
                 else:
+                    if ln[3:].strip():  # "```tab" before the open fence's "```"
+                        print(f"atenție: {title}, rândul {j + 1}: {ln.strip()} "
+                              f"deschis înainte de a închide ```{fence}",
+                              file=sys.stderr)
                     fence = None
                     part_break()
                 continue
@@ -372,6 +376,8 @@ def parse(md_path):
             elif para:
                 part_break()
         part_break()
+        if fence is not None:
+            print(f"atenție: {title}: bloc ```{fence} neînchis", file=sys.stderr)
         while body and not body[-1]:
             body.pop()
         while body and not body[0]:

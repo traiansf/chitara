@@ -6,7 +6,11 @@
 - Chord lines are rebuilt token-wise, shifted by the same amount as the
   lyric line below them so chord-over-syllable alignment is preserved.
 
-The annex chord dictionary (after "## Index pe artiști") is left untouched.
+The annex chord dictionary (after "## Index pe artiști") is left untouched,
+and so are blocks in inline notation ([Am]Om bun): all of the above exists
+to keep a chord line over its syllables, and inline notation has no chord
+line — an indented line or a marker kept on its lyric line there
+("  spre creste me[E]reu", "1.x2") is deliberate formatting.
 """
 import re
 import sys
@@ -34,7 +38,12 @@ def rebuild_chord_line(line, shift):
     return buf
 
 
+INLINE_CHORD_RE = re.compile(r"\[[A-G][^\]]*\]")
+
+
 def transform_block(lines):
+    if any(INLINE_CHORD_RE.search(l) for l in lines):
+        return lines
     lines = [l.rstrip() for l in lines]
     n = len(lines)
     kind = []

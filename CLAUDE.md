@@ -30,12 +30,15 @@ Un cântec arată așa:
 ````
 
 După rândurile de digitații, corpul cântecului are trei feluri de părți,
-în orice ordine: blocuri ` ```text ` (versuri și acorduri — singurele din
-care se citesc acorduri), blocuri ` ```tab ` (tabulatură, cu rândurile
-aliniate pe aceleași coloane: acorduri, marcaje de ciupit ca `P O P D`,
-silabe sub note) și text liber în afara blocurilor (note: „Notă: măsura
-e 3/4…"), care e Markdown obișnuit și nu trece prin nicio procesare de
-acorduri. Un exemplu cu toate trei: *Vara*.
+în orice ordine: blocuri ` ```text ` (versuri și acorduri), blocuri
+` ```tab ` (tabulatură, cu rândurile aliniate pe aceleași coloane:
+acorduri, marcaje de ciupit ca `P O P D`, silabe sub note) și text liber
+în afara blocurilor (note: „Notă: măsura e 3/4…"), care e Markdown
+obișnuit și nu trece prin nicio procesare de acorduri. Doar ` ```text `
+se randează cu acorduri transpozabile; digitațiile (`add_*_chords.py`)
+iau acordurile și din rândurile de acorduri ale blocurilor ` ```tab `,
+fiindcă unele se cântă doar acolo (intro-uri, riff-uri). Un exemplu cu
+toate trei: *Vara*.
 
 **Identitatea stabilă a unui cântec e `titlu || Sursa, p. N`** — unică pe toate
 cele 738. Cântecele n-au număr de ordine (sunt alfabetice în fiecare
@@ -159,6 +162,9 @@ Ce face fiecare grup:
   atingă;
 - **fiecare ancoră** din cuprins și din indexul pe artiști nimerește un titlu
   real (ancorele sunt slug-uri în stil GitHub, cu sufix numeric la coliziune);
+- `make_pdf.py` nu trebuie să tipărească niciun rând `atenție:` (bloc
+  ` ``` ` neînchis sau deschis înaintea închiderii altuia — Markdown-ul
+  cântecelor următoare s-ar strica pe GitHub);
 - `make_pdf.py` trebuie să tipărească **`problem songs: none`** — e
   autoverificarea lui că fiecare cântec ocupă exact o pagină, ținând cont de
   paginile de separator dinaintea fiecărei secțiuni;

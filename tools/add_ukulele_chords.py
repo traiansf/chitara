@@ -58,9 +58,11 @@ FINGERINGS = {
     "A#": "3211", "Db": "1114", "Bbm": "3111", "Fm#": "2120",
     "Asus4": "2200", "Dsus2": "2200", "Fsus4": "3011", "Esus4": "4452",
     "Cmaj7": "0002", "Amaj7": "1100", "Dmaj7": "2224", "Gmaj7": "0222",
-    "Adim7": "2323", "Edim7": "0101", "Ebdim7": "2323", "F#dim7": "1212",
-    "Bdim7": "1212", "Ddim7": "0101",
+    "Adim7": "2323", "Edim7": "0101", "Ebdim7": "2323", "F#dim7": "2323",
+    "Bdim7": "1212", "Ddim7": "1212", "Fdim7": "1212",
+    "A#dim7": "0101", "Bbdim7": "0101",
     "Adim": "2323", "E+5": "1003",
+    "Am6": "2423",
 }
 
 # a chord we have no entry for often reduces to one we do
@@ -75,6 +77,8 @@ def lookup(tok):
         return FINGERINGS[m.group(1) + "sus4"]     # "D4" is "Dsus4"
     if base in FINGERINGS:
         return FINGERINGS[base]
+    if base.endswith("dim") and base + "7" in FINGERINGS:
+        return FINGERINGS[base + "7"]              # a "dim" is played as dim7
     return None
 
 # tokens allowed on a chord line that aren't themselves a chord: "FC"/"FCG"
