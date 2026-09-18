@@ -175,6 +175,11 @@ Ce face fiecare grup:
 
 ## De reținut
 
+- În PDF, rândurile de digitații de sub titlu (Chitară/Ukulele) sunt la
+  12pt; la un cântec cu multe acorduri scad până la 8pt ca să încapă pe
+  un rând, iar sub 8pt trec pe mai multe rânduri (`fingering_layout()`
+  din `make_pdf.py`) — aceeași mărime pentru ambele rânduri ale unui
+  cântec.
 - Editarea introducerii sau a oricărui cântec cere regenerarea PDF-ului;
   introducerea intră în prima pagină a lui.
 - **Înainte de orice push, regenerează PDF-ul (`make pdf`) și site-ul

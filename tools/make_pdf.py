@@ -592,6 +592,7 @@ def split_two_cols(body):
 
 
 FING_PT = 12.0      # the fingering lines under a song's title (Chitară/Ukulele)
+FING_MIN_PT = 8.0   # ... never smaller than this: wrap to another line instead
 FING_LINE_H = 1.25
 
 
@@ -607,23 +608,62 @@ def fingering_html(line):
     """A fingering line, each chord name bold and each chord kept whole on
     one line (a chord never wraps away from its own fingering)."""
     label, items = fingering_items(line)
-    chords = " · ".join(
+    # the separator is glued to the chord before it, so a row never starts
+    # with one
+    chords = "\u00a0· ".join(
         f'<span class="fg"><b>{html.escape(c, quote=False)}</b> '
         f'{html.escape(f, quote=False)}</span>' for c, f in items)
     return f'<b class="fl">{html.escape(label, quote=False)}:</b> {chords}'
 
 
+def fingering_rows(line, fs):
+    """How many rows a fingering line wraps into at fs pt across the page,
+    measured with the real glyph widths (bold label and chord names), each
+    chord kept whole as fingering_html() keeps it."""
+    bold, reg = _prop_fonts()
+    width = BODY_W / PT2MM * 0.97  # a little slack for Chrome's own metrics
+    label, items = fingering_items(line)
+    dot, space = reg.text_length(" ·", fs), reg.text_length(" ", fs)
+    rows, cur = 1, bold.text_length(label + ": ", fs)
+    for i, (c, f) in enumerate(items):
+        w = bold.text_length(c, fs) + reg.text_length(" " + f, fs)
+        if i == 0:
+            cur += w
+            continue
+        cur += dot  # glued to the previous chord (fingering_html)
+        if cur + space + w > width:
+            rows, cur = rows + 1, w
+        else:
+            cur += space + w
+    return rows
+
+
+def fingering_layout(s):
+    """(font size, [rows per fingering line]) for a song's fingering lines:
+    the fewest rows possible without going below FING_MIN_PT, at the
+    largest size (up to FING_PT) that keeps them to that many rows. Both
+    lines of a song share the size."""
+    if "_fing" not in s:
+        lines = [s[k] for k in ("gtr", "uke") if s[k]]
+        fs = FING_PT
+        if lines:
+            n = 1
+            while True:
+                fits = lambda f: all(fingering_rows(l, f) <= n for l in lines)
+                if fits(FING_MIN_PT):
+                    fs = max_fs(fits) if not fits(FING_PT) else FING_PT
+                    fs = max(fs, FING_MIN_PT)
+                    break
+                n += 1
+        s["_fing"] = (fs, [fingering_rows(l, fs) for l in lines])
+    return s["_fing"]
+
+
 def header_mm(s):
     """Height of a song page's header: title, meta line, fingering lines
-    (measured, since at FING_PT a long one wraps), rule."""
-    width_pt = BODY_W / PT2MM * 0.97  # bold chord names run a little wider
-    fing = 0.0
-    for k in ("gtr", "uke"):
-        if s[k]:
-            label, items = fingering_items(s[k])
-            text = f"{label}: " + " · ".join(f"{c}\u00a0{f}" for c, f in items)
-            n = wrap_count_prop(text, width_pt, FING_PT)
-            fing += n * FING_PT * FING_LINE_H * PT2MM + 0.8
+    (see fingering_layout), rule."""
+    fs, rows = fingering_layout(s)
+    fing = sum(n * fs * FING_LINE_H * PT2MM + 0.8 for n in rows)
     return 5.6 + (3.7 if s["meta"] else 0) + fing + 6.5
 
 
@@ -1228,7 +1268,8 @@ def song_page(s):
         parts.append(f'<div class="meta">{mini_md(s["meta"])}</div>')
     for key in ("gtr", "uke"):
         if s[key]:
-            parts.append(f'<div class="uke">{fingering_html(s[key])}</div>')
+            parts.append(f'<div class="uke" style="font-size:{fingering_layout(s)[0]:.2f}pt">'
+                         f'{fingering_html(s[key])}</div>')
     parts.append(f'<div class="rule"><span class="mk">§{s["num"]}§</span>'
                  f'</div>')
     style = f'font-size:{fs:.2f}pt'
