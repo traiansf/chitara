@@ -18,7 +18,7 @@ sequence, with no horizontal clipping; offenders get their font shrunk
 numbers. Songs that end below the 11pt floor are reported.
 
 Requires google-chrome-stable and pymupdf.
-Usage: python3 tools/make_pdf.py [--md PATH] [--out PATH]
+Usage: python3 tools/make_pdf.py [--md PATH] [--lista PATH] [--out PATH]
 """
 import argparse
 import collections
@@ -28,6 +28,8 @@ import subprocess
 import sys
 import unicodedata
 from pathlib import Path
+
+import transpose
 
 MD = "/home/traian/chitara/Caiet-chitara.md"
 OUT = "/home/traian/chitara/Caiet-chitara.pdf"
@@ -1318,6 +1320,31 @@ def song_page(s):
     return "\n".join(parts), fs, bool(lay["cols"]), lay["wrapped"]
 
 
+def toc_entries(ss, page_of):
+    """Table-of-contents lines for songs ss — title, artist, page number
+    (page_of, from the previous pass; dots until there is one)."""
+    es = []
+    for s in ss:
+        pg = page_of.get(s["num"]) or "···"
+        artist = ""
+        m = re.match(r"\*\*(.+?)\*\*", s["meta"])
+        if m and m.group(1) != "Anonim":
+            artist = f" — {m.group(1)}"
+        label = html.escape(f'{s["title"]}{artist}')
+        es.append(f'<div class="toc-e"><span class="t">'
+                  f'<a href="#{s["anchor"]}">{label}</a></span>'
+                  f'<span class="dots"></span>'
+                  f'<span class="pg">{pg}</span></div>')
+    return "\n".join(es)
+
+
+def html_doc(title, pages):
+    return ('<!doctype html><html lang="ro"><head><meta charset="utf-8">'
+            f"<title>{html.escape(title)}</title>"
+            f"<style>{CSS}</style></head><body>" + "\n".join(pages)
+            + "</body></html>")
+
+
 def build_html(intro, songs, index_lines, annex_lines, page_of):
     P = []
     P.append('<div class="page"><h1 class="front">Caiet de cântece pentru '
@@ -1333,26 +1360,11 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
              for n, top, low in SECTIONS]
     parts = [(top, low, ss) for top, low, ss in parts if ss]
 
-    def toc_entries(ss):
-        es = []
-        for s in ss:
-            pg = page_of.get(s["num"]) or "···"
-            artist = ""
-            m = re.match(r"\*\*(.+?)\*\*", s["meta"])
-            if m and m.group(1) != "Anonim":
-                artist = f" — {m.group(1)}"
-            label = html.escape(f'{s["title"]}{artist}')
-            es.append(f'<div class="toc-e"><span class="t">'
-                      f'<a href="#{s["anchor"]}">{label}</a></span>'
-                      f'<span class="dots"></span>'
-                      f'<span class="pg">{pg}</span></div>')
-        return "\n".join(es)
-
     toc = ['<div class="page"><h1 class="toc-h">Cuprins</h1>']
     for top, low, ss in parts:
         title = low if low.startswith("I.") else f"{top} — {low}"
         toc.append(f'<h2 class="toc-part">{html.escape(title)} ({len(ss)})</h2>'
-                   f'<div class="toc">{toc_entries(ss)}</div>')
+                   f'<div class="toc">{toc_entries(ss, page_of)}</div>')
     P.append("".join(toc) + "</div>")
 
     stats = []
@@ -1388,10 +1400,7 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
             P.append(f"<p>{mini_md(ln)}</p>")
     P.append("</div></div>")
 
-    return ('<!doctype html><html lang="ro"><head><meta charset="utf-8">'
-            "<title>Caiet de cântece pentru chitară</title>"
-            f"<style>{CSS}</style></head><body>" + "\n".join(P)
-            + "</body></html>"), stats
+    return html_doc("Caiet de cântece pentru chitară", P), stats
 
 
 # ------------------------------------------------------------- calibrate
@@ -1435,7 +1444,10 @@ def calibrate(workdir):
 
 # ---------------------------------------------------------------- verify
 
-def verify(pdf_path, songs):
+def verify(pdf_path, songs, first_of_part=None):
+    """(page_of, bad song nums, page count). first_of_part: the songs a
+    part divider page comes before — by default the first of each part
+    (SECTIONS) present in songs."""
     import fitz
     x_limit = (PAGE_W - MARG_X + 3) * 72 / 25.4
     doc = fitz.open(pdf_path)
@@ -1462,9 +1474,10 @@ def verify(pdf_path, songs):
             bad.add(s["num"])
     # a song takes exactly one page, except where a part divider comes
     # between two of them
-    first_of_part = {ss[0]["num"] for ss in
-                     ([s for s in songs if s["part"] == n] for n, _, _ in SECTIONS)
-                     if ss}
+    if first_of_part is None:
+        first_of_part = {ss[0]["num"] for ss in
+                         ([s for s in songs if s["part"] == n] for n, _, _ in SECTIONS)
+                         if ss}
     for k in range(1, len(songs)):
         a, b = page_of[songs[k - 1]["num"]], page_of[songs[k]["num"]]
         if a < 0 or b < 0:
@@ -1479,17 +1492,163 @@ def verify(pdf_path, songs):
     return page_of, sorted(bad), total
 
 
+# ---------------------------------------------------------------- lista
+# make_pdf.py --lista Lista-mea.md: a songbook of chosen songs only, in the
+# list's own order after a table of contents, each moved to the key its
+# line names by the chord it should start on:
+#
+#     # Lista mea
+#     - Mă întorc și pașii-s grei [Dm]
+
+LIST_ITEM_RE = re.compile(r"^- (.+?)\s*\[([^\]]+)\]\s*$")
+
+
+def read_list(path):
+    """(heading, [(song title, starting chord)]) from a list file: its
+    "# " heading and one "- Title [Chord]" line per song."""
+    heading, entries = "", []
+    for ln in Path(path).read_text(encoding="utf-8").split("\n"):
+        if ln.startswith("# ") and not heading:
+            heading = ln[2:].strip()
+        elif ln.startswith("- "):
+            m = LIST_ITEM_RE.match(ln)
+            if not m:
+                sys.exit(f"{path}: rând fără acord între paranteze drepte: {ln!r}")
+            entries.append((m.group(1), m.group(2)))
+    return heading or Path(path).stem, entries
+
+
+def first_chord(body):
+    """The first chord of a song body's ```text fences, on a chord line or
+    in an inline bracket (an optional one's chord too); None if none."""
+    for ln in body:
+        if isinstance(ln, (TabLine, ProseLine)):
+            continue
+        if is_chord_line(ln):
+            chords = [t for t in ln.split() if t not in SKIP_TOKENS]
+        else:
+            chords = [split_optional(c)[0] for c in REAL_CHORD_RE.findall(ln)]
+        if chords:
+            return chords[0]
+    return None
+
+
+def transpose_song(s, key):
+    """A copy of song s moved so that it starts on chord key, s itself if
+    it already does. Moves the chords of its ```text fences — a chord
+    line's keep their columns, unless the one before grew into them, and
+    inline ones their brackets — and of its fingering lines, and says so
+    on its meta line. Tablature and notes stay as they are: a tab's
+    frets can't be transposed (as on the site), and a note's `C7` is
+    usually about the tab."""
+    first = first_chord(s["body"])
+    if first is None:
+        print(f"atenție: {s['title']} n-are acorduri, rămâne cum e",
+              file=sys.stderr)
+        return s
+    n = transpose.interval(first, key)
+    flats = transpose.uses_flats(key)
+
+    def move(chord):
+        return transpose.transpose_chord(chord, n, flats)
+
+    # only the root moves: "C" asked to start on "Am" starts on "A"
+    if transpose.ROOT_RE.match(first).group(2) != transpose.ROOT_RE.match(key).group(2):
+        print(f"atenție: {s['title']} începe cu {first}, deci transpus "
+              f"începe cu {move(first)}, nu cu {key}", file=sys.stderr)
+    if n == 0:
+        return s
+
+    def inline(m):
+        chord, optional = split_optional(m.group(1))
+        return f"[({move(chord)})]" if optional else f"[{move(chord)}]"
+
+    body = []
+    for ln in s["body"]:
+        if isinstance(ln, (TabLine, ProseLine)):
+            body.append(ln)
+        elif is_chord_line(ln):
+            body.append(rebuild_chord([
+                (m.start(), m.group(0) if m.group(0) in SKIP_TOKENS
+                 else move(m.group(0))) for m in re.finditer(r"\S+", ln)]))
+        else:
+            body.append(REAL_CHORD_RE.sub(inline, ln))
+    t = dict(s, body=body, meta=f"{s['meta']} · transpus: {first} → {move(first)}")
+    for k in ("gtr", "uke"):
+        if s[k]:
+            t[k] = transpose.transpose_fingering_line(s[k], n, flats)
+    return t
+
+
+def pick_songs(entries, songs):
+    """The songs entries name, in their order, each transposed
+    (transpose_song) to start on its entry's chord. Titles are matched
+    whole, ignoring case; one the caiet doesn't have exactly once, a
+    title listed twice or a chord with no root is an error."""
+    by_title = collections.defaultdict(list)
+    for s in songs:
+        by_title[unicodedata.normalize("NFC", s["title"]).casefold()].append(s)
+    picked, errors, seen = [], [], set()
+    for title, key in entries:
+        k = unicodedata.normalize("NFC", title).casefold()
+        hits = by_title.get(k, [])
+        if len(hits) != 1:
+            errors.append(f"{title}: {len(hits)} cântece cu titlul ăsta în caiet")
+        elif k in seen:
+            errors.append(f"{title}: apare de două ori în listă")
+        elif transpose.root_pitch(key) is None:
+            errors.append(f"{title}: [{key}] nu e un acord")
+        else:
+            picked.append(transpose_song(hits[0], key))
+        seen.add(k)
+    if errors:
+        sys.exit("lista nu se potrivește cu caietul:\n  " + "\n  ".join(errors))
+    return picked
+
+
+def build_list_html(heading, songs, page_of):
+    """The --lista songbook: its heading over a table of contents, then
+    one page per song."""
+    P = [f'<div class="page"><h1 class="toc-h">{html.escape(heading)}</h1>'
+         f'<div class="toc">{toc_entries(songs, page_of)}</div></div>']
+    stats = []
+    for s in songs:
+        pg, fs, cols, wrapped = song_page(s)
+        P.append(pg)
+        stats.append((s["num"], fs, cols, wrapped))
+    return html_doc(heading, P), stats
+
+
 # ---------------------------------------------------------------- main
 
 def main():
     global ADV, CH_BOLD, CSS
     ap = argparse.ArgumentParser()
     ap.add_argument("--md", default=MD)
-    ap.add_argument("--out", default=OUT)
+    ap.add_argument("--lista", metavar="LISTA.md",
+                    help="doar cântecele din listă, transpuse (vezi read_list)")
+    ap.add_argument("--out", help=f"implicit {OUT}, iar cu --lista "
+                                  "lista, cu extensia .pdf")
     args = ap.parse_args()
+    out = args.out or (str(Path(args.lista).with_suffix(".pdf"))
+                       if args.lista else OUT)
 
     intro, songs, index_lines, annex_lines = parse(args.md)
     print(f"parsed {len(songs)} songs")
+    if args.lista:
+        heading, entries = read_list(args.lista)
+        caiet = {s["num"]: s for s in songs}
+        songs = pick_songs(entries, songs)
+        moved = sum(s is not caiet[s["num"]] for s in songs)
+        print(f"lista: {len(songs)} songs, {moved} transposed")
+
+        def build(page_of):
+            return build_list_html(heading, songs, page_of)
+        first_of_part, html_name = set(), "lista.html"
+    else:
+        def build(page_of):
+            return build_html(intro, songs, index_lines, annex_lines, page_of)
+        first_of_part, html_name = None, "caiet.html"
 
     workdir = Path(__file__).resolve().parent / "_pdf_work"
     workdir.mkdir(parents=True, exist_ok=True)
@@ -1503,17 +1662,16 @@ def main():
         CH_BOLD = False
         CSS = CSS.replace("font-weight: bold;", "")
 
-    html_path = workdir / "caiet.html"
+    html_path = workdir / html_name
     page_of = {}
     by_num = {s["num"]: s for s in songs}
     stats = []
     for attempt in range(1, 7):
-        doc_html, stats = build_html(intro, songs, index_lines,
-                                     annex_lines, page_of)
+        doc_html, stats = build(page_of)
         html_path.write_text(doc_html, encoding="utf-8")
-        run_chrome(html_path, args.out)
+        run_chrome(html_path, out)
         prev_pages = page_of
-        page_of, bad, total = verify(args.out, songs)
+        page_of, bad, total = verify(out, songs, first_of_part)
         print(f"pass {attempt}: {total} pages, problem songs: "
               f"{bad or 'none'}")
         if not bad:
@@ -1536,7 +1694,7 @@ def main():
     shrunk = [(s["num"], round(s["shrink"], 2)) for s in songs
               if s["shrink"] < 1]
     print(f"shrunk to fit: {shrunk or 'none'}")
-    print(f"wrote {args.out}")
+    print(f"wrote {out}")
 
 
 if __name__ == "__main__":
