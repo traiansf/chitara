@@ -58,7 +58,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Balada fulgerată de vânt](#balada-fulgerată-de-vânt)
 - [Bătrânul refugiu](#bătrânul-refugiu)
 - [Bucegii mei](#bucegii-mei)
-- [Bun rămas cabanei](#bun-rămas-cabanei)
 - [Bunica](#bunica)
 - [Cabana Mălăiești](#cabana-mălăiești)
 - [Cabana Schiorilor](#cabana-schiorilor)
@@ -131,6 +130,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman)
 - [Ploaia (Karma)](#ploaia-karma)
 - [Prieteni buni](#prieteni-buni)
+- [Rămas bun cabanei](#rămas-bun-cabanei)
 - [Râpa](#râpa)
 - [Să-ntoarcem timpul](#să-ntoarcem-timpul)
 - [Seara de mai](#seara-de-mai)
@@ -1178,57 +1178,6 @@ Nici [D]focul (nici ^focul)  ^  nu l-am ui[Em]tat.  ^
 [D]A ^aaa [Em]aaa  ^/ x2
 
 În[Em]cet s-au dus  ^ în^spre apus  ^
-```
-
-#### Bun rămas cabanei
-
-**Anonim** · Sursa: Caiet Christian Adventure, p. 29
-
-**Chitară:** G 320003 · Am x02210 · D xx0232
-
-**Ukulele:** G 0232 · Am 2000 · D 2220
-
-```text
-G                  Am
-Ceața s-a lăsat pe munte
-D                  G
-Brazii s-au posomorât
-G                     Am
-Timpul a trecut prea iute
-D                     G
-Tura noastră s-a sfârșit
-
-Refren:
-D         G                 Am
-Un bun rămas cabanei pe înserat
-          D                     G
-Îi vom șopti și-apoi noi am plecat
- D       G                         Am
-Rămân în urmă regrete și-un mic suspin
-         D              G
-Și-o amintire cu cer senin
-
-Amurgeste vânăt seara
-Norii par mai sinilii
-Stâncile-și schimbă culoarea
-Și devin mai cenușii
-
-Refren:
-Stâncă abruptă, de suflet mi te-ai lipit
-Chiar de departe m-ai face fericit
-Voi reveni curând și-asprimea ta
-O voi simți iar cald în palma mea
-
-Astăzi e ultima seară
-Când mai suntem la un loc
-Cerul este plin de stele
-Noi stăm tristi pe lângă foc
-
-Refren:
-Un bun rămas cabanei pe înserat
-Îi vom sopti și-apoi noi am plecat
-Rămân în urmă regrete și-un mic suspin
-Și-o amintire cu cer senin
 ```
 
 #### Bunica
@@ -4612,6 +4561,45 @@ Amintește-ți prietene de munte,
 Amintește-ți ce făceam noi doi,
 Dacă vrei să mai asculți un cântec
 Te-așteptăm, revino printre noi.
+```
+
+#### Rămas bun cabanei
+
+**Anonim** · Sursa: Caiet Christian Adventure, p. 29
+
+**Chitară:** G 320003 · Am x02210 · D xx0232
+
+**Ukulele:** G 0232 · Am 2000 · D 2220
+
+```text
+[G]Ceața s-a lăsat pe [Am]munte
+[D]Brazii s-au posomo[G]rât
+[G]Timpul a trecut prea [Am]iute
+[D]Tura noastră s-a sfâr[G]șit
+
+Refren 1:
+[D]  Un bun [G]rămas ^  cabanei pe [Am]înserat  ^
+Îi vom șo[D]pti și-apoi ^  noi am ple[G]cat
+[D]  Rămân în [G]urmă ^  regrete și-un [Am]mic suspin  ^
+Și-o amin[D]tire ^  cu cer se[G]nin  [D]
+
+[G]Amurgeste vânăt [Am]seara
+[D]Norii par mai sini[G]lii
+[G]Stâncile-și schimbă cu[Am]loarea
+[D]Și devin mai cenu[G]șii
+
+Refren 2:
+[D]  Stâncă a[G]bruptă, ^  de suflet mi [Am]te-ai lipit  ^
+Chiar de de[D]parte ^  m-ai face feri[G]cit
+[D]  Voi reve[G]ni curând ^  și-as[Am]primea ta  ^
+O voi sim[D]ți iar cald ^  în palma [G]mea  [D]
+
+[G]Astăzi e ultima [Am]seară
+[D]Când mai suntem la un [G]loc
+[G]Cerul este plin de [Am]stele
+[D]Noi stăm tristi pe lângă [G]foc
+
+Refren 1
 ```
 
 #### Râpa
@@ -35831,7 +35819,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Anda Călugăreanu** — [Tăcut](#tăcut), [Verde crud (I)](#verde-crud-i), [Verde crud (II)](#verde-crud-ii)
 - **Andrei Mureșan** — [Deșteaptă-te române (I)](#deșteaptă-te-române-i)
 - **Andrei Mureșanu** — [Deșteaptă-te române (II)](#deșteaptă-te-române-ii)
-- **Anonim** — [Amintiri din Făgăraș](#amintiri-din-făgăraș), [Bătrânul refugiu](#bătrânul-refugiu), [Bun rămas cabanei](#bun-rămas-cabanei), [Cabana Mălăiești](#cabana-mălăiești), [Colo-n vale](#colo-n-vale), [Copilul munților](#copilul-munților), [Delirul](#delirul), [Dor de ducă (Anonim)](#dor-de-ducă-anonim), [Dor de munții mei](#dor-de-munții-mei), [Fata din Caraiman](#fata-din-caraiman), [Imnul ghizilor](#imnul-ghizilor), [Imnul prieteniei](#imnul-prieteniei), [Legenda Craiului](#legenda-craiului), [Libertate-n vârf de munți](#libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#mi-e-dragă-pădurea), [Păpușa](#păpușa), [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman), [Prieteni buni](#prieteni-buni), [Seara de mai](#seara-de-mai), [Bărbățelul](#bărbățelul), [Carolina (I)](#carolina-i), [Ceata noastră (I)](#ceata-noastră-i), [Fetița franceză](#fetița-franceză), [Hai, mândruțo!](#hai-mândruțo), [Te-am cunoscut în troleibuz (I)](#te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#un-kil-de-rom), [Bat la poarta ta](#bat-la-poarta-ta)
+- **Anonim** — [Amintiri din Făgăraș](#amintiri-din-făgăraș), [Bătrânul refugiu](#bătrânul-refugiu), [Cabana Mălăiești](#cabana-mălăiești), [Colo-n vale](#colo-n-vale), [Copilul munților](#copilul-munților), [Delirul](#delirul), [Dor de ducă (Anonim)](#dor-de-ducă-anonim), [Dor de munții mei](#dor-de-munții-mei), [Fata din Caraiman](#fata-din-caraiman), [Imnul ghizilor](#imnul-ghizilor), [Imnul prieteniei](#imnul-prieteniei), [Legenda Craiului](#legenda-craiului), [Libertate-n vârf de munți](#libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#mi-e-dragă-pădurea), [Păpușa](#păpușa), [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman), [Prieteni buni](#prieteni-buni), [Rămas bun cabanei](#rămas-bun-cabanei), [Seara de mai](#seara-de-mai), [Bărbățelul](#bărbățelul), [Carolina (I)](#carolina-i), [Ceata noastră (I)](#ceata-noastră-i), [Fetița franceză](#fetița-franceză), [Hai, mândruțo!](#hai-mândruțo), [Te-am cunoscut în troleibuz (I)](#te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#un-kil-de-rom), [Bat la poarta ta](#bat-la-poarta-ta)
 - **Anotimpul 5** — [Dacă n-ai amintiri](#dacă-n-ai-amintiri)
 - **Aurelian Andreescu** — [Dorul](#dorul), [Oameni](#oameni)
 - **Autentic** — [Trec țiganii](#trec-țiganii)
