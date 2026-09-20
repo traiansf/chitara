@@ -273,7 +273,8 @@ def find_repeats(body_lines):
 def mark_repeats(body_lines):
     """body_lines with each /.../ xN repeat passage (find_repeats)
     redrawn as the ASCII repeat-barline convention, ||: ... :|| ×N,
-    instead of the source's bare '/'. Plain text substitution within
+    instead of the source's bare '/' — just ||: ... :|| for x2, since a
+    repeat sign alone already means twice. Plain text substitution within
     each line rather than a structural bracket around several, so it
     passes through word-wrap and column-splitting for free — no line-
     index bookkeeping needed downstream. Unicode has real repeat-sign
@@ -286,7 +287,7 @@ def mark_repeats(body_lines):
     for start, end, count in find_repeats(lines):
         m = REPEAT_CLOSE_RE.search(lines[end])
         before = lines[end][:m.start()].rstrip()
-        lines[end] = f"{before} :|| ×{count}"
+        lines[end] = f"{before} :||" + (f" ×{count}" if count != 2 else "")
         pos = _visible_slash(lines[start])
         after = lines[start][pos + 1:].lstrip()
         lines[start] = f"{lines[start][:pos]}||: {after}"

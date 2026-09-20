@@ -4630,32 +4630,32 @@ Te-așteptăm, revino printre noi.
 La [Em]marginea [D]pantei a[Em]brupte  [D] [Em]
 La un [C]han s-a o[D]prit un stră[Em]in  [D] [Em]
 /Era [C]trist și a[D]vea hainele [G]rupte ooo[Em]o...
-Și pe [C]masă o [D]cană cu [Em]vin [D] [Em]/ x2
+Și pe [C]masă o [D]cană cu [Em]vin [D] [Em]  / x2
 
 Om stră[Em]in ce-ncon[D]joară pă[Em]mântul [D] [Em]
 Stai la [C]mine ră[D]mâi doar un [Em]ceas [D] [Em]
 /Să te-n[C]torci îna[D]poi nu ai [G]unde ooo[Em]o....
-Îna[C]inte să [D]mergi ți-a ră[Em]mas. [D] [Em]/ x2
+Îna[C]inte să [D]mergi ți-a ră[Em]mas. [D] [Em]  / x2
 
 Mi-a răs[Em]puns ridi[D]cându-se a[Em]gale [D] [Em]
 Și-avea [C]ochii plini de [D]lacrimi și [Em]dor [D] [Em]
 /“Mulțu[C]mesc pentru [D]vin Măriei [G]tale ooo[Em]o...
-Eu mă [C]duc azi la [D]râpă să [Em]mor”. [D] [Em]/ x2
+Eu mă [C]duc azi la [D]râpă să [Em]mor”. [D] [Em]  / x2
 
 Mi-amin[Em]tesc de o [D]vară fier[Em]binte [D] [Em]
 De-o pă[C]dure cu [D]muguri pe [Em]ram [D] [Em]
 /Mi-amin[C]tesc de pri[D]eteni și de iu[G]bită ooo[Em]o....
-Și de-o [C]casă cu [D]mama la [Em]geam. [D] [Em]/ x2
+Și de-o [C]casă cu [D]mama la [Em]geam. [D] [Em]  / x2
 
 Și-am a[Em]juns la un [D]mal pe o [Em]stâncă [D] [Em]
 Să-mi î[C]nec tot a[D]marul nu [Em]pot [D] [Em]
 /Și mă-[C]ntreb dacă [D]apa e a[G]dâncă ooo[Em]o....
-Să m-a[C]runc azi cu [D]jale cu [Em]tot. [D] [Em]/ x2
+Să m-a[C]runc azi cu [D]jale cu [Em]tot. [D] [Em]  / x2
 
 Și-acum [Em]plâng și [D]nimeni n-a[Em]ude [D] [Em]
 [C]Trec printre [D]oameni, so[Em]cot [D] [Em]
 /Îna[C]inte să [D]merg nu am [G]unde ooo[Em]o...
-Îna[C]poi să mă-[D]ntorc n-are [Em]rost. [D] [Em] / x2
+Îna[C]poi să mă-[D]ntorc n-are [Em]rost. [D] [Em]  / x2
 ```
 
 #### Să-ntoarcem timpul
