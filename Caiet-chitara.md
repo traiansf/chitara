@@ -49,7 +49,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ### I.1 — De munte, de drum și de dor (alfabetic)
 
-- [A fi munțoman](#a-fi-munțoman)
 - [Ai venit](#ai-venit)
 - [Alții mama nu mai face](#alții-mama-nu-mai-face)
 - [Amintire cu haiduci](#amintire-cu-haiduci)
@@ -129,6 +128,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Omagiul unui alpinist](#omagiul-unui-alpinist)
 - [Pădure nebună](#pădure-nebună)
 - [Păpușa](#păpușa)
+- [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman)
 - [Ploaia (Karma)](#ploaia-karma)
 - [Prieteni buni](#prieteni-buni)
 - [Râpa](#râpa)
@@ -812,52 +812,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ### I.1 — De munte, de drum și de dor
 
-#### A fi munțoman
-
-**Anonim** · Sursa: Caiet Christian Adventure, p. 12 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/a-fi-muntoman-4973)
-
-**Chitară:** C x32010 · G 320003
-
-**Ukulele:** C 0003 · G 0232
-
-```text
-C                                              G
-Am fost mai mic și mi-a plăcut munții să-i pictez
-G                                 C
-Și în imagini colorate să îi desenez
-C                                 G
-Nopți cu luna, pe hârtie, eu am desenat
-G                                     C
-Și cu gândul împreună, munții i-am umblat
-
-Refren:
-Dar mama, și tata mă cred un nebun
-Când vine sâmbăta și plec iar la drum
-Bunicul, bunica, mereu mă dojenesc
-Dar ei nu știu că-n taină, eu muntele iubesc
-
-Acum că sunt aproae de munții ce-i iubesc
-Inima mă-ndeamna mereu să-i hoinăresc
-Doar cu băieți și fete, ce-mi sunt frați și surori
-Descoperim în taină a muntelui cărări
-
-Refren
-
-E vară, și cortul cu mine-l iau mereu
-Și dacă am și sacul, eu am hotelul meu
-Colegii, sosonarii, ce munții n-au umblat
-Nu știu ce-nseamna viața, de stâncă pasionat
-
-Refren
-
-Pentru acei ce habar n-au de drumuri și poteci,
-De piscuri `nalte și semețe, văi cu lacuri reci
-Îi îndemnăm să-ncerce măcar de fantezie
-Și vor vedea că munții nu sunt ca pe hârtie
-
-Refren x2
-```
-
 #### Ai venit
 
 **Karma** · muzica/versuri: Karma/??? · Sursa: Cărticica Karban, p. 93
@@ -1025,47 +979,47 @@ Refren
 
 ```text
 
-[C]  Azi to^tu-mi pare schim^bat,  ^ 
+[C]  Azi to^tu-mi pare schim^bat,  ^
 [C]  Tine^rețea-ncet s-a [Dm]scu^urs
 [Dm]  Îți amin^tești cum ne-am plim[F]bat  ^
 [G]  Sus pe ^creastă la a[C]pus.  ^
 
-[C]  Flori de ^munte-am adu^nat,  ^ 
+[C]  Flori de ^munte-am adu^nat,  ^
 [C]  Pe toa^te le-am îndră[Dm]gi^it
 [Dm]  Printre ^stânci noi ne-am ju[F]cat  ^
 [G]  Pe vre^mea când ne-am iu[C]bit  ^
 
 Refren:
-O o o [C]Mâine, 
-[C]  Voi urca iar în [Dm]creastă  
+O o o [C]Mâine,
+[C]  Voi urca iar în [Dm]creastă
 [Dm]  Amintirile mă [F]cheamă  ^
 [G]  Mâine ^vesel iar voi [C]fi  ^
 
-O o o [C]Mâine, 
+O o o [C]Mâine,
 [C]  voi porni înspre [Dm]tine
 [Dm]  Să-ți trezesc în amin[F]tire ^
 [G]  Tot ce ^crezi că vis a [C]fost ^
 
-[C]  Îți amin^tești, în Făgă^raș,  ^ 
-[C]  Capre ^negre am întâl[Dm]ni^it 
+[C]  Îți amin^tești, în Făgă^raș,  ^
+[C]  Capre ^negre am întâl[Dm]ni^it
 [Dm]  Nu e^ram într-un o[F]raș,  ^
 [G]  Dar e^ram la asfin[C]țit.  ^
 
-[C]  Cerul în^dată s-a înste^lat  ^ 
+[C]  Cerul în^dată s-a înste^lat  ^
 [C]  Când spre ^Bâlea am pri[Dm]vi^it
-[Dm]  Dar ce fo^los, tu ai ui[F]tat  ^ 
+[Dm]  Dar ce fo^los, tu ai ui[F]tat  ^
 [G]  Și fru^mosul l-ai stri[C]vit  ^
 
 Refren
 
-[C]  Pentru ^tine totu-i ^vis  ^ 
+[C]  Pentru ^tine totu-i ^vis  ^
 [C]  Și fru^mosul de-altă [Dm]da^at
-[Dm]  Mai fru^mos ca-n para[F]dis  ^ 
+[Dm]  Mai fru^mos ca-n para[F]dis  ^
 [G]  L-ai lă^sat fără of[C]tat.  ^
 
-[C]  Dar crucea ^mea de-ai întâl^ni,  ^ 
+[C]  Dar crucea ^mea de-ai întâl^ni,  ^
 [C]  pe-un vâl^cel sau vreun ver[Dm]sa^ant
-[Dm]  Eu te ^rog nu te o[F]pri,  ^ 
+[Dm]  Eu te ^rog nu te o[F]pri,  ^
 [G]  Uită ^tot ce ți-am cân[C]tat ^
 
 Refren
@@ -1125,7 +1079,7 @@ Refren x2
 
 1.x2
 [C]  Rău mă ^dor ochii mă ^doo^oo[F]or
-De dure[G]rea frunze[C]lor. ^ 
+De dure[G]rea frunze[C]lor. ^
 
 R:
 Și mă [Am]duc (si ma ^duc) și iar mă [G]duc (si iar ma ^duu[F]uc)
@@ -2326,7 +2280,7 @@ Iar eu ca-n[G]totdeauna ^îi credeam
 Mai exis[C]ta o fată ^ce-l plăcea
 Pe [Am]care o credeam prie^tena mea
 Dar mai târ[Dm]ziu am înțeles ci^ne era
-Și câtă [G]dragoste ^îi purta^a  
+Și câtă [G]dragoste ^îi purta^a
 
 Refren:
 Plân[C]geam când îi vedeam ^împreună
@@ -3015,7 +2969,7 @@ Sursa: Caiet cabană RO, p. 7 · Caiet Christian Adventure, p. 136 · [tabulatur
 
 Refren:
 [Dm]Ma^mă [C]un^de [F]ești?^ [C]Bate-^mă de [Dm]vrei ^
-Dar [C]vino ^să mă [Dm]iei! ^Na na ^na na ^na na na 
+Dar [C]vino ^să mă [Dm]iei! ^Na na ^na na ^na na na
 [Dm]Ma^mă [C]un^de [F]ești?^ [C]Poți să ^mă și [Dm]bați ^
 Dar [C]lasă-^mă-n Car[Dm]pați ! [C] [Dm] ^
 
@@ -3027,7 +2981,7 @@ Dar [C]lasă-^mă-n Car[Dm]pați ! [C] [Dm] ^
 Refren
 
 Scân[Dm]dură ^lun^gă, [C]scâân^dură [Dm]la^a^tă
-[Dm]O că[F]răm ^pâ[C]nă ne ^facem [Dm]mici [C] [Dm] 
+[Dm]O că[F]răm ^pâ[C]nă ne ^facem [Dm]mici [C] [Dm]
 /[Dm]Și e[F]chi^pa [C]noastră-i ^coco[Dm]șa[C]a[Dm]tă
 [Dm]De parcă-am [F]fi ^o [C]ceată ^de pi[Dm]tici. [C] [Dm]/ x2
 
@@ -4531,6 +4485,48 @@ Numai de iubire nu.
 Refren x2
 ```
 
+#### Pasiune (de a fi munțoman)
+
+**Anonim** · Sursa: Caiet Christian Adventure, p. 12 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/a-fi-muntoman-4973)
+
+**Chitară:** C x32010 · G 320003
+
+**Ukulele:** C 0003 · G 0232
+
+```text
+[C]Eram mic și ^îmi plăcea ^munții să-i pic[G]tez
+Și [F]în imagini colorate [G]  să-i dese[C]nez
+[C]Nopți cu lună ^pe hartie ^eu am dese[G]nat
+Si [F]cu rucsacul in spate [G]eu munții i-am um[C]blat.
+
+Refren:
+Dar [C]mama și ^tata mă ^cred un ne[G]bun
+Când [F]vine sâm^băta și [G]plec iar la [C]drum
+Bu[C]nicul, bu^nica, me^reu mă doje[G]nesc
+Dar [F]ei nu știu că-n ^taină eu [G]muntele-l iu[C]besc.  ^  ^  ^
+
+A[C]cum că sunt a^proape de ^munții ce-i iu[G]besc
+Și [F]inima mă-n^deamnă me[G]reu să-i cuce[C]resc
+Doar [C]cu băieți și ^fete ce-mi ^sunt frați și su[G]rori
+De[F]scopăr în ^taină ale [G]munților co[C]mori.
+
+Refren
+
+E [C]vară și ^cortul cu ^mine-l iau me[G]reu
+Și [F]dacă am si ^sacul eu [G]am hotelul [C]meu
+Co[C]legii, șoșo^narii, ce ^munții n-au um[G]blat
+Nu [F]știu ce-nseamnă ^viața de [G]munte pasio[C]nat.
+
+Refren
+
+[C]Pentru cei ce ^n-au habar ^de munți și po[G]teci
+De [F]piscuri-nalte ^și semețe, de [G]văi și lacuri [C]reci
+[C]Îi îndemn să-^ncerce mă^car de fante[G]zie
+Si [F]vor vedea că ^munții nu [G]sunt ca pe hâr[C]tie.
+
+Refren x2
+```
+
 #### Ploaia (Karma)
 
 Sursa: Caiet cabană RO, p. 128 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/ploaia-3015)
@@ -5025,7 +5021,7 @@ Doar o [F]clipă-n viața [G]mea/ x2
 Refren
 
 /[F]  Mai spune-mi o [G]dată/ x3
-  cât de mult mă iu[C]bești. ^ 
+  cât de mult mă iu[C]bești. ^
 
 ```
 
@@ -11700,9 +11696,9 @@ Refren:
   de-o [C]cabană [D]care-ar fi[G] ars
 [Em]Mi-a fost greu să și cred
   că e [C]vorba de [Em]acel adă[B7]post
-[Em]Nici nu știu dacă e 
+[Em]Nici nu știu dacă e
   [C]casa mică în [D]care-am [G]fost
-[Em]Iar de-ar fi să pot ști 
+[Em]Iar de-ar fi să pot ști
   [C]n-ar avea, [B7]n-ar avea [Em] niciun rost
 
 Miroseam a zăpezi într-o casă de lemn
@@ -13916,7 +13912,7 @@ Coperta-n [C]aur pe-un [G7]sicriu de [C]scrum.  [G7]
 
 Refren(x2):
 [C]Cearcăn, cearcăn, [Em]piaptănă
-Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a, 
+Ochii [Am]ei, mă-n[F]cearcănă, aaa[C]a,
 na na na [G7]na na na, na na na[C]na na na, na na na[G7]na na na
 
 Da capo al fine + 2xRefren
@@ -29782,7 +29778,7 @@ D|-------2--------------2----2----2----2-------------------2----2----2----0--|
 A|-------3--------------3----3----3----3-------------------3----3----3----2--|
 E|-------3--------------3----3----3----3-------------------3----3----3----3--|
          |             _|     | __|    |                  _|    | __|     |
-```         
+```
 
 Schimbarea se face tot pe a 4-a bătaie.
 
@@ -30263,7 +30259,7 @@ D|-----------------------------------------------2--------|
 A|--------0-----------------------------------------------|
 E|--------------------------------------------------------|
           | _ _ |      | _ _ |      | _ _ |      | _ _ |
-```          
+```
 
 Exemplificat aici pentru A.
 
@@ -33158,7 +33154,7 @@ A|--------------------------------------------------------3---------------------
 E|--------3---------------------------------------------------------------------------------------------------------------------------------------|
           |          |          |            |              |          |          |          |                |          |          |          |
           G                                              C                                              D
-```          
+```
 
 Exemplificată aici pentru `G`, `C` și `D`. (De altfel cred că aceasta este și ciupitura folosită de Ada)
 
@@ -34156,7 +34152,7 @@ D|-----------------------------------------------2--------|
 A|--------0-----------------------------------------------|
 E|--------------------------------------------------------|
           | _ _ |      | _ _ |      | _ _ |      | _ _ |
-```          
+```
 
 Exemplificat aici pentru `Am`.
 
@@ -35835,7 +35831,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Anda Călugăreanu** — [Tăcut](#tăcut), [Verde crud (I)](#verde-crud-i), [Verde crud (II)](#verde-crud-ii)
 - **Andrei Mureșan** — [Deșteaptă-te române (I)](#deșteaptă-te-române-i)
 - **Andrei Mureșanu** — [Deșteaptă-te române (II)](#deșteaptă-te-române-ii)
-- **Anonim** — [A fi munțoman](#a-fi-munțoman), [Amintiri din Făgăraș](#amintiri-din-făgăraș), [Bătrânul refugiu](#bătrânul-refugiu), [Bun rămas cabanei](#bun-rămas-cabanei), [Cabana Mălăiești](#cabana-mălăiești), [Colo-n vale](#colo-n-vale), [Copilul munților](#copilul-munților), [Delirul](#delirul), [Dor de ducă (Anonim)](#dor-de-ducă-anonim), [Dor de munții mei](#dor-de-munții-mei), [Fata din Caraiman](#fata-din-caraiman), [Imnul ghizilor](#imnul-ghizilor), [Imnul prieteniei](#imnul-prieteniei), [Legenda Craiului](#legenda-craiului), [Libertate-n vârf de munți](#libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#mi-e-dragă-pădurea), [Păpușa](#păpușa), [Prieteni buni](#prieteni-buni), [Seara de mai](#seara-de-mai), [Bărbățelul](#bărbățelul), [Carolina (I)](#carolina-i), [Ceata noastră (I)](#ceata-noastră-i), [Fetița franceză](#fetița-franceză), [Hai, mândruțo!](#hai-mândruțo), [Te-am cunoscut în troleibuz (I)](#te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#un-kil-de-rom), [Bat la poarta ta](#bat-la-poarta-ta)
+- **Anonim** — [Amintiri din Făgăraș](#amintiri-din-făgăraș), [Bătrânul refugiu](#bătrânul-refugiu), [Bun rămas cabanei](#bun-rămas-cabanei), [Cabana Mălăiești](#cabana-mălăiești), [Colo-n vale](#colo-n-vale), [Copilul munților](#copilul-munților), [Delirul](#delirul), [Dor de ducă (Anonim)](#dor-de-ducă-anonim), [Dor de munții mei](#dor-de-munții-mei), [Fata din Caraiman](#fata-din-caraiman), [Imnul ghizilor](#imnul-ghizilor), [Imnul prieteniei](#imnul-prieteniei), [Legenda Craiului](#legenda-craiului), [Libertate-n vârf de munți](#libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#mi-e-dragă-pădurea), [Păpușa](#păpușa), [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman), [Prieteni buni](#prieteni-buni), [Seara de mai](#seara-de-mai), [Bărbățelul](#bărbățelul), [Carolina (I)](#carolina-i), [Ceata noastră (I)](#ceata-noastră-i), [Fetița franceză](#fetița-franceză), [Hai, mândruțo!](#hai-mândruțo), [Te-am cunoscut în troleibuz (I)](#te-am-cunoscut-în-troleibuz-i), [Un kil de rom](#un-kil-de-rom), [Bat la poarta ta](#bat-la-poarta-ta)
 - **Anotimpul 5** — [Dacă n-ai amintiri](#dacă-n-ai-amintiri)
 - **Aurelian Andreescu** — [Dorul](#dorul), [Oameni](#oameni)
 - **Autentic** — [Trec țiganii](#trec-țiganii)
