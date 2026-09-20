@@ -25,6 +25,20 @@ MD = "/home/traian/chitara/Caiet-chitara.md"
 OUT_DIR = Path("/home/traian/chitara/docs")
 ASSETS_SRC = Path(__file__).parent / "html_assets"
 
+# Same guitar silhouette as html_assets/favicon.svg, inlined (not <img>) so
+# the home-link icon on every song page needs no extra request.
+HOME_ICON_SVG = (
+    '<svg viewBox="0 0 64 64" width="26" height="26" aria-hidden="true">'
+    '<g fill="#7a3b1e">'
+    '<rect x="27" y="2" width="10" height="9" rx="2"/>'
+    '<circle cx="24" cy="4.5" r="2"/><circle cx="24" cy="8.5" r="2"/>'
+    '<circle cx="40" cy="4.5" r="2"/><circle cx="40" cy="8.5" r="2"/>'
+    '<rect x="30" y="10" width="4" height="21"/>'
+    '<circle cx="32" cy="34" r="10"/><circle cx="32" cy="49" r="14"/>'
+    '</g><circle cx="32" cy="47" r="4.5" fill="#fdfdfb"/>'
+    '</svg>'
+)
+
 
 def emit_chords_data(path):
     data = {
@@ -341,8 +355,10 @@ def song_page(s, filenames, prev_s, next_s, songs):
 <html lang="ro"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{html.escape(s["title"])} — Caiet de cântece</title>
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
 <link rel="stylesheet" href="../assets/site.css">
 </head><body>
+<a class="home-link" href="../index.html" title="Pagina de pornire" aria-label="Pagina de pornire">{HOME_ICON_SVG}</a>
 <button type="button" class="sidebar-toggle">☰ Cuprins</button>
 {render_sidebar(songs, filenames, s["num"], prefix="")}
 <main>
@@ -500,6 +516,7 @@ def index_page(songs, filenames):
 <html lang="ro"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Caiet de cântece pentru chitară</title>
+<link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
 <link rel="stylesheet" href="assets/site.css">
 </head><body>
 <button type="button" class="sidebar-toggle">☰ Cuprins</button>
@@ -534,7 +551,7 @@ def main():
 
     (OUT_DIR / "index.html").write_text(index_page(songs, filenames), encoding="utf-8")
 
-    for name in ("chords.js", "nav.js", "site.css"):
+    for name in ("chords.js", "nav.js", "site.css", "favicon.svg"):
         shutil.copy(ASSETS_SRC / name, OUT_DIR / "assets" / name)
     emit_chords_data(OUT_DIR / "assets" / "chords-data.js")
 
