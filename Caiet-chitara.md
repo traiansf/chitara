@@ -1742,14 +1742,14 @@ Copil hoi[C7]nar
 [C]  Ca în clipa [Am]care-o să vină
 [F]  Fericirea [G]  să o aflu și [F]e[C]eu
 
-[C]  De ce ar fi [Am]toamna
-[F]  De ce tris[G]tețe
-[C]  De ce ui[Am]tarea
-[F]  Ochii s-o în[G]vețe
+[C]  De ce ar fi [Am]toamna? (De [F]ce?)
+De ce tris[G]tețe? (De [C]ce?)
+De ce ui[Am]tarea?  (De [F]ce?)
+Ochii s-o în[G]vețe
 
 [F]  Sorb cu sete [G]  din petale
 [C]  Lacrimile flori[Am]lor
-[F]  și de viață [G]  De iubire de [C]zare
+[F]  Și de viață [G]  de iubire de [C]zare
 Mi-e atât de [C7]dor
 [F]  Dor îmi e să [G]beau lumină
 [C]  Ca în clipa'n [Am]care o să vină
