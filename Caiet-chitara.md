@@ -18,7 +18,7 @@ Cele cinci culegeri, scanate, stau în [`surse/`](surse) — titlurile de mai su
 
 **Măsura și bătaia:** dacă nu sunt menționate explicit la un cântec, se presupune măsura 4/4 și bătaia standard de folk: jos-jos-sus-sus-jos-sus (JJSSJS) — timpul 1 jos (lovitura accentuată, pe care se schimbă de obicei acordul), timpul 2 împărțit jos-sus, timpul 3 împărțit sus-jos, timpul 4 sus (o mișcare rapidă ce leagă natural măsura de următoarea). E aceeași bătaie cunoscută internațional ca „D DU UDU” (jos-jos-sus-sus-jos-sus), una dintre cele mai răspândite bătăi din muzica pop și acustică — vezi [explicația în engleză](https://bmusician.com/blog/guitar-strumming-patterns-for-beginners/) (pagina n-are ancore; caută „Pattern 4 – Down-Down-Up-Up-Down-Up”, în secțiunea *Basic Guitar Strumming Patterns Every Beginner Should Learn First* — aceeași bătaie apare mai jos și sub numele *the Island Strum*).
 
-**Acorduri actualizate:** la unele cântece acordurile din culegerile originale au fost înlocuite, de obicei după variante văzute pe YouTube — de pildă cele cântate de Cati Vișinescu. Sursa și pagina notate la fiecare cântec arată de unde vin versurile, nu neapărat acordurile.
+**Acorduri actualizate:** la unele cântece acordurile din culegerile originale au fost înlocuite, de obicei după variante văzute pe YouTube — de pildă cele cântate de [Cati Vișinescu](https://www.youtube.com/@cati.visinescu), [Carmen Ciocolată](https://www.youtube.com/@CarmenSilvania), [Ana Teodora](https://www.youtube.com/@AnaTeodora), [Sânziana și Dragoș Toma-Dănilă](https://www.youtube.com/@casacuprieteni). Sursa și pagina notate la fiecare cântec arată de unde vin versurile, nu neapărat acordurile.
 
 Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link direct; **alte** cântece ale acelorași artiști (necuprinse aici) sunt listate în [addendumul cu linkuri](Caiet-chitara-addendum.md) — 1755 de piese de la 47 de artiști. Acestea apar și în [indexul pe artiști](#index-pe-artiști), marcate cu 🌐 (1356 de piese, după eliminarea variantelor duplicate — linkul duce la varianta cu cele mai multe aprecieri).
 
@@ -1455,67 +1455,56 @@ Refren x2
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
-G
-Ce frumos e sus la munte
-                   C
-Când ajungi la o cabană
+[G]  Ce frumos e sus la ^munte
+[G]  Când ajungi la o ca[D]bană
+[D]  Doar acolo-i armo^nie
+Și acolo-i vese[D]lie
+Căci așa e sus la [G]munte
 
-Doar acolo-i armonie
-D
-Și acolo-i veselie
-
-Căci așa e sus la munte
-
-Ce frumos e sus la munte
-Nu mai mergem cu tramvaiul
-Noi urcăm in Piatra Mare
-Pe la cele Șapte Scare
-Căci așa e sus la munte
+[G]  Ce frumos e sus la ^munte
+[G]  Nu mai mergem cu tram[D]vaiul
+[D]  Noi urcăm in Piatra ^Mare
+Pe la cele Șapte [D]Scare
+Căci așa e sus la [G]munte
 
 Refren:
 
-G             C
-Căci numai la cabană
-C  D            G
-Chitară poți s-asculti
-               D
-Și-o fata minunată
-             G
-Poti să săruți
+[G]  Căci numai la ca[C]bană
+[C]  O chitară poți s-as[G]culți
+[G]  Și-o fata minu[D]nată
+Poți s-o să[G]ruți
 
-Ce frumos e sus la munte
-Când ajungi la Baba Mare
-Pui salteaua și-ntinzi cortul
+[G]  Ce frumos e sus la ^munte
+[G]  Când ajungi la Baba [D]Mare
+[D]  Pui salteaua și-ntinzi ^cortul
+Și-ti aprinzi în ploaie [D]focul
+Căci așa e sus la [G]munte
 
-Și-ti aprinzi în ploaie focul
-Căci așa e sus la munte
-
-Ce frumos e sus la munte
-În poiană la Gropșoare
-Fierbi cafeaua-n polonic
-Și faci ciorbă în ibric
-Căci așa e sus la munte
+[G]  Ce frumos e sus la ^munte
+[G]  În poiană la Grop[D]șoare
+[D]  Fierbi cafeaua-n polo^nic
+Și faci ciorbă în i[D]bric
+Căci așa e sus la [G]munte
 
 Refren
 
-Ai lăsat în jos orașul,
-Ai lăsat civilizația
-Ești murdar și ești soios,
-Dar ești tânăr și frumos
-Căci așa e sus la munte
+[G]  Ai lăsat în jos o^rașul,
+[G]  Ai lăsat civili[D]zația
+[D]  Ești murdar și ești so^ios,
+Dar ești tânăr și [D]frumos
+Căci așa e sus la [G]munte
 
-Nu fi trist la-napoiere
-Ai să fii alt om 5 zile
-Însă sâmbătă la 4
-Ești în gară cu rucsacul
-Și-o pornești din nou la munte
+[G]  Nu fi trist la-napo^iere
+[G] Ai să fii alt om cinci [D]zile
+[D]  Însă sâmbătă la ^patru
+Ești în gară cu ruc[D]sacul
+Și-o pornești din nou la [G]munte
 
 Refren:
-
-Grăbește, pleacă trenul
-Se vede-un nor de fum
-Muntele te-așteaptă
-/Drum bun, timp bun/ x2
+/[G]  Grăbește, pleacă [C]trenul
+[C]  Se vede-un nor de [G]fum
+[G]  Muntele te-aș[D]teaptă
+Drum bun, timp [G]bun/ x2
 ```
 
 #### Cerbul
