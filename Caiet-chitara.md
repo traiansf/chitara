@@ -1516,84 +1516,80 @@ Drum bun, timp [G]bun/ x2
 **Ukulele:** Bm 4222 · Em 0432 · A 2100
 
 ```text
-Bm
-Trăia demult într-o pădure
-                      Em
-Un moș bătrân cu baba lui
-                         Bm
-/Trăiau săraci ca vai de dânșii
-A                Bm
-În adâncimea codrului/ x2
+Tră[Bm]ia demult într-o pă^dure
+Un [Bm]moș bătrân cu baba [Em]lui
+/Tră[Em]iau săraci ca vai de [Bm]dânșii
+În [A]adâncimea codru[Bm]lui/ x2
 
-Și moșul nu-și dorea nimica
-El doară moartea-și aștepta
-/Dar baba lui vroia să aibă
-Un suflet tânăr lângă ea/ x2
+Și [Bm]moșul nu-și dorea ni^mica
+El [Bm]doară moartea-și aște[Em]pta
+/Dar [Em]baba lui vroia să [Bm]aibă
+Un [A]suflet tânăr lângă [Bm]ea/ x2
 
-Iar soarta se-ndură de dânșii
-Și-un pui de cerb le-a dăruit
-/Un pui de cerb cu stea în frunte
-Gonit din codrii și rănit/ x2
+Iar [Bm]soarta se-ndură de ^dânșii
+Și-un [Bm]pui de cerb le-a dăru[Em]it
+/Un [Em]pui de cerb cu stea în [Bm]frunte
+Go[A]nit din codrii și ră[Bm]nit/ x2
 
-Săgeata-i străpunsese gâtul
-Din rană sângele-i curgea
-/Și lacrimi mari cugreau din ochii
-Frumoși, rotuzi ca o mărgea/ x2
+Să[Bm]geata-i străpunsese ^gâtul
+Din [Bm]rană sângele-i cur[Em]gea
+/Și [Em]lacrimi mari cugreau din [Bm]ochii
+Fru[A]moși, rotuzi ca o măr[Bm]gea/ x2
 
-Iar moșu-l săruta pe frunte
-Miloasa, babă l-a spălat
-/L-au îngrijit cu multă milă
-Și rănile i-au vindecat/ x2
+Iar [Bm]moșu-l săruta pe ^frunte
+Mi[Bm]loasă, baba l-a spă[Em]lat
+/L-au [Em]îngrijit cu multă [Bm]milă
+Și [A]rănile i-au vinde[Bm]cat/ x2
 
-Era frumos și blând, săracul
-Zburda mereu din loc în loc
-/Venise ca o vrajă nouă
-De tinerețe și noroc/ x2
+E[Bm]ra frumos și blând, să^racul
+Zbur[Bm]da mereu din loc în [Em]loc
+/Ve[Em]nise ca o vrajă [Bm]nouă
+De [A]tinerețe și no[Bm]roc/ x2
 
-Întinereau văzând cu ochii
-Moșneagul și cu baba lui
-/Și se făcuse luminoasă
-Întunecimea codrului/ x2
+În[Bm]tinereau văzând cu ^ochii
+Moș[Bm]neagul și cu baba [Em]lui
+/Și [Em]se făcuse lumi[Bm]noasă
+În[A]tunecimea codru[Bm]lui/ x2
 
-Dar într-o zi trecu pe-acolo
-Feciorul unui împărat
-/Cu ceata de curteni, cu arcuri
-Și cu ogarii la vânat/ x2
+Dar [Bm]într-o zi trecu pe-a^colo
+Fe[Bm]ciorul unui împă[Em]rat
+/Cu [Em]ceata de curteni, cu [Bm]arcuri
+Și [A]cu ogarii la vâ[Bm]nat/ x2
 
-Dă-mi mie cerbul, măi moșnege
-Îti dau pe el tot ce-ți dorești
-/Îti dau averi, îți dau și cinste
-Și-oștirile împărătești/ x2
+Dă-mi [Bm]mie cerbul, măi moș^nege
+Îti [Bm]dau pe el tot ce-ți do[Em]rești
+/Îti [Em]dau averi, îți dau și [Bm]cinste
+Și-oș[A]tirile împără[Bm]tești/ x2
 
-Nu vreau averi, nu vreau nici cinste
-Sunt prea bătrân să le primesc
-/Dar dacă cerbul vrea să vină
-Eu ție azi ți-l dăruiesc/ x2
+Nu [Bm]vreau averi, nu vreau nici ^cinste
+Sunt [Bm]prea bătrân să le pri[Em]mesc
+/Dar [Em]dacă cerbul vrea să [Bm]vină
+Eu [A]ție azi ți-l dăru[Bm]iesc/ x2
 
-Și ce să vezi, minune mare
-Întreaga oaste ce văzu
-/Cum cerbul nostru dă din coarne
-De parc-ar spune: Nu vreau, nu/ x2
+Și [Bm]ce să vezi, minune ^mare
+În[Bm]treaga oaste ce vă[Em]zu
+/Cum [Em]cerbul nostru dă din [Bm]coarne
+De [A]parc-ar spune: Nu vreau, [Bm]nu/ x2
 
-Nu vreau să merg la curtea voastră
-Nu vreau să merg la împărat
-/Voi m-ați rănit la vânătoare
-Ei rănile mi-au vindecat/ x2
+Nu [Bm]vreau să merg la curtea ^voastră
+Nu [Bm]vreau să merg la împă[Em]rat
+/Voi [Em]m-ați rănit la vână[Bm]toare
+Ei [A]rănile mi-au vinde[Bm]cat/ x2
 
-La curtea ta aș fi o fiară
-O jucărie pentru proști
-/În viața lor sunt o lumină
-Pe care tu n-ai s-o cunoști/ x2
+La [Bm]curtea ta aș fi o ^fiară
+O [Bm]jucărie pentru [Em]proști
+/În [Em]viața lor sunt o lu[Bm]mină
+Pe [A]care tu n-ai s-o cu[Bm]noști/ x2
 
-Plecă, pe gânduri, voievodul
-Și se gândi că nu-i de-ajuns
-/Să fii bogat, temut și veșnic
-De măreția ta pătruns/ x2
+Ple[Bm]că, pe gânduri, voie^vodul
+Și [Bm]se gândi că nu-i de-a[Em]juns
+/Să [Em]fii bogat, temut și [Bm]veșnic
+De [A]măreția ta pă[Bm]truns/ x2
 
-Mai trebuie să ai un suflet
-Milos și bun și iubitor
-/Ca să poți fi iubit de oameni
-Și de podoaba codrilor/ x2
+Mai [Bm]trebuie să ai un ^suflet
+Mi[Bm]los și bun și iubi[Em]tor
+/Ca [Em]să poți fi iubit de [Bm]oameni
+Și [A]de podoaba codri[Bm]lor/ x2
 ```
 
 #### Cine nu iubește muntele
@@ -1723,63 +1719,46 @@ Refren + Refren 2
 
 **Sorina Moldvai** · Sursa: Caiet Christian Adventure, p. 48 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/sorina-moldvai/copil-hoinar-4700)
 
-**Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · D7 xx0212
+**Chitară:** C x32010 · Am x02210 · F 133211 · G 320003 · C7 x32310
 
-**Ukulele:** D 2220 · Bm 4222 · A 2100 · G 0232 · D7 2223
+**Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232 · C7 0001
 
 ```text
-D
-Dacă închid ochii
-Bm         A
-Și ascult vântul
-D
-Sărut lumina
-Bm         A
-Și gust pământul
+[C]  Dacă închid [Am]ochii
+[F]  Și ascult [G]vântul
+[C]  Sărut lu[Am]mina
+[F]  Și gust pă[G]mântul
 
-G             A
-Sorb cu sete din petale
-D             Bm
-Lacrimile florilor
-G            A              D
-Și mă-ntreb cine o fi inventat
-D         D7
-Cuvântul dor
-G            A
-Ca un foc aprins de soare
-D                Bm
-Vreau să îmi dea vântul răcoare
-G             A                 D
-Să mă stingă, să mă aprindă în jo
-D7        G
-Copil hoinar
+[F]  Sorb cu sete [G]  din petale
+[C]  Lacrimile flori[Am]lor
+[F]  Și mă-ntreb [G]  cine o fi inven[C]tat
+Cuvântul [C7]dor
+[F]  Ca un foc a[G]prins de soare
+[C]  Vreau să îmi dea [Am]vântul răcoare
+[F]  Să mă stingă, [G]  să mă aprindă în [C]joacă
+Copil hoi[C7]nar
 
-G             A
-Dor îmi e să beau lumina
-D           Bm
-Ca în clipa care-o să vină
-G          A        G   D
-Fericirea să o aflu și eu
+[F]  Dor îmi e să [G]beau lumină
+[C]  Ca în clipa [Am]care-o să vină
+[F]  Fericirea [G]  să o aflu și [F]e[C]eu
 
-De ce ar fi toamna
-De ce tristețe
-De ce uitarea
-Ochii s-o învețe
+[C]  De ce ar fi [Am]toamna
+[F]  De ce tris[G]tețe
+[C]  De ce ui[Am]tarea
+[F]  Ochii s-o în[G]vețe
 
-Sorb cu sete din petale
-Lacrimile florilor
-Și de viață de iubire de zare
-Mi-e atât de dor
-Dor îmi e să beau lumina
-Ca în clipa'n care o să vină
-Fericirea să o aflu și eu
-Copil hoinar
-acă
-Ca un foc aprins de soare
-Vreau să-mi dea vântul
-răcoare,
-Să mă apinda să mă stingă
-din nou.
+[F]  Sorb cu sete [G]  din petale
+[C]  Lacrimile flori[Am]lor
+[F]  și de viață [G]  De iubire de [C]zare
+Mi-e atât de [C7]dor
+[F]  Dor îmi e să [G]beau lumină
+[C]  Ca în clipa'n [Am]care o să vină
+[F]  Fericirea [G]  să o aflu și [C]eu
+Copil hoi[C7]nar
+
+[F]  Ca un foc a[G]prins de soare
+[C]  Vreau să-mi dea [Am]vântul răcoare,
+[F] Să mă aprindă [G]  să mă stingă din [F]no[C]ou.
 ```
 
 #### Copilul munților
