@@ -1450,9 +1450,9 @@ Refren x2
 
 **Dragoș și Sânziana Toma** · Sursa: Caiet Christian Adventure, p. 43 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ce-frumos-e-sus-la-munte-9329)
 
-**Chitară:** G 320003 · C x32010 · D xx0232
+**Chitară:** G 320003 · D xx0232 · C x32010
 
-**Ukulele:** G 0232 · C 0003 · D 2220
+**Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
 [G]  Ce frumos e sus la ^munte
@@ -1765,9 +1765,9 @@ Copil hoi[C7]nar
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 50 · [YouTube (Marcel Berbecar)](https://www.youtube.com/watch?v=UMxBY5mRduY)
 
-**Chitară:** D xx0232 · A x02220 · G 320003
+**Chitară:** C x32010 · F 133211 · G 320003 · G7 320001
 
-**Ukulele:** D 2220 · A 2100 · G 0232
+**Ukulele:** C 0003 · F 2010 · G 0232 · G7 0212
 
 ```text
 Eu [C]sunt co^pilul [F]munți^lor
@@ -4412,9 +4412,9 @@ Refren x2
 
 **Anonim** · Sursa: Caiet Christian Adventure, p. 12 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/a-fi-muntoman-4973)
 
-**Chitară:** C x32010 · G 320003
+**Chitară:** C x32010 · G 320003 · F 133211
 
-**Ukulele:** C 0003 · G 0232
+**Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
 [C]Eram mic și ^îmi plăcea ^munții să-i pic[G]tez

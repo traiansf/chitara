@@ -217,6 +217,15 @@ Ce face fiecare grup:
   transpuse și au aceeași cheie ca în caiet — dar salvat la fișierul lui
   propriu, ca o rulare cu `--lista` să nu restrângă cache-ul principal
   la doar cântecele din listă.
+- **Înainte de orice commit la `Caiet-chitara.md` care schimbă acordurile
+  unui cântec (nu doar versurile), rulează `add_guitar_chords.py` și
+  `add_ukulele_chords.py`** — rândurile **Chitară:**/**Ukulele:** nu se
+  actualizează singure la o editare manuală, iar `--check` verifică doar
+  că digitațiile deja scrise sună acordul din numele lor, nu că acoperă
+  acordurile chiar folosite în cântec; un rând rămas din acordurile vechi
+  trece de `--check` nedetectat. Ambele unelte sunt idempotente și rulează
+  pe tot caietul, deci e sigur să le rulezi mereu, chiar și când nu ești
+  sigur ce cântece s-au schimbat.
 - **Înainte de orice push, regenerează PDF-ul (`make pdf`) și site-ul
   (`make html`) și include-le în commit.** `docs/` se publică pe GitHub Pages
   direct din `main`, deci un push fără regenerare lasă site-ul și PDF-ul în
