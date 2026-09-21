@@ -230,6 +230,12 @@ Ce face fiecare grup:
   (`make html`) și include-le în commit.** `docs/` se publică pe GitHub Pages
   direct din `main`, deci un push fără regenerare lasă site-ul și PDF-ul în
   urma caietului.
+- **Înainte de orice commit la `Caietul-meu.md` sau la `Caiet-chitara.md`,
+  verifică dacă `Caietul-meu.pdf` mai e la zi și regenerează-l la nevoie**
+  (`python3 tools/make_pdf.py --lista Caietul-meu.md --out Caietul-meu.pdf`) —
+  fiindcă e generat dintr-o listă (vezi `--lista` mai sus), o schimbare fie
+  în lista însăși, fie în cântecele pe care le transpune din
+  `Caiet-chitara.md`, poate lăsa PDF-ul în urma sursei lui.
 - Acordurile apar în două notații: pe rândul de deasupra versului, aliniate pe
   silabă, sau în text între paranteze drepte (`[Am]Om bun`) la cântecele lui
   Karban. Uneltele trebuie să le trateze pe amândouă.
