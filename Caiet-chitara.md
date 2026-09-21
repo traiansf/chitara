@@ -1763,65 +1763,71 @@ Copil hoi[C7]nar
 
 #### Copilul munților
 
-**Anonim** · Sursa: Caiet Christian Adventure, p. 50
+**Anonim** · Sursa: Caiet Christian Adventure, p. 50 · [YouTube (Marcel Berbecar)](https://www.youtube.com/watch?v=UMxBY5mRduY)
 
 **Chitară:** D xx0232 · A x02220 · G 320003
 
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
-D
-Eu sunt copilul munților
-                   A
-Și prin fisuri mă plimb
-Iodlărul îl indrăgesc
-                D
-Și munților le cânt
+Eu [C]sunt co^pilul [F]munți^lor
+Și [G]prin fi^suri m-a[C]vânt, iu ^hei
+De [C]moarte [F]eu nu [G]am ha^bar
+Și [G]de a[F]ceea [C]cânt. Cum ^măi? A^șa
 
 Refren:
 
-D                          G         A
-Io-la-ri-ti iolariti, iolariti iolariti
-A               D   A     D
-Iolari iolalalriti iolari iolalalriti
-D            G          A
-Iolariti iolariti iolariti iolariti
-A                         D
-Iolalalriti iolariti iolariti
+[C]Iodlări ^iodlări, [G]iodlărilări ^io
+[G]Iodlări ^iodlări, [F]iod[C]lărilări ^io
+[C]Iodlări ^iodlări, [G]iodlărilări ^io
+[G]Iodlări ^iodlări, [F]iodlă[(G7)]ri [C]io
 
-Spre vâfrul munților
-C-o fată-n coardă urc
-Privesc la ea cu înțeles
-Și corzile le-ncurc
+Spre [C]munții-^nalți a[F]des m-a^vânt
+C-o [G]fată-n ^coardă [C]urc, iu ^hei
+Mă [C]uit la [F]ea cu [G]înțe^les
+Și [G]corzi[F]le le-[C]ncurc. Cum ^măi? A^șa
 
 Refren
 
-De-o fi să cad în jos
-Și de-oi muri pe loc
-
-Voi să mă duceți iarăși sus
-Și să-mi cântați cu foc
-
-Refren
-
-Iar tu, fetițo, draga mea
-Nu plânge la mormânt
-Deasupra pune-o stâncă grea
-Altfel, mă scol și cânt
+De [C]voi că^dea vreo[F]dată ^jos
+Și [G]voi mu^ri pe [C]loc, iu ^hei
+Voi [C]să mă [F]duceți [G]iarăși ^sus
+Și [G]să-mi cân[F]tați cu [C]foc. Cum ^măi? A^șa
 
 Refren
 
-Iar voi, prieteni, dragii mei,
-Prin munți când vă avântați
-De mine să vă amintiți
-Si-un iodlăr să-mi cântați...
+Iar [C]tu, fe^tițo, [F]draga ^mea
+Nu-mi [G]plânge ^la mor[C]mânt, iu ^hei
+Dea[C]supra [F]pune-o [G]stâncă ^grea
+Alt[G]fel, mă [F]scol și [C]cânt. Cum ^măi? A^șa
 
 Refren
 
-Vor trece ani si vom fi
-Eu tânăr, voi cărunți
-Dar tot la fel ca-n prima zi
-Vom hoinări prin munți
+Iar [C]voi, pri^eteni, [F]dragii ^mei,
+Prin [G]munți când ^v-avân[C]tați, iu ^hei
+De [C]mine [F]să vă [G]amin^tiți
+Si-un [G]iodlăr [F]să-mi cân[C]tați. Cum ^măi? A^șa
+
+Refren
+
+Mai [C]pui bă^trâne [F]înc-un ^an,
+La [G]vărsta ^ta de [C]ieri, iu ^hei
+Să [C]te-ntâl[F]nim ca [G]pe-un hoi^nar
+Cu [G]părul [F]nins de [C]ierni. Cum ^măi? A^șa
+
+Refren
+
+Vor [C]trece ^anii [F]si vom ^fi
+Eu [G]tânăr, ^voi că[C]runți, iu ^hei
+Dar [C]tot la [F]fel ca-n [G]prima ^zi
+Vom [G]hoină[F]ri prin [C]munți. Cum ^măi? A^șa
+
+Refren
+
+Am [C]hoină^rit prin [F]munți și ^văi,
+Și [G]multe-am ^mai cu[C]les,  iu ^hei
+Pă[C]cat că [F]nu și [G]ceva ^bani
+C-aș [G]fi ve[F]nit mai [C]des. Cum ^măi? A^șa
 
 Refren
 ```
