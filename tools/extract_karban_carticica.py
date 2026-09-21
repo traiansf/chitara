@@ -7,13 +7,16 @@ The PDF's fonts use a custom encoding: printable characters are shifted by
 carried by the fonts themselves: one font for titles, another for the artist
 section headers, the rest for body text.
 """
-import fitz, json, re, sys
+import pymupdf as fitz
+import json, re, sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+_HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(_HERE))
 from extract_common import page_lines
 
-PDF = "/home/traian/chitara/surse/Eugen Karban - carticica-de-cantece-pentru-chitara-200.pdf"
-OUT = "/home/traian/chitara/tools/karban_carticica.json"
+PDF = str(_HERE.parent / "surse" / "Eugen Karban - carticica-de-cantece-pentru-chitara-200.pdf")
+OUT = str(_HERE / "karban_carticica.json")
 FIRST_PAGE = 8
 
 F_RUNNING = "MSTT31c48000"   # "Carticica de cântece pentru chitara Ver 2.0"

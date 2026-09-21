@@ -10,14 +10,16 @@ A word is only rewritten when the corpus is decisive about it.  Everything
 uncertain is listed rather than guessed at.
 """
 import collections, json, re, sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+_HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(_HERE))
 from dedup_lib import load, parse_songs, body
 
-CAIET = "/home/traian/chitara/Caiet-chitara.md"
-COLINDE = "/home/traian/chitara/tools/karban_colinde.json"
-CARTICICA = "/home/traian/chitara/tools/karban_carticica.json"
-RO_FORMS = "/home/traian/chitara/tools/data/ro_forms.txt"
+CAIET = str(_HERE.parent / "Caiet-chitara.md")
+COLINDE = str(_HERE / "karban_colinde.json")
+CARTICICA = str(_HERE / "karban_carticica.json")
+RO_FORMS = str(_HERE / "data" / "ro_forms.txt")
 
 # the letters Cărticica drops; â and î it already writes
 FLAT = str.maketrans("ăĂșȘțȚşŞţŢ", "aAsStTsStT")

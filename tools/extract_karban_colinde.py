@@ -11,14 +11,17 @@ A LaTeX-produced PDF.  Two things need care:
 * Chords are positioned over the syllable where they change, exactly as in the
   caiet, so they are re-aligned from their x coordinates rather than listed.
 """
-import fitz, json, re, sys
+import pymupdf as fitz
+import json, re, sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+_HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(_HERE))
 from extract_common import (page_lines, line_text_and_map, align_chords,
                             standalone_chord_text, is_chord_text)
 
-PDF = "/home/traian/chitara/surse/Eugen Karban - culegere-de-colinde-si-cantece-de-iarna-100.pdf"
-OUT = "/home/traian/chitara/tools/karban_colinde.json"
+PDF = str(_HERE.parent / "surse" / "Eugen Karban - culegere-de-colinde-si-cantece-de-iarna-100.pdf")
+OUT = str(_HERE / "karban_colinde.json")
 FIRST_PAGE, LAST_PAGE = 6, 113
 
 F_TITLE = "Helvetica-Bold"

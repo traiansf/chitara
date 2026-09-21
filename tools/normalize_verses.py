@@ -14,11 +14,12 @@ line — an indented line or a marker kept on its lyric line there
 """
 import re
 import sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from extract_common import is_chord_text
 
-SRC = sys.argv[1] if len(sys.argv) > 1 else "/home/traian/chitara/Caiet-chitara.md"
+SRC = sys.argv[1] if len(sys.argv) > 1 else str(Path(__file__).resolve().parent.parent / "Caiet-chitara.md")
 
 MARKER_RE = re.compile(r"^(\d{1,2}\.(?!\d)|R\d?\s?:|(?i:refren)(?:\s*[xX]\s*\d+)?\s*:)\s*")
 TOKEN_RE = re.compile(r"\S+")

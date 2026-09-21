@@ -1,14 +1,16 @@
 # -*- coding: utf-8 -*-
 """Load the caiet and both Karban volumes as one comparable list of songs."""
 import json, re, sys, unicodedata
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+_HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(_HERE))
 from dedup_lib import load, parse_songs, body
 from extract_common import is_chord_text
 from chord_seq import chords, dedupe_runs, best_match
 
-CARTICICA = "/home/traian/chitara/tools/karban_carticica.json"
-COLINDE = "/home/traian/chitara/tools/karban_colinde.json"
+CARTICICA = str(_HERE / "karban_carticica.json")
+COLINDE = str(_HERE / "karban_colinde.json")
 INLINE = re.compile(r"\[[^\]]*\]")
 MARKER = re.compile(r"^\s*(\d{1,2}\.(?!\d)|R\d?\s*:|(?i:refren)(?:\s*[xX]\s*\d+)?\s*:?|"
                     r"(?i:bis)|(?i:strofa\s*\d*)\s*:?|(?i:solo|intro|final|bridge)\s*:?)\s*$")

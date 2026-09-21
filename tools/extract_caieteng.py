@@ -1,12 +1,16 @@
 """Extract Caieteng.pdf into structured songs JSON."""
-import fitz, json, re
+import pymupdf as fitz
+import json, re, sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from extract_common import (page_lines, line_text_and_map, is_chord_text,
                             align_chords, standalone_chord_text)
 
 FONT_MAPS = {}  # no Romanian diacritic hacks in this book
 TITLE_RE = re.compile(r"^\s*(\d+)\s*\.\s*(.+)$")
 
-doc = fitz.open("/home/traian/chitara/surse/Caieteng.pdf")
+doc = fitz.open(Path(__file__).resolve().parent.parent / "surse" / "Caieteng.pdf")
 songs = []
 cur = None
 

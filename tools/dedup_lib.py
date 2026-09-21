@@ -1,7 +1,8 @@
 """Shared parsing helpers for the duplicate-song removal pass."""
 import re, unicodedata, collections
+from pathlib import Path
 
-SRC = "/home/traian/chitara/Caiet-chitara.md"
+SRC = str(Path(__file__).resolve().parent.parent / "Caiet-chitara.md")
 # Songs sit one level below their part's subsection since tools/reorganize_parts.py
 # introduced subsections for Part I and Part IV; ### is still accepted so that the
 # older pipeline steps, which write the flat layout, can be read back.

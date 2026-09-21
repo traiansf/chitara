@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 """Group the duplicates across the three corpora and assign each song a part."""
 import collections, json, re, sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+_HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(_HERE))
 from karban_songs import all_songs, strip_accents
 from karban_dedup import find_pairs, same_progression
 
-RO_FORMS = "/home/traian/chitara/tools/data/ro_forms.txt"
+RO_FORMS = str(_HERE / "data" / "ro_forms.txt")
 MERGE_SEQ = 0.9
 
 

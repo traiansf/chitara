@@ -22,8 +22,9 @@ caveat as normalize_verses.py). Optional arg: path to the markdown file.
 """
 import re
 import sys
+from pathlib import Path
 
-DEFAULT_PATH = "/home/traian/chitara/Caiet-chitara.md"
+DEFAULT_PATH = str(Path(__file__).resolve().parent.parent / "Caiet-chitara.md")
 
 # label as printed in the song -> GCEA fingering
 FINGERINGS = {

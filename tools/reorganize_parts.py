@@ -7,9 +7,11 @@ own output changes nothing, so it is safe to re-run after editing
 categorii.json.
 """
 import collections, json, re, sys, unicodedata
+from pathlib import Path
 
-MD = "/home/traian/chitara/Caiet-chitara.md"
-CATS = "/home/traian/chitara/tools/categorii.json"
+_HERE = Path(__file__).resolve().parent
+MD = str(_HERE.parent / "Caiet-chitara.md")
+CATS = str(_HERE / "categorii.json")
 
 # (cheie, titlu roman, denumire, subsecțiuni) — ordinea din carte
 PARTS = [

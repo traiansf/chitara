@@ -17,8 +17,9 @@ part of the book, and the caiet's own carols move there with them.
    pipeline order is: this step, then the reorganization.
 """
 import collections, json, re, sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from dedup_lib import SRC, HEAD_RE, gh_slug, sortkey, load, parse_songs, body
 from karban_songs import all_songs
 from karban_dedup import find_pairs, same_progression

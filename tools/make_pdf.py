@@ -22,7 +22,10 @@ Usage: python3 tools/make_pdf.py [--md PATH] [--lista PATH] [--out PATH]
 """
 import argparse
 import collections
+import functools
+import hashlib
 import html
+import json
 import re
 import subprocess
 import sys
@@ -31,8 +34,9 @@ from pathlib import Path
 
 import transpose
 
-MD = "/home/traian/chitara/Caiet-chitara.md"
-OUT = "/home/traian/chitara/Caiet-chitara.pdf"
+_ROOT = Path(__file__).resolve().parent.parent
+MD = str(_ROOT / "Caiet-chitara.md")
+OUT = str(_ROOT / "Caiet-chitara.pdf")
 CHROME = "google-chrome-stable"
 MONO_STACK = "'Iosevka Fixed', 'DejaVu Sans Mono', monospace"
 
@@ -71,6 +75,16 @@ INDENT = 2                              # continuation indent (chars)
 
 ADV = 0.5        # mono advance in em; overwritten by calibrate()
 CH_BOLD = True   # bold chords; disabled if bold advance differs
+
+# song_page() is a pure function of one song dict, so its (html, fs, cols,
+# wrapped) result is cached per song across runs — see cached_song_page().
+# The cache key folds in a hash of this file's own source, so any edit to
+# the layout/rendering code below invalidates every entry automatically.
+# Bump CACHE_VERSION only for a change that's invisible to that source
+# hash: the DejaVu font files (DEJAVU_BOLD/DEJAVU_REG) or the mono font
+# fontconfig serves (see ADV) changing content without this file changing.
+CACHE_VERSION = 1
+CACHE_PATH = Path(__file__).resolve().parent / "_pdf_work" / "song_layout_cache.json"
 
 CHORD_RE = re.compile(
     r"^[A-G](?:#|b)?(?:m|maj|min|dim|aug|\+)?(?:sus)?[0-9]*"
@@ -909,7 +923,7 @@ _prop_fonts_cache = {}
 
 def _prop_fonts():
     if not _prop_fonts_cache:
-        import fitz
+        import pymupdf as fitz
         _prop_fonts_cache["bold"] = fitz.Font(fontfile=DEJAVU_BOLD)
         _prop_fonts_cache["reg"] = fitz.Font(fontfile=DEJAVU_REG)
     return _prop_fonts_cache["bold"], _prop_fonts_cache["reg"]
@@ -1336,6 +1350,85 @@ def song_page(s):
     return "\n".join(parts), fs, bool(lay["cols"]), lay["wrapped"]
 
 
+# ------------------------------------------------------------ layout cache
+# song_page(s) is deterministic in s alone (plus ADV/CH_BOLD, folded into
+# _layout_version below), and it's the dominant cost of build() - most of
+# it best_layout()'s binary-search font fit. Caching it per song means an
+# edit to one song only re-lays-out that song; everything else is a dict
+# lookup. Content-addressed: the key is a hash of every input, so a stale
+# entry for a song that no longer exists just goes unused (and gets pruned
+# on save) rather than needing explicit invalidation.
+_layout_cache = {}
+_layout_cache_seen = set()
+
+
+@functools.lru_cache(maxsize=1)
+def _layout_version():
+    """Cached: ADV/CH_BOLD are fixed by calibrate() before any song_page
+    call and don't change mid-run, so this file's bytes need hashing once,
+    not once per song."""
+    src = Path(__file__).read_bytes()
+    h = hashlib.sha256()
+    h.update(str(CACHE_VERSION).encode())
+    h.update(src)
+    h.update(f"|{ADV:.6f}|{CH_BOLD}".encode())
+    return h.hexdigest()
+
+
+def _song_cache_key(s, version):
+    # num and anchor are embedded in song_page()'s output (the §N§ marker
+    # verify() reads, and the page's id) - both must be in the key, even
+    # though num itself never renders: an edit elsewhere in the caiet that
+    # shifts num (adding/removing/reordering songs) must not reuse a page
+    # carrying the wrong marker.
+    body_key = [(type(ln).__name__, str(ln)) for ln in s["body"]]
+    payload = repr((version, s["num"], s["anchor"], s["title"], s["meta"],
+                    s["gtr"], s["uke"], s["converted"],
+                    round(s["shrink"], 6), body_key))
+    return hashlib.sha256(payload.encode()).hexdigest()
+
+
+def lista_cache_path(lista_path):
+    """A --lista run's own cache file: most of its songs are untransposed
+    (transpose_song() returns the caiet's own dict unchanged when a song
+    already starts on the requested key), so its keys mostly coincide with
+    the main cache's - but it must save to its own file, or saving would
+    prune the main cache down to just this lista's songs."""
+    h = hashlib.sha256(str(Path(lista_path).resolve()).encode()).hexdigest()[:16]
+    return CACHE_PATH.with_name(f"song_layout_cache.lista-{h}.json")
+
+
+def load_layout_cache(*paths):
+    """Seed the in-memory cache from one or more JSON files (missing or
+    corrupt ones are skipped), later paths winning on key clashes - there
+    are none in practice, since keys are content hashes."""
+    global _layout_cache
+    _layout_cache = {}
+    for p in paths:
+        try:
+            _layout_cache.update(json.loads(p.read_text(encoding="utf-8")))
+        except (FileNotFoundError, json.JSONDecodeError):
+            pass
+    _layout_cache_seen.clear()
+
+
+def save_layout_cache(path):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    pruned = {k: v for k, v in _layout_cache.items() if k in _layout_cache_seen}
+    path.write_text(json.dumps(pruned), encoding="utf-8")
+
+
+def cached_song_page(s):
+    key = _song_cache_key(s, _layout_version())
+    _layout_cache_seen.add(key)
+    hit = _layout_cache.get(key)
+    if hit is not None:
+        return tuple(hit)
+    result = song_page(s)
+    _layout_cache[key] = list(result)
+    return result
+
+
 def toc_entries(ss, page_of):
     """Table-of-contents lines for songs ss — title, artist, page number
     (page_of, from the previous pass; dots until there is one)."""
@@ -1388,7 +1481,7 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
         P.append(f'<div class="page divider" id="{slug(low)}">'
                  f'<h1>{html.escape(top)}<br>{html.escape(low)}</h1></div>')
         for s in ss:
-            pg, fs, cols, wrapped = song_page(s)
+            pg, fs, cols, wrapped = cached_song_page(s)
             P.append(pg)
             stats.append((s["num"], fs, cols, wrapped))
 
@@ -1433,7 +1526,7 @@ def run_chrome(html_path, pdf_path):
 def calibrate(workdir):
     """Measure the real advance width (and bold parity) of the mono stack
     as Chrome renders it. Returns (advance_em, bold_ok, diacritics_ok)."""
-    import fitz
+    import pymupdf as fitz
     probe = workdir / "probe.html"
     ppdf = workdir / "probe.pdf"
     probe.write_text(
@@ -1464,7 +1557,7 @@ def verify(pdf_path, songs, first_of_part=None):
     """(page_of, bad song nums, page count). first_of_part: the songs a
     part divider page comes before — by default the first of each part
     (SECTIONS) present in songs."""
-    import fitz
+    import pymupdf as fitz
     x_limit = (PAGE_W - MARG_X + 3) * 72 / 25.4
     doc = fitz.open(pdf_path)
     marker_on = {}
@@ -1629,7 +1722,7 @@ def build_list_html(heading, songs, page_of):
          f'<div class="toc">{toc_entries(songs, page_of)}</div></div>']
     stats = []
     for s in songs:
-        pg, fs, cols, wrapped = song_page(s)
+        pg, fs, cols, wrapped = cached_song_page(s)
         P.append(pg)
         stats.append((s["num"], fs, cols, wrapped))
     return html_doc(heading, P), stats
@@ -1678,6 +1771,17 @@ def main():
         CH_BOLD = False
         CSS = CSS.replace("font-weight: bold;", "")
 
+    # --lista gets its own cache file, seeded from the main cache (most of
+    # its songs are untransposed and so share the main cache's keys) but
+    # saved separately, so a lista run never prunes the main cache down to
+    # just its own songs.
+    if args.lista:
+        save_cache_path = lista_cache_path(args.lista)
+        load_layout_cache(CACHE_PATH, save_cache_path)
+    else:
+        save_cache_path = CACHE_PATH
+        load_layout_cache(CACHE_PATH)
+
     html_path = workdir / html_name
     page_of = {}
     by_num = {s["num"]: s for s in songs}
@@ -1690,6 +1794,7 @@ def main():
         page_of, bad, total = verify(out, songs, first_of_part)
         print(f"pass {attempt}: {total} pages, problem songs: "
               f"{bad or 'none'}")
+        save_layout_cache(save_cache_path)
         if not bad:
             if prev_pages == page_of:
                 break

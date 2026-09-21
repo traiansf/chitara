@@ -21,8 +21,8 @@ import make_pdf
 import add_guitar_chords
 import add_ukulele_chords
 
-MD = "/home/traian/chitara/Caiet-chitara.md"
-OUT_DIR = Path("/home/traian/chitara/docs")
+MD = str(Path(__file__).resolve().parent.parent / "Caiet-chitara.md")
+OUT_DIR = Path(__file__).resolve().parent.parent / "docs"
 ASSETS_SRC = Path(__file__).parent / "html_assets"
 
 # Same guitar silhouette as html_assets/favicon.svg, inlined (not <img>) so
@@ -414,7 +414,7 @@ def content_counts_table(stats):
     return "<table>" + "".join(rows) + "</table>"
 
 
-README_PATH = Path("/home/traian/chitara/README.md")
+README_PATH = Path(__file__).resolve().parent.parent / "README.md"
 GITHUB_REPO = "https://github.com/traiansf/chitara"
 
 

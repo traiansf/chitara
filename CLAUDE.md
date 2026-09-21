@@ -74,7 +74,7 @@ nu o editare manuală a caietului.
 
 ```bash
 python3 tools/reorganize_parts.py          # rearanjează după categorii.json
-python3 tools/make_pdf.py                  # regenerează PDF-ul (~2 min)
+python3 tools/make_pdf.py                  # regenerează PDF-ul (~2 min; mai rapid cu cache cald, vezi mai jos)
 python3 tools/make_pdf.py --lista Lista-mea.md --out Caietul-meu.pdf  # caiet din listă, transpus
 python3 tools/add_guitar_chords.py         # recalculează digitațiile de chitară
 python3 tools/add_ukulele_chords.py        # idem, ukulele
@@ -201,6 +201,22 @@ Ce face fiecare grup:
   exact ca înainte, iar `prop_height_fn()` socotește la fel.
 - Editarea introducerii sau a oricărui cântec cere regenerarea PDF-ului;
   introducerea intră în prima pagină a lui.
+- `make_pdf.py` ține un cache pe disc (`tools/_pdf_work/song_layout_cache.json`,
+  în afara git-ului) cu așezarea în pagină deja calculată a
+  fiecărui cântec (`cached_song_page()`), fiindcă acel calcul — nu
+  Chrome — e partea cea mai costisitoare a rulării. Cheia cache-ului
+  include textul cântecului *și* octeții proprii ai `make_pdf.py`, deci
+  orice modificare a codului de randare invalidează automat tot cache-ul,
+  fără nimic manual de reținut. Excepția: o schimbare de care depinde
+  randarea dar care nu se vede în octeții fișierului (fonturile DejaVu
+  din sistem, alt font monospațiat servit de fontconfig) — atunci
+  crește-i manual `CACHE_VERSION` de la începutul lui `make_pdf.py`
+  ca să forțezi invalidarea. `--lista PATH` ține cache-ul lui separat
+  (`song_layout_cache.lista-<hash>.json`, după calea listei), pornit
+  din cel principal — majoritatea cântecelor unei liste nu sunt
+  transpuse și au aceeași cheie ca în caiet — dar salvat la fișierul lui
+  propriu, ca o rulare cu `--lista` să nu restrângă cache-ul principal
+  la doar cântecele din listă.
 - **Înainte de orice push, regenerează PDF-ul (`make pdf`) și site-ul
   (`make html`) și include-le în commit.** `docs/` se publică pe GitHub Pages
   direct din `main`, deci un push fără regenerare lasă site-ul și PDF-ul în

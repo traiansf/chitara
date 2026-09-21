@@ -21,8 +21,9 @@ Idempotent: an existing **Chitară:** line is replaced.
 """
 import re
 import sys
+from pathlib import Path
 
-DEFAULT_PATH = "/home/traian/chitara/Caiet-chitara.md"
+DEFAULT_PATH = str(Path(__file__).resolve().parent.parent / "Caiet-chitara.md")
 
 FINGERINGS = {
     # majors

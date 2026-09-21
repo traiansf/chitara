@@ -27,8 +27,9 @@ Idempotent: a line with no repeats left is unchanged.
 """
 import re
 import sys
+from pathlib import Path
 
-DEFAULT_PATH = "/home/traian/chitara/Caiet-chitara.md"
+DEFAULT_PATH = str(Path(__file__).resolve().parent.parent / "Caiet-chitara.md")
 
 CHORD_RE = re.compile(
     r"^[A-G](?:#|b)?"

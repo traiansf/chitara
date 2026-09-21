@@ -1,5 +1,9 @@
 """Extract caiet-christian-adventure.pdf into structured songs JSON."""
-import fitz, json, re, statistics
+import pymupdf as fitz
+import json, re, statistics, sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from extract_common import (page_lines, line_text_and_map, is_chord_text,
                             align_chords, standalone_chord_text)
 
@@ -46,7 +50,7 @@ for i, ln in enumerate(lines):
 print(f"index entries: {len(idx)} (part1: {sum(1 for v in idx.values() if v['part']==1)}, part2: {sum(1 for v in idx.values() if v['part']==2)})")
 
 # ---------- 2. extract pages ----------
-doc = fitz.open("/home/traian/chitara/surse/caiet-christian-adventure.pdf")
+doc = fitz.open(Path(__file__).resolve().parent.parent / "surse" / "caiet-christian-adventure.pdf")
 songs = []
 
 def split_columns(lines_all):

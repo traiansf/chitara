@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """Extract the chord progression of a song block, for comparing variants."""
 import re, sys
-sys.path.insert(0, "/home/traian/chitara/tools")
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from extract_common import is_chord_text
 
 INLINE = re.compile(r"\[([A-G][b#]?[^\]]*)\]")

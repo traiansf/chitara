@@ -16,8 +16,9 @@ Song bodies are never touched: inline ``[C]`` chord markers stay as they are.
    pipeline order is: this step, then the reorganization.
 """
 import collections, re, sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from dedup_lib import SRC, HEAD_RE, gh_slug, sortkey, load, parse_songs
 
 T = "https://www.tabulaturi.ro/acorduri"

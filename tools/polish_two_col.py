@@ -11,8 +11,9 @@ Usage: polish_two_col.py <raw> <out> --seam '<stripped prefix of first right-col
 import argparse
 import re
 import sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from extract_common import is_chord_text
 
 NO_JOIN_END = tuple(".,!?:;")

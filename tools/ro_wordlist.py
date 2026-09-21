@@ -8,10 +8,12 @@ dictionary uses are implemented: single-character flags, SFX and PFX rules with
 a strip, an addition and a regex condition.
 """
 import re, sys
+from pathlib import Path
 
-AFF = "/home/traian/chitara/tools/data/ro_RO.aff"
-DIC = "/home/traian/chitara/tools/data/ro_RO.dic"
-OUT = "/home/traian/chitara/tools/data/ro_forms.txt"
+_DATA = Path(__file__).resolve().parent / "data"
+AFF = str(_DATA / "ro_RO.aff")
+DIC = str(_DATA / "ro_RO.dic")
+OUT = str(_DATA / "ro_forms.txt")
 
 
 def load_affixes(path=AFF):

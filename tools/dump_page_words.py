@@ -12,7 +12,7 @@ Pages are 1-indexed. Output: one line per y-row, "y=... | [x0-x1]word ...".
 import sys
 from collections import defaultdict
 
-import fitz
+import pymupdf as fitz
 
 
 def dump_page(page):

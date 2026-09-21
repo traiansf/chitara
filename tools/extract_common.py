@@ -1,5 +1,6 @@
 """Common PDF songbook extraction: line clustering, diacritic restore, chord alignment."""
-import fitz, re
+import pymupdf as fitz
+import re
 
 CHORD_CORE = r"[A-G](?:#|b)?(?:m|maj|min|dim|aug|sus|add)?[0-9]{0,2}(?:sus[0-9]?|maj[0-9]|add[0-9]+|\+|-)?(?:/[A-G](?:#|b)?)?"
 CHORD_TOKEN = re.compile(r"^\(?%s\)?[:.]?$" % CHORD_CORE)

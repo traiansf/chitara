@@ -4,8 +4,9 @@
 Usage: replace_song_block.py '<header prefix, e.g. "#### Miruna">' <content-file>
 """
 import sys
+from pathlib import Path
 
-MD = "/home/traian/chitara/Caiet-chitara.md"
+MD = str(Path(__file__).resolve().parent.parent / "Caiet-chitara.md")
 
 def main():
     header_prefix, content_path = sys.argv[1], sys.argv[2]

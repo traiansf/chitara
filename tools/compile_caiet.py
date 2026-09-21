@@ -4,6 +4,9 @@
    pipeline order is: this step, then the reorganization.
 """
 import json, re, unicodedata, collections, subprocess, datetime
+from pathlib import Path
+
+_ROOT = Path(__file__).resolve().parent.parent
 
 def norm(t):
     t = unicodedata.normalize("NFD", t.lower())
@@ -325,7 +328,7 @@ out.append("")
 
 # chord dictionary annex from Caietrom pages 171-172
 res = subprocess.run(["pdftotext", "-layout", "-f", "171", "-l", "172",
-                      "/home/traian/chitara/surse/Caietrom.pdf", "-"],
+                      str(_ROOT / "surse" / "Caietrom.pdf"), "-"],
                      capture_output=True, text=True)
 annex = []
 for l in res.stdout.replace("\x0c", "").split("\n"):
@@ -347,7 +350,7 @@ out += annex
 out.append("```")
 out.append("")
 
-open("/home/traian/chitara/Caiet-chitara.md", "w").write("\n".join(out))
+open(_ROOT / "Caiet-chitara.md", "w").write("\n".join(out))
 print(f"main caiet: {len(out)} lines, {len(ro)} RO + {len(intl)} INTL songs")
 
 # ---------------- addendum ----------------
@@ -374,5 +377,5 @@ for v in names:
     for t in v["tabs"]:
         ad.append(f"- [{t['title']}](https://www.tabulaturi.ro/acorduri/{v['slug']}/{t['slug']})")
     ad.append("")
-open("/home/traian/chitara/Caiet-chitara-addendum.md", "w").write("\n".join(ad))
+open(_ROOT / "Caiet-chitara-addendum.md", "w").write("\n".join(ad))
 print(f"addendum: {len(ad)} lines, {total} linked songs, {len(addendum)} artists")

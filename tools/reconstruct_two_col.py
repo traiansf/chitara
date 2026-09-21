@@ -16,9 +16,10 @@ Usage: reconstruct_two_col.py <printed-page> [--split X] [--pdf PATH] [--no-join
 import argparse
 import re
 import sys
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
-import fitz
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import pymupdf as fitz
 from extract_common import (page_lines, line_text_and_map, is_chord_text,
                             align_chords, standalone_chord_text)
 
@@ -95,7 +96,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("page", type=int, help="printed page number (PDF page = page)")
     ap.add_argument("--split", type=float, default=310.0)
-    ap.add_argument("--pdf", default="/home/traian/chitara/surse/caiet-christian-adventure.pdf")
+    ap.add_argument("--pdf", default=str(Path(__file__).resolve().parent.parent / "surse" / "caiet-christian-adventure.pdf"))
     ap.add_argument("--no-join", action="store_true",
                     help="disable wrap-joining (pages whose line pitch equals the wrap gap)")
     ap.add_argument("--stanza-gap", type=float, default=None)

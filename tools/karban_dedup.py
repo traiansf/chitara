@@ -7,8 +7,9 @@ a pair of variants.
 """
 import collections, itertools, sys
 from difflib import SequenceMatcher
+from pathlib import Path
 
-sys.path.insert(0, "/home/traian/chitara/tools")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from karban_songs import all_songs
 
 

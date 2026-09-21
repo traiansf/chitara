@@ -6,7 +6,8 @@ the last word of three lines and scattered the stray letters onto lines of
 their own.  Every replacement below is verified against that page.
 """
 import sys
-sys.path.insert(0, "/home/traian/chitara/tools")
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from dedup_lib import SRC, load, parse_songs
 
 # old line -> new line (None drops the line)
