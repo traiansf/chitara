@@ -25,7 +25,7 @@
 - Fata munților (Fata din Crai) [C]
 - Floare de colț [Dm]
 - Hai dihai [C]
-- Imnul Bucegilor [F]
+- Imnul Bucegilor [C]
 - Imnul Dianei [Dm]
 - Imnul Pietrei Craiului [Dm]
 - Luna în cascade [F]
