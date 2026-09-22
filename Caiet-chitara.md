@@ -1232,35 +1232,33 @@ Refren 2X +
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
-C
-Dacă vii din orice parte
-                   G
-La Râșnov să te oprești
-G
-Vei afla în scurtă vreme
-F         G    C
-De cabana Mălăiești
+/[C]  Dacă vii din ^  orice parte
+[C]La Râșnov să te o[G]prești
+[G]Vei afla în ^scurtă vreme
+[F]De cabana [G]Mălă[C]iești/ x2
 
 Refren:
-Fată mare, fată- fată mare
-Fată fara de noroc
-Blestemată de părinți
-Ca să nu te mai măriți
+[C]  Fată mare, ^fată- fată mare
+[C]Fată fără de no[G]roc
+[G]Blestemată ^de părinți
+[F]Ca să nu te [G]mai mă[C]riți
 
-Băiat mare, băiat- băiat mare
-Băiat făra de noroc
-Blestemat de frați, surori
-Ca să nu te mai însori.
+[C]  Băiat mare, ^băiat- băiat mare
+[C]Băiat făra de no[G]roc
+[G]Blestemat de ^frați, surori
+[F]Ca să nu te [G]mai în[C]sori.
 
-Vrei la Omu, cobori in vale
-Multe cabane întalnești
-Dar dintre toate cea mai frumoasă
-E cabana Mălăiești
+/[C]  De urci la Omu, ^  cobori in vale
+[C]Multe cabane întâl[G]nești
+[G]Dar dintre toate ^cea mai frumoasă
+[F]E cabana [G]Mălă[C]iești/ x2
 
-Băieți veseli și fetițe
-Cu cununi ca în povești
-Împreună ei formează
-Tineretul Mălăiești
+Refren
+
+/[C]  Băieți veseli ^  și fetițe
+[C]Cu cununi ca în po[G]vești
+[G]Împreună ^ei formează
+[F]Tineretul [G]Mălă[C]iești/ x2
 
 Refren
 ```
@@ -1406,42 +1404,29 @@ Refren x2
 **Ukulele:** Am 2000 · G 0232 · F 2010 · C 0003 · Fm 1013
 
 ```text
-Am                         G   Am
-Să rătăcesc prin munți eu am pornit
-                       G       Am
-Cu luna să mă joc sus, printre creste
-                       G    Am
-Pe-o coardă de chitară m-am suit
-       F       G       Am
-Și cu stelele m-am întâlnit
-       F       G       Am
-Și cu stelele m-am întâlnit
+[Am]  Să rătăcesc prin munți eu [G]am por[Am]nit
+[Am]  Cu luna să mă joc sus, [G]printre [Am]creste
+[Am]  Pe-o coardă de chitară [G]m-am su[Am]it
+/Și cu [F]stelele [G]m-am întâl[Am]nit/ x2
 
 Refren:
-      C          G
-Fluierând am plecat în depărtări
-     C           G
-Rătăcind pe frumoasele cărări
-       F       Am
-Străbătând paradisul dintre voi
-     F         Am
-Mirosind un buchet de albe flori
-        Fm          C  G  Am
-Și-am uitat că există și ploi
+Fluie[C]rând am ple[G]cat în depărtări
+Rătă[C]cind pe fru[G]moasele cărări
+Străbă[F]tând para[Am]disul dintre voi
+Miro[F]sind un bu[Am]chet de albe flori
+Și-am ui[Fm]tat că e[G]xistă și [Am]ploi  ^
 
-Am luat pieptiș cărările spre munți
-Brazii cei falnici șuierau la tâmple
-Și am ajuns pe crestele carunți
-Și mi-am zis "tu de lume să uiți"
-Și mi-am zis "tu de lume să uiți"
+[Am]  Am luat pieptiș cărări[G]le spre [Am]munți
+[Am]  Brazii cei falnici șuie[G]rau la [Am]tâmple
+[Am]  Și am gonit pe creste[G]le că[Am]runți
+/Și mi-am [F]zis "tu de [G]lume să [Am]uiți"/ x2
 
 Refren
 
-Am întâlnit în drumul meu ninsori
-Și vântul crestelor mi-a scris pe față
-Și prin poiene m-am scăldat în flori
-Iară visele-au fost în culori
-Iară visele-au fost în culori
+[Am]  Am întâlnit în drumul [G]meu nin[Am]sori
+[Am]  Și vântul crestelor mi-a [G]scris pe [Am]față
+[Am]  Și prin poiene m-am scăl[G]dat în [Am]flori
+/Iară [F]visele-au [G]fost în cu[Am]lori/ x2
 
 Refren x2
 ```
@@ -1471,7 +1456,7 @@ Refren:
 
 [G]  Căci numai la ca[C]bană
 [C]  O chitară poți s-as[G]culți
-[G]  Și-o fata minu[D]nată
+[G]  Și-o fată minu[D]nată
 Poți s-o să[G]ruți
 
 [G]  Ce frumos e sus la ^munte
@@ -1763,7 +1748,7 @@ Copil hoi[C7]nar
 
 #### Copilul munților
 
-**Anonim** · Sursa: Caiet Christian Adventure, p. 50 · [YouTube (Marcel Berbecar)](https://www.youtube.com/watch?v=UMxBY5mRduY)
+**Anonim** · Sursa: Caiet Christian Adventure, p. 50 · [YouTube (Ofelia Rauch)](https://www.youtube.com/watch?v=Kn_Ah8JwqX4)
 
 **Chitară:** C x32010 · F 133211 · G 320003 · G7 320001
 
@@ -1877,46 +1862,38 @@ Refren:
 
 #### Dacă n-ai amintiri
 
-**Anotimpul 5** · Sursa: Caiet Christian Adventure, p. 52 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/daca-n-ai-amintiri-3667)
+**Anotimpul 5** · Sursa: Caiet Christian Adventure, p. 52 · [Cati si Luin](https://www.youtube.com/watch?v=IswrxYOeEZI)
 
 **Chitară:** C x32010 · Dm xx0231 · G 320003
 
 **Ukulele:** C 0003 · Dm 2210 · G 0232
 
 ```text
-C
-Dacă n-ai dormit vreodată
-        Dm
-Într-un pat făcut din fân
-G
-Dacă n-ai visat sub lună
-           C            G
-Trist ești tu și ești bătrân
+Dacă [C]n-ai dormit vreo^dată
+Într-un [Dm]pat făcut din ^fân
+Dacă [G]n-ai visat sub ^lună
+Trist ești [C]tu și ești bă[G]trân
 
-Dacă n-ai iubit o dată
-Mai presus decât orice
-Dacă n-ai știut că-n viață
-Tot ce e iubire e
+Dacă [C]n-ai iubit o^dată
+Mai pre[Dm]sus decât ori^ce
+Dacă [G]n-ai știut că-n ^viață
+Tot ce [C]e iubire [G]e  ^
 
 Refren:
- C
-Dacă n-ai amintiri,amintiri
-Dm               G                C
-N-are rost să-ți spun că timpul a trecut
-C
-Dacă n-ai amintiri,amintiri
-Dm               G               C
-N-are rost să-ți spun ce-ai pierdut !
+Dacă [C]n-ai amintiri, ^amintiri
+N-are [Dm]rost să-ți [G]spun că ^timpul [C]a trecut
+Dacă [C]n-ai amintiri, ^amintiri
+N-are [Dm]rost să-ți [G]spun ce-ai pier[C]dut!
 
-Dacă n-ai trăit o noapte
-Sus pe munte, lângă foc
-Înseamnă că n-ai fost tânăr
-Sau că n-ai avut noroc
+Dacă [C]n-ai dormit o ^noapte
+Sus pe [Dm]munte, lângă ^foc
+Înseam[G]nă că n-ai fost ^tânăr
+Sau că [C]n-ai avut no[G]roc
 
-Dacă n-ai iubit lumina
-Când răsare soarele
-Dacă n-ai ars niciodată
-Într-un foc de dragoste
+Dacă [C]n-ai privit lu^mina
+Când ră[Dm]sare soare^le
+Dacă [G]n-ai ars nicio^dată
+Într-un [C]foc de drago[G]ste  ^
 
 Refren x2
 ```
@@ -2080,56 +2057,49 @@ Refren x2
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
 
 ```text
- Am                   Dm
-Curând va fi o noapte lungă
-   E                  Am
-Și fără tine-mi va fi greu
-Iubita mea vino la mine
-Te aștept să vii de Anul Nou.
+Cu[Am]rând va fi o noapte [Dm]lungă
+Și [E]fără tine-mi va fi [Am]greu
+Iu[Am]bita mea vino la [Dm]mine
+Te aș[E]tept să vii de Anul [Am]Nou.
 
 Refren (x2):
+[Am]Râd și plâng și te [Dm]strig delirând
+E [G]soare e ploaie e [C]cald și e vânt
+Din [Am]somn mă trezesc și tre[Dm]sar speriat
+Dar [E]nu-i nimic doar am vi[Am]sat.
 
-Am              Dm
-Râd și plâng și te strig delirând
-   G               C
-E soare e ploaie e cald și e vânt
-    Am                  Dm
-Din somn mă trezesc și tresar speriat
-     E                   Am
-Dar nu-i nimic doar am visat.
-
-De vrei să vii curând cu munții
-La marea mea cu valuri verzi
-Să ne jurăm credință pururi
-Să nu te pierd să nu mă pierzi.
+De [Am]vrei să vii curând cu [Dm]munții
+La [E]marea mea cu valuri [Am]verzi
+Să [Am]ne jurăm credință [Dm]pururi
+Să [E]nu te pierd să nu mă [Am]pierzi.
 
 Refren
 
-Tu nu ai timp tu nu ai suflet
-Nimic din tine n-ai să-mi dai
-Când vii și pleci și nu rămâne
-Nimic din serile de mai.
+Tu [Am]nu ai timp tu nu ai [Dm]suflet
+Ni[E]mic din tine n-ai să-mi [Am]dai
+Când [Am]vii și pleci și nu ră[Dm]mâne
+Ni[E]mic din serile de [Am]mai.
 
 Refren
 
-Când te-am văzut ultima oară
-Ah, ce frumos tu m-ai privit
-Nu pot să uit a ta privire
-Și parc-o văd și parc-o simt.
+Când [Am]te-am văzut ultima [Dm]oară
+Ah, [E]ce frumos tu m-ai pri[Am]vit
+Nu [Am]pot să uit a ta pri[Dm]vire
+Și [E]parc-o văd și parc-o [Am]simt.
 
 Refren
 
-Și de vei face-o nouă punte
-Să n-o arunci în amintiri
-Și lasă-mă să vin la tine
-Cu brațul plin de trandafiri.
+Și [Am]de vei face-o nouă [Dm]punte
+Să [E]n-o arunci în amin[Am]tiri
+Și [Am]lasă-mă să vin la [Dm]tine
+Cu [E]brațul plin de tranda[Am]firi.
 
 Refren
 
-Curând va fi o noapte lungă
-Și fără tine-mi va fi greu
-Iubirea mea te rog revino
-Te-aștept să te întorci mereu.
+Cu[Am]rând va fi o noapte [Dm]lungă
+Și [E]fără tine-mi va fi [Am]greu
+Iu[Am]birea mea te rog re[Dm]vino
+Te-aș[E]tept să te întorci me[Am]reu.
 
 Refren x2
 ```
@@ -2824,10 +2794,10 @@ Pe-acest pământ de nori umbrit.
 [A]Spuse doar de glasul munte[D]lui.
 
 Refren:
-[D]  Când Bu^cegii^ dau zvon de piatră si iz[A]voare
-[A] Oriunde-ai [G]fi [A]răspunde la a lor che[D]mare
-[D]  Carai^manul,^ Coștila-ascunsă dup'-un [A]nor
-Și Mo[G]rarul [A]te vor primi la pieptul [D]lor. ^
+[D]  Când Bu^cegii ^  dau zvon de piatră si iz[A]voare
+[A] Oriunde-ai [G]fi [A]  răspunde la a lor che[D]mare
+[D]  Carai^manul, ^  Coștila-ascunsă dup'-un [A]no^or
+Și Mo[G]rarul [A]  te vor primi la pieptul [D]lor. ^
 
 [D]Pe platou la mare înăl^țime
 [D]Babele la sfat s-au adu[A]nat
@@ -3803,7 +3773,7 @@ Munții mei munții mei,
  D
 Hei, hei, hei, lei, lei, lei, lei, lei
  G             A      D
-M-am urcat doamne pe ei.
+M-am urcat Doamne pe ei.
 
 M-a bătut unu la cap
 Ce să fac să fiu bărbat.
