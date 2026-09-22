@@ -4816,56 +4816,50 @@ Un tren ce dragostea îl cere, un tren ce are-ntârziere an de an
 **Ukulele:** C 0003 · Am 2000 · F 2010 · G 0232
 
 ```text
-C                      Am
-Mi-a fost dor de o plimbare
-       F            G
-O plimbare-n lumea mare
-         C           Am
-Și-am plecat în departare pe un
-  F  G
-drum
-Aș fi vrut sa uit de toate
-Să plec în singurătate
-Peste munți și peste ape eu
-treceam
+Mi-a fost [C]dor de o plim[Am]bare
+O plim[F]bare-n lumea [G]mare
+Și-am ple[C]cat în depar[Am]tare
+pe un [F]dru[G]um
+Aș fi [C]vrut sa uit de [Am]toate
+Să plec [F]în singură[G]tate
+Peste [C]munți și peste [Am]ape
+eu tre[F]cea[G]am
 
 Refren:
 
-        F           G
-Totu-i drum, numai drum
-C                     Am
-Ce cuvinte pot să-ți spun
-Peste ziuă, peste noapte
-Vom ajunge mai departe
-Tropa-trop în galop
-Poate o s-avem noroc
-Să nu ningă, să nu plouă să ne ude
-pân' la...OO
+Totu-i [F]drum, numai [G]drum
+Ce cu[C]vinte pot să-ți [Am]spun
+Peste [F]ziuă, peste [G]noapte
+Vom a[C]junge mai de[Am]parte
+Tropa-[F]trop în ga[G]lop
+Poate [C]o s-avem no[Am]roc
+Să nu [F]ningă, să nu [G]plouă
+să ne [C]ude pân' la...[Am]glezne
 
-La cabană nu mai este
-Niciun loc de cort
-La cabană nu mai este niciun
-loc
+La ca[F]bană nu mai [G]este
+Niciun [C]loc de [Am]cort
+La ca[F]bană nu mai [G]este
+niciun [C]loc  ^
 
-Pe poteci întunecate
-Și prin locuri neumblate
-Peste munți și peste ape eu
-treceam
-Înapoi nu mai uitam
-Și nici nu mă mai gândeam
-Unde o s-ajung pe drumul ce-l
-urmam
+Pe po[C]teci întune[Am]cate
+Și prin [F]locuri neum[G]blate
+Peste [C]munți și peste [Am]ape
+eu tre[F]cea[G]am
+Îna[C]poi nu mă ui[Am]tam
+Și nici [F]nu mă mai gân[G]deam
+Unde [C]o s-ajung pe [Am]drumul
+ce-l ur[F]ma[G]am
 
 Refren
 
-Ceahlău, munte-mpădurit
-Îti spun bine te-am gasit
-Nici nu știi cât am dorit ca să te
-văd
-Să-ti văd flora si barajul
-Să-ti admir tot peisajul
-Să te cânt cum altă dată te-am
-cântat
+Ceahlău, [C]munte-mpădu[Am]rit
+Îti spun [F]bine te-am gă[G]sit
+Nici nu [C]știi cât am do[Am]rit
+ca să te [F]vă[G]ăd
+Să-ti văd [C]flora și ba[Am]rajul
+Să-ti ad[F]mir tot pei[G]sajul
+Să te [C]cânt cum altă [Am]dată
+te-am cân[F]ta[G]at
 
 Refren
 ```
