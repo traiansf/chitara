@@ -1542,50 +1542,80 @@ Drum bun, timp [G]bun/ x2
 **Ukulele:** Bm 4222 · Em 0432 · A 2100
 
 ```text
-Tră[Bm]ia demult într-o pă^dure un ^moș bătrân cu baba [Em]lui
-/Tră[Em]iau săraci ca vai de [Bm]dânșii în [A]adâncimea codru[Bm]lui/ x2
+Tră[Bm]ia demult într-o pă^dure
+un [Bm]moș bătrân cu baba [Em]lui
+/Tră[Em]iau săraci ca vai de [Bm]dânșii
+în [A]adâncimea codru[Bm]lui/ x2
 
-Și [Bm]moșul nu-și dorea ni^mica el ^doară moartea-și aște[Em]pta
-/Dar [Em]baba lui vroia să [Bm]aibă un [A]suflet tânăr lângă [Bm]ea/ x2
+Și [Bm]moșul nu-și dorea ni^mica
+el [Bm]doară moartea-și aște[Em]pta
+/Dar [Em]baba lui vroia să [Bm]aibă
+un [A]suflet tânăr lângă [Bm]ea/ x2
 
-Iar [Bm]soarta se-ndură de ^dânșii și-un ^pui de cerb le-a dăru[Em]it
-/Un [Em]pui de cerb cu stea în [Bm]frunte go[A]nit din codrii și ră[Bm]nit/ x2
+Iar soarta se-ndură de dânșii
+și-un pui de cerb le-a dăruit
+/Un pui de cerb cu stea în frunte
+gonit din codrii și rănit/ x2
 
-Să[Bm]geata-i străpunsese ^gâtul din ^rană sângele-i cur[Em]gea
-/Și [Em]lacrimi mari cugreau din [Bm]ochii fru[A]moși, rotuzi ca o măr[Bm]gea/ x2
+Săgeata-i străpunsese gâtul
+din rană sângele-i curgea
+/Și lacrimi mari cugreau din ochii
+frumoși, rotuzi ca o mărgea/ x2
 
-Iar [Bm]moșu-l sărută pe ^frunte mi^loasă, baba l-a spă[Em]lat
-/L-au [Em]îngrijit cu multă [Bm]milă și [A]rănile i-au vinde[Bm]cat/ x2
+Iar moșu-l sărută pe frunte
+miloasă, baba l-a spălat
+/L-au îngrijit cu multă milă
+și rănile i-au vindecat/ x2
 
-E[Bm]ra frumos și blând, să^racul zbur^da mereu din loc în [Em]loc
-/Ve[Em]nise ca o vrajă [Bm]nouă de [A]tinerețe și no[Bm]roc/ x2
+Era frumos și blând, săracul
+zburda mereu din loc în loc
+/Venise ca o vrajă nouă
+de tinerețe și noroc/ x2
 
-În[Bm]tinereau văzând cu ^ochii moș^neagul și cu baba [Em]lui
-/Și [Em]se făcuse lumi[Bm]noasă în[A]tunecimea codru[Bm]lui/ x2
+Întinereau văzând cu ochii
+moșneagul și cu baba lui
+/Și se făcuse luminoasă
+întunecimea codrului/ x2
 
-Dar [Bm]într-o zi trecu pe-a^colo fe^ciorul unui împă[Em]rat
-/Cu [Em]ceata de curteni, cu [Bm]arcuri și [A]cu ogarii la vâ[Bm]nat/ x2
+Dar într-o zi trecu pe-acolo
+feciorul unui împărat
+/Cu ceata de curteni, cu arcuri
+și cu ogarii la vânat/ x2
 
-Dă-mi [Bm]mie cerbul, măi moș^nege îti ^dau pe el tot ce-ți do[Em]rești
-/Îti [Em]dau averi, îți dau și [Bm]cinste și-oș[A]tirile împără[Bm]tești/ x2
+Dă-mi mie cerbul, măi moșnege
+îti dau pe el tot ce-ți dorești
+/Îti dau averi, îți dau și cinste
+și-oștirile împărătești/ x2
 
-Nu [Bm]vreau averi, nu vreau nici ^cinste sunt ^prea bătrân să le pri[Em]mesc
-/Dar [Em]dacă cerbul vrea să [Bm]vină eu [A]ție azi ți-l dăru[Bm]iesc/ x2
+Nu vreau averi, nu vreau nici cinste
+sunt prea bătrân să le primesc
+/Dar dacă cerbul vrea să vină
+eu ție azi ți-l dăruiesc/ x2
 
-Și [Bm]ce să vezi, minune ^mare în^treaga oaste ce vă[Em]zu
-/Cum [Em]cerbul nostru dă din [Bm]coarne de [A]parc-ar spune: Nu vreau, [Bm]nu/ x2
+Și ce să vezi, minune mare
+întreaga oaste ce văzu
+/Cum cerbul nostru dă din coarne
+de parc-ar spune: Nu vreau, nu/ x2
 
-Nu [Bm]vreau să merg la curtea ^voastră nu ^vreau să merg la împă[Em]rat
-/Voi [Em]m-ați rănit la vână[Bm]toare ei [A]rănile mi-au vinde[Bm]cat/ x2
+Nu vreau să merg la curtea voastră
+nu vreau să merg la împărat
+/Voi m-ați rănit la vânătoare
+ei rănile mi-au vindecat/ x2
 
-La [Bm]curtea ta aș fi o ^fiară o ^jucărie pentru [Em]proști
-/În [Em]viața lor sunt o lu[Bm]mină pe [A]care tu n-ai s-o cu[Bm]noști/ x2
+La curtea ta aș fi o fiară
+o jucărie pentru proști
+/În viața lor sunt o lumină
+pe care tu n-ai s-o cunoști/ x2
 
-Ple[Bm]că, pe gânduri, voie^vodul și ^se gândi că nu-i de-a[Em]juns
-/Să [Em]fii bogat, temut și [Bm]veșnic de [A]măreția ta pă[Bm]truns/ x2
+Plecă, pe gânduri, voievodul
+și se gândi că nu-i de-ajuns
+/Să fii bogat, temut și veșnic
+de măreția ta pătruns/ x2
 
-Mai [Bm]trebuie să ai un ^suflet mi^los și bun și iubi[Em]tor
-/Ca [Em]să poți fi iubit de [Bm]oameni și [A]de podoaba codri[Bm]lor/ x2
+Mai trebuie să ai un suflet
+milos și bun și iubitor
+/Ca să poți fi iubit de oameni
+și de podoaba codrilor/ x2
 ```
 
 #### Cine nu iubește muntele
