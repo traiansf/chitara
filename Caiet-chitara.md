@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (54 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (316 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (317 cântece)
 
-- [II.1 — Folk](#ii1--folk) (229 cântece)
+- [II.1 — Folk](#ii1--folk) (230 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
@@ -379,6 +379,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Lumină (III)](#lumină-iii)
 - [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea)
 - [Madama de pică](#madama-de-pică)
+- [Mai rămâi puțin](#mai-rămâi-puțin)
 - [Marea](#marea)
 - [Mielul (I)](#mielul-i)
 - [Mielul (II)](#mielul-ii)
@@ -5580,9 +5581,9 @@ Sursa: Cărticica Karban, p. 202
 
 **populara?/traditonal?** · Sursa: Cărticica Karban, p. 222 · Caiet cabană RO, p. 72
 
-**Chitară:** A x02220 · E 022100 · D xx0232
+**Chitară:** A x02220 · D xx0232 · E 022100
 
-**Ukulele:** A 2100 · E 4442 · D 2220
+**Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
 /[A]Și-aseară au venit/ x2
@@ -9839,7 +9840,7 @@ Refren x2
 
 #### Sunt sărac
 
-**Karma / Șoimii Boboc** · Sursa: Caiet Christian Adventure, p. 145 · Caiet cabană RO, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/karma/sunt-sarac-2876)
+**Buru (Adrian Burnichi)** · Sursa: Caiet Christian Adventure, p. 145 · Caiet cabană RO, p. 27 · [YouTube (Buru)](https://www.youtube.com/watch?v=3TsS5pm-O60)
 
 **Chitară:** Am x02210 · Dm xx0231 · E 022100
 
@@ -10184,36 +10185,33 @@ Dacă cineva își aduce aminte îl rog să îmi scrie.
 **Ukulele:** Dm 2210 · C 0003 · A 2100
 
 ```text
-Dm               C         A         Dm
-Era blondă tunsă scurt, se purta la minijup
-Se ducea la cinema și eu m-am luat după ea
-Lângă ea m-am așezat și timid am întrebat
-Aș da tot s-o întâlnesc și să-i spun cât o iubesc
+[Dm]  Era blondă [C]tunsă scurt, [A]  se purta la [Dm]minijup
+[Dm]  Se ducea la [C]cinema [A]  și eu m-am luat [Dm]după ea
+[Dm]  Lângă ea m-am [C]așezat [A]  și timid am [Dm]întrebat
+[Dm]  Aș da tot s-o [C]întâlnesc [A]  și să-i spun cât [Dm]o iubesc
 
 Refren:
- Dm                  C
-Sunt un vagabond și n-am niciun rost
- A                 Dm
-Dar aș vrea să te cunosc
-Sunt un vagabond și n-am niciun ban
-Dar aș vrea ca să te am
+[Dm]Sunt un vagabond și [C]n-am niciun rost
+[A]  Dar aș vrea să [Dm]te cunosc
+[Dm]Sunt un vagabond și [C]n-am niciun ban
+[A]  Dar aș vrea ca [Dm]să te am
 
-Ești o vagaboandă și n-ai nicio soartă
-Dar aș vrea să-mi fii amantă
-Sunt un vagabond și n-am nici un rost
-Dar aș vrea să te cunosc
+[Dm]Ești o vagaboandă și [C]n-ai nicio soartă
+[A]  Dar aș vrea să-mi [Dm]fii amantă
+[Dm]Sunt un vagabond și [C]n-am nici un rost
+[A]  Dar aș vrea să [Dm]te cunosc
 
-Frumoasă ai fost mereu și vei rămâne-ntotdeauna
-Vei apărea-n sufletul meu cum pe cer apare luna
-A doua zi de dimineață ea în poartă m-aștepta
-Erai în haine kaki, nu credeam c-ai să mai vii
+[Dm]  A doua zi de [C]dimineață [A]  ea în poartă [Dm]m-aștepta
+[Dm]  Erai în hai[C]ne kaki, [A]  nu credeam c-ai [Dm]să mai vii
+[Dm]  Frumoasă ai [C]fost mereu [A]  și vei rămâne-n[Dm]totdeauna
+[Dm]  Vei apărea în [C]sufletul meu [A]  cum pe cer a[Dm]pare luna
 
 Refren
 
-După nouă luni jumate ea în poartă m-aștepta
-C-un copil micuț în brațe, plângea și mă blestema
-Iar acum am viața-amară, plătesc pensie-alimentară
-Un copil făcut în pripă fără niciun fel de frică
+[Dm]  După nouă [C]luni jumate [A]  ea în poartă [Dm]m-aștepta
+[Dm]  C-un copil mi[C]cuț în brațe, [A]  plângea și mă [Dm]blestema
+[Dm]  Iar acum am [C]viața-amară, [A]  plătesc pensie-a[Dm]limentară
+[Dm]  C-un copil fă[C]cut în pripă [A]  fără niciun [Dm]fel de frică
 
 Refren
 ```
@@ -15500,6 +15498,45 @@ Un [A]val, o [E]da
 [D]Pe masă, duioasă, o [E]carte
 [A]O dama din jocul de [Bm]moarte
 [A]Ce parcă viata prin[E]dea
+```
+
+#### Mai rămâi puțin
+
+**Conexiuni** · Sursa: [YouTube (Ana Teodora)](https://www.youtube.com/watch?v=RkupY8aDr6o)
+
+**Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Em 022000
+
+**Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · Em 0432
+
+```
+Ai ve[C]nit.. De [G]ce? Ai ui[F]tat ceva sau [G]poate
+Vrei să-mi [C]spui pentru [G]ce, ai să [F]lași în urmă [G]toate
+Câte-au [F]fost între [G]noi, să-ncerci să [Am]mai ga[Em]sești vreun [F]rost,
+Vreun mo[F]tiv să a[G]mâni ce e de-a[C]cum defini[G]tiv.  ^
+
+Ia un [C]loc, îl mai [G]ai, pân' la [F]miezul nopții [G]este
+Timp des[C]tul să mai [G]stai, poate [F]vrei să trecem [G]peste
+Inhi[F]bări și tris[G]teți cu iz de [Am]gări sau [Em]poate-a[F]cum
+Vrei sa [F]uiți ce pu[G]țin rămâne [C]până pleci la [G]drum...  ^
+
+Refren:
+Mai rămâi pu[C]țin, te [G]rog, este [F]cea din urmă [G]seară
+Efemeră [C]ca un [G]nor, vraja [F]n-o lăsa sa [G]piară
+Lasă-ți părul [Am]să-l a[Em]lint, să-mi în[F]șire-n mână [G]salbe
+Zbor de vise [Am]ce nu [Em]mint în plu[F]tiri de aripi [G]albe...
+Mai lasă-mi-te-o [C]zi...  ^
+
+Te mai [C]vreau si [G]azi, ca o [F]ploaie de lu[G]mină,
+Peste [C]trup să-mi [G]cazi și-ntr-o [F]liniște de[G]plină
+Să co[F]lind ceru-n [G]ochii tăi și [Am]stropi de [Em]stea ce [F]vin
+Să îi [F]prind, când vei [G]fi departe [C]dorul să-mi a[G]lin.
+
+Să nu [C]spui ni[G]mic, nu-i ne[F]voie de cu[G]vinte
+Mai a[C]dormi un [G]pic să-mi ră[F]mâi așa în [G]minte.
+S-a fă[F]cut prea [G]târziu ca să mai [Am]pleci și [Em]trenul [F]tău
+A tre[F]cut – neîmpli[G]nit rămane [C]astăzi rostul [G]său
+
+Refren x2
 ```
 
 #### Marea
@@ -35773,6 +35810,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Bob Dylan** — [Don't Think Twice, It's Alright](#dont-think-twice-its-alright), [Knockin' on Heaven's Door](#knockin-on-heavens-door), [Mr. Tambourine Man](#mr-tambourine-man-1)
 - **Bosquito** — [Bosquito](#bosquito), [Tigano](#tigano)
 - **Brenda Lee** — [Rocking Around the Christmas Tree](#rocking-around-the-christmas-tree)
+- **Buru (Adrian Burnichi)** — [Sunt sărac](#sunt-sărac)
 - **...ca și completare la Katiusa (prima variantă)** — [Katiusa (variantă)](#katiusa-variantă)
 - **CALEnDAR** — [Un munte așternut](#un-munte-așternut)
 - **Cântece Horror** — [Bing bang (I)](#bing-bang-i)
@@ -35786,7 +35824,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Celelalte Cuvinte** — [Dacă vrei](#dacă-vrei)
 - **Coborâi din deal în vale** — [Omul pădurii (II)](#omul-pădurii-ii)
 - **Compact** — [Cântec pentru prieteni](#cântec-pentru-prieteni), [Fata din vis](#fata-din-vis), [Îmi pare rău](#îmi-pare-rău), [Singur în noapte (I)](#singur-în-noapte-i), [Singur în noapte (II)](#singur-în-noapte-ii), [Un alt început](#un-alt-început)
-- **Conexiuni** — [Tu](#tu)
+- **Conexiuni** — [Mai rămâi puțin](#mai-rămâi-puțin), [Tu](#tu)
 - **Contrapunct** — [Pat de flori](#pat-de-flori)
 - **Costică David** — [Cine nu iubește muntele](#cine-nu-iubește-muntele), [Dor de munți](#dor-de-munți), [Trenul dragostei](#trenul-dragostei)
 - **Costica David** — [Dar nu-s normali](#dar-nu-s-normali)
@@ -35829,7 +35867,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **José Feliciano** — [Feliz Navidad](#feliz-navidad)
 - **Karma** — [Ai venit](#ai-venit), [Alții mama nu mai face](#alții-mama-nu-mai-face), [Amintiri](#amintiri), [Bunica](#bunica), [Călător](#călător), [În loc de bun rămas](#în-loc-de-bun-rămas), [Lacrimi și surâs](#lacrimi-și-surâs), [Mă întorc și pașii-s grei](#mă-întorc-și-pașii-s-grei), [Muntele alb](#muntele-alb), [Copilița fără minte](#copilița-fără-minte), [Puștoaică de liceu](#puștoaică-de-liceu), [Colindă tristă (I)](#colindă-tristă-i), [Colindă tristă (II)](#colindă-tristă-ii)
 - **Karma (original [Florin Thomits/Elegis](https://www.youtube.com/watch?v=MopRBC7zAfs)** — [Țurțuri metalici](#țurțuri-metalici)
-- **Karma / Șoimii Boboc** — [Singuratic](#singuratic), [Tardive](#tardive), [Sunt sărac](#sunt-sărac)
+- **Karma / Șoimii Boboc** — [Singuratic](#singuratic), [Tardive](#tardive)
 - **Led Zeppelin** — [Stairway to Heaven](#stairway-to-heaven)
 - **Luna amară** — [Roșu aprins](#roșu-aprins)
 - **Mădălina Amon** — [O nouă viață](#o-nouă-viață), [Amintire de fum](#amintire-de-fum)
