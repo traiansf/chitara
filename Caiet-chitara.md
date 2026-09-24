@@ -1070,7 +1070,7 @@ Refren x2
 
 #### Balada fulgerată de vânt
 
-**Vârf Carpatin / Roza Vânturilor / Narcisa Suciu** · Sursa: Caiet cabană RO, p. 36 · Caiet Christian Adventure, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/varf-carpatin/balada-fulgerata-de-vant-317)
+**Valentin Moldovan / Orizont 77 (versuri Ion Voicu)** · Sursa: Caiet cabană RO, p. 36 · Caiet Christian Adventure, p. 134 · [YouTube (Ana Teodora)](https://www.youtube.com/watch?v=QJwvBURp7h4)
 
 **Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
 
@@ -2698,14 +2698,14 @@ Refren (x2):
 [Am]  Floare [E]ninsă-n vârf de [Am]stâncă  ^
 [Dm]  Mai pre^sus de nori și [Am]stele  ^
 [Dm]  Cine ^oare să te-aj[Am]ungă  ^
-[E]  Numai ^dorurile [Am]mele
+[E]  Numai ^dorurile [Am]mele  ^
 
 Refren
 
-[Am]  Floare [E]de lumină [Am]vie
-[Dm]  Zâmbet ^cald de dimi[Am]neață
-[Dm]  Te aș^tept de-o veșni[Am]cie
-[E]  Te-ntâl^nesc o dată-n [Am]viață
+[Am]  Floare [E]de lumină [Am]vie  ^
+[Dm]  Zâmbet ^cald de dimi[Am]neață  ^
+[Dm]  Te aș^tept de-o veșni[Am]cie  ^
+[E]  Te-ntâl^nesc o dată-n [Am]viață  ^
 
 Refren
 
@@ -2765,7 +2765,7 @@ Tradăti de frunziș, cu puii uciși.
 [D]N-o știi ^nimeni ^că m-am ^dus
 [A]Numa’ ^or ve[D]dea că [A]nu-s ^
 [D]Sus e ^cerul, ^largă-i ^lumea
-[A]Bine ^c-a-nfrun[D]zit pă[A]du[D]rea.
+[A]Bine ^c-a-nfrun[D]zit pă[A]du[D]rea.  ^
 
 R:
 [D]Hai, [D7]hai, [G]hai, hai, di[D]hai, dihai
@@ -2775,7 +2775,7 @@ R:
 [D]Sus e ^cerul ^largă-i ^lumea
 [A]N-o ști ^nimeni [D]că m-am [A]dus ^
 [D]Bine ^c-a-nfrun^zit pă^durea
-[A]Numai ^or ve[D]dea [A]că [D]nu-s.
+[A]Numai ^or ve[D]dea [A]că [D]nu-s.  ^
 ```
 
 #### Hai să ne imaginăm
@@ -3611,9 +3611,9 @@ Refren x2
 **Ukulele:** Em 0432 · G 0232 · C 0003 · D 2220
 
 ```text
-[Em]  Merg pe unduite [G]căăăăăăăăă[C]ăi
+[Em]  Merg pe unduite [G]că[C]ăi
 Încâlciți sunt pașii [Em]mei  ^
-[Em]  Rucsacul m-apasă [G]greeeeeeee[C]eu
+[Em]  Rucsacul m-apasă [G]gre[C]eu
 Iară eu prin munți me[Em]reu  ^
 
 Refren:
@@ -3622,19 +3622,19 @@ Ia, [(G)]hai, hai, [D]hai
 Las în urma munții [Em]mei
 Ia, [(G)]hai, hai, [D]hai
 Mă întorc si pașii-s [Em]grei
-Ia, hai, hai, [D]hai
+Ia, [(G)]hai, hai, [D]hai
 Mă gândesc numai la [Em]ei  ^
 
-[Em]  Munții cât am străbă[G]tuuuu[C]ut
-Să m-opresc nu am pu[Em]tut
-Înfruntând și ploi și [G]vâââââ[C]ânt
-Vreau pe creste să a[Em]jung
+[Em]  Munții cât am străbă[G]tu[C]ut
+Să m-opresc nu am pu[Em]tut  ^
+Înfruntând și ploi și [G]vâ[C]ânt
+Vreau pe creste să a[Em]jung  ^
 
 Refren
 
-[Em] Cerul arde-n curcu[G]beeeee[C]eu
+[Em] Cerul arde-n curcu[G]be[C]eu
 Iară eu prin munți me[Em]reu  ^
-[Em]  Rucsacul m-apasă [G]greeeee[C]eu
+[Em]  Rucsacul m-apasă [G]gre[C]eu
 Încâlcit e drumul [Em]meu  ^
 
 Refren x2
@@ -4429,9 +4429,9 @@ Refren x2
 
 ```text
 [C]Eram mic și ^îmi plăcea ^munții să-i pic[G]tez
-Și [F]în imagini colorate [G]  să-i dese[C]nez
+Și [F]în imagini ^colorate [G]  să-i dese[C]nez
 [C]Nopți cu lună ^pe hartie ^eu am dese[G]nat
-Si [F]cu rucsacul in spate [G]eu munții i-am um[C]blat.
+Si [F]cu rucsacul in ^spate eu [G]munții i-am um[C]blat.
 
 Refren:
 Dar [C]mama și ^tata mă ^cred un ne[G]bun
@@ -35950,13 +35950,13 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
 - **Ursul Trubadur** — [Luna în cascade](#luna-în-cascade), [Pădure nebună](#pădure-nebună), [Viață de vagabond](#viață-de-vagabond)
+- **Valentin Moldovan / Orizont 77 (versuri Ion Voicu)** — [Balada fulgerată de vânt](#balada-fulgerată-de-vânt)
 - **Valeriu Sterian** — [Amintire cu haiduci](#amintire-cu-haiduci), [Cântec de oameni](#cântec-de-oameni), [Anxietate](#anxietate), [Nopți (I)](#nopți-i), [Nopți (II)](#nopți-ii)
 - **Vali Șerban** — [Avram Iancu](#avram-iancu), [Tron în Apuseni (Vali Șerban)](#tron-în-apuseni-vali-șerban)
 - **Vama Veche** — [Am doar 18 ani](#am-doar-18-ani), [Calul din Malboro](#calul-din-malboro), [Nu am chef azi](#nu-am-chef-azi)
 - **Vampy** — [Prietene](#prietene)
 - **Varf Carpatin** — [Imnul Pietrei Craiului](#imnul-pietrei-craiului)
 - **Vârf Carpatin** — [Vulturul](#vulturul)
-- **Vârf Carpatin / Roza Vânturilor / Narcisa Suciu** — [Balada fulgerată de vânt](#balada-fulgerată-de-vânt)
 - **Vasile Leva / Valentin Moldovan** — [Balada Străinului (Râpa)](#balada-străinului-râpa)
 - **Vasile Mărdare** — [Cabana](#cabana), [Păpușarii](#păpușarii)
 - **Vasile Mardare** — [Iubito](#iubito), [Romanță de toamnă](#romanță-de-toamnă)

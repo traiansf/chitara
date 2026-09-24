@@ -39,7 +39,7 @@
 - Om bun [Dm]
 - Pasiune (de a fi munțoman) [C]
 - Pădure nebună [Dm]
-- Rămas bun cabanei [G]
+- Rămas bun cabanei [F]
 - Balada Străinului (Râpa) [Am]
 - Seara de mai [C]
 - Singuratic [Am]
