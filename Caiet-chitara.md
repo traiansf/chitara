@@ -24,16 +24,16 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (202 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (201 cântece)
 
-- [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (105 cântece)
+- [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (24 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (54 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (315 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (316 cântece)
 
-- [II.1 — Folk](#ii1--folk) (227 cântece)
+- [II.1 — Folk](#ii1--folk) (228 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (88 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
@@ -141,7 +141,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Tropa trop](#tropa-trop)
 - [Tropa trop spre cabană](#tropa-trop-spre-cabană)
 - [Țurțuri metalici](#țurțuri-metalici)
-- [Ultima zi](#ultima-zi)
 - [Un lup](#un-lup)
 - [Un munte așternut](#un-munte-așternut)
 - [Vagabonzi](#vagabonzi)
@@ -470,6 +469,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Trandafirul albastru](#trandafirul-albastru)
 - [Tristă fiară](#tristă-fiară)
 - [Tu](#tu)
+- [Ultima zi](#ultima-zi)
 - [Umbra (I)](#umbra-i)
 - [Umbra (II)](#umbra-ii)
 - [Umbra (III)](#umbra-iii)
@@ -4991,49 +4991,9 @@ Refren
 
 ```
 
-#### Ultima zi
-
-Sursa: Caiet cabană RO, p. 46 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ultima-zi-5404)
-
-**Chitară:** Em 022000 · Am x02210 · B7 x21202
-
-**Ukulele:** Em 0432 · Am 2000 · B7 2322
-
-```text
-1.
-      Em
-Dacă va veni cea din urmă zi
-Am Em B7
-S-o trăim măcar pe ea frumos
- Em
-SĂ plecăm în munți unde-s numai punți
-Am        B7          Em
-Unde merg și vulturii pe jos.
-
-R:
-Am     Em
-Ce a fost a fost
-   B7       Em
-Ce va fi va fi
-  Am     B7         Em
-Uite c-a venit ultima zi.
-
-2.
-S-avem niște vin să dormim puțin
-Cu anestezii de cabernet
-Eu să te ascult iar tu să taci mult
-SĂ ne depănăm viața încet.
-
-3.
-Iar la cap de zi pentru a sfârși
-Mergem amândoi ca niște proști
-Viața noastră-n doi va avea apoi
-Un târziu zadarnic happy end.
-```
-
 #### Un lup
 
-**Roa** · Sursa: Caiet Christian Adventure, p. 164
+**RoA** · Sursa: Caiet Christian Adventure, p. 164
 
 **Chitară:** Dm xx0231 · Bb x13331 · C x32010 · F 133211 · Gm 355333
 
@@ -19652,6 +19612,46 @@ Ești chemarea de demult,
 Ce mă face să nu-mi aparțin
 Nu mai sunt eu, nu mai e nimic al meu
 Ești tu... Nu pleca, nu spune nu..
+```
+
+#### Ultima zi
+
+**Alexandru Zărnescu / Adrian Păunescu** · Sursa: Caiet cabană RO, p. 46 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/ultima-zi-5404)
+
+**Chitară:** Em 022000 · Am x02210 · B7 x21202
+
+**Ukulele:** Em 0432 · Am 2000 · B7 2322
+
+```text
+1.
+      Em
+Dacă va veni cea din urmă zi
+Am Em B7
+S-o trăim măcar pe ea frumos
+ Em
+SĂ plecăm în munți unde-s numai punți
+Am        B7          Em
+Unde merg și vulturii pe jos.
+
+R:
+Am     Em
+Ce a fost a fost
+   B7       Em
+Ce va fi va fi
+  Am     B7         Em
+Uite c-a venit ultima zi.
+
+2.
+S-avem niște vin să dormim puțin
+Cu anestezii de cabernet
+Eu să te ascult iar tu să taci mult
+SĂ ne depănăm viața încet.
+
+3.
+Iar la cap de zi pentru a sfârși
+Mergem amândoi ca niște proști
+Viața noastră-n doi va avea apoi
+Un târziu zadarnic happy end.
 ```
 
 #### Umbra (I)
@@ -35794,6 +35794,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Adrian Ivanițchi** — [Amintirea paradisului](#amintirea-paradisului), [Arsură (I)](#arsură-i), [Arsură (II)](#arsură-ii), [Arsură (III)](#arsură-iii)
 - **Albatros** — [Uiuiui brădui](#uiuiui-brădui), [O, mama](#o-mama)
 - **Alexandru Andrieș** — [Dracula blues](#dracula-blues), [Mihai, câți copii îmi dai?](#mihai-câți-copii-îmi-dai)
+- **Alexandru Zărnescu / Adrian Păunescu** — [Ultima zi](#ultima-zi)
 - **Anda Călugăreanu** — [Tăcut](#tăcut), [Verde crud (I)](#verde-crud-i), [Verde crud (II)](#verde-crud-ii)
 - **Andrei Mureșan** — [Deșteaptă-te române (I)](#deșteaptă-te-române-i)
 - **Andrei Mureșanu** — [Deșteaptă-te române (II)](#deșteaptă-te-române-ii)
