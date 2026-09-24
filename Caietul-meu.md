@@ -48,3 +48,5 @@
 - Tropa trop [C]
 - Țurțuri metalici [C]
 - Visul [C]
+- Bade pălărie nouă [C]
+- Caravanele [C]

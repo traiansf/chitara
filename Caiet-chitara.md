@@ -24,17 +24,17 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (201 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (200 cântece)
 
 - [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
-- [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (24 cântece)
+- [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (23 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (54 cântece)
 
 **[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (316 cântece)
 
-- [II.1 — Folk](#ii1--folk) (228 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (88 cântece)
+- [II.1 — Folk](#ii1--folk) (229 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
 
@@ -157,8 +157,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 ### I.2 — Populare și lăutărești (alfabetic)
 
 - [Bade pălărie nouă](#bade-pălărie-nouă)
-- [Caravanele (I)](#caravanele-i)
-- [Caravanele (II)](#caravanele-ii)
+- [Caravanele](#caravanele)
 - [Ciuleandra](#ciuleandra)
 - [De-ar fi mândra-n deal la cruce](#de-ar-fi-mândra-n-deal-la-cruce)
 - [După pui de moroșan](#după-pui-de-moroșan)
@@ -346,6 +345,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Floarea](#floarea)
 - [Focul vânăt (I)](#focul-vânăt-i)
 - [Focul vânăt (II)](#focul-vânăt-ii)
+- [Focuri vii](#focuri-vii)
 - [Fostele iubiri](#fostele-iubiri)
 - [Frunza (I)](#frunza-i)
 - [Frunza (II)](#frunza-ii)
@@ -523,7 +523,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Fată verde (II)](#fată-verde-ii)
 - [Fată verde (III)](#fată-verde-iii)
 - [Fluier în cer](#fluier-în-cer)
-- [Focuri vii](#focuri-vii)
 - [Hăituit](#hăituit)
 - [Iepuraș coconaș](#iepuraș-coconaș)
 - [Îmi pare rău](#îmi-pare-rău)
@@ -5550,116 +5549,80 @@ Sursa: Cărticica Karban, p. 202
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
-[D]Bade pălărie nouă,
-[A]Să, ri da ri da ri [D]da
-[D]Tu mi-ai rupt inima-n două,
-[A]Să, ri da ri da ri [D]da
-[D]Tu mi-ai [G]rupt-o, tu mi-o coase,
-[D]Cu fir roșu de mătase,
-[A]Să di ra [D]Să di ra di da
-[A]Să di ra di da di [D]ra
-[D]Badea-i om de omenie,
-[A]Să, ri da ri da ri [D]da
-[D]Dar sărutul nu-l prea știe,
-[A]Să, ri da ri da ri [D]da
-[D]Și mă [G]roagă ziua toată,
-[D]Ca să-l mai sărut odată,
-[A]Să di ra [D]Să di ra di da
-[A]Să di ra di da di [D]ra
+[D]Bade pălă^rie nouă,
+[A]Șai, diri, diri di[D]ra
+[D]Tu mi-ai rupt i^nima-n două,
+[A]Șai, diri, diri di[D]ra
+
+/[G]Tu mi-ai rupt-o, ^tu mi-o coase,
+[D]Cu fir roșu ^de mătase,
+[A]Șai diri [D]Șai diridira
+[A]Șai, diri, diri di[D]ra/ x2
+
+[D]Badea-i om de ^omenie,
+[A]Șai, diri, diri di[D]ra
+[D]Dar sărutul ^nu-l prea știe,
+[A]Șai, diri, diri di[D]ra
+
+[G]Și mă roagă ^ziua toată,
+[D]Ca să-l mai să^rut odată,
+[A]Șai diri [D]Șai diridira
+[A]Șai, diri, diri di[D]ra
+
+[G]Io-l sărut de ^nu mai pot,
+[D]Dar el nu-nva^ță deloc
+[A]Șai diri [D]Șai diridira
+[A]Șai, diri, diri di[D]ra
+
 ```
 
-#### Caravanele (I)
+#### Caravanele
 
-**populara?/traditonal?** · Sursa: Caiet cabană RO, p. 72
-
-**Chitară:** A x02220 · D xx0232 · E 022100
-
-**Ukulele:** A 2100 · D 2220 · E 4442
-
-```text
-1.
-    A
-Și-aseară au venit
-     D        E       A
-Țiganii în satul meu
-Câinii toți lătrau
-Și țigăncile dansau.
-
-R:
-Caravanele, caravanele
-Ia uitați țigăncile!
-Caravanele, caravanele
-Cum le joacă fustele.
-
-2.
-Și-n șatră era
-O Țigancă frumușa
-Cine o vedea
-De ea se îndrăgostea.
-
-3.
-Și-un băiat din sat
-De țigancă a aflat
-Și la ea s-a dus
-Și norocul i l-a spus.
-
-4.
-Constantin te cheamă
-Dragă călătorule
-EȘti băiat de seamă
-Dar te strică fetele.
-
-5.
-Și-aseară au plecat
-Țiganii din satul meu
-Câinii toți lătrau
-Și țigăncile dansau.
-```
-
-#### Caravanele (II)
-
-**populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 222
+**populara?/traditonal?** · Sursa: Cărticica Karban, p. 222 · Caiet cabană RO, p. 72
 
 **Chitară:** A x02220 · E 022100 · D xx0232
 
 **Ukulele:** A 2100 · E 4442 · D 2220
 
 ```text
-[A]Și-aseară au venit
-[E]Și-aseară au venit
-[D]Țiga[E]nii în satul [A]meu
-[A]Câinii toți lătrau
-[E]Câinii toți lătrau
+/[A]Și-aseară au venit/ x2
+[D]Țiga[E]nii în satul [A]meu, ooo
+/[A]Câinii toți lătrau/ x2
 [D]Și ți[E]găncile dan[A]sau.
+
 Refren:
-[A]Caravanele, [E]caravanele
-[D]Ia ui[E]tați țigăn[A]cile!
-[A]Caravanele, [E]caravanele
+[A]Caravanele, ^caravanele
+[D]Ia ui[E]tați țigăn[A]cile!, ooo
+[A]Caravanele, ^caravanele
 [D]Cum le [E]joacă fus[A]tele.
-[A]Și-n satra era
-[E]Și-n satra era
-[D]O ți[E]gancă fru[A]mușa
-[A]Cine o vedea
-[E]Cine o vedea
+
+/[A]Și-n satra era/ x2
+[D]O ți[E]gancă fru[A]mușa, ooo
+/[A]Cine o vedea/ x2
 [D]De ea [E]se îndrăgos[A]tea.
-[A]Și-un băiat din sat
-[E]Și-un băiat din sat
-[D]De ți[E]gancă a a[A]flat
-[A]Și la ea s-a dus
-[E]Și la ea s-a dus
+
+Refren
+
+/[A]Și-un băiat din sat/ x2
+[D]De ți[E]gancă a a[A]flat, ooo
+/[A]Și la ea s-a dus/ x2
 [D]Și no[E]rocul i l-a [A]spus.
-[A]Constantin te cheamă
-[E]Constantin te cheamă
-[D]Dragă [E]călătoru[A]le
-[A]Ești băiat de seama
-[E]Ești băiat de seama
+
+Refren
+
+/[A]Constantin te cheamă/ x2
+[D]Dragă [E]călătoru[A]le, ooo
+/[A]Ești băiat de seamă/ x2
 [D]Dar te [E]strică fete[A]le.
-[A]Și-aseară au plecat
-[E]Și-aseară au plecat
+
+Refren
+
+/[A]Și-aseară au plecat/ x2
 [D]Țiga[E]nii din satul [A]meu
-[A]Câinii toți lătrau
-[E]Câinii toți lătrau
+/[A]Câinii toți lătrau/ x2
 [D]Și ți[E]găncile dan[A]sau.
+
+Refren
 ```
 
 #### Ciuleandra
@@ -14015,6 +13978,45 @@ La scandal renunț întâia oară.
 [Em]La scandal re[B7]nunț intaia [Em]oară
 ```
 
+#### Focuri vii
+
+**Focul viu** · Sursa: Caiet Christian Adventure, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/focuri-vii-3204)
+
+**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
+
+**Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
+
+```text
+Am                Dm
+Pe-un covor de frunze în codrii bătrâni
+G        C     E
+Unde doina plânge după-a ei stăpâni
+Un gorun se stinge trist și obosit
+Un izvor îl plânge, codrul l-a iubit
+
+Refren:
+          Dm   G           C Am
+Și iar în linistea ce ne-nconjoară
+    Dm       E         Am
+Se-aprind pe creste focuri vii
+Și saltă dacii-n șei ca-ntâia oară
+Gonind sălbatici spre a lor câmpii
+
+Vântul lin adie și mă-ncearcă-un gând
+Dragostea de codri și de-al meu pământ
+Dacii-mine-nvie, ies din pieptul meu
+Căci pe-a lor moșie vor trăi mereu
+
+Refren
+
+Vino tu străbune, rupe lanțul greu,
+Cântă iar izvoare pe pământul meu
+Codrii toți învie, iar gorunii cresc
+Pe pământu-mi liber din izvor ceresc
+
+Refren
+```
+
 #### Fostele iubiri
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Gheorghe Țărnea · Sursa: Cărticica Karban, p. 82
@@ -22125,45 +22127,6 @@ Lumea se auzea, cântec și balsam
 Lumea se lumina, ca și la-nceput
 Lumea se limpezea, se auzea,
 Cum bătea, inima.
-```
-
-#### Focuri vii
-
-**Phoenix** · Sursa: Caiet Christian Adventure, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/focul-viu/focuri-vii-3204)
-
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · E 022100
-
-**Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E 4442
-
-```text
-Am                Dm
-Pe-un covor de frunze în codrii bătrâni
-G        C     E
-Unde doina plânge după-a ei stăpâni
-Un gorun se stinge trist și obosit
-Un izvor îl plânge, codrul l-a iubit
-
-Refren:
-          Dm   G           C Am
-Și iar în linistea ce ne-nconjoară
-    Dm       E         Am
-Se-aprind pe creste focuri vii
-Și saltă dacii-n șei ca-ntâia oară
-Gonind sălbatici spre a lor câmpii
-
-Vântul lin adie și mă-ncearcă-un gând
-Dragostea de codri și de-al meu pământ
-Dacii-mine-nvie, ies din pieptul meu
-Căci pe-a lor moșie vor trăi mereu
-
-Refren
-
-Vino tu străbune, rupe lanțul greu,
-Cântă iar izvoare pe pământul meu
-Codrii toți învie, iar gorunii cresc
-Pe pământu-mi liber din izvor ceresc
-
-Refren
 ```
 
 #### Hăituit
@@ -35848,6 +35811,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Este unul din cântecele mele preferate dar destul de greu de explicat cum se** — [Cu galeata în mână](#cu-galeata-în-mână)
 - **Florian Pitiș** — [Ploaia care va veni (I)](#ploaia-care-va-veni-i), [Vinovații fără vină](#vinovații-fără-vină)
 - **Focul Viu** — [Viață de haiduc](#viață-de-haiduc), [Dacii liberi](#dacii-liberi), [Tristă fiară](#tristă-fiară)
+- **Focul viu** — [Focuri vii](#focuri-vii)
 - **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#ordinea-de-zi)
 - **Grupul Ecoul** — [Să trosnească lemne-n foc (I)](#să-trosnească-lemne-n-foc-i), [Să trosnească lemne-n foc (II)](#să-trosnească-lemne-n-foc-ii)
 - **Guns'n'roses** — [Don't Cry (I)](#dont-cry-i)
@@ -35895,7 +35859,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Adio, deci pe curând (I)](#adio-deci-pe-curând-i), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Cântecul bufonului (I)](#cântecul-bufonului-i), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dacă ai ghici](#dacă-ai-ghici), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Înțelegere (I)](#înțelegere-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Miruna (I)](#miruna-i), [Mr. Tambourine Man](#mr-tambourine-man), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i), [Vis de primăvară (I)](#vis-de-primăvară-i), [Vânare de vânt](#vânare-de-vânt)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
-- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri (I)](#vremuri-i), [Vremuri (II)](#vremuri-ii), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Focuri vii](#focuri-vii), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
+- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri (I)](#vremuri-i), [Vremuri (II)](#vremuri-ii), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Canarul (I)](#canarul-i), [Canarul (II)](#canarul-ii)
 - **Pink Floyd** — [Another Brick in the Wall](#another-brick-in-the-wall), [Wish You Were Here](#wish-you-were-here)
 - **Poesis(Pasărea Colibri** — [Cântec șoptit (I)](#cântec-șoptit-i), [Cântec șoptit (II)](#cântec-șoptit-ii)
@@ -35903,7 +35867,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **popular** — [Hai să-ntindem hora mare](#hai-să-ntindem-hora-mare)
 - **Popular din maramureș** — [După pui de moroșan](#după-pui-de-moroșan), [Așa beu oamenii buni](#așa-beu-oamenii-buni)
 - **popular/popular** — [Mă dusei să trec la Olt](#mă-dusei-să-trec-la-olt)
-- **populara?/traditonal?** — [Caravanele (I)](#caravanele-i), [Caravanele (II)](#caravanele-ii), [Inimă de țigancă (I)](#inimă-de-țigancă-i), [Inimă de țigancă (II)](#inimă-de-țigancă-ii), [Șatra (I)](#șatra-i), [Șatra (II)](#șatra-ii), [Țigăncușa (II)](#țigăncușa-ii)
+- **populara?/traditonal?** — [Caravanele](#caravanele), [Inimă de țigancă (I)](#inimă-de-țigancă-i), [Inimă de țigancă (II)](#inimă-de-țigancă-ii), [Șatra (I)](#șatra-i), [Șatra (II)](#șatra-ii), [Țigăncușa (II)](#țigăncușa-ii)
 - **Pro Musica** — [Dintre sute de catarge](#dintre-sute-de-catarge), [Glosă](#glosă), [Și dacă (I)](#și-dacă-i), [Și dacă (II)](#și-dacă-ii)
 - **Queen** — [I Want to Break Free](#i-want-to-break-free), [Love of My Life](#love-of-my-life)
 - **Radu Ilie** — [Și-am iubit o ardeleancă](#și-am-iubit-o-ardeleancă)
@@ -35911,7 +35875,8 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Reclamele sunt mici cântecele care la susținerea unui "concert" se cântă** — [Reclame](#reclame)
 - **Refren:** — [Tu Ardeal](#tu-ardeal)
 - **ROA** — [Deku](#deku)
-- **Roa** — [Un lup](#un-lup), [Vara sufletului meu](#vara-sufletului-meu)
+- **RoA** — [Un lup](#un-lup)
+- **Roa** — [Vara sufletului meu](#vara-sufletului-meu)
 - **Rolling Stones** — [Angie](#angie)
 - **Romanegila** — [Țigăncușa (I)](#țigăncușa-i)
 - **Ronnie Harwood** — [You Drive Me Crazy](#you-drive-me-crazy)
