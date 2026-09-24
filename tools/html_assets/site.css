@@ -75,7 +75,13 @@ pre {
 .pf { padding-top: 1.25em; line-height: 1.3; margin: 0; }
 .pf-plain { line-height: 1.3; margin: 0; }
 .pf-bl { height: 1.6em; margin: 0; }
-.pf-a { position: relative; display: inline-block; width: 0; }
+/* display: inline, not inline-block: an inline-block is an atomic
+   inline-level box that gets its own line-break opportunity even with no
+   whitespace around it, which can strand the chord on the previous line
+   while its syllable wraps down. Plain inline has no in-flow content of
+   its own (the label is taken out of flow by position: absolute) so it
+   still occupies zero width, but breaks only where the text does. */
+.pf-a { position: relative; display: inline; }
 .pf-a > span { position: absolute; left: 0; bottom: 0.75em; white-space: nowrap; }
 
 /* Tablature (make_pdf.tab_blocks): a monospace box of its own in every

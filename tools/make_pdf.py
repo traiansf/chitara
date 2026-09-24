@@ -1239,7 +1239,14 @@ pre {{ font-family: {MONO_STACK}; line-height: {LINE_H};
       margin: 0 0 -{PF_ROW_LEAD_EM:.3f}em; }}
 .pf-plain {{ line-height: 1.3; margin: 0; }}
 .pf-bl {{ height: {PF_BLANK_EM:.2f}em; margin: 0; }}
-.pf-a {{ position: relative; display: inline-block; width: 0; }}
+/* display: inline, not inline-block - an inline-block is an atomic
+   inline-level box that Chrome is free to give its own line-break
+   opportunity even with no whitespace around it, which stranded the
+   chord on the previous line while its syllable wrapped down. Plain
+   inline has no content of its own (the label is taken out of flow by
+   position: absolute) so it still occupies zero width, but now breaks
+   only where the surrounding text actually does. */
+.pf-a {{ position: relative; display: inline; }}
 /* a floated label keeps the plain line-height: .pf's taller one would
    centre it higher above its anchor */
 .pf-a > span {{ position: absolute; left: 0; bottom: 0.75em; white-space: nowrap;

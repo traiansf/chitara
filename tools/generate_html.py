@@ -191,7 +191,7 @@ def render_pre_interactive(body_lines):
 
 def render_prop_interactive(tokens, lyric):
     """HTML counterpart of make_pdf.render_prop_row: same natural-position
-    anchor (.pf-a, an inline-block of zero width sitting right where the
+    anchor (.pf-a, an inline span of zero width sitting right where the
     chord occurs in the text) and the same measured_spacing() nbsp padding
     to keep crowded labels apart, using real DejaVu Sans glyph widths
     (pymupdf) rather than a character count, which is meaningless in a
