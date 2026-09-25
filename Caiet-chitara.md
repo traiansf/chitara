@@ -24,10 +24,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (198 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (197 cântece)
 
 - [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
-- [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (21 cântece)
+- [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (20 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (54 cântece)
 
@@ -161,8 +161,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Ciuleandra](#ciuleandra)
 - [De-ar fi mândra-n deal la cruce](#de-ar-fi-mândra-n-deal-la-cruce)
 - [După pui de moroșan](#după-pui-de-moroșan)
-- [Frumoasă-i vecina noastră](#frumoasă-i-vecina-noastră)
-- [Ghezesu' (Cântec nou se la Salva Vișeu)](#ghezesu-cântec-nou-se-la-salva-vișeu)
+- [Frumoasă vecina noastră](#frumoasă-vecina-noastră)
 - [Inimă de țigancă (I)](#inimă-de-țigancă-i)
 - [Inimă de țigancă (II)](#inimă-de-țigancă-ii)
 - [Mă dusei să trec la Olt](#mă-dusei-să-trec-la-olt)
@@ -5743,9 +5742,9 @@ Sursa: Cărticica Karban, p. 205
 [D]Hai țurai, ta!
 ```
 
-#### Frumoasă-i vecina noastră
+#### Frumoasă vecina noastră
 
-**Tiberiu Ceia** · Sursa: Cărticica Karban, p. 209 []
+**Tiberiu Ceia** · Sursa: Cărticica Karban, p. 209 · [YouTube](https://www.youtube.com/watch?v=j7VHxyaYPTA)
 
 **Chitară:** D xx0232 · G 320003 · A x02220
 
@@ -5788,41 +5787,6 @@ Refren x2:
 [D]Că eu [G]cât trăiesc,
 [A]Tot am să iu[D]besc./ x2
 
-```
-
-#### Ghezesu' (Cântec nou se la Salva Vișeu)
-
-**Ion Cristoranu** · [youtube](https://youtu.be/aQyyPMMXHFA?si=v2VCRjnYtoOwV2om)
-
-```text
-De la Salva Vișeu, măi
-Iure mere Gezășu'  măi
-Ghezesu mere pe șine
-Mere zo că-i făcut bine
-
-Refren:
-Tri li li li li li li
-Tri li li li li li li
-Tri li li li li
-Tri li li li li
-
-Că și eu m-am căruțat, măi
-Și-am văzut, și-am și aflat, măi
-Ce-i mai nou pin'astă lume
-Că s-o făcut multe bune
-
-Refren
-
-Numa' bunăoar-amu, mă
-Bag' de seamă tot omu', mă
-Vre' să-și lucre pământu'
-Cu de-ălea motorizate
-Că dau mai multe bucate
-Tri li li li li li li
-Tri li li li li
-Tri li li li li
-
-...
 ```
 
 #### Inimă de țigancă (I)
@@ -35766,7 +35730,6 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Intro:** — [Te-am cunoscut în troleibuz (II)](#te-am-cunoscut-în-troleibuz-ii)
 - **Intro: E - A - E - B7 - A - E** — [Ce nasoala ești](#ce-nasoala-ești)
 - **Ion Cioroiu** — [M-a ținut mama acasă](#m-a-ținut-mama-acasă)
-- **Ion Cristoranu** — [Ghezesu' (Cântec nou se la Salva Vișeu)](#ghezesu-cântec-nou-se-la-salva-vișeu)
 - **Iris** — [Baby](#baby), [Strada ta (I)](#strada-ta-i), [Strada ta (II)](#strada-ta-ii), [Vis pierdut](#vis-pierdut)
 - **John Denver** — [Country Roads](#country-roads)
 - **John Lennon** — [Give Peace a Chance](#give-peace-a-chance), [Imagine](#imagine)
@@ -35851,7 +35814,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **The police** — [Every Breath You Take](#every-breath-you-take)
 - **The Righteous Brothers** — [Unchained Melody](#unchained-melody)
 - **Theo & Hara Band** — [Supărat](#supărat)
-- **Tiberiu Ceia** — [Frumoasă-i vecina noastră](#frumoasă-i-vecina-noastră)
+- **Tiberiu Ceia** — [Frumoasă vecina noastră](#frumoasă-vecina-noastră)
 - **Timpuri Noi** — [Mistrețul galben](#mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#munții-mei)
 - **Tradițional** — [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă (I)](#noapte-sfântă-i), [O, brad frumos! (I)](#o-brad-frumos-i)
