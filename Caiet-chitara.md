@@ -24,10 +24,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (197 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (196 cântece)
 
 - [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
-- [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (20 cântece)
+- [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (19 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (54 cântece)
 
@@ -162,8 +162,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [De-ar fi mândra-n deal la cruce](#de-ar-fi-mândra-n-deal-la-cruce)
 - [După pui de moroșan](#după-pui-de-moroșan)
 - [Frumoasă vecina noastră](#frumoasă-vecina-noastră)
-- [Inimă de țigancă (I)](#inimă-de-țigancă-i)
-- [Inimă de țigancă (II)](#inimă-de-țigancă-ii)
+- [Inimă de țigancă](#inimă-de-țigancă)
 - [Mă dusei să trec la Olt](#mă-dusei-să-trec-la-olt)
 - [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da)
 - [Omul bun și pomul copt](#omul-bun-și-pomul-copt)
@@ -5789,45 +5788,7 @@ Refren x2:
 
 ```
 
-#### Inimă de țigancă (I)
-
-**populara?/traditonal?** · Sursa: Caiet cabană RO, p. 67
-
-**Chitară:** A x02220 · E 022100 · D xx0232
-
-**Ukulele:** A 2100 · E 4442 · D 2220
-
-```text
-1.
-  A       E     A                D        A
-Inimă de țigancă, inimă de romancă
-                D                        A
-Inima mea te vrea, să-mi fii alăturea
-         E       A
-Inimă de țigancă .
-
-2.
-Și mama a fost neagră, lui tata i-a fost dragă
-Pe mine m-au făcut să beau să râd să cânt
-Inimă de țigancă .
-
-3.
-I am a lovely gipsy, I am a lovely gipsy
-I sing I sing for you, I dance I dance with you
-I am a lovely gipsy .
-
-4.
-Je suis une belle gitanne, je suis une belle gitanne
-Je chante, je chante pour toi, je dance, je dance pour toi
-Je suis une belle gitanne .
-
-5.
-Io sono la gitanna, io sono la gitanna
-Io amo, amo te, io canto, canto te
-Io sono la gitanna .
-```
-
-#### Inimă de țigancă (II)
+#### Inimă de țigancă
 
 **populara?/traditonal?** · muzica/versuri: popular/popular · Sursa: Cărticica Karban, p. 223
 
@@ -35774,7 +35735,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **popular** — [Hai să-ntindem hora mare](#hai-să-ntindem-hora-mare)
 - **Popular din maramureș** — [După pui de moroșan](#după-pui-de-moroșan), [Așa beu oamenii buni](#așa-beu-oamenii-buni)
 - **popular/popular** — [Mă dusei să trec la Olt](#mă-dusei-să-trec-la-olt)
-- **populara?/traditonal?** — [Caravanele](#caravanele), [Inimă de țigancă (I)](#inimă-de-țigancă-i), [Inimă de țigancă (II)](#inimă-de-țigancă-ii), [Șatra](#șatra), [Țigăncușa (II)](#țigăncușa-ii)
+- **populara?/traditonal?** — [Caravanele](#caravanele), [Inimă de țigancă](#inimă-de-țigancă), [Șatra](#șatra), [Țigăncușa (II)](#țigăncușa-ii)
 - **Pro Musica** — [Dintre sute de catarge](#dintre-sute-de-catarge), [Glosă](#glosă), [Și dacă (I)](#și-dacă-i), [Și dacă (II)](#și-dacă-ii)
 - **Queen** — [I Want to Break Free](#i-want-to-break-free), [Love of My Life](#love-of-my-life)
 - **Radu Ilie** — [Și-am iubit o ardeleancă](#și-am-iubit-o-ardeleancă)
