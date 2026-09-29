@@ -64,3 +64,5 @@
 - Viață de vagabond [Dm]
 - Arsură [C]
 - Bătălia s-a sfârșit, soldatul... [Am]
+- Cana cu vin [C]
+- Canarul [C]

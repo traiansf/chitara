@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (51 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (314 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (312 cântece)
 
-- [II.1 — Folk](#ii1--folk) (227 cântece)
+- [II.1 — Folk](#ii1--folk) (225 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
@@ -282,11 +282,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Boxerul](#boxerul)
 - [Cabana](#cabana)
 - [Caii liberi](#caii-liberi)
-- [Cana cu vin (I)](#cana-cu-vin-i)
-- [Cana cu vin (II)](#cana-cu-vin-ii)
+- [Cana cu vin](#cana-cu-vin)
 - [Canadiana](#canadiana)
-- [Canarul (I)](#canarul-i)
-- [Canarul (II)](#canarul-ii)
+- [Canarul](#canarul)
 - [Când s-o-mpărțit norocu'](#când-s-o-mpărțit-norocu)
 - [Când se lasă seara](#când-se-lasă-seara)
 - [Cântec bătrânesc](#cântec-bătrânesc)
@@ -11228,56 +11226,9 @@ Caii liberi nu se vând
 Caii sunt un ideal.
 ```
 
-#### Cana cu vin (I)
+#### Cana cu vin
 
-**Ecoul** · Sursa: Caiet cabană RO, p. 102
-
-**Chitară:** C x32010 · G 320003 · F 133211
-
-**Ukulele:** C 0003 · G 0232 · F 2010
-
-```text
-Sorina Claudia Blaj
-
-1.
-  C
-Aseară te-am așteptat
- G       C
-Și n-ai venit
-   C
-Poate te-ai supărat
- F         G    C
-Poate-ai adormit.
-
-R:
- C              F
-Deseară să nu m-aștepți
-    G            C
-Deseară n-am să vin
-Pentru două vorbe
-La o cană cu vin.
-
-Deseară să nu m-aștepți
-O, nu, n-am să vin
-Pentru "Bună, seara!"
-Atât, și-o cană cu vin.
-
-2.
-Speram ca într-o zi
-Și tu să mă iubești
-Dar din romanțe știu
-CĂ sperând greșești.
-
-3.
-De-acuma poți să pleci
-La alta liniștit
-Mi-am pierdut și timpul
-Și tot nu m-ai iubit.
-```
-
-#### Cana cu vin (II)
-
-**Ecoul** · muzica/versuri: Sorina Claudia Blaj/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 66
+**Ecoul** · muzica/versuri: Sorina Claudia Blaj/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 66 · Caiet cabană RO, p. 102
 
 **Chitară:** C x32010 · Csus4 x33011 · G 320003 · F 133211 · C4 x33011
 
@@ -11285,27 +11236,33 @@ Mi-am pierdut și timpul
 
 ```text
 [C]Aseară te-am aștep[Csus4]tat
-[G]Dar tu nu ai ve[C]nit,
+[G]Și n-ai ve[C]nit,
 [C]Poate te-ai supă[Csus4]rat,
-[F]Poate-[G]ai ador[C]mit.
+[F]Poate-ai [G]ador[C]mit.
+
 Refren:
 [C]Deseară să nu m-[F]aștepți
 [G]Deseară n-am să [C]vin
 [C]Pentru două [F]vorbe
-[G]La o cană cu [C]vin
-[C]Deseară să nu m-[F]aștepți
-[G]O, nu, n-am să [C]vin
+[G]  La o cană cu [C]vin
+
+[C]Deseară să [F]nu m-aștepți
+O, [G]nu, n-am să [C]vin
 [C]Pentr-un "Bună [F]seara"
-[G]Atât, și-o cană cu [C]vin.
+A[G]tât, și-o cană cu [C]vin.
+
 [C]Speram ca într-o [Csus4]zi
-[G]Și tu să mă iu[C]bești
-[C]Dar din romanțe [Csus4]știm
-[F]Ca dacă [G]speri gre[C]șești
+Și [G]tu să mă iu[C]bești
+Dar [C]din romanțe [Csus4]știm
+[F]Că spe[G]rând gre[C]șești
+
 Refren
+
 [C]De-acuma poți să [Csus4]pleci
 [G]La alta liniș[C]tit
-[C]Mi-am pierdut și tim[Csus4]pul
-[F]Și tot nu [G]m-ai iu[C]bit.
+[C]Mi-am pierdut și [Csus4]timpul
+Și [F]tot nu [G]m-ai iu[C]bit.
+
 Refren
 ```
 
@@ -11394,9 +11351,9 @@ Cu prefix de la Canada
 Refren Xn
 ```
 
-#### Canarul (I)
+#### Canarul
 
-**Phoenix/Pasărea Colibri** · Sursa: Cărticica Karban, p. 117
+**Phoenix/Pasărea Colibri** · muzica/versuri: F. Bordeianu, N. Covaci/V. Suvagau · Sursa: Cărticica Karban, p. 117, p. 118
 
 **Chitară:** C x32010 · Am7 x02010 · Am x02210 · Em7 020000 · F 133211 · Dm7 xx0211 · G 320003
 
@@ -11421,36 +11378,6 @@ Refren Xn
 [C]Și viersu-i [Em7]se [F]pierdea în [C]vânt
 [C]Și viersu-i [Em7]se [F]pierdea în [C]vânt
 [C]Și viersu-i [Em7]se [F]pierdea în [C]vânt
-```
-
-#### Canarul (II)
-
-**Phoenix/Pasărea Colibri** · muzica/versuri: F. Bordeianu, N. Covaci/V. Suvagau · Sursa: Cărticica Karban, p. 118
-
-**Chitară:** D xx0232 · G 320003 · A x02220
-
-**Ukulele:** D 2220 · G 0232 · A 2100
-
-```text
-[D]Canarul galben ca un gălbenuș
-[G]Cu pene [A]moi [G]și ochii [D]duși
-[D]Cânta de după sarmele de-argint
-[G]Și viersu-i [A]se [G]pierdea în [D]vânt
-[D]Deodată ochii mici din cap tresar
-[G]Și da din [A]aripi [G]dar în za[D]dar
-[D]Lovind cu pieptul sârmele de-argint
-[G]Căzu în [A]jos [G]cu pieptul [D]frânt.
-Refren:
-[G]Sărman ca[A]nar ți s-a pă[D]rut
-[G]Ca zări[A]le ți s-au des[D]chis
-[G]Dar n-a fost [A]doar decat un [D]vis
-[G]Rănit [A]tu ai că[D]zut
-[D]Canarul galben ca un gălbenuș
-[G]Cu pene [A]moi [G]și ochii [D]plânși
-[D]Plângea de după sârmele de-argint
-[G]Și plânsu-i [A]se [G]pierdea în [D]vânt.
-Refren
-Notă:O variantă mai simplă a melodiei. Recomandata pentru începători
 ```
 
 #### Când s-o-mpărțit norocu'
@@ -11754,7 +11681,7 @@ Soarele apune după niște mări
 
 #### Cântec șoptit (II)
 
-**Poesis(Pasărea Colibri** · muzica/versuri: Marius Bătu/Zaharia Stancu · Sursa: Cărticica Karban, p. 133
+**Poesis (Pasărea Colibri)** · muzica/versuri: Marius Bătu/Zaharia Stancu · Sursa: Cărticica Karban, p. 133 · Caiet cabană RO, p. 109
 
 **Chitară:** D xx0232 · G 320003 · A x02220
 
@@ -11765,14 +11692,17 @@ Soarele apune după niște mări
 [D]Am tras cu praștia-n ea și-am [A]lovit-o
 [G]Pe urma o [D]zi [G]și-o noapte în[D]treaga
 [G]Am tot [A]plâns-o și am tot [D]jelit-o
+
 [D]Nu m-a bătut mama, [G]nu m-a cer[D]tat
 [D]În mână țineam o bucată de [A]pâine
 [G]Degeaba mi-a [D]spus, [G]degeaba mai [D]plângi
 [G]Ce-ai omo[A]rât, omorât ră[D]mâne.
+
 [D]Mai târziu am cres[G]cut flăcă[D]iandru
 [D]Și m-am îndrăgostit nebunește de-o [A]fată
 [G]Și nu știu de [D]ce [G]într-o zi a mu[D]rit
 [G]Și-n altă [A]zi a fost îngro[D]pată
+
 [D]Demult nu mai trag cu [G]praștia-n [D]vrăbii
 [D]Demult nu mai merg la nici o-n[A]gropare
 [G]Și soarele a[D]pune [G]după niște mă[D]guri
@@ -35395,7 +35325,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#ce-frumos-e-sus-la-munte), [Evadare](#evadare), [În codrul verde](#în-codrul-verde), [Mă întorc la tine, muntele meu drag](#mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#vreau-să-trecem-marea)
 - **Ducu Bertzi** — [Floare de colț](#floare-de-colț), [Când s-o-mpărțit norocu'](#când-s-o-mpărțit-norocu), [Cântec bătrânesc](#cântec-bătrânesc), [Dans](#dans), [Dragu-mii veselia](#dragu-mii-veselia), [Focul vânăt (I)](#focul-vânăt-i), [Focul vânăt (II)](#focul-vânăt-ii), [Iertările](#iertările), [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea), [Nu am cer](#nu-am-cer), [Omul pădurii (I)](#omul-pădurii-i), [Pe cine și câte cărări](#pe-cine-și-câte-cărări), [Săracă inima me' (I)](#săracă-inima-me-i), [Săracă inima me' (II)](#săracă-inima-me-ii), [Și de-ar fi (I)](#și-de-ar-fi-i), [Și de-ar fi (II)](#și-de-ar-fi-ii), [Suflet fără chei](#suflet-fără-chei), [Cheamă-ți gazdă](#cheamă-ți-gazdă), [Corindăm, corindăm (I)](#corindăm-corindăm-i), [Pe podele de nuiele](#pe-podele-de-nuiele), [Seara serilor](#seara-serilor), [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem), [Plecarea](#plecarea), [Scrisoare la-nceput de iarnă](#scrisoare-la-nceput-de-iarnă)
 - **Ducu Hotima** — [La tătă casa-i lumină](#la-tătă-casa-i-lumină)
-- **Ecoul** — [Cana cu vin (I)](#cana-cu-vin-i), [Cana cu vin (II)](#cana-cu-vin-ii), [Lumină (I)](#lumină-i), [Lumină (II)](#lumină-ii), [Lumină (III)](#lumină-iii), [Nu mă-ntreba](#nu-mă-ntreba), [Taina (I)](#taina-i), [Taina (II)](#taina-ii)
+- **Ecoul** — [Cana cu vin](#cana-cu-vin), [Lumină (I)](#lumină-i), [Lumină (II)](#lumină-ii), [Lumină (III)](#lumină-iii), [Nu mă-ntreba](#nu-mă-ntreba), [Taina (I)](#taina-i), [Taina (II)](#taina-ii)
 - **Elvis Presley** — [Love Me Tender](#love-me-tender)
 - **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#nebunul-de-alb)
 - **Eric Clapton** — [Layla](#layla), [Tears in Heaven](#tears-in-heaven), [Wonderful Tonight](#wonderful-tonight)
@@ -35449,10 +35379,11 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
 - **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri (I)](#vremuri-i), [Vremuri (II)](#vremuri-ii), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
-- **Phoenix/Pasărea Colibri** — [Canarul (I)](#canarul-i), [Canarul (II)](#canarul-ii)
+- **Phoenix/Pasărea Colibri** — [Canarul](#canarul)
 - **Pink Floyd** — [Another Brick in the Wall](#another-brick-in-the-wall), [Wish You Were Here](#wish-you-were-here)
+- **Poesis (Pasărea Colibri)** — [Cântec șoptit (II)](#cântec-șoptit-ii)
 - **Poesis (versuri Zaharia Stancu)** — [Bătălia s-a sfârșit, soldatul...](#bătălia-s-a-sfârșit-soldatul)
-- **Poesis(Pasărea Colibri** — [Cântec șoptit (I)](#cântec-șoptit-i), [Cântec șoptit (II)](#cântec-șoptit-ii)
+- **Poesis(Pasărea Colibri** — [Cântec șoptit (I)](#cântec-șoptit-i)
 - **Popular** — [Pe deal pe la Cornățel](#pe-deal-pe-la-cornățel), [Trandafir de la Moldova](#trandafir-de-la-moldova)
 - **popular** — [Hai să-ntindem hora mare](#hai-să-ntindem-hora-mare)
 - **Popular din maramureș** — [După pui de moroșan](#după-pui-de-moroșan), [Așa beu oamenii buni](#așa-beu-oamenii-buni)
