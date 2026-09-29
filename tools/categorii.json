@@ -27,11 +27,7 @@
   "motiv": "Mircea Baniciu, dragoste",
   "sectiune": "II.1"
  },
- "Adio, deci pe curând (I) || Caiet Christian Adventure, p. 11": {
-  "motiv": "dragoste",
-  "sectiune": "II.1"
- },
- "Adio, deci pe curând (II) || Cărticica Karban, p. 164": {
+ "Adio, deci pe curând || Caiet Christian Adventure, p. 11": {
   "motiv": "dragoste",
   "sectiune": "II.1"
  },
@@ -159,15 +155,7 @@
   "motiv": "glumeț, apă și alcool",
   "sectiune": "I.4"
  },
- "Arsură (I) || Caiet cabană RO, p. 167": {
-  "motiv": "folk metafizic",
-  "sectiune": "II.1"
- },
- "Arsură (II) || Cărticica Karban, p. 90": {
-  "motiv": "folk metafizic",
-  "sectiune": "II.1"
- },
- "Arsură (III) || Cărticica Karban, p. 91": {
+ "Arsură || Caiet cabană RO, p. 167": {
   "motiv": "folk metafizic",
   "sectiune": "II.1"
  },
@@ -495,7 +483,7 @@
   "motiv": "folk, despărțire",
   "sectiune": "II.1"
  },
- "M-am dus să tai un copac (I) || Cărticica Karban, p. 252": {
+ "M-am dus să tai un copac || Cărticica Karban, p. 252": {
   "motiv": "hazliu, cântec de tabără",
   "sectiune": "I.4"
  },
@@ -1459,10 +1447,6 @@
   "motiv": "clasic de cabană, încadrat manual",
   "sectiune": "I.1"
  },
- "M-am dus să tai un copac (II) || Caiet Christian Adventure, p. 99": {
-  "motiv": "hazliu, cu prietenii",
-  "sectiune": "I.4"
- },
  "M-am îndrăgostit numai de ea || Caiet Christian Adventure, p. 97": {
   "motiv": "folk, dragoste",
   "sectiune": "II.1"
@@ -1775,9 +1759,9 @@
   "motiv": "colind / cântec de iarnă",
   "sectiune": "IV.1"
  },
- "O, mama || Caiet Christian Adventure, p. 118": {
+ "O, mamă || Caiet Christian Adventure, p. 118": {
   "motiv": "beat și fără bani, hazliu",
-  "sectiune": "I.4"
+  "sectiune": "I.1"
  },
  "Oaia mică || Cărticica Karban, p. 101": {
   "motiv": "hazliu de autor",
@@ -2355,11 +2339,7 @@
   "motiv": "Phoenix, dragoste",
   "sectiune": "II.2"
  },
- "Te-am cunoscut în troleibuz (I) || Caiet Christian Adventure, p. 149": {
-  "motiv": "deocheat, troleibuz",
-  "sectiune": "I.4"
- },
- "Te-am cunoscut în troleibuz (II) || Cărticica Karban, p. 253": {
+ "Ne-am cunoscut în troleibuz || Caiet Christian Adventure, p. 149": {
   "motiv": "deocheat, troleibuz",
   "sectiune": "I.4"
  },

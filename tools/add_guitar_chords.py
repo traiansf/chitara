@@ -13,7 +13,7 @@ Fingerings are for standard EADGBE tuning, one digit per string from the low
 E (6th) to the high E (1st); ``x`` = string not played.  Same conventions as
 the ukulele line: power chords (X5) are given as the corresponding major,
 slash chords (X/Y) keep the bass note where the shape allows it, "X4" reads
-as Xsus4, and "Cm#" (a typo in the source) as C#m.
+as Xsus4, "X7/4" as X7sus4, and "Cm#" (a typo in the source) as C#m.
 
 Run ``--check`` to verify every fingering sounds the notes its name claims.
 
@@ -53,6 +53,7 @@ FINGERINGS = {
     "Csus2": "x30033", "Dsus2": "xx0230", "Gsus2": "300233",
     "Asus2": "x02200",
     "C7sus4": "x3331x", "D7sus4": "xx0213", "D7sus2": "xx0210",
+    "G7sus4": "3x0011", "A7sus4": "x02030",
     # added ninths
     "Cadd9": "x32030", "Dadd9": "x54230", "Fadd9": "xx3213",
     "Gadd9": "320203", "Aadd9": "x02420",
@@ -96,7 +97,7 @@ CHORD_RE = re.compile(
     r"(?:m|maj|min|dim|aug|\+)?"
     r"(?:sus)?[0-9]*"
     r"(?:\(?(?:add|sus|maj)?[A-G0-9#b]*\)?)?"
-    r"(?:/[A-G](?:#|b)?)?$"
+    r"(?:/(?:[A-G](?:#|b)?|4))?$"
 )
 
 NOTES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
@@ -125,6 +126,9 @@ def lookup(tok):
     tok = normalize(tok)
     if tok in FINGERINGS:
         return FINGERINGS[tok]
+    m = re.match(r"^([A-G]#?)([0-9]*)/4$", tok)
+    if m:                                          # "G7/4" is G7sus4 ("D4" is Dsus4)
+        return FINGERINGS.get(m.group(1) + m.group(2) + "sus4")
     base = tok.split("/")[0]                       # no shape for that bass
     if base in FINGERINGS:
         return FINGERINGS[base]
@@ -228,6 +232,13 @@ def main():
         prev_end = end
         song = [ln for ln in lines[start:end]
                 if not ln.startswith("**Chitară:**")]
+        # collapse double blanks left by a removed line
+        cleaned = []
+        for ln in song:
+            if ln == "" and cleaned and cleaned[-1] == "":
+                continue
+            cleaned.append(ln)
+        song = cleaned
 
         chords, seen = [], set()
         in_fence = False
@@ -268,9 +279,7 @@ def main():
                 else:
                     uke = next((i for i in range(meta + 1, len(song))
                                 if song[i].strip()), len(song))
-                song[uke:uke] = [note, ""]
-            else:
-                song[uke:uke] = [note]
+            song[uke:uke] = [note, ""]
             inserted += 1
         out.extend(song)
 

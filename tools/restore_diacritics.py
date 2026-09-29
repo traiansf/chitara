@@ -61,7 +61,7 @@ def corpus_lines():
     text = [l for s in parse_songs(lines)
             if "Cărticica Karban" not in s["meta"]
             for l in body(lines, s)]
-    for s in json.load(open(COLINDE)):
+    for s in json.load(open(COLINDE, encoding="utf-8")):
         text += s["body"] + [s["title"], s["artist"] or "", s["composer"] or ""]
     return [[w.lower() for w in WORD.findall(CHORD_MARK.sub(" ", l))] for l in text]
 
@@ -110,7 +110,7 @@ def match_case(src, dst):
 def main():
     tables = build_lexicon()
     corpus = tables[0]
-    songs = json.load(open(CARTICICA))
+    songs = json.load(open(CARTICICA, encoding="utf-8"))
 
     # every flat form the Cărticica uses, chords lifted out so that a word
     # split by an inline chord is still seen whole
@@ -212,7 +212,7 @@ def main():
             if s.get(k):
                 s[k] = fix_line(s[k])
 
-    json.dump(songs, open(CARTICICA, "w"), ensure_ascii=False, indent=1)
+    json.dump(songs, open(CARTICICA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     tot = sum(stats.values())
     print(f"dicționar: {len(words)} forme plate relevante | corpus: {len(corpus)} forme")
     print(f"{tot} cuvinte: corectate {stats['corectat']}, deja corecte "

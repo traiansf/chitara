@@ -86,8 +86,13 @@ make pdf                                   # = python3 tools/make_pdf.py
 make html                                  # regenerează site-ul HTML interactiv (docs/)
 ```
 
-Cere `python3` cu **pymupdf** (`fitz`), **poppler** (`pdftotext`) și
-**google-chrome-stable** (headless, pentru PDF).
+Cere `python3` cu **pymupdf** (`fitz`), **poppler** (`pdftotext`),
+un **Chrome/Chromium** headless pentru PDF (`chrome_binary()` din
+`make_pdf.py` îl caută pe PATH, apoi — pe Windows — Chrome sau Edge în
+locurile standard; `$CHROME` îl impune) și fonturile **DejaVu Sans** și
+**Iosevka Fixed**. Merge și pe Windows, fără WSL (Git Bash dă `make` și
+`pdftotext`); acolo e nevoie de `PYTHONUTF8=1` în mediu (`Makefile` îl
+setează singur), altfel Python scrie în consolă cu cp1252.
 
 `make_pdf.py --lista` face un caiet mic, doar din cântecele unei liste
 Markdown — un titlu `# …`, apoi câte un rând `- Titlu [Dm]` pe cântec —

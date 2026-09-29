@@ -26,7 +26,9 @@ import functools
 import hashlib
 import html
 import json
+import os
 import re
+import shutil
 import subprocess
 import sys
 import unicodedata
@@ -37,7 +39,6 @@ import transpose
 _ROOT = Path(__file__).resolve().parent.parent
 MD = str(_ROOT / "Caiet-chitara.md")
 OUT = str(_ROOT / "Caiet-chitara.pdf")
-CHROME = "google-chrome-stable"
 MONO_STACK = "'Iosevka Fixed', 'DejaVu Sans Mono', monospace"
 
 # the book's sections, in order; a section with no songs is skipped.  Each gets
@@ -905,8 +906,21 @@ def two_row_tokens(chord_line):
     return [(m.start(), m.group(0)) for m in re.finditer(r"\S+", chord_line)]
 
 
-DEJAVU_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-DEJAVU_REG = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+def _font_file(name):
+    """Path to a system font file, in the Linux (Debian/Ubuntu, Fedora) or
+    Windows (system-wide, then per-user) font directories."""
+    dirs = ["/usr/share/fonts/truetype/dejavu", "/usr/share/fonts/dejavu-sans-fonts",
+            os.path.join(os.environ.get("WINDIR", r"C:\Windows"), "Fonts"),
+            os.path.join(os.environ.get("LOCALAPPDATA", ""), "Microsoft", "Windows", "Fonts")]
+    for d in dirs:
+        p = os.path.join(d, name)
+        if os.path.isfile(p):
+            return p
+    return os.path.join(dirs[0], name)  # let pymupdf report the missing file
+
+
+DEJAVU_BOLD = _font_file("DejaVuSans-Bold.ttf")
+DEJAVU_REG = _font_file("DejaVuSans.ttf")
 PROP_GAP_EM = 0.3  # minimum clearance between one floated label's glyph and the next
 # extra clearance on top of PROP_GAP_EM when no lyric word sits between two
 # floated labels (e.g. a run of chords/repeats ending a verse) - with no
@@ -1521,9 +1535,31 @@ def build_html(intro, songs, index_lines, annex_lines, page_of):
 
 # ------------------------------------------------------------- calibrate
 
+@functools.cache
+def chrome_binary():
+    """The headless browser to print with: $CHROME if set, else the first
+    Chrome/Chromium on PATH, else (Windows) a standard Chrome or Edge
+    install - Edge is Chromium and takes the same flags."""
+    if os.environ.get("CHROME"):
+        return os.environ["CHROME"]
+    for name in ("google-chrome-stable", "google-chrome", "chromium",
+                 "chromium-browser", "chrome", "msedge"):
+        if shutil.which(name):
+            return shutil.which(name)
+    for env, rel in (("PROGRAMFILES", r"Google\Chrome\Application\chrome.exe"),
+                     ("PROGRAMFILES(X86)", r"Google\Chrome\Application\chrome.exe"),
+                     ("LOCALAPPDATA", r"Google\Chrome\Application\chrome.exe"),
+                     ("PROGRAMFILES(X86)", r"Microsoft\Edge\Application\msedge.exe"),
+                     ("PROGRAMFILES", r"Microsoft\Edge\Application\msedge.exe")):
+        p = os.path.join(os.environ.get(env, ""), rel)
+        if os.environ.get(env) and os.path.isfile(p):
+            return p
+    sys.exit("no Chrome/Chromium found - install one or set $CHROME")
+
+
 def run_chrome(html_path, pdf_path):
     subprocess.run(
-        [CHROME, "--headless", "--disable-gpu", "--no-sandbox",
+        [chrome_binary(), "--headless", "--disable-gpu", "--no-sandbox",
          "--disable-dev-shm-usage", "--no-pdf-header-footer",
          "--generate-pdf-document-outline",
          f"--print-to-pdf={pdf_path}", str(html_path)],
@@ -1748,6 +1784,7 @@ def main():
     args = ap.parse_args()
     out = args.out or (str(Path(args.lista).with_suffix(".pdf"))
                        if args.lista else OUT)
+    out = str(Path(out).resolve())
 
     intro, songs, index_lines, annex_lines = parse(args.md)
     print(f"parsed {len(songs)} songs")

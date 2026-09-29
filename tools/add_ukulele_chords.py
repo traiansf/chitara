@@ -13,6 +13,7 @@ G-C-E-A order, 0 = open string. Conventions:
   - slash chords (X/Y) as the upper chord X (no bass strings on a uke);
   - "Cm#" (source typo) is treated as C#m, "CaddG" as plain C (a uke C
     already contains G);
+  - "X4" reads as Xsus4, "X7/4" as X7sus4;
   - "FC"/"FCG" are run-together F C (G) from the source layout and are
     skipped (their components appear separately in the same song).
 
@@ -47,6 +48,7 @@ FINGERINGS = {
     "Cadd9": "0203", "Dadd9": "2425", "Fadd9": "0010", "CaddG": "0003",
     "Csus4": "0013", "Dsus4": "0230", "Gsus4": "0233", "F#sus4": "4124",
     "C7sus4": "0011", "D7sus4": "2233", "D7sus2": "2203",
+    "G7sus4": "0015", "A7sus4": "0200",
     "Cdim": "2323", "E+": "1003",
     # power chords -> corresponding major
     "A5": "2100", "B5": "4322", "C5": "0003", "D5": "2220", "E5": "4442",
@@ -70,6 +72,9 @@ FINGERINGS = {
 def lookup(tok):
     if tok in FINGERINGS:
         return FINGERINGS[tok]
+    m47 = re.match(r"^([A-G]#?)([0-9]*)/4$", tok)
+    if m47:                                         # "G7/4" is G7sus4
+        return FINGERINGS.get(m47.group(1) + m47.group(2) + "sus4")
     base = tok.split("/")[0]                       # X/Y is played as X on a uke
     if base != tok and base in FINGERINGS:
         return FINGERINGS[base]
@@ -94,7 +99,7 @@ CHORD_RE = re.compile(
     r"(?:m|maj|min|dim|aug|\+)?"
     r"(?:sus)?[0-9]*"
     r"(?:\(?(?:add|sus|maj)?[A-G0-9#b]*\)?)?"
-    r"(?:/[A-G](?:#|b)?)?$"
+    r"(?:/(?:[A-G](?:#|b)?|4))?$"
 )
 
 

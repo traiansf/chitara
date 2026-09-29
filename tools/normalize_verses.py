@@ -106,7 +106,7 @@ def transform_block(lines):
 
 
 def main():
-    src = open(SRC).read().splitlines()
+    src = open(SRC, encoding="utf-8").read().splitlines()
     out = []
     in_block = False
     enabled = True
@@ -129,7 +129,7 @@ def main():
             continue
         out.append(line)
     assert not in_block, "unterminated block"
-    open(SRC, "w").write("\n".join(out) + "\n")
+    open(SRC, "w", encoding="utf-8").write("\n".join(out) + "\n")
     print(stats)
 
 
