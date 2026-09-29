@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (51 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (312 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (311 cântece)
 
-- [II.1 — Folk](#ii1--folk) (225 cântece)
+- [II.1 — Folk](#ii1--folk) (224 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
@@ -291,8 +291,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Cântec în noapte](#cântec-în-noapte)
 - [Cântec pentru Charlie Chaplin](#cântec-pentru-charlie-chaplin)
 - [Cântec pentru tine](#cântec-pentru-tine)
-- [Cântec șoptit (I)](#cântec-șoptit-i)
-- [Cântec șoptit (II)](#cântec-șoptit-ii)
+- [Cântec șoptit](#cântec-șoptit)
 - [Cântecul bufonului (I)](#cântecul-bufonului-i)
 - [Cântecul bufonului (II)](#cântecul-bufonului-ii)
 - [Castelul](#castelul)
@@ -11641,45 +11640,7 @@ R:
 Niciodată, câteodată, soțul tău, uneori.
 ```
 
-#### Cântec șoptit (I)
-
-**Poesis(Pasărea Colibri** · variantă a cântecului „Cântec șoptit”, cu titlul „Odată am ucis o vrabie...” · Sursa: Caiet cabană RO, p. 109
-
-**Chitară:** A x02220 · D xx0232 · E 022100
-
-**Ukulele:** A 2100 · D 2220 · E 4442
-
-```text
-Zaharia Stancu- Poesis
-Soarele apune după niște mări
-Și răsare-n flăcări din mare.
-
-1.
-      A         D
-Odată am ucis o vrabie
-     A                        E
-Am tras cu praștia-n ea și-am lovit-o
-    D      A        D           A
-Pe urmă o zi și-o noapte întreagă
-   D        E              A
-Am tot plâns-o și am tot jelit-o.
-Nu m-a bătut mama, nu m-a certat
-În mână țineam o bucată de pâine
-Degeaba mi-a spus, degeaba mai plângi
-Ce-ai omorât, omorât rămâne.
-
-2.
-Mai târziu am crescut flăcăiandru
-M-am îndrăgostit nebunește de-o fată
-Nu știu de ce într-o zi a murit
-Și-n altă zi a fost îngropată.
-De mult nu mai trag cu praștia-n vrăbii
-De mult nu mai merg la nici o îngropare
-Soarele apune după niște mări
-Și răsare-n flăcări din mare.
-```
-
-#### Cântec șoptit (II)
+#### Cântec șoptit
 
 **Poesis (Pasărea Colibri)** · muzica/versuri: Marius Bătu/Zaharia Stancu · Sursa: Cărticica Karban, p. 133 · Caiet cabană RO, p. 109
 
@@ -35381,9 +35342,8 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri (I)](#vremuri-i), [Vremuri (II)](#vremuri-ii), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Canarul](#canarul)
 - **Pink Floyd** — [Another Brick in the Wall](#another-brick-in-the-wall), [Wish You Were Here](#wish-you-were-here)
-- **Poesis (Pasărea Colibri)** — [Cântec șoptit (II)](#cântec-șoptit-ii)
+- **Poesis (Pasărea Colibri)** — [Cântec șoptit](#cântec-șoptit)
 - **Poesis (versuri Zaharia Stancu)** — [Bătălia s-a sfârșit, soldatul...](#bătălia-s-a-sfârșit-soldatul)
-- **Poesis(Pasărea Colibri** — [Cântec șoptit (I)](#cântec-șoptit-i)
 - **Popular** — [Pe deal pe la Cornățel](#pe-deal-pe-la-cornățel), [Trandafir de la Moldova](#trandafir-de-la-moldova)
 - **popular** — [Hai să-ntindem hora mare](#hai-să-ntindem-hora-mare)
 - **Popular din maramureș** — [După pui de moroșan](#după-pui-de-moroșan), [Așa beu oamenii buni](#așa-beu-oamenii-buni)
