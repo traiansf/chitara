@@ -11383,18 +11383,18 @@ Refren Xn
 
 **Ducu Bertzi** · Sursa: Caiet cabană RO, p. 75 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/cand-s-o-mpartit-norocu-299)
 
-**Chitară:** Am x02210 · E 022100
+**Chitară:** Am x02210 · E 022100 · G 320003 · C x32010
 
-**Ukulele:** Am 2000 · E 4442
+**Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003
 
 ```text
 Ducu Bertzi
 
-Am E Am G {C G }
 1.
-Și-așa-mi vine câteodată, dorule,
-    Am          E
-SĂ dau cu cuțâtu-n chiatră.
+[Am]Și-așa-mi vine [E]câteodată, [Am]doru[G]le,
+[C]Și-așa-mi vine [G]câteodată
+/[Am]SĂ dau cu cu[E]țâtu-n chiatră/x2
+Măi [Am]doru^le
 
 2.
 Din chiatră să iasă foc, mai dorule,
@@ -11649,27 +11649,25 @@ Niciodată, câteodată, soțul tău, uneori.
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
-[D]Odată-am ucis [G]o vra[D]bie
-[D]Am tras cu praștia-n ea și-am [A]lovit-o
-[G]Pe urma o [D]zi [G]și-o noapte în[D]treaga
-[G]Am tot [A]plâns-o și am tot [D]jelit-o
+[D]  Odată-am u^cis [G]  o vra[D]bie
+[D]Am tras cu praștia-n ^ea și-am lo[A]vit-o  ^
+/[G]  Pe urmă o [D]zi [G]  și-o noapte în[D]treagă
+[G]  Am tot [A]plâns-o și am tot je[D]lit-o  ^  / x2
 
-[D]Nu m-a bătut mama, [G]nu m-a cer[D]tat
-[D]În mână țineam o bucată de [A]pâine
-[G]Degeaba mi-a [D]spus, [G]degeaba mai [D]plângi
-[G]Ce-ai omo[A]rât, omorât ră[D]mâne.
+[D]  Nu m-a bătut ^mama, [G]  nu m-a cer[D]tat
+În [D]mână țineam ^  o bucată de [A]pâine  ^
+/[G]  Degeaba mi-a [D]spus, [G]  degeaba mai [D]plângi
+[G]  Ce-ai omo[A]rât, omorât ră[D]mâne.  ^  / x2
 
-[D]Mai târziu am cres[G]cut flăcă[D]iandru
-[D]Și m-am îndrăgostit nebunește de-o [A]fată
-[G]Și nu știu de [D]ce [G]într-o zi a mu[D]rit
-[G]Și-n altă [A]zi a fost îngro[D]pată
+[D]  Mai târ^ziu am cres[G]cut flăcă[D]iandru
+Și [D]m-am îndrăgostit ^nebunește de-o [A]fată
+/[G]  Și nu știu de [D]ce [G]  într-o zi a mu[D]rit
+[G]  Și-n altă [A]zi a fost îngro[D]pată.  ^  / x2
 
-[D]Demult nu mai trag cu [G]praștia-n [D]vrăbii
-[D]Demult nu mai merg la nici o-n[A]gropare
-[G]Și soarele a[D]pune [G]după niște mă[D]guri
-[G]Și răsare-n [A]flăcări din [D]mare
-[G]Și soarele a[D]pune [G]după niște mă[D]guri
-[G]Și răsare-n [A]flăcări din [D]mare
+[D]  Demult nu mai ^trag [G]  cu praștia-n [D]vrăbii
+[D]Demult nu mai merg ^la nici o-ngro[A]pare  ^
+/[G]  Și soarele a[D]pune [G]  după niște [D]măguri
+[G]  Și răsare-n [A]flăcări din [D]mare, ^hei hei hei/ x3
 ```
 
 #### Cântecul bufonului (I)

@@ -66,3 +66,5 @@
 - Bătălia s-a sfârșit, soldatul... [Am]
 - Cana cu vin [C]
 - Canarul [C]
+- Când s-o-mpărțit norocu' [Dm]
+- Cântec șoptit [C]
