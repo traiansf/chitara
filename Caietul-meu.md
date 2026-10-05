@@ -68,3 +68,6 @@
 - Canarul [C]
 - Când s-o-mpărțit norocu' [Dm]
 - Cântec șoptit [C]
+- Cântecul bufonului [C]
+- Dacă ai ghici [C]
+- Unde dragoste nu e, nimic nu e [Dm]
