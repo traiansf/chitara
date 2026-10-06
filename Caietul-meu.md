@@ -71,3 +71,6 @@
 - Cântecul bufonului [C]
 - Dacă ai ghici [C]
 - Unde dragoste nu e, nimic nu e [Dm]
+- Vara promisă [Dm]
+- Vis de primăvară [C]
+- Vremuri [C]

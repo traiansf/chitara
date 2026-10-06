@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (19 cântece)
 - [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (51 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (310 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (307 cântece)
 
-- [II.1 — Folk](#ii1--folk) (223 cântece)
+- [II.1 — Folk](#ii1--folk) (220 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
@@ -465,8 +465,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Un zvon](#un-zvon)
 - [Unde dragoste nu e, nimic nu e](#unde-dragoste-nu-e-nimic-nu-e)
 - [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți)
-- [Vara promisă (I)](#vara-promisă-i)
-- [Vara promisă (II)](#vara-promisă-ii)
+- [Vara promisă](#vara-promisă)
 - [Vara sufletului meu](#vara-sufletului-meu)
 - [Verde crud (I)](#verde-crud-i)
 - [Verde crud (II)](#verde-crud-ii)
@@ -474,10 +473,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Viața la țară (I)](#viața-la-țară-i)
 - [Viața la țară (II)](#viața-la-țară-ii)
 - [Vinovații fără vină](#vinovații-fără-vină)
-- [Vis de primăvară (I)](#vis-de-primăvară-i)
-- [Vis de primăvară (II)](#vis-de-primăvară-ii)
-- [Vremuri (I)](#vremuri-i)
-- [Vremuri (II)](#vremuri-ii)
+- [Vis de primăvară](#vis-de-primăvară)
+- [Vremuri](#vremuri)
 
 ### II.2 — Ne-folk (alfabetic)
 
@@ -19521,106 +19518,52 @@ Refren
 Refren 2X
 ```
 
-#### Vara promisă (I)
+#### Vara promisă
 
-**Ștefan Hrușcă** · Sursa: Caiet cabană RO, p. 154 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/stefan-hrusca/vara-promisa-374)
-
-**Chitară:** Em 022000 · Am x02210 · D7 xx0212 · G 320003 · B7 x21202 · E 022100
-
-**Ukulele:** Em 0432 · Am 2000 · D7 2223 · G 0232 · B7 2322 · E 4442
-
-```text
-1.
- Em                 Am   D7
-Te-aș fi iubit cum n-ai mai fost
-                 G
-Ca un soldat în plin război
- Em               Am  B7
-Dar zilnic plouă fără rost
-          Em
-Iar între noi.
-
-Ca într-o gară nu știu cum
-Când unul vine altu-i dus
-Și rătăcim pe același drum
-În sens opus.
-
-R:
- Am     D7    G       Em
-Ne răscolește timpul, femeie
-   Am   B7      E
-Pe un peron vechi de gară
-Tu Iliadă, eu Odisee
-Scrise de mult într-o vară.
-
-2.
-Te-aș fi iubit ca un pândar
-Ce stă la drum în calea ta
-Dar zilnic trece în zadar
-Altcineva.
-
-Suntem și noi ca două punți
-Pe apa unui singur dor
-Dar despărțiți de niște munți
-Întâmplător.
-
-3.
-Ca un copil te-aș fi iubit
-Ce fură mere din vecini
-Uitând că totul e păzit
-De-un gard cu spini.
-Dar vara ce ne-a logodit
-Cununi de flori împurpurat
-Ori n-a plecat ori n-a venit
-Cu-adevărat.
-```
-
-#### Vara promisă (II)
-
-**Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 86
+**Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 86 · Caiet cabană RO, p. 154
 
 **Chitară:** Dm xx0231 · Gm 355333 · C x32010 · C7 x32310 · F 133211 · A7 x02020 · D xx0232
 
 **Ukulele:** Dm 2210 · Gm 0231 · C 0003 · C7 0001 · F 2010 · A7 0100 · D 2220
 
 ```text
-[Dm]Te-aș fi iubit cum n-ai mai [Gm]fost
-[C]Ca un soldat în [C7]plin răz[F]boi
-Dar, [Dm]uite, plouă fără [Gm]rost
-[A7]Iar între [Dm]noi [D]
+[Dm]  Te-aș fi iubit cum n-ai mai [Gm]fost
+[C]  Ca un soldat în [(C7)]plin răz[F]boi
+[Dm]  Dar, zilnic plouă fără [Gm]rost
+[A7]  Iar între [Dm]noi [(D)]
 
-[Dm]Ca într-o gară, nu știu [Gm]cum
-[C]Când unul vine și [C7]altu-i [F]dus
-[Dm]Mergând pe-același [Gm]drum
-[A7]În sens o[Dm]pus [D]
+[Dm]  Ca într-o gară, nu știu [Gm]cum
+[C]  Când unul vine [(C7)]altu-i [F]dus
+[Dm]  Și rătăcim pe-același [Gm]drum
+[A7]  În sens o[Dm]pus [D]
 
 Refren:
-[Gm]Ne răsco[C7]lește [F]timpul, fe[Dm]meie,
-[Gm]Pe un pe[A7]ron vechi de [Dm]gară [D]
-[Gm]Tu, Ili[C7]ada, [F]eu, Odi[Dm]see
-[Gm]Scrisa de[A7]mult într-o [Dm]vară [D]
+[Gm]Ne răsco[C7]lește [F]  timpul, fe[Dm]meie,
+[Gm]  Pe un pe[A7]ron vechi de [Dm]gară [D]
+[Gm]Tu, Ili[C7]adă, [F]  eu, Odi[Dm]see
+[Gm]  Scrise de[A7]mult într-o [Dm]vară [(D)]
 
-[Dm]Ca un pândar te-aș fi iu[Gm]bit
-[C]Ieșind la drum în [C7]calea [F]ta
-Dar [Dm]zilnic trece în za[Gm]dar
-[A7]Altcine[Dm]va [D]
+[Dm]  Te-aș fi iubit ca un pân[Gm]dar
+[C]  Ce stă la drum în [(C7)]calea [F]ta
+[Dm]  Dar zilnic trece în za[Gm]dar
+[A7]  Altcine[Dm]va [(D)]
 
-[Dm]Suntem și noi ca două [Gm]punți
-[C]Pe apa unui sin[C7]gur [F]dor
-Dar [Dm]despărțiți de niște [Gm]munți
-[A7]Întâmplă[Dm]tor [D]
+[Dm]  Suntem și noi ca două [Gm]punți
+[C]  Pe apa unui sin[(C7)]gur [F]dor
+[Dm]  Dar despărțiți de niște [Gm]munți
+[A7]  Întâmplă[Dm]tor [D]
 
 Refren
 
-[Dm]Ca un copil te-aș fi iu[Gm]bit
-[C]Ce fura mere [C7]din [F]vecini
-[Dm]Uitând ca totul e pă[Gm]zit
-[A7]De-un gard de [Dm]spini [D]
+[Dm]  Ca un copil te-aș fi iu[Gm]bit
+[C]  Ce fură mere [(C7)]din [F]vecini
+[Dm]  Uitând ca totul e pă[Gm]zit
+[A7]  De-un gard cu [Dm]spini [(D)]
 
-[Dm]Dar vara ce ne-a logo[Gm]dit
-[C]Cununi de flori ne-a-[C7]mpurpu[F]rat
-Ori [Dm]n-ai plecat, ori n-ai [Gm]venit
-[A7]Cu-adevă[Dm]rat [D]
+[Dm]  Dar vara ce ne-a logo[Gm]dit
+[C]  Cununi de flori îm[C7]purpu[F]rat
+[Dm]  Ori n-a plecat, ori n-a [Gm]venit
+[A7]  Cu-adevă[Dm]rat [D]
 ```
 
 Note:Măsura este 4/4.
@@ -19712,37 +19655,46 @@ Vis de albastru și azur.
 
 #### Verde crud (II)
 
-**Anda Călugăreanu** · muzica/versuri: Anda Călugăreanu/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 55
+**Anda Călugăreanu** · muzica/versuri: Anda Călugăreanu/George Bacovia · Sursa: Cărticica Karban, p. 55
 
 **Chitară:** D xx0232 · G 320003 · A x02220 · A7 x02020
 
 **Ukulele:** D 2220 · G 0232 · A 2100 · A7 0100
 
 ```text
+Refren:
 [D]Verde crud, verde crud
 [G]Mugur alb și [D]roz și bun
 [G]Vis de albastru [D]și azur
 [A]Te mai [A7]văd te [D]mai aud.
+
 [G]O punctează cu-al tău foc
 [D]Soare, [G]soa[D]re
 [G]Corpul ce în[D]treg mă doare
 [A]Sub al [A7]vremu[D]rilor joc.
+
 Refren
 [G]Dintr-un fluier de răchită
 [D]Primavara, [G]prima[D]vara
 [G]O copilă poposită la [D]fântâna te-ngână
 [A]Pe câm[A7]pia [D]clară.
+
 Refren
+
 [G]O punctează cu-al tău foc
 [D]Soare, [G]soa[D]re
 [G]Corpul ce în[D]treg mă doare
 [A]Sub al [A7]vremu[D]rilor joc.
+
 Refren
+```
+
 Note:Primul refren și prima strofă se arpegiază după care urmează chitara
 ritmica.
+
 Pentru ritm mai ascultă odată melodia.
+
 Acordul A7 poate fi folosit sau nu. Mie îmi sună foarte bine acolo...
-```
 
 #### Viata complicată
 
@@ -20062,165 +20014,85 @@ Mai presus e cât și cum gândesc.
 Refren x2
 ```
 
-#### Vis de primăvară (I)
+#### Vis de primăvară
 
-**Pasărea Colibri** · Sursa: Caiet cabană RO, p. 83 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vis-de-primavara-3095)
-
-**Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
-
-**Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
-
-```text
-M. Vintilă
-
-1.
-     C                  Am
-O cameră micuță dar de prieteni plină
-      F                             Em
-Ce-aveau și foc în suflet și-n ochi aveau lumină
-      F                         C
-Idei musteau în aer să stai și să tot stai
-    G                    Am
-Și asta a fost totul în acea zi de mai
-        F               G           C
-Și asta a fost totul în acea zi de mai.
-
-2.
-Știam ce-i rău și bine în lumea de afară
-Vorbeam de poluare, ce bine e la țară
-CĂ banii nu contează, dar e grozav să-i ai
-Și toate-au fost grozave în acea zi de mai.
-
-3.
-Aveam muzică bună fumam dintr-o țigară
-În cameră doar zâmbet afară cer și soare
-Și de erai acolo pierdut și tu erai
-Uitat de tot și toate în acea zi de mai.
-
-4.
-S-au dus ai mei prieteni, s-a dus și acea clipă
-Mai zboară fiecare bătând dintr-o aripă
-Trăiesc, mai râd, fac glume, sunt sănătoși dar vai,
-Acum nimic nu este ca-n acea zi de mai.
-
-5.
-Și cum doresc acuma să fim iar împreună
-Pierdut între prieteni ce visul și-l adună
-Și aș da totul, totul, și locul meu din rai
-Ca viața mea întreagă să fie-o zi de mai.
-```
-
-#### Vis de primăvară (II)
-
-**Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 177
+**Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Florian Pittis · Sursa: Cărticica Karban, p. 177 · Caiet cabană RO, p. 83
 
 **Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
 
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
 
-```text
 Același intro se cântă și între strofe
-O [C]camera micuta dar [Am]de prieteni plină
-Ce-[F]aveau și foc în suflet și-n [Em]ochi aveau lumina
+
+```text
+O [C]cameră micuță dar [Am]de prieteni plină
+Ce-[F]aveau și foc în suflet și-n [Em]ochi aveau lumină
 I[F]dei musteau în aer să [C]stai și să tot stai
 Și [G]asta a fost totul în [Am]acea zi de mai
 Și [F]asta a fost totul în [G]acea zi de [C]mai.
+
 Ști[C]am ce-i rău și bine în [Am]lumea de afară
 Vor[F]beam de poluare ce [Em]bine e la țară
-Ca [F]banii nu contează dar [C]e grozav să-i ai
+Că [F]banii nu contează dar [C]e grozav să-i ai
 Și [G]toate-au fost grozave în [Am]acea zi de mai
 Și [F]toate-au fost grozave în [G]acea zi de [C]mai.
+
 A[C]veam muzică bună fu[Am]mam dintr-o țigară
-În [F]camera doar zâmbet a[Em]fară cer și soare
+În [F]cameră doar zâmbet a[Em]fară cer și soare
 Și [F]de erai acolo pier[C]dut și tu erai
 Ui[G]tat de tot și toate în [Am]acea zi de mai
 Ui[F]tat de tot și toate în [G]acea zi de [C]mai.
-S-[C]au dus ai mei prieteni s-a [Am]dus și acea clipa
-Mai [F]zboară fiecare bă[Em]tând dintr-o aripa
+
+S-[C]au dus ai mei prieteni s-a [Am]dus și acea clipă
+Mai [F]zboară fiecare bă[Em]tând dintr-o aripă
 Tră[F]iesc mai râd fac glume sunt [C]sănătoși dar vai
-A[G]cum nimic nu este ca-n acea zi de mai
+A[G]cum nimic nu este ca-n [Am]acea zi de mai
 A[F]cum nimic nu este ca-n [G]acea zi de [C]mai.
+
 Și [C]cum doresc acuma să [Am]fim iar împreună
 Pier[F]dut între prieteni ce [Em]visul și-l adună
 Și [F]aș da totul, totul, și [C]locul meu din rai,
-Ca [G]viața mea întreaga să [Am]fie o zi de mai
-Ca [F]viața mea întreaga să [G]fie o zi de [C]mai.
+Ca [G]viața mea întreagă să [Am]fie o zi de mai
+Ca [F]viața mea întreagă să [G]fie o zi de [C]mai.
 ```
 
-#### Vremuri (I)
+#### Vremuri
 
-**Phoenix** · Sursa: Caiet Christian Adventure, p. 176 · Caiet cabană RO, p. 78 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vremuri-1540)
+**Phoenix** · muzica/versuri: Florin Bordeianu/Nicolae Covaci · Sursa: Cărticica Karban, p. 122 · Caiet Christian Adventure, p. 176 · Caiet cabană RO, p. 78
 
 **Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
 
 **Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
 
 ```text
-G         C       D              G
-Hei, tramvai, cu etaj și tras de cai
-Hei, joben, ce umblai la mon jardin
-Hei, bunic, cu monoclu erai șic
-Hei, can-can, cu picioarele-n tavan.
+Fill:
+/[G]  Lai lai la lai
+[C]  lai lai la lai
+[D]lai la lai la [G]lai la la lai/ x2
 
-                        Em
-Toate-au fost la timpul lor
-   C      D
-Ceva exagerat
-Anii au trecut în zbor
-Și lumea le-a uitat.
-Da, da ; Nu nu....
-La, la...la la la la la la...
-
-Hei, pletoși, cu pantaloni strâmți și soioși
-Chitariști, zgomotoși și fanteziști
-Mini-jupe, foarte scurt și strâns pe trup
-Hei, tu brake, îndrăcit ca un berbec.
-
-Toate sunt la modă acum
-Ceva exagerat
-Timpul trece ca un fum
-Și tot va fi uitat.
-Da, da ; Nu nu....
-La, la...la la la la la la...
-
-Hei, tramvai, cu etaj și tras de cai
-Hei, joben, ce umblai la mon jardin
-Hei, bunic, cu monoclu erai șic
-Hei, can-can, cu picioarele-n tavan.
-
-Toate-au fost la timpul lor
-Ceva exagerat
-Anii au trecut în zbor
-Și lumea le-a uitat.
-Da, da ; Nu nu....
-La, la...la la la la la la...
-```
-
-#### Vremuri (II)
-
-**Phoenix** · muzica/versuri: Florin Bordeianu/Nicolae Covaci · Sursa: Cărticica Karban, p. 122
-
-**Chitară:** G 320003 · C x32010 · D xx0232 · Em 022000
-
-**Ukulele:** G 0232 · C 0003 · D 2220 · Em 0432
-
-```text
 [G]Hei, tram[C]vai, cu [D]etaj și tras de [G]cai
 [G]Hei, jo[C]ben, ce [D]umblai la mon jar[G]din
 [G]Hei, bu[C]nic, cu [D]monoclu erai [G]șic
 [G]Hei, can-[C]can, cu [D]picioarele-n ta[G]van.
-[Em]Toate-au fost la timpul lor
+
+[Em]Toate-au fost la ^timpul lor
 Ce[C]va exage[D]rat
-[Em]Anii au trecut în zbor
-Și [C]lumea le-a ui[D]tat.
+[Em]Anii au tre^cut în zbor
+Și [C]lumea le-a ui[D]tat. Da, ^da... Nu, ^nu....
+
+Fill
+
 [G]Hei, plet[C]oși, cu [D]pantaloni strâmți și soi[G]oși
 [G]Chitari[C]ști, zgomo[D]toși și fante[G]ziști
 [G]Mini-[C]jup, foarte [D]scurt și strâns pe [G]trup
 [G]Hei, tu [C]break îndră[D]cit ca un ber[G]bec.
-[Em]Toate sunt la modă acum
+
+[Em]Toate sunt la ^modă acum
 Și [C]tot exage[D]rat
-[Em]Timpul trece ca un fum
-Și [C]tot va fi ui[D]tat.
+[Em]Timpul trece ^ca un fum
+Și [C]tot va fi ui[D]tat. Da, ^da... Nu, ^nu....
+
+Fill
 ```
 
 ### II.2 — Ne-folk
@@ -35253,7 +35125,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Mircea Bodolan** — [Dragostea pasarii](#dragostea-pasarii), [Rănitul dintre linii (I)](#rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#rănitul-dintre-linii-ii)
 - **Mircea Florian** — [Podul de piatra](#podul-de-piatra)
 - **Mircea Vintilă** — [Madama de pică](#madama-de-pică), [Pe corso (II)](#pe-corso-ii), [Strada Popa Nan (II)](#strada-popa-nan-ii)
-- **Mircea Vintilă/Pasărea Colibri** — [38](#38), [Adio, deci pe curând](#adio-deci-pe-curând), [Alte clipe trăite alt epilog](#alte-clipe-trăite-alt-epilog), [Când se lasă seara](#când-se-lasă-seara), [Dintr-o cafea (II)](#dintr-o-cafea-ii), [Dragostea e o salata](#dragostea-e-o-salata), [Hanul lui Manuc](#hanul-lui-manuc), [Lordul John](#lordul-john), [Mielul (I)](#mielul-i), [Mielul (II)](#mielul-ii), [Miruna (II)](#miruna-ii), [Peste răbdări](#peste-răbdări), [Un om pe niște scări (II)](#un-om-pe-niște-scări-ii), [Vis de primăvară (II)](#vis-de-primăvară-ii)
+- **Mircea Vintilă/Pasărea Colibri** — [38](#38), [Adio, deci pe curând](#adio-deci-pe-curând), [Alte clipe trăite alt epilog](#alte-clipe-trăite-alt-epilog), [Când se lasă seara](#când-se-lasă-seara), [Dintr-o cafea (II)](#dintr-o-cafea-ii), [Dragostea e o salata](#dragostea-e-o-salata), [Hanul lui Manuc](#hanul-lui-manuc), [Lordul John](#lordul-john), [Mielul (I)](#mielul-i), [Mielul (II)](#mielul-ii), [Miruna (II)](#miruna-ii), [Peste răbdări](#peste-răbdări), [Un om pe niște scări (II)](#un-om-pe-niște-scări-ii), [Vis de primăvară](#vis-de-primăvară)
 - **Mondial** — [Atât de fragedă](#atât-de-fragedă)
 - **Narcis** — [Noapte la mare, noapte la munte](#noapte-la-mare-noapte-la-munte)
 - **Necunoscut** — [M-am dus să tai un copac](#m-am-dus-să-tai-un-copac)
@@ -35264,10 +35136,10 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Nightwish** — [The Islander](#the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#azi), [Floarea](#floarea), [Lăsați-mă să cânt](#lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#peste-al-nostru-sărut)
-- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Înțelegere (I)](#înțelegere-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Miruna (I)](#miruna-i), [Mr. Tambourine Man](#mr-tambourine-man), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i), [Vis de primăvară (I)](#vis-de-primăvară-i), [Vânare de vânt](#vânare-de-vânt)
+- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Înțelegere (I)](#înțelegere-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Miruna (I)](#miruna-i), [Mr. Tambourine Man](#mr-tambourine-man), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i), [Vânare de vânt](#vânare-de-vânt)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
-- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri (I)](#vremuri-i), [Vremuri (II)](#vremuri-ii), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
+- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Canarul](#canarul)
 - **Pink Floyd** — [Another Brick in the Wall](#another-brick-in-the-wall), [Wish You Were Here](#wish-you-were-here)
 - **Poesis (Pasărea Colibri)** — [Cântec șoptit](#cântec-șoptit)
@@ -35304,7 +35176,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Ștefan Banică** — [S-o facem lată](#s-o-facem-lată)
 - **Ștefan Banica jr.** — [Asta-s eu](#asta-s-eu)
 - **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#mi-e-dor-de-ochii-tăi), [Poveste](#poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă (I)](#vara-promisă-i), [Vara promisă (II)](#vara-promisă-ii), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul (I)](#cerul-și-pământul-i), [Cerul și pământul (II)](#cerul-și-pământul-ii), [Cerul și pământul (III)](#cerul-și-pământul-iii), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine (I)](#deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#deschide-ușa-creștine-ii), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr (I)](#flori-de-măr-i), [Flori de măr (II)](#flori-de-măr-ii), [Florile dalbe (I)](#florile-dalbe-i), [Florile dalbe (II)](#florile-dalbe-ii), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul (I)](#cerul-și-pământul-i), [Cerul și pământul (II)](#cerul-și-pământul-ii), [Cerul și pământul (III)](#cerul-și-pământul-iii), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine (I)](#deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#deschide-ușa-creștine-ii), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr (I)](#flori-de-măr-i), [Flori de măr (II)](#flori-de-măr-ii), [Florile dalbe (I)](#florile-dalbe-i), [Florile dalbe (II)](#florile-dalbe-ii), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
 - **Stigma** — [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
 - **Supa & Maria** — [Tropa trop](#tropa-trop)
 - **Taine Folk** — [Cântec uitat de lume](#cântec-uitat-de-lume)
