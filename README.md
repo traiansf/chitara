@@ -22,7 +22,7 @@ transpunere a acordurilor)
 | &nbsp;&nbsp;I.1 — De munte, de drum și de dor | 104 |
 | &nbsp;&nbsp;I.2 — Populare și lăutărești | 24 |
 | &nbsp;&nbsp;I.3 — Naționaliste și de dor de țară | 19 |
-| &nbsp;&nbsp;I.4 — Studențești, de chef și deocheate | 54 |
+| &nbsp;&nbsp;I.4 — Studențești și de chef | 54 |
 | **II — Repertoriu românesc** | **315** |
 | &nbsp;&nbsp;II.1 — Folk | 227 |
 | &nbsp;&nbsp;II.2 — Ne-folk | 88 |

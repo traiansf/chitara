@@ -24,12 +24,12 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (173 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (172 cântece)
 
 - [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (105 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (18 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
-- [I.4 — Studențești, de chef și deocheate](#i4--studențești-de-chef-și-deocheate) (33 cântece)
+- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
 **[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (306 cântece)
 
@@ -196,11 +196,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Tron în Apuseni (Vali Șerban)](#tron-în-apuseni-vali-șerban)
 - [Tu Ardeal](#tu-ardeal)
 
-### I.4 — Studențești, de chef și deocheate (alfabetic)
+### I.4 — Studențești și de chef (alfabetic)
 
 - [Afară-i frig și e-norat (Balada sadicului)](#afară-i-frig-și-e-norat-balada-sadicului)
 - [Așa beu oamenii buni](#așa-beu-oamenii-buni)
-- [Bărbățelul](#bărbățelul)
 - [Bing bang (I)](#bing-bang-i)
 - [Bing bang (II)](#bing-bang-ii)
 - [Cântecul vacii](#cântecul-vacii)
@@ -7221,7 +7220,7 @@ Ce-am lucrat-o [C]cu-ale [G]noastre [C]mâini.  ^
 Imnul "Deștep[C]tati-[G]vă ro[Am]mâni".  ^
 ```
 
-### I.4 — Studențești, de chef și deocheate
+### I.4 — Studențești și de chef
 
 #### Afară-i frig și e-norat (Balada sadicului)
 
@@ -7470,68 +7469,6 @@ Variantă studentească:
 
 [A]De n-ar fi [E]barul de noapte, [D]de n-ar fi [E]barul de noapte,
 [A]As în[D]văța [E]și eu [A]carte, ^as în[E]văța [A]și eu carte.
-```
-
-#### Bărbățelul
-
-**Anonim** · Sursa: Caiet Christian Adventure, p. 26
-
-**Chitară:** Am x02210 · Dm xx0231 · E 022100 · G 320003 · C x32010
-
-**Ukulele:** Am 2000 · Dm 2210 · E 4442 · G 0232 · C 0003
-
-```text
-  Am
-/De la ușă pân' la pat
- Dm
-M-am făcut accelerat
- E                Am
-Mamă de ce m-ai măritat /x2
-
-Refren:
-
- Am
-Bărbațelul meu
- Dm
-Mă bate mereu
- G
-Zi și noapte
- C          Am
-Mă bate mă bate
-
-Nevestica mea
-Da-r-ar dracii-n ea
-A început să tragă la măsea
-
-/Vino mamă pe la mine
-Să te bată si pe tine
-Mamă de ce m-ai măritat/x2
-
-Refren
-
-/Vino mamă in cojoc
-Să te bată mai cu foc
-Mamă de ce m-ai măritat/x2
-
-Refren
-
-/Eu ii dau ciorbă de pește
-El o palmă imi lipește
-Mamă de ce m-ai măritat/x2
-
-Refren
-
-/Eu ii dau ciorbă de pui
-El mi-arata biciu-n cui
-Mamă de ce m-ai măritat/x2
-
-Refren
-
-/Eu ii dau și prăjitură
-El imi dă bocanci'n gură
-Mamă de ce m-ai măritat/x2
-
-Refren
 ```
 
 #### Bing bang (I)
@@ -33776,7 +33713,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Alexandru Zărnescu / Adrian Păunescu** — [Ultima zi](#ultima-zi)
 - **Anda Călugăreanu** — [Tăcut](#tăcut), [Verde crud (I)](#verde-crud-i), [Verde crud (II)](#verde-crud-ii)
 - **Andrei Mureșan / Anton Pann / popular (Din sânul maicii mele)** — [Deșteaptă-te române](#deșteaptă-te-române)
-- **Anonim** — [Amintiri din Făgăraș](#amintiri-din-făgăraș), [Bătrânul refugiu](#bătrânul-refugiu), [Cabana Mălăiești](#cabana-mălăiești), [Colo-n vale](#colo-n-vale), [Copilul munților](#copilul-munților), [Delirul](#delirul), [Dor de ducă (Anonim)](#dor-de-ducă-anonim), [Dor de munții mei](#dor-de-munții-mei), [Fata din Caraiman](#fata-din-caraiman), [Imnul ghizilor](#imnul-ghizilor), [Imnul prieteniei](#imnul-prieteniei), [Legenda Craiului](#legenda-craiului), [Libertate-n vârf de munți](#libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#mi-e-dragă-pădurea), [Păpușa](#păpușa), [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman), [Prieteni buni](#prieteni-buni), [Rămas bun cabanei](#rămas-bun-cabanei), [Seara de mai](#seara-de-mai), [Bărbățelul](#bărbățelul), [Carolina](#carolina), [Hai, mândruțo!](#hai-mândruțo), [Ne-am cunoscut în troleibuz](#ne-am-cunoscut-în-troleibuz), [Un kil de rom](#un-kil-de-rom), [Bat la poarta ta](#bat-la-poarta-ta)
+- **Anonim** — [Amintiri din Făgăraș](#amintiri-din-făgăraș), [Bătrânul refugiu](#bătrânul-refugiu), [Cabana Mălăiești](#cabana-mălăiești), [Colo-n vale](#colo-n-vale), [Copilul munților](#copilul-munților), [Delirul](#delirul), [Dor de ducă (Anonim)](#dor-de-ducă-anonim), [Dor de munții mei](#dor-de-munții-mei), [Fata din Caraiman](#fata-din-caraiman), [Imnul ghizilor](#imnul-ghizilor), [Imnul prieteniei](#imnul-prieteniei), [Legenda Craiului](#legenda-craiului), [Libertate-n vârf de munți](#libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#mi-e-dragă-pădurea), [Păpușa](#păpușa), [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman), [Prieteni buni](#prieteni-buni), [Rămas bun cabanei](#rămas-bun-cabanei), [Seara de mai](#seara-de-mai), [Carolina](#carolina), [Hai, mândruțo!](#hai-mândruțo), [Ne-am cunoscut în troleibuz](#ne-am-cunoscut-în-troleibuz), [Un kil de rom](#un-kil-de-rom), [Bat la poarta ta](#bat-la-poarta-ta)
 - **Anotimpul 5** — [Dacă n-ai amintiri](#dacă-n-ai-amintiri)
 - **Aurelian Andreescu** — [Dorul](#dorul), [Oameni](#oameni)
 - **Autentic** — [Trec țiganii](#trec-țiganii)

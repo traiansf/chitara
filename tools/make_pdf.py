@@ -47,7 +47,7 @@ MONO_STACK = "'Iosevka Fixed', 'DejaVu Sans Mono', monospace"
 SECTIONS = [("I.1", "Partea I — Cântece de cabană", "I.1 — De munte, de drum și de dor"),
             ("I.2", "Partea I — Cântece de cabană", "I.2 — Populare și lăutărești"),
             ("I.3", "Partea I — Cântece de cabană", "I.3 — Naționaliste și de dor de țară"),
-            ("I.4", "Partea I — Cântece de cabană", "I.4 — Studențești, de chef și deocheate"),
+            ("I.4", "Partea I — Cântece de cabană", "I.4 — Studențești și de chef"),
             ("II.1", "Partea a II-a — Repertoriu românesc", "II.1 — Folk"),
             ("II.2", "Partea a II-a — Repertoriu românesc", "II.2 — Ne-folk"),
             ("III", "Partea a III-a", "Repertoriu internațional"),

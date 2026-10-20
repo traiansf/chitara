@@ -19,7 +19,7 @@ PARTS = [
         ("I.1", "De munte, de drum și de dor"),
         ("I.2", "Populare și lăutărești"),
         ("I.3", "Naționaliste și de dor de țară"),
-        ("I.4", "Studențești, de chef și deocheate"),
+        ("I.4", "Studențești și de chef"),
     ]),
     ("II", "Partea a II-a", "Repertoriu românesc", [
         ("II.1", "Folk"),
