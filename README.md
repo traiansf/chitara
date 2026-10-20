@@ -1,13 +1,13 @@
 # Caiet de cântece pentru chitară
 
-Un caiet de **726 de cântece** cu acorduri — de cabană, folk românesc,
+Un caiet de **688 de cântece** cu acorduri — de cabană, folk românesc,
 repertoriu internațional și colinde — compilat din cinci culegeri tipărite și
 scanate.
 
 📖 **[Caiet-chitara.md](Caiet-chitara.md)** — caietul, cu cuprins, index pe
 artiști și dicționar de acorduri
 🖨️ **[Caiet-chitara.pdf](Caiet-chitara.pdf)** — același caiet pentru tipărit,
-749 de pagini, un cântec pe pagină
+710 pagini, un cântec pe pagină
 🔗 **[Caiet-chitara-addendum.md](Caiet-chitara-addendum.md)** — 1755 de piese
 ale acelorași artiști, cu linkuri către tabulaturi.ro
 🎸 **[traiansf.github.io/chitara](https://traiansf.github.io/chitara/)** —
@@ -18,14 +18,14 @@ transpunere a acordurilor)
 
 | Partea | Cântece |
 |---|---|
-| **I — Cântece de cabană** | **201** |
-| &nbsp;&nbsp;I.1 — De munte, de drum și de dor | 104 |
-| &nbsp;&nbsp;I.2 — Populare și lăutărești | 24 |
-| &nbsp;&nbsp;I.3 — Naționaliste și de dor de țară | 19 |
-| &nbsp;&nbsp;I.4 — Studențești și de chef | 54 |
-| **II — Repertoriu românesc** | **315** |
-| &nbsp;&nbsp;II.1 — Folk | 227 |
-| &nbsp;&nbsp;II.2 — Ne-folk | 88 |
+| **I — Cântece de cabană** | **172** |
+| &nbsp;&nbsp;I.1 — De munte, de drum și de dor | 105 |
+| &nbsp;&nbsp;I.2 — Populare și lăutărești | 18 |
+| &nbsp;&nbsp;I.3 — Naționaliste și de dor de țară | 17 |
+| &nbsp;&nbsp;I.4 — Studențești și de chef | 32 |
+| **II — Repertoriu românesc** | **306** |
+| &nbsp;&nbsp;II.1 — Folk | 219 |
+| &nbsp;&nbsp;II.2 — Ne-folk | 87 |
 | III — Repertoriu internațional | 95 |
 | **IV — Colinde și cântece de iarnă** | **115** |
 | &nbsp;&nbsp;IV.1 — Colinde românești | 56 |
@@ -33,7 +33,7 @@ transpunere a acordurilor)
 | &nbsp;&nbsp;IV.3 — Cântece de iarnă românești | 22 |
 | &nbsp;&nbsp;IV.4 — Cântece de iarnă internaționale | 27 |
 
-178 de artiști în index, 546 de cântece atribuite. Fiecare cântec poartă
+178 de artiști în index, 520 de cântece atribuite. Fiecare cântec poartă
 digitațiile acordurilor lui, pentru chitară și pentru ukulele:
 
 ```
@@ -45,7 +45,7 @@ Cifrele sunt poziția pe corzi, de la coarda groasă la cea subțire; `x` =
 coarda nu se cântă.
 
 În PDF fiecare cântec stă pe o singură pagină: fontul se alege cât de mare
-încape, iar cele lungi trec pe două coloane — 729 de cântece la 12pt, 49 pe
+încape, iar cele lungi trec pe două coloane — 654 de cântece la 12pt, 224 pe
 două coloane.
 
 Acordurile stau fie pe rândul de deasupra versului, aliniate pe silaba unde se

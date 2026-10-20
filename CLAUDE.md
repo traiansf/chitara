@@ -44,7 +44,7 @@ pe site și în rândurile de digitații, dar nu se transpune — nota se
 referă adesea la un exemplu din tab, care rămâne în tonalitatea scrisă.
 
 **Identitatea stabilă a unui cântec e `titlu || Sursa, p. N`** — unică pe toate
-cele 738. Cântecele n-au număr de ordine (sunt alfabetice în fiecare
+cele 688. Cântecele n-au număr de ordine (sunt alfabetice în fiecare
 secțiune și titlurile sunt deja unice); ancora e derivată din titlu și se
 poate schimba dacă alt cântec cu titlu identic i-o ia înainte alfabetic
 (rar — doar câteva perechi de titluri identice azi), deci nu construi nimic
@@ -177,7 +177,7 @@ Ce face fiecare grup:
 
 **Nu există suită de teste.** După orice unealtă care rescrie caietul, dovada e:
 
-- **738 de cântece** înainte și după, aceleași chei stabile — nimic pierdut,
+- **688 de cântece** înainte și după, aceleași chei stabile — nimic pierdut,
   nimic duplicat;
 - **corpurile identice caracter cu caracter**, dacă unealta nu trebuia să le
   atingă;
