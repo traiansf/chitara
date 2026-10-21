@@ -31,12 +31,12 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (305 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (306 cântece)
 
-- [II.1 — Folk](#ii1--folk) (218 cântece)
+- [II.1 — Folk](#ii1--folk) (219 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
-**[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
+**[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
 
 **[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (115 cântece)
 
@@ -441,6 +441,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Un zvon](#un-zvon)
 - [Unde dragoste nu e, nimic nu e](#unde-dragoste-nu-e-nimic-nu-e)
 - [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți)
+- [Vânare de vânt](#vânare-de-vânt)
 - [Vara promisă](#vara-promisă)
 - [Vara sufletului meu](#vara-sufletului-meu)
 - [Verde crud (I)](#verde-crud-i)
@@ -579,7 +580,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Ils Ont Change Ma Chanson](#ils-ont-change-ma-chanson)
 - [Imagine](#imagine)
 - [In the Army](#in-the-army)
-- [Kai yone](#kai-yone)
+- [Kaj jone](#kaj-jone)
 - [Knockin' on Heaven's Door](#knockin-on-heavens-door)
 - [La Bamba](#la-bamba)
 - [La Canzone Del Sole](#la-canzone-del-sole)
@@ -626,10 +627,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [The Sound of Silence](#the-sound-of-silence)
 - [Ticket to Ride](#ticket-to-ride)
 - [Tous Les Garcons Et Les Filles](#tous-les-garcons-et-les-filles)
-- [Trust My Sobriety](#trust-my-sobriety)
 - [Twist and Shout](#twist-and-shout)
+- [Twist in My Sobriety](#twist-in-my-sobriety)
 - [Unchained Melody](#unchained-melody)
-- [Vânare de vânt](#vânare-de-vânt)
 - [What's Up](#whats-up)
 - [When the Saints](#when-the-saints)
 - [Wind of Change](#wind-of-change)
@@ -1826,7 +1826,7 @@ Sursa: Cărticica Karban, p. 257
 
 **Ukulele:** D 2220 · A7 0100 · G 0232
 
-Notă: Măsura cântecului e 3/4
+Notă: Măsura 3/4.
 
 ```text
 [D]În poiana ^verde,
@@ -5254,9 +5254,9 @@ Este tot ce-a mai rămas.
 
 Sursa: Cărticica Karban, p. 218
 
-**Chitară:** C x32010 · C7 x32310 · G7 320001 · G 320003 · F 133211
+**Chitară:** C x32010 · C7 x32310 · G7 320001 · G 320003 · F 133211 · D xx0232 · A7 x02020
 
-**Ukulele:** C 0003 · C7 0001 · G7 0212 · G 0232 · F 2010
+**Ukulele:** C 0003 · C7 0001 · G7 0212 · G 0232 · F 2010 · D 2220 · A7 0100
 
 ```text
 [C]Vino, vino [C7]printre [G7]munți
@@ -5277,9 +5277,9 @@ Nu te teme, nu-ți dau [C]brânci.
 Nu te teme, n-ai să [C]mori.
 [C]Vino, vino, [C7]nu te [G7]sfii
 Viata nu trece-ntr-o [C]zi.
-Notă: o variantă simplificata poate fi cântata numai cu D în loc de C și C7,
-A7 în loc de G7 și G în loc de F...
 ```
+
+Notă: Variantă simplificată: doar `D` în loc de `C` și `C7`, `A7` în loc de `G7` și `G` în loc de `F`.
 
 #### Visul
 
@@ -5846,7 +5846,7 @@ Findca ei se iu[A]besc
 [A]Inimă de [E]țigan[A]că/ x2
 ```
 
-Și aici și variantele în engleză, franceză și italiană luate din "Caietul de cântece de munte"
+Variantele în engleză, franceză și italiană sunt din „Caietul de cântece de munte”.
 
 ```text
 [A]I am a lovely [E]gip[A]sy,
@@ -5866,10 +5866,9 @@ Je dance, je dance pour [A]toi
 /[A]Io amo, amo [D]te,
 Io canto, canto [A]te
 [A]Io sono la gi[E]tan[A]na,/ x2
-
-Notă: Acordul D poate fi înflorit la penultima bătaie cu o notă Ab și se
-prinde în acest caz după cum urmează: D = X X 0 2 3 4
 ```
+
+Notă: `D` poate fi înflorit la penultima bătaie cu nota Ab; se prinde atunci X X 0 2 3 4.
 
 #### Mă dusei să trec la Olt
 
@@ -5879,7 +5878,7 @@ prinde în acest caz după cum urmează: D = X X 0 2 3 4
 
 **Ukulele:** A 2100 · E 4442 · D 2220
 
-Dar cred că e așa de cunoscut că nu mai trebuie avut grija la măsuri
+Notă: Cântec foarte cunoscut; măsurile nu sunt marcate.
 
 ```text
 [A]Mă duse-i, da mă duse-i să trec la [E]Olt,
@@ -5992,7 +5991,7 @@ Sursa: Cărticica Karban, p. 206
 [D]Ăștia n-or a^vut noroc da, [G]hai, [A]mai dorule [D]hai.  ^  / x2
 ```
 
-Note:-Cântecul e cunoscut și într-o variantă ceva "mai pop" cântata de Mircea Rusu.
+Notă: Există și o variantă „mai pop”, cântată de Mircea Rusu.
 
 #### Pe deal pe la Cornățel
 
@@ -6021,8 +6020,7 @@ Note:-Cântecul e cunoscut și într-o variantă ceva "mai pop" cântata de Mirc
 [D]Ca oita [E]după [A]miel
 ```
 
-Notă: Cântecul e în măsura 3/4 și (după părerea mea) e destul de simplu de
-cântat.
+Notă: Măsura 3/4.
 
 #### Șatra
 
@@ -6056,8 +6054,7 @@ Refren x2:
 [E]  Poți să-mi dai tu [Am]mii [E]de [Am]lei
 ```
 
-Note:Se poate acompania cu un ritm (tip brushing cu/sau fără bass alternativ)
-de forma "bum chak-a" (vezi tabulatura exemplificat aici pentru Am):
+Notă: Acompaniament brushing, cu sau fără bass alternativ, de forma „bum chak-a” (tabulatură pentru `Am`):
 
 ```tab
 P       ^          ^
@@ -6069,8 +6066,7 @@ A||--0---------------------||
 E||------------------------||
 ```
 
--În filmul "Satra" melodia se cheamă "Nane tsokha" adică "N-am cercei"  (Info
-de la Alin Mihai Fecioru E-mail:famstrong@yahoo.com)
+În filmul „Șatra”, melodia se numește „Nane tsokha” („N-am cercei”).
 
 #### Și-am iubit o ardeleancă
 
@@ -6222,7 +6218,7 @@ Refren1 x2 + Refren 2
 Refren1 x2 + Refren2 x4
 ```
 
-Note: Ritmul este o parte interesanta a acestei melodii. Se accelerează și se încetinește după simț. Acompaniamentul se poate face folosind o tehnică cu bas alternativ după cum urmează:
+Notă: Ritm liber, care accelerează și încetinește după simț. Acompaniament cu bass alternativ:
 
 #### Trandafir de la Moldova
 
@@ -6256,8 +6252,7 @@ Refren:
 [E]Să ne iubim amân[A]doi, mai!
 ```
 
-Notă: Cântecul e în măsura 2/4 și după părerea mea foarte simplu de
-interpretat.
+Notă: Măsura 2/4.
 
 #### Trec țiganii
 
@@ -6997,7 +6992,7 @@ Ho[Dm]tarul nedrept să-l [Am]zdrobim
 De-o [E]fi să ne-ngropăm de [Am]vii./ x2
 ```
 
-Notă: O variantă simplă pentru începători și cu versurile originale.
+Notă: Variantă simplă, pentru începători, cu versurile originale.
 
 #### Tricolorul
 
@@ -7026,8 +7021,7 @@ muzica/versuri: Ciprian Porumbescu/??? · Sursa: Cărticica Karban, p. 194
 [F]Zidi[Dm]tori ai [G7]lumii [C]noi.
 ```
 
-Notă:Aici cu versurile în original.
-Păcat că anumite epoci au făcut din acest cântec frumos o amintire tristă.
+Notă: Aici cu versurile originale.
 
 #### Tron în Apuseni (Unde)
 
@@ -7404,7 +7398,7 @@ D                G
 Ș-apoi te împăiază
 ```
 
-Note: Măsura este 4/4 și recomand ciupitura:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----0---------|
@@ -7415,7 +7409,7 @@ A|3-------------|
 E|--------------|
 ```
 
-Exemplificată aici pentru `C`.
+Exemplificată pentru `C`.
 
 #### Așa beu oamenii buni
 
@@ -7683,9 +7677,9 @@ Dacă-i [A]el, ducă-se la [D]dr[A]ac[D]u
 Aici [G]zace da-da-da
 Aici [D]zace nu-nu-nu
 Aici [A]zace un student be[D]țiv [A]sau [D]nu
-Notă:Ultimele trei versuri de la fiecare strofă au și rolul de refren și se
-repetă...
 ```
+
+Notă: Ultimele trei versuri ale fiecărei strofe țin loc de refren și se repetă.
 
 #### Cavaleri ai mesei rotunde (II)
 
@@ -7738,10 +7732,9 @@ Aici [A]zace da-da-da, aici zace nu-nu-nu
 Aici zace un student be[E]țiv
 Aici [A]zace da-da-da, aici [E]zace nu-nu-nu
 Aici [B7]zace un student be[E]țiv sau nu
-Notă: Aici o variantă gasita într-o carte cu cântece din repertoril
-internațional.
-Personal prefer variantă transpusa de mine
 ```
+
+Notă: Variantă dintr-o culegere de cântece din repertoriul internațional.
 
 #### Ce facem cu studentul beat?
 
@@ -7775,8 +7768,7 @@ Refren:
 [Am]Dimi[C]neata-n [Dm]zori.
 ```
 
-Notă: Acordul Am este opțional se poate folosi in locul lui și acordul Dm.
-Ca și acompaniament se poate folosi o schema de felul:
+Notă: `Am` e opțional; poate fi înlocuit cu `Dm`. Acompaniament:
 
 ```tab
 E||-------1----------1--1--|-------1----------1--1--|-------0----------0--0--|-------0----------0--0--||
@@ -7787,7 +7779,7 @@ A||------------------------|------------------------|--3---------------------|--
 E||------------------------|------------------------|------------------------|------------------------||
 ```
 
-Exemplificat aici pentru acordurile Dm și C
+Exemplificat pentru `Dm` și `C`.
 
 #### Ce mult te-am iubit Paraschivo (I)
 
@@ -7953,11 +7945,9 @@ Păi mai [C]lăsați oltenii-n [F]pace
 [Cm]Moldo[Gm]veanul [G]și oltea[Cm]nul
 Moldo[Cm]veanul și ol[F]teanul
 [G]Sunt frați buni cu arde[Cm]leanu
-Note:Personal nu prea știu, și nici nu îmi pot imagina, cum sună variantă cu
-aceste acorduri.
-De aceea eu rămân la variantă mea.
-Pentru cei care știu acest cântec în aceasta forma, mai sus sunt acordurile.
 ```
+
+Notă: Variantă cu alte acorduri, pentru cine știe cântecul în această formă.
 
 #### Felia
 
@@ -8226,11 +8216,14 @@ Refren:
 [F]Iese-un vierme [G]gal[C]băn
 [C]Și privind la [G]ste[C]le
 [F]Începu să [G]zbie[C]re
-Notă: O variantă a strofei simplificata (pentru începători) poate fi cântata
-folosind următoarea prograsie de acorduri:
+```
+
+Notă: Strofa se poate simplifica (pentru începători) cu progresia:
+
+```text
 [C]În pădurea [G]verde
 [F]I-un cadavru [C]țapăn
-s.a.m.d.
+ș.a.m.d.
 ```
 
 #### Jean frizerul
@@ -8412,8 +8405,7 @@ Refren x3
 [B7]  Niciodată nu [Em]moare
 ```
 
-Notă: Cred că erau ceva mai multe strofe dar din păcate nu mi le mai
-amintesc...
+Notă: Versuri incomplete.
 
 #### Și-alta dată
 
@@ -8710,7 +8702,7 @@ muzica/versuri: din folclorul copiilor · Sursa: Cărticica Karban, p. 261
 [F]S-a-nsurat odată...
 ```
 
-Notă: Măsura cântecului e 2/4
+Notă: Măsura 2/4.
 
 ---
 
@@ -9120,8 +9112,7 @@ Cu tam-[D]tam dai drumu-n strada
 Și [F]atârna-i clopo[C]ței.
 ```
 
-Note:Un cântec tipic (după părerea mea) pentru Bob Dylan simplu și de efect.
-Acompanierea se poate face folosind un ritm cu următorul model:
+Notă: Acompaniament cu următorul ritm:
 
 ```tab
 p    o  s s s s s s p
@@ -9134,11 +9125,7 @@ E||--3------------------------||
 ^    ^  ^   ^   ^   ^
 ```
 
-P = pătrime
-o = optime
-s = șaisprezecime
-^ = reprezintă lovirea coardelor de sus în jos
-Celelalte loviri (nemarcate) se fac de jos în sus
+P = pătrime, o = optime, s = șaisprezecime; ^ = lovire a coardelor de sus în jos; celelalte lovituri (nemarcate), de jos în sus.
 
 #### Alte clipe trăite alt epilog
 
@@ -9244,8 +9231,6 @@ Refren
 [G]Cum cădea-va după cântec mâna [Em]mea
 [C]Și când pomul [D]flori va da fa să-I [G]cadă carnea [C]grea
 [G]Cum cădea-va după cântec mâna [Em]mea.
-Notă: O piesa foarte frumoasă și simplă; cred că cei mai bătrâni și-o
-amintesc.
 ```
 
 #### Amorul cubist
@@ -9480,13 +9465,7 @@ Bridge
 Refren
 ```
 
-Note:Piesa îmi sună mai bine cântata la poziții înalte. Va avertizez c-am
-transpus-o din memorie, pentru simplul fapt că nu am caseta cu mine...
-Prin urmare n-am pretenția ca acordurile sunt chiar astea (nici măcar nu știu
-dacă pe caseta e din mi minor).
-
-În timpul strofelor puteți ciupi corzile sau încerca un ritm jazz-istic (doar
-e cântata de Aura Urziceanu...)...
+Notă: Sună mai bine la poziții înalte. În strofe se pot ciupi corzile sau se poate folosi un ritm jazz.
 
 #### Arsură
 
@@ -9543,9 +9522,6 @@ Refren:
 [G]Azi te [D]ador, [C]azi te do[D]resc
 [G]Și spun cu [D]drag [C]lumii-ntregi [D]ca iu[G]besc.
 Refren
-Note:Din păcate nu știu cântecul.
-Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
-sus!
 ```
 
 #### Balada blondelor iubiri
@@ -9939,10 +9915,9 @@ Refren
 Refren
 ```
 
-Note: Măsura (dacă nu mă înșel) e de 3/4. Acordul `Csus4`, cunoscut și ca `C4`,
-poate fi înlocuit și cu `C`.
+Notă: Măsura 3/4. `Csus4`, cunoscut și ca `C4`, poate fi înlocuit cu `C`.
 
-Acompanierea se poate face simplu cu următorul model de ciupitura:
+Ciupitură simplă:
 
 ```tab
 E||-------0----0----||
@@ -9953,7 +9928,7 @@ A||--3--------------||
 E||-----------------||
 ```
 
-exemplificat aici pentru acordul C.
+Exemplificată pentru `C`.
 
 #### Canadiana
 
@@ -11051,7 +11026,6 @@ Iar tu in visare nu vezi decât alta.
 **Ukulele:** D 2220 · A 2100 · Em 0432 · G 0232 · Bm 4222
 
 ```text
-- re...transcrisă de Eugen Karban; E-Mail genuk@gmx.net -
 [D]Departe [A]ești [Em]acum
 La [G]margini de [A]lumi
 [D]Aproape [A]am [Em]uitat
@@ -11069,11 +11043,6 @@ Pe [G]nume să-ți [A]spun
 [Em]Când râsul [A]tău se stinge [D]departe
 [Em]Și ploaia îmi [A]cade [D]încet pe [Bm]geam
 [A]Când râsul tău...
-Note:A fost cea mai difuzata piesa la Radio Romania Tineret în luna aprilie a
-anului 2002.
-Cred că sunt oameni care s-ar bucura să învețe cintecul. Ar mai fi și ceva
-trucuri la intro și pe la mijloc dar poate ca astea nu sunt neapărat
-necesare.
 ```
 
 #### Din prea mult sau prea puțin
@@ -11335,8 +11304,7 @@ Refren:
 [Am]Aripi ca [Dm]zborul [E]să-l în[Am]veți.
 ```
 
-Notă: Cântecul este în măsura 4/4. Ca și modalitate de ciupitura recomand
-urmatoarul model:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 -----0------
@@ -11351,9 +11319,9 @@ urmatoarul model:
 
 **Alexandru Andrieș** · muzica/versuri: Alexandru Andrieș/Alexandru Andrieș · Sursa: Cărticica Karban, p. 25
 
-**Chitară:** A x02220 · D xx0232 · E 022100
+**Chitară:** A x02220 · D xx0232 · E 022100 · A5 x02220 · D5 xx0232 · E5 022100
 
-**Ukulele:** A 2100 · D 2220 · E 4442
+**Ukulele:** A 2100 · D 2220 · E 4442 · A5 2100 · D5 2220 · E5 4442
 
 ```text
 [No Chord]La curtea lui Voda e se[A]dinta mare
@@ -11384,16 +11352,9 @@ Se ridică în picioare boierul Șulea Trepe,
 "Economia de lemn să nu se neglijeze",
 "Prin[D]tr-o reproiectare justa să se elimine orice so[A]fism",
 "Ast[E]fel încît țepele să rezi[D]ste și la sei[A]sm!"...
-Note:Cântecul e un fel de blues în care Andrieș se joacă liber cu lungimea
-strofelor (oare nu face el asta în majoritatea cântecelor sale?).
-Aici e dată forma în care interpretez eu acest cântec și poate nu este
-transpunerea fidela a originalului
-Pe A se tine tot ritmul melodiei. Acordurile D și E se bat o singură dată cu
-sustain.
-Mie îmi sună destul de bine.
-Dacă îți place o forma mai "rock" poți folosi și acordurile A5, D5(în poziția
-a 5-a) și E5(în poziția a 7-a)...vezi punctul de "powerchords"...
 ```
+
+Notă: Blues cu strofe de lungime liberă. Pe `A` se ține tot ritmul melodiei; `D` și `E` se bat o singură dată, cu sustain. Pentru o formă mai „rock” se pot folosi powerchords: `A5`, `D5` (poziția a 5-a) și `E5` (poziția a 7-a).
 
 #### Dragostea cu patru foi
 
@@ -11499,8 +11460,7 @@ Refren 2:
 [G]Na, na, na, [C]na, na, [G]na,
 ```
 
-Note: Pentru strofe se poate folosi ciupitura următoare (exemplificată aici
-pentru acordul C):
+Notă: Ciupitură pentru strofe (exemplificată pentru `C`):
 
 ```tab
 |---0-----0-----0----|
@@ -11511,7 +11471,7 @@ pentru acordul C):
 |--------------------|
 ```
 
-La progresia C Em Am G din refren se poate folosi următoarea ciupitură:
+Ciupitură pentru progresia `C` `Em` `Am` `G` din refren:
 
 ```tab
 C       Em/B    Am     G
@@ -11557,9 +11517,9 @@ Când o tipi în [G]pat o pierzi
 [A]Și-amu beu, c-[D]amu mie bine
 Că-i și mândra [G]lângă mine
 [A]Că-i și mândra [D]lângă mine.
-Notă: Din nou foarte important ritmul melodiei precum și "timing"-ul!
-Referitor la timing după primul vers prinde bine o pauza
 ```
+
+Notă: Ritmul și „timing”-ul sunt importante; după primul vers prinde bine o pauză.
 
 #### Emoție de toamnă (I)
 
@@ -11626,8 +11586,9 @@ Strofa 2
 [G]Iau cuvintele și le-nec în [C]mare
 [Am]Șuier luna și-o ră[Dm]sar și-o prefac
 [E]Într-o dragoste [Am]mare.
-Notă: Strofele se repetă o dată în aceeași ordine.
 ```
+
+Notă: Strofele se repetă o dată, în aceeași ordine.
 
 #### Emoție de toamnă (III)
 
@@ -11657,8 +11618,7 @@ Intro:Solo
 [E7]Într-o drago[E+5]ste ma[Am]re
 ```
 
-Note:Tempo: 4/4; acordaj standard
-Am notat cu (Solo) solo-ul care apare la intro și la primul vers:
+Notă: Măsura 4/4; acordaj standard. Solo-ul din intro și din primul vers e notat (Solo):
 
 ```tab
 E||---------0-3----||
@@ -11728,7 +11688,7 @@ Dacă cu tine nu mă-[A]nsor.
 Și-a murit Vasile.
 ```
 
-Notă:Ca și model de ciupitura pentru acest cântec recomand:
+Notă: Ciupitură recomandată:
 
 ```tab
 A           D           E
@@ -11784,8 +11744,9 @@ Pe chipul tău [Em]drag,
 [A]Esarfa în [D]dar.
 [F#m]Pe chipul tău [Em]drag,
 [A]Esarfa în [G]dar. [D]
-Notă: Pentru tonalitatea originala folosește capo în poziția a 2-a.
 ```
+
+Notă: Pentru tonalitatea originală, capo în poziția a 2-a.
 
 #### Fără petale
 
@@ -11891,13 +11852,6 @@ Refren 4:
 Ce pri[D]vire dulce-[G]avea
 [Em]Și ea poate n-o să [D]știe
 [D]Că mi-a fost dragă și [Em]mie
-Note:Din păcate nu știu cântecul și acordurile le-am avut doar pentru prima
-strofa și refren.
-Celelalte acorduri au fost completate după "simțul" meu ritmic.
-Mai ales nu sunt sigur dacă asta mi-a reușit la ultimele două jumătăți de
-strofe sau dacă astea sunt identice cu refrenul.
-Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
-sus!
 ```
 
 #### Focul vânăt (I)
@@ -12142,8 +12096,9 @@ Ur[A]gia toamnei care bân[A7]tuie
 De [Dm]ce mă înspăimântă frun[A]zele,
 Frun[Dm]zele.
 Refren
-Notă: Intro, intermediar și la final se poate fluiera pe acordurile Dm și A.
 ```
+
+Notă: În intro, între strofe și la final se poate fluiera pe acordurile `Dm` și `A`.
 
 #### Frunza (Mircea Baniciu)
 
@@ -12292,7 +12247,7 @@ Ioai
 [D]I-amu ni să [A]mă dezgrasi.
 ```
 
-Notă:Ca și model de ciupitura pentru acest cântec recomand:
+Notă: Ciupitură recomandată:
 
 ```tab
 A         E
@@ -12407,9 +12362,9 @@ Ai să mă [G]ierți în fiecare [D]noapte
 [G]Și n-ai să poți [F#]și n-ai să [Bm]poți
 [Bm]Mie pierzându-te-[Em]mi va fi mai [Bm]bine
 [G]Eu tristul cel mai [F#]liber dintre [Bm]toți
-Notă: Sună parcă ceva mai bine dacă prinzi acordul G în forma să barata în
-poziția a 3-a.
 ```
+
+Notă: Sună mai bine cu `G` baré, în poziția a 3-a (355433).
 
 #### Imposibila nuntă
 
@@ -12547,12 +12502,9 @@ Refren 2:
 [D]Și fuge-n rotire întregul teren
 [E]Pe netede câmpuri ne ducem ca vântul,
 [D]Cantoanele albe se [E]uita la [A]cer.
-Note: Deși la prima vedere un cântec nu foarte ușor de interpretat este
-totuși simplu.
-Partea cea mai grea este schimbarea tonalității din A în E la refren.
-Pentru partea ritmica mai ascultă odată melodia și totul ar trebui să
-funcționeze...
 ```
+
+Notă: Partea cea mai grea e schimbarea tonalității, din `A` în `E`, la refren.
 
 #### Înțelegere (I)
 
@@ -12637,12 +12589,7 @@ nu pot.
 nu pot.
 ```
 
-Note: Nu știu exact ce model de arpegiu folosește Baniciu. Eu folosesc ceva
-simplu de genul celei de mai jos.
-Cântecul pote fi interpretat într-o forma mai interesanta folosind un "bass-
-run" la mijlocul versurilor.
-Mai exact între acordurile C și Am (primul vers al strofei),
-respectiv G și Em(celelalte două versuri) după cum urmează:
+Notă: Arpegiu simplu, ca mai jos. Pentru o variantă mai interesantă, se poate cânta un „bass-run” la mijlocul versurilor: între `C` și `Am` (primul vers al strofei), respectiv `G` și `Em` (celelalte două versuri):
 
 ```tab
 E||-----------0--------------|-----------0--------------|-----------0--------------||
@@ -12781,7 +12728,7 @@ Refren:
 [Riff]Doamnelor și domnilor
 ```
 
-Note:Rifful de la intro și din melodie este redat în următoarea tabulatura:
+Notă: Riff-ul din intro și din melodie, în tabulatură:
 
 ```tab
 e||---------------------------------||
@@ -12793,7 +12740,7 @@ E||-0---0-0-0---0---0---0---0-------||
 ^     ^       ^
 ```
 
-Cu notă ca la acest riff se lovesc numai corzile de bass.
+La acest riff se lovesc doar corzile de bass.
 
 #### Iubire-ideal
 
@@ -13238,9 +13185,6 @@ Dar sunt un "je t'aime, moi non plus".
 [C]Fără să am pre[G]tenții [Am]ca știu ce clipa [G]vine
 [C]Iar dacă am o [G]rugă ce [Am]mi se-ascunde-n [F]gând
 [C]Va rog pe dumnea[G]voastră: [Am]Lăsați-mă să [G]cânt!
-Note:Din păcate nu știu cântecul.
-Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
-sus!
 ```
 
 #### Lordul John
@@ -13376,10 +13320,9 @@ Des[F]coperi spe[G]ranțele [C]ninse
 Nu-l [F]lasă [G]să mo[C]ară
 [F]Făcându-l [G]floare de [C]măr
 [F]Lumina, [G]viata, ade[C]văr
-Notă: Am găsit și eu cântecul printre mp3-urile mele și mi se pare ca o
-variantă cântata în mol sună mai bine.
-Vezi deci și variantă a 2-a.
 ```
+
+Notă: Variantă în minor; vezi și celelalte variante ale cântecului.
 
 #### Lumină (III)
 
@@ -13414,10 +13357,9 @@ Des[Dm]coperi spe[E]ranțele [Am]ninse
 Nu-l [Dm]lasă [E]să mo[Am]ară
 [Dm]Făcându-l [E]floare de [Am]măr
 [Dm]Lumina, [E]viata, ade[Am]văr
-Notă: Am găsit și eu cântecul printre mp3-urile mele și mi se pare ca o
-variantă cântata în mol sună mai bine.
-Vezi deci și variantă 1-a și alege-o pe cea care îți sună mai bine.
 ```
+
+Notă: Variantă în minor; vezi și celelalte variante ale cântecului.
 
 #### M-am îndrăgostit numai de ea
 
@@ -13974,14 +13916,9 @@ Cu [D]speranțe și-amin[G]tiri îne[D]cate de-amă[G]giri
 Și să mai [D]uit puțin de [G]azi doar [Em]până [A]mâine. [Asus4]=[A]
 ```
 
-Note: La începutul strofelor acordul `A` este foarte scurt (doar un timp) și se
-leagă cu cel de la sfârșitul refrenului.
+Notă: La începutul strofelor, `A` durează un singur timp și se leagă de cel de la sfârșitul refrenului. La strofe și la refren, `G`-`Em` ocupă o măsură întreagă, cu câte doi timpi pe acord.
 
-Tot la strofe și la refren progresia `G`-`Em` dureza o măsura întreaga cu câte
-doi timpi pe fiecare acord.
-
-În rest cred că e simplu de interpretat cu un ritm de genul:
-|1/ 2//3//4//|1/ 2//3//4//| exemplificat aici pentru două măsuri
+Ritm (exemplificat pentru două măsuri): `|1/ 2//3//4//|1/ 2//3//4//|`
 
 #### Mugur de fluier (I)
 
@@ -14373,9 +14310,6 @@ N-o vei primi, speranțe-[F]mi fac, așa mă [C]mint
 Ești singur cuc, nimic [F]concret în vi[C]ața ta
 În zadar, as spune tot, [F]n-are cine m-[C]ascultă
 Trimite-mi vesti, aș[F]tept un semn din par[C]tea ta
-Notă: Din păcate nu știu melodia iar acordurile le-am primit doar pentru
-prima strofă, celelalte le-am completat după simțul meu ritmic.
-Deci dacă ceva nu corespunde....
 ```
 
 #### Nu-i nimic, asta e! (I)
@@ -14513,8 +14447,9 @@ Dar [C]nu-i ni[G]mic, asta [C]e!
 [E]Cin-l-o pus să [Am]facă gardu
 [Am]Pân la luna înălțatu
 [E]Să nu-l sara [Am]necuratu.
-Notă:Recomand folosirea unei ciupituri cu bass alternativ.
 ```
+
+Notă: Ciupitură cu bass alternativ.
 
 #### Oameni buni
 
@@ -14641,7 +14576,7 @@ Refren:
 Refren 2X
 ```
 
-Mai jos exemplificată ciupitura pentru strofe și refren:
+Ciupitură pentru strofe și refren:
 Strofa I:
 
 ```tab
@@ -14728,22 +14663,9 @@ P  P  P  P  P  P  D    D
 Niște  oameni  de   zăpadă.
 ```
 
-Note:
-Acordaj standard, Tempo 4/4 ?Legenda:  D-doime  P-pătrime  O-optime
-"." (punctul) după valoarea unei note indica creșterea duratei notei
-respective cu jumătate din valoarea initiala , de ex: "D"=1/2,
-"D."=1/2+1/4=3/4
-0h1-legato ascendent(hammer-on)
-1p0-legato descendent(pull-off)
+Notă: Acordaj standard, măsura 4/4. Legendă: D = doime, P = pătrime, O = optime; punctul după o valoare o mărește cu jumătate ("D." = 1/2 + 1/4 = 3/4); 0h1 = legato ascendent (hammer-on), 1p0 = legato descendent (pull-off).
 
-Probabil pe caseta piesa nu-i din `Am` cum am transpus-o eu...Dacă ați încerca
-`Em` sau `Dm` transcrierea se complica ... Relax, oricum multe măsuri se repetă,
-nu-i așa de grea pe cât pare.... (asta pentru flăcăii care urăsc
-tabulaturile și bareurile..)
-
-Încă ceva: n-o luați ca pe o lipsă de modestie, dar dacă o să încercați piesa
-pe două chitare (una ținând ce se vede mai sus, cealaltă armonia) iese așa de
-fain încât aproape nu mai merita să cântați și din gura...
+Transcrisă în `Am`; în `Em` sau `Dm` transcrierea s-ar complica. Multe măsuri se repetă. Se poate cânta și pe două chitare: una cu tabulatura de mai sus, cealaltă cu armonia.
 
 #### Ochii tăi (Ovidiu Scridon)
 
@@ -14777,11 +14699,6 @@ Doar [Am]o vorba ne desparte
 Către [D]tine-aș vrea să fug
 Să ta [G]simt mereu aproa[B7]pe.
 ```
-
-Note:Din păcate nu știu cântecul.
-
-Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
-sus!
 
 #### Om în amurg
 
@@ -14972,8 +14889,9 @@ Să re[F]facem ordi[G]nea de [C]zi.
 Și un [F]ceai să fiarbă în i[C]bric
 [C]Pune-ți viața noastră punctul princi[Am]pal
 Și în [F]rest să nu vor[G]biți ni[C]mic
-Note: Vocile de la refren se cântă doar la sfârșitul piesei
 ```
+
+Notă: Vocile de la refren se cântă doar la sfârșitul piesei.
 
 #### Pădure de argint
 
@@ -15501,9 +15419,6 @@ Ca să [G]țină me[D]reu
 Ceas [Em]de ceas, an de an
 Dulce [C]floare de roze
 Dar te [G]am doar în [D]poze.
-Note:Din păcate nu știu cântecul.
-Dacă cineva din voi are un MP3 cu acest cântec vezi adresă mea E-mail de mai
-sus!
 ```
 
 #### Piața Romană nr.9
@@ -15583,10 +15498,9 @@ Piața Romană Nr.9.
 [A]Doar dezastrul meu să fii,
 [B]Taie-mi calea viața toată,
 [A]Și de zece [E]ori pe zi.
-Notă: O melodie simplă și de efect cu o progresie tipica de rock. Dacă vrei
-să folosești și o chitară electrica atunci poți să transpui poate și riff-ul
-care însoțește toată melodia.
 ```
+
+Notă: Progresie tipică de rock; la chitara electrică se poate adăuga riff-ul care însoțește toată melodia.
 
 #### Ploaia care va veni (I)
 
@@ -15667,9 +15581,9 @@ ul.
 
 **Pasărea Colibri** · muzica/versuri: Dorin Liviu Zaharia -adaptare după o piesa a grupului ECHIPA'84/Dorin Liviu · Sursa: Cărticica Karban, p. 110
 
-**Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · Em 022000
+**Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · Em 022000 · C x32010
 
-**Ukulele:** D 2220 · Bm 4222 · A 2100 · G 0232 · Em 0432
+**Ukulele:** D 2220 · Bm 4222 · A 2100 · G 0232 · Em 0432 · C 0003
 
 ```text
 [D]Sînt un frate tânăr, care [Bm]crede în dreptate,
@@ -15695,9 +15609,9 @@ Circul [A]vieții ne-a im[G]pus salturi mor[D]tale.
 Ploaia care va [Em]veni [G]le va potopi pe [D]toate.
 Să-ncercăm să facem [Em]noi [G]un oraș fără pă[D]cate.
 Ploaia care va [Em]veni le [G]va potopi pe [D]toate.
-Note:Cred că pe net am văzut transcrieri și din C.
-După părerea mea pe cd-ul cu Pasărea Colibrie este cântata din D.
 ```
+
+Notă: Pe discul Pasărea Colibri se cântă din `D`; există transcrieri și din `C`.
 
 #### Ploaie în luna lui marte
 
@@ -16021,8 +15935,7 @@ mamă...
 [C]Mama...[G7]...
 ```
 
-Note: Un cântec foarte simplu dar și foarte frumos. Se poate ciupi folosind
-modelul:
+Notă: Ciupitură:
 
 ```tab
 C                         G7
@@ -16034,7 +15947,7 @@ A||--3----------------------|-------------------------||
 E||-------------------------|--3----------------------||
 ```
 
-Exemplificat aici pentru C și G7 (singurele acorduri folosite în melodie).
+Exemplificată pentru `C` și `G7` (singurele acorduri din melodie).
 
 #### Rar
 
@@ -16229,8 +16142,7 @@ Refren:
 Refren:
 ```
 
-Notă: Dacă nu mă înșel cântecul e în măsura 3/4. Se poate folosi o
-ciupitură de felul:
+Notă: Măsura 3/4. Ciupitură:
 
 ```tab
 E||-----0--------------||
@@ -16241,7 +16153,7 @@ A||--3-----------------||
 E||--------------------||
 ```
 
-exemplificată aici pentru acordul C.
+Exemplificată pentru `C`.
 
 #### Rugă pentru părinți (I)
 
@@ -16589,9 +16501,7 @@ Refren
 [Dm]Noi mai [E]pe din [Am]gios om ^mere.
 ```
 
-Notă:Atenție la forma de pronunție tipic maramureseana a unor cuvinte!
-Cântecul poate fi acompaniat folosind o tehnică de tip "brushing" după cum
-urmează:
+Notă: Atenție la pronunția maramureșeană a unor cuvinte. Acompaniament de tip brushing:
 
 ```tab
 Vers 1                                               Vers 2
@@ -16610,7 +16520,7 @@ A||------------0---------|------------0---------|||----------------------|--0---
 E||----------------------|--0-------------------|||------------0---------|----------------------||
 ```
 
-La refren se poate folosi același model dar cu bass alternativ.
+La refren, același model, cu bass alternativ.
 
 #### Scândura
 
@@ -16865,28 +16775,6 @@ Tine [E]minte sfârșitul nu-i [A]aici.
 **Ukulele:** Em 0432 · D 2220 · C 0003 · Am 2000 · B7 2322 · G 0232 · A 2100
 
 ```text
-cu următorul conținut:
-Sugestii pentru ...Și dacă... - Pro Musica
-Încearcă pentru piesa asta următoarele acorduri:
-Em, D, C
-Am, B7, Em
-Em, G, A
-C, D, Em (Am, B7, Em)
-Sunt acorduri pe care le am de la Ilie Stepan.
-O să sune mult mai bine.
-Cu respect ... Nelu
-am revizuit (puțin) melodia. Trebuie însa să mărturisesc ca nici variantă mea
-nu sună departe de advar deși aceasta nouă variantă sună mult mai bine ...
-Într-un mail ulterior am aflat ca:
-Nu il cunosc personal pe Ilie Stepan, acum vreo 7 ani l-am văzut in compania
-unor cunoscuți de-ai mei din Timișoara, și i-am rugat pe aceștia să-i ceară
-acordurile piesei "Și dacă".
-Imi pare rău ca am pierdut bucuta de hartie pe care mi-a scris acordurile,
-mai era și intro-ul pe note.
-Anyway, felicitări pentru pagina. Nu am apucat inca să văd toate piesele care
-apar pe site dar dacă mai știu vre-un cantec pe care nu-l ai, o să ți-l
-trimit.
-Deci cam asta ar fi nouă variantă, poate cea mai aprtopiata de adevăr...
 [Em]Și dacă ramuri [D]bat în [C]geam
 [Am]Și se cu[B7]tremur [Em]plopii,
 [Em]E ca în minte [G]să te [A]am
@@ -16903,6 +16791,8 @@ Deci cam asta ar fi nouă variantă, poate cea mai aprtopiata de adevăr...
 [C]De tine-[D]ntotdea[Em]una.
 [Am]De tine-[B7]ntotdea[Em]una.
 ```
+
+Notă: Alte acorduri, de la Ilie Stepan, pentru fiecare strofă: `Em` `D` `C` / `Am` `B7` `Em` / `Em` `G` `A` / `C` `D` `Em` (`Am` `B7` `Em`).
 
 #### Și de-ar fi (I)
 
@@ -17368,7 +17258,7 @@ Nu plânge de-ți ies în [D]gând. [D4]
 Refren
 ```
 
-Note: Acordul D4 se execută cu acordul D în cadrul aceleiași măsuri.
+Notă: `D` și `D4` se cântă unul după altul, două într-o singură măsură.
 
 #### Toți suntem puțin luați
 
@@ -17409,10 +17299,7 @@ Te [A]iau și-apoi îți spun că ești bărbat,
 Te [E]iau când în mormânt te-ai așezat.
 ```
 
-Notă: Fiecare vers se întinde pe durata a două măsuri.
-Cântat cu aceste acorduri cântecul sună puțin bine dar dacă încerci să-l
-cânți acompaniat de o a două chitara care interpretează următoarele riff-uri
-atunci sună aproape perfect
+Notă: Fiecare vers durează două măsuri. Sună mai bine cu o a doua chitară, care cântă riff-urile de mai jos:
 
 ```tab
 E-riff               A-riff              B-riff
@@ -17425,10 +17312,7 @@ E-riff               A-riff              B-riff
 |------------|------||------------|-----||-------------|--------
 ```
 
-Dacă asculți mai bine melodia poți să împodobești aceste riff-uri cu câteva
-bătăi suplimentare.
-Pe de altă parte toată melodia poate fi interpretată și folosind numai aceste
-riff-uri
+Riff-urile se pot împodobi cu bătăi suplimentare; melodia se poate cânta și numai cu ele.
 
 #### Totuși, iubirea
 
@@ -17777,8 +17661,7 @@ P   D
 |-0------------------------------------0-----------0-----------------|
 ```
 
-Și după câteva măsuri cantate pe orga și/sau flaut??! ... (habar n-am ce-i acolo),
-timp în care chitara schițează doar niște solo-uri, urmează:
+După câteva măsuri (orgă și/sau flaut în original?), în care chitara schițează doar solo-uri, urmează:
 
 ```tab
 P.          P   P.
@@ -17894,17 +17777,9 @@ Să [B7]redevii fi[Em]ință.
 [B7]Și umbra aceea ești [Em]TU
 ```
 
-Note:Acordaj standard, Tempo 2/4 ? Toate notele sunt optimi cu excepția celor
-indicate,P-pătrime, D-doime.
-În melodie sunt două, chiar trei chitare suprapuse la un moment dat...
-În plus, ritmul îmi aduce aminte de perioda preclasica. Singură modalitate
-de-a reda melodia fără să schimb tempo-ul sau linia melodica a fost să țin
-cont mai mult de chitara 2(Dan Badulescu, cred). La început sunt sigur c-o să
-va vină greu să cântați la chitara concomitent cu vocea. Mie îmi sună destul
-de bine când cânt odată cu Cd-ul, sper ca și vouă...Puteți încerca și pe două
-chitare (una ținând ce se vede mai sus, cealaltă o progresie de genul Em-C-D-
-G ) Pentru sugestii și injuraturi ...) mă găsiți pe adresă
-famstrong@yahoo.com
+Notă: Acordaj standard, măsura 2/4. Toate notele sunt optimi, cu excepția celor indicate: P = pătrime, D = doime.
+
+În melodie sunt două, chiar trei chitare suprapuse; transcrierea urmărește mai ales a doua chitară (Dan Bădulescu). Se poate cânta și pe două chitare: una cu tabulatura de mai sus, cealaltă cu o progresie de genul `Em` `C` `D` `G`.
 
 #### Un om pe niște scări (I)
 
@@ -17979,9 +17854,9 @@ Na na na Na na
 
 **Mircea Vintilă/Pasărea Colibri** · Sursa: Cărticica Karban, p. 176
 
-**Chitară:** C x32010 · G 320003 · Dm xx0231
+**Chitară:** C x32010 · G 320003 · Dm xx0231 · F 133211
 
-**Ukulele:** C 0003 · G 0232 · Dm 2210
+**Ukulele:** C 0003 · G 0232 · Dm 2210 · F 2010
 
 ```text
 [C]În lumea [G]plină de ur[C]mări, eu sînt un [G]om pe niște [C]scări.
@@ -18015,8 +17890,9 @@ sînt un [Dm]om pe niște [C]scări.
 [C]Voi care [G]fard și ciori pră[C]siți, întune[G]cați și spălă[C]ciți,
 lăsați-[Dm]mă să fiu pe [C]scări.
 [C]Întune[G]cați și spălă[C]ciți, lăsați-[Dm]mă să fiu pe [C]scări.
-Notă: în locul acordului Dm poate fi folosit și acordul F
 ```
+
+Notă: În locul lui `Dm` se poate folosi `F`.
 
 #### Un zvon
 
@@ -18152,6 +18028,55 @@ Refren
 Refren 2X
 ```
 
+#### Vânare de vânt
+
+**Pasărea Colibri** · muzica/versuri: Blowin' in the wind · Sursa: Cărticica Karban, p. 113
+
+**Chitară:** C x32010 · F 133211 · G7 320001 · Am x02210
+
+**Ukulele:** C 0003 · F 2010 · G7 0212 · Am 2000
+
+```text
+[C]How many [F]roads must a [G7]man walk [C]down
+[C]Before he can [F]call him a [G7]man
+Yes, and [C]how many [F]sees must a [G7]white dove [C]sail
+Be[C]fore she can [F]sleep in the [G7]sand
+Yes, and [C]how many [F]times must a [G7]canon balls [C]fly
+Be[C]fore they are [F]forever [G7]banned.
+Refren engleza:
+The [F]answer, my [G7]friends, is [C]blowing in the [Am]wind,
+The [F]answer is [G7]blowing in the [C]wind.
+The [F]answer, my [G7]friends, is [C]blowing in the [Am]wind,
+The [F]answer is [G7]blowing in the [C]wind.
+[C]Câte drumuri un [F]om ar [G7]avea de [C]făcut,
+[C]Până ei să-l con[F]sidere [G7]om?
+[C]Câte mari pescă[F]rușii mai [G7]au de bă[C]tut,
+[C]Pân-ajung pe n[F]isip pentru [G7]somn?
+Câte [C]bombe vor mai [F]sfârteca [G7]vieți [C]întregi,
+[C]Pân'să le inter[F]zicem pe [G7]veci?
+Refren româna:
+Răs[F]punsul, pri[G7]eteni, e vâ[C]nare de [Am]vânt,
+Răs[F]punsul e vâ[G7]nare de [C]vânt.
+Răs[F]punsul, pri[G7]eteni, e vâ[C]nare de [Am]vânt,
+Răs[F]punsul e vâ[G7]nare de [C]vânt.
+[C]Câți ani poate [F]un munte în [G7]lume [C]trăi,
+[C]Până marea să-l [F]spele-ntr-o [G7]zi?
+Și [C]câți ani și oa[F]menii [G7]pot vie[C]țui,
+[C]Până liberi [F]permis li-i a [G7]fi?
+[C]De câte ori [F]omul [G7]vede un [C]rău,
+[C]Și tace, întor[F]când capul [G7]sau?
+Refren româna
+[C]De câte ori [F]omul în [G7]sus va [C]privi,
+[C]Până cerul să-l [F]vadă de-[G7]ajuns?
+[C]Cât de multe [F]urechi nece[G7]sare îi [C]sînt
+[C]Că s-audă al [F]gurilor [G7]plâns?
+[C]Câți mai au au de [F]murit că s-[G7]aflam în sfâr[C]șit,
+[C]Ca oameni prea [F]mulți au [G7]murit?
+Refren româna
+Refren engleza
+Refren româna
+```
+
 #### Vara promisă
 
 **Ștefan Hrușcă** · muzica/versuri: Ștefan Hrușcă/Dan Verona · Sursa: Cărticica Karban, p. 86 · Caiet cabană RO, p. 154
@@ -18200,10 +18125,7 @@ Refren
 [A7]  Cu-adevă[Dm]rat [D]
 ```
 
-Note:Măsura este 4/4.
-
-La strofe trecerea de la `C` la `C7` se face în cadrul aceleiași măsuri folosind
-numai la ultima bătaie a măsurii acordul `C7`.
+Notă: Măsura 4/4. La strofe, trecerea de la `C` la `C7` se face în aceeași măsură, cu `C7` doar la ultima bătaie.
 
 #### Vara sufletului meu
 
@@ -18323,12 +18245,7 @@ Refren
 Refren
 ```
 
-Note:Primul refren și prima strofă se arpegiază după care urmează chitara
-ritmica.
-
-Pentru ritm mai ascultă odată melodia.
-
-Acordul A7 poate fi folosit sau nu. Mie îmi sună foarte bine acolo...
+Notă: Primul refren și prima strofă se arpegiază, apoi urmează chitara ritmică. `A7` e opțional.
 
 #### Viata complicată
 
@@ -18489,9 +18406,9 @@ Refren
 
 **Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/George Topârceanu · Sursa: Cărticica Karban, p. 40
 
-**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220 · E 022100
+**Chitară:** G 320003 · C x32010 · D xx0232 · A x02220 · E 022100 · C9 x32333
 
-**Ukulele:** G 0232 · C 0003 · D 2220 · A 2100 · E 4442
+**Ukulele:** G 0232 · C 0003 · D 2220 · A 2100 · E 4442 · C9 0201
 
 ```text
 Intro: 2X
@@ -18573,13 +18490,9 @@ Cu trăsuri, femei cochete (ee!)
 Și cu [C]fete (EEE!)
 Încăl[D]țate cel pu[G]țin ! (hei!)
 2X Intro
-Notă de la Oli: se poate cânta și din C, dar așa sună mai aproape de
-original.
-Notă de la Eugen: Mie îmi sună bine și acordurile din poziția 1-a cu
-următoarele excepții:
-G se prinde cum se vede în dicționarul meu, de mai jos iar în loc de C se
-folosește C9
 ```
+
+Notă: Cu acorduri barate sună mai aproape de original: `G` 355433, `C` 335553, `D` 557775, `A` 577655, `E` 779997 (se poate cânta și din `C`). Sunt posibile și acordurile din poziția 1, cu excepțiile: `G` 320033, iar în loc de `C` se folosește `C9` x32030.
 
 #### Vinovații fără vină
 
@@ -18656,7 +18569,7 @@ Refren x2
 
 **Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
 
-Același intro se cântă și între strofe
+Același intro se cântă și între strofe.
 
 ```text
 O [C]cameră micuță dar [Am]de prieteni plină
@@ -18759,8 +18672,7 @@ Va trece [A]vara pe câm[D]pii,
 Și hora-n [A]sat ne-o-nvese[D]li.
 ```
 
-Notă: Cântecul e în măsura 3/4. Deși se pot folosi și acordurile clasice eu
-le recomand pe cele barate.
+Notă: Măsura 3/4. Se recomandă acordurile barate, în loc de cele clasice: `D` xx0232, `Bm` 224432, `G` 355433, `A` 577655.
 
 #### Alunelul
 
@@ -18785,7 +18697,7 @@ Sursa: Cărticica Karban, p. 255
 [D]Să ră[G]mână [A]miti[D]tel.
 ```
 
-Notă: Măsura cântecului e 2/4
+Notă: Măsura 2/4.
 
 #### Am doar 18 ani
 
@@ -18897,18 +18809,18 @@ Am nevoie de ti[D]ne[Cm]=să [G#]nu mă uiți [A#]
 Solo riff:
 
 ```tab
-E||-------------------------------------------------------------||
-B||-----------------------------------------------------------7-||
-G||------------0--2--2/4--2-2--2/4--2-2----7-6-7-7/9--7-6-7-----||
-D||--0--2--4----------------------------------------------------||
-A||-------------------------------------------------------------||
-E||-------------------------------------------------------------||
-E||---------------------------------------------------------------||
-B||---------------------------3/5--3-3----------------------------||
-G||-----2--2/4--2-2--0-----------------4--9/10-9-7--5--9/10-9-7-5-||
-D||-----------------------4---------------------------------------||
-A||---------------------------------------------------------------||
-E||---------------------------------------------------------------||
+E||-------------------------------------------------------------------||
+B||-----------------------------------------------------------7-------||
+G||------------0--2--2/4--2-2--2/4--2-2----7-6-7-7/9--7-6-7-----------||
+D||--0--2--4----------------------------------------------------------||
+A||-------------------------------------------------------------------||
+E||-------------------------------------------------------------------||
+E||-------------------------------------------------------------------||
+B||---------------------------3/5--3-3--------------------------------||
+G||-----2--2/4--2-2--0-----------------4--9/10-9-7--5--9/10-9-7-5-----||
+D||-----------------------4-------------------------------------------||
+A||-------------------------------------------------------------------||
+E||-------------------------------------------------------------------||
 ```
 
 #### Aproape de voi
@@ -19417,7 +19329,7 @@ muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
 [A7]Stau vreo cinci pri[D]eteni mici.
 ```
 
-Notă: Măsura cântecului e 2/4
+Notă: Măsura 2/4.
 
 #### Ciobănaș cu trei sute de oi
 
@@ -19442,20 +19354,17 @@ Notă: Măsura cântecului e 2/4
 [C]Dar n-am ce face [G7]c-așa-i soarta [C]mea.
 ```
 
-Notă: Măsura 3/4. Cântecul e foarte simplu merge cântat și folosind o
-progresie `D` `A7` `C` în locul celei `D` `G7` `F`
+Notă: Măsura 3/4. Se poate folosi și progresia `D` `A7` `C` în locul celei `D` `G7` `F`.
 
 #### Cu galeata în mână
 
-**Este unul din cântecele mele preferate dar destul de greu de explicat cum se** · muzica/versuri: Pe Maria or gasitu' · Sursa: Cărticica Karban, p. 242
+Sursa: Cărticica Karban, p. 242
 
-cânta.
-Cantecul are o tenta de blues pornind din A.
-În principiu sunt doar trei riff-uri care se cântă propriu zis între versuri
-și un mic turnaround care se cântă la sfârșitul fiecărei strofe.
-Pentru a evita orice neînțelegeri acordurile prinse sunt la primul riff un A.
-Celelalte un C7 (deplasat pe griff în diferite poziții cum se vede din
-tabulatura)
+**Chitară:** A x02220 · C7 x32310
+
+**Ukulele:** A 2100 · C7 0001
+
+Notă: Cântec cu tentă de blues, pornind din `A`. Între versuri se cântă trei riff-uri, iar la sfârșitul fiecărei strofe un mic turnaround. Acordurile prinse sunt `A` la primul riff și `C7` (deplasat pe grif, ca în tabulatură) la celelalte.
 
 ```tab
 Riff 1        Riff 2         Riff3         Turnaround
@@ -19509,8 +19418,7 @@ Era jos în beci,[Riff 1]
 Cu creierii fleci.[Riff 3 + Turnaround]
 ```
 
-Notă:Refrenul se poate "înfrumuseta" cu diferite versuri finale de la
-strofele următoare și poate fi cântat și pe mai multe voci
+Notă: Refrenul se poate înfrumuseța cu versuri finale diferite din strofele următoare și se poate cânta pe mai multe voci.
 
 #### Cucule pasăre grasă
 
@@ -19541,7 +19449,7 @@ muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
 [F]Cuculeana [G]lugojeana, [C]cuc.
 ```
 
-Notă:Măsura cântecului e 3/4
+Notă: Măsura 3/4.
 
 #### Dacă pleci
 
@@ -19677,9 +19585,9 @@ Refren
 
 **Zdub&Zdob** · muzica/versuri: Zdub&Zdob/Zdub&Zdob · Sursa: Cărticica Karban, p. 178
 
-**Chitară:** Em 022000 · C x32010 · D7 xx0212 · G 320003 · Am x02210 · B7 x21202 · D xx0232
+**Chitară:** Em 022000 · C x32010 · D7 xx0212 · G 320003 · Am x02210 · B7 x21202 · D xx0232 · C#m x46654
 
-**Ukulele:** Em 0432 · C 0003 · D7 2223 · G 0232 · Am 2000 · B7 2322 · D 2220
+**Ukulele:** Em 0432 · C 0003 · D7 2223 · G 0232 · Am 2000 · B7 2322 · D 2220 · C#m 1104
 
 ```text
 [Em]Dragă O[C]tee, [D7]dulce mi[G]reasma
@@ -19727,9 +19635,7 @@ S  S S  S  S S  S S S  S S S  S S S  S S S P
 [Am]Parcă răs[Em]punde,[B7]parcă în[Em]treabă
 ```
 
-Note:Tempo 4/4
-Melodie transpusa în Em (din C#m cred)
-Legenda tab: O-optime; P-pătrime; S-șaisprezecime
+Notă: Măsura 4/4. Transpus în `Em` (în original, probabil `C#m`). Legenda tabulaturii: O = optime, P = pătrime, S = șaisprezecime.
 
 #### Du-mă acasă mai tramvai
 
@@ -19768,16 +19674,15 @@ Legenda tab: O-optime; P-pătrime; S-șaisprezecime
 [Dm]Ruptă [Am]din i[E]nima [Am]mea
 ```
 
-Notă: Măsura cântecului este 3/4 și se poate acompania simplu cu o ciupeala
-de forma:
+Notă: Măsura 3/4. Ciupitură simplă:
 
 ```tab
-E||-------1----1----|-------0----0----|-------1----1----|-------0----0----|
-B||-------3----3----|-------1----1----|-------3----3----|-------1----1----|
-G||-------2----2----|-------2----2----|-------2----2----|-------2----2----|
-D||--0--------------|-----------------|--0--------------|-----------------|
-A||-----------------|--0--------------|-----------------|--0--------------|
-E||-----------------|-----------------|-----------------|-----------------|
+E||-------1----1----|-------0----0----|-------1----1----|-------0----0----||
+B||-------3----3----|-------1----1----|-------3----3----|-------1----1----||
+G||-------2----2----|-------2----2----|-------2----2----|-------2----2----||
+D||--0--------------|-----------------|--0--------------|-----------------||
+A||-----------------|--0--------------|-----------------|--0--------------||
+E||-----------------|-----------------|-----------------|-----------------||
 E||-------1----1----|-------0----0----|-------0----0----|-------0----0----||
 B||-------3----3----|-------1----1----|-------0----0----|-------1----1----||
 G||-------2----2----|-------2----2----|-------1----1----|-------2----2----||
@@ -19786,7 +19691,7 @@ A||-----------------|--0--------------|-----------------|--0--------------||
 E||-----------------|-----------------|--0--------------|-----------------||
 ```
 
-...exemplificat aici pentru primele două versuri.
+Exemplificată pentru primele două versuri.
 
 #### Ești așa frumoasă
 
@@ -20120,7 +20025,7 @@ muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
 [F]În cel [C]codru-[G]ntune[C]cat.
 ```
 
-Notă: Măsura cântecului e 2/4
+Notă: Măsura 2/4.
 
 #### Îmi pare rău
 
@@ -20249,7 +20154,7 @@ Să [Am]crezi ca nici un rău nu te mai [Dm]poate atinge
 Î[Am]ți amintești ce bine [E7]era...?
 ```
 
-Notă: Pentru tonalitatea originala folosește capo în poziția a 2-a.
+Notă: Pentru tonalitatea originală, capo în poziția a 2-a.
 
 #### La fereastra ta (I)
 
@@ -20331,7 +20236,7 @@ Gtr I
 |----------------------------------------------^0--|
 ```
 
-Notă: săgețile înaintea notelor indica arpegiere
+Notă: Săgețile dinaintea notelor indică arpegiere.
 
 ```text
 [Em]Văd, la fereastră ta târziu
@@ -20362,7 +20267,7 @@ O poveste de pe [D]drum
 Când visam sub geamul [G]tău
 ```
 
-Notă: urmează apoi cu o trecere de genul:
+Notă: Urmează o trecere de genul:
 
 ```tab
 |-^3------^0---^0----|
@@ -20384,7 +20289,7 @@ O romanță cu par[E]fum
 Să pot [E7]sta în părul [A]tău
 ```
 
-Note:tempo 4/4; acordaj standard
+Notă: Măsura 4/4; acordaj standard.
 
 #### La Mulți Ani!
 
@@ -20421,7 +20326,7 @@ Wünschen wir dir lieber [C]="Someone"
 [G]Zum Ge[D7]burtstag viel [G]Glück!
 ```
 
-Și o mică variantă cu putina solistica + acorduri care am găsit-o în net:
+Variantă cu puțină solistică, plus acorduri:
 
 ```tab
 e|--------------------------|-----------------3-------|
@@ -20461,7 +20366,7 @@ E|--------------------------|-------------------------|-3---------
 Some - one.     Ha - ppy Birth - day      to       you
 ```
 
-Notă: "Ionel" se înlocuiește cu numele sărbătoritului/sărbătoritei
+Notă: „Ionel” se înlocuiește cu numele sărbătoritului/sărbătoritei.
 
 #### Lângă mine
 
@@ -20495,7 +20400,12 @@ Să mă [G]pierd din nou în [A]sărutul tău
 Să uit de [G]trecut[A], de tot ce-am [Bm]avut
 Să mă [G]ridic din nou, [A]să încerc să fiu
 [B]Un alt om.......
-Riff 1 (pe coarda 3):   g---4/5--4--2--0--2---
+```
+
+Riff 1 (pe coarda 3):
+
+```tab
+G|---4/5--4--2--0--2--------|
 ```
 
 #### Mai stai
@@ -20750,11 +20660,9 @@ Dar mi-e foarte [D]somn...
 [G]Domnu e al [D]tău
 [G]Zeul e [D]rău!
 Sur[A]dule!
-Nată: Mai jos am indicat acordurile barate.
-La fel de bine pot fi folosite și cele în poziția întâi foarte important la
-acest cântec fiind de fapt ritmul pe care îl poți găsi singur ascultând
-melodia
 ```
+
+Notă: Acorduri barate: `D` xx0232, `Bm` 224432, `G` 355433, `A` 577655; se pot folosi la fel de bine și cele din poziția întâi. Important la acest cântec e ritmul.
 
 #### Nu am chef azi
 
@@ -20986,8 +20894,9 @@ Obsesia[B]
 [E]Să îmi arăți tot ce [C#m]ai
 [A]În noap[B]te, [A]în șoap[B]te.......
 Refren 3X
-Notă:La refren se folosește acordul Cm# în forma să barata în poziția a 4-a.
 ```
+
+Notă: La refren, `C#m` se prinde baré, în poziția a 4-a.
 
 #### Ochii tăi (I)
 
@@ -21087,11 +20996,7 @@ Refren:
 Refren
 ```
 
-Notă de la Eugen: Într-unele locuri transcrierea nu prea îmi pare exacta.
-Trebuie însa să și remarc că eu știu doar melodia de pe Lp-ul Holograf 1.
-Eu as folosi de exemplu la strofe o progresie de tipul Em Em C Am (în loc de
-Em Em7 Am Am7);
-iar la ultimul vers al strofei C Bm (în loc de C D).
+Notă: În unele locuri transcrierea poate fi inexactă. Alternativ: la strofe `Em` `Em` `C` `Am` (în loc de `Em` `Em7` `Am` `Am7`), iar la ultimul vers al strofei `C` `Bm` (în loc de `C` `D`).
 
 #### Ploaia (Cargo)
 
@@ -21164,11 +21069,7 @@ muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
 [F]Din fier cu [C]nituri [G]sau din gra[C]nit?
 ```
 
-Notă: Măsura cântecului e 2/4
-
-După părerea mea sună puțin cam "brigadierist" cântecul ...
-
-Pentru o variantă mai complicată cauta la Mircea Florian.
+Notă: Măsura 2/4.
 
 #### Poveste
 
@@ -21203,8 +21104,7 @@ Se gân[Cm]deau la o [D7]seara de [G]mai
 Se gân[Cm]deau la o [D7]seara de [G]mai
 ```
 
-Notă:merge acompaniat cu un ritm de tip beguine după cum urmează
-(exemplificat aici pentru C major):
+Notă: Ritm de tip beguine (exemplificat pentru `C`):
 
 ```tab
 ^     ^     ^
@@ -21216,8 +21116,7 @@ A||--3--3-------------------||
 E||--3--3-------------------||
 ```
 
-loviturile însemnate cu ^ se execută de jos în sus. A două bătaie e mai lenta
-(aproape arpegiată) și durează ceva mai mult.
+Loviturile marcate cu ^ se execută de jos în sus. A doua bătaie e mai lentă (aproape arpegiată) și durează puțin mai mult.
 
 #### Prietenii
 
@@ -21620,12 +21519,12 @@ La mine-n suflet bat.
 Intro 2X:
 
 ```tab
-E||------------------------------------------------------------------||
-B||------------------------------------------------------------------||
-G||------2-------2-------1-------1-------2-------2-------1-------1---||
-D||----2-------2---2---2-------2---2---0-------0---0---2-------2---2-||
-A||--0-----0-0-------0-----0-0-------0-----0-0-------2-----2-2-------||
-E||------------------------------------------------------------------||
+E||----------------------------------------------------------------------||
+B||----------------------------------------------------------------------||
+G||------2-------2-------1-------1-------2-------2-------1-------1-------||
+D||----2-------2---2---2-------2---2---0-------0---0---2-------2---2-----||
+A||--0-----0-0-------0-----0-0-------0-----0-0-------2-----2-2-----------||
+E||----------------------------------------------------------------------||
 A               E/A             D/A             E/B
 ```
 
@@ -21657,9 +21556,7 @@ Solo
 Refren 2X
 ```
 
-Note: pentru tonalitatea originala folosește un capo în poziția a 2-a.
-Acordurile sunt date numai pentru puriști.
-Pe tot parcursul cântecului se repetă riff-ul de la intro.
+Notă: Pentru tonalitatea originală, capo în poziția a 2-a; acordurile sunt date numai pentru puriști. Riff-ul din intro se repetă pe tot parcursul cântecului.
 
 #### Spune-mi cine ești (I)
 
@@ -21795,7 +21692,7 @@ Spune-mi dacă [E7]voi afla
 Într-o bună [Am]zi și drumul [D]spre inima [G]ta
 ```
 
-Note:la refren o chitară tine armonia, cealaltă intro-ul
+Notă: La refren, o chitară ține armonia, cealaltă intro-ul.
 
 #### Strada ta (I)
 
@@ -21866,8 +21763,9 @@ Refren:
 [D]Voi veni pe[A]strada ta [E] [D]
 [D]Te aș[A]tept mereu [E] [D]
 [D]Fără tine mi-e[E]greu.
-Notă: Acordurile D C și E D de la refren se fac cu câte 2 bătăi.
 ```
+
+Notă: Acordurile `D` `C` și `E` `D` de la refren se fac cu câte 2 bătăi.
 
 #### Strunga
 
@@ -21936,7 +21834,7 @@ lume. [A]
 [D]Repede și [E]ieftin m-au [A]vândut.
 ```
 
-Notă:Simplu și de efect. Ciupitura este ceva de genul:
+Notă: Ciupitură de genul:
 
 ```tab
 A                         D                         E                         A
@@ -21947,8 +21845,6 @@ D||-------------0-----------|--0----------------0-----|-------------------------
 A||--0----------------0-----|-------------0-----------|-------------2-----------|--0----------------0-----||
 E||-------------------------|-------------------------|--0----------------0-----|-------------------------||
 ```
-
-Restul merge ca de la sine după ca asculți melodia de câteva ori.
 
 #### Țăranul e pe câmp
 
@@ -21977,7 +21873,7 @@ Hei, hai lelita mea, și [C7]șoarecii la [F]brânză.
 Hei, hai lelita mea, și [C7]brânză la gu[F]noi.
 ```
 
-Notă: Măsura cântecului e 4/4
+Notă: Măsura 4/4.
 
 #### Te întreb pe tine soare (I)
 
@@ -22063,10 +21959,9 @@ Refren 2X:
 [D]"Mă vezi [C]tu pe mine [G]oare?"
 [A]Te în[C]treb pe tine [G]soare:
 [D]"Mă vezi [C]tu pe mine [G]oare?"
-Note:La refren se pot folosi acordurile G și A în poziția 1-a
-Primul și al treilea vers al strofelor se repetă de vocea a două cu aceleași
-acorduri.
 ```
+
+Notă: În original, `G`, `A` și variantele lor cu 7 se prind barate (`G` 355433, `A` 577655); la refren se pot folosi `G` și `A` în poziția 1. Primul și al treilea vers al strofelor se repetă, cu aceleași acorduri, de a doua voce.
 
 #### Te voi aștepta
 
@@ -22190,9 +22085,9 @@ Să cân[G]tăm și [D]să ne bucuram,
 [Am]Jalea s-o ui[Em]tăm.
 [Em]Veniți cu [D]noi... Timișoara!
 Refren 1
-Note:Unele versuri le-am reîmpărțit pentru a reda mai bine vizual formulă de
-acorduri a cântecului.
 ```
+
+Notă: Versurile sunt împărțite astfel încât să reiasă vizual formula de acorduri.
 
 #### Trece vremea
 
@@ -22267,9 +22162,9 @@ Refren:
 [D]Să fiu tot eu a[G]cela pe [A]care-l vei [D]dori
 [D]Sunt singur de-atâta [G]vreme, [A]singur și de [D]mult
 [D]La usa mea nici nu [G]mai țin minte de [A]când nu ai bă[D]tut.
-Notă: La refren partea cu G Bm și A se execută cu câte o lovitură pe fiecare
-acord.
 ```
+
+Notă: La refren, `G` `Bm` `A` se execută cu câte o lovitură pe acord.
 
 #### Un elefant...
 
@@ -22296,10 +22191,6 @@ Pe o pânză de păian[A7]jen
 Au mai chemat un ele[D]fant.
 [D]Un, ^Doi, ^Trei, ^Patru
 s.a.m.d. cred că până la 10 elefanți...
-Notă: Melodia cântecului probabil ca o știți din anii de grdinita...
-Nu știu dacă la sfârșitul cântecului mai era și o poanta sau o strofa mai
-altfel...
-Dacă cineva își aduce aminte îl rog să îmi scrie.
 ```
 
 #### Vara
@@ -22357,9 +22248,7 @@ Solo
 [Bm]Apa o cauta în [A]vis, înse[D]tate.
 ```
 
-Note: Semnul ^ indica lovirea corzilor de jos în sus. Transcrierea de mai sus
-reda variantă piesei de pe albumul "Symphoenix". Pe "Cantafabule" piesa e
-ceva mai altfel
+Notă: Semnul ^ indică lovirea corzilor de jos în sus. Transcrierea redă varianta de pe albumul „Symphoenix”; pe „Cantafabule” piesa e puțin diferită.
 
 #### Vine o zi
 
@@ -23520,16 +23409,9 @@ Dissitas in [C]regi[G]ones
 Sparsos, [F]con[C]gre[G]ga[C]vit;
 ```
 
-Notă:Cântecul e în măsura 3/4.
+Notă: Măsura 3/4. Partea dificilă e la sfârșitul strofelor, unde progresiile `C` `E7` `Am`, respectiv `C` `G` `C`, se cântă cu câte o bătaie pe tact.
 
-Partea "dificila este la sfârșitul strofelor unde progresiile `C` `E7` `Am`,
-respectiv `C` `G` `C` se cântă cu câte o bătaie pe tact.
-
-"Gaudeamus Igitur" este cel mai vechi cântec studențesc cunoscut și se
-presupune ca el a fost compus prin anul 1250.
-
-Versurile actuale pot fi datate, cu siguranta, la 1781 când au fost publicate
-într-o carte de cântece studențești.
+Cel mai vechi cântec studențesc cunoscut, probabil compus pe la 1250; versurile actuale datează din 1781, când au fost publicate într-o carte de cântece studențești.
 
 #### Gimme Hope Johana
 
@@ -24272,7 +24154,7 @@ Night is falling and you just can’t see
 Is this illusion or reality.
 ```
 
-#### Kai yone
+#### Kaj jone
 
 muzica/versuri: ???/??? · Sursa: Cărticica Karban, p. 224
 
@@ -24289,10 +24171,12 @@ Me ne ne [D]a!
 Nameraja [Bm]za me,
 Sugi [D]aj zadji [E7]pa ja [A]să,
 Me ne ne [A]a!
-Note:Se repeat strofa I mărind ritmul.
--"kay yone" se traduce "unde este ea".
-"j" se citește totdeauna "i"
 ```
+
+Notă: Prima strofă se repetă cu ritm mărit.
+
+- „kaj jone” înseamnă „unde este ea”
+- „j” se citește întotdeauna „i”
 
 #### Knockin' on Heaven's Door
 
@@ -25412,10 +25296,9 @@ CHORUS X2
 Jepas tuke, jepas mange [Bm]hop, hop, hop.
 Taj la la [Em]laj la [Bm]la la laj [F#]hop, hop, hop,
 Jepas tuke, jepas mange [Bm]hop, hop, hop.
-Note: -j se citește i
--"phabaj" se traduce "mărul"
--Strofa se repetă de 4 ori schimbându-se doar primul vers
 ```
+
+Notă: „j” se citește „i”; „phabaj” înseamnă „mărul”. Strofa se repetă de 4 ori, schimbându-se doar primul vers.
 
 #### Porom Pom Pom
 
@@ -26453,58 +26336,6 @@ Le jour ou moi aussi
 J’aurai quelqu’un qui m’aime.
 ```
 
-#### Trust My Sobriety
-
-Sursa: Caiet cabană EN, p. 43
-
-**Chitară:** Am x02210 · F 133211 · G 320003 · E 022100 · Dm xx0231
-
-**Ukulele:** Am 2000 · F 2010 · G 0232 · E 4442 · Dm 2210
-
-```text
-1.
-Am      F
-After people read the papers
-  G                      Am
-Drive your problems from here,
-Am  F
-All good people read good books
-    G             Am
-Now your consicence is clear,
-    Am
-I hear you talk girl
-    G             Am
-Now your conscience is clear.
-
-In the morning when I wipe my brow
-Wipe the miles away
-I like to think that I can be so well
-And never do what you say
-I’ll never hear you
-And never do what you say.
-
-R:
- E                      Am
-Look my eyes are just hallow grounds
-      E                 Am
-Look your love is running from my hands
-      Dm               Am
-From my hands you know you’ll never be
-        E           Am
-More than trust in my sobriety,
-
-2.
-We just baked a little empty pie,
-For the fun the people had at night
-Late at night we meet hostility
-Tears and smile and forced to free.
-
-I don’t care about the different thoughts
-Different thoughts are not for me
-Up and on and
-All the children took their turn.
-```
-
 #### Twist and Shout
 
 **Beatles** · Sursa: Caiet cabană EN, p. 7
@@ -26534,6 +26365,75 @@ mine).
 .
 Well, shake it, shake it, shake it, baby, now. (shake it up
 baby).
+```
+
+#### Twist in My Sobriety
+
+**Tanita Tikaram** · Sursa: Caiet cabană EN, p. 43
+
+**Chitară:** Am x02210 · F 133211 · G 320003 · E 022100 · Dm xx0231
+
+**Ukulele:** Am 2000 · F 2010 · G 0232 · E 4442 · Dm 2210
+
+```text
+1.
+Am        F
+All God's children need travelling shoes
+  G                      Am
+Drive your problems from here,
+Am  F
+All good people read good books
+    G             Am
+Now your conscience is clear,
+    Am
+I hear you talk girl
+    G             Am
+Now your conscience is clear.
+
+In the morning when I wipe my brow
+Wipe the miles away
+I like to think I can be so willed
+And never do what you say
+I'll never hear you
+And never do what you say.
+
+R:
+ E                      Am
+Look my eyes are just holograms
+      E                 Am
+Look your love has drawn red from my hands
+      Dm               Am
+From my hands you know you'll never be
+        E           Am
+More than twist in my sobriety (x3)
+
+2.
+We've just poked a little empty pie
+For the fun that people had at night
+Late at night don't need hostility
+The timid smile and pause to free.
+
+I don't care about their different thoughts
+Different thoughts are good for me
+Up in arms and chaste and whole
+All God's children took their toll.
+
+R
+
+Cup of tea, takes time to think, yeah
+Time to risk a life, a life, a life
+Sweet and handsome
+Soft and porky
+You pig out 'til you've seen the light
+Pig out 'til you've seen the light
+
+Half the people read the papers
+Read them good and well
+Pretty people, nervous people
+People have got to sell
+News you have to sell
+
+R
 ```
 
 #### Unchained Melody
@@ -26568,55 +26468,6 @@ Lonely rivers flow to the sea, to the sea.
 To the open arms of the sea.
 Lonely rivers sigh wait for me, wait for me.
 I'll be coming home.Wait for me.
-```
-
-#### Vânare de vânt
-
-**Pasărea Colibri** · muzica/versuri: Blowin' in the wind · Sursa: Cărticica Karban, p. 113
-
-**Chitară:** C x32010 · F 133211 · G7 320001 · Am x02210
-
-**Ukulele:** C 0003 · F 2010 · G7 0212 · Am 2000
-
-```text
-[C]How many [F]roads must a [G7]man walk [C]down
-[C]Before he can [F]call him a [G7]man
-Yes, and [C]how many [F]sees must a [G7]white dove [C]sail
-Be[C]fore she can [F]sleep in the [G7]sand
-Yes, and [C]how many [F]times must a [G7]canon balls [C]fly
-Be[C]fore they are [F]forever [G7]banned.
-Refren engleza:
-The [F]answer, my [G7]friends, is [C]blowing in the [Am]wind,
-The [F]answer is [G7]blowing in the [C]wind.
-The [F]answer, my [G7]friends, is [C]blowing in the [Am]wind,
-The [F]answer is [G7]blowing in the [C]wind.
-[C]Câte drumuri un [F]om ar [G7]avea de [C]făcut,
-[C]Până ei să-l con[F]sidere [G7]om?
-[C]Câte mari pescă[F]rușii mai [G7]au de bă[C]tut,
-[C]Pân-ajung pe n[F]isip pentru [G7]somn?
-Câte [C]bombe vor mai [F]sfârteca [G7]vieți [C]întregi,
-[C]Pân'să le inter[F]zicem pe [G7]veci?
-Refren româna:
-Răs[F]punsul, pri[G7]eteni, e vâ[C]nare de [Am]vânt,
-Răs[F]punsul e vâ[G7]nare de [C]vânt.
-Răs[F]punsul, pri[G7]eteni, e vâ[C]nare de [Am]vânt,
-Răs[F]punsul e vâ[G7]nare de [C]vânt.
-[C]Câți ani poate [F]un munte în [G7]lume [C]trăi,
-[C]Până marea să-l [F]spele-ntr-o [G7]zi?
-Și [C]câți ani și oa[F]menii [G7]pot vie[C]țui,
-[C]Până liberi [F]permis li-i a [G7]fi?
-[C]De câte ori [F]omul [G7]vede un [C]rău,
-[C]Și tace, întor[F]când capul [G7]sau?
-Refren româna
-[C]De câte ori [F]omul în [G7]sus va [C]privi,
-[C]Până cerul să-l [F]vadă de-[G7]ajuns?
-[C]Cât de multe [F]urechi nece[G7]sare îi [C]sînt
-[C]Că s-audă al [F]gurilor [G7]plâns?
-[C]Câți mai au au de [F]murit că s-[G7]aflam în sfâr[C]șit,
-[C]Ca oameni prea [F]mulți au [G7]murit?
-Refren româna
-Refren engleza
-Refren româna
 ```
 
 #### What's Up
@@ -27158,7 +27009,7 @@ D                  G
 Cu flori de măr în mână.
 ```
 
-Note: Măsura este 4/4 și recomand ciupitura:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|-------------------0-----------------------|
@@ -27169,7 +27020,7 @@ A|--------3----------------------------------|
 E|-------------------------------------------|
 ```
 
-Exemplificată aici pentru `C`. Versurile sunt ale poeziei “Colindătorii” de G. Coșbuc.
+Exemplificată pentru `C`. Versurile sunt ale poeziei „Colindătorii” de G. Coșbuc.
 
 #### Aseară pe-nserate
 
@@ -27222,7 +27073,7 @@ O, nu plănge Iisuse
 Că tu cunoști lumea
 ```
 
-Note: Măsura este 4/4. Merge o ciupitură de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------1---------------------------|
@@ -27231,7 +27082,7 @@ G|--------------1-------------------------1------------1--|
 D|--------------------------------------------------------|
 A|--------------------------------------------------------|
 E|--------1-----------------------------------------------|
-          | _ _ |      | _ _ |      | _ _ |      | _ _ |
+          | _ _ |      | _ _  |     | _ _ |      | _ _ |
           Fm
 ```
 
@@ -27286,7 +27137,7 @@ B          E        E
 De colindă bucuroși
 ```
 
-Note: Măsura este 3/4. Merge un ritm de forma:
+Notă: Măsura 3/4. Ritm:
 
 ```tab
 E|--------0-----0-----0-----0---|
@@ -27295,10 +27146,10 @@ G|--------1-----1-----1-----1---|
 D|--------2-----2-----2-----2---|
 A|--------2-----2-----2-----2---|
 E|--------0-----0-----0-----0---|
-          | _ _ |      | _ _ |
+          | _ _ |     |  _ _|
 ```
 
-Exemplificat aici pentru `E`.
+Exemplificat pentru `E`.
 
 #### Când fost-a micuț prunc Isus
 
@@ -27348,7 +27199,7 @@ Cu spine l-au încoronat.
 Cu spine l-au încoronat.
 ```
 
-Note:Măsura este 4/4. Merge o ciupitură de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------------2---------------------|
@@ -27357,7 +27208,7 @@ G|--------------2------------2------------------2---------|
 D|--------0-----------------------------------------------|
 A|--------------------------------------------------------|
 E|--------------------------------------------------------|
-          | _ _ |      | _ _ |      | _ _ |      | _ _ |
+          | _ _ |      | _ _ |      | _ _ |     |  _ _ |
           D
 ```
 
@@ -27369,7 +27220,7 @@ E|--------------------------------------------------------|
 
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Em 0432 · C 0003 · Dm 2210 · G 0232
 
-transcriere:Drăgușin Daniel; email:dragusindaniel@yahoo.com; http://www.vol.ro/chitara
+Transcriere: Drăgușin Daniel.
 
 ```text
 Am     E     Am
@@ -27410,9 +27261,7 @@ Micului Iisus,
 Micului Iisus.
 ```
 
-Note:Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest cântec.
-
-Măsura este 4/4. Se potrivește o ciupitură de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------0------------|
@@ -27423,7 +27272,7 @@ A|----------0--------------------------------|
 E|-------------------------------------------|
 ```
 
-Exemplificată aici pentru `Am`.
+Exemplificată pentru `Am`.
 
 #### Cerul și pământul (I)
 
@@ -27550,15 +27399,13 @@ Fiu născu în lume.
 
 #### Cheamă-ți gazdă
 
-**Ducu Bertzi** · Sursa: Colinde Karban, p. 97
+**Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Gheorghe Țărnea · Sursa: Colinde Karban, p. 97
 
 **Chitară:** C x32010 · G 320003 · F 133211
 
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
-Ducu Bertzi/Gheorghe Țărnea
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 Intro: Dm G Dm G Dm C G
           C
 Cheamă-ți gazdă slujile
@@ -27610,16 +27457,16 @@ G                 C
 Pân’ ne-om duce departe.
 ```
 
-Note:Măsura este 4/4 și merge o lovitură arpegiată de forma:
+Notă: Măsura 4/4. Lovitură arpegiată:
 
 ```tab
 E|-------0--------------0----0----0----0-------------------0----0----0----3--|
 B|-------1--------------1----1----1----1-------------------1----1----1----0--|
-G|------0--------------0----0----0----0-------------------0----0----0----0---|
+G|-------0--------------0----0----0----0-------------------0----0----0----0--|
 D|-------2--------------2----2----2----2-------------------2----2----2----0--|
 A|-------3--------------3----3----3----3-------------------3----3----3----2--|
 E|-------3--------------3----3----3----3-------------------3----3----3----3--|
-         |             _|     | __|    |                  _|    | __|     |
+         |             _|    |  __|    |                  _|    | __ |    |
 ```
 
 Schimbarea se face tot pe a 4-a bătaie.
@@ -27668,7 +27515,7 @@ Bb          C             C
 Că credință nu-i la nime
 ```
 
-Măsura este 4/4. Merge o ciupitură cu bass alternativ de forma:
+Notă: Măsura 4/4. Ciupitură cu bass alternativ:
 
 ```tab
 E|-------------------1-----------------------------1--------------------|
@@ -27677,7 +27524,7 @@ G|-------------------------2-------2--------------------2-------2-------|
 D|----------------------------------------------------------------------|
 A|---------------------------------------3------------------------------|
 E|--------1-------------------------------------------------------------|
-          |    _ |    |      | _ | _ |    |    _ |    |      | _ | _ |
+          |    _ |   |     |   _|  |     |     |        |    | _|  _ |
 ```
 
 #### Colindăm, colindăm iarna (I)
@@ -27732,7 +27579,7 @@ C     F    C     G
 În noaptea de Crăciun,
 ```
 
-Note:Măsura este 4/4 și merge o ciupitură ca mai jos:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------0------------|
@@ -27793,7 +27640,7 @@ C         C
 Corindăm, corindăm.
 ```
 
-Note:Măsura este 4/4 și merge o ciupitură ca mai jos:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------0------------|
@@ -27851,16 +27698,16 @@ D              Gm
 Din vârfuțul munților.
 ```
 
-Măsura este 3/4. Merge o ciupitură cu bass alternativ de forma:
+Notă: Măsura 3/4. Ciupitură cu bass alternativ:
 
 ```tab
 E|-----------------3-------------------------3------------|
 B|-------------------------3-------------------------3----|
-G|------------3-------3-------3-------3-------3-------3---|
+G|------------3-------3-------3-----3--------3-------3----|
 D|--------------------------------------------------------|
 A|----------------------------------5---------------------|
 E|--------3-----------------------------------------------|
-          | _ | _ | _ |   | _ | _ | _ |    | _ | _ | _ |
+          | _ | _  |_ |    |_ | _   | |      | | _   | |
 ```
 
 #### Colindul pușcăriașului
@@ -27906,9 +27753,7 @@ D           G
 Cu bulan pe spate
 ```
 
-Note:O variantă a acestui cântec am auzit-o interpretată de grupul Vacanța Mare. Nu știu dacă versurile le aparțin.
-
-Măsura este 4/4 și propun un acompaniament de forma:
+Notă: Măsura 4/4. Acompaniament:
 
 ```tab
 E|------------------------------3-------------|
@@ -27917,10 +27762,10 @@ G|-------------------0--------------------0---|
 D|--------------------------------------------|
 A|--------------------------------------------|
 E|--------3-----------------------------------|
-          |          |          |          |
+          |          |          |         |
 ```
 
-Exemplificat aici pentru `G`.
+Exemplificat pentru `G`.
 
 #### Corindăm, corindăm (I)
 
@@ -27966,7 +27811,7 @@ C    G     C
 Sara de Crăciun.
 ```
 
-Note:Măsura este 4/4 și merge o ciupitură ca mai jos:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------0------------|
@@ -28028,7 +27873,7 @@ C   G      C
 Zoriori de ziuă...
 ```
 
-Măsura este 4/4 și merge o ciupitură de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------0------------|
@@ -28091,7 +27936,7 @@ D      A    D
 Veniți la Viflaim.
 ```
 
-Ultimele două versuri ale fiecărei strofe se repetă. Măsura este 4/4 și propun următorul model:
+Notă: Ultimele două versuri ale fiecărei strofe se repetă. Măsura 4/4. Model:
 
 ```tab
 E|----------------------------0---------------------------|
@@ -28100,10 +27945,10 @@ G|--------------2-------------------------2------------2--|
 D|-----------------------------------------------2--------|
 A|--------0-----------------------------------------------|
 E|--------------------------------------------------------|
-          | _ _ |      | _ _ |      | _ _ |      | _ _ |
+          | _ _ |      | _ _  |     | _ _ |      | _ _ |
 ```
 
-Exemplificat aici pentru A.
+Exemplificat pentru `A`.
 
 #### Dalbu-i dealu
 
@@ -28157,7 +28002,7 @@ G        D  D     G     G
 Mare-i sara de Crăciun.
 ```
 
-Note:În original e cu un semiton mai jos. Măsura este 4/4. Merge o ciupitură de forma:
+Notă: În original, cu un semiton mai jos. Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------3------------|
@@ -28211,7 +28056,7 @@ Corinde le corind, corinde le corind.
 
 ```tab
 E|-----------------------------------------------|
-B|---------------------3----------------------3--|
+B|--------------------3-----------------------3--|
 G|--------4-----4-----4---------4-----4-----4----|
 D|--------5-----5-----5---------5-----5-----5----|
 A|--------5-----5-----5---------5-----5-----5----|
@@ -28367,9 +28212,7 @@ G                   C
 La mulți ani, mulți ani cu bine.
 ```
 
-Note:Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest cântec.
-
-Am mai adăugat aici strofe din alte variante. Măsura este 4/4 și propun următorul model:
+Notă: Transcriere: Drăgușin Daniel, cu strofe adăugate din alte variante. Măsura 4/4. Model:
 
 ```tab
 E|--------0-----0-----0-----0---|
@@ -28378,10 +28221,10 @@ G|--------0-----0-----0-----0---|
 D|--------2-----2-----2-----2---|
 A|--------3-----3-----3-----3---|
 E|--------3-----3-----3-----3---|
-          | _ _ |      | _ _ |
+          | _ _ |     |  _ _|
 ```
 
-Semnele “ ” reprezintă lovirea corzilor de sus în jos. Bătăile de jos în sus se accentuează.
+Semnele “ ” = lovire de sus în jos; bătăile de jos în sus se accentuează.
 
 #### Drumul magilor
 
@@ -28392,8 +28235,6 @@ Semnele “ ” reprezintă lovirea corzilor de sus în jos. Bătăile de jos î
 **Ukulele:** C 0003 · Am 2000 · Dm 2210 · G 0232 · D 2220
 
 ```text
-Mircea Baniciu/???
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 Intro: C Am Am C G
 C                   Am
 Ninși de cerul fără de-nceput
@@ -28446,7 +28287,7 @@ G
 Mereu s-o vadă.
 ```
 
-Note:Măsura este 4/4 și merge o bătaie de forma:
+Notă: Măsura 4/4. Bătaie:
 
 ```tab
 E|--------0---------0-----0-----0-----0-----0-----0--|
@@ -28517,7 +28358,7 @@ Bbm          Fm
 Da’ cine-i ferice?
 ```
 
-Note: În original este cu un semiton mai sus. Măsura este 4/4 și ritmul de forma:
+Notă: În original, cu un semiton mai sus. Măsura 4/4. Ritm:
 
 ```tab
 E|--------1---------1---------1--|
@@ -28610,7 +28451,7 @@ G            G        D        G     G
 Că e sara de Crăciun, flori de măr.
 ```
 
-Note: Măsura este 4/4. Ciupitura:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------3-------------|
@@ -28720,7 +28561,7 @@ Em       Am      Em
 Florile, florile dalbe.
 ```
 
-Note:Măsura este 4/4 iar ciupitura:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|---------------0-------------------------0--------------|
@@ -28729,7 +28570,7 @@ G|---------------------------0-------------------------0--|
 D|--------------------------------------------------------|
 A|--------------------------------------------------------|
 E|--------0-------------------------0---------------------|
-          | _ _ |    | _ _ |        | _ _ |      | _ _ |
+          | _ _  |     | _   |      | _ _  |     | _ _ |
           Em
 ```
 
@@ -28789,9 +28630,7 @@ G                    C
 Când o fost vreme de moarte
 ```
 
-Note:Fiecare vers se repetă urmat de “Iarăși flori dalbe de măr”.
-
-Acordurile se repetă ca la primul vers. Măsura este 4/4. Merge un ritm de forma:
+Notă: Fiecare vers se repetă, urmat de „Iarăși flori dalbe de măr”, cu aceleași acorduri ca la primul vers. Măsura 4/4. Ritm:
 
 ```tab
 E|--------3---------3---------3--|
@@ -28851,7 +28690,7 @@ F            C    F
 Ea să-mi fie nevestică.
 ```
 
-Note:Măsura este 4/4. La intro merge o bătaie de forma:
+Notă: Măsura 4/4. Bătaie la intro:
 
 ```tab
 E|--------1-----1------------1-----1------------1----|
@@ -28860,11 +28699,11 @@ G|--------2-----2------------2-----2------------2----|
 D|--------3-----3------------3-----3------------3----|
 A|--------3-----3------------3-----3------------3----|
 E|--------1-----1------------1-----1------------1----|
-          | _ _ |          _ |      | _         | _
+          | _ _ |          _ |     |  _         | _
           F
 ```
 
-Iar mai jos trecerile `F` la `C` și `F` la `B`. Atenție la bătăile în jos!
+Mai jos, trecerile `F`–`C` și `F`–`B`. Atenție la bătăile în jos!
 
 ```tab
 E|--------1-----1-----1---------0------------1-----1------------1-----1-----1---------1------------1-----1--|
@@ -28924,7 +28763,7 @@ D      D      G          G
 Cât trăiți s-aveți noroc
 ```
 
-Note:Măsura este 4/4. Merge o bătaie de forma:
+Notă: Măsura 4/4. Bătaie:
 
 ```tab
 E|--------3---------3---------3-------------------------3---------3---------0---|
@@ -28936,7 +28775,7 @@ E|--------3---------3---------3-------------------------3---------3---------x---
          G                                              G                   Am
 ```
 
-Am arătat mai sus si trecerile din versurile 2 și 3 ale fiecărei strofe de la `G` la `Am` și invers.
+Sunt arătate și trecerile `G`–`Am` (și invers) din versurile 2 și 3 ale fiecărei strofe.
 
 #### La Viflaim, la Viflaim
 
@@ -28989,7 +28828,7 @@ G|-------------------2--------------------2---|
 D|--------------------------------------------|
 A|--------0--------------------0--------------|
 E|--------------------------------------------|
-          |          |          |          |
+          |          |         |          |
           A
 ```
 
@@ -29077,7 +28916,7 @@ Că s-o arătat
 Că s-o arătat
 ```
 
-Note: Măsura este 3/4 și ciupitura:
+Notă: Măsura 3/4. Ciupitură:
 
 ```tab
 E|----------------------------------0--------|
@@ -29131,7 +28970,7 @@ G             C     D
 Că io nu-s ce par a fire
 ```
 
-Note:În original probabil din `F`. Măsura este 4/4. Ca acompaniament propun urmatoarea ciupitură:
+Notă: În original, probabil din `F`. Măsura 4/4. Ciupitură:
 
 ```tab
 E|--------3---------3--------------------0---|
@@ -29140,7 +28979,7 @@ G|--------0--------------------0-------------|
 D|-------------------------------------------|
 A|-------------------------------------------|
 E|--------3----------------------------------|
-          |         |          |          |
+          |         |          |         |
 ```
 
 #### Noapte de vis
@@ -29190,18 +29029,16 @@ G      D    G G
 Domnul e pe pământ.
 ```
 
-Note:O altă variantă de la Stille Nacht cel mai frumos cântec de Crăciun.
-
-Măsura este 3/4.Merge o bătaie sau ciupitură de forma:
+Notă: Altă variantă a cântecului „Stille Nacht”. Măsura 3/4. Bătaie sau ciupitură:
 
 ```tab
 E|---------------3-----3------------3-----3--|
 B|---------------3-----3------------3-----3--|
-G|--------------0-----0------------0-----0---|
+G|---------------0-----0------------0-----0--|
 D|-------------------------------------------|
 A|-------------------------------------------|
 E|--------3------------------3---------------|
-          | _ _ |      | _ _ |      | _ _ |
+          | _ _  |     | _ _ |      | _ _ |
 ```
 
 #### Noapte sfântă (I)
@@ -29240,8 +29077,6 @@ muzica/versuri: Franz Xaver Gruber/Joseph Mohr · Sursa: Colinde Karban, p. 11
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000
 
 ```text
-în original “Stille Nacht”
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 C              C
 Noapte sfântă, fericită,
 G       C
@@ -29352,7 +29187,7 @@ O, brad frumos a lui Hristos
 Cu frunza-ți neschimbată!
 ```
 
-Măsura ete 3/4
+Notă: Măsura 3/4.
 
 #### O, ce veste minunată! (I)
 
@@ -29403,17 +29238,17 @@ Noi îl lăudăm
 Și ne închinăm
 B           E
 Cu credință tare.
-Note:Ultimele 3 versuri din fiecare strofă se repetă mereu.
-Mulțumiri lui Drăgușin Daniel pentru permisiunea acordată de a publica acest cântec.
 ```
+
+Notă: Ultimele trei versuri din fiecare strofă se repetă. Transcriere: Drăgușin Daniel.
 
 #### O, ce veste minunată! (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 41
 
-**Chitară:** C x32010 · F 133211 · G 320003 · D xx0232 · E 022100
+**Chitară:** C x32010 · F 133211 · G 320003
 
-**Ukulele:** C 0003 · F 2010 · G 0232 · D 2220 · E 4442
+**Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
 C               F G
@@ -29437,13 +29272,16 @@ C         F
 Îngerul venea
 G           F C
 Pe-o rază curată.)
-E                               0
-B                               1
-G                    0                    0
-D
-A         3
-E
-|          |          |          |
+```
+
+```tab
+E|-------------------------------0------------------|
+B|-------------------------------1------------------|
+G|--------------------0--------------------0--------|
+D|--------------------------------------------------|
+A|---------3----------------------------------------|
+E|--------------------------------------------------|
+           |          |          |         |
 ```
 
 #### Ostașii luminii colindă (I)
@@ -29485,9 +29323,9 @@ De colindătorii veacurilor toate.
 
 **Doi și Jumătate** · muzica/versuri: Doi și Jumătate/Elena Farago · Sursa: Colinde Karban, p. 92
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000 · D xx0232 · E 022100
+**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000
 
-**Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432 · D 2220 · E 4442
+**Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432
 
 ```text
 Am              G
@@ -29523,24 +29361,31 @@ C     Em     Am
 Dalbe și iar dalbe
 Dm   Em    Am   Am
 Florile de măr.
-E                0                  0                  0
-B                      1                  1
-G                            2                  2
-D
-A         0
-E
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-Exemplificat aici pentru Am. Iar la refren:
-E                3                         0
-B                      0                         1
-G                            0                         0
-D
-A                                   3
-E         3
-| _ _ |      | _ _ |      | _ _ |      | _ _ |
-G                        C
-Exemplificat aici pentru G urmat de C.
 ```
+
+```tab
+E|----------------0------------------0------------------0--------|
+B|----------------------1------------------1---------------------|
+G|----------------------------2------------------2---------------|
+D|---------------------------------------------------------------|
+A|---------0-----------------------------------------------------|
+E|---------------------------------------------------------------|
+           | _ _  |     | _ _ |      | _ _ |     |  _ _ |
+```
+
+Exemplificat pentru `Am`. Iar la refren:
+
+```tab
+E|----------------3-------------------------0--------------------|
+B|----------------------0-------------------------1--------------|
+G|----------------------------0-------------------------0--------|
+D|---------------------------------------------------------------|
+A|-----------------------------------3---------------------------|
+E|---------3-----------------------------------------------------|
+           | _ _  |     | _ _ |      | _ _  |     | _ _ |
+```
+
+Exemplificat pentru `G` urmat de `C`.
 
 #### Pe cununa munților
 
@@ -29593,16 +29438,19 @@ F                Bb   C
 Oi linu-i lin și rujmalin
 F               C       F
 Când văd cât de rea-i lumea.
-E         1         1         1         1
-B         1         1         1         1
-G         2         2         2         2
-D         3         3         3         3
-A         3         3         3         3
-E         1         1         1         1
-|          |          |          |
-F
-Exemplificat pentru primul vers.
 ```
+
+```tab
+E|---------1---------1---------1---------1--------|
+B|---------1---------1---------1---------1--------|
+G|---------2---------2---------2---------2--------|
+D|---------3---------3---------3---------3--------|
+A|---------3---------3---------3---------3--------|
+E|---------1---------1---------1---------1--------|
+           |         |         |            |
+```
+
+Exemplificat pentru primul vers (`F`).
 
 #### Pe podele de nuiele
 
@@ -29650,7 +29498,7 @@ A          D          D   D
 Până gerul nu i-o prinde
 ```
 
-Note: Măsura este 4/4. Sună foarte bine ciupitura:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|--------2--------------------2--------------|
@@ -29659,7 +29507,7 @@ G|-------------------2--------------------2---|
 D|--------0-----------------------------------|
 A|--------------------------------------------|
 E|--------------------------------------------|
-          |          |          |          |
+          |          |         |          |
 ```
 
 #### Pe strada din Viflaim
@@ -29703,7 +29551,7 @@ E     A             B          E
 Iisus s-a născut în sara de Crăciun.
 ```
 
-Note:Măsura este 4/4. Merge o ciupitură de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------0---------------------------|
@@ -29712,11 +29560,11 @@ G|--------------1--------------------------------------1--|
 D|---------------------2-------------------------2--------|
 A|--------------------------------------------------------|
 E|--------0-------------------------0---------------------|
-          | _ _ |      | _ _ |      | _ _ |      | _ _ |
+          | _ _ |      | _ _  |     | _ _  |     | _ _ |
           E
 ```
 
-În original armonia este ceva mai complexă.
+În original, armonia e mai complexă.
 
 #### Pom înrămuratu
 
@@ -29761,7 +29609,7 @@ C              F             C          F
 În cel vârf de munte, în cel vârf de munte.
 ```
 
-Note: Măsura este 4/4. Merge o bătaie de forma:
+Notă: Măsura 4/4. Bătaie:
 
 ```
 E         1     1     1         1     1     1                1     1     1         1     1     1
@@ -29775,14 +29623,11 @@ E         1     1     1         1     1     1                1     1     1      
 
 #### Seara serilor
 
-**Ducu Bertzi** · Sursa: Colinde Karban, p. 95
+**Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Gheorghe Țărnea · Sursa: Colinde Karban, p. 95
 
 **Chitară:** Dm xx0231 · A x02220
 
 **Ukulele:** Dm 2210 · A 2100
-
-Ducu Bertzi/Gheorghe Țărnea
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 
 ```text
 Intro A Dm A Dm
@@ -29830,7 +29675,7 @@ Dm     A         Dm
 Asta-i seara serilor
 ```
 
-Note:Măsura este 4/4 iar ciupitura:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------1------------------1--------|
@@ -29839,7 +29684,7 @@ G|--------------2------------------2----------------------|
 D|--------0-----------------------------------------------|
 A|--------------------------------------------------------|
 E|--------------------------------------------------------|
-          | _ _ |      | _ _ |     | _ _ |      | _ _ |
+          | _ _ |      | _ _  |    | _ _  |      |_ _  |
 ```
 
 #### Sus boieri nu mai dormiți
@@ -29885,7 +29730,7 @@ D       Bm       Em    Em
 Florile dalbe de măr.
 ```
 
-Măsura este 4/4 și ciupitura de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------0-------------------------0--|
@@ -29894,11 +29739,11 @@ G|---------------------0-------------------------0---------|
 D|---------------------------------------------------------|
 A|---------------------------------------------------------|
 E|--------0-------------------------0----------------------|
-          | _ _ |      | _ _ |      | _ _ |      | _ _ |
+          | _ _  |     | _ _  |     | _ _  |     | _ _  |
           Em
 ```
 
-exemplificată pentru primul vers. În original e cu capo în poz. I
+Exemplificată pentru primul vers. În original, capo în poziția 1.
 
 #### Sus sus sus pe lângă lună
 
@@ -29960,7 +29805,7 @@ Să te joci în Rai cu ele
 Să te joci în Rai cu ele.
 ```
 
-Note: Măsura este 4/4. Merge o ciupitură de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------1---------------------------|
@@ -29969,7 +29814,7 @@ G|--------------2-------------------------2------------2--|
 D|--------------------------------------------------------|
 A|--------------------------------------------------------|
 E|--------1-----------------------------------------------|
-          | _ _ |      | _ _ |      | _ _ |      | _ _ |
+          | _ _ |      | _ _  |     | _ _ |      | _ _ |
           F
 ```
 
@@ -30017,7 +29862,7 @@ Bbm    Fm       C  Fm
 Pe Hristos să-L lăudăm.
 ```
 
-Note: Măsura este 3/4 iar ciupitura folosită este:
+Notă: Măsura 3/4. Ciupitură:
 
 ```tab
 E|----------------------------------1--------|
@@ -30090,31 +29935,29 @@ Raza soarelui, floarea soarelui
 De nașterea lui Cristos.
 ```
 
-Note:Măsura este 4/4. Se potrivește o ciupitură cu bass altenativ de forma:
+Notă: Măsura 4/4. Ciupitură cu bass alternativ:
 
 ```tab
 E|-----------------0----------------0------|
 B|-----------------1----------------1------|
-G|------------0-------0-------0-------0----|
+G|------------0-------0-------0-----0------|
 D|-----------------------------------------|
 A|--------3--------------------------------|
 E|-------------------------3---------------|
-          | _ |   | _ |    | _ |    | _ |
+          | _ |    |_ |    | _|     | |
 ```
 
-Exemplificat aici pentru C.
+Exemplificat pentru `C`.
 
 #### Un creștin s-a-nvrednicit
 
-**Ducu Bertzi** · Sursa: Colinde Karban, p. 96
+**Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Gheorghe Țărnea · Sursa: Colinde Karban, p. 96
 
 **Chitară:** Dm xx0231 · A x02220
 
 **Ukulele:** Dm 2210 · A 2100
 
 ```text
-Ducu Bertzi/Gheorghe Țărnea
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 Intro A Gm Dm Gm Dm
 Dm             Dm
 Un creștin s-a-nvrednicit
@@ -30166,7 +30009,7 @@ A          Dm
 După cât a fost muncit.
 ```
 
-Note:Măsura este 4/4 și merge o ciupitură ca mai jos:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|--------1--------------------1--------------|
@@ -30175,7 +30018,7 @@ G|--------2--------------------2--------------|
 D|-------------------0--------------------0---|
 A|--------------------------------------------|
 E|--------------------------------------------|
-          |          |          |          |
+          |          |         |          |
 ```
 
 #### Veniți păstori în Viflaiem
@@ -30220,7 +30063,7 @@ Dm     Gm     A     Dm
 Dacă-n Isus n-ai crezut.
 ```
 
-Note: Între strofe se cântă Dm Gm A Dm. Măsura este 4/4 și merge ciupitura:
+Notă: Între strofe se cântă `Dm` `Gm` `A` `Dm`. Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------------1-------------|
@@ -30229,7 +30072,7 @@ G|--------------2------------2--------------------|
 D|--------0---------------------------------------|
 A|------------------------------------------------|
 E|------------------------------------------------|
-          | _ _ |      | _ _ |      |          |
+          | _ _ |      | _ _ |      |         |
 ```
 
 #### Vine marea
@@ -30294,7 +30137,7 @@ F#m         Bm  A     D
 Da asta-i sara  de Crăciun.
 ```
 
-Note: Îm original e cu un semiton mai sus. Măsura este 4/4 si merge una din ciupiturile:
+Notă: În original, cu un semiton mai sus. Măsura 4/4. Ciupituri posibile:
 
 ```tab
 E|------------------------------2------------|
@@ -30348,7 +30191,7 @@ G         C       G         D     G
 Zăurel de zăurel, zăurel de cătră zăuă.
 ```
 
-Note:Măsura este 3/4 și propun o bătaie de forma (asemănătoare cu ritmul melodiei probabil folosită și de Hrușcă):
+Notă: Măsura 3/4. Bătaie (apropiată de ritmul melodiei):
 
 ```tab
 E|--------3-----3-----3-----3--|
@@ -30360,7 +30203,7 @@ E|--------3-----3-----3-----3--|
           | _ _ |     | _ _ |
 ```
 
-Exemplificată aici penru `G`. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
+Exemplificată pentru `G`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus.
 
 ### IV.2 — Colinde internaționale
 
@@ -30407,7 +30250,7 @@ C       G        C
 Der sie nicht vergisst.
 ```
 
-Note:Măsura este 4/4. Merge un arpegiu simplu.
+Notă: Măsura 4/4. Arpegiu simplu.
 
 #### Away in a manger
 
@@ -30444,9 +30287,7 @@ Bless all the dear children in Thy tender care,
 and fit us for heaven, to live with Thee there.
 ```
 
-Note:Melodia de William J. Kirkpatrick iar textul anonim pare sa fie de pe la 1885.
-
-Măsura este 3/4 și poate fi acompaniat cu o bătaie de forma de mai jos sau la fel cu o ciupitură asemănătoare.
+Notă: Melodia: William J. Kirkpatrick; textul anonim, probabil din jurul lui 1885. Măsura 3/4. Bătaie sau ciupitură asemănătoare:
 
 ```tab
 E|--------1---------1---------1--|
@@ -30458,7 +30299,7 @@ E|--------1---------1---------1--|
           |         |         |
 ```
 
-Trecerile /`Am` la `Bb`/ și /`Gm` la `C7`/ sunt în cadrul aceleiași măsuri cu două bătăi pe primul acord și una pe ultimul.
+Trecerile `Am`–`Bb` și `Gm`–`C7` sunt în aceeași măsură, cu două bătăi pe primul acord și una pe ultimul.
 
 #### Entre le boeuf et l’âne gris
 
@@ -30503,7 +30344,7 @@ Mille anges divins, mille séraphins
 Volent alentour de ce Dieu d’amour.
 ```
 
-Note: Măsura este 4/4
+Notă: Măsura 4/4.
 
 #### Go Tell It On The Mountain
 
@@ -30548,15 +30389,7 @@ G                 D
 That blessed Christmas morn
 ```
 
-Note:Refrenul se repetă după fiecare strofă.
-
-Cântecul este un gospel foarte cunoscut pe care eu îl știam de fapt în forma:
-
-“Go tell it on the mountain/And let my people go” (deci o temă din Vechiul Testament).
-
-Interpretări cunoscute sunt cea a lui Simon and Garfunkel și cea a lui Garth Brooks.
-
-Măsura este 4/4. Ca și model de acompaniament propun modelul pop-strum:
+Notă: Refrenul se repetă după fiecare strofă. Măsura 4/4. Pop-strum:
 
 ```tab
 E|--------2---------2-----2------------2-----2-----2---|
@@ -30565,12 +30398,12 @@ G|--------2---------2-----2------------2-----2-----2---|
 D|--------0---------0-----0------------0-----0-----0---|
 A|--------0---------0-----0------------0-----0-----0---|
 E|-----------------------------------------------------|
-          |         | _ _ |          _ |      | _ _ |
+          |         | _ _ |          _ |     |  _ _|
 ```
 
-Exemplificat aici pentru `D`. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
+Exemplificat pentru `D`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus.
 
-Aici niște versuri suplimentare de fapt o altă variantă a cântecului.
+Mai jos, versuri suplimentare (o altă variantă a cântecului).
 
 ```text
 D
@@ -30649,7 +30482,7 @@ Nichts willst du von Schätzen und Reichtum der Welt,
 Ein Herz nur voll Demut allein dir gefällt.
 ```
 
-Note:Măsura este 4/4 și merge un ritm de forma:
+Notă: Măsura 4/4. Ritm:
 
 ```tab
 E|--------0---------0-----0-----0---------0-----0--|
@@ -30696,21 +30529,19 @@ C                                  G                 C
 Kling, Glöckchen, klingelingeling, kling, Glöckchen, kling!
 ```
 
-Note:Melodia este aceea a unui cântec vechi popular. Versurile provin de pe la 1800.
-
-Măsura este 4/4. Ca și acompaniament se poate folosi modelul:
+Notă: Melodie populară veche; versurile sunt de pe la 1800. Măsura 4/4. Model:
 
 ```tab
-E|-------------------0-----0----------------0-----0--|
+E|------------------0-----0---------------0-----0----|
 B|--------1---------1-----1-----1---------1-----1----|
 G|--------0---------0-----0-----0---------0-----0----|
 D|--------2---------2-----2-----2---------2-----2----|
-A|--------3----------------------3-------------------|
+A|--------3---------------------3--------------------|
 E|---------------------------------------------------|
           |         | _ _ |     |         | _ _ |
 ```
 
-Exemplificat aici pentru `C`. Semnele “ ” reprezintă lovirea corzilor de sus în jos. Celelalte bătăi sunt de jos în sus.
+Exemplificat pentru `C`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus.
 
 #### O Come Little Children
 
@@ -30747,7 +30578,7 @@ And Mary and Joseph smile on Him with love
 While angels are singing sweet songs from above.
 ```
 
-Note:Măsura este 4/4 și merge o ciupitură forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|---------------------0-------------------------0--------|
@@ -30818,19 +30649,19 @@ G         D         G
 Gloire au Verbe incarné
 ```
 
-Note:Măsura este 3/4.Merge o bătaie de forma:
+Notă: Măsura 3/4. Bătaie:
 
 ```tab
 E|---------------3-----3------------3-----3--|
 B|---------------3-----3------------3-----3--|
-G|--------------0-----0------------0-----0---|
+G|---------------0-----0------------0-----0--|
 D|-------------------------------------------|
 A|-------------------------------------------|
 E|--------3------------------3---------------|
-          | _ _ |      | _ _ |      | _ _ |
+          | _ _  |     | _ _ |      | _ _ |
 ```
 
-Pentru altă variantă de armonizare vezi și transcriere melodiei în germană.
+Pentru altă armonizare, vezi și transcrierea melodiei în germană.
 
 #### Stille Nacht, heilige Nacht
 
@@ -30879,16 +30710,16 @@ G         D         G    G
 Christ in deiner Geburt.
 ```
 
-Note:Măsura este 3/4.Merge o bătaie de forma:
+Notă: Măsura 3/4. Bătaie:
 
 ```tab
 E|---------------3-----3------------3-----3--|
 B|---------------3-----3------------3-----3--|
-G|--------------0-----0------------0-----0---|
+G|---------------0-----0------------0-----0--|
 D|-------------------------------------------|
 A|-------------------------------------------|
 E|--------3------------------3---------------|
-          | _ _ |      | _ _ |      | _ _ |
+          | _ _  |     | _ _ |      | _ _ |
 ```
 
 #### The Little Drummer Boy
@@ -30926,7 +30757,7 @@ A       D
 When we come
 ```
 
-Măsura este 4/4 și merge un ritm de forma:
+Notă: Măsura 4/4. Ritm:
 
 ```tab
 E|--------2---------2-----2-----2---------2-----2--|
@@ -30983,9 +30814,7 @@ Că-n albă zăpadă stai să nu te vadă.
 În albă zăpadă s-o pornit să cadă.
 ```
 
-Note: O colindă mai “altfel” a Adei Milea de pe albumul Absurdistan.
-
-Măsură este 4/4 și propun o ciupitură de forma:
+Notă: Colindă de Ada Milea, de pe albumul „Absurdistan”. Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30994,11 +30823,11 @@ G|------------------0-------------------0--------------------------0------------
 D|-----------------------------------------------------------0------------------------------------------------------------------------------------|
 A|--------------------------------------------------------3---------------------------------------------------------------------------------------|
 E|--------3---------------------------------------------------------------------------------------------------------------------------------------|
-          |          |          |            |              |          |          |          |                |          |          |          |
+          |         |          |             |               |         |          |          |                |          |            |        |
           G                                              C                                              D
 ```
 
-Exemplificată aici pentru `G`, `C` și `D`. (De altfel cred că aceasta este și ciupitura folosită de Ada)
+Exemplificată pentru `G`, `C` și `D`.
 
 #### Colindă tristă (I)
 
@@ -31188,7 +31017,7 @@ Dm         Am         E         E      Am
 Era pâinea de pe masă și gutuia de la geam.
 ```
 
-Note:Măsura este 4/4 și recomand ciupitura:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|-------------------0-----------------------|
@@ -31199,7 +31028,7 @@ A|--------0----------------------------------|
 E|-------------------------------------------|
 ```
 
-Exemplificată aici pentru `Am`.
+Exemplificată pentru `Am`.
 
 #### Cu secera-n mână (Colind horror)
 
@@ -31232,19 +31061,17 @@ A          A                   E
 Și cine nu linge, e, cine nu-l atinge...
 ```
 
-Note: Măsura este 4/4. Ada folosește o tehnică de lovire a coardelor.
+Notă: Măsura 4/4. Ada Milea folosește o tehnică de lovire a coardelor.
 
 #### Decembre (I)
 
-**Nicu Alifantis** · Sursa: Caiet cabană RO, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/decembre-276)
+**Nicu Alifantis** · muzica/versuri: Nicu Alifantis/G. Bacovia · Sursa: Caiet cabană RO, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/decembre-276)
 
 **Chitară:** Am x02210 · E 022100 · Dm xx0231 · G 320003
 
 **Ukulele:** Am 2000 · E 4442 · Dm 2210 · G 0232
 
 ```text
-G.Bacovia/Nicu Alifantis
-
 1.
  Am
 Te uită cum ninge Decembre,
@@ -31383,9 +31210,9 @@ Nu râde ... citește-nainte.
 
 **Ada Milea** · muzica/versuri: Adrian Berinde/Pavel Susara, Ada Milea · Sursa: Colinde Karban, p. 111
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · E 022100
+**Chitară:** G 320003 · D xx0232 · C x32010
 
-**Ukulele:** G 0232 · D 2220 · C 0003 · E 4442
+**Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
 G              G
@@ -31410,15 +31237,18 @@ C            G
 Clănțăne și-nghit rebuturi
 G              G
 Ding ding ding ding ding ding
-E
-B                              0
-G                   0                   0
-D
-A                                                         3
-E         3
-G                                              C
-Exemplificată aici pentru G, C și D. (De altfel cred că aceasta este și ciupitura folosită de Ada)
 ```
+
+```tab
+E|------------------------------------------------------------------|
+B|------------------------------0-----------------------------------|
+G|-------------------0-------------------0--------------------------|
+D|------------------------------------------------------------------|
+A|---------------------------------------------------------3--------|
+E|---------3--------------------------------------------------------|
+```
+
+Exemplificată pentru `G`, `C` și `D`.
 
 #### În întâmpinarea Crăciunului
 
@@ -31456,7 +31286,7 @@ Dm      Am        E      Am
 Va veni și la noi Moș Crăciun
 ```
 
-Note:Măsura este 4/4 și recomand următoarea ciupitură:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------0---------------------------|
@@ -31465,7 +31295,7 @@ G|--------------2-------------------------2------------2--|
 D|-----------------------------------------------2--------|
 A|--------0-----------------------------------------------|
 E|--------------------------------------------------------|
-          | _ _ |      | _ _ |      | _ _ |      | _ _ |
+          | _ _ |      | _ _  |     | _ _ |      | _ _ |
           Am
 ```
 
@@ -31543,7 +31373,7 @@ D      G      D     G
 Dac-aș ști că nu te duci.
 ```
 
-Note: Măsura este 2/4 și merge o bătaie de forma:
+Notă: Măsura 2/4. Bătaie:
 
 ```tab
 E|--------3---------3-----3--|
@@ -31636,9 +31466,7 @@ Refren:
 [C]Într-un vis de sănii [B7]și de clopoței.
 ```
 
-Notă: Cântecul e în măsura 3/4.
-La trecerea de la refren la strofe și de la strofe la refren se cântă (dacă
-mai îmi aduc eu bine aminte) o progresie de bass de genul:
+Notă: Măsura 3/4. La trecerea de la refren la strofe și invers se cântă o progresie de bass de genul:
 
 ```tab
 B7
@@ -31650,7 +31478,7 @@ A||----------2----|--2--0------------||
 E||---------------|----------3----0--||
 ```
 
-cu o trecere în Em sau respectiv, în G.
+cu o trecere în `Em`, respectiv în `G`.
 
 #### Ninge iar (III)
 
@@ -31704,7 +31532,7 @@ C                    B
 Într-un vis de sănii și de clopoței.
 ```
 
-Notă: Cântecul e în măsura 3/4. Trecerea de la refren la strofe și si invers se cântă cu urmatoarea progresie bass:
+Notă: Măsura 3/4. Trecerea de la refren la strofe și invers se cântă cu următoarea progresie de bass:
 
 ```tab
 E|-------------------------2----------------------------------------------|
@@ -31716,7 +31544,7 @@ E|-----------------------------------------------------------3---------0--|
                            B7
 ```
 
-cu o trecere în `Em` sau respectiv, în `G`.
+cu o trecere în `Em`, respectiv în `G`.
 
 #### Plecarea
 
@@ -31754,7 +31582,7 @@ Dm
 Reîntors la vechiul lui cămin
 ```
 
-Note: Măsura este 4/4 iar ciupitura:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------------0---------------------|
@@ -31775,8 +31603,6 @@ E|--------------------------------------------------------|
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · F 2010 · Am 2000
 
 ```text
-Mircea Baniciu/???
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 Intro: G Em C G D
      G
 Vine iarăși, vine vremea de colinde și mister
@@ -31812,20 +31638,19 @@ Că e domnul singur tare, doar cu maica lângă el
       G                                      D
 Și-am înveselit tot raiul cu un zvon de clopoțel
 Refren
-Strofele se arpegiază iar la refren merge un pop-strum.
 ```
+
+Notă: Strofele se arpegiază, iar la refren merge un pop-strum.
 
 #### Scrisoare la-nceput de iarnă
 
-**Ducu Bertzi** · Sursa: Colinde Karban, p. 94
+**Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Gheorghe Țărnea · Sursa: Colinde Karban, p. 94
 
 **Chitară:** Am x02210 · F 133211 · Em 022000 · Cm x35543
 
 **Ukulele:** Am 2000 · F 2010 · Em 0432 · Cm 0333
 
 ```text
-Ducu Bertzi/Gheorghe Țărnea
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 Am
 A nins ca-n basme aseară
     F
@@ -31860,7 +31685,7 @@ Cândva și eu cădea-voi
 În palma nu știu cui.
 ```
 
-Note: în original din `Cm`. Măsura este 4/4 și merge o ciupitură de forma:
+Notă: În original, din `Cm`. Măsura 4/4. Ciupitură:
 
 ```tab
 E|----------------------------0-------------------------------------------------------0-------------------------|
@@ -31869,7 +31694,7 @@ G|---------------------2----------------------2-------------------------------2-
 D|--------------------------------------------------------------------------------------------------------------|
 A|--------0-------------------------------------------------------0---------------------------------------------|
 E|--------------------------------------------------------------------------------------------------------------|
-          | _ _ |      | _   |        _ |      | _ _ |            | _ _ |      | _   |        _ |      | _ _ |
+          | _ _  |     | _    |       _ |     |  _ _ |            | _ _ |     |  _    |       _|     |   _ _|
 ```
 
 #### Singur de Crăciun
@@ -31920,7 +31745,7 @@ Am     Am Em
 Noapte bună.
 ```
 
-Note:Măsura este 4/4 și merge o ciupitură de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------0-------------|
@@ -31929,7 +31754,7 @@ G|-------------------1--------------------1---|
 D|--------------------------------------------|
 A|--------0-----------------------------------|
 E|--------------------------------------------|
-          |          |          |          |
+          |          |          |         |
 ```
 
 #### Steaguri albe
@@ -31984,7 +31809,7 @@ Mă rog cu puterea cuvântului
 De sănătatea pământului.
 ```
 
-Note:Măsura este 4/4 și propun următorul model de acompaniament:
+Notă: Măsura 4/4. Acompaniament:
 
 ```tab
 E|----------------------------0---------------------------|
@@ -31993,10 +31818,10 @@ G|--------------2-------------------------2------------2--|
 D|-----------------------------------------------2--------|
 A|--------0-----------------------------------------------|
 E|--------------------------------------------------------|
-          | _ _ |      | _ _ |      | _ _ |      | _ _ |
+          | _ _ |      | _ _  |     | _ _ |      | _ _ |
 ```
 
-Exemplificat aici pentru `Am`.
+Exemplificat pentru `Am`.
 
 #### Zori din zori
 
@@ -32007,8 +31832,6 @@ Exemplificat aici pentru `Am`.
 **Ukulele:** G 0232 · C 0003 · D 2220 · Am 2000 · Em 0432
 
 ```text
-Mircea Baniciu/???
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 G                C
 Se-aprinde chiar de Crăciun
 D                G
@@ -32049,9 +31872,7 @@ G            C      D
 Dimineața în primul zor.
 ```
 
-La strofe și la bridge măsura este 4/4. Merge un pop-strum.
-
-La refren măsura este 3/4.
+Notă: La strofe și la bridge, măsura 4/4, pop-strum; la refren, măsura 3/4.
 
 ### IV.4 — Cântece de iarnă internaționale
 
@@ -32090,7 +31911,7 @@ You’ll be doing allright with your Christmas of white
 but I’ll have a blue blue Christmas,
 ```
 
-Note: Măsura este 4/4. Ca și model de acompaniament propun:
+Notă: Măsura 4/4. Acompaniament:
 
 ```tab
 E|--------0---------0-----0-----0-----0-----0-----0--|
@@ -32102,9 +31923,7 @@ E|--------0---------0-----0-----0-----0-----0-----0--|
           |         | _ _ |     | _ _ |     | _ _ |
 ```
 
-Exemplificat aici pentru `E`. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
-
-O variantă cunoscută a melodiei este cea interpretată de Elvis Presley.
+Exemplificat pentru `E`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus.
 
 #### Deck the Halls
 
@@ -32165,22 +31984,19 @@ G           D      D  A  D
 Fa la la la la, la la la la
 ```
 
-Note:“Deck the Halls” este un cântec vechi galez.
-După cum reiese de aici de sărbători se împodobește casa, se îmbracă haine în culori vii și se cântă cântece vesele ca acesta.
-
-Măsura este 4/4. Ca și acompaniament se poate folosi modelul:
+Notă: Vechi cântec galez. Măsura 4/4. Acompaniament:
 
 ```tab
-E|-------------------2-----2----------------2-----2--|
-B|-------------------3-----3----------------3-----3--|
-G|--------2---------2-----2-----2---------2-----2----|
-D|--------0---------0-----0-----0---------0-----0----|
-A|--------0----------------------0-------------------|
+E|-------------------2-----2----------------2---2----|
+B|-------------------3-----3----------------3---3----|
+G|--------2----------2-----2----2-----------2---2----|
+D|--------0----------0-----0----0-----------0---0----|
+A|--------0---------------------0--------------------|
 E|---------------------------------------------------|
-|          | _ _ |      |          | _ _ |
+          |          | _ _ |    |           |   |_
 ```
 
-Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzilor de sus în jos. Celelalte bătăi sunt de jos în sus.
+Exemplificat pentru `D`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus.
 
 #### Feliz Navidad
 
@@ -32191,8 +32007,6 @@ Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzilor de sus 
 **Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222 · Em7 0202
 
 ```text
-José Feliciano - 1970
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 Intro: D G A7 D D G A7 D
 Refren:
 D         Em  A         D
@@ -32221,7 +32035,7 @@ I wanna wish you a Merry Christmas
 From the bottom of my heart.
 ```
 
-Note: Măsura cântecului este 4/4. Fiecare acord se cântă câte o măsură. Ca și bătaie se poate folosi modelul:
+Notă: Măsura 4/4. Fiecare acord ține o măsură. Bătaie:
 
 ```tab
 E|--------2---------2-----2-----3-----2-----2-----2--|
@@ -32230,12 +32044,10 @@ G|--------2---------2-----2-----2-----2-----2-----2--|
 D|--------0---------0-----0-----0-----0-----0-----0--|
 A|--------0---------0-----0-----0-----0-----0-----0--|
 E|---------------------------------------------------|
-|          | _ _ |      | _ _ |      | _ _ |
+          |         |  _ _|     |   _ |        |  __ |
 ```
 
-Exemplificat aici pentru D. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte batai sunt de jos în sus.
-
-Ca și variațiune în măsurile cu `Em` se poate folosi în a doua jumătate a măsuri `Em7`
+Exemplificat pentru `D`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus. În măsurile cu `Em`, a doua jumătate a măsurii poate fi `Em7`.
 
 #### Frosty The Snowman
 
@@ -32286,7 +32098,7 @@ Thumpety thump thump, thumpety thump thump, look at Frosty go.
 Thumpety thump thump, thumpety thump thump, over the hills of snow.
 ```
 
-Note:Măsura este 4/4. Merge un ritm brushing cu bass alternativ după cum urmează:
+Notă: Măsura 4/4. Brushing cu bass alternativ:
 
 ```tab
 E|-------------------0-----0----------------0-----0--|
@@ -32295,22 +32107,20 @@ G|-------------------0-----0----------------0-----0--|
 D|-------------------2-----2----------------2-----2--|
 A|--------3------------------------------------------|
 E|--------------------------------3------------------|
-|          | _ _ |      |          | _ _ |
+          |          | _ _ |      |         |  _ _|
 ```
 
-Exemplificat aici pentru `C`. Atenție la trecerile de la `F` la `Fdim`, `C` `Am`, `Dm` `G7` și `Am` `D` se fac într-o măsură.
+Exemplificat pentru `C`. Trecerile `F`–`Fdim`, `C`–`Am`, `Dm`–`G7` și `Am`–`D` se fac într-o măsură.
 
 #### Here Comes Santa Claus
 
-Sursa: Colinde Karban, p. 57
+muzica/versuri: Gene Autry, O. Haldeman (1947) · Sursa: Colinde Karban, p. 57
 
 **Chitară:** G 320003 · D xx0232 · C x32010 · Bm x24432 · Am x02210 · Em 022000
 
 **Ukulele:** G 0232 · D 2220 · C 0003 · Bm 4222 · Am 2000 · Em 0432
 
 ```text
-Gene Autry, O. Haldeman 1947
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 G
 Here comes Santa Claus,
 G
@@ -32347,9 +32157,9 @@ C                  Bm
 Jump in bed, cover up your head,
 Am                         G
 ’Cause Santa Claus comes tonight.
-
-Note:Măsura este 4/4 și merge un ritm pop-strum de forma:
 ```
+
+Notă: Măsura 4/4. Pop-strum:
 
 ```tab
 E|--------3---------3-----3------------3-----3-----3--|
@@ -32448,14 +32258,13 @@ Just get a bob-tailed bay two-forty as his speed
 Hitch him to an open sleigh and crack! you’ll take the lead.
 ```
 
-Note:La origine un cântec popular englez. Mai cunoscute sunt primele două strofe.
-Măsura este 4/4. Ca și acompaniament propun o tehnică brushing după cum urmează:
+Notă: La origine, cântec popular englez; mai cunoscute sunt primele două strofe. Măsura 4/4. Brushing:
 
 ```tab
 E|---------------3------------3--|
 B|---------------0------------0--|
-G|--------------0------------0---|
-D|--------------0------------0---|
+G|---------------0------------0--|
+D|---------------0------------0--|
 A|-------------------------------|
 E|--------3------------3---------|
           |      |     |      |
@@ -32463,15 +32272,13 @@ E|--------3------------3---------|
 
 #### Last Christmas
 
-**Wham!** · Sursa: Colinde Karban, p. 59
+**Wham!** · muzica/versuri: George Michael · Sursa: Colinde Karban, p. 59
 
 **Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220
 
 **Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100
 
 ```text
-George Michael/George Michael
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 Refren:
 D                D
 Last Christmas I gave you my heart
@@ -32523,7 +32330,7 @@ A               A
 I’ll give it to someone special.
 ```
 
-Note:Măsura este 4/4. Merge un ritm pop-strum de forma:
+Notă: Măsura 4/4. Pop-strum:
 
 ```tab
 E|--------2---------2-----2---------2-----2-----2--|
@@ -32643,7 +32450,7 @@ Avec ton p’tit nez rouge
 Le chariot du pére Noël.
 ```
 
-Note:Măsura este 4/4 și merge o bătaie de forma:
+Notă: Măsura 4/4. Bătaie:
 
 ```tab
 E|--------3---------3-----3------------3-----3-----3--|
@@ -32657,15 +32464,13 @@ E|--------3---------3-----3------------3-----3-----3--|
 
 #### Leise rieselt der Schnee
 
-Sursa: Colinde Karban, p. 86
+muzica/versuri: Eduard Ebel (ca. 1900) · Sursa: Colinde Karban, p. 86
 
 **Chitară:** C x32010 · G 320003 · F 133211 · Am x02210 · Dm xx0231
 
 **Ukulele:** C 0003 · G 0232 · F 2010 · Am 2000 · Dm 2210
 
 ```text
-Eduard Ebel (ca. 1900)
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
  C     G              C
 Leise rieselt der Schnee,
   F                       C
@@ -32692,7 +32497,7 @@ hört nur, wie lieblich es schallt :
 Freue dich, Christkind kommt bald.
 ```
 
-Note: Măsura este 3/4 și propun următorul model de acompaniament:
+Notă: Măsura 3/4. Acompaniament:
 
 ```tab
 E|---------------------------0---------------|
@@ -32704,7 +32509,7 @@ E|-------------------------------------------|
           | _ _ |      | _ _ |      | _ _ |
 ```
 
-Exemplificat aici pentru C.
+Exemplificat pentru `C`.
 
 #### Let It Snow!
 
@@ -32750,7 +32555,7 @@ But as long as you love me so.
 Let it snow, let it snow, let it snow.
 ```
 
-Note: Măsura este 4/4. Merge un ritm de forma:
+Notă: Măsura 4/4. Ritm:
 
 ```tab
 E|--------1---------1-----1-----1-------1-----1--|
@@ -32811,7 +32616,7 @@ Do you ride on down the hillside, on a buggy you have made
 Do you land upon your head in snow instead
 ```
 
-Note: Măsura cântecului este 4/4. Ca și acompaniament se poate folosi modelul “pop-strum”:
+Notă: Măsura 4/4. „Pop-strum”:
 
 ```tab
 E|--------0---------0-----0------------0-----0-----0--|
@@ -32823,9 +32628,8 @@ E|----------------------------------------------------|
           |         | _ _ |          _ |     | _ _ |
 ```
 
-- Exemplificat aici pentru `C`. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
-
-- La strofe acordul `D` poate fi “înfrumusețat” cu `D4`.
+- Exemplificat pentru `C`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus.
+- La strofe, `D` poate fi „înfrumusețat” cu `D4`.
 
 #### Mon Beau Sapin
 
@@ -32874,7 +32678,7 @@ Am         D         D G
 M’offrent  la douce image
 ```
 
-Note: Măsura este 3/4
+Notă: Măsura 3/4.
 
 #### Must Be Santa
 
@@ -32979,7 +32783,7 @@ O Christmas tree, O Christmas tree,
 Of all the trees most lovely.
 ```
 
-Pentru cei care trecerea `Em`-`B7`-`Em` pare prea complicată pot să o înlocuiască cu `Em`.
+Dacă trecerea `Em`–`B7`–`Em` pare prea complicată, se poate înlocui cu `Em`.
 
 #### O Tannenbaum
 
@@ -33028,9 +32832,7 @@ O Tannenbaum, o Tannenbaum,
 dein Kleid kann mich was lehren.
 ```
 
-Note: Melodia este a unui vechi cântec studențesc. Versurle sunt ale unui învățător din Leipzig în anul 1824.
-
-Măsura este 3/4. Ca model de acompaniament propun:
+Notă: Melodia unui vechi cântec studențesc; versurile sunt ale unui învățător din Leipzig, 1824. Măsura 3/4. Acompaniament:
 
 ```tab
 E|--------0---------0-----0-----0-----0--|
@@ -33042,10 +32844,10 @@ E|---------------------------------------|
           |         | _ _ |     | _ _ |
 ```
 
-Acolo unde se face trecerea de la `G` la `C` sau de la `C` la `G` în cadrul aceleiași măsuri propun:
+Acolo unde se trece de la `G` la `C` sau invers în aceeași măsură:
 
 ```tab
-E|-------------------0---------0-----0--|
+E|------------------0---------0-----0---|
 B|--------0---------1---------1-----1---|
 G|--------0---------0---------0-----0---|
 D|--------0---------2---------2-----2---|
@@ -33105,16 +32907,16 @@ A          E        A
 Pére Noël arrive ce soir
 ```
 
-Note: Melodia este de la “Santa Claus is comming to town”. Merge o tehnică brushing de forma:
+Notă: Melodia: „Santa Claus Is Coming To Town”. Brushing:
 
 ```tab
-E|---------------0------------0--|
-B|---------------2------------2--|
-G|--------------2------------2---|
-D|--------------2------------2---|
+E|---------------0-----------0---|
+B|---------------2-----------2---|
+G|---------------2-----------2---|
+D|---------------2-----------2---|
 A|--------0------------0-----0---|
 E|-------------------------------|
-          |      |     |      |
+          |      |     |     |
 ```
 
 #### Rocking Around the Christmas Tree
@@ -33163,21 +32965,19 @@ D                D              D   D   D D       G   C    G
 Everyone dancing merrily in the new old fashioned way
 ```
 
-Note: Măsura cântecului este 4/4. Am notat toate măsurile cu acordul de început.
-Singurele excepții sunt la bridge acordul A și la final D unde se execută o singură bătaie.
-Ca și bătaie se poate folosi modelul asemănător cu “pop-strum”:
+Notă: Măsura 4/4. Fiecare măsură e notată cu acordul de început; excepții: la bridge `A` și la final `D`, cu o singură bătaie. Bătaie asemănătoare cu „pop-strum”:
 
 ```tab
-E|-------------------3-----3---------3-----3-----3--|
-B|-------------------0-----0---------0-----0-----0--|
-G|--------0---------0-----0---------0-----0-----0---|
-D|--------0---------0-----0---------0-----0-----0---|
+E|------------------3------3---------3-----3-----3--|
+B|------------------0------0---------0-----0-----0--|
+G|--------0---------0------0---------0-----0-----0--|
+D|--------0---------0------0---------0-----0-----0--|
 A|--------2---------2----------------------2--------|
 E|--------3---------3----------------------3--------|
-          |          | _ _ |       _ |     | _ _ |
+          |         |  _ _ |       _ |     | _ _ |
 ```
 
-Exemplificat aici pentru `G`. Semnele “ ” reprezintă lovirea corzii de sus în jos.
+Exemplificat pentru `G`. Semnele “ ” = lovire de sus în jos.
 
 #### Rudolph The Red Nosed Reindeer
 
@@ -33219,10 +33019,7 @@ G
 You’ll go down in history.”
 ```
 
-Note: Măsura cântecului este 4/4. Am notat toate măsurile cu acordul de început.
-Singurele excepții sunt `C`-`C7` și `Dm`-`G7` cu fiecare acord numai jumătate de măsură.
-
-Ca și bătaie se poate folosi modelul “pop-strum”:
+Notă: Măsura 4/4. Fiecare măsură e notată cu acordul de început; excepții: `C`–`C7` și `Dm`–`G7`, cu câte o jumătate de măsură pe acord. „Pop-strum”:
 
 ```tab
 E|--------0---------0-----0------------0-----0-----0--|
@@ -33234,8 +33031,9 @@ E|----------------------------------------------------|
           |         | _ _ |          _ |     | _ _ |
 ```
 
-Exemplificat aici pentru `C`. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
-La strofe linia `C`-`C`-`C` poate fi înlocuită cu `C`-`C7`-`C` la fel și `G7`-`G7`-`G7` cu `G7`-`G`-`G7`.
+Exemplificat pentru `C`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus.
+
+La strofe, `C`-`C`-`C` poate fi înlocuit cu `C`-`C7`-`C`, iar `G7`-`G7`-`G7` cu `G7`-`G`-`G7`.
 
 #### Santa Claus Is Coming To Town
 
@@ -33269,25 +33067,21 @@ You better watch out, you better not cry, better not pout,
 I’m telling you why: Santa Claus is coming to town.
 ```
 
-Note:Este unul din cele mai populare cântece americane de Crăciun.
-
-Interpretări cunoscute sunt cele ale lui Frank Sinatra, Bing Crosby, Elvis Presley și Beach Boys
-
-Măsura este 4/4. Ca și acompaniament propun o tehnică brushing după cum urmează:
+Notă: Măsura 4/4. Brushing:
 
 ```tab
 E|---------------3------------3--|
 B|---------------0------------0--|
-G|--------------0------------0---|
-D|--------------0------------0---|
+G|---------------0------------0--|
+D|---------------0------------0--|
 A|---------------2------------2--|
 E|--------3------------3---------|
           |      |     |      |
 ```
 
-Exemplificat aici pentru acordul `G`. Semnele “ ” reprezintă lovirea corzii de sus în jos.
+Exemplificat pentru `G`. Semnele “ ” = lovire de sus în jos.
 
-Sau o ciupitură de forma:
+Sau o ciupitură:
 
 ```tab
 E|---------------------3-------------------------3--------|
@@ -33299,9 +33093,7 @@ E|--------3-------------------------3---------------------|
           | _ _ |      | _ _ |      | _ _ |      | _ _ |
 ```
 
-Exemplificată aici pentru `G`.
-
-Acordul `Cm` este opțional și se potrivește mai bine la varianta ciupită a cântecului.
+Exemplificată pentru `G`. `Cm` e opțional și se potrivește mai bine la varianta ciupită.
 
 #### Stop The Calvary
 
@@ -33342,19 +33134,19 @@ A                   D
 in the arms of the girl I love
 ```
 
-Măsura este 4/4. Ca și acompaniament propun o tehnică brushing după cum urmează:
+Notă: Măsura 4/4. Brushing:
 
 ```tab
 E|---------------2------------2--|
 B|---------------3------------3--|
-G|--------------2------------2---|
+G|---------------2------------2--|
 D|--------0------------0---------|
 A|-------------------------------|
 E|-------------------------------|
           |      |     |      |
 ```
 
-Exemplificat aici pentru acordul `D`. Semnele “ ” reprezintă lovirea corzii de sus în jos.
+Exemplificat pentru `D`. Semnele “ ” = lovire de sus în jos.
 
 #### The Night Before Christmas Song
 
@@ -33431,7 +33223,7 @@ Dm        C        G7       C
 Merry Christmas to all and to all a good night!?
 ```
 
-Note:Acordul G7 de la prima strofă poate fi ignorat. Măsura este 3/4 și propun următorul model de “pop-strum” în 3/4:
+Notă: `G7` de la prima strofă poate fi ignorat. Măsura 3/4. „Pop-strum”:
 
 ```tab
 E|--------0--------------0-----0-----0--|
@@ -33443,7 +33235,7 @@ E|--------3-----------------------------|
           |            _ |     | _ _ |
 ```
 
-Exemplificat aici pentru `G`.
+Exemplificat pentru `G`.
 
 #### Twinkle, Twinkle Little Star
 
@@ -33468,7 +33260,7 @@ F     C      G        C
 How I wonder what you are.
 ```
 
-Măsura este 2/2 și merge o bătaie simplă de forma:
+Notă: Măsura 2/2. Bătaie simplă:
 
 ```tab
 E|--------0---------0--|
@@ -33527,32 +33319,27 @@ and we won‘t go until we‘ve got some,
 so bring some out here.
 ```
 
-Notă:Cântec tradițional englez. “Figgy pudding” este o budincă cu stafide...
-
-Se cântă de obicei la final de către colindători. Măsura este 3/4 și merge un model de forma:
+Notă: Cântec tradițional englez, cântat de obicei la final de către colindători („figgy pudding” = budincă cu stafide). Măsura 3/4. Model:
 
 ```tab
-E|-------------------3-----3-----3-----0---|
+E|------------------3-----3-----3-----0----|
 B|--------0---------0-----0-----0-----0----|
 G|--------0---------0-----0-----0-----0----|
 D|--------0---------0-----0-----0-----0----|
 A|--------2--------------------------------|
 E|-----------------------------------------|
-          |          | _ _ |      | _ _ |
+          |         |  _ _|     |   _ |
 ```
 
-Exemplificat aici pentru acordul `G`. Semnele “ ” reprezintă lovirea corzii de sus în jos. Celelalte bătăi sunt de jos în sus.
+Exemplificat pentru `G`. Semnele “ ” = lovire de sus în jos; celelalte bătăi, de jos în sus.
 
 #### White Christmas
 
-Sursa: Colinde Karban, p. 73
+muzica/versuri: Irving Berlin · Sursa: Colinde Karban, p. 73
 
 **Chitară:** G 320003 · Am x02210 · D xx0232 · C x32010 · Cm x35543 · Em 022000
 
 **Ukulele:** G 0232 · Am 2000 · D 2220 · C 0003 · Cm 0333 · Em 0432
-
-Irving Berlin
-- transcrisă de Eugen Karban; E-Mail genuK@gmx.net -
 
 ```text
 G                   Am      D
@@ -33589,7 +33376,7 @@ May your days be merry and bright -
 And may all your Christmasses   be white.
 ```
 
-Notă: Măsura este 4/4. Se potrivește o ciupitură de forma:
+Notă: Măsura 4/4. Ciupitură:
 
 ```tab
 E|------------------------------2------------|
@@ -33600,7 +33387,7 @@ A|-------------------------------------------|
 E|--------3----------------------------------|
 ```
 
-Exemplificată aici pentru `G`. O variantă cunoscută a melodiei este cea interpretată de Elvis Presley.
+Exemplificată pentru `G`.
 
 #### Winter Wonderland
 
@@ -33657,7 +33444,7 @@ D            G            C        A
 walking in a winter wonderland, wo oh oh...
 ```
 
-Note: Măsura este 4/4 iar ritmul este unul de swing.
+Notă: Măsura 4/4, ritm de swing.
 
 ---
 
@@ -33718,7 +33505,6 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Elvis Presley** — [Love Me Tender](#love-me-tender)
 - **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#nebunul-de-alb)
 - **Eric Clapton** — [Layla](#layla), [Tears in Heaven](#tears-in-heaven), [Wonderful Tonight](#wonderful-tonight)
-- **Este unul din cântecele mele preferate dar destul de greu de explicat cum se** — [Cu galeata în mână](#cu-galeata-în-mână)
 - **Florian Pitiș** — [Ploaia care va veni (I)](#ploaia-care-va-veni-i), [Vinovații fără vină](#vinovații-fără-vină)
 - **Focul Viu** — [Viață de haiduc](#viață-de-haiduc), [Dacii liberi](#dacii-liberi), [Tristă fiară](#tristă-fiară)
 - **Focul viu** — [Focuri vii](#focuri-vii)
@@ -33764,7 +33550,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Nightwish** — [The Islander](#the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#azi), [Floarea](#floarea), [Lăsați-mă să cânt](#lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#peste-al-nostru-sărut)
-- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Înțelegere (I)](#înțelegere-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Miruna (I)](#miruna-i), [Mr. Tambourine Man](#mr-tambourine-man), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i), [Vânare de vânt](#vânare-de-vânt)
+- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Înțelegere (I)](#înțelegere-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Miruna (I)](#miruna-i), [Mr. Tambourine Man](#mr-tambourine-man), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
 - **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
@@ -33808,6 +33594,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Supa & Maria** — [Tropa trop](#tropa-trop)
 - **Taine Folk** — [Cântec uitat de lume](#cântec-uitat-de-lume)
 - **Taking Heads** — [Road to Nowhere](#road-to-nowhere)
+- **Tanita Tikaram** — [Twist in My Sobriety](#twist-in-my-sobriety)
 - **Tatiana Stepa** — [Colindul gutuii (I)](#colindul-gutuii-i), [Colindul gutuii (II)](#colindul-gutuii-ii), [În întâmpinarea Crăciunului](#în-întâmpinarea-crăciunului)
 - **The Animals** — [House of the Rising Sun](#house-of-the-rising-sun)
 - **The doors** — [People Are Strange](#people-are-strange)
