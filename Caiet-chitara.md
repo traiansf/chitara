@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (306 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (305 cântece)
 
-- [II.1 — Folk](#ii1--folk) (219 cântece)
+- [II.1 — Folk](#ii1--folk) (218 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (95 cântece)
@@ -249,8 +249,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Ana lui Manole](#ana-lui-manole)
 - [Antiprimăvara](#antiprimăvara)
 - [Anxietate](#anxietate)
-- [Aproape liniște (I)](#aproape-liniște-i)
-- [Aproape liniște (II)](#aproape-liniște-ii)
+- [Aproape liniște](#aproape-liniște)
 - [Arsură](#arsură)
 - [Azi](#azi)
 - [Balada blondelor iubiri](#balada-blondelor-iubiri)
@@ -9433,9 +9432,9 @@ Bucuria din suflet să n-o alungi
 Mai încearcă să trăiești atât cât mai poți.
 ```
 
-#### Aproape liniște (I)
+#### Aproape liniște
 
-**Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 13
+**Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 13, p. 15
 
 **Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · Adim/F# xx4545 · C x32010 · B7 x21202
 
@@ -9446,87 +9445,48 @@ Mai încearcă să trăiești atât cât mai poți.
 [G]Cerul e [B]'nalt, tăiat în cleș[Em]tar
 [Am]Noaptea e-o per[Adim7]dea, și-n [Adim/F#]fereastra mea[Em]
 Doar [C]umbre care-[B]ncet [Em]dispar.
+
 [Em]Când nu ești [B]aici, mi-e camera [Em]goală
 [G]E timpul [B]leneș, mult prea [Em]lung
 [Am]Deloc nu mi-e [Adim7]somn și-n [Adim/F#]loc să adorm[Em]
 Încerc, [C]cu gândul, [B]să te-a[Em]jung
+
 Bridge
 Se [C]înseninează, [B]cerul, de[Em]parte
 Ceata [C]dispare, [B]ruptă în fâ[Em]șii
 Străzile-s [C]pustii, [B]dacă tu
 [Em]Dacă tu nu vii
 Degeaba-[C]ncepe, [B]începe o nouă [B7]zi.
+
 Refren:
 [Am]Nu te-ndepar[Em]ta
 Nu mă mai [B]lasă
 Singur să te-aș[Em]tept
 [Am]Nu te răzgân[Em]di
 Nu mă oco[B]li
-Nu mai fu[Am]gi
+Nu mai fu[Em]gi
+
 [Em]Și e liniște [B]iar aprope de [Em]mine
 [G]Prea triste [B]visele îmi [Em]sunt
 [Am]De ce nu ești [Adim7]aici să-ți pot [Adim/F#]vorbi, să-mi poți [Em]vorbi
 S-a[C]propii [B]cerul de pă[Em]mânt
+
 [Em]Și e liniște [B]iar, prea aproape de [Em]mine
 [G]De ce n-a[B]uzi chemarea [Em]mea
 [Am]Te strig [Adim7]mereu, te [Adim/F#]strig în gând[Em]
 Și inima [C]mea, e ca un [B]ceas [Em]bătând.
+
 Bridge
 Refren
+```
+
 Note:Piesa îmi sună mai bine cântata la poziții înalte. Va avertizez c-am
 transpus-o din memorie, pentru simplul fapt că nu am caseta cu mine...
 Prin urmare n-am pretenția ca acordurile sunt chiar astea (nici măcar nu știu
 dacă pe caseta e din mi minor).
-În cazul în care sunteți la început și va sperie bareurile am dat câte două
-prinderi pentru fiecare acord (mare filosofie....).
+
 În timpul strofelor puteți ciupi corzile sau încerca un ritm jazz-istic (doar
 e cântata de Aura Urziceanu...)...
-Dacă va da mâna să încercați și solo-ul lui Dan Badulescu, va doresc
-succes... va vor trebui, evident, două chitare. Cum eu cânt de unul singur și
-doar pe chitara acustica, nu m-a preocupat ideea..
-```
-
-#### Aproape liniște (II)
-
-**Nicu Alifantis și Aura Urziceanu** · muzica/versuri: Nicu Alifantis/Alexandru Andrieș · Sursa: Cărticica Karban, p. 15
-
-**Chitară:** Em 022000 · B x24442 · G 320003 · Am x02210 · Adim7 xx4545 · F#dim7 xx4545 · C x32010 · B7 x21202 · Edim7 xx2323 · Ebdim7 xx1212
-
-**Ukulele:** Em 0432 · B 4322 · G 0232 · Am 2000 · Adim7 2323 · F#dim7 2323 · C 0003 · B7 2322 · Edim7 0101 · Ebdim7 2323
-
-```text
-[Em]Norii-s de-[B]argint și zboară de[Em]parte
-[G]Cerul e [B]'nalt, tăiat în cleș[Em]tar
-[Am]Noaptea e-o per[Adim7]dea, și-n [F#dim7]fereastra mea[Em]
-Doar [C]umbre care-[B]ncet [Em]dispar.
-[Em]Când nu ești [B]aici, mi-e camera [Em]goală
-[G]E timpul [B]leneș, mult prea [Em]lung
-[Am]Deloc nu mi-e [Adim7]somn și-n [F#dim7]loc să adorm[Em]
-Încerc, [C]cu gândul, [B]să te-a[Em]jung
-Bridge
-Se [C]înseninează, [B]cerul, de[Em]parte
-Ceata [C]dispare, [B]ruptă în fâ[Em]șii
-Străzile-s [C]pustii, [B]dacă tu
-[Em]Dacă tu nu vii
-Degeaba-[C]ncepe, [B]începe o nouă [B7]zi.
-Refren:
-[Am]Nu te-ndepar[Edim7]ta
-Nu mă mai [Ebdim7]lasă
-Singur să te-aș[Em]tept
-[Am]Nu te răzgân[Edim7]di
-Nu mă oco[Ebdim7]li
-Nu mai fu[Am]gi
-[Em]Și e liniște [B]iar aprope de [Em]mine
-[G]Prea triste [B]visele îmi [Em]sunt
-[Am]De ce nu ești [Adim7]aici să-ți pot [F#dim7]vorbi, să-mi poți [Em]vorbi
-S-a[C]propii [B]cerul de pă[Em]mânt
-[Em]Și e liniște [B]iar, prea aproape de [Em]mine
-[G]De ce n-a[B]uzi chemarea [Em]mea
-[Am]Te strig [Adim7]mereu, te [F#dim7]strig în gând[Em]
-Și inima [C]mea, e ca un [B]ceas [Em]bătând.
-Bridge
-Refren
-```
 
 #### Arsură
 
@@ -33800,7 +33760,7 @@ Note: Măsura este 4/4 iar ritmul este unul de swing.
 - **Neil Sedaka** — [Oh, Carol!](#oh-carol)
 - **Nelu Lazăr** — [Pădure de argint](#pădure-de-argint)
 - **Nicu Alifantis** — [Balada blondelor iubiri](#balada-blondelor-iubiri), [Emoție de toamnă (I)](#emoție-de-toamnă-i), [Emoție de toamnă (II)](#emoție-de-toamnă-ii), [Emoție de toamnă (III)](#emoție-de-toamnă-iii), [Piața Romană nr.9](#piața-romană-nr9), [Ploaie în luna lui marte](#ploaie-în-luna-lui-marte), [Rar](#rar), [Umbra (I)](#umbra-i), [Umbra (II)](#umbra-ii), [Umbra (III)](#umbra-iii), [Decembre (I)](#decembre-i), [Decembre (II)](#decembre-ii), [Decembre (III)](#decembre-iii)
-- **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște (I)](#aproape-liniște-i), [Aproape liniște (II)](#aproape-liniște-ii)
+- **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște](#aproape-liniște)
 - **Nightwish** — [The Islander](#the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#azi), [Floarea](#floarea), [Lăsați-mă să cânt](#lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#peste-al-nostru-sărut)

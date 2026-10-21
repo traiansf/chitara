@@ -84,6 +84,7 @@
 
 - Adio, deci pe curând [C]
 - Alte clipe trăite alt epilog [F]
+- Aproape liniște [Dm]
 
 - Arsură [C]
 - Bătălia s-a sfârșit, soldatul... [Am]
