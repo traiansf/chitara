@@ -99,6 +99,7 @@
 - Focul vânăt [Am]
 - Frunza (Mircea Baniciu) [F]
 - Înțelegere [C]
+- Lumină [Am]
 
 - Mai rămâi puțin [C]
 - Tu [Cadd9]

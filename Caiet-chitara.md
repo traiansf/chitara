@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (303 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (301 cântece)
 
-- [II.1 — Folk](#ii1--folk) (216 cântece)
+- [II.1 — Folk](#ii1--folk) (214 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -334,9 +334,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [La un ceai](#la-un-ceai)
 - [Lăsați-mă să cânt](#lăsați-mă-să-cânt)
 - [Lordul John](#lordul-john)
-- [Lumină (I)](#lumină-i)
-- [Lumină (II)](#lumină-ii)
-- [Lumină (III)](#lumină-iii)
+- [Lumină](#lumină)
 - [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea)
 - [Madama de pică](#madama-de-pică)
 - [Mai rămâi puțin](#mai-rămâi-puțin)
@@ -13125,9 +13123,9 @@ Dar sunt un "je t'aime, moi non plus".
 [G]Spune să-i a[D]zvârle calul [A]să poată [D]pleca.
 ```
 
-#### Lumină (I)
+#### Lumină
 
-**Ecoul** · Sursa: Caiet cabană RO, p. 101 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/lumina-807)
+**Ecoul** · Sursa: Caiet cabană RO, p. 101 · Cărticica Karban, p. 68, p. 69 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/lumina-807)
 
 **Chitară:** Am x02210 · G 320003 · E 022100 · C x32010
 
@@ -13170,80 +13168,6 @@ Fă[C]cându-l [E]floare de [Am]mă^ăr
 Lu[C]mină, [E]viață, ade[Am]vă^ăr.
 ```
 
-#### Lumină (II)
-
-**Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 68
-
-**Chitară:** C x32010 · F 133211 · G 320003
-
-**Ukulele:** C 0003 · F 2010 · G 0232
-
-```text
-[C]Lumină,lumină
-Lu[F]mina pier[G]duta prin [C]crengi
-[F]Alerg după [G]tine, [C]alerg
-[C]Lumină,lumină
-Lu[F]mina pe ur[G]mele tale de [C]vânt
-[F]Aleargă un su[G]flet flă[C]mând
-[F]Aici ești [G]ascuns după [C]lume
-Nu vr[F]ei să-i [G]auzi de [C]nume
-[F]Atinge-i [G]lumină so[C]lară
-[F]Nu-l la[G]să să [C]piară
-[C]Lumină,lumină
-[F]Lumina sor[G]bită de tru[C]puri
-[F]Acum m-at[G]ingi, mă-tul[C]buri
-[C]Lumină,lumină
-[F]Lumina cu [G]sete de [C]sorb
-[F]Și-n veci [G]n-oi mai fi [C]orb
-[F]Lumina mereu m-[G]apropii de [C]vise
-Des[F]coperi spe[G]ranțele [C]ninse
-[F]Făcându-le [G]floare de [C]măr
-[F]Lumina, [G]viata, ade[C]văr
-[F]Atinge-l lu[G]mina sol[C]ară
-Nu-l [F]lasă [G]să mo[C]ară
-[F]Făcându-l [G]floare de [C]măr
-[F]Lumina, [G]viata, ade[C]văr
-```
-
-Notă: Variantă în minor; vezi și celelalte variante ale cântecului.
-
-#### Lumină (III)
-
-**Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 69
-
-**Chitară:** Am x02210 · Dm xx0231 · E 022100
-
-**Ukulele:** Am 2000 · Dm 2210 · E 4442
-
-```text
-[Am]Lumină,lumină
-Lu[Dm]mina pier[E]duta prin [Am]crengi
-[Dm]Alerg după [E]tine, [Am]alerg
-[Am]Lumină,lumină
-Lu[Dm]mina pe ur[E]mele tale de [Am]vânt
-[Dm]Aleargă un su[E]flet flă[Am]mând
-[Dm]Aici ești [E]ascuns după [Am]lume
-Nu vr[Dm]ei să-i [E]auzi de [Am]nume
-[Dm]Atinge-i [E]lumină so[Am]lară
-[Dm]Nu-l la[E]să să [Am]piară
-[Am]Lumină,lumină
-[Dm]Lumina sor[E]bită de tru[Am]puri
-[Dm]Acum m-at[E]ingi, mă-tul[Am]buri
-[Am]Lumină,lumină
-[Dm]Lumina cu [E]sete de [Am]sorb
-[Dm]Și-n veci [E]n-oi mai fi [Am]orb
-[Dm]Lumina mereu m-[E]apropii de [Am]vise
-Des[Dm]coperi spe[E]ranțele [Am]ninse
-[Dm]Făcându-le [E]floare de [Am]măr
-[Dm]Lumina, [E]viata, ade[Am]văr
-[Dm]Atinge-l lu[E]mina sol[Am]ară
-Nu-l [Dm]lasă [E]să mo[Am]ară
-[Dm]Făcându-l [E]floare de [Am]măr
-[Dm]Lumina, [E]viata, ade[Am]văr
-```
-
-Notă: Variantă în minor; vezi și celelalte variante ale cântecului.
-
 #### M-am îndrăgostit numai de ea
 
 **Ducu Bertzi** · Sursa: Caiet Christian Adventure, p. 97 · Caiet cabană RO, p. 133 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/m-am-indragostit-numai-de-ea-4132)
@@ -13253,46 +13177,40 @@ Notă: Variantă în minor; vezi și celelalte variante ale cântecului.
 **Ukulele:** Am 2000 · E7 1202 · Dm 2210 · A 2100 · C 0003
 
 ```text
-Am                       E7
-Eu, care vroiam într-una alt și alt decor
-E7                          Am
-Eu, care spuneam prea lesne și oricui „Mi-e dor”
-Dm                             Am
-Abia când a plecat plângând și n-a mai fost a mea
-E7                        Am
-M-am îndrăgostit numai de ea
+[Am]Eu, care vroiam într-una [E7]alt și alt decor
+[E7]Eu, care spuneam prea lesne [Am]și oricui „Mi-e dor”
+/A[Dm]bia când a plecat plângând și [Am]n-a mai fost a mea
+[E7]M-am îndrăgostit numai de [Am]ea/ x2
 
-Eu, care veneam acasă c-un surâs formal
-Monoton spunând același monolog banal
-A plecat, mi-am zis, sunt liber, dar n-a fost așa
-O iubeam numai pe ea
+[Am]Eu, care veneam acasă [E7]c-un surâs formal
+[E7]Monoton spunând același [Am]monolog banal
+/[Dm]A plecat, mi-am zis, sunt liber, [Am]dar n-a fost așa
+[E7]  O iubeam numai pe [Am]ea/ x2
 
 Refren:
 Dm            Am
-Simt că fără ea nu pot respira
- E7                Am    A
-Casa e pustie fără ea
-   Dm                     C
-În ce-aș putea eu să mai cred acum
-E7                              Am
-Aș da orice s-o mai întorc din drum
+[Dm]Simt că fără ea [Am]nu pot respira
+[E7]Casa e pustie fără [Am]ea  [A]
+În [Dm]ce-aș putea eu să mai cred a[C]cum
+Aș [E7]da orice s-o mai întorc din [Am]drum
 
-Am zărit-o pe o strada pentru-o clipă doar
-Să-i vorbesc și să m-apropii era în zadar
-Ea, care m-aștepta plângând când eu uitam să vin
-Mă privea acum ca pe-un străin
+[Am]Am zărit-o pe o strada [E7]pentru-o clipă doar
+[E7]Să-i vorbesc și să m-apropii [Am]era în zadar
+/Ea, [Dm]care m-aștepta plângând când [Am]eu uitam să vin
+[E7]Mă privea acum ca pe-un stră[Am]in/ x2
 
-A trecut atâta vreme de când a plecat
-Dar abia acum mi-e dragă cu adevărat
-Abia acum când locuiește doar la mine-n gând
-O iubesc mai mult decât oricând
+[Am]A trecut atâta vreme de [E7]când a plecat
+[E7]Dar abia acum mi-e dragă [Am]cu adevărat
+/A[Dm]bia acum când locuiește [Am]doar la mine-n gând
+[E7]O iubesc mai mult decât ori[Am]când/ x2
 
 Refren x2
 
-Eu, care vroiam într-una alt și alt decor
-Eu, care spuneam prea lesne și oricui „Mi-e dor”
-/Abia când a plecat plângând și n-a mai fost a mea
-/M-am îndrăgostit numai de ea/(x3)/ x2
+[Am]Eu, care vroiam într-una [E7]alt și alt decor
+[E7]Eu, care spuneam prea lesne [Am]și oricui „Mi-e dor”
+/A[Dm]bia când a plecat plângând și [Am]n-a mai fost a mea
+[E7]M-am îndrăgostit numai de [Am]ea/ x2
+/[E7]M-am îndrăgostit numai de [Am]ea/ x2
 ```
 
 #### Madama de pică
@@ -33384,7 +33302,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#ce-frumos-e-sus-la-munte), [Evadare](#evadare), [În codrul verde](#în-codrul-verde), [Mă întorc la tine, muntele meu drag](#mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#vreau-să-trecem-marea)
 - **Ducu Bertzi** — [Floare de colț](#floare-de-colț), [Când s-o-mpărțit norocu'](#când-s-o-mpărțit-norocu), [Cântec bătrânesc](#cântec-bătrânesc), [Dans](#dans), [Dragu-mii veselia](#dragu-mii-veselia), [Focul vânăt](#focul-vânăt), [Iertările](#iertările), [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea), [Nu am cer](#nu-am-cer), [Omul pădurii](#omul-pădurii), [Pe cine și câte cărări](#pe-cine-și-câte-cărări), [Săracă inima me' (I)](#săracă-inima-me-i), [Săracă inima me' (II)](#săracă-inima-me-ii), [Și de-ar fi (I)](#și-de-ar-fi-i), [Și de-ar fi (II)](#și-de-ar-fi-ii), [Suflet fără chei](#suflet-fără-chei), [Cheamă-ți gazdă](#cheamă-ți-gazdă), [Corindăm, corindăm (I)](#corindăm-corindăm-i), [Pe podele de nuiele](#pe-podele-de-nuiele), [Seara serilor](#seara-serilor), [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem), [Plecarea](#plecarea), [Scrisoare la-nceput de iarnă](#scrisoare-la-nceput-de-iarnă)
 - **Ducu Hotima** — [La tătă casa-i lumină](#la-tătă-casa-i-lumină)
-- **Ecoul** — [Cana cu vin](#cana-cu-vin), [Lumină (I)](#lumină-i), [Lumină (II)](#lumină-ii), [Lumină (III)](#lumină-iii), [Nu mă-ntreba](#nu-mă-ntreba), [Taina (I)](#taina-i), [Taina (II)](#taina-ii)
+- **Ecoul** — [Cana cu vin](#cana-cu-vin), [Lumină](#lumină), [Nu mă-ntreba](#nu-mă-ntreba), [Taina (I)](#taina-i), [Taina (II)](#taina-ii)
 - **Elvis Presley** — [Love Me Tender](#love-me-tender)
 - **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#nebunul-de-alb)
 - **Eric Clapton** — [Layla](#layla), [Tears in Heaven](#tears-in-heaven), [Wonderful Tonight](#wonderful-tonight)
