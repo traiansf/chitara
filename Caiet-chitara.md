@@ -3291,35 +3291,39 @@ De pe [D]obraji în palma [Em]mea
 [Em]De pe obraji în palma [C]mea
 [Em]Aveai pe [D]buze un su[C]râs
 [C]Aveai pe buze un [Am]surâs
-Și-cât de [D]bine îți st[G]ă[D]te[C]a
-[Em]Aveai doar la[D]crimi și su[C]râs
-[C]Aveai doar lacrimi și su[Am]râs
-Și ochii-n [D]noapte-ți stalu[Em]ceau
-[Em]Și ochii-n noapte-ți stalu[C]ceau
+Și cât de [D]bine îți stătea[G]a[D]a[C]
+
+[Em]Erai doar la[D]crimi și su[C]râs
+[C]Erai doar lacrimi și su[Am]râs
+Și ochii-n [D]noapte-ți strălu[Em]ceau
+[Em]Și ochii-n noapte-ți strălu[C]ceau
 [Em]Eu am fost [D]tare tu ai [C]plâns
 [C]Eu am fost tare tu ai [Am]plâns
-Și amin[D]tirile [G]du[D]re[C]au
-[Em]Nu-ntelegeai [D]ca despăr[C]țirea
-[C]Nu-ntelegeai ca despăr[Am]țirea
-Venise-a[D]tunci iar între [Em]noi
-[Em]Venise-atunci iar între [C]noi
+Și amin[D]tirile durea[G]a[D]a[C]au
+
+[Em]Nu-nțelegeam [D]că despăr[C]țirea
+[C]Nu-nțelegeam că despăr[Am]țirea
+Venise-a[D]tuncea între [Em]noi
+[Em]Venise-atuncea între [C]noi
 [Em]Și încă [D]mai speram iu[C]birea
 [C]Și încă mai speram iu[Am]birea
-În ceata [D]printre atâ[G]tea [D]plo[C]i
+Purtată [D]printre-atâtea [G]plo[D]o[C]oi
+
 [Em]Ce-aș fi putut [D]atunci să-ți [C]spun
 [C]Ce-aș fi putut atunci să-ți [Am]spun
 Nici nu mai [D]știu și nici nu-mi [Em]pasă
 [Em]Nici nu mai știu și nici nu-mi [C]pasă
-[Em]Cu ochii-nchiși [D]pornesc la [C]drum
+[Em]Cu ochii-nchiși [D]pornesc din nou la [C]drum
 [C]Cu ochii-nchiși pornesc la [Am]drum
-Călător pri[D]beag ce se întoar[G]ce [D]aca[C]să
-[Em]De-mi vei [D]veni în calea [C]mea
-[C]De-mi vei veni în calea [Am]mea
+Călător pri[D]beag care se-ntoarce aca[G]să  o[D]o[C]
+
+[Em]Și dacă vei [D]veni-ntr-o zi în calea [C]mea
+[C]Și dacă vei veni în calea [Am]mea
 Să nu mă-n[D]trebi nimic, nu-ți voi răs[Em]punde
-[Em]Să nu mă-ntrebi nimic, nu-ți voi răs[C]punde
-[Em]N-ajunge o [D]vorba să-nceapa [C]ea
-[C]N-ajunge o vorba să-nceapa [Am]ea
-Tot ce-n [D]suflet se [G]as[D]cun[C]de
+[Em]Să nu mă-ntrebi, nu-ți voi răs[C]punde
+[Em]E prea puțin o [D]vorbă ca să încapă-n [C]ea
+[C]E prea puțin să-ncapă-n [Am]ea
+Tot ce-n [D]suflet se ascun[G]de [D] [C]
 ```
 
 #### Lavinia
@@ -4722,7 +4726,7 @@ Refren
 [Am]N-am să uit nicicând fru[F]moasa seară
 În [G]care noi ne-am cunoscut[Am]
 [Am]  Era cald, căci [F]era vară
-[G]Ne-am privit și ne-am zâmbit[Am]
+[G]Ne-am privit și ne-am iubit[Am]
 
 Refren:
 
@@ -4756,7 +4760,7 @@ Refren
 A [Am]fost un [G]joc de copil fără [C]rost
 Un [Dm]joc inutil - am spe^rat să pot face
 Din [Am]vise și flori
-/Un ne[F]ant în [G]care să [Am]zbori/ x2
+/Un ne[F]ant în [G]care să [Am]zbori/ x3
 să [Am]zbori
 
 Refren x2:
@@ -4768,18 +4772,20 @@ Bun ră[Dm]ma - as  [Am]
 Pă[Am]cat că [G]nu ai știut ce cu[C]rat
 Mi-e [Dm]cântecul mut - lângă ^tine-am aflat
 Ce e [Am]setea de vis
-/Și tris[F]tețea [G]unui în[Am]vins/ x2
+/Și tris[F]tețea [G]unui în[Am]vins/ x3
 în[Am]vins
 
 Refren x2
 
 Îmi [Am]sterg o [G]lacrimă caldă zâm[C]besc
 Că [Dm]viața mă-ndeamnă să nu ^uit că mi-e dat
-Să și [Am]pierd uneori
-/Că a[F]des e [G]greu chiar să [Am]mori/ x2
+Și să [Am]pierd uneori
+/Că a[F]des e [G]greu chiar să [Am]mori/ x3
 să [Am]mori
 
 Refren x2
+Am ră[F]mas fără [G]glas (fără glas)
+Bun ră[Dm]ma - as  [Am]
 ```
 
 #### Toamna la Șuior
@@ -30841,37 +30847,37 @@ Exemplificată pentru `G`, `C` și `D`.
 Karma
 
 1.
-   Am                E
-Se aud colinde încet pe cale
+   Am                  E
+Se aud colindele încet pe cale
    Am                E
 Și rar le tulbură vreun ecou
    Dm                      Am
-Când ademenitor poftesc în zare
+Când ademenitor poftesc în vale
     Dm                E
-SĂ-mi intre-n casă anul cel mai nou
+Să-mi intre-n casă anul cel mai nou
 Te așteaptă oamenii plini de mirare
-CĂ au venit pesemne prea curând
-CĂ tot îmbătrânesc cu disperare
-Și că mor și ei din când in când.
+Că au venit pesemne prea curând
+Că tot îmbătrânesc cu disperare
+Și că mai mor și ei din când în când.
 
 R:
-   Dm      Am   G      C
-Ascultați colindă tristă
+   Dm           Am     G      C
+Ascultați (ascultați)colindă tristă
     Dm     Am   E   Am
 Ascultați colinda mea.
 
 2.
-CĂ le e greu să își tot poarte crucea
-Pe sub ferestre noi e timp sărac
-CĂ nu mai știu pe unde-ar fi răscrucea
+Că le e greu să își tot poarte crucea
+Pe sub ferestre noi de timp sărac
+Că nu mai știu pe unde-ar fi răscrucea
 De-ntors la Moș Crăciunul din alt veac
 Închină un pahar cu vin de casă
-Ai casei îi răspund ca un ecou
+Ai casei le răspund ca un ecou
 Și-adorm tiptil cu coatele pe masă
 Visând că va fi bun anul cel nou.
 
 3.
-Îi șterg ușor cu mâna lui cea stângă
+Își șterg ușor cu mâna lor cea stângă
 Un fir de lacrimă pornit hoinar
 Când zurgălăii șuieră-ntr-o dungă
 Pe-o filă ultimă de calendar.
