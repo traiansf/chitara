@@ -85,7 +85,6 @@
 - Adio, deci pe curând [C]
 - Alte clipe trăite alt epilog [F]
 - Aproape liniște [Dm]
-
 - Arsură [C]
 - Bătălia s-a sfârșit, soldatul... [Am]
 - Cana cu vin [C]
@@ -94,6 +93,13 @@
 - Cântec șoptit [C]
 - Cântecul bufonului [C]
 - Dacă ai ghici [C]
+- Dragostea e o salata [C]
+- Emoție de toamnă (I) [Am]
+- Fără petale [C]
+- Focul vânăt [Am]
+- Frunza (Mircea Baniciu) [F]
+- Înțelegere [C]
+
 - Mai rămâi puțin [C]
 - Tu [Cadd9]
 - Unde dragoste nu e, nimic nu e [Dm]
