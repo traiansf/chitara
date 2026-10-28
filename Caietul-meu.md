@@ -100,8 +100,11 @@
 - Frunza (Mircea Baniciu) [F]
 - Înțelegere [C]
 - Lumină [Am]
-
+- M-am îndrăgostit numai de ea [Am]
 - Mai rămâi puțin [C]
+- Mielul [C]
+- Mr. Tambourine Man (Pasărea Colibri) [F]
+
 - Tu [Cadd9]
 - Unde dragoste nu e, nimic nu e [Dm]
 - Vara promisă [Dm]

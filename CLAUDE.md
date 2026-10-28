@@ -142,7 +142,9 @@ lasă răsfrângerea rândului pe navigator (redimensionare, zoom, sidebar) să
 ducă acordurile cu ea automat, fără recalcul. Diferă de PDF doar prin ce
 ține de interactivitate — fiecare acord poartă `data-chord`, ca
 transpunerea și tooltipul de digitație (`chords.js`) să funcționeze la fel
-ca la cântecele native — și prin faptul că nu are nevoie de `fs_fit_prop()`/
+ca la cântecele native; spațiile dintre acorduri stau în `.pf-sp`, pe care
+`respaceRow()` din `chords.js` le recalculează după fiecare transpunere,
+fiindcă un acord transpus poate ieși mai lat (G → G#) — și prin faptul că nu are nevoie de `fs_fit_prop()`/
 `wrap_count_prop()`: la tipar rândurile trebuie împărțite dinainte, la o
 lățime de pagină fixă, cât la site navigatorul le împarte live, la orice
 lățime de fereastră.

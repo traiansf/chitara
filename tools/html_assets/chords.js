@@ -123,8 +123,53 @@ function renderAll(offset) {
     // shiftFingering) — show the chord name alone rather than "null"
     el.textContent = fingering ? `${name} ${fingering}` : name;
   });
+  document.querySelectorAll(".pf").forEach(respaceRow);
   const label = document.querySelector(".offset-label");
   if (label) label.textContent = offset > 0 ? `+${offset}` : String(offset);
+}
+
+// --- spațierea acordurilor plutitoare (cântecele cu font proporțional) ---
+
+// same values as make_pdf.py's PROP_GAP_EM / PROP_GAP_EM_NO_WORD
+const PROP_GAP_EM = 0.3;
+const PROP_GAP_EM_NO_WORD = 0.5;
+
+let measureCtx = null;
+
+function textWidth(text, el) {
+  if (!measureCtx) measureCtx = document.createElement("canvas").getContext("2d");
+  const s = getComputedStyle(el);
+  measureCtx.font = `${s.fontStyle} ${s.fontWeight} ${s.fontSize} ${s.fontFamily}`;
+  return measureCtx.measureText(text).width;
+}
+
+function respaceRow(row) {
+  // Browser-side redo of make_pdf.measured_spacing for one .pf row: the
+  // generator sized each .pf-sp (nbsp padding right before a chord's
+  // .pf-a anchor) for the labels as written, so a transposed label that
+  // got wider (G -> G#) would run into the next one. Measures the labels
+  // as they read now, with the same running-cursor algorithm.
+  const em = parseFloat(getComputedStyle(row).fontSize);
+  const nbspW = textWidth(" ", row);
+  let cursor = 0, labelEnd = null, gap = "", spacer = null;
+  for (const node of row.childNodes) {
+    if (node.nodeType !== 1) { gap += node.textContent; continue; }
+    if (node.classList.contains("pf-sp")) { spacer = node; continue; }
+    if (!node.classList.contains("pf-a")) { gap += node.textContent; continue; }
+    cursor += textWidth(gap, row);
+    let n = 0;
+    if (labelEnd !== null) {
+      const target = labelEnd + (gap.trim() ? 0 : PROP_GAP_EM_NO_WORD * em);
+      if (cursor < target) n = Math.ceil((target - cursor) / nbspW - 1e-6);
+      cursor += n * nbspW;
+    }
+    if (spacer) spacer.textContent = " ".repeat(n);
+    const lab = node.firstElementChild;
+    const text = lab.classList.contains("opt") ? `(${lab.textContent})` : lab.textContent;
+    labelEnd = cursor + textWidth(text, lab) + PROP_GAP_EM * em;
+    gap = "";
+    spacer = null;
+  }
 }
 
 const OFFSET_STORAGE_PREFIX = "chord-offset:";
@@ -154,6 +199,8 @@ function initTranspose() {
   if (!controls) return;
   let offset = loadStoredOffset();
   renderAll(offset); // apply a restored transposition immediately, if any
+  // a font that finishes loading late changes every width respaceRow measured
+  if (document.fonts) document.fonts.ready.then(() => renderAll(offset));
   controls.addEventListener("click", (e) => {
     const btn = e.target.closest("button[data-action]");
     if (!btn) return;

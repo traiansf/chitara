@@ -203,10 +203,11 @@ def render_prop_interactive(tokens, lyric):
     pieces, pos, prev_label = [], 0, None
     for (col, label), (spaces_before, _) in zip(tokens, layout):
         pieces.append(html.escape(keep_multispace(lyric[pos:col], prev_label), quote=False))
-        if spaces_before:
-            # nbsp, not a plain space: outside <pre>, normal HTML
-            # whitespace rules would collapse repeated plain spaces to one
-            pieces.append(" " * spaces_before)
+        # nbsp, not a plain space: outside <pre>, normal HTML whitespace
+        # rules would collapse repeated plain spaces to one. Always emitted,
+        # even empty, in its own .pf-sp span: chords.js (respaceRow) redoes
+        # this padding after a transpose changes the labels' widths.
+        pieces.append(f'<span class="pf-sp">{" " * spaces_before}</span>')
         pos, prev_label = col, label
         if label == "/":
             pieces.append('<span class="pf-a"><span class="rep">/</span></span>')

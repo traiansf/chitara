@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (299 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (298 cântece)
 
-- [II.1 — Folk](#ii1--folk) (212 cântece)
+- [II.1 — Folk](#ii1--folk) (211 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -344,9 +344,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Miruna](#miruna)
 - [Moartea unui alpinist (I)](#moartea-unui-alpinist-i)
 - [Moartea unui alpinist (II)](#moartea-unui-alpinist-ii)
-- [Mr. Tambourine Man](#mr-tambourine-man)
-- [Mugur de fluier (I)](#mugur-de-fluier-i)
-- [Mugur de fluier (II)](#mugur-de-fluier-ii)
+- [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri)
+- [Mugur de fluier](#mugur-de-fluier)
 - [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i)
 - [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii)
 - [Nebunul de alb](#nebunul-de-alb)
@@ -585,7 +584,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Love Me Tender](#love-me-tender)
 - [Love of My Life](#love-of-my-life)
 - [Michelle](#michelle)
-- [Mr. Tambourine Man](#mr-tambourine-man-1)
+- [Mr. Tambourine Man (Bob Dylan)](#mr-tambourine-man-bob-dylan)
 - [Mrs. Robinson](#mrs-robinson)
 - [My Bonnie Is Over the Ocean](#my-bonnie-is-over-the-ocean)
 - [Ne Sent-Tu Pas Claque Tes Doigts](#ne-sent-tu-pas-claque-tes-doigts)
@@ -13560,7 +13559,7 @@ Până-n cllipa-n care stânca ne-o trăda.
 Refren
 ```
 
-#### Mr. Tambourine Man
+#### Mr. Tambourine Man (Pasărea Colibri)
 
 **Pasărea Colibri** · muzica/versuri: Bob Dylan/Bob Dylan/Trad. Florian Pittis · Sursa: Cărticica Karban, p. 106
 
@@ -13569,37 +13568,39 @@ Refren
 **Ukulele:** G 0232 · A 2100 · D 2220 · Em 0432 · Asus4 2200 · Dsus4 0230 · Dsus2 2200
 
 ```text
+Refren:
 [G]Hei Mr. [A]Tambourine Man [D]cânta-mi să te as[G]cult,
 Nu mi-e [D]somn, spre nică[G]ieri mă [Em]poarta [A]pașii mei. [Asus4]=[A]
 [G]Hei Mr. [A]Tambourine Man [D]cânta-mi să te as[G]cult,
-După [D]tine-n zori voi [G]merge pe-[Em]ale [A]tale a[D]lei. [Dsus4]=[D]
-[Dsus2]=[D]
+După [D]tine-n zori voi [G]merge pe-[Em]ale [A]tale a[D]lei. [Dsus4]=[D] [Dsus2]=[D]
+
 [A]Și de[G]și castelul [A]serii în [D]nisip se întor[G]cea,
 Cer[D]nut prin mâna [G]mea,
 Ori pri[D]veam cum dispă[G]rea în [Em]zări pro[A]mise. [Asus4]=[A]
 Iar [G]plictiseala mă-[A]nvingea, căl[D]câiele mă [G]frig,
 Pri[D]eteni n-am să-i [G]strig,
 Acum [D]străzile sunt [G]vii fă[Em]ră de [A]vise. [Asus4]=[A]
+
 Refren
+
 [A]Du-[G]mă și mă [A]plimba pe-a ta [D]arca lin val[G]sând,
-În [D]simțuri sunt flă[G]mând, dacă mâ[D]inile apu[G]când, pi[D]cioarele
-căl[G]când,
+În [D]simțuri sunt flă[G]mând, dacă mâ[D]inile apu[G]când, pi[D]cioarele căl[G]când,
 Doar [D]ghetele aș[G]tept să [Em]mă mai [A]poarte. [Asus4]=[A]
-Sunt [G]gata să plec [A]unde vrei sunt [D]gata să m-a[G]fund în [D]fală mea
-de [G]plumb,
+Sunt [G]gata să plec [A]unde vrei sunt [D]gata să m-a[G]fund în [D]fală mea de [G]plumb,
 Dan[D]sul meu de e pro[G]fund, mă [Em]va purta de[A]parte. [Asus4]=[A]
+
+Refren
+
 [A]Și de[G]și auzi, a[A]uzi sub soare a[D]tâtea nebu[G]nii,
 Spre [D]mine morți [G]vii sunt doar a[D]tât copilă[G]rii.
 Și pe [D]ceruri ele [G]nu-s de[Em]loc o[A]fense [Asus4]=[A]
 Și de[G]și auzi, a[A]uzi ecoul vag de [D]rime de e[G]fect
 La [D]ritmul tău per[G]fect, e [D]doar un clown ab[G]ject
-Ce [D]nu-i de bun res[G]pect, el numai [D]umbre doar vâ[G]nează [Em]prea
-i[A]mense. [Asus4]=[A]
+Ce [D]nu-i de bun res[G]pect, el numai [D]umbre doar vâ[G]nează [Em]prea i[A]mense. [Asus4]=[A]
+
 [A]Deci [G]ia-mă și mă [A]pierde prin i[D]nelele de [G]fum,
-Într-un [D]timp ce nu-i a[G]cum, de[D]parte de co[G]paci, prea [D]goi și prea
-să[G]raci.
-Bă[D]tuți de-un vânt se[G]meț, de[D]parte de tri[G]steți [Em]în negre
-[A]haine. [Asus4]=[A]
+Într-un [D]timp ce nu-i a[G]cum, de[D]parte de co[G]paci, prea [D]goi și prea să[G]raci.
+Bă[D]tuți de-un vânt se[G]meț, de[D]parte de tri[G]steți [Em]în negre [A]haine. [Asus4]=[A]
 Ca [G]să plutesc sub [A]cerul liber cât [D]timp nu-i ne[G]bun.
 În [D]marea să m-a[G]dun, ni[D]sip jur împre[G]jur
 Cu [D]speranțe și-amin[G]tiri îne[D]cate de-amă[G]giri
@@ -13610,73 +13611,42 @@ Notă: La începutul strofelor, `A` durează un singur timp și se leagă de cel
 
 Ritm (exemplificat pentru două măsuri): `|1/ 2//3//4//|1/ 2//3//4//|`
 
-#### Mugur de fluier (I)
-
-**Phoenix** · Sursa: Caiet Christian Adventure, p. 105 · Caiet cabană RO, p. 79 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mugur-de-fluier-12376)
-
-**Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010 · Em 022000
-
-**Ukulele:** G 0232 · D 2220 · Am 2000 · C 0003 · Em 0432
-
-```text
-G        D        Am       C       G   D   G   D
-Îmi simt sufletul mugur de fluier
-Ce-a doinit cântec cu șuier
-Petru zilele ce-au fost trecute
-Pentru nopțile negre si slute
-
-G D Am
-Em D Em D
-
-Am pornit cu roua-n picioare
-Ca să cânt un cântec de soare
-Pentru zilele ce au să vie
-Pentru nopțile cu iasomie
-
-G         D  Am
-Freamătul apelor
-   Em       D   Em    D
-Și foșnetul codrilor
-G        D     Am
-În el se intâlnesc
-   Em         D   Em
-Și sufletu-mi încălzesc
-
-Refren x2:
- G    D   Am
-Hei, hei, verde e iarba
-C         D      G      D
-Soarele-i sus pe cer
-Hei, hei, dusă e iarna
-Cu dinții ei de fier
-```
-
-#### Mugur de fluier (II)
+#### Mugur de fluier
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 131
 
-**Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010
+**Chitară:** G 320003 · D xx0232 · Am x02210 · C x32010 · Em 022000 · F 133211
 
-**Ukulele:** G 0232 · D 2220 · Am 2000 · C 0003
+**Ukulele:** G 0232 · D 2220 · Am 2000 · C 0003 · Em 0432 · F 2010
 
 ```text
-[G]Îmi simt sufle[D]tul [Am]mugur de [C]flu[G]ier[D]
-[G]Ce-a doi[D]nit [Am]cântec cu [C]șu[G]ier[D]
-[G]Pentru zile[D]le [Am]ce-au fost [C]trecu[G]te[D]
-[G]Pentru nopți[D]le [Am]negre și [C]slu[G]te.[D]
-[G]Am por[D]nit cu [Am]roua-n pi[C]cioa[G]re[D]
-[G]Ca să [D]cânt un [Am]cântec de [C]soa[G]re[D]
-[G]Pentru zile[D]le [Am]ce au să [C]vi[G]e[D]
-[G]Pentru nopți[D]le [Am]cu iaso[C]mi[G]e.[D]
+[G]Îmi simt [D]sufletul [Am]mugur de [C]flu[G]ier[D]  [G]  [D]  [G]
+Ce-a doi[D]nit [Am]cântec cu [C]șu[G]ier[D]  [G]  [D]  [G]
+[G]Pentru zile[D]le (zilele) [Am]ce-au fost [C]trecu[G]te[D]  [G]  [D]  [G]
+[G]Pentru nopți[D]le (nopțile) [Am]negre și [C]slu[G]te.[D]  [G]  [D]  [G]
+
+Bridge (instrumental):
+[G]  [D]  [Am]  ^
+[Em]  [D]  [Em]  [D]
+[G]  [D]  [Am]  ^
+ [Em]  [D]  [Em]  [D]
+
+[G]Am por[D]nit cu [Am]roua-n pi[C]cioa[G]re[D]  [G]  [D]  [G]
+[G]Ca să [D]cânt un [Am]cântec de [C]soa[G]re[D]  [G]  [D]  [G]
+[G]Pentru zile[D]le (zilele) [Am]ce au să [C]vi[G]e[D]  [G]  [D]  [G]
+[G]Pentru nopți[D]le (nopțile) [Am]cu iaso[C]mi[G]e.[D]  [G]  [D]  [G]
+
+Bridge:
+[G]Freamătul [D]ape[Am]lo^or
+Și [Em]foșnetul [D]codri[Em]lo[D]or
+[G]În el se [D]întâl[Am]ne^esc
+Și [Em]sufletu-mi [D]încăl[Em]ze[D]esc.
+
 Refren:
-[G]Freamătul [D]ape[Am]lor
-[Am]Și foșnetul [D]codri[Am]lor[D]
-[G]În el se [D]întâl[Am]nesc
-[Am]Și sufletu-mi [D]încăl[Am]zesc.[D]
-[G]Hei, [D]hei, [Am]verde e [D]iarba
-[G]Soarele-i [D]sus pe [Am]cer[D]
-[G]Hei, [D]hei [Am]dusă e [D]iarna
-[G]Cu dinții [D]ei de [Am]fier[D]
+[G]Hei, [D]hei, [Am]verde e ^iarba
+[G]Soarele-i [D]sus pe [F]ce[D]er
+[G]Hei, [D]hei [Am]dusă e ^iarna
+[G]Cu dinții [D]ei de [F]fier[D]
 ```
 
 #### Nebunul cu ochi închiși (I)
@@ -24370,7 +24340,7 @@ And I will say the only words I know that you'll understand
 My Michelle.
 ```
 
-#### Mr. Tambourine Man
+#### Mr. Tambourine Man (Bob Dylan)
 
 **Bob Dylan** · Sursa: Caiet cabană EN, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mr-tambourine-man-1904)
 
@@ -33158,7 +33128,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Beatles** — [Girl](#girl), [Hey Jude](#hey-jude), [I Want to Hold Your Hand](#i-want-to-hold-your-hand), [Let It Be](#let-it-be), [Michelle](#michelle), [Ticket to Ride](#ticket-to-ride), [Twist and Shout](#twist-and-shout), [With a Little Help from My Friends](#with-a-little-help-from-my-friends), [Yellow Submarine](#yellow-submarine), [Yesterday](#yesterday)
 - **Ben E. King** — [Stand by Me](#stand-by-me)
 - **Bmby** — [Doi ochi căprui](#doi-ochi-căprui)
-- **Bob Dylan** — [Don't Think Twice, It's Alright](#dont-think-twice-its-alright), [Knockin' on Heaven's Door](#knockin-on-heavens-door), [Mr. Tambourine Man](#mr-tambourine-man-1)
+- **Bob Dylan** — [Don't Think Twice, It's Alright](#dont-think-twice-its-alright), [Knockin' on Heaven's Door](#knockin-on-heavens-door), [Mr. Tambourine Man (Bob Dylan)](#mr-tambourine-man-bob-dylan)
 - **Bosquito** — [Bosquito](#bosquito), [Tigano](#tigano)
 - **Brenda Lee** — [Rocking Around the Christmas Tree](#rocking-around-the-christmas-tree)
 - **Buru (Adrian Burnichi)** — [Sunt sărac](#sunt-sărac)
@@ -33240,10 +33210,10 @@ Notă: Măsura 4/4, ritm de swing.
 - **Nightwish** — [The Islander](#the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#azi), [Floarea](#floarea), [Lăsați-mă să cânt](#lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#peste-al-nostru-sărut)
-- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man](#mr-tambourine-man), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
+- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
-- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
+- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Canarul](#canarul)
 - **Pink Floyd** — [Another Brick in the Wall](#another-brick-in-the-wall), [Wish You Were Here](#wish-you-were-here)
 - **Poesis (Pasărea Colibri)** — [Cântec șoptit](#cântec-șoptit)
