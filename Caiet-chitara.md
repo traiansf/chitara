@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (295 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (293 cântece)
 
-- [II.1 — Folk](#ii1--folk) (208 cântece)
+- [II.1 — Folk](#ii1--folk) (206 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -375,8 +375,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Peste-al nostru sărut](#peste-al-nostru-sărut)
 - [Piața Romană nr.9](#piața-romană-nr9)
 - [Pisică neagră](#pisică-neagră)
-- [Ploaia care va veni (I)](#ploaia-care-va-veni-i)
-- [Ploaia care va veni (II)](#ploaia-care-va-veni-ii)
+- [Ploaia care va veni](#ploaia-care-va-veni)
 - [Ploaie în luna lui marte](#ploaie-în-luna-lui-marte)
 - [Podul de piatra](#podul-de-piatra)
 - [Prietene](#prietene)
@@ -387,13 +386,11 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Rănitul dintre linii (II)](#rănitul-dintre-linii-ii)
 - [Rar](#rar)
 - [Resemnare paternă](#resemnare-paternă)
-- [Romanță de toamnă](#romanță-de-toamnă)
 - [Romanță între două trenuri (I)](#romanță-între-două-trenuri-i)
 - [Romanță între două trenuri (II)](#romanță-între-două-trenuri-ii)
 - [Rugă pentru părinți (I)](#rugă-pentru-părinți-i)
 - [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii)
-- [Să trosnească lemne-n foc (I)](#să-trosnească-lemne-n-foc-i)
-- [Să trosnească lemne-n foc (II)](#să-trosnească-lemne-n-foc-ii)
+- [Să trosnească lemne-n foc](#să-trosnească-lemne-n-foc)
 - [Sala pașilor pierduți](#sala-pașilor-pierduți)
 - [Săracă inima me' (I)](#săracă-inima-me-i)
 - [Săracă inima me' (II)](#săracă-inima-me-ii)
@@ -416,6 +413,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Târg de sclavi](#târg-de-sclavi)
 - [Teama](#teama)
 - [Ți-am spus adio de mult](#ți-am-spus-adio-de-mult)
+- [Tincturi de frunze](#tincturi-de-frunze)
 - [Toți suntem puțin luați](#toți-suntem-puțin-luați)
 - [Totuși, iubirea](#totuși-iubirea)
 - [Trandafirul albastru](#trandafirul-albastru)
@@ -12346,15 +12344,13 @@ Ce păcat că morții i-am fost dat ca soț.
 
 #### Împreună
 
-Sursa: Caiet cabană RO, p. 136
+**Mircea Florian** · Sursa: Caiet cabană RO, p. 136
 
 **Chitară:** C x32010 · G7 320001 · F 133211 · G 320003 · Am x02210
 
 **Ukulele:** C 0003 · G7 0212 · F 2010 · G 0232 · Am 2000
 
 ```text
-Mircea Florian
-
 1.
 
 [C]Dac-aș fi un ^brad cu aripi
@@ -14866,32 +14862,35 @@ Amice, privește
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
-[G]Atunci când [C]ai [D]promis ca [G]vii,
-[G]Mi-am pus că[D]mașa de ny[G]lon,
-[G]Aceea [C]cu [D]pasman[G]terii,
-[G]Și-n suflet [D]încă un zor[G]zon
+[G]  Atunci când [C]ai [D]  promis ca [G]vii,
+[G]  Mi-am pus că[D]mașa de ny[G]lon,
+[G]  Aceea [C]cu [D]  pasvan[G]terii,
+[G]  Și-n suflet [D]încă un zor[G]zon
+
 Refren:
-[G]Mă lustruisem, [D]mă lustruisem
-[C]Mă lustruisem [G]pe bombeu
-[G]Pășeam atent, [D]pășeam atent
-[C]Pășeam atent să [G]nu mă sfarm
-[G]Mișcându-mă, [D]mișcându-mă
-[C]Mișcându-mă des[G]tul de greu
-[G]Înfipt în blugi, [D]înfipt în blugi
-[C]Înfipt în blugii [G]bleu-jandarm
-[G]Peste răb[C]dări [D]te-am aștep[G]tat
-[G]Încins de-[D]un patos u[G]riaș,
-[G]Să-ți dărui [C]moftul [D]prefe[G]rat
-[G]Și-o troti[D]neta cu a[G]taș.
-[G]Dar n-ai so[C]sit [D]nici mai a[G]poi
-[G]Încât, de-a [D]binelea po[G]sac,
-[G]Mi-am procu[C]rat [D]țigări de [G]foi
-[G]Și le-am to[D]pit pe basa[G]mac
-Refren
-[G]Vezi tu a[C]cum [D]la mine-n [G]piept
-[G]Se zbat sus[D]pinele fier[G]binți
-[G]Și n-am ha[C]bar [D]ce mai aș[G]tept
-[G]În lumea-n [D]care tu mă [G]minți
+Mă [G]lustruisem, mă [D]lustruisem
+Mă [C]lustruisem [G]pe bombeu
+Pă[G]șeam atent, pă[D]șeam atent
+Pă[C]șeam atent să [G]nu mă sfarm
+Miș[G]cându-mă, miș[D]cându-mă
+Miș[C]cându-mă des[G]tul de greu
+În[G]fipt în blugi, în[D]fipt în blugi
+În[C]fipt în blugii [G]bleu-jandarm
+
+[G]  Peste răb[C]dări [D]  te-am aștep[G]tat
+[G]  Încins de-[D]un patos u[G]riaș,
+[G]  Să-ți dărui [C]moftul [D]  prefe[G]rat
+[G]  Și-o troti[D]netă cu a[G]taș.
+
+[G]  Dar n-ai so[C]sit [D]  nici mai a[G]poi
+[G]  Încât, de-a [D]binelea po[G]sac,
+[G]  Mi-am procu[C]rat [D]  țigări de [G]foi
+[G]  Și le-am to[D]pit pe basa[G]mac
+
+[G]  Vezi tu a[C]cum [D]  la mine-n [G]piept
+[G]  Se zbat sus[D]pinele fier[G]binți
+[G]  Și n-am ha[C]bar [D]  ce mai aș[G]tept
+[G]  În lumea-n [D]care tu mă [G]minți
 ```
 
 #### Peste-al nostru sărut
@@ -15011,159 +15010,89 @@ Piața Romană Nr.9.
 
 Notă: Progresie tipică de rock; la chitara electrică se poate adăuga riff-ul care însoțește toată melodia.
 
-#### Ploaia care va veni (I)
+#### Ploaia care va veni
 
-**Florian Pitiș** · Sursa: Caiet Christian Adventure, p. 129 · Caiet cabană RO, p. 94 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/ploaia-care-va-veni-1456)
-
-**Chitară:** D xx0232 · F#m 244222 · A x02220 · Em 022000
-
-**Ukulele:** D 2220 · F#m 2120 · A 2100 · Em 0432
-
-```text
-D                          F#m
-Sunt un frate tânăr, care crede în
-dreptate,
-        A                      D
-Am ochi negri dar am mâinile curate.
-D                              F#m
-Iubesc pletele și ploaia și cămășile-
-nflorate,
-       A
-Nu răspund când mi se-aruncă vorbe-
-D
-spate.
-
-Em                D
-Un fapt fără importanță
-Em                D
-Mă poate face să sper,
-Em                   D
-Mă-nclin și pun în balanță
-Em                    D
-Ce-i sfânt cu ce-i efemer.
-                 Em
-Peste tot atârna greu
-A               D
-Teama de sinceritate...
-
-Dar de câte ori, prieteni, n-am surâs c
-întristare
-Când speranțele păreau înșelătoare.
-Când necinstea și prostia și-ascundea
-prin gropi norocul,
-Știti de câte ori prieteni le-am prins joc
-
-Ne-am săturat de palavre,
-De cărti și filme de șoc,
-Cu vampe, regi și cadavre,
-Cu stele de iarmaroc.
-Ploaia care va veni
-Le va potopi pe toate.
-n
-
-Mi-e lehamite de marșuri,
-De tromboane și plocoane,
-De blazoane, de canoane și
-fasoane.
-Fiindcă banul și prostia
-Sunt pericole morale
-Circul vieții ne-a impus salturi
-mortale.
-
-Deasupra florilor noastre
-Ciuperca cheamă a pustiu,
-Din cer cad păsari albastre
-Și totusi nu e prea târziu.
-
-Ploaia care va veni
-u
-Le va potopi pe toate.
-Să-ncercăm să facem noi
-Un oraș fără păcate.
-u
-/Ploaia care va veni
-Le va potopi pe toate. x4
-ul.
-```
-
-#### Ploaia care va veni (II)
-
-**Pasărea Colibri** · muzica/versuri: Dorin Liviu Zaharia -adaptare după o piesa a grupului ECHIPA'84/Dorin Liviu · Sursa: Cărticica Karban, p. 110
+**Pasărea Colibri** · muzica/versuri: Dorin Liviu Zaharia -adaptare după o piesa a grupului ECHIPA'84/Dorin Liviu · Sursa: Cărticica Karban, p. 110 · Caiet Christian Adventure, p. 129 · Caiet cabană RO, p. 94 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/ploaia-care-va-veni-1456)
 
 **Chitară:** D xx0232 · Bm x24432 · A x02220 · G 320003 · Em 022000 · C x32010
 
 **Ukulele:** D 2220 · Bm 4222 · A 2100 · G 0232 · Em 0432 · C 0003
 
 ```text
-[D]Sînt un frate tânăr, care [Bm]crede în dreptate,
-Am ochii [A]negri, dar am [G]mâinile cu[D]rate.
-Iu[D]besc pletele și ploaia și [Bm]cămășile-nflorate,
+[D]Sînt un frate ^tânăr, care [Bm]crede în drep^tate,
+Am ochii [A]negri, dar am [G]mâinile cu[D]rate.  ^
+Iubesc [D]pletele și ^ploaia și [Bm]cămășile-nflo^rate,
 Nu răs[A]pund când mi se-[G]aruncă vorbe-n [D]spate.
-Un [Em]fapt fără impor[D]tanță [G]mă poate face să [D]sper,
-Mă-[Em]nclin și pun în ba[D]lanță [G]ce-i sfânt cu ce-i efe[D]mer.
-Peste tot atârna [Em]greu [G]teama de sinceri[D]tate...
-[D]Dar de câte ori, prieteni, n-am su[Bm]râs cu întristare,
-Când spe[A]ranțele pă[G]reau înșelă[D]toare.
-Când ne[D]cinstea și prostia și-ascun[Bm]deau prin gropi norocul,
-Știți de [A]câte ori, pri[G]eteni, le-am prins [D]jocul.
-Ne-am [Em]săturat de pa[D]lavre, [G]de cărți și filme de [D]șoc,
-Cu [Em]vampe, regi și ca[D]davre, [G]cu stele de iarma[D]roc...
-Ploaia care va [Em]veni le [G]va potopi pe [D]toate.
-[D]Mi-e lehamite de marșuri, de trom[Bm]boane, de plocoane,
-De bla[A]zoane, de ca[G]noane și fa[D]soane.
-[D]Fiindcă banul și puterea sunt [Bm]pericole morale,
-Circul [A]vieții ne-a im[G]pus salturi mor[D]tale.
-[Em]Deasupra florilor noa[D]stre, [G]ciuperca cheamă a pus[D]tiu,
-[Em]Din cer cad păsări alba[D]stre, [G]și totuși nu-i prea târ[D]ziu.
-Ploaia care va [Em]veni [G]le va potopi pe [D]toate.
-Să-ncercăm să facem [Em]noi [G]un oraș fără pă[D]cate.
-Ploaia care va [Em]veni le [G]va potopi pe [D]toate.
+
+[Em]  Un ^fapt fără impor[D]tanță ^
+[G]  mă poate ^face să [D]sper,  ^
+[Em]  Mă-nclin și ^pun în ba[D]lanță ^
+[G]ce-i sfânt cu ^ce-i efe[D]mer.
+Peste ^tot atârnă [Em]greu ^
+[G]  teama de ^sinceri[D]tate...  ^
+
+Dar de [D]câte ori, pri^eteni, n-am su[Bm]râs cu întris^tare,
+Când spe[A]ranțele pă[G]reau înșelă[D]toare. ^
+Când ne[D]cinstea și pros^tia și-ascun[Bm]deau prin gropi no^rocul,
+Știți de [A]câte ori, pri[G]eteni, le-am prins [D]jocul.  ^
+
+[Em]  Ne-am sătu^rat de pa[D]lavre,  ^
+[G]  de cărți și ^filme de [D]șoc,  ^
+[Em]  Cu vampe, ^regi și ca[D]davre, ^
+[G]  cu stele ^de iarma[D]roc...
+Ploaia ^care va [Em]veni  ^
+[G]  le va ^potopi pe [D]toate.  ^
+
+Mi-e le[D]hamite de ^marșuri, de trom[Bm]boane, de plo^coane,
+De bla[A]zoane, de ca[G]noane și fa[D]soane.  ^
+Fiindcă [D]banul și pu^terea sunt [Bm]pericole mo^rale,
+Circul [A]vieții ne-a im[G]pus salturi mor[D]tale.  ^
+
+[Em]  Deasupra ^florilor noa[D]stre,  ^
+[G]  ciuperca ^cheamă a pus[D]tiu,  ^
+[Em]  Din cer cad ^păsări alba[D]stre,  ^
+[G]  și totuși ^nu-i prea târ[D]ziu.
+Ploaia ^care va [Em]veni  ^
+[G]  le va ^potopi pe [D]toate.  ^
+[D]  Să-ncer^căm să facem [Em]noi  ^
+[G]  un o^raș fără pă[D]cate.  ^
+/[D]  Ploaia ^care va [Em]veni  ^
+[G]  le va ^potopi pe [D]toate.  ^/ xn
 ```
 
 Notă: Pe discul Pasărea Colibri se cântă din `D`; există transcrieri și din `C`.
 
 #### Ploaie în luna lui marte
 
-**Nicu Alifantis** · Sursa: Caiet cabană RO, p. 131 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/ploaie-in-luna-lui-marte-280)
+**Nicu Alifantis** · versuri: Nichita Stănescu · Sursa: Caiet cabană RO, p. 131 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/ploaie-in-luna-lui-marte-280)
 
 **Chitară:** C x32010 · Am x02210 · Em 022000 · Dm xx0231 · G 320003 · E 022100
 
 **Ukulele:** C 0003 · Am 2000 · Em 0432 · Dm 2210 · G 0232 · E 4442
 
 ```text
-N.Alifantis
-
 R:
-C                  Am
-Ploua infernal și noi ne iubeam
-          Em
-Prin mansarde
-     C                      Am
-Prin cerul ferestrei, prin cerul oval
-       Em                   Am
-Norii curgeau în luna lui marte.
-1.
-    Dm     G           C
-Pereții odăii erau liniștiți
-                Am
-Sub desene de cretă
-       Dm      G
-Sufletele noastre dansau
-     C                       E
-Nevăzute într-o lume concretă.
+Plo[C]ua infernal  ^
+[Am]  și noi ne iubeam  ^ prin man[Em]sarde.  ^  [Am]  ^
+Prin [C]cerul ferestrei,  ^  prin [Am]cerul oval  ^
+norii cur[Em]geau  ^  în luna lui [Am]Marte.  ^
 
-      Dm                   Am
-O să te plouă pe aripi spuneai
-Plouă cu globuri pe glob și prin vreme
-Nu-i nimic îți spuneam, Lorelai
-Mie-mi plouă zborul cu pene.
+1.
+[Dm]  Pereții o[G]dăii erau
+neliniș[C]tiți, sub desene în [Am]cretă.
+[Dm]  Sufletele [G]noastre dansau
+nevă[C]zute-ntr-o lume con[E]cretă.  ^
+
+[Dm]  O să te ^plouă pe aripi, spu[Am]neai,  ^
+[Dm]  plouă cu ^globuri pe glob și prin [Am]vreme.  ^
+[Dm]  Nu-i nimic, nu-i ni^mic, îți spuneam, Lore[Am]lei,  ^
+[Dm]  mie-mi plouă ^zborul, cu [Am]pene.  ^
 
 2.
-Și mă înălțam și nu mai știam
-Unde lăsasem lumea odată
-Tu mă strigai din urmă
-RĂspunde-mi cine-s mai frumoși
-oameni? ploaia?
+[Dm] Și mă înăl[G]țam. Și nu mai ști[C]am unde-mi
+lăsasem în lume o[Am]daia.
+[Dm]  Tu mă stri[G]gai din urmă: răspunde-mi
+[C]cine-s mai frumoși: [E]oamenii?... ^ploaia?...
 ```
 
 #### Podul de piatra
@@ -15175,26 +15104,30 @@ oameni? ploaia?
 **Ukulele:** D 2220 · A 2100 · G 0232
 
 ```text
-[D]Podul de piatra [A]s-a dărâ[D]mat
-[D]A venit apa [A]și l-a [D]luat.
-[G]Vom face [D]altul [G]pe mal [D]în jos,
-[G]Altul mai [D]trainic [A]și mai [D]frumos.
-[D]Câte mii de [A]oameni [G]au călcat pe [D]el
-Până să se [A]nască [G]puiul de câr[D]cel,
-[G]Care să prim[D]ească, [G]să primească-n [D]dar
-[G]Forță lui cea [D]oarba, [A]fără de ho[D]tar.
-[D]S-a dus bul[A]boana-n [G]miezul rău[D]lui
-Și-a-nceput să [A]urle [G]în vâltoarea [D]lui.
-[G]Apele re[D]pezi au [G]coborât din [D]munți
-[G]Să asculte [D]sfatul [A]celor azi că[D]runți.
-[D]Fără de spe[A]ranta [G]totul e [D]pierdut
-Podul de pi[A]atra [G]trebuie refă[D]cut.
-[G]Vom face [D]altul [G]pe mal în [D]jos,
-[G]Altul mai tra[D]inic [A]și mai fru[D]mos.
-[D]Podul de piatra [A]s-a dărâ[D]mat
-[D]A venit apa [A]și l-a [D]luat.
-[G]Vom face [D]altul [G]pe mal [D]în jos,
-[G]Altul mai [D]trainic [A]și mai [D]frumos.
+[D]Podul de ^piatră [A]s-a dărâ[D]mat
+[D]A venit ^apa [A]și l-a lu[D]at.
+[G]  Vom face [D]altul [G]  pe mal în [D]jos,
+[G]  Altul mai [D]trainic [A]  și mai fru[D]mos.
+
+[D]  Câte mii de [A]oameni [G]  au călcat pe [D]el
+[D]  Până să se [A]nască [G]  puiul de câr[D]cel,
+[G]  Care să pri[D]mească, [G]  să primească-n [D]dar
+[G]  Forța lui cea [D]oarbă, [A]fără de ho[D]tar.
+
+[D]  S-a dus bul[A]boana-n [G]  miezul râu[D]lui
+[D]  Și-a-nceput să [A]urle [G]  în vâltoarea [D]lui.
+[G]  Apele [D]repezi au [G]coborât din [D]munți
+[G]  Făr' s-asculte [D]sfatul [A]celor azi că[D]runți.
+
+[D]  Fără spe[A]ranță [G]  totul e pier[D]dut
+[D]  Podul de [A]piatră  [G]  trebuie refă[D]cut.
+[G]  Vom face [D]altul [G]  pe mal în [D]jos,
+[G]  Altul mai [D]trainic [A]și mai fru[D]mos.
+
+[D]Podul de ^piatră [A]s-a dărâ[D]mat
+[D]A venit ^apa [A]și l-a lu[D]at.
+[G]  Vom face [D]altul [G]  pe mal în [D]jos,
+[G]  Altul mai [D]trainic [A]  și mai fru[D]mos.
 ```
 
 #### Prietene
@@ -15319,20 +15252,16 @@ Sursa: Caiet cabană RO, p. 63
 
 ```text
 1.
-     Em                            Am
-Puștoaico , tu ai sânge de viperă
-        B7                     Em
-Puștoaico, îți spun adio și te las.
+Puș[Em]toaico,  ^  tu ai sânge de [Am]viperă  ^
+Puș[B7]toaico,  ^  îți spun adio și te [Em]las.
 
 R:
-    Em        Am               Em
-Da, da tu ,tu mi-ai înșelat simțămintele
-         B7                         Em
-da, da ,da tu, tu , mi-ai rănit inima.
+[Em]  Da, da, tu, [Am]tu   ^  mi-ai înșelat simță[Em]mintele
+[Em]  da, da, tu, [B7]tu,  ^  mi-ai rănit ini[Em]ma.
 
 2.
-Puștoaico , ți-am fost suflet prea credincios
-Puștoaico, de-acum nimic nu are rost.
+Puș[Em]toaico,  ^  ți-am fost suflet prea [Am]credincios  ^
+Puș[B7]toaico,  ^  de-acum nimic nu are [Em]rost.
 ```
 
 #### Puterea să alegi
@@ -15422,26 +15351,30 @@ mamă...
 **Ukulele:** C 0003 · G7 0212
 
 ```text
-[C]Ce plumb mă leagă [G7]de pământ
-[C]Ce greu mi-e trupul [G7]și ce frânt
-[C]Ce liniște-i în [G7]jur acum
-[C]Mi-e viata numai [G7]ca un fum.
-[C]Îmi cad pe fata [G7]fulgi de nea
-[C]Ca pe un bulgăr [G7]de mormânt
-[C]Și nu-i nici ploaie [G7]și nici vânt
-[C]Ce rece e pe [G7]fata mea.
-[C]De unde-n gură [G7]atât cobalt ?
-[C]Ce mult aș vrea să-mi [G7]fie cald
-[C]Să nu se-audă [G7]nici un tun
-[C]Ce-nalt e cerul [G7]și ce bun.
+Ce [C]plumb mă leagă [G7]de pământ
+Ce [C]greu mi-e trupul [G7]și ce frânt
+Ce [C]liniște-i în [G7]jur acum
+Mi-e [C]viața numai [G7]ca un [C]fum.  [G7]
+
+Îmi [C]cad pe față [G7]fulgi de nea
+Ca [C]pe un bulgăr [G7]de mormânt
+Și [C]nu-i nici ploaie [G7]și nici vânt
+Ce [C]rece e pe [G7]fața [C]mea.  [G7]
+
+De [C]unde-n gură a[G7]tât cobalt?
+Ce [C]mult aș vrea să-mi [G7]fie cald
+Să [C]nu se-audă [G7]nici un tun
+Ce-[C]nalt e cerul [G7]și ce [C]bun.  [G7]
+
 [C]Toate-s aproape [G7]și departe
-[C]Și parcă-s legă[G7]nat de ape
-[C]Cu ochii în [G7]eternitate
-[C]Ce stranie sin[G7]gurătate.
-[C]Iar ninge tare [G7]și mi-e frig
-[C]Aș vrea să mă [G7]ridic să strig
+Și [C]parcă-s legă[G7]nat de ape
+Cu [C]ochii în e[G7]ternitate
+Ce [C]stranie sin[G7]gură[C]tate.  [G7]
+
+Iar [C]ninge tare [G7]și mi-e frig
+Aș [C]vrea să mă ri[G7]dic să strig
 [C]Cine-i alături [G7]și mă cheamă,
-[C]Mama...[G7]...
+[C]Ma[G7]a[C]mă...[G7]...
 ```
 
 Notă: Ciupitură:
@@ -15462,9 +15395,12 @@ Exemplificată pentru `C` și `G7` (singurele acorduri din melodie).
 
 **Nicu Alifantis** · muzica/versuri: Nicu Alifantis/George Bacovia · Sursa: Cărticica Karban, p. 19
 
-**Chitară:** D xx0232 · C x32010 · Dm xx0231 · Bb x13331 · A x02220
+**Chitară:** Dm xx0231 · C x32010 · Bb x13331 · A x02220 · D xx0232
 
-**Ukulele:** D 2220 · C 0003 · Dm 2210 · Bb 3211 · A 2100
+**Ukulele:** Dm 2210 · C 0003 · Bb 3211 · A 2100 · D 2220
+
+Refren:
+Se fluieră următoarea progresie de acorduri `Dm` `C` `Bb` `A`
 
 ```text
 [D]Singur, singur, singur, [C]singur
@@ -15474,7 +15410,7 @@ Străzile-s [C]deșarte
 [Bb]Singur, [A]singur
 [D]Plouă, plouă, plouă, [C]plouă
 Vreme de [Dm]beție
-Și s-[C]asculți, s-asculți [Dm]puștiul
+Și s-[C]asculți, s-asculți [Dm]pustiul
 Ce melanco[C]lie
 [Bb]Plouă, [A]plouă
 [D]Nimeni, nimeni, nimeni, [C]nimeni
@@ -15487,8 +15423,6 @@ Vreme de [Dm]beție
 I-[C]auzi cum mai [Dm]plouă
 Ce melanco[C]lie
 [Bb]Singur, [A]singur
-Refren:
-Se fluiera următoarea progresie de acorduri Dm C Bb A
 ```
 
 #### Resemnare paternă
@@ -15526,50 +15460,6 @@ S-a însingurat prea tare, sunt îngrijorat
 Neobosită-ntruna doar învață
 ÎȘi ocupă astfel timpul ca să uite c-ai plecat
 Și un gol în suflet I-ai lăsat.
-```
-
-#### Romanță de toamnă
-
-**Vasile Mardare** · Sursa: Caiet cabană RO, p. 11 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/romanta-de-toamna-3289)
-
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
-
-**Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
-
-```text
-1.
-    G                        Em
-Nu pot să stau drept merg cu toamna-n piept
-      C                   D
-Vântu-n toate rănile mă doare
-Și pe orice drum ca un vers postum
-Vine frunza în întâmpinare.
-
-R:
-Și-am să-ți scriu scrisori
-Pe tulpini de flori
-De lumina stelelor pătrunse
-Și-un roman să-ți scriu
-Folosind pe viu sub umbra de nuc
-Tincturi de frunze.
-
-2.
-Putredul accent a lovit atent
-Fiecare fir de iarbă verde
-Clipe indigo care încotro
-SĂ avem motive de a ne pierde.
-
-3.
-Frunze îți trimit scrise cu grafit
-Sau cu movul iernii care vine
-Ce să-ți mai înșir, frunze în delir
-Te iubesc și mă gândesc la tine.
-
-4.
-Orișiunde merg frunze cad din cer
-Și din clopot ni se-aude mersul
-Scriu scrisori pe flori lăcrimând în ploi
-Într-un liber schimb cu universul.
 ```
 
 #### Romanță între două trenuri (I)
@@ -15760,62 +15650,9 @@ munte" doar cu ceva foarte mici modificări.
 [F]Mama [E]mea, fetița [Am]mea...
 ```
 
-#### Să trosnească lemne-n foc (I)
+#### Să trosnească lemne-n foc
 
-**Grupul Ecoul** · Sursa: Caiet cabană RO, p. 100
-
-**Chitară:** G 320003 · C x32010 · D xx0232 · G7 320001
-
-**Ukulele:** G 0232 · C 0003 · D 2220 · G7 0212
-
-```text
-A.PĂunescu
-
-1.
-     G           C          G
-SĂ trosnească lemne-n foc
-      C      G        D
-Și să vină multă noapte
-În pridvor de busuioc
-Cu miros de mere coapte.
-R1:
-      C              D
-Și să ningă nins de nori
-        G             G7
-Pân' la streașină și peste
-       C           D      G
-Și în scaun să adorm, adorm
-              C       D    G
-Ca de-un drog și de-o poveste.
-
-2.
-Cu ziarul pe genunchi
-Și cu pleoapele căzute
-SĂ-mi răsară moartea-n trunchi
-Și pe ochi să mă sărute.
-
-R2:
-Cei bătrâni să fie vii
-Pacea lumii fie dată
-Eu copil între copii
-Iar afară tânăr tata.
-
-3.
-Și bunica să mă ia
-SĂ mă ducă încet spre pernă
-Și să simt venind din ea
-Toată liniștea eternă.
-
-R3:
-SĂ trosnească lemne-n foc
-Sub un biet ibric cu lapte
-SĂ miroase-a busuioc, să miroase
-SĂ miroase-a mere coapte.
-```
-
-#### Să trosnească lemne-n foc (II)
-
-**Grupul Ecoul** · muzica/versuri: Grupul Ecoul/??? · Sursa: Cărticica Karban, p. 65
+**Grupul Ecoul** · muzica/versuri: Grupul Ecoul/??? · Sursa: Cărticica Karban, p. 65 · Caiet cabană RO, p. 100
 
 **Chitară:** D xx0232 · G 320003 · A x02220
 
@@ -15823,34 +15660,40 @@ SĂ miroase-a mere coapte.
 
 ```text
 [D]Să trosnească [G]lemne-n [D]foc
-[G]Și să vină [D]multa [A]noapte
+Și să [G]vină [D]multa [A]noapte
 [D]Un pridvor [G]de busu[D]ioc
-[G]Cu miros de [D]mere [A]coapte
-[G]Și să ningă nins [A]enorm
-[D]Pân` la streașină și peste
-[G]Și pe-un scaun să [A]adorm, [D]adorm
-[G]Ca de-un [A]drog și de-o po[D]veste
-[D]Cu ziarul [G]pe genun[D]chi
-[G]Și cu pleoa[D]pele că[A]zute
-[D]Să-mi răsară [G]moartea-n trun[D]chi
-[G]Și pe ochi [D]să mă să[A]rute
-[G]Cei bătrâni să [A]fie vii
-[D]Pacea lumii fie gata
-[G]Eu copil între [A]copii, [D]copii
-[G]Iar pe-afară [A]tânăr [D]tata
+Cu mi[G]ros de [D]mere [A]coapte
+
+Și să [G]ningă nins e[A]norm
+Pân` la [D]streașină și ^peste
+Și pe-un [G]scaun să a[A]dorm, a[D]dorm
+Ca de-un [G]drog și [A]de-o po[D]veste
+
+[D]Cu ziarul [G]pe ge[D]nunchi
+Și cu [G]pleoape[D]le căzu[A]te
+[D]Să-mi răsară [G]moartea-n [D]trunchi
+Și pe [G]ochi să [D]mă să[A]rute
+
+Cei bă[G]trâni să fie [A]vii
+Pacea [D]lumii fie ^gata
+Eu co[G]pil între co[A]pii, co[D]pil
+Iar pe-a[G]fară [A]tânăr [D]tata
+
 [D]Și bunica [G]să mă [D]ia
-[G]Să mă ducă-[D]ncet spre [A]pernă
+Să mă [G]ducă-[D]ncet spre [A]pernă
 [D]Și să simt ve[G]nind din [D]ea
-[G]Toată lini[D]ștea e^ternă
-[G]Să trosnească lem[A]ne-n foc
-[D]Sub un biet ibric cu lapte
-[G]Să miroas-a bu[A]suioc, să mi[D]roasă
-[G]Să miroas-a [D]mere [A]coapte
-[G]Și să ningă nins [D]enorm
-[D]Pân` la streașină și peste
-[G]Și in scaun să ^adorm, [D]adorm
-[G]Ca de-un [A]drog și de-o pov[D]este
-[G]Ca de-un [A]drog și de-o pov[D]este
+Toată [G]lini[D]ștea e[A]ternă
+
+Să tros[G]nească lemne-n [A]foc
+Sub un [D]biet ibric cu ^lapte
+Să mi[G]roas-a busu[A]ioc, să mi[D]roasă
+Să mi[G]roas-a [A]mere [D]coapte
+
+Și să [G]ningă nins e[A]norm
+Pân` la [D]streașină și ^peste
+Și in [G]scaun să a[A]dorm, a[D]dorm
+Ca de-un [G]drog și [A]de-o po[D]veste
+Ca de-un [G]drog și [A]de-o po[D]veste
 [G]Poveste [D]poveste...
 ```
 
@@ -16768,6 +16611,48 @@ Refren
 ```
 
 Notă: `D` și `D4` se cântă unul după altul, două într-o singură măsură.
+
+#### Tincturi de frunze
+
+**Ursul Trubadur** · versuri Adrian Păunescu - Romanță de toamnă · Sursa: Caiet cabană RO, p. 11 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-mardare/romanta-de-toamna-3289)
+
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232
+
+**Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
+
+```text
+1.
+[G]Nu pot să stau drept [Em]merg cu toamna-n piept
+[C]Vântu-n toate răni[D]le mă doare
+[G]Și pe orice drum [Em]ca un vers postum
+[C]Vine frunza în în[D]tâmpinare. ^ ooo
+
+R:
+[G]Și-am să-ți scriu scrisori
+[Em]Pe tulpini de flori
+[C]De lumina stele[D]lor pătrunse
+[G]Și-un roman să-ți [Em]scriu
+[C]Folosind pe viu [D]sub umbra de nuc  ^
+/Tincturi de [G]frunze[Em]e, [C]Sha la la la [D]la/ x2
+
+2.
+[G]Putredul accent [Em]a lovit atent
+[C]Fiecare fir de [D]iarbă verde
+[G]Clipe indigo [Em]care încotro
+[C]Să avem motive [D]a ne pierde. ^ ooo
+
+3.
+[G]Frunze îți trimit [Em]scrise cu grafit
+[C]Sau cu movul iernii [D]care vine
+[G]Ce să-ți mai înșir, [Em]frunze în delir
+[C]Te iubesc și mă gân[D]desc la tine.  ^ ooo
+
+4.
+[G]Orișiunde merg [Em]frunze cad din cer
+[C]Și din clopot ni se-a[D]ude mersul
+[G]Scriu scrisori pe flori [Em]lăcrimând în ploi
+[C]Într-un liber schimb cu [D]universul. ^ ooo
+```
 
 #### Toți suntem puțin luați
 
@@ -33014,12 +32899,12 @@ Notă: Măsura 4/4, ritm de swing.
 - **Elvis Presley** — [Love Me Tender](#love-me-tender)
 - **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#nebunul-de-alb)
 - **Eric Clapton** — [Layla](#layla), [Tears in Heaven](#tears-in-heaven), [Wonderful Tonight](#wonderful-tonight)
-- **Florian Pitiș** — [Ploaia care va veni (I)](#ploaia-care-va-veni-i), [Vinovații fără vină](#vinovații-fără-vină)
+- **Florian Pitiș** — [Vinovații fără vină](#vinovații-fără-vină)
 - **Focul Viu** — [Viață de haiduc](#viață-de-haiduc), [Dacii liberi](#dacii-liberi), [Tristă fiară](#tristă-fiară)
 - **Focul viu** — [Focuri vii](#focuri-vii)
 - **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#ordinea-de-zi)
 - **Gh. Gheorghiu** — [Unde dragoste nu e, nimic nu e](#unde-dragoste-nu-e-nimic-nu-e)
-- **Grupul Ecoul** — [Să trosnească lemne-n foc (I)](#să-trosnească-lemne-n-foc-i), [Să trosnească lemne-n foc (II)](#să-trosnească-lemne-n-foc-ii)
+- **Grupul Ecoul** — [Să trosnească lemne-n foc](#să-trosnească-lemne-n-foc)
 - **Guns'n'roses** — [Don't Cry (I)](#dont-cry-i)
 - **Gun’n’Roses** — [Patience](#patience)
 - **Hara** — [Departe](#departe)
@@ -33046,7 +32931,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Mircea Baniciu** — [Adelina](#adelina), [Ceasornicarul (II)](#ceasornicarul-ii), [Drumul magilor](#drumul-magilor), [Pomul de Crăciun](#pomul-de-crăciun), [Zori din zori](#zori-din-zori)
 - **Mircea Baniciu/Pasărea Colibri** — [Dacă ai ghici](#dacă-ai-ghici), [Dealul cu dor](#dealul-cu-dor), [Esarfa în dar](#esarfa-în-dar), [Frunza (Mircea Baniciu)](#frunza-mircea-baniciu), [În tren](#în-tren), [Înțelegere](#înțelegere), [Întoarcere la orient (II)](#întoarcere-la-orient-ii), [Pisică neagră](#pisică-neagră), [Scrisoare de rămas bun (II)](#scrisoare-de-rămas-bun-ii), [Scrisoare de rămas bun (III)](#scrisoare-de-rămas-bun-iii), [Un zvon](#un-zvon), [Viața la țară (II)](#viața-la-țară-ii)
 - **Mircea Bodolan** — [Dragostea pasarii](#dragostea-pasarii), [Rănitul dintre linii (I)](#rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#rănitul-dintre-linii-ii)
-- **Mircea Florian** — [Pădure liniștitoare](#pădure-liniștitoare), [Podul de piatra](#podul-de-piatra)
+- **Mircea Florian** — [Împreună](#împreună), [Pădure liniștitoare](#pădure-liniștitoare), [Podul de piatra](#podul-de-piatra)
 - **Mircea Vintilă** — [Madama de pică](#madama-de-pică), [Pământul deocamdată](#pământul-deocamdată), [Pe corso (II)](#pe-corso-ii), [Strada Popa Nan (II)](#strada-popa-nan-ii)
 - **Mircea Vintilă/Pasărea Colibri** — [38](#38), [Adio, deci pe curând](#adio-deci-pe-curând), [Alte clipe trăite alt epilog](#alte-clipe-trăite-alt-epilog), [Când se lasă seara](#când-se-lasă-seara), [Dintr-o cafea (II)](#dintr-o-cafea-ii), [Dragostea e o salata](#dragostea-e-o-salata), [Hanul lui Manuc](#hanul-lui-manuc), [Lordul John](#lordul-john), [Mielul](#mielul), [Miruna](#miruna), [Peste răbdări](#peste-răbdări), [Un om pe niște scări (II)](#un-om-pe-niște-scări-ii), [Vis de primăvară](#vis-de-primăvară)
 - **Mondial** — [Atât de fragedă](#atât-de-fragedă)
@@ -33059,7 +32944,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Nightwish** — [The Islander](#the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#azi), [Floarea](#floarea), [Lăsați-mă să cânt](#lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#peste-al-nostru-sărut)
-- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
+- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni](#ploaia-care-va-veni), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
 - **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
@@ -33119,7 +33004,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **tradus de la Stephen Foster** — [Suzana](#suzana)
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
-- **Ursul Trubadur** — [Luna în cascade](#luna-în-cascade), [Pădure nebună](#pădure-nebună), [Viață de vagabond](#viață-de-vagabond)
+- **Ursul Trubadur** — [Luna în cascade](#luna-în-cascade), [Pădure nebună](#pădure-nebună), [Viață de vagabond](#viață-de-vagabond), [Tincturi de frunze](#tincturi-de-frunze)
 - **Valentin Moldovan / Orizont 77 (versuri Ion Voicu)** — [Balada fulgerată de vânt](#balada-fulgerată-de-vânt)
 - **Valeriu Sterian** — [Amintire cu haiduci](#amintire-cu-haiduci), [Cântec de oameni](#cântec-de-oameni), [Anxietate](#anxietate), [Nopți](#nopți)
 - **Vali Șerban** — [Avram Iancu](#avram-iancu), [Tron în Apuseni (Vali Șerban)](#tron-în-apuseni-vali-șerban)
@@ -33129,7 +33014,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Vârf Carpatin** — [Vulturul](#vulturul)
 - **Vasile Leva / Valentin Moldovan** — [Balada Străinului (Râpa)](#balada-străinului-râpa)
 - **Vasile Mărdare** — [Cabana](#cabana), [Păpușarii](#păpușarii)
-- **Vasile Mardare** — [Iubito](#iubito), [Romanță de toamnă](#romanță-de-toamnă)
+- **Vasile Mardare** — [Iubito](#iubito)
 - **Vasile Șeicaru** — [Actorul](#actorul), [Antiprimăvara](#antiprimăvara), [Biletul de tren](#biletul-de-tren), [Cireșarii](#cireșarii), [Din prea mult sau prea puțin](#din-prea-mult-sau-prea-puțin), [Dragostea cu patru foi](#dragostea-cu-patru-foi), [Imposibila nuntă](#imposibila-nuntă), [La adio](#la-adio), [Romanță între două trenuri (I)](#romanță-între-două-trenuri-i), [Romanță între două trenuri (II)](#romanță-între-două-trenuri-ii), [Tango retoric](#tango-retoric), [Ninge iar (I)](#ninge-iar-i)
 - **Versuri Artur Stavri/melodie populara** — [A ruginit frunza din vii](#a-ruginit-frunza-din-vii)
 - **VH2** — [Mai stai](#mai-stai), [Nu-mi mai pasă](#nu-mi-mai-pasă), [Trece vremea](#trece-vremea)
