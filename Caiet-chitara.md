@@ -377,7 +377,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Pisică neagră](#pisică-neagră)
 - [Ploaia care va veni](#ploaia-care-va-veni)
 - [Ploaie în luna lui marte](#ploaie-în-luna-lui-marte)
-- [Podul de piatra](#podul-de-piatra)
+- [Podul de piatră (Mircea Florian)](#podul-de-piatră-mircea-florian)
 - [Prietene](#prietene)
 - [Proverbe](#proverbe)
 - [Puștoaico](#puștoaico)
@@ -497,7 +497,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Ochii tăi (II)](#ochii-tăi-ii)
 - [Păsări de fum](#păsări-de-fum)
 - [Ploaia (Cargo)](#ploaia-cargo)
-- [Podul de piatra](#podul-de-piatra-1)
+- [Podul de piatră](#podul-de-piatră)
 - [Poveste](#poveste)
 - [Prietenii](#prietenii)
 - [Primavara - Paparuga](#primavara---paparuga)
@@ -15095,7 +15095,7 @@ lăsasem în lume o[Am]daia.
 [C]cine-s mai frumoși: [E]oamenii?... ^ploaia?...
 ```
 
-#### Podul de piatra
+#### Podul de piatră (Mircea Florian)
 
 **Mircea Florian** · Sursa: Cărticica Karban, p. 71
 
@@ -20444,7 +20444,7 @@ Zău, îmi e greu
 Refren1 x2 + Refren2
 ```
 
-#### Podul de piatra
+#### Podul de piatră
 
 muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
 
@@ -32931,7 +32931,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Mircea Baniciu** — [Adelina](#adelina), [Ceasornicarul (II)](#ceasornicarul-ii), [Drumul magilor](#drumul-magilor), [Pomul de Crăciun](#pomul-de-crăciun), [Zori din zori](#zori-din-zori)
 - **Mircea Baniciu/Pasărea Colibri** — [Dacă ai ghici](#dacă-ai-ghici), [Dealul cu dor](#dealul-cu-dor), [Esarfa în dar](#esarfa-în-dar), [Frunza (Mircea Baniciu)](#frunza-mircea-baniciu), [În tren](#în-tren), [Înțelegere](#înțelegere), [Întoarcere la orient (II)](#întoarcere-la-orient-ii), [Pisică neagră](#pisică-neagră), [Scrisoare de rămas bun (II)](#scrisoare-de-rămas-bun-ii), [Scrisoare de rămas bun (III)](#scrisoare-de-rămas-bun-iii), [Un zvon](#un-zvon), [Viața la țară (II)](#viața-la-țară-ii)
 - **Mircea Bodolan** — [Dragostea pasarii](#dragostea-pasarii), [Rănitul dintre linii (I)](#rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#rănitul-dintre-linii-ii)
-- **Mircea Florian** — [Împreună](#împreună), [Pădure liniștitoare](#pădure-liniștitoare), [Podul de piatra](#podul-de-piatra)
+- **Mircea Florian** — [Împreună](#împreună), [Pădure liniștitoare](#pădure-liniștitoare), [Podul de piatră (Mircea Florian)](#podul-de-piatră-mircea-florian)
 - **Mircea Vintilă** — [Madama de pică](#madama-de-pică), [Pământul deocamdată](#pământul-deocamdată), [Pe corso (II)](#pe-corso-ii), [Strada Popa Nan (II)](#strada-popa-nan-ii)
 - **Mircea Vintilă/Pasărea Colibri** — [38](#38), [Adio, deci pe curând](#adio-deci-pe-curând), [Alte clipe trăite alt epilog](#alte-clipe-trăite-alt-epilog), [Când se lasă seara](#când-se-lasă-seara), [Dintr-o cafea (II)](#dintr-o-cafea-ii), [Dragostea e o salata](#dragostea-e-o-salata), [Hanul lui Manuc](#hanul-lui-manuc), [Lordul John](#lordul-john), [Mielul](#mielul), [Miruna](#miruna), [Peste răbdări](#peste-răbdări), [Un om pe niște scări (II)](#un-om-pe-niște-scări-ii), [Vis de primăvară](#vis-de-primăvară)
 - **Mondial** — [Atât de fragedă](#atât-de-fragedă)
