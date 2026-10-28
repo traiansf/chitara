@@ -104,7 +104,12 @@
 - Mai rămâi puțin [C]
 - Mielul [C]
 - Mr. Tambourine Man (Pasărea Colibri) [F]
-
+- Mugur de fluier [F]
+- Nebunul cu ochi închiși [Am]
+- Nopți [Am]
+- Nu-i nimic, asta e! [C]
+- Pat de flori [C]
+- Pe cine și câte cărări [C]
 - Tu [Cadd9]
 - Unde dragoste nu e, nimic nu e [Dm]
 - Vara promisă [Dm]
