@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (301 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (299 cântece)
 
-- [II.1 — Folk](#ii1--folk) (214 cântece)
+- [II.1 — Folk](#ii1--folk) (212 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -339,11 +339,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Madama de pică](#madama-de-pică)
 - [Mai rămâi puțin](#mai-rămâi-puțin)
 - [Marea](#marea)
-- [Mielul (I)](#mielul-i)
-- [Mielul (II)](#mielul-ii)
+- [Mielul](#mielul)
 - [Mihai, câți copii îmi dai?](#mihai-câți-copii-îmi-dai)
-- [Miruna (I)](#miruna-i)
-- [Miruna (II)](#miruna-ii)
+- [Miruna](#miruna)
 - [Moartea unui alpinist (I)](#moartea-unui-alpinist-i)
 - [Moartea unui alpinist (II)](#moartea-unui-alpinist-ii)
 - [Mr. Tambourine Man](#mr-tambourine-man)
@@ -13177,40 +13175,39 @@ Lu[C]mină, [E]viață, ade[Am]vă^ăr.
 **Ukulele:** Am 2000 · E7 1202 · Dm 2210 · A 2100 · C 0003
 
 ```text
-[Am]Eu, care vroiam într-una [E7]alt și alt decor
-[E7]Eu, care spuneam prea lesne [Am]și oricui „Mi-e dor”
-/A[Dm]bia când a plecat plângând și [Am]n-a mai fost a mea
-[E7]M-am îndrăgostit numai de [Am]ea/ x2
+[Am]Eu, care vro^iam într-una [E7]alt și alt de^cor
+[E7]Eu, care spu^neam prea lesne [Am]și oricui „Mi-e ^dor”
+/A[Dm]bia când a ple^cat plângând și [Am]n-a mai fost a ^mea
+[E7]M-am îndrăgos^tit numai de [Am]ea  ^/ x2
 
-[Am]Eu, care veneam acasă [E7]c-un surâs formal
-[E7]Monoton spunând același [Am]monolog banal
-/[Dm]A plecat, mi-am zis, sunt liber, [Am]dar n-a fost așa
-[E7]  O iubeam numai pe [Am]ea/ x2
+[Am]Eu, care ve^neam acasă [E7]c-un surâs for^mal
+[E7]Monoton spu^nând același [Am]monolog ba^nal
+/[Dm]A plecat, mi-am ^zis, sunt liber, [Am]dar n-a fost a^șa
+[E7]O iubeam ^  numai pe [Am]ea  ^/ x2
 
 Refren:
-Dm            Am
-[Dm]Simt că fără ea [Am]nu pot respira
-[E7]Casa e pustie fără [Am]ea  [A]
-În [Dm]ce-aș putea eu să mai cred a[C]cum
-Aș [E7]da orice s-o mai întorc din [Am]drum
+[Dm]Simt că fără ^ea [Am]nu pot respi^ra
+[E7]Casa e pus^tie fără [Am]ea  [A]
+În [Dm]ce-aș putea eu ^să mai cred a[C]cum  ^
+Aș [E7]da orice s-o ^mai întorc din [Am]drum   ^
 
-[Am]Am zărit-o pe o strada [E7]pentru-o clipă doar
-[E7]Să-i vorbesc și să m-apropii [Am]era în zadar
-/Ea, [Dm]care m-aștepta plângând când [Am]eu uitam să vin
-[E7]Mă privea acum ca pe-un stră[Am]in/ x2
+[Am]Am zărit-o ^pe o strada [E7]pentru-o clipă ^doar
+[E7]Să-i vorbesc și ^să m-apropii [Am]era în za^dar
+/Ea, [Dm]care m-aștep^ta plângând când [Am]eu uitam să ^vin
+[E7]Mă privea a^cum ca pe-un stră[Am]in  ^/ x2
 
-[Am]A trecut atâta vreme de [E7]când a plecat
-[E7]Dar abia acum mi-e dragă [Am]cu adevărat
-/A[Dm]bia acum când locuiește [Am]doar la mine-n gând
-[E7]O iubesc mai mult decât ori[Am]când/ x2
+[Am]A trecut a^tâta vreme de [E7]când a ple^cat
+[E7]Dar abia a^cum mi-e dragă [Am]cu adevă^rat
+/A[Dm]bia acum când ^locuiește [Am]doar la mine-n ^gând
+[E7]O iubesc mai ^mult decât ori[Am]când  ^/ x2
 
 Refren x2
 
-[Am]Eu, care vroiam într-una [E7]alt și alt decor
-[E7]Eu, care spuneam prea lesne [Am]și oricui „Mi-e dor”
-/A[Dm]bia când a plecat plângând și [Am]n-a mai fost a mea
-[E7]M-am îndrăgostit numai de [Am]ea/ x2
-/[E7]M-am îndrăgostit numai de [Am]ea/ x2
+[Am]Eu, care vro^iam într-una [E7]alt și alt de^cor
+[E7]Eu, care spu^neam prea lesne [Am]și oricui „Mi-e ^dor”
+/A[Dm]bia când a ple^cat plângând și [Am]n-a mai fost a ^mea
+[E7]M-am îndrăgos^tit numai de [Am]ea  ^/ x2
+/[E7]M-am îndrăgostit numai de [Am]ea  ^/ x2
 ```
 
 #### Madama de pică
@@ -13281,12 +13278,12 @@ Mai lasă-mi-te-o [C]zi...  ^
 Te mai [C]vreau si [G]azi, ca o [F]ploaie de lu[G]mină,
 Peste [C]trup să-mi [G]cazi și-ntr-o [F]liniște de[G]plină
 Să co[F]lind ceru-n [G]ochii tăi și [Am]stropi de [Em]stea ce [F]vin
-Să îi [F]prind, când vei [G]fi departe [C]dorul să-mi a[G]lin.
+Să îi [F]prind, când vei [G]fi departe [C]dorul să-mi a[G]lin.  ^
 
 Să nu [C]spui ni[G]mic, nu-i ne[F]voie de cu[G]vinte
 Mai a[C]dormi un [G]pic să-mi ră[F]mâi așa în [G]minte.
 S-a fă[F]cut prea [G]târziu ca să mai [Am]pleci și [Em]trenul [F]tău
-A tre[F]cut – neîmpli[G]nit rămane [C]astăzi rostul [G]său
+A tre[F]cut – neîmpli[G]nit rămane [C]astăzi rostul [G]său  ^
 
 Refren x2
 ```
@@ -13319,96 +13316,57 @@ Iubito, ai să-mi scrii
 Iubito, poate ai să vii.
 ```
 
-#### Mielul (I)
+#### Mielul
 
-**Mircea Vintilă/Pasărea Colibri** · Sursa: Caiet cabană RO, p. 51
-
-**Chitară:** D xx0232 · A x02220 · G 320003
-
-**Ukulele:** D 2220 · A 2100 · G 0232
-
-```text
-     D            A     D    G    D     A       D
-Und' te duci tu, mielule? La pășune, domnule.
-Ce să faci tu, mielule? SĂ pasc iarbă, domnule.
-Cin' te mână, mielule? Ciobănașul, domnule.
-Ce asculți tu, mielule? Fluierașul domnule.
-Ce se-aude, mielule?
-Ce auzi tu, mielule? Coasa-n iarbă, domnule.
-Plângi de frică, mielule? Nu plâng, nu plâng, domnule
-Eu n-am lacrimi, domnule
-Am cornițe, domnule.
-Nu plângi nu plângi, mielule? Nu plâng, nu plâng, domnule
-Plâng ciobanii, domnule
-Latră câinii, domnule.
-Cin' te taie, mielule? MĂcelarul, domnule.
-Cin' te mâncă, mielule? Dumneavoastră Domnule.
-Cine moare, mielule? Și noi mieii, domnule
-Și voi domnii, domnule
-Noi cu toții, domnule.
-Ce rămâne, mielule? Acest cântec, domnule.
-```
-
-#### Mielul (II)
-
-**Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 171
+**Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 171 · Caiet cabană RO, p. 51
 
 **Chitară:** G 320003 · D7 xx0212 · C x32010
 
 **Ukulele:** G 0232 · D7 2223 · C 0003
 
 ```text
-[G]Und' te duci tu, [D7]mielu[G]le?
-[G]Und' te duci tu, [D7]mielu[G]le?
-[C]La pă[G]șune, [D7]domnu[G]le.
-[C]La pă[G]șune, [D7]domnu[G]le.
-[G]Ce să faci tu, [D7]mielu[G]le?
-[G]Ce să faci tu, [D7]mielu[G]le?
-[C]Să pasc [G]iarba, [D7]domnu[G]le.
-[C]Să pasc [G]iarba, [D7]domnu[G]le.
-[G]Cin' te mâna, [D7]mielu[G]le?
-[G]Cin' te mâna, [D7]mielu[G]le?
-[C]Ciobă[G]nașul, [D7]domnu[G]le.
-[C]Ciobă[G]nașul, [D7]domnu[G]le.
-[G]Ce asculți tu, [D7]mielu[G]le?
-[G]Ce asculți tu, [D7]mielu[G]le?
-[C]Fluier[G]așul [D7]domnu[G]le.
-[C]Fluier[G]așul [D7]domnu[G]le.
+/[G]Und' te duci tu, [D7]mielu[G]le?/ x2
+/[C]La pă[G]șune, [D7]domnu[G]le./ x2
+
+/[G]Ce să faci tu, [D7]mielu[G]le?/ x2
+/[C]Să pasc [G]iarba, [D7]domnu[G]le./ x2
+
+/[G]Cin' te mâna, [D7]mielu[G]le?/ x2
+/[C]Ciobă[G]nașul, [D7]domnu[G]le./ x2
+
+/[G]Ce asculți tu, [D7]mielu[G]le?/ x2
+/[C]Fluier[G]așul [D7]domnu[G]le./ x2
+
 [G]Ce se-aude, [D7]mielu[G]le?
 [G]Ce auzi tu, [D7]mielu[G]le?
-[C]Coasă-n [G]iarba, [D7]domnu[G]le.
-[C]Coasă-n [G]iarba, [D7]domnu[G]le.
-[G]Plângi de frică, [D7]mielu[G]le?
-[G]Plângi de frică, [D7]mielu[G]le?
+/[C]Coasa-n [G]iarbă, [D7]domnu[G]le./ x2
+
+/[G]Plângi de frică, [D7]mielu[G]le?/ x2
 [C]Nu plâng, [G]nu plâng, [D7]domnu[G]le
 [C]Eu n-am la[G]crimi, [D7]domnu[G]le
 [C]Am cor[G]nițe, [D7]domnu[G]le.
+
 [G]Nu plângi nu plângi, [D7]mielu[G]le?
 [G]Nu plâng, nu plâng, [D7]domnu[G]le
 [C]Plâng cio[G]banii, [D7]domnu[G]le
 [C]Latră [G]câinii, [D7]domnu[G]le.
-[G]Cin' te taie, [D7]mielu[G]le?
-[G]Cin' te taie, [D7]mielu[G]le?
-[C]Măce[G]larul, [D7]domnu[G]le.
-[C]Măce[G]larul, [D7]domnu[G]le.
-[G]Cin' te mâncă, [D7]mielu[G]le?
-[G]Cin' te mâncă, [D7]mielu[G]le?
-[C]Dumnea[G]voastră [D7]domnu[G]le.
-[C]Dumnea[G]voastră [D7]domnu[G]le.
-[G]Cine moare, [D7]mielu[G]le?
-[G]Cine moare, [D7]mielu[G]le?
+
+/[G]Cin' te taie, [D7]mielu[G]le?/ x2
+/[C]Măce[G]larul, [D7]domnu[G]le./ x2
+
+/[G]Cin' te mâncă, [D7]mielu[G]le?/ x2
+/[C]Dumnea[G]voastră [D7]domnu[G]le./ x2
+
+/[G]Cine moare, [D7]mielu[G]le?/ x2
 [C]Și noi [G]mieii, [D7]domnu[G]le
 [C]Și voi [G]domnii, [D7]domnu[G]le
-[C]Noi cu [G]toții, [D7]domnu[G]le.
-[C]Noi cu [G]toții, [D7]domnu[G]le.
-[G]Ce rămâne, [D7]mielu[G]le?
-[G]Ce rămâne, [D7]mielu[G]le?
-[C]Acest [G]cântec, [D7]domnu[G]le.
-[C]Acest [G]cântec, [D7]domnu[G]le.
-[G]Ce rămâne, [D7]mielu[G]le?
-[G]Ce rămâne, [D7]mielu[G]le?
-[C]Acest [G]cântec, [D7]domnu[G]le.
-[C]Acest [G]cântec, [D7]domnu[G]le.
+/[C]Noi cu [G]toții, [D7]domnu[G]le./ x2
+
+/[G]Ce rămâne, [D7]mielu[G]le?/ x2
+/[C]Acest [G]cântec, [D7]domnu[G]le./ x2
+
+/[G]Ce rămâne, [D7]mielu[G]le?/ x2
+/[C]Acest [G]cântec, [D7]domnu[G]le./ x2
 ```
 
 #### Mihai, câți copii îmi dai?
@@ -13448,130 +13406,61 @@ Se[B7]lim zice "Hai,
 Co[A]piii sint ai mei, Mi[E]hai"
 ```
 
-#### Miruna (I)
+#### Miruna
 
-**Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 103 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/miruna-438)
+**Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Mircea Vintilă · Sursa: Caiet Christian Adventure, p. 103 · Cărticica Karban, p. 172 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/miruna-438)
 
 **Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
 
 **Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222
 
 ```text
-D
-Dragă Miruna îți spun printre șoapte
-  G
-Îmi place cămașa ta de noapte
-  A
-Dar mai ales vreau să-ți dau de știre
-    G      A
-Să mi-o lași ca amintire,
-    G      A
-Să mi-o lași ca amintire
+[D]Dragă Miruna îți ^spun printre șoapte
+Îmi [G]place cămașa ^ta de noapte
+[A]Dar mai ales vreau să-ți ^dau de știre
+/[G]  Să mi-o lași ca [A]  amintire/ x2
 
-Nespus de frumos dormeai o noapte blândă
-Zâmbeai prin somn iau eu stăteam la pândă
-Să nu te trezesc, să tulbur visele tale
-Dar vreau să-ți iau și costumul de baie
-Să te-admir cu și fără costumul de baie
+Nes[D]pus de frumos dormeai o ^noapte blândă
+Zâm[G]beai prin somn iau eu stă^team la pândă
+Să [A]nu te trezesc, să tulbur ^visele tale
+Dar [G]vreau să-ți iau și cos[A]tumul de baie
+Să te-ad[G]mir cu și fără cos[A]tumul de baie
 
-    Bm            G
-În Grădina Botanică, într-o duminică
-    D     A
-Ea se plimbă
-      Bm          G
-Ne-am fotografiat cu un vechi aparat
- D   A
-Automat
+În Gră[Bm]dina Botanică, [G]într-o duminică
+[D]Ea se plimbă  [A]
+[Bm]Ne-am fotografiat [G]cu un vechi aparat
+[D]Automat  [G]
 
-Un celebru și bun coleg de facultate
-Spunea c-aveai blugii rupți la spate
-Veneai spre casă când afară plouă
-Cu troleibuzul 89
-Blondă și tristă cum ne-ai plăcut nouă
+Un ce[D]lebru și bun coleg de ^facultate
+Spu[G]nea c-aveai blugii ^rupți la spate
+Ven[A]eai spre casă când a^fară plouă
+Cu [G]troleibuzul [A]89
+[G]Blondă și tristă cum [A]ne-ai plăcut nouă
 
-Cu pălăria de paie cu panglică mov
-Ieșeai din clădirea de pe strada Snagov
-Ușor te-ndreptai spre calea Moșilor
-Să-ți iei bluză pepit de la Bucur Obor
-Bluză pepit de la Bucur Obor
+Cu pălă[D]ria de paie cu ^panglică mov
+Ie[G]șeai din clădirea de pe ^strada Snagov
+U[A]șor te-ndreptai spre calea ^Moșilor
+Să-ți iei /[G]bluză pepit de la [A]Bucur Obor/ x2
 
-Venind din practică poșetă galbenă
-Ea își luă
-În magazine-a intrat, fustă și-a cumpărat
-Maxi-nflorat
+[Bm]Venind din practică [G]poșetă galbenă
+[D]Ea își luă  [A]
+În [Bm]magazine-a intrat, [G]fustă și-a cumpărat
+[D]Maxi-nflorat  [A]
 
 Dragă Miruna, ce rost are să-ți cumperi toate lucrurile acestea – cheltuiești o...
 sumă prea mare de bani. De fapt, știi foarte bine ce-ți spuneam in seara aceea,
 Printre șoapte...
 
-...Îmi place cămașa ta de noapte
-Dar mai ales vreau să-ți dau de știre
-Să mi-o lași ca amintire
-Să mi-o lași ca amintire
+Îmi [G]place cămașa ^ta de noapte
+[A]Dar mai ales vreau să-ți ^dau de știre
+/[G]  Să mi-o lași ca [A]  amintire/ x2
 
-Acum mă privești dintr-o poză cu zimți
-Atunci aveai nervi dar și buze fierbinți
-Și te auzeam cum strigai printre șoapte
-Unde-i cămașa mea de noapte
-Unde-i cămașa mea de noapte
-La mine-i cămașa ta de noapte
-La mine-i cămașa ta de noapte
-Plâng pe cămașa ta de noapte
-Plâng pe cămașa ta de noapte
-```
-
-#### Miruna (II)
-
-**Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Mircea Vintilă · Sursa: Cărticica Karban, p. 172
-
-**Chitară:** C x32010 · Am x02210 · F 133211 · Em 022000 · G 320003
-
-**Ukulele:** C 0003 · Am 2000 · F 2010 · Em 0432 · G 0232
-
-```text
-[C]Dragă Miruna, îți [Am]spun printre șoapte
-[F]Îmi place cămașa [Em]ta de noapte,
-[C]Dar, mai ales, vreau să-[Am]ți dau de știre
-[F]Să mi-o lași ca [G]amintire.
-[F]Să mi-o lași ca [G]amintire.
-[C]Nespus de frumos dormeai [Am]o noapte blânda,
-[F]Zâmbeai prin somn, iar eu [Em]stăteam la pândă,
-[C]Să nu te trezesc să-ți tulbur [Am]visele tale,
-[F]Dar vreau să-ți iau și co[G]stumul de baie,
-[F]Să te-admir cu și fără co[G]stumul de baie.
-[Am]În Gradina Botanică, [Em]Într-o duminica [F]Ea se plimba. [G]
-[Am]Ne-am fotografiat  [Em]Cu un vechi aparat [F]Automat. [G]
-[C]Un celebru și bun coleg [Am]de facultate
-[F]Spunea c-aveai blugii [Em]rupți la spate,
-[C]Veneai spre casa când [Am]afară plouă
-[F]Cu troleibuzul [G]optzecis'nouă,
-[F]Blondă și tristă cum [G]ne-ai plăcut nouă.
-[C]Cu pălăria de paie cu [Am]panglică mov,
-[F]Ieșeai din clădirea de pe [Em]strada Snagov,
-[C]Ușor te-ndreptai spre Calea [Am]Moșilor
-[F]Să-ți iei bluză pepit de la [G]Bucur Obor,
-[F]Bluză pepit de la [G]Bucur Obor.
-[Am]Venind din practică [Em]Poseta galbenă
-[F]Ea își lua. [G] [Am]În magazin-a intrat
-[Em]Fusta și-a cumpărat [F]Maxi-nflorat. [G]
-Recitat (pe același ritm se cântă C, Am, F, Em, C, Am)
-Dragă Miruna, pentru ce toate lucrurile acestea? Cheltuiești o sumă prea mare
-de bani...
-Doar știi foarte bine ce-ți spuneam în seara aceea printre șoapte:
-[F]Îmi place cămașa [G]ta de noapte,
-[C]Dar, mai ales, vreau să-ți [Am]dau de știre
-[F]Să mi-o lași ca [G]amintire,
-[F]Să mi-o lași ca [G]amintire...
-[C]Acum mă privești dintr-o [Am]poza cu zimți,
-[F]Atunci aveai nervi, dar și [Em]buze fierbinți,
-[C]Și te-auzeam cum strigai, [Am]printre șoapte;
-[F]"Unde-i cămașa [G]mea de noapte?
-[F]Unde-i cămașa [G]mea de noapte?"
-[F]La mine-i cămașa [G]ta de noapte,
-[F]La mine-i cămașa [G]ta de noapte,
-[F]Plâng pe cămașa [G]ta de noapte,
-[F]Plâng pe cămașa [G]ta de noapte,
-[F]Plâng pe cămașa [G]ta de noapte...
+A[D]cum mă privești dintr-o ^poză cu zimți
+A[G]tunci aveai nervi dar și ^buze fierbinți
+Și [A]te-auzeam cum stri^gai printre șoapte
+/[G]Unde-i cămașa [A]mea de noapte/ x2
+/La [G]mine-i cămașa [A]ta de noapte/ x2
+/[G]Plâng pe cămașa [A]ta de noapte/ x2
 ```
 
 #### Moartea unui alpinist (I)
@@ -33340,7 +33229,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Mircea Bodolan** — [Dragostea pasarii](#dragostea-pasarii), [Rănitul dintre linii (I)](#rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#rănitul-dintre-linii-ii)
 - **Mircea Florian** — [Podul de piatra](#podul-de-piatra)
 - **Mircea Vintilă** — [Madama de pică](#madama-de-pică), [Pe corso (II)](#pe-corso-ii), [Strada Popa Nan (II)](#strada-popa-nan-ii)
-- **Mircea Vintilă/Pasărea Colibri** — [38](#38), [Adio, deci pe curând](#adio-deci-pe-curând), [Alte clipe trăite alt epilog](#alte-clipe-trăite-alt-epilog), [Când se lasă seara](#când-se-lasă-seara), [Dintr-o cafea (II)](#dintr-o-cafea-ii), [Dragostea e o salata](#dragostea-e-o-salata), [Hanul lui Manuc](#hanul-lui-manuc), [Lordul John](#lordul-john), [Mielul (I)](#mielul-i), [Mielul (II)](#mielul-ii), [Miruna (II)](#miruna-ii), [Peste răbdări](#peste-răbdări), [Un om pe niște scări (II)](#un-om-pe-niște-scări-ii), [Vis de primăvară](#vis-de-primăvară)
+- **Mircea Vintilă/Pasărea Colibri** — [38](#38), [Adio, deci pe curând](#adio-deci-pe-curând), [Alte clipe trăite alt epilog](#alte-clipe-trăite-alt-epilog), [Când se lasă seara](#când-se-lasă-seara), [Dintr-o cafea (II)](#dintr-o-cafea-ii), [Dragostea e o salata](#dragostea-e-o-salata), [Hanul lui Manuc](#hanul-lui-manuc), [Lordul John](#lordul-john), [Mielul](#mielul), [Miruna](#miruna), [Peste răbdări](#peste-răbdări), [Un om pe niște scări (II)](#un-om-pe-niște-scări-ii), [Vis de primăvară](#vis-de-primăvară)
 - **Mondial** — [Atât de fragedă](#atât-de-fragedă)
 - **Narcis** — [Noapte la mare, noapte la munte](#noapte-la-mare-noapte-la-munte)
 - **Necunoscut** — [M-am dus să tai un copac](#m-am-dus-să-tai-un-copac)
@@ -33351,7 +33240,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Nightwish** — [The Islander](#the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#azi), [Floarea](#floarea), [Lăsați-mă să cânt](#lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#peste-al-nostru-sărut)
-- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Miruna (I)](#miruna-i), [Mr. Tambourine Man](#mr-tambourine-man), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
+- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man](#mr-tambourine-man), [Nebunul cu ochi închiși (I)](#nebunul-cu-ochi-închiși-i), [Nu-i nimic, asta e! (I)](#nu-i-nimic-asta-e-i), [Nu-i nimic, asta e! (II)](#nu-i-nimic-asta-e-ii), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni (II)](#ploaia-care-va-veni-ii), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
 - **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier (I)](#mugur-de-fluier-i), [Mugur de fluier (II)](#mugur-de-fluier-ii), [Nebunul cu ochi închiși (II)](#nebunul-cu-ochi-închiși-ii), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)

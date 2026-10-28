@@ -40,8 +40,9 @@ iau acordurile și din rândurile de acorduri ale blocurilor ` ```tab `,
 fiindcă unele se cântă doar acolo (intro-uri, riff-uri). Un exemplu cu
 toate trei: *Vara*. Într-o notă, un acord se scrie între apostroafe
 inverse (`` `C7` ``): apare evidențiat ca acord, cu digitația în tooltip
-pe site și în rândurile de digitații, dar nu se transpune — nota se
-referă adesea la un exemplu din tab, care rămâne în tonalitatea scrisă.
+pe site, și se transpune odată cu restul cântecului, atât pe site
+(`chords.js`), cât și în caietul transpus cu `--lista`. În PDF-ul
+caietului întreg, nota rămâne ca în caiet.
 
 **Identitatea stabilă a unui cântec e `titlu || Sursa, p. N`** — unică pe toate
 cele 688. Cântecele n-au număr de ordine (sunt alfabetice în fiecare
@@ -101,7 +102,7 @@ acordul dintre paranteze drepte (`tools/transpose.py`, perechea Python a
 transpunerii din `chords.js`; bemoli în tonalitățile cu bemoli, ex. Bb în
 Dm și F). Se transpun acordurile din blocurile ` ```text ` și rândurile
 de digitații, iar pe rândul de sub titlu apare „transpus: Em → Dm";
-tabulatura și notele rămân ca în caiet. Titlurile se potrivesc întregi
+tabulatura rămâne ca în caiet, iar acordurile din note se transpun. Titlurile se potrivesc întregi
 (fără să conteze literele mari); unul care lipsește din caiet oprește
 rularea. Fără `--out`, PDF-ul ia numele listei.
 

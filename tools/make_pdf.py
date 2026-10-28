@@ -1691,8 +1691,9 @@ def transpose_song(s, key):
     line's keep their columns, unless the one before grew into them, and
     inline ones their brackets — and of its fingering lines, and says so
     on its meta line. Tablature and notes stay as they are: a tab's
-    frets can't be transposed (as on the site), and a note's `C7` is
-    usually about the tab."""
+    frets can't be transposed (as on the site). A note's `C7` moves with
+    the rest, as on the site, so the note still names the chords the
+    reader is playing."""
     first = first_chord(s["body"])
     if first is None:
         print(f"atenție: {s['title']} n-are acorduri, rămâne cum e",
@@ -1715,10 +1716,16 @@ def transpose_song(s, key):
         chord, optional = split_optional(m.group(1))
         return f"[({move(chord)})]" if optional else f"[{move(chord)}]"
 
+    def note_chord(m):
+        name = html.unescape(m.group(1))
+        return f"`{move(name)}`" if CHORD_RE.match(name) else m.group(0)
+
     body = []
     for ln in s["body"]:
-        if isinstance(ln, (TabLine, ProseLine)):
+        if isinstance(ln, TabLine):
             body.append(ln)
+        elif isinstance(ln, ProseLine):
+            body.append(ProseLine(re.sub(r"`([^`\n]+)`", note_chord, ln)))
         elif is_chord_line(ln):
             body.append(rebuild_chord([
                 (m.start(), m.group(0) if m.group(0) in SKIP_TOKENS

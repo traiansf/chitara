@@ -205,6 +205,7 @@ const CHORDS_DATA = {
    "Fadd9": "0010",
    "CaddG": "0003",
    "Csus4": "0013",
+   "Csus2": "0233",
    "Dsus4": "0230",
    "Gsus4": "0233",
    "F#sus4": "4124",

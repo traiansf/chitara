@@ -93,12 +93,13 @@ def render_tab_interactive(lines):
 def render_prose_interactive(text):
     """A paragraph of plain text from outside the fences (a note), as in
     make_pdf.render_prose: ordinary wrapping text, its `code` chord names
-    shown as chords. Those carry data-chord for the fingering tooltip but
-    not the "ch" class, so chords.js never transposes them (see
-    make_pdf.note_html)."""
+    shown as chords. They are ordinary "ch" chords, so chords.js transposes
+    them with the rest of the song — a note that says "`A` durează..." must
+    name the chord in the key the reader is playing in (see make_pdf.note_html
+    for the PDF, which keeps notes as written)."""
     def span(c):
         attr = html.escape(c, quote=True)
-        return f'<span class="ch-note" data-chord="{attr}">{html.escape(c, quote=False)}</span>'
+        return f'<span class="ch" data-chord="{attr}">{html.escape(c, quote=False)}</span>'
     return f'<span class="prose">{make_pdf.note_html(text, span)}</span>'
 
 
