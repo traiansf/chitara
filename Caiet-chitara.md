@@ -16096,7 +16096,7 @@ Refren 1 + /Refren 2/ x2
 
 #### Strada Popa Nan
 
-**Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Dorin Liviu Zaharia · Sursa: Cărticica Karban, p. 175 · Caiet Christian Adventure, p. 143 · Caiet cabană RO, p. 85 · Cărticica Karban, p. 175 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/strada-popa-nan-689)
+**Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Dorin Liviu Zaharia · Sursa: Cărticica Karban, p. 175 · Caiet Christian Adventure, p. 143 · Caiet cabană RO, p. 85 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/strada-popa-nan-689)
 
 **Chitară:** C x32010 · F 133211 · G 320003
 
@@ -16141,7 +16141,7 @@ Refren x4
 
 #### Suflet fără chei
 
-**Ducu Bertzi** · versuri:  Daniela Crăsnaru · Sursa: Caiet cabană RO, p. 135 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/suflet-fara-chei-306)
+**Ducu Bertzi** · versuri: Daniela Crăsnaru · Sursa: Caiet cabană RO, p. 135 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/suflet-fara-chei-306)
 
 **Chitară:** Am x02210 · E 022100 · F 133211 · Dm xx0231 · C x32010
 
