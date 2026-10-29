@@ -15,6 +15,7 @@ import shutil
 import sys
 import unicodedata
 from pathlib import Path
+from urllib.parse import quote
 
 sys.path.insert(0, str(Path(__file__).parent))
 import make_pdf
@@ -365,7 +366,7 @@ def song_page(s, filenames, prev_s, next_s, songs):
 {render_sidebar(songs, filenames, s["num"], prefix="")}
 <main>
 <h1>{html.escape(s["title"])}</h1>
-{f'<div class="meta">{make_pdf.mini_md(s["meta"])}</div>' if s["meta"] else ""}
+{f'<div class="meta">{make_pdf.mini_md(link_sources(s["meta"]))}</div>' if s["meta"] else ""}
 {fingerings}
 <div class="transpose-controls">
 <button type="button" data-action="down">▼ semiton</button>
@@ -418,6 +419,32 @@ def content_counts_table(stats):
 
 README_PATH = Path(__file__).resolve().parent.parent / "README.md"
 GITHUB_REPO = "https://github.com/traiansf/chitara"
+
+# Source name as written in a song's byline -> scan under surse/. The printed
+# page in the caiet is the 1-based PDF page in all five (checked against the
+# songs' titles), so a citation links to #page=<printed page>.
+SOURCE_PDFS = {
+    "Cărticica Karban": "Eugen Karban - carticica-de-cantece-pentru-chitara-200.pdf",
+    "Colinde Karban": "Eugen Karban - culegere-de-colinde-si-cantece-de-iarna-100.pdf",
+    "Caiet cabană RO": "Caietrom.pdf",
+    "Caiet cabană EN": "Caieteng.pdf",
+    "Caiet Christian Adventure": "caiet-christian-adventure.pdf",
+}
+SOURCE_CITE_RE = re.compile(
+    "(" + "|".join(re.escape(n) for n in SOURCE_PDFS) + r"), p\. (\d+(?:, \d+)*)"
+)
+
+
+def link_sources(meta):
+    """Turns each 'Name, p. N[, M]' citation in a byline into a Markdown link
+    to that page of the scanned PDF on GitHub (the first page, when a song
+    spans several). Run before make_pdf.mini_md, which renders the link."""
+    def sub(m):
+        name, pages = m.group(1), m.group(2)
+        first = pages.split(",")[0]
+        url = f"{GITHUB_REPO}/blob/main/surse/{quote(SOURCE_PDFS[name])}#page={first}"
+        return f"[{name}, p. {pages}]({url})"
+    return SOURCE_CITE_RE.sub(sub, meta)
 
 
 def rewrite_relative_links(md_text):

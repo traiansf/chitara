@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (291 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (290 cântece)
 
-- [II.1 — Folk](#ii1--folk) (204 cântece)
+- [II.1 — Folk](#ii1--folk) (203 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -399,8 +399,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici)
 - [Și dacă (I)](#și-dacă-i)
 - [Și dacă (II)](#și-dacă-ii)
-- [Și de-ar fi (I)](#și-de-ar-fi-i)
-- [Și de-ar fi (II)](#și-de-ar-fi-ii)
+- [Și de-ar fi](#și-de-ar-fi)
 - [Strada Popa Nan (I)](#strada-popa-nan-i)
 - [Strada Popa Nan (II)](#strada-popa-nan-ii)
 - [Suflet fără chei](#suflet-fără-chei)
@@ -16055,54 +16054,9 @@ Tine [E]minte sfârșitul nu-i [A]aici.
 
 Notă: Alte acorduri, de la Ilie Stepan, pentru fiecare strofă: `Em` `D` `C` / `Am` `B7` `Em` / `Em` `G` `A` / `C` `D` `Em` (`Am` `B7` `Em`).
 
-#### Și de-ar fi (I)
+#### Și de-ar fi
 
-**Ducu Bertzi** · Sursa: Caiet cabană RO, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/si-de-ar-fi-305)
-
-**Chitară:** Am x02210 · E 022100 · Dm xx0231
-
-**Ukulele:** Am 2000 · E 4442 · Dm 2210
-
-```text
-Ducu Bertzi
-1.
-  Am        E         Am              E
-Îmi aduc aminte, de-o poveste veche
-   Am         E          Am
-Cu iubirea noastră, mai știi cum a fost?
-Hai, întinde-mi mâna să fim iar pereche
-Depărtarea asta nu mai are rost.
-
-R:
-       Dm         Am  Dm             Am
-Între două zile nu-i decât o noapte
-      Dm               E
-Orologiul bate miezul nopții rar
-Te visez frumoasă, tristă și departe
-Unde să te caut să te găsesc iar?
-      Am           E        Am             Dm
-Și de-ar fi, când va fi iar duminică-ntr-o zi
-      Am              E
-Tu să te gândești la mine
-Nopți la rând port în gând, chipul tău și ora când
-Am să mă întorc la tine.
-
-2.
-Ochii tăi mi-acopăr de departe steaua
-Când în ei mai caut singur adăpost
-Înfioră noaptea rătăcind perdeaua
-Trec la rând duminici fără nici un rost.
-
-3.
-Gândul meu întoarce amintiri uitate
-Hai înspre duminici să plecăm în doi
-Va veni și ziua cea dintâi din toate
-Inventată parcă numai pentru noi.
-```
-
-#### Și de-ar fi (II)
-
-**Ducu Bertzi** · Sursa: Cărticica Karban, p. 51
+**Ducu Bertzi** · Sursa: Cărticica Karban, p. 51 · Caiet cabană RO, p. 134 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/si-de-ar-fi-305)
 
 **Chitară:** Am x02210 · E 022100 · Dm xx0231
 
@@ -16110,33 +16064,35 @@ Inventată parcă numai pentru noi.
 
 ```text
 [Am]Îmi aduc a[E]minte [Am]de-o poveste [E]veche
-[Am]Cu iubirea [E]noastră, [Am]mai știi cum a fost?
+[Am]Cu iubirea [E]noastră, [Am]mai știi cum a ^fost?
 [Am]Hai întinde-mi [E]mâna [Am]să fim iar pe[E]reche
-[Am]Depărtarea [E]asta [Am]nu mai are rost.
+[Am]Depărtarea [E]asta [Am]nu mai are ^rost.
+
 Refren 1:
 [Dm]Între două [Am]zile [Dm]nu-i decât o [Am]noapte
-[Dm]Orologiul [Am]bate [E]miezul nopții ^rar.
+[Dm]Orologiul [(Am)]bate [E]miezul nopții ^rar.
 [Dm]Te visez [Am]frumoasă [Dm]tristă și de[Am]parte
-[Dm]Unde să te [Am]caut [E]să te găsesc [Am]iar
+[Dm]Unde să te [(Am)]caut [E]să te găsesc [(Am)]iar
+
 Refren 2:
-[Am]Și de-ar fi [E]când va fi [Am]iar duminica-[Dm]ntr-o zi
-[Am]Tu să te gân^dești la [E]mine
+[Am]Și de-ar fi [E]când va fi [Am]iar duminică-n[Dm]tr-o zi
+[Am]Tu să te gân^dești la [E]mine  ^
 [Am]Nopți la rând [E]port în gând [Am]chipul tău și [Dm]ora când
-[Am]Am să mă în[E]torc la [Am]tine
+[Am]Am să mă în[E]torc la [Am]tine  ^
+
 [Am]Ochii tăi mi-[E]acopăr [Am]de departe [E]steaua
-[Am]Când în ei mai [E]caut [Am]singur adăpost
-[Am]Înfioară [E]noaptea [Am]rătăcind [E]perdeaua
-[Am]Trec la [E]rând duminici [Am]fără nici un rost
-Refren 1
-Refren 2
-Refren 2
-[Am]Gândul meu în[E]toarce [Am]amintiri [E]uitate
-[Am]Hai înspre [E]duminici [Am]să plecăm în doi
+[Am]Când în ei mai [E]caut [Am]singur adă^post
+[Am]Înfioară [E]noaptea [Am]rătăcind per[E]deaua
+[Am]Trec la [E]rând duminici [Am]fără nici un ^rost
+
+Refren 1 + /Refren 2/ x2
+
+[Am]Gândul meu în[E]toarce [Am]amintiri ui[E]tate
+[Am]Hai înspre [E]duminici [Am]să plecăm în ^doi
 [Am]Va veni și [E]ziua [Am]cea dintâi din [E]toate
-[Am]Inventată [E]parcă [Am]numai pentru noi
-Refren 1
-Refren 2
-Refren 2
+[Am]Inventată [E]parcă [Am]numai pentru ^noi
+
+Refren 1 + /Refren 2/ x2
 ```
 
 #### Strada Popa Nan (I)
@@ -32802,7 +32758,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Doru Stănculescu** — [Hai dihai](#hai-dihai), [Fără petale](#fără-petale)
 - **Dragoș Bălan** — [Dragoste în fân (I)](#dragoste-în-fân-i), [Nunta pe Caraiman (II)](#nunta-pe-caraiman-ii)
 - **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#ce-frumos-e-sus-la-munte), [Evadare](#evadare), [În codrul verde](#în-codrul-verde), [Mă întorc la tine, muntele meu drag](#mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#vreau-să-trecem-marea)
-- **Ducu Bertzi** — [Floare de colț](#floare-de-colț), [Când s-o-mpărțit norocu'](#când-s-o-mpărțit-norocu), [Cântec bătrânesc](#cântec-bătrânesc), [Dans](#dans), [Dragu-mii veselia](#dragu-mii-veselia), [Focul vânăt](#focul-vânăt), [Iertările](#iertările), [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea), [Nu am cer](#nu-am-cer), [Omul pădurii](#omul-pădurii), [Pe cine și câte cărări](#pe-cine-și-câte-cărări), [Săracă inima me' (I)](#săracă-inima-me-i), [Săracă inima me' (II)](#săracă-inima-me-ii), [Și de-ar fi (I)](#și-de-ar-fi-i), [Și de-ar fi (II)](#și-de-ar-fi-ii), [Suflet fără chei](#suflet-fără-chei), [Cheamă-ți gazdă](#cheamă-ți-gazdă), [Corindăm, corindăm (I)](#corindăm-corindăm-i), [Pe podele de nuiele](#pe-podele-de-nuiele), [Seara serilor](#seara-serilor), [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem), [Plecarea](#plecarea), [Scrisoare la-nceput de iarnă](#scrisoare-la-nceput-de-iarnă)
+- **Ducu Bertzi** — [Floare de colț](#floare-de-colț), [Când s-o-mpărțit norocu'](#când-s-o-mpărțit-norocu), [Cântec bătrânesc](#cântec-bătrânesc), [Dans](#dans), [Dragu-mii veselia](#dragu-mii-veselia), [Focul vânăt](#focul-vânăt), [Iertările](#iertările), [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea), [Nu am cer](#nu-am-cer), [Omul pădurii](#omul-pădurii), [Pe cine și câte cărări](#pe-cine-și-câte-cărări), [Săracă inima me' (I)](#săracă-inima-me-i), [Săracă inima me' (II)](#săracă-inima-me-ii), [Și de-ar fi](#și-de-ar-fi), [Suflet fără chei](#suflet-fără-chei), [Cheamă-ți gazdă](#cheamă-ți-gazdă), [Corindăm, corindăm (I)](#corindăm-corindăm-i), [Pe podele de nuiele](#pe-podele-de-nuiele), [Seara serilor](#seara-serilor), [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem), [Plecarea](#plecarea), [Scrisoare la-nceput de iarnă](#scrisoare-la-nceput-de-iarnă)
 - **Ducu Hotima** — [La tătă casa-i lumină](#la-tătă-casa-i-lumină)
 - **Ecoul** — [Cana cu vin](#cana-cu-vin), [Lumină](#lumină), [Nu mă-ntreba](#nu-mă-ntreba), [Taina (I)](#taina-i), [Taina (II)](#taina-ii)
 - **Elvis Presley** — [Love Me Tender](#love-me-tender)
