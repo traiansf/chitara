@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (293 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (291 cântece)
 
-- [II.1 — Folk](#ii1--folk) (206 cântece)
+- [II.1 — Folk](#ii1--folk) (204 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -395,9 +395,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Săracă inima me' (I)](#săracă-inima-me-i)
 - [Săracă inima me' (II)](#săracă-inima-me-ii)
 - [Scândura](#scândura)
-- [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i)
-- [Scrisoare de rămas bun (II)](#scrisoare-de-rămas-bun-ii)
-- [Scrisoare de rămas bun (III)](#scrisoare-de-rămas-bun-iii)
+- [Scrisoare de bun rămas](#scrisoare-de-bun-rămas)
 - [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici)
 - [Și dacă (I)](#și-dacă-i)
 - [Și dacă (II)](#și-dacă-ii)
@@ -15910,108 +15908,9 @@ A tinereții trăite până la sânge
 Care mă doare când ninge.
 ```
 
-#### Scrisoare de rămas bun (I)
+#### Scrisoare de bun rămas
 
-**Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 138 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/scrisoare-de-ramas-bun-2980)
-
-**Chitară:** D xx0232 · Bm x24432 · Em 022000 · A x02220 · G 320003
-
-**Ukulele:** D 2220 · Bm 4222 · Em 0432 · A 2100 · G 0232
-
-```text
-D
-Iubito câta lume-i între noi
-Bm
-Numărători de ploi din doi în doi
-D
-Și dintr-un nor de dor necunoscut
-Bm
-Câte zăpezi pe buze ne-au crescut
-Em                    A
-Ascultă-mă și lasă-mă să strig
-D                       Bm
-Mi-e frică de-ntâmplare și mi-e frig
-Em                      A
-Și nu mai vreau să știu pân' la sfârșit
-   Bm               Em
-Cine-a iubit frumos cine-a greșit,
-   G          A     Bm
-Cine a iubit,cine a greșit.
-
-Cine-a făcut în noapte primul pas
-Cine-a plecat din joc cine-a rămas
-Și cine-a adus peretii rând pe rând
-Cine s-a-ntors mereu cu ziua-n gând
-Cine-a pierdut și cine-a câștigat
-De toate mântuit s-a dezlegat
-Cine-a crezut mai mult în celălalt
-Sub cerul prea străin sau prea înalt.
-
-Iubito câtă lume-i între noi
-Numărători de ploi din doi în doi
-Și dintr-un nor de dor necunoscut
-Câte zăpezi pe buze ne-au crescut
-Cum n-am să uit cum sună glasul tău
-Decât tăcerea ce-mi va fi mai rău
-Și tu să poți sub stele înnopta
-Când nu mai știu ce-nseamnă umbra ta
-```
-
-#### Scrisoare de rămas bun (II)
-
-**Mircea Baniciu/Pasărea Colibri** · variantă a cântecului „Scrisoare de rămas bun”, cu titlul „Numărători de ploi” · Sursa: Caiet cabană RO, p. 123
-
-**Chitară:** G 320003 · Em 022000 · Am x02210 · D7 xx0212 · D xx0232 · E 022100
-
-**Ukulele:** G 0232 · Em 0432 · Am 2000 · D7 2223 · D 2220 · E 4442
-
-```text
-Maria Galați
-1.
-  G
-Iubito câtă lume-i între noi
-   Em
-Numărători de ploi din doi în doi
-            G
-Și dintr-un nor de dor necunoscut
-          Em
-Câte zăpezi pe buze ne-au crescut
-      Am                  D7
-Ascultă-mă și lasă-mă să strig
-           G                      Em
-Mi-e frică de-ntâmplare și mi-e frig
-      Am                         D7
-Și nu mai vreau să știu pân-la sfârșit
-     G            D            E
-Cine-a iubit frumos cine-a greșit.
-R:
-Na na ...
-Numărători de ploi din doi în doi
-Iubito, câtă lume-i între noi.
-2.
-Cine-a făcut în noapte primul pas
-Cine-a plecat din joc cine-a rămas
-Și cine-a adus pereții rând pe rând
-Cine s-a-ntors mereu cu ziua-n gând
-Cine-a pierdut și cine-a câștigat
-De toate mântuit să dezlegat
-Cine-a crezut mai mult în celălalt
-Sub cerul prea străin sau prea înalt.
-
-3.
-Iubito câtă lume-i între noi
-Numărători de ploi din doi în doi
-Și dintr-un nor de dor necunoscut
-Câte zăpezi pe buze ne-au crescut
-Cum n-am să uit cum sună glasul tău
-Decât tăcerea ce-mi vafi mai rău
-Și tu să poți sub stele înnopta
-Când nu mai știu ce-nseamnă umbra ta.
-```
-
-#### Scrisoare de rămas bun (III)
-
-**Mircea Baniciu/Pasărea Colibri** · muzica/versuri: Mircea Baniciu/Gheorghe Țărnea · Sursa: Cărticica Karban, p. 37
+**Mircea Baniciu/Pasărea Colibri** · versuri: Gheorghe Țărnea · Sursa: Cărticica Karban, p. 37 · Caiet cabană RO, p. 123 · Caiet Christian Adventure, p. 138 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/scrisoare-de-ramas-bun-2980)
 
 **Chitară:** G 320003 · Em 022000 · Am x02210 · D7 xx0212 · D xx0232 · B7 x21202
 
@@ -16027,6 +15926,7 @@ Când nu mai știu ce-nseamnă umbra ta.
 [Am]Și nu mai vreau să știu pân-[D7]la sfârșit
 [G]cine-a iubit fru[D]mos, cine-a [Em]greșit.
 [G]Cine-a iubit, [B7]cine-a gre[Em]șit.
+
 [G]Cine-a făcut în noapte primul pas
 [Em]Cine-a plecat din joc, cine-a rămas
 [G]Cine și-a smuls pereții rând pe rând
@@ -16036,6 +15936,7 @@ Când nu mai știu ce-nseamnă umbra ta.
 [Am]Cine-a crezut mai mult în [D7]celălalt
 [G]Sub cerul prea [D]străin sau prea [Em]înalt,
 [G]Sub cerul prea [B7]străin și-[Em]nalt.
+
 [G]Iubito, câtă lume-i între noi
 [Em]Numărători de ploi din doi în doi
 [G]Și dintr-un nor de dor necunoscut
@@ -16045,6 +15946,7 @@ Când nu mai știu ce-nseamnă umbra ta.
 [Am]Și tu să poți sub stele [D7]înnopta
 [G]Când nu mai [D]știu ce-nseamnă [Em]umbra ta
 [G]Nu știu ce-nseamnă [B7]umbra [Em]ta.
+
 [Em]Numărători de ploi din doi în doi...
 [G]Iubito câtă lume între noi...
 ```
@@ -16061,25 +15963,32 @@ Când nu mai știu ce-nseamnă umbra ta.
 [A]Când necazuri te doboară
 Și prieteni n-ai să-i strigi,
 Tine [E]minte sfârșitul nu-i [A]aici.
+
 [A]Și ce slăveai în taină
 E-așa cum nu-ți explici,
 Tine [E]minte sfârșitul nu-i [A]aici.
+
 Refren:
 [A]Nu-i aici, (Nu,nu)
 [A]Nu-i aici, (Nu, nu)
 Tine [E]minte sfârșitul nu-i [A]aici. (Nu, nu)
+
 [A]Când oprit la o răscruce,
 Drumul nu știi să-l prezici,
 Tine [E]minte sfârșitul nu-i [A]aici.
+
 [A]Când nu mai ai nici vise
 Și nu știi cum să te ridici,
 Tine [E]minte sfârșitul nu-i [A]aici.
+
 [A]Când se-adună norii negri,
 Ploaia cade ca un brici,
 Tine [E]minte sfârșitul nu-i [A]aici.
+
 [A]Mângâiere n-ai, nu vezi acum
 Mâini întinse de amici,
 Tine [E]minte sfârșitul nu-i [A]aici.
+
 [A]Pomul vieții creste mândru
 Unde spiritul e viu,
 Luminează ea, salvarea,
@@ -32929,7 +32838,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Metallica** — [Fade to Black](#fade-to-black), [Nothing Else Matters](#nothing-else-matters)
 - **Mihai Mărgineanu** — [Ce mult te-am iubit Paraschivo (I)](#ce-mult-te-am-iubit-paraschivo-i), [Femei, femei](#femei-femei)
 - **Mircea Baniciu** — [Adelina](#adelina), [Ceasornicarul (II)](#ceasornicarul-ii), [Drumul magilor](#drumul-magilor), [Pomul de Crăciun](#pomul-de-crăciun), [Zori din zori](#zori-din-zori)
-- **Mircea Baniciu/Pasărea Colibri** — [Dacă ai ghici](#dacă-ai-ghici), [Dealul cu dor](#dealul-cu-dor), [Esarfa în dar](#esarfa-în-dar), [Frunza (Mircea Baniciu)](#frunza-mircea-baniciu), [În tren](#în-tren), [Înțelegere](#înțelegere), [Întoarcere la orient (II)](#întoarcere-la-orient-ii), [Pisică neagră](#pisică-neagră), [Scrisoare de rămas bun (II)](#scrisoare-de-rămas-bun-ii), [Scrisoare de rămas bun (III)](#scrisoare-de-rămas-bun-iii), [Un zvon](#un-zvon), [Viața la țară (II)](#viața-la-țară-ii)
+- **Mircea Baniciu/Pasărea Colibri** — [Dacă ai ghici](#dacă-ai-ghici), [Dealul cu dor](#dealul-cu-dor), [Esarfa în dar](#esarfa-în-dar), [Frunza (Mircea Baniciu)](#frunza-mircea-baniciu), [În tren](#în-tren), [Înțelegere](#înțelegere), [Întoarcere la orient (II)](#întoarcere-la-orient-ii), [Pisică neagră](#pisică-neagră), [Scrisoare de bun rămas](#scrisoare-de-bun-rămas), [Un zvon](#un-zvon), [Viața la țară (II)](#viața-la-țară-ii)
 - **Mircea Bodolan** — [Dragostea pasarii](#dragostea-pasarii), [Rănitul dintre linii (I)](#rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#rănitul-dintre-linii-ii)
 - **Mircea Florian** — [Împreună](#împreună), [Pădure liniștitoare](#pădure-liniștitoare), [Podul de piatră (Mircea Florian)](#podul-de-piatră-mircea-florian)
 - **Mircea Vintilă** — [Madama de pică](#madama-de-pică), [Pământul deocamdată](#pământul-deocamdată), [Pe corso (II)](#pe-corso-ii), [Strada Popa Nan (II)](#strada-popa-nan-ii)
@@ -32944,7 +32853,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Nightwish** — [The Islander](#the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#azi), [Floarea](#floarea), [Lăsați-mă să cânt](#lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#peste-al-nostru-sărut)
-- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni](#ploaia-care-va-veni), [Proverbe](#proverbe), [Scrisoare de rămas bun (I)](#scrisoare-de-rămas-bun-i), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
+- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni](#ploaia-care-va-veni), [Proverbe](#proverbe), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
 - **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)

@@ -116,6 +116,7 @@
 - Podul de piatră (Mircea Florian) [C]
 - Puștoaico [Dm]
 - Să trosnească lemne-n foc [C]
+- Scrisoare de bun rămas [F]
 - Tu [Cadd9]
 - Unde dragoste nu e, nimic nu e [Dm]
 - Vara promisă [Dm]
