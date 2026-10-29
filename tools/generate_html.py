@@ -25,6 +25,7 @@ import add_ukulele_chords
 MD = str(Path(__file__).resolve().parent.parent / "Caiet-chitara.md")
 OUT_DIR = Path(__file__).resolve().parent.parent / "docs"
 ASSETS_SRC = Path(__file__).parent / "html_assets"
+SURSE_DIR = Path(__file__).resolve().parent.parent / "surse"
 
 # Same guitar silhouette as html_assets/favicon.svg, inlined (not <img>) so
 # the home-link icon on every song page needs no extra request.
@@ -366,7 +367,7 @@ def song_page(s, filenames, prev_s, next_s, songs):
 {render_sidebar(songs, filenames, s["num"], prefix="")}
 <main>
 <h1>{html.escape(s["title"])}</h1>
-{f'<div class="meta">{make_pdf.mini_md(link_sources(s["meta"]))}</div>' if s["meta"] else ""}
+{f'<div class="meta">{link_sources(make_pdf.mini_md(s["meta"]))}</div>' if s["meta"] else ""}
 {fingerings}
 <div class="transpose-controls">
 <button type="button" data-action="down">▼ semiton</button>
@@ -435,16 +436,17 @@ SOURCE_CITE_RE = re.compile(
 )
 
 
-def link_sources(meta):
-    """Turns each 'Name, p. N[, M]' citation in a byline into a Markdown link
-    to that page of the scanned PDF on GitHub (the first page, when a song
-    spans several). Run before make_pdf.mini_md, which renders the link."""
+def link_sources(meta_html):
+    """Wraps each 'Name, p. N[, M]' citation in an already rendered byline in
+    a link to that page of the scanned PDF, copied to docs/surse/ (the first
+    page, when a song spans several). Runs after make_pdf.mini_md, so the
+    relative href is not mangled by its https-only link rule."""
     def sub(m):
         name, pages = m.group(1), m.group(2)
         first = pages.split(",")[0]
-        url = f"{GITHUB_REPO}/blob/main/surse/{quote(SOURCE_PDFS[name])}#page={first}"
-        return f"[{name}, p. {pages}]({url})"
-    return SOURCE_CITE_RE.sub(sub, meta)
+        href = f"../surse/{quote(SOURCE_PDFS[name])}#page={first}"
+        return f'<a href="{href}">{name}, p. {pages}</a>'
+    return SOURCE_CITE_RE.sub(sub, meta_html)
 
 
 def rewrite_relative_links(md_text):
@@ -583,6 +585,11 @@ def main():
     for name in ("chords.js", "nav.js", "site.css", "favicon.svg"):
         shutil.copy(ASSETS_SRC / name, OUT_DIR / "assets" / name)
     emit_chords_data(OUT_DIR / "assets" / "chords-data.js")
+
+    # GitHub's PDF viewer ignores #page=N, so the site serves the scans itself
+    (OUT_DIR / "surse").mkdir()
+    for name in sorted(set(SOURCE_PDFS.values())):
+        shutil.copy(SURSE_DIR / name, OUT_DIR / "surse" / name)
 
     for name in filename_values:
         assert (OUT_DIR / "songs" / name).exists(), f"missing {name}"
