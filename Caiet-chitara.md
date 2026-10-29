@@ -16734,45 +16734,43 @@ Un târziu zadarnic happy end.
 **Ukulele:** Am 2000 · E 4442 · C 0003 · Dm 2210
 
 ```text
-N Alifantis
-1.
-  Am
-E umbra aceasta pe care
-   E                  Am
-O semeni în sufletul meu
-Cu milă și tristă mirare
-Voi duce-o cu mine mereu.
+E [Am]umbra aceasta pe ^care
+O [E]semeni în sufletul [Am]meu
+Cu [Am]milă și tristă mi^rare
+/Voi [E]duce-o cu mine me[Am]reu/ x2
 
-Și-apoi într-o zi oarecare
-În care-mi vafi cel mai greu
-Voi pune-o în vechi calendare
-Duminica trupului meu.
+Și-a[Am]poi într-o zi oare^care
+În [E]care-mi va fi cel mai [Am]greu
+Voi [Am]pune-o în vechi calen^dare
+/Du[E]minica trupului [Am]meu/ x2
 
-R:
-   E               C        Dm        Am
-Fiori prin mine umblă și nu am trebuință
-     Dm           Am           E         Am
-Te rog pe tine umbră să redevi ființă.
+Refren:
+/Fi[E]ori prin mine [C]umblă și [Dm]nu am trebu[Am]ință
+Te [Dm]rog pe tine [Am]umbră să [E]redevii fi[Am]ință/ x2
 
-2.
-Flămând de iubirea întreagă
-Pe vremi cu amurg mohorât
-Când zorile noaptea-și dezleagă
-MĂ satur c-o umbră și-atât.
-Și sufletul meu te mai roagă
-Magnetic catarg doborât
-Tu umbră tăcută și dragă
-AȘează-ți fularul la gât.
+Flă[Am]mând de iubirea în^treagă
+Pe [E]vremi cu amurg moho[Am]rât
+Când [Am]zorile noaptea-și dez^leagă
+/Mă [E]satur c-o umbră și-a[Am]tât/ x2
 
-3.
-O umbră se-nchide în mine
-O umbră prin mine trecu
-E atâta de rău că e bine
-E atâta de mult dacă e nu.
-Bacovia-și iese din sine
-Și râde în "a" și în "u"
-O umbră în viață mă ține
-Și umbra aceea ești tu.
+Și [Am]sufletul meu te mai ^roagă
+Mag[E]netic catarg dobo[Am]rât
+Tu, [Am]umbră tăcută și ^dragă
+/A[E]șează-ți fularul la [Am]gât/ x2
+
+Refren
+
+O [Am]umbră se-nchide în ^mine
+O [E]umbră prin mine tre[Am]cu
+E-a[Am]tâta de rău, că e ^bine
+/E-a[E]tât de mult, dacă e [Am]nu/ x2
+
+Ba[Am]covia-și iese din ^sine
+Și [E]râde în A și în [Am]U
+O [Am]umbră în viată mă ^ține
+/Și [E]umbra aceea ești [Am]tu/ x2
+
+Refren
 ```
 
 #### Umbra (II)
@@ -16797,10 +16795,8 @@ Du[D]minica trupului [G]meu
 Du[B7]minica trupului [Em]meu
 
 Refren:
-Fi[D]ori prin mine [G]umblă și [Am]nu am trebu[Em]ință
-Te [D]rog pe tine [G]umbră să [B7]redevii fi[Em]ință
-Fi[D]ori prin mine [G]umblă și [Am]nu am trebu[Em]ință
-Te [D]rog pe tine [G]umbră să [B7]redevii fi[Em]ință
+/Fi[D]ori prin mine [G]umblă și [Am]nu am trebu[Em]ință
+Te [D]rog pe tine [G]umbră să [B7]redevii fi[Em]ință/ x2
 
 Flă[Em]mând de iubirea în[C]treagă
 Pe [D]vremi cu amurg moho[G]rât [B7]
@@ -16824,7 +16820,7 @@ E-a[B7]tât de mult, dacă e [Em]nu
 
 Ba[Em]covia-și iese din [C]sine
 Și [D]râde în A și în [G]U [B7]
-O [D]umbră în viată mă [C]ține
+O [Em]umbră în viată mă [C]ține
 Și [D]umbra aceea ești [G]tu
 Și [B7]umbra aceea ești [Em]tu
 
@@ -17181,40 +17177,43 @@ Refren 2X
 
 ```text
 [C]How many [F]roads must a [G7]man walk [C]down
-[C]Before he can [F]call him a [G7]man
-Yes, and [C]how many [F]sees must a [G7]white dove [C]sail
-Be[C]fore she can [F]sleep in the [G7]sand
-Yes, and [C]how many [F]times must a [G7]canon balls [C]fly
-Be[C]fore they are [F]forever [G7]banned.
+Be[C]fore you [F]call him a [G7]man  ^
+[C]how many [F]seas must a [G7]white dove [C]sail
+Be[C]fore she [F]sleeps in the [G7]sand  ^
+Yes, and [C]how many [F]times must the [G7]cannonballs [C]fly
+Be[C]fore they're [F]forever [G7]banned.  ^
+
 Refren engleza:
-The [F]answer, my [G7]friends, is [C]blowing in the [Am]wind,
-The [F]answer is [G7]blowing in the [C]wind.
-The [F]answer, my [G7]friends, is [C]blowing in the [Am]wind,
-The [F]answer is [G7]blowing in the [C]wind.
-[C]Câte drumuri un [F]om ar [G7]avea de [C]făcut,
-[C]Până ei să-l con[F]sidere [G7]om?
-[C]Câte mari pescă[F]rușii mai [G7]au de bă[C]tut,
-[C]Pân-ajung pe n[F]isip pentru [G7]somn?
-Câte [C]bombe vor mai [F]sfârteca [G7]vieți [C]întregi,
-[C]Pân'să le inter[F]zicem pe [G7]veci?
+The [F]answer, my [G7]friend, is [C]blowin' in the [Am]wind,
+The [F]answer is [G7]blowin' in the [C]wind.  ^
+
+Câte [C]drumuri un [F]om ar a[G7]ea de fă[C]cut,
+Pân'ca [C]ei să-l con[F]sidere [G7]om?  ^
+Câte [C]mări pescă[F]rușii mai [G7]au de bă[C]tut,
+Pân-a[C]jung pe ni[F]sip pentru [G7]somn?  ^
+Câte [C]bombe vor [F]mai sfârte[G7]ca vieți în[C]tregi,
+Pân'să [C]le inter[F]zicem pe [G7]veci?  ^
+
 Refren româna:
 Răs[F]punsul, pri[G7]eteni, e vâ[C]nare de [Am]vânt,
-Răs[F]punsul e vâ[G7]nare de [C]vânt.
-Răs[F]punsul, pri[G7]eteni, e vâ[C]nare de [Am]vânt,
-Răs[F]punsul e vâ[G7]nare de [C]vânt.
-[C]Câți ani poate [F]un munte în [G7]lume [C]trăi,
-[C]Până marea să-l [F]spele-ntr-o [G7]zi?
-Și [C]câți ani și oa[F]menii [G7]pot vie[C]țui,
-[C]Până liberi [F]permis li-i a [G7]fi?
-[C]De câte ori [F]omul [G7]vede un [C]rău,
-[C]Și tace, întor[F]când capul [G7]sau?
+Răs[F]punsu-i vâ[G7]nare de [C]vânt.  ^
+
+Câți [C]ani poate un [F]munte în [G7]lume tră[C]i,
+Până [C]marea să-l [F]spele-ntr-o [G7]zi?  ^
+Și [C]câți ani și [F]oamenii [G7]pot viețu[C]i,
+Până [C]liberi per[F]mis li-i a [G7]fi?  ^
+De [C]câte ori [F]omul [G7]vede un [C]rău,
+Și [C]tace, întor[F]când capul [G7]său?
+
 Refren româna
-[C]De câte ori [F]omul în [G7]sus va [C]privi,
-[C]Până cerul să-l [F]vadă de-[G7]ajuns?
-[C]Cât de multe [F]urechi nece[G7]sare îi [C]sînt
-[C]Că s-audă al [F]gurilor [G7]plâns?
-[C]Câți mai au au de [F]murit că s-[G7]aflam în sfâr[C]șit,
-[C]Ca oameni prea [F]mulți au [G7]murit?
+
+De [C]câte ori [F]omul în [G7]sus va pri[C]vi,
+Până [C]cerul să-l [F]vadă de-a[G7]juns?  ^
+Cât de [C]multe u[F]rechi nece[G7]sare îi [C]sînt
+Că s-a[C]udă al [F]gurilor [G7]plâns?  ^
+Câți mai [C]au de mu[F]rit că s-af[G7]lăm în sfâr[C]șit,
+Că [C]oameni prea [F]mulți au mu[G7]rit?  ^
+
 Refren româna
 Refren engleza
 Refren româna
@@ -17641,65 +17640,50 @@ Notă: Cu acorduri barate sună mai aproape de original: `G` 355433, `C` 335553,
 
 **Florian Pitiș** · Sursa: Caiet Christian Adventure, p. 171 · Caiet cabană RO, p. 84 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/vinovatii-fara-vina-732)
 
-**Chitară:** A x02220 · Bm x24432 · E 022100 · D xx0232 · G 320003 · B x24442 · C#m x46654 · F 133211
+**Chitară:** A x02220 · Bm x24432 · E 022100 · D xx0232 · G 320003 · B x24442 · C#m x46654 · F# 244322
 
-**Ukulele:** A 2100 · Bm 4222 · E 4442 · D 2220 · G 0232 · B 4322 · C#m 1104 · F 2010
+**Ukulele:** A 2100 · Bm 4222 · E 4442 · D 2220 · G 0232 · B 4322 · C#m 1104 · F# 3121
 
 ```text
-A
-Sunt curat la trup, curat la suflet,
-                             Bm
-Vreau să-i înteleg și să-i iubesc.
-                            A
-Nu contează cât de lung am părul,
-E                           A
-Important e cât de mult gândesc.
+[A]Sunt curat la ^trup, curat la ^suflet,  ^
+[A]Vreau să-i înte^leg și să-i iu[Bm]besc.  ^
+[Bm]Nu contează ^cât de lung am [A]părul,  ^
+[E]Important e ^cât de mult gân[A]desc.  ^
 
-Simt în trup pletoșii daci, comati,
-Firea mea e saltul omenesc.
-Nu contează cât de lung am părul,
-Important e cât și cum gândesc.
+[A]Simt în trup ple^toșii daci, co^matii,  ^
+[A]Firea mea e ^saltul ome[Bm]nesc.  ^
+[Bm]Nu contează ^cât de lung am [A]părul,  ^
+[E]Important e ^cât și cum gân[A]desc.  ^
 
 Refren:
 
-D           G    D
-Lume, lume, soră lume,
-D           G    D
-Lume, lume, soră lume,
-G               D
-De ce ești rea, rea de gură,
-A                     D
-De ce ne privești cu ură?
-G          D
-Vinovații fără vină
- A                D
-Cer să se facă lumină.
+/[D]Lume, ^lume, [G]soră [D]lume,/ x2
+[G]De ce ești rea, [D]rea de gură,
+[A]De ce ne pri^vești cu [D]ură?  ^
+[G]Vinovații [D]fără vină
+[A]Cer să se fa^că lu[D]mină.  ^
 
-Vreau să-nalț castele de gândire,
-Vreau să fiu lăsat să simt cum cresc.
-Nu contează cât de lung am părul,
-Important e cât și cum gândesc.
+[A]Vreau să-nalț cas^tele de gân^dire,  ^
+[A]Vreau să fiu lă^sat să simt cum [Bm]cresc.  ^
+[Bm]Nu contează ^cât de lung am [A]părul,  ^
+[E]Important e ^cât și cum gân[A]desc.  ^
 
-Nu e loc de noi în lumea voastra,
-Nu-s din noi acei ce ne muncesc
-Și țin cont de cât de lung am părul,
-Nu de cum și cât de mult gândesc.
+[A]Nu e loc de ^noi în lumea ^voastra,  ^
+[A]Nu-s din noi a^cei ce ne mun[Bm]cesc  ^
+[Bm]Și țin cont de ^cât de lung am [A]părul,  ^
+[E]Nu de cum și ^cât de mult gân[A]desc.  ^
 
 Refren
 
-B
-Hei, voi, neatenți la soarta noastră
-                               C#m
-Hei, voi, ce ne credeți pui de drac!
-                           B
-Gândurile voastre-s și-ale noastre,
- F                    B
-Gusturile însă nu ne plac.
+[B]Hei, voi, nea^tenți la soarta ^noastră  ^
+[B]Hei, voi, ce ne ^credeți pui de [C#m]drac!  ^
+[C#m]Gândurile ^voastre-s și-ale [B]noastre,  ^
+[F#]Gusturile ^însă nu ne [A]plac.  ^
 
-Hei, voi, care-ați fost odată tineri,
-Hei, voi, care stiți ce-i omenesc!
-Nu contează cât de lung am părul,
-Mai presus e cât și cum gândesc.
+[B]Hei, voi, care-ați ^fost odată ^tineri,  ^
+[B]Hei, voi, care ^stiți ce-i ome[C#m]nesc!  ^
+[C#m]Nu contează ^cât de lung am [B]părul,  ^
+[F#]Mai presus e ^cât și cum gân[A]desc.  ^
 
 Refren x2
 ```

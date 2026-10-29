@@ -128,6 +128,8 @@
 - Umbra (II) [Am]
 - Un om pe niște scări [C]
 - Unde dragoste nu e, nimic nu e [Dm]
+- Vânare de vânt [C]
 - Vara promisă [Dm]
+- Vinovații fără vină [G]
 - Vis de primăvară [C]
 - Vremuri [C]
