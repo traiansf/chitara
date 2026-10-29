@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (290 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (289 cântece)
 
-- [II.1 — Folk](#ii1--folk) (203 cântece)
+- [II.1 — Folk](#ii1--folk) (202 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -400,8 +400,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Și dacă (I)](#și-dacă-i)
 - [Și dacă (II)](#și-dacă-ii)
 - [Și de-ar fi](#și-de-ar-fi)
-- [Strada Popa Nan (I)](#strada-popa-nan-i)
-- [Strada Popa Nan (II)](#strada-popa-nan-ii)
+- [Strada Popa Nan](#strada-popa-nan)
 - [Suflet fără chei](#suflet-fără-chei)
 - [Tăcut](#tăcut)
 - [Taina (I)](#taina-i)
@@ -16095,132 +16094,89 @@ Refren 1 + /Refren 2/ x2
 Refren 1 + /Refren 2/ x2
 ```
 
-#### Strada Popa Nan (I)
+#### Strada Popa Nan
 
-**Pasărea Colibri** · Sursa: Caiet Christian Adventure, p. 143 · Caiet cabană RO, p. 85 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/strada-popa-nan-689)
+**Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Dorin Liviu Zaharia · Sursa: Cărticica Karban, p. 175 · Caiet Christian Adventure, p. 143 · Caiet cabană RO, p. 85 · Cărticica Karban, p. 175 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/strada-popa-nan-689)
 
 **Chitară:** C x32010 · F 133211 · G 320003
 
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
-   C                        F            C
-În Popa Nan stă un bărbos bătrân și fotograf
-        F             G            C
-Puștii de pe stradă spun că e un zeu .
-Știe chiar de ești om bun sau rău
-După chipul, după chipul tău .
+În Popa [C]Nan stă un bărbos bă[F]trân și foto[C]graf
+Puștii [F]de pe stradă spun că [G]este-un [C]zeu.  ^
+Știe [C]chiar de ești om [F]bun sau [C]rău
+După [F]chipul, după [G]chipul [C]tău.  ^
 
-Sub o streașină-i statuia unei fete gri
-Sprijinind un coș cu struguri de ciment
-Jos în casă stau trei fete gri
-Cu comportamentul ... indecent .
+Sub o [C]streașină-i statuia [F]unei fete [C]gri
+Spriji[F]nind un coș cu struguri [G]de ci[C]ment  ^
+Jos în [C]casă stau trei [F]fete [C]vii
+Cu com[F]portamentul ... [G]inde[C]cent.
 
 Refren x2:
-C     F              G             C
-Popa Nan i-o stradă-nspre Hala Traian
-       F     G               C
-De la Foișor până-n Piața Vitan .
+Popa [F]Nan i-o stradă-n[G]spre Hala Tra[C]ian  ^
+De la [F]Foișor pâ[G]nă-n Piața Vi[C]tan.  ^
 
-La un colț i-o florăreasă ce ne vinde flori
-Mereu plânge din nimic și-are păr creț .
-Când râde rar, numai la sărbători
-Toate florile ei nu mai au preț
+La un [C]colț i-o florăreasă [F]ce vă vinde [C]flori
+Mereu [F]plânge din nimic și-a[G]re păr [C]creț.  ^
+Când râde [C]rar, numai la [F]sărbă[C]tori
+Toate [F]florile nu [G]mai au [C]preț  ^
 
 Refren x2
 
-La un colț i-o frizerie fără mușterii
-Pensionarii stau în pragu-i la taifas ,
-Iar frizerul gras și chel dă glas
-Unor melodii ... de cheflii ...
+În Popa [C]Nan i-o frizerie [F]fără muște[C]rii
+Pensio[F]narii stau în pragu-i [G]la tai[C]fas,  ^
+Iar fri[C]zerul gras și [F]chel dă [C]glas
+Unor [F]melodii... [G]de che[C]flii...  ^
 
 Refren x2
 
-Zilnic trece un poștaș, cu ochii de cafea
-Toate fetele-l citesc și-i scriu vederi,
-Numai fata lui ce stă în cartier
-Nu e nicăieri, nicăieri .
+Zilnic [C]trece un poștaș, cu [F]ochii de ca[C]fea
+Toate [F]fetele-l citesc și-i [G]scriu ve[C]deri,  ^
+Numai [C]fata lui ce [F]sta în carti[C]er
+Nu e [F]nicăieri, [G]nică[C]ieri.  ^
 
 Refren x4
 ```
 
-#### Strada Popa Nan (II)
-
-**Mircea Vintilă** · muzica/versuri: Mircea Vintilă/Dorin Liviu Zaharia · Sursa: Cărticica Karban, p. 175
-
-**Chitară:** D xx0232 · G 320003 · A x02220
-
-**Ukulele:** D 2220 · G 0232 · A 2100
-
-```text
-[D]În Popa Nan sta un bărbos [G]bătrân și foto[D]graf
-[D]Pustii de pe strada [G]spun că e un [D]zeu
-[D]Știe chiar de ești [G]om bun sau [D]rău
-[D]După chipul, [G]după chipul [D]tău.
-Refren:
-[D]Popa [G]Nan e o strada [A]înspre Hala [D]Traian
-[D]De la [G]Foișor [A]până-n Piata [D]Vitan.
-[D]Popa [G]Nan e o strada [A]înspre Hala [D]Traian
-[D]De la [G]Foișor [A]până-n Piata [D]Vitan.
-[D]La un colț e o florăreasă [G]ce ne vinde [D]flori
-[D]Mereu plânge din nimic [G]și-are par [D]creț
-[D]Râde rar numai [G]la sărbă[D]tori
-[D]Toate florile [G]nu mai au [D]preț.
-[D]În Popa Nan e o frizerie [G]fără muș[D]terii
-[D]Pensionarii stau în [G]pragu-i la tai[D]fas
-[D]Iar frizerul gras și [G]chel da [D]glas
-[D]Unor melodii [G]de chef[D]lii.
-[D]Zilnic trece un poș[G]taș cu ochii de ca[D]fea
-[D]Toate fetele-l iu[G]besc și-i scriu [D]vederi
-[D]Numai fata lui ce [G]sta în [D]cartier
-[D]Nu e nicăieri, [G]nică[D]ieri.
-```
-
 #### Suflet fără chei
 
-**Ducu Bertzi** · Sursa: Caiet cabană RO, p. 135 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/suflet-fara-chei-306)
+**Ducu Bertzi** · versuri:  Daniela Crăsnaru · Sursa: Caiet cabană RO, p. 135 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ducu-bertzi/suflet-fara-chei-306)
 
 **Chitară:** Am x02210 · E 022100 · F 133211 · Dm xx0231 · C x32010
 
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Dm 2210 · C 0003
 
 ```text
-Ducu Bertzi, Daniela Crăsnaru
 1.
-    Am                             E
-Trece toamna, iarna, vara și în inimi urcă seara
-     F                            E
-Vântul cântă în neștire peste glezna ta subțire
-      Dm                      C
-Palma mea în rugăciune peste sânii tăi apune
-       Dm                                    E
-Și visez că ești aieve vas de aur plin cu seve
-        F                          C
-Când de fapt ești amintire, tu și glezna ta subțire
-      Dm                              E
-Mâna vai, pe strune-mi moare și pe tine nu te doare.
+[Am]Trece toamna, ^iarna, vara [E]și în inimi ^urcă seara
+[F]Vântul cântă ^în neștire [E]peste glezna ^ta subțire
+[Dm]Palma mea în ^rugăciune [C]peste sânii ^tăi apune
+[Dm]Și visez că ^ești aieve ^vas de aur [E]plin cu seve
+[F]Când de fapt ești ^amintire, [C]tu și glezna ^ta subțire
+[Dm]Mâna vai, pe ^strune-mi moare [E]și pe tine ^nu te doare.
 
-R:
-  Dm   E           Am
-Hei, suflet fără chei
-      F                        E
-FĂră porți și fără ziduri,lași în urmă numai riduri.
+Refren:
+[Dm]Hei, [E]suflet fără [Am]chei  ^
+[F]Fără porți și ^fără ziduri, [E]lași în urmă ^numai riduri.
 
 2.
-Trupul tău cu gust de miere luminează-n încăpere
-Din alt timp din altă viață care se destramă-n ceață
-Doar la mine în cuvinte doarme coapsa ta fierbinte
-Doar în cântec te mai am, măr aprins lucind în ram
-Și mi-e dor și mi-e pustiu și mă-ntreb dacă sunt viu
-Mâna vai, pe strune-mi moare și pe tine nu te doare.
+[Am]Trupul tău cu ^gust de miere [E]luminează-n ^încăpere
+[F]Din alt timp din ^altă viață [E]care se des^tramă-n ceață
+[Dm]Doar la mine ^în cuvinte [C]doarme coapsa ^ta fierbinte
+[Dm]Doar în cântec ^te mai am, ^măr aprins lu[E]cind în ram
+[F]Și mi-e dor și ^mi-e pustiu [C]și mă-ntreb da^că sunt viu
+[Dm]Mâna vai, pe ^strune-mi moare [E]și pe tine ^nu te doare.
+
+Refren x 2
 
 3.
-Vine vara, iarna vine, numai tu nu vii la mine
-Trupul tău ca o văpaie nu-mi mai intră în odaie
-Steaua-mi bate în fereastră unde-i umbra ta albastră
-Unde-s pașii tăi cei dragi, sânii mirosind a fragi
-Și mi-e frig și mi-e amar și mă chinui în zadar
-Mâna vai, pe strune-mi moare și pe tine nu te doare.
+[Am]Vine vara, ^iarna vine, [E]numai tu nu ^vii la mine
+[F]Trupul tău ca ^o văpaie [E]nu-mi mai intră ^în odaie
+[Dm]Steaua-mi bate ^în fereastră [C]unde-i umbra ^ta albastră
+[Dm]Unde-s pașii ^tăi cei dragi, ^sânii miro[E]sind a fragi
+[F]Și mi-e frig ^și mi-e amar [C]și mă chinui ^în zadar
+[Dm]Mâna vai, pe ^strune-mi moare [E]și pe tine ^nu te doare.
 ```
 
 #### Tăcut
@@ -32797,7 +32753,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Mircea Baniciu/Pasărea Colibri** — [Dacă ai ghici](#dacă-ai-ghici), [Dealul cu dor](#dealul-cu-dor), [Esarfa în dar](#esarfa-în-dar), [Frunza (Mircea Baniciu)](#frunza-mircea-baniciu), [În tren](#în-tren), [Înțelegere](#înțelegere), [Întoarcere la orient (II)](#întoarcere-la-orient-ii), [Pisică neagră](#pisică-neagră), [Scrisoare de bun rămas](#scrisoare-de-bun-rămas), [Un zvon](#un-zvon), [Viața la țară (II)](#viața-la-țară-ii)
 - **Mircea Bodolan** — [Dragostea pasarii](#dragostea-pasarii), [Rănitul dintre linii (I)](#rănitul-dintre-linii-i), [Rănitul dintre linii (II)](#rănitul-dintre-linii-ii)
 - **Mircea Florian** — [Împreună](#împreună), [Pădure liniștitoare](#pădure-liniștitoare), [Podul de piatră (Mircea Florian)](#podul-de-piatră-mircea-florian)
-- **Mircea Vintilă** — [Madama de pică](#madama-de-pică), [Pământul deocamdată](#pământul-deocamdată), [Pe corso (II)](#pe-corso-ii), [Strada Popa Nan (II)](#strada-popa-nan-ii)
+- **Mircea Vintilă** — [Madama de pică](#madama-de-pică), [Pământul deocamdată](#pământul-deocamdată), [Pe corso (II)](#pe-corso-ii)
 - **Mircea Vintilă/Pasărea Colibri** — [38](#38), [Adio, deci pe curând](#adio-deci-pe-curând), [Alte clipe trăite alt epilog](#alte-clipe-trăite-alt-epilog), [Când se lasă seara](#când-se-lasă-seara), [Dintr-o cafea (II)](#dintr-o-cafea-ii), [Dragostea e o salata](#dragostea-e-o-salata), [Hanul lui Manuc](#hanul-lui-manuc), [Lordul John](#lordul-john), [Mielul](#mielul), [Miruna](#miruna), [Peste răbdări](#peste-răbdări), [Un om pe niște scări (II)](#un-om-pe-niște-scări-ii), [Vis de primăvară](#vis-de-primăvară)
 - **Mondial** — [Atât de fragedă](#atât-de-fragedă)
 - **Narcis** — [Noapte la mare, noapte la munte](#noapte-la-mare-noapte-la-munte)
@@ -32809,7 +32765,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Nightwish** — [The Islander](#the-islander)
 - **Odyssey** — [Dor de ducă (Odyssey)](#dor-de-ducă-odyssey)
 - **Ovidiu Scridon** — [Azi](#azi), [Floarea](#floarea), [Lăsați-mă să cânt](#lăsați-mă-să-cânt), [Ochii tăi (Ovidiu Scridon)](#ochii-tăi-ovidiu-scridon), [Peste-al nostru sărut](#peste-al-nostru-sărut)
-- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni](#ploaia-care-va-veni), [Proverbe](#proverbe), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan (I)](#strada-popa-nan-i), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
+- **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni](#ploaia-care-va-veni), [Proverbe](#proverbe), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan](#strada-popa-nan), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Un om pe niște scări (I)](#un-om-pe-niște-scări-i), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
 - **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)

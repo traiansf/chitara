@@ -118,6 +118,7 @@
 - Să trosnească lemne-n foc [C]
 - Săracă inima me' (II) [Am]
 - Scrisoare de bun rămas [F]
+- Strada Popa Nan [C]
 - Și de-ar fi [Dm]
 - Tu [Cadd9]
 - Unde dragoste nu e, nimic nu e [Dm]
