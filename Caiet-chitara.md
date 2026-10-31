@@ -2557,8 +2557,8 @@ A[G]colo ea ne [C]cântă”
 
 Și [C]după drumul ^lung și greu
 A[C]junseră-n po[G]iană
-A[G]colo fata ^le făcu
-O [G]ciorbă și-o to[C]cană
+Și-a[G]colo fata ^le-a cântat
+Pâ[G]n-au făcut to[C]cana
 
 Refren
 
@@ -5556,8 +5556,8 @@ Sursa: Cărticica Karban, p. 202
 [D]Tu mi-ai rupt i^nima-n două,
 [A]Șai, diri, diri di[D]ra
 
-/[G]Tu mi-ai rupt-o, ^tu mi-o coase,
-[D]Cu fir roșu ^de mătase,
+/Tu mi-ai [G]rupt-o, tu mi-o ^coase,
+Cu fir [D]roșu de mă^tase,
 [A]Șai diri [D]Șai diridira
 [A]Șai, diri, diri di[D]ra/ x2
 
@@ -5566,13 +5566,13 @@ Sursa: Cărticica Karban, p. 202
 [D]Dar sărutul ^nu-l prea știe,
 [A]Șai, diri, diri di[D]ra
 
-[G]Și mă roagă ^ziua toată,
-[D]Ca să-l mai să^rut odată,
+Și mă [G]roagă ziua ^toată,
+Ca să-l [D]mai sărut o^dată,
 [A]Șai diri [D]Șai diridira
 [A]Șai, diri, diri di[D]ra
 
-[G]Io-l sărut de ^nu mai pot,
-[D]Dar el nu-nva^ță deloc
+Io-l să[G]rut de nu mai ^pot,
+Dar el [D]nu-nvață de^loc
 [A]Șai diri [D]Șai diridira
 [A]Șai, diri, diri di[D]ra
 
@@ -5684,8 +5684,8 @@ Sursa: Cărticica Karban, p. 205
 [D]Și mi-or face [A]cartea bună, [E]tra la, la, la, [A]la.
 
 /[A]Și mi-oi ^lua-o [D]și m-oi [A]duce,/ x2
-[D]La mândruța-n [A]deal la cruce, [E]tra la, la, la, [A]la, la, la
-[D]La mândruța-n [A]deal la cruce, [E]tra la, la, la, [A]la.
+[D]La mândruța-n [A]mea cea dulce, [E]tra la, la, la, [A]la, la, la
+[D]La mândruța-n [A]mea cea dulce, [E]tra la, la, la, [A]la.
 ```
 
 #### După pui de moroșan
@@ -6142,7 +6142,7 @@ Fru[D]moasă ca-n po[Em]veste.
 Iu[Em]bita mea, fru[C]moasa mea
 Cu [D]drag să fii aș [Em]vrea
 Stă[Em]până de a[C]cum mereu
-A s[D]ufletului [Emmeu.
+A s[D]ufletului [Em]meu.
 
 5.
 Tre[Em]cu un an mai [C]mult de-atunci
@@ -10029,15 +10029,15 @@ Ducu Bertzi
 1.
 [Am]Și-așa-mi vine [E]câteodată, [Am]doru[G]le,
 [C]Și-așa-mi vine [G]câteodată
-/[Am]SĂ dau cu cu[E]țâtu-n chiatră/x2
+/[Am]Să dau cu cu[E]țâtu-n chiatră/x2
 Măi [Am]doru^le
 
 2.
-Din chiatră să iasă foc, mai dorule,
+Din chiatră să iasă foc, măi dorule,
 Dacă-n viață n-am noroc.
 
 3.
-Când s-o-mpărțit norocu', mai dorule,
+Când s-o-mpărțit norocu', măi dorule,
 Fost-am eu dus la lucru.
 
 4.
@@ -10062,7 +10062,7 @@ D'a mea parte norii bat.
 
 9.
 Și-așa-mi vine câte-un gând, măi dorule,
-SĂ plec pe păduri cântând.
+Să plec pe păduri cântând.
 ```
 
 #### Când se lasă seara
@@ -11524,15 +11524,10 @@ Notă: Ritmul și „timing”-ul sunt importante; după primul vers prinde bine
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E7 1202 · G7 0212
 
 ```text
-[Am]A venit, a venit [Dm]toamna
+/[Am]A venit, a venit [Dm]toamna
 [G]Acoperă-mi inima [C]cu ceva
 [Am]Cu umbra unui co[Dm]pac sau mai bine
-[E7]Sau mai bine cu [Am]umbra ta.
-
-[Am]A venit, a venit [Dm]toamna
-[G]Acoperă-mi inima [C]cu ceva
-[Am]Cu umbra unui co[Dm]pac sau mai bine
-[E7]Sau mai bine cu [Am]umbra ta.
+[E7]Sau mai bine cu [Am]umbra ta./ x2
 
 [Am]Mă tem ca n-am să te mai [Dm]văd uneori
 [G7]Că au să-mi crească aripi ascu[C]țite până la nori.
@@ -11540,7 +11535,7 @@ Notă: Ritmul și „timing”-ul sunt importante; după primul vers prinde bine
 [E7]Și el o să se-chida cu o [Am]frunza de pelin.
 
 [Am]Și-atunci m-apropii de [Dm]pietre și tac
-[G]Iau cuvintele și le-nec în [C]mare
+[G7]Iau cuvintele și le-nec în [C]mare
 [Am]Șuier luna și-o ră[Dm]sar și-o prefac
 [E7]Într-o dragoste [Am]mare.
 ```
