@@ -24,17 +24,17 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (171 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (172 cântece)
 
 - [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (18 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
-- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
+- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (33 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (287 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (286 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (80 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (79 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -212,6 +212,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Cine-i născut în...](#cine-i-născut-în)
 - [Doi olteni](#doi-olteni)
 - [Doi olteni (variantă)](#doi-olteni-variantă)
+- [Du-mă acasă măi tramvai](#du-mă-acasă-măi-tramvai)
 - [Felia](#felia)
 - [Femei, femei](#femei-femei)
 - [Gașca](#gașca)
@@ -455,7 +456,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Dansul codrilor](#dansul-codrilor)
 - [Dorul](#dorul)
 - [Dragă Otee](#dragă-otee)
-- [Du-mă acasă mai tramvai](#du-mă-acasă-mai-tramvai)
 - [Ești așa frumoasă](#ești-așa-frumoasă)
 - [Fata din vis](#fata-din-vis)
 - [Fată verde (I)](#fată-verde-i)
@@ -7889,6 +7889,68 @@ Moldo[Cm]veanul și ol[F]teanul
 ```
 
 Notă: Variantă cu alte acorduri, pentru cine știe cântecul în această formă.
+
+#### Du-mă acasă măi tramvai
+
+**Stroe și Vasilache** · Sursa: Cărticica Karban, p. 197
+
+**Chitară:** Dm xx0231 · Am x02210 · E 022100
+
+**Ukulele:** Dm 2210 · Am 2000 · E 4442
+
+```text
+[Dm]Du-mă a[Am]casă [Dm]măi tram[Am]vai
+[Dm]Du-mă [Am]iute [E]ce mai [Am]stai
+[Dm]Du-mă [Am]la că[Dm]suța [Am]mea
+[Dm]Cu por[Am]tiță [E]și ciș[Am]mea
+
+[Dm]Noaptea se [Am]lasă [Dm]în maha[Am]la
+[Dm]Și câinii [Am]latră [E]e pus[Am]tiu
+[Dm]La o por[Am]tiță [Dm]stă cine[Am]va
+[Dm]Și mă aș[Am]teaptă [E]ca să [Am]viu
+
+[Dm]Du-mă a[Am]casă [Dm]măi tram[Am]vai
+[Dm]Du-mă [Am]iute [E]ce mai [Am]stai
+[Dm]Du-mă [Am]la că[Dm]suța [Am]mea
+[Dm]Cu por[Am]tiță [E]și ciș[Am]mea
+
+[Dm]Dumi[Am]nica [Dm]dimi[Am]neața
+[Dm]Ies co[Am]pii [E]mari și [Am]mici
+[Dm]Pe mai[Am]danul [Dm]lui Mă[Am]treața
+[Dm]Și se [Am]joacă [E]în ar[Am]șici
+
+[Dm]Coana [Am]Mița a [Dm]lui Mi[Am]trița
+[Dm]Se cer[Am]ta c-[E]un precu[Am]peț
+[Dm]Pentr-un [Am]ou și-o [Dm]pătla[Am]gică
+[Dm]Să-i mai [Am]scadă-un [E]pic din [Am]preț
+
+[Dm]De la [Am]crâșma [Dm]lui Nă[Am]iță
+[Dm]Un-se [Am]vinde [E]tulbu[Am]rel
+[Dm]Iese [Am]unul [Dm]făcut [Am]criță
+[Dm]Cu țam[Am]balul [E]după [Am]el
+
+[Dm]C-așa e [Am]viața [Dm]de maha[Am]la
+[Dm]Ruptă [Am]din i[E]nima [Am]mea
+```
+
+Notă: Măsura 3/4. Ciupitură simplă:
+
+```tab
+E||-------1----1----|-------0----0----|-------1----1----|-------0----0----||
+B||-------3----3----|-------1----1----|-------3----3----|-------1----1----||
+G||-------2----2----|-------2----2----|-------2----2----|-------2----2----||
+D||--0--------------|-----------------|--0--------------|-----------------||
+A||-----------------|--0--------------|-----------------|--0--------------||
+E||-----------------|-----------------|-----------------|-----------------||
+E||-------1----1----|-------0----0----|-------0----0----|-------0----0----||
+B||-------3----3----|-------1----1----|-------0----0----|-------1----1----||
+G||-------2----2----|-------2----2----|-------1----1----|-------2----2----||
+D||--0--------------|-----------------|-----------------|-----------------||
+A||-----------------|--0--------------|-----------------|--0--------------||
+E||-----------------|-----------------|--0--------------|-----------------||
+```
+
+Exemplificată pentru primele două versuri.
 
 #### Felia
 
@@ -18525,68 +18587,6 @@ S  S S  S  S S  S S S  S S S  S S S  S S S P
 
 Notă: Măsura 4/4. Transpus în `Em` (în original, probabil `C#m`). Legenda tabulaturii: O = optime, P = pătrime, S = șaisprezecime.
 
-#### Du-mă acasă mai tramvai
-
-**Stroe și Vasilache** · Sursa: Cărticica Karban, p. 197
-
-**Chitară:** Dm xx0231 · Am x02210 · E 022100
-
-**Ukulele:** Dm 2210 · Am 2000 · E 4442
-
-```text
-[Dm]Du-mă a[Am]casă [Dm]măi tram[Am]vai
-[Dm]Du-mă [Am]iute [E]ce mai [Am]stai
-[Dm]Du-mă [Am]la că[Dm]suța [Am]mea
-[Dm]Cu por[Am]tiță [E]și ciș[Am]mea
-
-[Dm]Noaptea se [Am]lasă [Dm]în maha[Am]la
-[Dm]Și câinii [Am]latră [E]e pus[Am]tiu
-[Dm]La o por[Am]tiță [Dm]stă cine[Am]va
-[Dm]Și mă aș[Am]teaptă [E]ca să [Am]viu
-
-[Dm]Du-mă a[Am]casă [Dm]măi tram[Am]vai
-[Dm]Du-mă [Am]iute [E]ce mai [Am]stai
-[Dm]Du-mă [Am]la că[Dm]suța [Am]mea
-[Dm]Cu por[Am]tiță [E]și ciș[Am]mea
-
-[Dm]Dumi[Am]nica [Dm]dimi[Am]neața
-[Dm]Ies co[Am]pii [E]mari și [Am]mici
-[Dm]Pe mai[Am]danul [Dm]lui Mă[Am]treața
-[Dm]Și se [Am]joacă [E]în ar[Am]șici
-
-[Dm]Coana [Am]Mița a [Dm]lui Mi[Am]trița
-[Dm]Se cer[Am]ta c-[E]un precu[Am]peț
-[Dm]Pentr-un [Am]ou și-o [Dm]pătla[Am]gică
-[Dm]Să-i mai [Am]scadă-un [E]pic din [Am]preț
-
-[Dm]De la [Am]crâșma [Dm]lui Nă[Am]iță
-[Dm]Un-se [Am]vinde [E]tulbu[Am]rel
-[Dm]Iese [Am]unul [Dm]făcut [Am]criță
-[Dm]Cu țam[Am]balul [E]după [Am]el
-
-[Dm]C-așa e [Am]viața [Dm]de maha[Am]la
-[Dm]Ruptă [Am]din i[E]nima [Am]mea
-```
-
-Notă: Măsura 3/4. Ciupitură simplă:
-
-```tab
-E||-------1----1----|-------0----0----|-------1----1----|-------0----0----||
-B||-------3----3----|-------1----1----|-------3----3----|-------1----1----||
-G||-------2----2----|-------2----2----|-------2----2----|-------2----2----||
-D||--0--------------|-----------------|--0--------------|-----------------||
-A||-----------------|--0--------------|-----------------|--0--------------||
-E||-----------------|-----------------|-----------------|-----------------||
-E||-------1----1----|-------0----0----|-------0----0----|-------0----0----||
-B||-------3----3----|-------1----1----|-------0----0----|-------1----1----||
-G||-------2----2----|-------2----2----|-------1----1----|-------2----2----||
-D||--0--------------|-----------------|-----------------|-----------------||
-A||-----------------|--0--------------|-----------------|--0--------------||
-E||-----------------|-----------------|--0--------------|-----------------||
-```
-
-Exemplificată pentru primele două versuri.
-
 #### Ești așa frumoasă
 
 **Holograf** · Sursa: Caiet Christian Adventure, p. 69
@@ -18646,49 +18646,42 @@ Ești așa frumoasă și ne-am iubi o viață într-o zi
 **Ukulele:** D 2220 · A 2100 · G 0232 · Bm 4222
 
 ```text
-D       A       G    A
-Îmi amintesc de tine
-Stăteai în fața mea,
-A fost de-ajuns o privire
-Ce n-o pot, n-o pot uita.
-Cu brațele-amândouă,
-Încerc să te regăsesc,
-Să fim din nou împreună,
-E tot ce pot, să imi doresc.
+[D]  Îmi amin[A]tesc de [G]tine  [A]
+[D]  Stăteai în [A]fața [G]mea,  [A]
+[D]  A fost de-a[A]juns o pri[G]vire
+[A]Ce n-o pot, [D]  n-o [A]pot ui[G]ta.  [A]
+[D]  Cu brațe[A]le-amân[G]două,  [A]
+[D]  Încerc să [A]te regă[G]sesc,  [A]
+[D]  Să fim din [A]nou împre[G]ună,
+[A]E tot ce [D]pot, să [A]imi do[G]resc.  [A]
 
-Cu gândul preț de o clipă
-Să te-nțeleg aș fi vrut,
-Aș fi rămas cu tine,
-C-am să te pierd nu am crezut.
-Afară numai vântul,
-Gonind prin noapte spunea,
-Să las in urmă timpul,
-Ce mult prea, prea iute alerga.
+[D]  Cu gândul [A]preț de o [G]clipă  [A]
+[D]  Să te-nțe[A]leg aș fi [G]vrut,  [A]
+[D]  Aș fi ră[A]mas cu [G]tine,
+[A]C-am să te [D]pierd nu [A]am cre[G]zut.  [A]
+[D]  Pe-afară [A]numai [G]vântul,  [A]
+[D]  Gonind prin [A]noapte spu[G]nea,  [A]
+[D]  Să las în [A]urmă tim[G]pul,
+[A]Ce mult prea, [D]  prea [A]iute aler[G]ga.  [A]
 
-  Bm    A     G
-Pornesc la drum prin noapte,
-D            A          G  A
-În noaptea-n care ți-am zis,
-Bm    A     G
-Că numai tu dintre toate,
-A     D       A       G
-Doar tu ești fata din vis.
+/[Bm]Pornesc la [A]drum prin [G]noapte,  [A]
+[D]În noaptea-n [A]care ți-am [G]zis,  [A]
+[Bm]Că numai [A]tu dintre [G]toate,
+[A]Doar tu ești [D]  fa[A]ta din [G]vis.  [A]/ x2
 
-Privesc la trenul care,
-Ducea nepăsător,
-Căldura șoaptei tale,
-Ce-avea s-o piardă până-n zori.
-Afară numai vântul,
-Gonind prin noapte spunea,
-Să las în urmă timpul,
-Ce mult prea, prea iute alerga.
+[D]  Privesc la [A]trenul [G]care,  [A]
+[D]  Ducea ne[A]păsă[G]tor,  [A]
+[D]  Căldura [A]șoaptei [G]tale,
+[A]Ce avea s-o [D]piardă [A]până-n [G]zori.  [A]
+[D]  Pe-afară [A]numai [G]vântul,  [A]
+[D]  Gonind prin [A]noapte spu[G]nea,  [A]
+[D]  Să las în [A]urmă tim[G]pul,
+[A]Ce mult prea, [D]  prea [A]iute aler[G]ga.  [A]
 
-D           A    G
-Dacă vrei, dacă vrei
-A         D     A G  A
-Voi fi cu tine,
-Dacă vrei, dacă vrei
-Voi sta lânga tine.
+[D]Dacă vrei, [A]dacă [G]vrei
+Voi [A]fi cu [D]tine,  [A]  [G]  [A]
+[D]Dacă vrei, [A]dacă [G]vrei
+Voi [A]sta lânga [D]tine.  [G]  [A]
 ```
 
 #### Fată verde (I)
@@ -18767,29 +18760,39 @@ Ochii negri, ochi de țigan.
 
 #### Fată verde (III)
 
-**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 126
+**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Caiet Christian Adventure, p. 74 · Cărticica Karban, p. 126 · Caiet cabană RO, p. 81 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/ochi-negri-ochi-de-tigan-8786)
 
 **Chitară:** Em 022000 · G 320003 · D xx0232 · C x32010 · Am x02210
 
 **Ukulele:** Em 0432 · G 0232 · D 2220 · C 0003 · Am 2000
 
 ```text
-[Em]Fată verde cu [G]părul [D]pădure
-[Em]Fată verde cu [G]părul [D]pădure
-[Em]Simți cum privirea lor [G]vrea să te [D]fure
+/[Em]Fată ^verde cu [G]părul pă[D]dure/ x2
+[Em]Simți cum pri^virea lor [G]vrea să te [D]fure
+
 Refren:
-[G]Noaptea-n ei [D]țese [Em]ie
-[G]Zburătorii [D]ca să [Em]vie
-[G]Noaptea-n ei [D]țese [Em]ie
-Nimeni [G]urma [D]să le-o [Em]știe
-[Em]Fată verde [G]ei te să[D]rută
-[Em]Cu privirea [G]lor cea [D]mută
-[Em]Ochii negri, [G]ochi de [D]țigan
-Refren:
+[C]Noaptea-n [G]ei [D]țese [Em]ie
+[C]Zbură[G]torii [D]ca să [Em]vie
+[C]Noaptea-n [G]ei [D]țese [Em]ie
+[C]Nimeni [G]urma [D]să le-o [Em]știe
+
+[Em]Fată ^verde [G]ei te să[D]rută
+[Em]Cu pri^virea [G]lor cea [D]mută
+[Em]Ochii ^negri, [G]ochi de [D]țigan
+
+Refren
+
+Bridge:
 [D]Umezi sunt de [G]dor
-Și-al lor [C]vis [G]plin de [Am]zbor
+Și-al lor [C]vis [G]plin de [D]zbor
 [D]Noaptea-n ei se [G]scaldă
-În scli[C]piri [G]ca de [Am]salbă
+În scli[C]piri [G]ca de [D]salbă
+[C]În scli[G]piri de [D]salbă
+
+/[Em]Fată ^verde cu [G]părul pă[D]dure/ x2
+[Em]Simți cum pri^virea lor [G]vrea să te [D]fure
+
+Refren x3
 ```
 
 #### Fluier în cer
@@ -32649,7 +32652,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul (I)](#cerul-și-pământul-i), [Cerul și pământul (II)](#cerul-și-pământul-ii), [Cerul și pământul (III)](#cerul-și-pământul-iii), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine (I)](#deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#deschide-ușa-creștine-ii), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr (I)](#flori-de-măr-i), [Flori de măr (II)](#flori-de-măr-ii), [Florile dalbe (I)](#florile-dalbe-i), [Florile dalbe (II)](#florile-dalbe-ii), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
 - **Ștefan Hrușcă / Adrian Păunescu** — [Tu Ardeal](#tu-ardeal)
 - **Stigma** — [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
-- **Stroe și Vasilache** — [Du-mă acasă mai tramvai](#du-mă-acasă-mai-tramvai)
+- **Stroe și Vasilache** — [Du-mă acasă măi tramvai](#du-mă-acasă-măi-tramvai)
 - **Supa & Maria** — [Tropa trop](#tropa-trop)
 - **Taine Folk** — [Cântec uitat de lume](#cântec-uitat-de-lume)
 - **Taking Heads** — [Road to Nowhere](#road-to-nowhere)

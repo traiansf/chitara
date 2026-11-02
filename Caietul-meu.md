@@ -76,6 +76,7 @@
 
 - Așa beu oamenii buni [C]
 - Carolina [C]
+- Du-mă acasă măi tramvai [Dm]
 - Hai, mândruțo! [C]
 - M-am dus să tai un copac [C]
 - Ne-am cunoscut în troleibuz [C]
@@ -144,6 +145,7 @@
 - Ciobănaș cu trei sute de oi [C]
 - Dacă pleci [F]
 - Dragă Otee [Am]
+- Fata din vis [C]
 
 - Alunelul [C]
 - Cucul [C]
