@@ -147,3 +147,7 @@
 - Cucul [C]
 - Cucule pasăre grasă [C]
 - În pădurea cu alune [C]
+- Podul de piatră [C]
+- Țăranul e pe câmp [F]
+- Un elefant... [C]
+- Zece membri de partid [C]

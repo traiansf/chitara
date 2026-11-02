@@ -24,18 +24,18 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (170 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (171 cântece)
 
 - [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (18 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
-- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (31 cântece)
+- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (288 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (287 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (80 cântece)
-- [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (9 cântece)
+- [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
 
@@ -229,6 +229,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Trăiască berea](#trăiască-berea)
 - [Un kil de rom](#un-kil-de-rom)
 - [Viață de vagabond](#viață-de-vagabond)
+- [Zece membri de partid](#zece-membri-de-partid)
 
 ### II.1 — Folk (alfabetic)
 
@@ -525,7 +526,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Podul de piatră](#podul-de-piatră)
 - [Țăranul e pe câmp](#țăranul-e-pe-câmp)
 - [Un elefant...](#un-elefant)
-- [Zece negri mititei](#zece-negri-mititei)
 
 ### Partea a III-a — Repertoriu internațional (alfabetic)
 
@@ -8589,6 +8589,73 @@ Refren
 
 Refren
 ```
+
+#### Zece membri de partid
+
+muzica/versuri: din folclor · Sursa: Cărticica Karban, p. 261 · [poeziile.com](https://www.poeziile.com/autori/Alexandru-Teodoreanu/zece-membri-de-partid-29.php)
+
+**Chitară:** C x32010 · F 133211 · G 320003
+
+**Ukulele:** C 0003 · F 2010 · G 0232
+
+```text
+[C]Zece membri ^de partid
+[F]Visau viață [C]nouă,
+[G]Unul a vor[C]bit în vis.
+[G]Și-au rămas doar [C]nouă!
+
+[C]Nouă membri ^de partid
+[F]De marxism s-au [C]copt!
+[G]Unul s-a răs[C]copt din ei.
+[G]Și-au rămas doar [C]opt!
+
+[C]Opt membri ^de partid
+[F]Au trecut la [C]fapte
+[G]Unul a tre[C]cut la Tito!
+[G]Și-au rămas doar [C]șapte!
+
+[C]Șapte membri ^de partid
+[F]Fac afaceri [C]grase.
+[G]Unul a in[C]trat la zdup
+[G]Și-au rămas doar [C]șase!
+
+[C]Șase membri ^de partid
+[F]Au strigat lo[C]zinci.
+[G]Unul a stri[C]gat greșit
+[G]Și-au rămas doar [C]cinci!
+
+[C]Cinci membri ^de partid
+[F]Când au fost la [C]teatru.
+[G]Unul n-a a[C]plaudat
+[G]Și-au rămas doar [C]patru!
+
+[C]Patru membri ^de partid
+[F]Și cam toți o[C]vrei,
+[G]Unul a ple[C]cat în Ereț
+[G]Și-au rămas doar [C]trei!
+
+[C]Trei membri ^de partid
+[F]Vorbeau de răz[C]boi!
+[G]Unul a vor[C]bit cam mult,
+[G]Și-au rămas doar [C]doi!
+
+[C]Doi membri ^de partid
+[F]Mândri ca pă[C]unul.
+[G]Unul a în[C]nebunit,
+[G]Și-a rămas doar [C]unul!
+
+[C]Un membru ^de partid,
+[F]Cel mai lămu[C]rit.
+[G]A plecat cu [C]Onete-ul
+[G]Și n-a mai ve[C]nit!
+
+[C]Zero membri ^de partid,
+[F]Luptă pentru [C]pace.
+[G]Că partidul [C]nostru drag
+[G]Știe el ce [C]face!
+```
+
+Notă: Măsura 2/4.
 
 ---
 
@@ -21365,12 +21432,13 @@ muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
-[C]Podul de piatra [G]s-a dărâ[C]mat.
-[C]A venit apa [G]și l-a lu[C]at
+[C]Podul de ^piatră [G]s-a dărâ[C]mat.
+[C]A venit ^apa [G]și l-a lu[C]at
 [F]Vom face [C]altul pe [G]râu în [C]jos.
 [F]Altul mai [C]trainic [G]și mai fru[C]mos.
-[C]Să stam la gânduri, [G]a chib[C]zui,
-[C]Din ce anume [G]îl vom zi[C]di:
+
+[C]Să stăm la ^gânduri, [G]a chib[C]zui,
+[C]Din ce a^nume [G]îl vom zi[C]di:
 [F]Din cara[C]mida, [G]din lemn cio[C]plit,
 [F]Din fier cu [C]nituri [G]sau din gra[C]nit?
 ```
@@ -21386,22 +21454,38 @@ Sursa: Cărticica Karban, p. 260
 **Ukulele:** F 2010 · C7 0001
 
 ```text
-[F]Țăranul e pe câmp, țăranul e pe câmp,
-Hei, hai lelita mea, [C7]țăranul e pe [F]câmp.
-[F]El are o nevasta, el are o nevasta,
-Hei, hai lelita mea, [C7]el are o ne[F]vasta.
-[F]Ea are un copil, ea are un copil,
-Hei, hai lelita mea, [C7]ea are un co[F]pil.
-[F]Copilul un cățel, copilul un cățel,
-Hei, hai lelita mea, [C7]copilul un că[F]țel.
-[F]Cățelul o pisică, cățelul o pisică,
-Hei, hai lelita mea, [C7]cățelul o pi[F]sică.
-[F]Pisică prindea șoareci, pisică prindea șoareci,
-Hei, hai lelita mea, [C7]pisică prindea [F]șoareci.
-[F]Și șoarecii la brânză, și șoarecii la brânză,
-Hei, hai lelita mea, și [C7]șoarecii la [F]brânză.
-[F]Și brânză la gunoi, și brânză la gunoi,
-Hei, hai lelita mea, și [C7]brânză la gu[F]noi.
+/Ță[F]ranul e pe ^câmp,/ x2
+[F]Hei, hai le^lița mea, ță[C7]ranul e pe [F]câmp.
+
+/El [F]are o ne^vastă/ x2
+[F]Hei, hai le^lița mea, El [C7]are o ne[F]vastă.
+
+/Ne[F]vasta un co^pil/ x2
+[F]Hei, hai le^lița mea, ne[C7]vasta un co[F]pil.
+
+/Co[F]pilul o dă^dacă/ x2
+[F]Hei, hai le^lița mea, co[C7]pilul o dă[F]dacă.
+
+/Dă[F]daca un pi^soi/ x2
+[F]Hei, hai le^lița mea, dă[C7]daca un pi[F]soi.
+
+/Pi[F]soiul prinde ^șoareci/ x2
+[F]Hei, hai le^lița mea, pi[C7]soiul prinde [F]șoareci.
+
+/Și [F]șoarecii la ^brânză/ x2
+[F]Hei, hai le^lița mea, și [C7]șoarecii la [F]brânză.
+
+/Și [F]brânza la bu^toi/ x2
+[F]Hei, hai le^lița mea, și [C7]brânza la bu[F]toi.
+
+/Bu[F]toiu'-i în că^mară/ x2
+[F]Hei, hai le^lița mea, bu[C7]toiu'-i în că[F]mară.
+
+/Că[F]mara-i încu^iată/ x2
+[F]Hei, hai le^lița mea, că[C7]mara-i încu[F]iată.
+
+/Și [F]cheia-i la ță^ran/ x2
+[F]Hei, hai le^lița mea, și [C7]cheia-i la ță[F]ran.
 ```
 
 Notă: Măsura 4/4.
@@ -21415,78 +21499,31 @@ muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 261
 **Ukulele:** D 2220 · A7 0100
 
 ```text
-[D]Un elefant se legana
-Pe o pânză de păian[A7]jen
-Și fiindcă ea nu se rupea
-A mai chemat un ele[D]fant.
-[D]Un, ^Doi
-[D]Doi elefanți se legănau
-Pe o pânză de păian[A7]jen
-Și fiindcă ea nu se rupea
-Au mai chemat un ele[D]fant.
-[D]Un, ^Doi, ^Trei
-[D]Trei elefanți se legănau
-Pe o pânză de păian[A7]jen
-Și fiindcă ea nu se rupea
-Au mai chemat un ele[D]fant.
-[D]Un, ^Doi, ^Trei, ^Patru
-s.a.m.d. cred că până la 10 elefanți...
+[D]Un ele^fant ^se legă^na
+[D]Pe o ^pânză de pă[A7]ian^jen
+[A7]Și fiindcă ^ea ^nu se ru^pea
+[A7]A mai che^mat un ele[D]fant.
+
+Un, [D]Doi
+
+[D]Doi ele^fanți ^se legă^nau
+[D]Pe o ^pânză de pă[A7]ian^jen
+[A7]Și fiindcă ^ea ^nu se ru^pea
+[A7]Au mai che^mat un ele[D]fant.
+
+Un, [D]Doi, ^Trei
 ```
 
-#### Zece negri mititei
-
-muzica/versuri: din folclorul copiilor · Sursa: Cărticica Karban, p. 261
-
-**Chitară:** C x32010 · F 133211 · G 320003
-
-**Ukulele:** C 0003 · F 2010 · G 0232
+ș.a.m.d. până la 10 elefanți...
 
 ```text
-[C]Un negru mititel
-[F]S-a-nsurat o[C]dată
-[G]Și nevasta [C]i-a făcut
-[G]Zece negri-[C]o dată.
-[C]Zece negri mititei
-[F]S-au jucat în [C]roua,
-[G]Unul a căzut [C]din ei,
-[G]Și-au rămas doar [C]nouă.
-[C]Nouă negri mititei
-[F]Mâncă porumb [C]copt,
-[G]Unul s-a-necat [C]din ei,
-[G]Și-au rămas doar [C]opt.
-[C]Opt negri mititei
-[F]Beau cafea cu [C]lapte,
-[G]Unul s-a-necat [C]din ei,
-[G]Și-au rămas doar [C]șapte.
-[C]Șapte negri mititei
-[F]S-au dus la [C]Tănase,
-[G]Unul a murit [C]de râs,
-[G]Și-au rămas doar [C]sase.
-[C]Sase negri mititei
-[F]Au încălțat [C]opinci,
-[G]Unul s-a-mpiedicat [C]din ei,
-[G]Și-au rămas doar [C]cinci.
-[C]Cinci negri mititei
-[F]S-au dus la [C]teatru
-[G]Unul s-a făcut [C]artist,
-[G]Și-au rămas doar [C]patru.
-[C]Patru negri mititei
-[F]S-au suit în [C]tei,
-[G]Unul a căzut [C]din ei,
-[G]Și-au rămas doar [C]trei.
-[C]Trei negri mititei
-[F]S-au dus la [C]oi,
-[G]Unul s-a făcut [C]cioban,
-[G]Și-au rămas doar [C]doi.
-[C]Doi negri mititei
-[F]Au tras cu [C]tunul,
-[G]Unul s-a-mpuscat din ei,
-[G]Și-a rămas doar unul.
-[C]Un negru mititel
-[F]S-a-nsurat odată...
-```
+[D]Zece ele^fanți ^se legă^nau
+[D]Pe o ^pânză de pă[A7]ian^jen
+[A7]Și pentru ^că ^pânza s-a ^rupt
+[A7]Toți ele^fanții au că[D]zut.
 
-Notă: Măsura 2/4.
+[D]Buf!
+```
 
 ---
 
