@@ -31,10 +31,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (33 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (286 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (284 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (79 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (77 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -458,9 +458,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Dragă Otee](#dragă-otee)
 - [Ești așa frumoasă](#ești-așa-frumoasă)
 - [Fata din vis](#fata-din-vis)
-- [Fată verde (I)](#fată-verde-i)
-- [Fată verde (II)](#fată-verde-ii)
-- [Fată verde (III)](#fată-verde-iii)
 - [Fluier în cer](#fluier-în-cer)
 - [Hăituit](#hăituit)
 - [Îmi pare rău](#îmi-pare-rău)
@@ -482,6 +479,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Nunta (II)](#nunta-ii)
 - [Oameni](#oameni)
 - [Obsesia](#obsesia)
+- [Ochi negri, ochi de țigan](#ochi-negri-ochi-de-țigan)
 - [Ochii tăi (I)](#ochii-tăi-i)
 - [Ochii tăi (II)](#ochii-tăi-ii)
 - [Păsări de fum](#păsări-de-fum)
@@ -18684,117 +18682,6 @@ Voi [A]fi cu [D]tine,  [A]  [G]  [A]
 Voi [A]sta lânga [D]tine.  [G]  [A]
 ```
 
-#### Fată verde (I)
-
-**Phoenix** · Sursa: Caiet Christian Adventure, p. 74 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fata-verde-451)
-
-**Chitară:** Am x02210 · C x32010 · G 320003 · F 133211
-
-**Ukulele:** Am 2000 · C 0003 · G 0232 · F 2010
-
-```text
-Am          C     G
-Fată verde cu părul pădure
-Fată verde cu părul pădure
-Simți cu privirea lor vrea să te fure
-
-Refren:
- F        C G   Am
-Noaptea-n ei țese ie
-Zburătorii ca să vie
-Noaptea-n ei țese ie
-Nimeni urma să le-o știe
-
-Fată verde ei te sărută
-Cu privirea lor cea mută
-Ochii negrii, ochi de țigani
-
-Refren
-
-        G             C
-Bridge: Umezi sunt de dor
-          F         G
-Și-al lor vis plin de zbor
-G          C
-Noapte ei se scaldă
-În sclipiri ca de salbă
-      F      G
-În sclipiri de salbă
-
-Fată verde cu părul pădure
-Fată verde cu părul pădure
-Simți cum privirea lor vrea să te fure
-
-Refren
-```
-
-#### Fată verde (II)
-
-**Phoenix** · variantă a cântecului „Fată verde”, cu titlul „Ochi negri, ochi de țigan” · Sursa: Caiet cabană RO, p. 81 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/ochi-negri-ochi-de-tigan-8786)
-
-**Chitară:** Am x02210 · C x32010 · G 320003 · E 022100 · F 133211
-
-**Ukulele:** Am 2000 · C 0003 · G 0232 · E 4442 · F 2010
-
-```text
-Phoenix
-1.
-Am          C       G
-Fată verde cu părul pădure
-Fată verde cu părul pădure
-Simți cum privirea lor vrea să te fure.
-
-R:
-          Am       E         G       F       E
-Noaptea-n ei țese ie, nimeni urma să ne-o știe
-Noaptea-n ei țese ie, zburătorii ca să vie.
-    G           C             F      C     G
-Umezi sunt de dor și-al lor vis plin de zbor
-Noaptea-n ei se scaldă în priviri ca de salbă.
-
-2.
-Fată verde ei te sărută
-Cu privirea lor cea mută
-Ochii negri, ochi de țigan.
-```
-
-#### Fată verde (III)
-
-**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Caiet Christian Adventure, p. 74 · Cărticica Karban, p. 126 · Caiet cabană RO, p. 81 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/ochi-negri-ochi-de-tigan-8786)
-
-**Chitară:** Em 022000 · G 320003 · D xx0232 · C x32010 · Am x02210
-
-**Ukulele:** Em 0432 · G 0232 · D 2220 · C 0003 · Am 2000
-
-```text
-/[Em]Fată ^verde cu [G]părul pă[D]dure/ x2
-[Em]Simți cum pri^virea lor [G]vrea să te [D]fure
-
-Refren:
-[C]Noaptea-n [G]ei [D]țese [Em]ie
-[C]Zbură[G]torii [D]ca să [Em]vie
-[C]Noaptea-n [G]ei [D]țese [Em]ie
-[C]Nimeni [G]urma [D]să le-o [Em]știe
-
-[Em]Fată ^verde [G]ei te să[D]rută
-[Em]Cu pri^virea [G]lor cea [D]mută
-[Em]Ochii ^negri, [G]ochi de [D]țigan
-
-Refren
-
-Bridge:
-[D]Umezi sunt de [G]dor
-Și-al lor [C]vis [G]plin de [D]zbor
-[D]Noaptea-n ei se [G]scaldă
-În scli[C]piri [G]ca de [D]salbă
-[C]În scli[G]piri de [D]salbă
-
-/[Em]Fată ^verde cu [G]părul pă[D]dure/ x2
-[Em]Simți cum pri^virea lor [G]vrea să te [D]fure
-
-Refren x3
-```
-
 #### Fluier în cer
 
 **Phoenix** · Sursa: Caiet Christian Adventure, p. 79 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/fluier-in-cer-812)
@@ -19773,6 +19660,43 @@ Refren 3X
 ```
 
 Notă: La refren, `C#m` se prinde baré, în poziția a 4-a.
+
+#### Ochi negri, ochi de țigan
+
+**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Caiet Christian Adventure, p. 74 · Cărticica Karban, p. 126 · Caiet cabană RO, p. 81 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/ochi-negri-ochi-de-tigan-8786)
+
+**Chitară:** Em 022000 · G 320003 · D xx0232 · C x32010
+
+**Ukulele:** Em 0432 · G 0232 · D 2220 · C 0003
+
+```text
+/[Em]Fată ^verde cu [G]părul pă[D]dure/ x2
+[Em]Simți cum pri^virea lor [G]vrea să te [D]fure
+
+Refren:
+[C]Noaptea-n [G]ei [D]țese [Em]ie
+[C]Zbură[G]torii [D]ca să [Em]vie
+[C]Noaptea-n [G]ei [D]țese [Em]ie
+[C]Nimeni [G]urma [D]să le-o [Em]știe
+
+[Em]Fată ^verde [G]ei te să[D]rută
+[Em]Cu pri^virea [G]lor cea [D]mută
+[Em]Ochii ^negri, [G]ochi de [D]țigan
+
+Refren
+
+Bridge:
+[D]Umezi sunt de [G]dor
+Și-al lor [C]vis [G]plin de [D]zbor
+[D]Noaptea-n ei se [G]scaldă
+În scli[C]piri [G]ca de [D]salbă
+[C]În scli[G]piri de [D]salbă
+
+/[Em]Fată ^verde cu [G]părul pă[D]dure/ x2
+[Em]Simți cum pri^virea lor [G]vrea să te [D]fure
+
+Refren x3
+```
 
 #### Ochii tăi (I)
 
@@ -32614,7 +32538,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni](#ploaia-care-va-veni), [Proverbe](#proverbe), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan](#strada-popa-nan), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
-- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fată verde (I)](#fată-verde-i), [Fată verde (II)](#fată-verde-ii), [Fată verde (III)](#fată-verde-iii), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
+- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Ochi negri, ochi de țigan](#ochi-negri-ochi-de-țigan), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Canarul](#canarul)
 - **Pink Floyd** — [Another Brick in the Wall](#another-brick-in-the-wall), [Wish You Were Here](#wish-you-were-here)
 - **Poesis (Pasărea Colibri)** — [Cântec șoptit](#cântec-șoptit)
