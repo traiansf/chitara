@@ -142,6 +142,8 @@
 - Baby [Am]
 - Cântec pentru prieteni [C]
 - Ciobănaș cu trei sute de oi [C]
+- Dacă pleci [F]
+- Dragă Otee [Am]
 
 - Alunelul [C]
 - Cucul [C]

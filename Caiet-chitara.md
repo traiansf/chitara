@@ -8592,7 +8592,7 @@ Refren
 
 #### Zece membri de partid
 
-muzica/versuri: din folclor · Sursa: Cărticica Karban, p. 261 · [poeziile.com](https://www.poeziile.com/autori/Alexandru-Teodoreanu/zece-membri-de-partid-29.php)
+muzică/versuri: folclor/apocrifă atribuită lui Păstorel Teodoreanu · Sursa: Cărticica Karban, p. 261 · [poeziile.com](https://www.poeziile.com/autori/Alexandru-Teodoreanu/zece-membri-de-partid-29.php)
 
 **Chitară:** C x32010 · F 133211 · G 320003
 
@@ -18359,29 +18359,21 @@ Notă: Refrenul se poate înfrumuseța cu versuri finale diferite din strofele u
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220
 
 ```text
-G                      Em
-Vrei să pleci și să nu spui
-C       D
-Dar am aflat
-G                          Em
-Și-am să-ți pun eu pofta-n cui
-C           D
-Cum n-ai visat
+[G]Vrei... să pleci și ^să nu [Em]spui
+[C]Dar am a[D]flat
+[G]Și-am... să-ți pun eu ^pofta-n [Em]cui
+[C]Cum n-ai vi[D]sat
 
 Refren x2:
-G
-Dacă pleci, vreau să vin cu tine,
- D
-Dacă pleci, ia-mă și pe mine,
- C
-Dacă pleci,
-                          D                           G
-N-ai să poți trăi cu tot ce-a fost și nu mai vrei să știi !
+[G]Dacă pleci, ^vreau să vin cu tine,
+[D]Dacă pleci, ^ia-mă și pe mine,
+[C]Dacă pleci, ^n-ai să poți trăi
+cu [D]tot ce-a fost și nu mai vrei să [G]știi !
 
-Iar dacă te văd cumva
-Cu-altcineva
-Știi că n-am să pot uita
-Nu te-aș ierta.
+[G]Iar dacă te ^văd cum[Em]va
+[C]Cu-altcine[D]va
+[G]Știi că n-am să ^pot ui[Em]ta
+[C]Nu te-aș ier[D]ta.
 
 Refren x2
 ```
@@ -18429,11 +18421,13 @@ Refren x2
 [Em]Râșii [D]umbre iuți prin [Em]ramuri
 [Em]Bufniți [D]vestitorii [Em]nopții
 [Em]Corbii [D]negre [Em]flamuri
+
 [Em]Se [D]adunau
 [Em]Și jocul [D]începeau
 [Em]Munți [D]tremurau
 [Em]Ape [D]volburau[Em]
 He Heeee
+
 [Em]Ziua [D]fiind pe [Em]terminate
 [Em]Noaptea o [D]alunga [Em]departe
 [Em]Cu-ale [D]ei [Em]cohorte
@@ -18489,20 +18483,18 @@ Refren
 **Ukulele:** Em 0432 · C 0003 · D7 2223 · G 0232 · Am 2000 · B7 2322 · D 2220 · C#m 1104
 
 ```text
-[Em]Dragă O[C]tee, [D7]dulce mi[G]reasma
-[Am]La gura fe[Em]meie, la [B7]mijloc mi[Em]reasa
-[Em]Dragă O[C]tee, [D7]dulce mi[G]reasma
-[Am]La gura fe[Em]meie, la [B7]mijloc mi[Em]reasa
+/[Em]Dragă O[C]tee, [D7]dulce mi[G]reasmă
+[Am]La gura fe[Em]meie, la [B7]mijloc mi[Em]reasă/ x2
+
 (... vocea crescendo)
 [B7]Curge iz[Em]vorul, [D]grâul [G]răsare
 [Am]Acolo pe [Em]unde trec [B7]urmele [Em]tale
-[Em]Vălura [C]dorul [D7]des ca o [G]iarba
-[Am]Parcă răs[Em]punde,[B7]parcă în[Em]treabă
-[Em]Vălura [C]dorul [D7]des ca o [G]iarba
-[Am]Parcă răs[Em]punde,[B7]parcă în[Em]treabă
-Chitara I urmează progresia: C-G-B7-Em x2
-în timp ce chitara II:
+/[Em]Vălura [C]dorul [D7]des ca o [G]iarbă
+[Am]Parcă răs[Em]punde,[B7]parcă în[Em]treabă/ x2
 ```
+
+Chitara I urmează progresia: `C`-`G`-`B7`-`Em` x2
+în timp ce chitara II:
 
 ```tab
 S  S S  S  S S  S S S  S S S  S S S  S S S O O O
@@ -18522,54 +18514,57 @@ S  S S  S  S S  S S S  S S S  S S S  S S S P
 ```
 
 ```text
-[Em]Dragă O[C]tee, [D7]dulce mi[G]reasma
-[Am]La gura fe[Em]meie, la [B7]mijloc mi[Em]reasa
-[Em]Dragă O[C]tee, [D7]dulce mi[G]reasma
-[Am]La gura fe[Em]meie, la [B7]mijloc mi[Em]reasa
+/[Em]Dragă O[C]tee, [D7]dulce mi[G]reasmă
+[Am]La gura fe[Em]meie, la [B7]mijloc mi[Em]reasă./ x2
+
 [B7]Curge iz[Em]vorul, [D]grâul [G]răsare
 [Am]Acolo pe [Em]unde trec [B7]urmele [Em]tale
-[Em]Vălura [C]dorul [D7]des ca o [G]iarba
-[Am]Parcă răs[Em]punde,[B7]parcă în[Em]treabă
-[Em]Vălura [C]dorul [D7]des ca o [G]iarba
-[Am]Parcă răs[Em]punde,[B7]parcă în[Em]treabă
+/[Em]Vălura [C]dorul [D7]des ca o [G]iarbă
+[Am]Parcă răs[Em]punde,[B7]parcă în[Em]treabă/ x2
 ```
 
 Notă: Măsura 4/4. Transpus în `Em` (în original, probabil `C#m`). Legenda tabulaturii: O = optime, P = pătrime, S = șaisprezecime.
 
 #### Du-mă acasă mai tramvai
 
-**tradițional** · Sursa: Cărticica Karban, p. 197
+**Stroe și Vasilache** · Sursa: Cărticica Karban, p. 197
 
 **Chitară:** Dm xx0231 · Am x02210 · E 022100
 
 **Ukulele:** Dm 2210 · Am 2000 · E 4442
 
 ```text
-[Dm]Du-mă a[Am]casă [Dm]mai tram[Am]vai
+[Dm]Du-mă a[Am]casă [Dm]măi tram[Am]vai
 [Dm]Du-mă [Am]iute [E]ce mai [Am]stai
-[Dm]Du-mă [Am]la ca[Dm]suta [Am]mea
+[Dm]Du-mă [Am]la că[Dm]suța [Am]mea
 [Dm]Cu por[Am]tiță [E]și ciș[Am]mea
+
 [Dm]Noaptea se [Am]lasă [Dm]în maha[Am]la
 [Dm]Și câinii [Am]latră [E]e pus[Am]tiu
-[Dm]La o por[Am]tiță [Dm]sta cine[Am]va
+[Dm]La o por[Am]tiță [Dm]stă cine[Am]va
 [Dm]Și mă aș[Am]teaptă [E]ca să [Am]viu
-[Dm]Du-mă a[Am]casă [Dm]mai tram[Am]vai
+
+[Dm]Du-mă a[Am]casă [Dm]măi tram[Am]vai
 [Dm]Du-mă [Am]iute [E]ce mai [Am]stai
-[Dm]Du-mă [Am]la ca[Dm]suta [Am]mea
+[Dm]Du-mă [Am]la că[Dm]suța [Am]mea
 [Dm]Cu por[Am]tiță [E]și ciș[Am]mea
-[Dm]Dumi[Am]nica [Dm]dimi[Am]neata
+
+[Dm]Dumi[Am]nica [Dm]dimi[Am]neața
 [Dm]Ies co[Am]pii [E]mari și [Am]mici
-[Dm]Pe mai[Am]danul [Dm]lui Ma[Am]treata
-[Dm]Și se [Am]joacă [E]în ar[Am]sici
-[Dm]Coana [Am]Mita a [Dm]lui Mi[Am]trita
+[Dm]Pe mai[Am]danul [Dm]lui Mă[Am]treața
+[Dm]Și se [Am]joacă [E]în ar[Am]șici
+
+[Dm]Coana [Am]Mița a [Dm]lui Mi[Am]trița
 [Dm]Se cer[Am]ta c-[E]un precu[Am]peț
-[Dm]Pentr-un [Am]ou și-o [Dm]patla[Am]gica
+[Dm]Pentr-un [Am]ou și-o [Dm]pătla[Am]gică
 [Dm]Să-i mai [Am]scadă-un [E]pic din [Am]preț
-[Dm]De la [Am]crâșmă [Dm]lui Na[Am]ita
+
+[Dm]De la [Am]crâșma [Dm]lui Nă[Am]iță
 [Dm]Un-se [Am]vinde [E]tulbu[Am]rel
-[Dm]Iese [Am]unul [Dm]făcut [Am]crita
+[Dm]Iese [Am]unul [Dm]făcut [Am]criță
 [Dm]Cu țam[Am]balul [E]după [Am]el
-[Dm]C-așa e [Am]viata [Dm]de maha[Am]la
+
+[Dm]C-așa e [Am]viața [Dm]de maha[Am]la
 [Dm]Ruptă [Am]din i[E]nima [Am]mea
 ```
 
@@ -32654,6 +32649,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul (I)](#cerul-și-pământul-i), [Cerul și pământul (II)](#cerul-și-pământul-ii), [Cerul și pământul (III)](#cerul-și-pământul-iii), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine (I)](#deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#deschide-ușa-creștine-ii), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr (I)](#flori-de-măr-i), [Flori de măr (II)](#flori-de-măr-ii), [Florile dalbe (I)](#florile-dalbe-i), [Florile dalbe (II)](#florile-dalbe-ii), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
 - **Ștefan Hrușcă / Adrian Păunescu** — [Tu Ardeal](#tu-ardeal)
 - **Stigma** — [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
+- **Stroe și Vasilache** — [Du-mă acasă mai tramvai](#du-mă-acasă-mai-tramvai)
 - **Supa & Maria** — [Tropa trop](#tropa-trop)
 - **Taine Folk** — [Cântec uitat de lume](#cântec-uitat-de-lume)
 - **Taking Heads** — [Road to Nowhere](#road-to-nowhere)
@@ -32669,7 +32665,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Timpuri Noi** — [Mistrețul galben](#mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#munții-mei)
 - **Tradițional** — [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă (I)](#noapte-sfântă-i), [O, brad frumos! (I)](#o-brad-frumos-i)
-- **tradițional** — [Du-mă acasă mai tramvai](#du-mă-acasă-mai-tramvai), [La Mulți Ani!](#la-mulți-ani), [Moș Crăciun (I)](#moș-crăciun-i)
+- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Moș Crăciun (I)](#moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#suzana)
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
