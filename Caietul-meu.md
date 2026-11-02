@@ -18,7 +18,6 @@
 - Colo-n vale  [Dm]
 - Copil hoinar [C]
 - Copilul munților [C]
-- Cucul [C]
 - Dacă n-ai amintiri [C]
 - Dar nu-s normali [C]
 - Delirul [Dm]
@@ -144,4 +143,7 @@
 - Cântec pentru prieteni [C]
 - Ciobănaș cu trei sute de oi [C]
 
-- Casuta din pădure [C]
+- Alunelul [C]
+- Cucul [C]
+- Cucule pasăre grasă [C]
+- În pădurea cu alune [C]

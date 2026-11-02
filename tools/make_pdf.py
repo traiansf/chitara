@@ -50,6 +50,7 @@ SECTIONS = [("I.1", "Partea I — Cântece de cabană", "I.1 — De munte, de dr
             ("I.4", "Partea I — Cântece de cabană", "I.4 — Studențești și de chef"),
             ("II.1", "Partea a II-a — Repertoriu românesc", "II.1 — Folk"),
             ("II.2", "Partea a II-a — Repertoriu românesc", "II.2 — Ne-folk"),
+            ("II.3", "Partea a II-a — Repertoriu românesc", "II.3 — Cântece de copii și de grădiniță"),
             ("III", "Partea a III-a", "Repertoriu internațional"),
             ("IV.1", "Partea a IV-a — Colinde și cântece de iarnă", "IV.1 — Colinde românești"),
             ("IV.2", "Partea a IV-a — Colinde și cântece de iarnă", "IV.2 — Colinde internaționale"),

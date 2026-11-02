@@ -65,7 +65,7 @@
  },
  "Alunelul || Cărticica Karban, p. 255": {
   "motiv": "joc popular",
-  "sectiune": "II.2"
+  "sectiune": "II.3"
  },
  "Alții mama nu mai face || Caiet Christian Adventure, p. 13": {
   "motiv": "plecare la munte, sufletul în munți",
@@ -299,9 +299,9 @@
   "motiv": "folk metaforic",
   "sectiune": "II.1"
  },
- "Casuta din pădure || Cărticica Karban, p. 256": {
+ "În pădurea cu alune || Cărticica Karban, p. 256": {
   "motiv": "cântec de copii",
-  "sectiune": "II.2"
+  "sectiune": "II.3"
  },
  "Cavaleri ai mesei rotunde (I) || Cărticica Karban, p. 233": {
   "motiv": "vin, masa rotundă",
@@ -489,11 +489,11 @@
  },
  "Cucul || Cărticica Karban, p. 257": {
   "motiv": "populară, poiană",
-  "sectiune": "I.1"
+  "sectiune": "II.3"
  },
  "Cucule pasăre grasă || Cărticica Karban, p. 258": {
   "motiv": "populară",
-  "sectiune": "II.2"
+  "sectiune": "II.3"
  },
  "Când din crâșmă ai ieșit (Colind horror) || Colinde Karban, p. 109": {
   "motiv": "colind / cântec de iarnă",
@@ -1081,7 +1081,7 @@
  },
  "Iepuraș coconaș || Cărticica Karban, p. 259": {
   "motiv": "copii",
-  "sectiune": "II.2"
+  "sectiune": "II.3"
  },
  "Iertările || Cărticica Karban, p. 47": {
   "motiv": "folk",
@@ -1323,7 +1323,7 @@
   "motiv": "folk",
   "sectiune": "II.1"
  },
-  "Luna în cascade || Caiet Christian Adventure, p. 96": {
+ "Luna în cascade || Caiet Christian Adventure, p. 96": {
   "motiv": "aș fi vrut un munte, creste înalte",
   "sectiune": "I.1"
  },
@@ -1411,7 +1411,7 @@
   "motiv": "hazliu de autor",
   "sectiune": "II.1"
  },
-  "Mistrețul galben || Caiet Christian Adventure, p. 104": {
+ "Mistrețul galben || Caiet Christian Adventure, p. 104": {
   "motiv": "rock",
   "sectiune": "II.2"
  },
@@ -1817,7 +1817,7 @@
  },
  "Podul de piatră || Cărticica Karban, p. 259": {
   "motiv": "folclor prelucrat",
-  "sectiune": "II.2"
+  "sectiune": "II.3"
  },
  "Podul de piatră (Mircea Florian) || Cărticica Karban, p. 71": {
   "motiv": "folclor prelucrat",
@@ -2357,7 +2357,7 @@
  },
  "Un elefant... || Cărticica Karban, p. 261": {
   "motiv": "copii, numărătoare",
-  "sectiune": "II.2"
+  "sectiune": "II.3"
  },
  "Un kil de rom || Caiet Christian Adventure, p. 163": {
   "motiv": "un kil de rom",
@@ -2553,7 +2553,7 @@
  },
  "Zece negri mititei || Cărticica Karban, p. 261": {
   "motiv": "hazliu, în grup",
-  "sectiune": "I.4"
+  "sectiune": "II.3"
  },
  "Ziua || Caiet cabană RO, p. 63": {
   "motiv": "dragoste",
@@ -2665,6 +2665,6 @@
  },
  "Țăranul e pe câmp || Cărticica Karban, p. 260": {
   "motiv": "joc de copii",
-  "sectiune": "II.2"
+  "sectiune": "II.3"
  }
 }

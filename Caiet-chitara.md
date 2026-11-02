@@ -24,17 +24,18 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (172 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (170 cântece)
 
-- [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (105 cântece)
+- [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (18 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
-- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (32 cântece)
+- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (31 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (286 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (288 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (87 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (80 cântece)
+- [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (9 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
 
@@ -72,7 +73,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Colo-n vale](#colo-n-vale)
 - [Copil hoinar](#copil-hoinar)
 - [Copilul munților](#copilul-munților)
-- [Cucul](#cucul)
 - [Dacă n-ai amintiri](#dacă-n-ai-amintiri)
 - [Dacă vrei să pleci](#dacă-vrei-să-pleci)
 - [Dar nu-s normali](#dar-nu-s-normali)
@@ -229,7 +229,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Trăiască berea](#trăiască-berea)
 - [Un kil de rom](#un-kil-de-rom)
 - [Viață de vagabond](#viață-de-vagabond)
-- [Zece negri mititei](#zece-negri-mititei)
 
 ### II.1 — Folk (alfabetic)
 
@@ -436,7 +435,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 ### II.2 — Ne-folk (alfabetic)
 
 - [A ruginit frunza din vii](#a-ruginit-frunza-din-vii)
-- [Alunelul](#alunelul)
 - [Am doar 18 ani](#am-doar-18-ani)
 - [Am nevoie de tine](#am-nevoie-de-tine)
 - [Aproape de voi](#aproape-de-voi)
@@ -449,10 +447,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Călugărul din vechiul schit](#călugărul-din-vechiul-schit)
 - [Calul din Malboro](#calul-din-malboro)
 - [Cântec pentru prieteni](#cântec-pentru-prieteni)
-- [Casuta din pădure](#casuta-din-pădure)
 - [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi)
 - [Cu galeata în mână](#cu-galeata-în-mână)
-- [Cucule pasăre grasă](#cucule-pasăre-grasă)
 - [Dacă pleci](#dacă-pleci)
 - [Dacă vrei](#dacă-vrei)
 - [Dansul codrilor](#dansul-codrilor)
@@ -466,7 +462,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Fată verde (III)](#fată-verde-iii)
 - [Fluier în cer](#fluier-în-cer)
 - [Hăituit](#hăituit)
-- [Iepuraș coconaș](#iepuraș-coconaș)
 - [Îmi pare rău](#îmi-pare-rău)
 - [Jocul](#jocul)
 - [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
@@ -490,7 +485,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Ochii tăi (II)](#ochii-tăi-ii)
 - [Păsări de fum](#păsări-de-fum)
 - [Ploaia (Cargo)](#ploaia-cargo)
-- [Podul de piatră](#podul-de-piatră)
 - [Poveste](#poveste)
 - [Prietenii](#prietenii)
 - [Primavara - Paparuga](#primavara---paparuga)
@@ -507,7 +501,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Strada ta (II)](#strada-ta-ii)
 - [Strunga](#strunga)
 - [Supărat](#supărat)
-- [Țăranul e pe câmp](#țăranul-e-pe-câmp)
 - [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i)
 - [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii)
 - [Te voi aștepta](#te-voi-aștepta)
@@ -515,13 +508,24 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Timișoara](#timișoara)
 - [Trece vremea](#trece-vremea)
 - [Un alt început](#un-alt-început)
-- [Un elefant...](#un-elefant)
 - [Vara](#vara)
 - [Vine o zi](#vine-o-zi)
 - [Vis pierdut](#vis-pierdut)
 - [Voi pluti](#voi-pluti)
 - [Vreau o minune!](#vreau-o-minune)
 - [Zori de zi](#zori-de-zi)
+
+### II.3 — Cântece de copii și de grădiniță (alfabetic)
+
+- [Alunelul](#alunelul)
+- [Cucul](#cucul)
+- [Cucule pasăre grasă](#cucule-pasăre-grasă)
+- [Iepuraș coconaș](#iepuraș-coconaș)
+- [În pădurea cu alune](#în-pădurea-cu-alune)
+- [Podul de piatră](#podul-de-piatră)
+- [Țăranul e pe câmp](#țăranul-e-pe-câmp)
+- [Un elefant...](#un-elefant)
+- [Zece negri mititei](#zece-negri-mititei)
 
 ### Partea a III-a — Repertoriu internațional (alfabetic)
 
@@ -1796,49 +1800,6 @@ Pă[C]cat că [F]nu și [G]ceva ^bani
 C-aș [G]fi ve[F]nit mai [C]des. Cum ^măi? A^șa
 
 Refren
-```
-
-#### Cucul
-
-Sursa: Cărticica Karban, p. 257
-
-**Chitară:** D xx0232 · A7 x02020 · G 320003
-
-**Ukulele:** D 2220 · A7 0100 · G 0232
-
-Notă: Măsura 3/4.
-
-```text
-[D]În poiana ^verde,
-[A7]Veselie [D]multă,
-[D]Cu băieți și ^fete
-[A7]Cânta cucul, [D]cântă
-
-[G]Cu-cu, ^cu-cu!
-[D]A-ha, ^a-ha!
-/[D]O di ri di! ^O di ri di di na!
-[A7]O di ri di di na! [D]U-ha!/ x2
-
-[D]Auzi colo, ^cornul?
-[A7]El ni-i bun pri[D]eten,
-[D]Cântul lui tre^zește
-[A7]Codrul des de [D]cetini.
-
-Refren:
-
-[D]Ne răpește ^glasul
-[A7]Pe aripă [D]vântul,
-[D]Știe cucul, ^știe
-[A7]Ce șoptește [D]cântul.
-
-Refren:
-
-[D]Rând pe rând, alt ^cântec
-[A7]Printre ramuri [D]urcă
-[D]Și pornim cu ^toții
-[A7]Veselă ma[D]zurcă.
-
-Refren:
 ```
 
 #### Dacă n-ai amintiri
@@ -8628,61 +8589,6 @@ Refren
 
 Refren
 ```
-
-#### Zece negri mititei
-
-muzica/versuri: din folclorul copiilor · Sursa: Cărticica Karban, p. 261
-
-**Chitară:** C x32010 · F 133211 · G 320003
-
-**Ukulele:** C 0003 · F 2010 · G 0232
-
-```text
-[C]Un negru mititel
-[F]S-a-nsurat o[C]dată
-[G]Și nevasta [C]i-a făcut
-[G]Zece negri-[C]o dată.
-[C]Zece negri mititei
-[F]S-au jucat în [C]roua,
-[G]Unul a căzut [C]din ei,
-[G]Și-au rămas doar [C]nouă.
-[C]Nouă negri mititei
-[F]Mâncă porumb [C]copt,
-[G]Unul s-a-necat [C]din ei,
-[G]Și-au rămas doar [C]opt.
-[C]Opt negri mititei
-[F]Beau cafea cu [C]lapte,
-[G]Unul s-a-necat [C]din ei,
-[G]Și-au rămas doar [C]șapte.
-[C]Șapte negri mititei
-[F]S-au dus la [C]Tănase,
-[G]Unul a murit [C]de râs,
-[G]Și-au rămas doar [C]sase.
-[C]Sase negri mititei
-[F]Au încălțat [C]opinci,
-[G]Unul s-a-mpiedicat [C]din ei,
-[G]Și-au rămas doar [C]cinci.
-[C]Cinci negri mititei
-[F]S-au dus la [C]teatru
-[G]Unul s-a făcut [C]artist,
-[G]Și-au rămas doar [C]patru.
-[C]Patru negri mititei
-[F]S-au suit în [C]tei,
-[G]Unul a căzut [C]din ei,
-[G]Și-au rămas doar [C]trei.
-[C]Trei negri mititei
-[F]S-au dus la [C]oi,
-[G]Unul s-a făcut [C]cioban,
-[G]Și-au rămas doar [C]doi.
-[C]Doi negri mititei
-[F]Au tras cu [C]tunul,
-[G]Unul s-a-mpuscat din ei,
-[G]Și-a rămas doar unul.
-[C]Un negru mititel
-[F]S-a-nsurat odată...
-```
-
-Notă: Măsura 2/4.
 
 ---
 
@@ -17749,31 +17655,6 @@ Va trece [A]vara pe câm[D]pii,
 
 Notă: Măsura 3/4. Se recomandă acordurile barate, în loc de cele clasice: `D` xx0232, `Bm` 224432, `G` 355433, `A` 577655.
 
-#### Alunelul
-
-Sursa: Cărticica Karban, p. 255
-
-**Chitară:** D xx0232 · G 320003 · A x02220
-
-**Ukulele:** D 2220 · G 0232 · A 2100
-
-```text
-[D]Alunelu, alunelu, [G]hai la [D]joc!
-[D]Să ne fie, să ne fie [A]cu no[D]roc!
-[D]Cine-n [G]hora [A]o să [D]joace
-[D]Mare, [G]mare [A]se va [D]face!
-[D]Cine-n [G]hora [A]o să [D]joace
-[D]Mare, [G]mare [A]se va [D]face!
-[D]Alunelu, alunelu, [G]sus săl[D]tați!
-[D]Și la dreapta și la stângă, [A]haideți [D]frați.
-[D]Cine [G]n-o ju[A]ca și [D]el
-[D]Să ră[G]mână [A]miti[D]tel.
-[D]Cine [G]n-o ju[A]ca și [D]el
-[D]Să ră[G]mână [A]miti[D]tel.
-```
-
-Notă: Măsura 2/4.
-
 #### Am doar 18 ani
 
 **Vama Veche** · Sursa: Caiet Christian Adventure, p. 14
@@ -18311,50 +18192,6 @@ R:
 [D]  Ee[A]e, ee[G]e e[A]e
 ```
 
-#### Casuta din pădure
-
-muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
-
-**Chitară:** D xx0232 · A7 x02020 · G 320003
-
-**Ukulele:** D 2220 · A7 0100 · G 0232
-
-```text
-[D]În pă^durea ^cu a^lune,
-[A7]Aveau ^casă ^doi pi[D]tici.
-[D]Vine ^pupă^za și ^spune:
-"[A7]Vreau să ^stau și ^eu a[D]ici."
-
-/"[G]Pu-pu-^pu, [D]pu-pu-^pu,
-[A7]Vreau să ^stau și ^eu a[D]ici!"/ x2
-
-[D]Iată ^vine ^și-o bros^cuță,
-[A7]Țop-țop-^țop să^rind me[D]reu.
-"[D]Dacă ^e loc ^în că^suță,
-[A7]Tare-aș ^vrea să ^stau și [D]eu."
-
-/[G]Țop, țop, ^țop, [D]țop, țop, ^țop
-"[A7]Tare-aș ^vrea să ^stau și [D]eu."/ x2
-
-[D]Șori^celul ^strigă-n^dată:
-"[A7]Iată ^și eu ^am ve[D]nit.
-[D]Casa ^voastră ^e cu^rată.
-[A7]Noroc, ^bine ^v-am gă[D]sit!"
-
-/"[G]Chiț, chiț, chiț, [D]chiț, chiț, chiț,
-[A7]Noroc, ^bine ^v-am gă[D]sit!"/ x2
-
-[D]Și-n că^suța ^cea dră^guță
-[A7]Stau vreo ^cinci pri^eteni [D]mici.
-[D]Șori^celul ^și-o bros^cuță,
-[A7]Pupă^za și ^doi pi[D]tici.
-
-/[G]Tra-la-^la, [D]tra-la-^la,
-[A7]Stau vreo ^cinci pri^eteni [D]mici./ x2
-```
-
-Notă: Măsura 2/4.
-
 #### Ciobănaș cu trei sute de oi
 
 **Tradițional** · Sursa: Cărticica Karban, p. 203
@@ -18445,30 +18282,6 @@ Cu creierii fleci.[Riff 3 + Turnaround]
 ```
 
 Notă: Refrenul se poate înfrumuseța cu versuri finale diferite din strofele următoare și se poate cânta pe mai multe voci.
-
-#### Cucule pasăre grasă
-
-muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
-
-**Chitară:** C x32010 · G 320003 · F 133211
-
-**Ukulele:** C 0003 · G 0232 · F 2010
-
-```text
-/[C]Cucule pa[G]săre grasă, [C]cuc, (cu-cu)/ x2
-/[F]Ce tot cânți la [C]noi pe leasă,
-[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
-
-/[C]Ori ți-i foame [G]ori ți-i sete, [C]cuc, (cu-cu)/ x2
-/[F]Ori ți-i dor de [C]codrul verde,
-[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
-
-/[C]Nu mi-i foame [G]nici mi-i sete, [C]cuc, (cu-cu)/ x2
-/[F]Ci mi-i dor de [C]codrul verde,
-[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
-```
-
-Notă: Măsura 3/4.
 
 #### Dacă pleci
 
@@ -19024,27 +18837,6 @@ viu.
 ,         Hăituit de-acum, fără casă, fără drum,
 Hăituit, cumplit...
 ```
-
-#### Iepuraș coconaș
-
-muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
-
-**Chitară:** C x32010 · G 320003 · F 133211
-
-**Ukulele:** C 0003 · G 0232 · F 2010
-
-```text
-[C]Iepu[G]raș, [C]coco[G]naș
-[C]A fu[F]git pe[G]ste i[C]maș
-[C]Și s-a [G]dus [C]colo [G]sus.
-[F]Sub o [C]tufa [G]s-a as[C]cuns.
-[C]Dar Co[G]dau, [C]câine [G]rău,
-[C]L-a stâr[F]nit din [G]cuibul [C]sau
-[C]Și-a ple[G]cat [C]supă[G]rat,
-[F]În cel [C]codru-[G]ntune[C]cat.
-```
-
-Notă: Măsura 2/4.
 
 #### Îmi pare rău
 
@@ -20069,27 +19861,6 @@ Zău, îmi e greu
 Refren1 x2 + Refren2
 ```
 
-#### Podul de piatră
-
-muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
-
-**Chitară:** C x32010 · G 320003 · F 133211
-
-**Ukulele:** C 0003 · G 0232 · F 2010
-
-```text
-[C]Podul de piatra [G]s-a dărâ[C]mat.
-[C]A venit apa [G]și l-a lu[C]at
-[F]Vom face [C]altul pe [G]râu în [C]jos.
-[F]Altul mai [C]trainic [G]și mai fru[C]mos.
-[C]Să stam la gânduri, [G]a chib[C]zui,
-[C]Din ce anume [G]îl vom zi[C]di:
-[F]Din cara[C]mida, [G]din lemn cio[C]plit,
-[F]Din fier cu [C]nituri [G]sau din gra[C]nit?
-```
-
-Notă: Măsura 2/4.
-
 #### Poveste
 
 **Ștefan Banica Jr.** · muzica/versuri: Ștefan Banica Jr./Ștefan Banica Jr.? · Sursa: Cărticica Karban, p. 27
@@ -20865,35 +20636,6 @@ A||--0----------------0-----|-------------0-----------|-------------2-----------
 E||-------------------------|-------------------------|--0----------------0-----|-------------------------||
 ```
 
-#### Țăranul e pe câmp
-
-Sursa: Cărticica Karban, p. 260
-
-**Chitară:** F 133211 · C7 x32310
-
-**Ukulele:** F 2010 · C7 0001
-
-```text
-[F]Țăranul e pe câmp, țăranul e pe câmp,
-Hei, hai lelita mea, [C7]țăranul e pe [F]câmp.
-[F]El are o nevasta, el are o nevasta,
-Hei, hai lelita mea, [C7]el are o ne[F]vasta.
-[F]Ea are un copil, ea are un copil,
-Hei, hai lelita mea, [C7]ea are un co[F]pil.
-[F]Copilul un cățel, copilul un cățel,
-Hei, hai lelita mea, [C7]copilul un că[F]țel.
-[F]Cățelul o pisică, cățelul o pisică,
-Hei, hai lelita mea, [C7]cățelul o pi[F]sică.
-[F]Pisică prindea șoareci, pisică prindea șoareci,
-Hei, hai lelita mea, [C7]pisică prindea [F]șoareci.
-[F]Și șoarecii la brânză, și șoarecii la brânză,
-Hei, hai lelita mea, și [C7]șoarecii la [F]brânză.
-[F]Și brânză la gunoi, și brânză la gunoi,
-Hei, hai lelita mea, și [C7]brânză la gu[F]noi.
-```
-
-Notă: Măsura 4/4.
-
 #### Te întreb pe tine soare (I)
 
 **Phoenix** · Sursa: Caiet cabană RO, p. 82 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/te-intreb-pe-tine-soare-642)
@@ -21185,33 +20927,6 @@ Refren:
 
 Notă: La refren, `G` `Bm` `A` se execută cu câte o lovitură pe acord.
 
-#### Un elefant...
-
-muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 261
-
-**Chitară:** D xx0232 · A7 x02020
-
-**Ukulele:** D 2220 · A7 0100
-
-```text
-[D]Un elefant se legana
-Pe o pânză de păian[A7]jen
-Și fiindcă ea nu se rupea
-A mai chemat un ele[D]fant.
-[D]Un, ^Doi
-[D]Doi elefanți se legănau
-Pe o pânză de păian[A7]jen
-Și fiindcă ea nu se rupea
-Au mai chemat un ele[D]fant.
-[D]Un, ^Doi, ^Trei
-[D]Trei elefanți se legănau
-Pe o pânză de păian[A7]jen
-Și fiindcă ea nu se rupea
-Au mai chemat un ele[D]fant.
-[D]Un, ^Doi, ^Trei, ^Patru
-s.a.m.d. cred că până la 10 elefanți...
-```
-
 #### Vara
 
 **Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 125
@@ -21480,6 +21195,298 @@ Hei, hei, hei zei peste zei,
 Hei, hei , hei Soare scântei.
 Hai, hai , hai , hai sus pe cai.
 ```
+
+### II.3 — Cântece de copii și de grădiniță
+
+#### Alunelul
+
+Sursa: Cărticica Karban, p. 255
+
+**Chitară:** D xx0232 · G 320003 · A x02220
+
+**Ukulele:** D 2220 · G 0232 · A 2100
+
+```text
+/[D]Alunelu, alunelu, [G]hai la [D]joc!
+[D]Să ne fie, să ne fie [A]cu no[D]roc!/ x2
+
+Refren:
+[D]Cine-n [G]hora [A]o să [D]joace
+[D]Mare, [G]mare [A]se va [D]face!
+[D]Cine [G]n-o ju[A]ca de [D]fel
+[D]Să ră[G]mână [A]miti[D]tel.
+
+/[D]Alunelu, alunelu, [G]sus săl[D]tați!
+[D]Și la dreapta și la stângă, [A]haideți [D]frați./ x2
+
+Refren
+```
+
+Notă: Măsura 2/4.
+
+#### Cucul
+
+Sursa: Cărticica Karban, p. 257
+
+**Chitară:** D xx0232 · A7 x02020 · G 320003
+
+**Ukulele:** D 2220 · A7 0100 · G 0232
+
+Notă: Măsura 3/4.
+
+```text
+[D]În poiana ^verde,
+[A7]Veselie [D]multă,
+[D]Cu băieți și ^fete
+[A7]Cânta cucul, [D]cântă
+
+[G]Cu-cu, ^cu-cu!
+[D]A-ha, ^a-ha!
+/[D]O di ri di! ^O di ri di di na!
+[A7]O di ri di di na! [D]U-ha!/ x2
+
+[D]Auzi colo, ^cornul?
+[A7]El ni-i bun pri[D]eten,
+[D]Cântul lui tre^zește
+[A7]Codrul des de [D]cetini.
+
+Refren:
+
+[D]Ne răpește ^glasul
+[A7]Pe aripă [D]vântul,
+[D]Știe cucul, ^știe
+[A7]Ce șoptește [D]cântul.
+
+Refren:
+
+[D]Rând pe rând, alt ^cântec
+[A7]Printre ramuri [D]urcă
+[D]Și pornim cu ^toții
+[A7]Veselă ma[D]zurcă.
+
+Refren:
+```
+
+#### Cucule pasăre grasă
+
+muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
+
+**Chitară:** C x32010 · G 320003 · F 133211
+
+**Ukulele:** C 0003 · G 0232 · F 2010
+
+```text
+/[C]Cucule pa[G]săre grasă, [C]cuc, (cu-cu)/ x2
+/[F]Ce tot cânți la [C]noi pe leasă,
+[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
+
+/[C]Ori ți-i foame [G]ori ți-i sete, [C]cuc, (cu-cu)/ x2
+/[F]Ori ți-i dor de [C]codrul verde,
+[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
+
+/[C]Nu mi-i foame [G]nici mi-i sete, [C]cuc, (cu-cu)/ x2
+/[F]Ci mi-i dor de [C]codrul verde,
+[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
+```
+
+Notă: Măsura 3/4.
+
+#### Iepuraș coconaș
+
+muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
+
+**Chitară:** C x32010 · G 320003 · F 133211
+
+**Ukulele:** C 0003 · G 0232 · F 2010
+
+```text
+[C]Iepu[G]raș, [C]coco[G]naș
+[C]A fu[F]git pe[G]ste i[C]maș
+[C]Și s-a [G]dus [C]colo [G]sus.
+[F]Sub o [C]tufa [G]s-a as[C]cuns.
+[C]Dar Co[G]dau, [C]câine [G]rău,
+[C]L-a stâr[F]nit din [G]cuibul [C]sau
+[C]Și-a ple[G]cat [C]supă[G]rat,
+[F]În cel [C]codru-[G]ntune[C]cat.
+```
+
+Notă: Măsura 2/4.
+
+#### În pădurea cu alune
+
+muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
+
+**Chitară:** D xx0232 · A7 x02020 · G 320003
+
+**Ukulele:** D 2220 · A7 0100 · G 0232
+
+```text
+[D]În pă^durea ^cu a^lune,
+[A7]Aveau ^casă ^doi pi[D]tici.
+[D]Vine ^pupă^za și ^spune:
+"[A7]Vreau să ^stau și ^eu a[D]ici."
+
+/"[G]Pu-pu-^pu, [D]pu-pu-^pu,
+[A7]Vreau să ^stau și ^eu a[D]ici!"/ x2
+
+[D]Iată ^vine ^și-o bros^cuță,
+[A7]Țop-țop-^țop să^rind me[D]reu.
+"[D]Dacă ^e loc ^în că^suță,
+[A7]Tare-aș ^vrea să ^stau și [D]eu."
+
+/[G]Țop, țop, ^țop, [D]țop, țop, ^țop
+"[A7]Tare-aș ^vrea să ^stau și [D]eu."/ x2
+
+[D]Șori^celul ^strigă-n^dată:
+"[A7]Iată ^și eu ^am ve[D]nit.
+[D]Casa ^voastră ^e cu^rată.
+[A7]Noroc, ^bine ^v-am gă[D]sit!"
+
+/"[G]Chiț, chiț, chiț, [D]chiț, chiț, chiț,
+[A7]Noroc, ^bine ^v-am gă[D]sit!"/ x2
+
+[D]Și-n că^suța ^cea dră^guță
+[A7]Stau vreo ^cinci pri^eteni [D]mici.
+[D]Șori^celul ^și-o bros^cuță,
+[A7]Pupă^za și ^doi pi[D]tici.
+
+/[G]Tra-la-^la, [D]tra-la-^la,
+[A7]Stau vreo ^cinci pri^eteni [D]mici./ x2
+```
+
+Notă: Măsura 2/4.
+
+#### Podul de piatră
+
+muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
+
+**Chitară:** C x32010 · G 320003 · F 133211
+
+**Ukulele:** C 0003 · G 0232 · F 2010
+
+```text
+[C]Podul de piatra [G]s-a dărâ[C]mat.
+[C]A venit apa [G]și l-a lu[C]at
+[F]Vom face [C]altul pe [G]râu în [C]jos.
+[F]Altul mai [C]trainic [G]și mai fru[C]mos.
+[C]Să stam la gânduri, [G]a chib[C]zui,
+[C]Din ce anume [G]îl vom zi[C]di:
+[F]Din cara[C]mida, [G]din lemn cio[C]plit,
+[F]Din fier cu [C]nituri [G]sau din gra[C]nit?
+```
+
+Notă: Măsura 2/4.
+
+#### Țăranul e pe câmp
+
+Sursa: Cărticica Karban, p. 260
+
+**Chitară:** F 133211 · C7 x32310
+
+**Ukulele:** F 2010 · C7 0001
+
+```text
+[F]Țăranul e pe câmp, țăranul e pe câmp,
+Hei, hai lelita mea, [C7]țăranul e pe [F]câmp.
+[F]El are o nevasta, el are o nevasta,
+Hei, hai lelita mea, [C7]el are o ne[F]vasta.
+[F]Ea are un copil, ea are un copil,
+Hei, hai lelita mea, [C7]ea are un co[F]pil.
+[F]Copilul un cățel, copilul un cățel,
+Hei, hai lelita mea, [C7]copilul un că[F]țel.
+[F]Cățelul o pisică, cățelul o pisică,
+Hei, hai lelita mea, [C7]cățelul o pi[F]sică.
+[F]Pisică prindea șoareci, pisică prindea șoareci,
+Hei, hai lelita mea, [C7]pisică prindea [F]șoareci.
+[F]Și șoarecii la brânză, și șoarecii la brânză,
+Hei, hai lelita mea, și [C7]șoarecii la [F]brânză.
+[F]Și brânză la gunoi, și brânză la gunoi,
+Hei, hai lelita mea, și [C7]brânză la gu[F]noi.
+```
+
+Notă: Măsura 4/4.
+
+#### Un elefant...
+
+muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 261
+
+**Chitară:** D xx0232 · A7 x02020
+
+**Ukulele:** D 2220 · A7 0100
+
+```text
+[D]Un elefant se legana
+Pe o pânză de păian[A7]jen
+Și fiindcă ea nu se rupea
+A mai chemat un ele[D]fant.
+[D]Un, ^Doi
+[D]Doi elefanți se legănau
+Pe o pânză de păian[A7]jen
+Și fiindcă ea nu se rupea
+Au mai chemat un ele[D]fant.
+[D]Un, ^Doi, ^Trei
+[D]Trei elefanți se legănau
+Pe o pânză de păian[A7]jen
+Și fiindcă ea nu se rupea
+Au mai chemat un ele[D]fant.
+[D]Un, ^Doi, ^Trei, ^Patru
+s.a.m.d. cred că până la 10 elefanți...
+```
+
+#### Zece negri mititei
+
+muzica/versuri: din folclorul copiilor · Sursa: Cărticica Karban, p. 261
+
+**Chitară:** C x32010 · F 133211 · G 320003
+
+**Ukulele:** C 0003 · F 2010 · G 0232
+
+```text
+[C]Un negru mititel
+[F]S-a-nsurat o[C]dată
+[G]Și nevasta [C]i-a făcut
+[G]Zece negri-[C]o dată.
+[C]Zece negri mititei
+[F]S-au jucat în [C]roua,
+[G]Unul a căzut [C]din ei,
+[G]Și-au rămas doar [C]nouă.
+[C]Nouă negri mititei
+[F]Mâncă porumb [C]copt,
+[G]Unul s-a-necat [C]din ei,
+[G]Și-au rămas doar [C]opt.
+[C]Opt negri mititei
+[F]Beau cafea cu [C]lapte,
+[G]Unul s-a-necat [C]din ei,
+[G]Și-au rămas doar [C]șapte.
+[C]Șapte negri mititei
+[F]S-au dus la [C]Tănase,
+[G]Unul a murit [C]de râs,
+[G]Și-au rămas doar [C]sase.
+[C]Sase negri mititei
+[F]Au încălțat [C]opinci,
+[G]Unul s-a-mpiedicat [C]din ei,
+[G]Și-au rămas doar [C]cinci.
+[C]Cinci negri mititei
+[F]S-au dus la [C]teatru
+[G]Unul s-a făcut [C]artist,
+[G]Și-au rămas doar [C]patru.
+[C]Patru negri mititei
+[F]S-au suit în [C]tei,
+[G]Unul a căzut [C]din ei,
+[G]Și-au rămas doar [C]trei.
+[C]Trei negri mititei
+[F]S-au dus la [C]oi,
+[G]Unul s-a făcut [C]cioban,
+[G]Și-au rămas doar [C]doi.
+[C]Doi negri mititei
+[F]Au tras cu [C]tunul,
+[G]Unul s-a-mpuscat din ei,
+[G]Și-a rămas doar unul.
+[C]Un negru mititel
+[F]S-a-nsurat odată...
+```
+
+Notă: Măsura 2/4.
 
 ---
 

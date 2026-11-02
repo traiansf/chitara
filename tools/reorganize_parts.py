@@ -24,6 +24,7 @@ PARTS = [
     ("II", "Partea a II-a", "Repertoriu românesc", [
         ("II.1", "Folk"),
         ("II.2", "Ne-folk"),
+        ("II.3", "Cântece de copii și de grădiniță"),
     ]),
     ("III", "Partea a III-a", "Repertoriu internațional", []),
     ("IV", "Partea a IV-a", "Colinde și cântece de iarnă", [
