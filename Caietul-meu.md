@@ -142,4 +142,6 @@
 - Astăzi și mâine [Gm]
 - Baby [Am]
 - Cântec pentru prieteni [C]
+- Ciobănaș cu trei sute de oi [C]
+
 - Casuta din pădure [C]

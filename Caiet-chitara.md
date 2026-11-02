@@ -18364,18 +18364,20 @@ Notă: Măsura 2/4.
 **Ukulele:** C 0003 · G7 0212 · F 2010 · D 2220 · A7 0100
 
 ```text
-[C]Ciobănaș cu [G7]trei sute de [C]oi,
-[C]Când vii și treci cu [F]turmă [G7]pe la [C]noi,
-[C]De-i vedea pe [F]mândra, [G7]dragă [C]mea,
-[C]Spune-i că m-am [G7]depărtat de [C]ea.
-[C]Când luna-apare dintre [G7]munți în [C]sus,
-[C]Pleacă-ți mândro [F]ochii [G7]cum ți-am [C]spus,
-[C]Spune-i numai [F]lui că [G7]mă iu[C]bești
-[C]Și-atunci mândr-o [G7]tot mai dragă-mi [C]ești.
-[C]Când soarele răsare dintr-[G7]un negru [C]nor,
-[C]Mă cuprinde [F]mândro [G7]al tău [C]dor,
-[C]Jale mi-e și [F]nu te [G7]pot [C]uita,
-[C]Dar n-am ce face [G7]c-așa-i soarta [C]mea.
+[C]Ciobă^naș cu [G7]trei su^te de [C]oi,  ^  ^  ^
+Când [C]vii și ^treci cu [F]turma [G7]pe la [C]noi,  ^  ^  ^
+/[C]De-i ve^dea pe [F]mândra, [G7]draga [C]mea,  ^  ^  ^
+[C]Spune-i ^că m-am [G7]depăr^tat de [C]ea.  ^  ^  ^/ x2
+
+Când [C]soarele ră^sare [G7]către ^munți în [C]sus,  ^  ^  ^
+[C]Pleacă-ți ^mândro [F]ochii [G7]cum ți-am [C]spus,  ^  ^  ^
+/[C]Spune-i ^numai [F]lui că [G7]mă iu[C]bești  ^  ^  ^
+[C]Și-atunci ^mândr-o [G7]tot mai ^dragă-mi [C]ești.  ^  ^  ^/ x2
+
+[C]Când soarele ră^sare [G7]dintr-un ^negru [C]nor,  ^  ^  ^
+[C]Mă cu^prinde [F]mândro [G7]al tău [C]dor,  ^  ^  ^
+/[C]Jale ^mi-e și [F]nu te [G7]pot ui[C]ta,  ^  ^  ^
+[C]N-am ce-ți ^face [G7]c-așa-i ^soarta [C]mea.  ^  ^  ^/ x2
 ```
 
 Notă: Măsura 3/4. Se poate folosi și progresia `D` `A7` `C` în locul celei `D` `G7` `F`.
@@ -18453,24 +18455,17 @@ muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
-[C]Cucule pa[G]săre grasă, [C]cuc,
-[C]Cucule pa[G]săre grasă, [C]cuc,
-[F]Ce tot cânți la [C]noi pe leasa,
-[F]Cuculeana [G]lugojeana, [C]cuc.
-[F]Ce tot cânți la [C]noi pe leasa,
-[F]Cuculeana [G]lugojeana, [C]cuc.
-[C]Ori ți-e foame [G]ori ți-e sete, [C]cuc,
-[C]Ori ți-e foame [G]ori ți-e sete, [C]cuc,
-[F]Ori ți-e dor de [C]codrul verde,
-[F]Cuculeana [G]lugojeana, [C]cuc.
-[F]Ori ți-e dor de [C]codrul verde,
-[F]Cuculeana [G]lugojeana, [C]cuc.
-[C]Nu mi-e foame [G]nici mi-e sete, [C]cuc,
-[C]Nu mi-e foame [G]nici mi-e sete, [C]cuc,
-[F]Ci mi-e dor de [C]codrul verde,
-[F]Cuculeana [G]lugojeana, [C]cuc.
-[F]Ci mi-e dor de [C]codrul verde,
-[F]Cuculeana [G]lugojeana, [C]cuc.
+/[C]Cucule pa[G]săre grasă, [C]cuc, (cu-cu)/ x2
+/[F]Ce tot cânți la [C]noi pe leasă,
+[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
+
+/[C]Ori ți-i foame [G]ori ți-i sete, [C]cuc, (cu-cu)/ x2
+/[F]Ori ți-i dor de [C]codrul verde,
+[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
+
+/[C]Nu mi-i foame [G]nici mi-i sete, [C]cuc, (cu-cu)/ x2
+/[F]Ci mi-i dor de [C]codrul verde,
+[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
 ```
 
 Notă: Măsura 3/4.
