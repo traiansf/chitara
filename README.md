@@ -1,6 +1,6 @@
 # Caiet de cântece pentru chitară
 
-Un caiet de **665 de cântece** cu acorduri — de cabană, folk românesc,
+Un caiet de **664 de cântece** cu acorduri — de cabană, folk românesc,
 repertoriu internațional și colinde — compilat din cinci culegeri tipărite și
 scanate.
 
@@ -18,14 +18,14 @@ transpunere a acordurilor)
 
 | Partea | Cântece |
 |---|---|
-| **I — Cântece de cabană** | **172** |
+| **I — Cântece de cabană** | **173** |
 | &nbsp;&nbsp;I.1 — De munte, de drum și de dor | 104 |
 | &nbsp;&nbsp;I.2 — Populare și lăutărești | 18 |
 | &nbsp;&nbsp;I.3 — Naționaliste și de dor de țară | 17 |
-| &nbsp;&nbsp;I.4 — Studențești și de chef | 33 |
-| **II — Repertoriu românesc** | **284** |
+| &nbsp;&nbsp;I.4 — Studențești și de chef | 34 |
+| **II — Repertoriu românesc** | **282** |
 | &nbsp;&nbsp;II.1 — Folk | 199 |
-| &nbsp;&nbsp;II.2 — Ne-folk | 77 |
+| &nbsp;&nbsp;II.2 — Ne-folk | 75 |
 | &nbsp;&nbsp;II.3 — Cântece de copii și de grădiniță | 8 |
 | III — Repertoriu internațional | 94 |
 | **IV — Colinde și cântece de iarnă** | **115** |

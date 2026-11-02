@@ -24,17 +24,17 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (172 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (173 cântece)
 
 - [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (18 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
-- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (33 cântece)
+- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (34 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (284 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (282 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (77 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (75 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -220,6 +220,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Hora bețivilor](#hora-bețivilor)
 - [În pădurea verde](#în-pădurea-verde)
 - [Jean frizerul](#jean-frizerul)
+- [La Mulți Ani!](#la-mulți-ani)
 - [M-am dus să tai un copac](#m-am-dus-să-tai-un-copac)
 - [Ne-am cunoscut în troleibuz](#ne-am-cunoscut-în-troleibuz)
 - [S-o facem lată](#s-o-facem-lată)
@@ -463,9 +464,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Îmi pare rău](#îmi-pare-rău)
 - [Jocul](#jocul)
 - [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
-- [La fereastra ta (I)](#la-fereastra-ta-i)
-- [La fereastra ta (II)](#la-fereastra-ta-ii)
-- [La Mulți Ani!](#la-mulți-ani)
+- [La fereastra ta](#la-fereastra-ta)
 - [Lângă mine](#lângă-mine)
 - [Mai stai](#mai-stai)
 - [Mama, mama](#mama-mama)
@@ -8253,6 +8252,91 @@ Cădeau încet, [G]treptat, treptatu.
 Veni și ziua cu-ngro[C]patu,
 Plangeau și caii de la [D]dricu,
 Plângea și ultimu [G]calicu.
+```
+
+#### La Mulți Ani!
+
+**tradițional** · Sursa: Cărticica Karban, p. 198
+
+**Chitară:** G 320003 · D xx0232 · D7 xx0212 · C x32010
+
+**Ukulele:** G 0232 · D 2220 · D7 2223 · C 0003
+
+```text
+[G]Mulți ani ^trăiască
+[G]Mulți ani ^trăiască
+[D]La [D7]mulți [G]ani!  ^
+[G]Cine să ^trăiască
+[G]Cine să ^trăiască
+[D]La [D7]mulți [G]ani!  ^
+[G]"Ionel" să ^trăiască
+[G]"Ionel" să ^trăiască
+[D]La [D7]mulți [G]ani!
+```
+
+măsură 3/4
+```text
+[D]La Mulți [G]Ani cu [D7]sănă[G]tate
+[D]Să vă dea [G]Domnul [D7]tot ce [G]doriți
+[D]Zile se[G]nine [D7]și feri[G]cire
+[D]La Mulți [C]Ani [D7]să tră[G]iți!
+[D]La Mulți [C]Ani [D7]să tră[G]iți!
+```
+
+în engleză
+```text
+[G]Happy Birthday to [D7]you!
+Happy Birthday to [G]you!
+Happy Birthday dear [C]"Someone" .
+[C]Happy [G]Birthday [D7]to [G]you!
+```
+
+în germană
+```text
+[G]Zum Geburtstag viel [D7]Glück!
+Zum Geburtstag viel [G]Glück!
+Wünschen wir dir lieber [C]="Someone"
+[C]Zum Ge[G]burtstag [D7]viel [G]Glück!
+```
+
+Variantă cu puțină solistică, plus acorduri:
+
+```tab
+e|--------------------------|-----------------3-------|
+B|------------------3-----3-|-5-------3---------------|
+G|--------------------------|-------------------------|
+D|--------------------------|-------------------------|
+A|--------------------------|-------------------------|
+E|--------------------------|-------------------------|
+1   .   2   .   3   .     1   .   2   .   3   .
+Ha - ppy Birth - day      to
+D7
+e|--2-------x---------------|-----------------5-------|
+B|--1-------x-------3-----3-|-5-------3---------------|
+G|--2-------x---------------|-------------------------|
+D|--0-------x---------------|-------------------------|
+A|--0-------x---------------|-------------------------|
+E|--------------------------|-------------------------|
+1   .   2   .   3   .     1   .   2   .   3   .
+You.            Ha - ppy Birth - day      to
+G
+e|--3-------x---------------|-10------7---------------|
+B|--0-------x---------------|-----------------8-------|
+G|--0-------x-------7-----7-|-------------------------|
+D|--0-------x---------------|-------------------------|
+A|--2-------x---------------|-------------------------|
+E|--3-----------------------|-------------------------|
+1   .   2   .   3   .     1   .   2   .   3   .
+You.            Ha - ppy Birth - day     dear
+D       C                                 D7        G
+e|--2-------0-------8-----8-|-7-------3-------5-------|-3---------
+B|--3-------1---------------|-----------------7-------|-0---------
+G|--2-------0---------------|-----------------5-------|-0---------
+D|----------2---------------|-------------------------|-0---------
+A|--------------------------|-------------------------|-2---------
+E|--------------------------|-------------------------|-3---------
+1   .   2   .   3   .     1   .   2   .   3   .     1   .   2
+Some - one.     Ha - ppy Birth - day      to       you
 ```
 
 #### M-am dus să tai un copac
@@ -18919,67 +19003,7 @@ Să [Am]crezi ca nici un rău nu te mai [Dm]poate atinge
 
 Notă: Pentru tonalitatea originală, capo în poziția a 2-a.
 
-#### La fereastra ta (I)
-
-**Semnal M** · Sursa: Caiet Christian Adventure, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/la-fereastra-ta-218)
-
-**Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · A x02220 · E 022100
-
-**Ukulele:** Em 0432 · B7 2322 · G 0232 · D 2220 · A 2100 · E 4442
-
-```text
-Em
-Văd, la fereastra ta târziu
-               B7
-O lumină și nu știu
-                     Em
-De ești trează sau visezi
-Văd, în spectacolul nocturn
-Cavaleri din vechiul turn
-Ce te-ndeamnă să-i urmezi
-
-Refren:
-
-G
-Și aș dori să pot intra
-                      D
-Să alung din preajma ta
-                            G
-Tot ce-i trist și tot ce-i rău
-Și aș dori să fiu acum
-O romanță cu parfum
-Să pot sta în părul tău
-
-Văd, la fereastra ta târziu
-O lumină și nu știu
-Dacă râzi sau dacă plângi
-Trec, și în drumu-mi nesfârșit
-Mă primesc cu-n bun venit
-Numai plopii cei nătângi
-
-Refren:
-
-Dar, am să mă întorc cândva
-Să alung din preajma ta
-Tot ce-i trist și tot ce-i rău.
-Și aș dori să pot să-ți spun
-O poveste de pe drum
-G G D
-Em
-Când visam sub geamul tău
-
-A
-Și aș dori să pot intra
-                      E
-Să alung din preajma ta
-                            A
-Tot ce-i trist și tot ce-i rău
-Și aș dori să fiu acum
-O romanță cu parfum
-Să pot sta în părul tău
-```
-
-#### La fereastra ta (II)
+#### La fereastra ta
 
 **Semnal M** · Sursa: Cărticica Karban, p. 141 · Caiet Christian Adventure, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/la-fereastra-ta-218)
 
@@ -19057,91 +19081,6 @@ Să pot [E7]sta în părul [A]tău
 ```
 
 Notă: Măsura 4/4; acordaj standard.
-
-#### La Mulți Ani!
-
-**tradițional** · Sursa: Cărticica Karban, p. 198
-
-**Chitară:** G 320003 · D xx0232 · D7 xx0212 · C x32010
-
-**Ukulele:** G 0232 · D 2220 · D7 2223 · C 0003
-
-```text
-[G]Mulți ani ^trăiască
-[G]Mulți ani ^trăiască
-[D]La [D7]mulți [G]ani!  ^
-[G]Cine să ^trăiască
-[G]Cine să ^trăiască
-[D]La [D7]mulți [G]ani!  ^
-[G]"Ionel" să ^trăiască
-[G]"Ionel" să ^trăiască
-[D]La [D7]mulți [G]ani!
-```
-
-măsură 3/4
-```text
-[D]La Mulți [G]Ani cu [D7]sănă[G]tate
-[D]Să vă dea [G]Domnul [D7]tot ce [G]doriți
-[D]Zile se[G]nine [D7]și feri[G]cire
-[D]La Mulți [C]Ani [D7]să tră[G]iți!
-[D]La Mulți [C]Ani [D7]să tră[G]iți!
-```
-
-în engleză
-```text
-[G]Happy Birthday to [D7]you!
-Happy Birthday to [G]you!
-Happy Birthday dear [C]"Someone" .
-[C]Happy [G]Birthday [D7]to [G]you!
-```
-
-în germană
-```text
-[G]Zum Geburtstag viel [D7]Glück!
-Zum Geburtstag viel [G]Glück!
-Wünschen wir dir lieber [C]="Someone"
-[C]Zum Ge[G]burtstag [D7]viel [G]Glück!
-```
-
-Variantă cu puțină solistică, plus acorduri:
-
-```tab
-e|--------------------------|-----------------3-------|
-B|------------------3-----3-|-5-------3---------------|
-G|--------------------------|-------------------------|
-D|--------------------------|-------------------------|
-A|--------------------------|-------------------------|
-E|--------------------------|-------------------------|
-1   .   2   .   3   .     1   .   2   .   3   .
-Ha - ppy Birth - day      to
-D7
-e|--2-------x---------------|-----------------5-------|
-B|--1-------x-------3-----3-|-5-------3---------------|
-G|--2-------x---------------|-------------------------|
-D|--0-------x---------------|-------------------------|
-A|--0-------x---------------|-------------------------|
-E|--------------------------|-------------------------|
-1   .   2   .   3   .     1   .   2   .   3   .
-You.            Ha - ppy Birth - day      to
-G
-e|--3-------x---------------|-10------7---------------|
-B|--0-------x---------------|-----------------8-------|
-G|--0-------x-------7-----7-|-------------------------|
-D|--0-------x---------------|-------------------------|
-A|--2-------x---------------|-------------------------|
-E|--3-----------------------|-------------------------|
-1   .   2   .   3   .     1   .   2   .   3   .
-You.            Ha - ppy Birth - day     dear
-D       C                                 D7        G
-e|--2-------0-------8-----8-|-7-------3-------5-------|-3---------
-B|--3-------1---------------|-----------------7-------|-0---------
-G|--2-------0---------------|-----------------5-------|-0---------
-D|----------2---------------|-------------------------|-0---------
-A|--------------------------|-------------------------|-2---------
-E|--------------------------|-------------------------|-3---------
-1   .   2   .   3   .     1   .   2   .   3   .     1   .   2
-Some - one.     Ha - ppy Birth - day      to       you
-```
 
 #### Lângă mine
 
@@ -32573,7 +32512,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Roșu și negru** — [Pseudofabula](#pseudofabula)
 - **Roza Vânturilor** — [Numai noi](#numai-noi)
 - **Scorpions** — [Holiday](#holiday), [Still Loving You](#still-loving-you), [Wind of Change](#wind-of-change)
-- **Semnal M** — [La fereastra ta (I)](#la-fereastra-ta-i), [La fereastra ta (II)](#la-fereastra-ta-ii), [Spune-mi cine ești (I)](#spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#spune-mi-cine-ești-ii)
+- **Semnal M** — [La fereastra ta](#la-fereastra-ta), [Spune-mi cine ești (I)](#spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#spune-mi-cine-ești-ii)
 - **Sentiment** — [Nu te mai iubesc](#nu-te-mai-iubesc)
 - **Simon & Garfunkel** — [Bye Bye Love](#bye-bye-love), [El Condor Pasa](#el-condor-pasa), [Mrs. Robinson](#mrs-robinson), [The Sound of Silence](#the-sound-of-silence)
 - **Skid Row** — [I Remember](#i-remember)
