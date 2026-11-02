@@ -8784,15 +8784,13 @@ Refren:
 
 #### Absurda ninsoare
 
-Sursa: Caiet cabană RO, p. 106
+**Ecoul** · versuri: Sorina Claudia Bloj · Sursa: Caiet cabană RO, p. 106
 
 **Chitară:** G 320003 · C x32010 · D xx0232
 
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
-Sorina Claudia Blaj
-
 1.
      G    C            G
 Întunericul se lasă ca o plasă
@@ -9857,7 +9855,7 @@ Caii sunt un ideal.
 
 #### Cana cu vin
 
-**Ecoul** · muzica/versuri: Sorina Claudia Blaj/Adrian Păunescu??? · Sursa: Cărticica Karban, p. 66 · Caiet cabană RO, p. 102
+**Ecoul** · versuri: Sorina Claudia Bloj · Sursa: Cărticica Karban, p. 66 · Caiet cabană RO, p. 102
 
 **Chitară:** C x32010 · Csus4 x33011 · G 320003 · F 133211 · C4 x33011
 
@@ -11031,7 +11029,7 @@ Pe [G]nume să-ți [A]spun
 
 #### Din copilărie
 
-**Grupul Ecoul** · muzica/versuri: Grupul Ecoul/??? · Sursa: Cărticica Karban, p. 65 · Caiet cabană RO, p. 100
+**Ecoul** · versuri: Sorina Claudia Bloj · Sursa: Cărticica Karban, p. 65 · Caiet cabană RO, p. 100
 
 **Chitară:** D xx0232 · G 320003 · A x02220
 
@@ -12651,15 +12649,13 @@ La acest riff se lovesc doar corzile de bass.
 
 #### Iubire-ideal
 
-Sursa: Caiet cabană RO, p. 103
+**Ecoul** · versuri: Sorina Claudia Bloj · Sursa: Caiet cabană RO, p. 103
 
 **Chitară:** A x02220 · D xx0232 · E 022100
 
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
-Ecoul
-
 1.
     A         D            A
 Nu mă privi iubite peste umăr
@@ -13144,14 +13140,13 @@ Dar sunt un "je t'aime, moi non plus".
 
 #### Lumină
 
-**Ecoul** · Sursa: Caiet cabană RO, p. 101 · Cărticica Karban, p. 68, p. 69 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/lumina-807)
+**Ecoul** · versuri: Sorina Claudia Bloj · Sursa: Caiet cabană RO, p. 101 · Cărticica Karban, p. 68, p. 69 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/vasile-seicaru/lumina-807)
 
 **Chitară:** Am x02210 · G 320003 · E 022100 · C x32010
 
 **Ukulele:** Am 2000 · G 0232 · E 4442 · C 0003
 
 ```text
-Sorina Claudia Blaj
 1.
 Lu[Am]mi^nă, lu^mi^nă
 Lu[G]mină pier[E]dută prin [Am]cre^engi
@@ -13896,7 +13891,7 @@ Dar ochii mi-au rămas de copil.
 
 #### Nu mă-ntreba
 
-**Ecoul** · muzica/versuri: Ecoul/??? · Sursa: Cărticica Karban, p. 70
+**Ecoul** · versuri: Sorina Claudia Bloj · Sursa: Cărticica Karban, p. 70
 
 **Chitară:** C x32010 · F 133211
 
@@ -16177,7 +16172,7 @@ TĂcut ca două boabe mari de grâu.
 
 #### Taina
 
-**Ecoul** · Sursa: Cărticica Karban, p. 67 · Caiet cabană RO, p. 104 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ecoul/taina-6942)
+**Ecoul** · versuri: Sorina Claudia Bloj · Sursa: Cărticica Karban, p. 67 · Caiet cabană RO, p. 104 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/ecoul/taina-6942)
 
 **Chitară:** D xx0232 · D7 xx0212 · G 320003 · A x02220
 
@@ -32582,7 +32577,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Dragoș și Sânziana Toma** — [Ce frumos e sus la munte](#ce-frumos-e-sus-la-munte), [Evadare](#evadare), [În codrul verde](#în-codrul-verde), [Mă întorc la tine, muntele meu drag](#mă-întorc-la-tine-muntele-meu-drag), [Vreau să trecem marea](#vreau-să-trecem-marea)
 - **Ducu Bertzi** — [Floare de colț](#floare-de-colț), [Când s-o-mpărțit norocu'](#când-s-o-mpărțit-norocu), [Cântec bătrânesc](#cântec-bătrânesc), [Dans](#dans), [Dragu-mii veselia](#dragu-mii-veselia), [Focul vânăt](#focul-vânăt), [Iertările](#iertările), [M-am îndrăgostit numai de ea](#m-am-îndrăgostit-numai-de-ea), [Nu am cer](#nu-am-cer), [Omul pădurii](#omul-pădurii), [Pe cine și câte cărări](#pe-cine-și-câte-cărări), [Săracă inima me' (I)](#săracă-inima-me-i), [Săracă inima me' (II)](#săracă-inima-me-ii), [Și de-ar fi](#și-de-ar-fi), [Suflet fără chei](#suflet-fără-chei), [Cheamă-ți gazdă](#cheamă-ți-gazdă), [Corindăm, corindăm (I)](#corindăm-corindăm-i), [Pe podele de nuiele](#pe-podele-de-nuiele), [Seara serilor](#seara-serilor), [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit), [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem), [Plecarea](#plecarea), [Scrisoare la-nceput de iarnă](#scrisoare-la-nceput-de-iarnă)
 - **Ducu Hotima** — [La tătă casa-i lumină](#la-tătă-casa-i-lumină)
-- **Ecoul** — [Cana cu vin](#cana-cu-vin), [Lumină](#lumină), [Nu mă-ntreba](#nu-mă-ntreba), [Taina](#taina)
+- **Ecoul** — [Absurda ninsoare](#absurda-ninsoare), [Cana cu vin](#cana-cu-vin), [Din copilărie](#din-copilărie), [Iubire-ideal](#iubire-ideal), [Lumină](#lumină), [Nu mă-ntreba](#nu-mă-ntreba), [Taina](#taina)
 - **Elvis Presley** — [Love Me Tender](#love-me-tender)
 - **Emeric Imre** — [Iubita mea, ți-am cumpărat un munte](#iubita-mea-ți-am-cumpărat-un-munte), [Nebunul de alb](#nebunul-de-alb)
 - **Eric Clapton** — [Layla](#layla), [Tears in Heaven](#tears-in-heaven), [Wonderful Tonight](#wonderful-tonight)
@@ -32591,7 +32586,6 @@ Notă: Măsura 4/4, ritm de swing.
 - **Focul viu** — [Focuri vii](#focuri-vii)
 - **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#ordinea-de-zi)
 - **Gh. Gheorghiu** — [Unde dragoste nu e, nimic nu e](#unde-dragoste-nu-e-nimic-nu-e)
-- **Grupul Ecoul** — [Din copilărie](#din-copilărie)
 - **Guns'n'roses** — [Don't Cry (I)](#dont-cry-i)
 - **Gun’n’Roses** — [Patience](#patience)
 - **Hara** — [Departe](#departe)
