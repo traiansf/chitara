@@ -18981,7 +18981,7 @@ Să pot sta în părul tău
 
 #### La fereastra ta (II)
 
-**Semnal M** · muzica/versuri: Semnal M/??? · Sursa: Cărticica Karban, p. 141
+**Semnal M** · Sursa: Cărticica Karban, p. 141 · Caiet Christian Adventure, p. 92 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/la-fereastra-ta-218)
 
 **Chitară:** Em 022000 · B7 x21202 · G 320003 · D xx0232 · E 022100 · A x02220 · E7 020100
 
@@ -19002,32 +19002,35 @@ Gtr I
 Notă: Săgețile dinaintea notelor indică arpegiere.
 
 ```text
-[Em]Văd, la fereastră ta târziu
-O lumină și nu [B7]știu
-De ești trează sau vi[Em]sezi
-[Em]Văd, în spectacolul nocturn
-Cavaleri din vechiul [B7]turn
-Ce te-ndeamnă să-i ur[Em]mezi
+[Em]Văd, la fe^reastra ta târ^ziu
+O lu[Em]mină și nu [B7]știu
+De ești [B7]trează sau vi[Em]sezi  ^
+[Em]Văd, în spec^tacolul noc^turn
+Cava[Em]leri din vechiul [B7]turn
+Ce te-n[B7]deamnă să-i ur[Em]mezi  ^
+
 Refren 1:
-[G]Și, aș dori să pot intra
-Să alung din preajma [D]ta
-Tot ce-i trist și tot ce-i [G]rău
-[G]Și, aș dori să fiu acum
-O romanță cu par[D]fum
-Să pot sta în părul [G]tău
-[Em]Văd, la fereastră ta târziu
-O lumină și nu [B7]știu
-Dacă râzi sau dacă [Em]plângi
-[Em]Trec, și în drumul nesfârșit
-Mă primesc cu bun [B7]venit
-Numai plopii cei nă[Em]tângi
+[G]Și, aș do^ri să pot in^tra
+Să a[G]lung din preajma [D]ta
+Tot ce-i [D]trist și tot ce-i [G]rău  ^
+[G]Și, aș do^ri să fiu a^cum
+O ro[G]manță cu par[D]fum
+Să pot [D]sta în părul [G]tău  ^
+
+[Em]Văd, la fe^reastra ta târ^ziu
+O lu[Em]mină și nu [B7]știu
+Dacă [B7]râzi sau dacă [Em]plângi  ^
+[Em]Trec, și în ^drumul nesfâr^șit
+Mă pri[Em]mesc cu bun [B7]venit
+Numai [B7]plopii cei nă[Em]tângi  ^
+
 Refren 2:
-[G]Dar, am să mă întorc cândva
-Să alung din preajma [D]ta
-Tot ce-i trist și tot ce-i [G]rău
-[G]Și, aș dori să pot să-ți spun
-O poveste de pe [D]drum
-Când visam sub geamul [G]tău
+[G]Dar, am să ^mă întorc când^va
+Să a[G]lung din preajma [D]ta
+Tot ce-i [D]trist și tot ce-i [G]rău  ^
+[G]Și, aș do^ri să pot să-ți ^spun
+O po[G]veste de pe [D]drum
+Când vi[D]sam sub geamul [G]tău
 ```
 
 Notă: Urmează o trecere de genul:
@@ -19042,13 +19045,14 @@ Notă: Urmează o trecere de genul:
 ```
 
 ```text
-G       Em   E
+[G]  [Em]   [E]
+
 Refren 3:
-[A]Și, aș dori să pot intra
-Să alung din preajma [E]ta
+[A]Și, aș do^ri să pot in^tra
+Să a[A]lung din preajma [E]ta
 Tot ce-i [E7]trist și tot ce-i [A]rău
-[A]Și, aș dori să fiu acum
-O romanță cu par[E]fum
+[A]Și, aș do^ri să fiu a^cum
+O ro[A]manță cu par[E]fum
 Să pot [E7]sta în părul [A]tău
 ```
 
@@ -19058,35 +19062,45 @@ Notă: Măsura 4/4; acordaj standard.
 
 **tradițional** · Sursa: Cărticica Karban, p. 198
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · D7 xx0212
+**Chitară:** G 320003 · D xx0232 · D7 xx0212 · C x32010
 
-**Ukulele:** G 0232 · D 2220 · C 0003 · D7 2223
+**Ukulele:** G 0232 · D 2220 · D7 2223 · C 0003
 
 ```text
-[G]Mulți ani trăia[D]scă
-[G]Mulți ani trăia[C]scă
-[G]La [D7]mulți [G]ani!
-[G]Cine să trăia[D]scă
-[G]Cine să trăia[C]scă
-[G]La [D7]mulți [G]ani!
-[G]"Ionel" să trăia[D]scă
-[G]"Ionel" să trăia[C]scă
-[G]La [D7]mulți [G]ani!
-[G]La Mulți Ani cu [D]sănă[G]tate
-Să vă dea [D7]Domnul tot ce [G]doriți
-Zile se[D7]nine și feri[G]cire
-La Mulți [C]Ani [D]să tră[G]iți!
-La Mulți [C]Ani [D]să tră[G]iți!
-Textul în engleza
+[G]Mulți ani ^trăiască
+[G]Mulți ani ^trăiască
+[D]La [D7]mulți [G]ani!  ^
+[G]Cine să ^trăiască
+[G]Cine să ^trăiască
+[D]La [D7]mulți [G]ani!  ^
+[G]"Ionel" să ^trăiască
+[G]"Ionel" să ^trăiască
+[D]La [D7]mulți [G]ani!
+```
+
+măsură 3/4
+```text
+[D]La Mulți [G]Ani cu [D7]sănă[G]tate
+[D]Să vă dea [G]Domnul [D7]tot ce [G]doriți
+[D]Zile se[G]nine [D7]și feri[G]cire
+[D]La Mulți [C]Ani [D7]să tră[G]iți!
+[D]La Mulți [C]Ani [D7]să tră[G]iți!
+```
+
+în engleză
+```text
 [G]Happy Birthday to [D7]you!
 Happy Birthday to [G]you!
 Happy Birthday dear [C]"Someone" .
-[G]Happy [D7]Birthday to [G]you!
-Textul în germană
+[C]Happy [G]Birthday [D7]to [G]you!
+```
+
+în germană
+```text
 [G]Zum Geburtstag viel [D7]Glück!
 Zum Geburtstag viel [G]Glück!
 Wünschen wir dir lieber [C]="Someone"
-[G]Zum Ge[D7]burtstag viel [G]Glück!
+[C]Zum Ge[G]burtstag [D7]viel [G]Glück!
 ```
 
 Variantă cu puțină solistică, plus acorduri:
@@ -19128,8 +19142,6 @@ E|--------------------------|-------------------------|-3---------
 1   .   2   .   3   .     1   .   2   .   3   .     1   .   2
 Some - one.     Ha - ppy Birth - day      to       you
 ```
-
-Notă: „Ionel” se înlocuiește cu numele sărbătoritului/sărbătoritei.
 
 #### Lângă mine
 

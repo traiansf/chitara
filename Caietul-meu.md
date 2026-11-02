@@ -146,6 +146,7 @@
 - Dacă pleci [F]
 - Dragă Otee [Am]
 - Fata din vis [C]
+- Ochii negri, ochi de țigan [Dm]
 
 - Alunelul [C]
 - Cucul [C]
