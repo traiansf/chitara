@@ -31,10 +31,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (34 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (282 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (281 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (75 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (74 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -474,8 +474,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Muzică și muzichia](#muzică-și-muzichia)
 - [Nu am chef azi](#nu-am-chef-azi)
 - [Nu-mi mai pasă](#nu-mi-mai-pasă)
-- [Nunta (I)](#nunta-i)
-- [Nunta (II)](#nunta-ii)
+- [Nunta](#nunta)
 - [Oameni](#oameni)
 - [Obsesia](#obsesia)
 - [Ochi negri, ochi de țigan](#ochi-negri-ochi-de-țigan)
@@ -8269,8 +8268,8 @@ Plângea și ultimu [G]calicu.
 [G]Cine să ^trăiască
 [G]Cine să ^trăiască
 [D]La [D7]mulți [G]ani!  ^
-[G]"Ionel" să ^trăiască
-[G]"Ionel" să ^trăiască
+"Io[G]nel" să ^trăiască
+"Io[G]nel" să ^trăiască
 [D]La [D7]mulți [G]ani!
 ```
 
@@ -8279,8 +8278,8 @@ măsură 3/4
 [D]La Mulți [G]Ani cu [D7]sănă[G]tate
 [D]Să vă dea [G]Domnul [D7]tot ce [G]doriți
 [D]Zile se[G]nine [D7]și feri[G]cire
-[D]La Mulți [C]Ani [D7]să tră[G]iți!
-[D]La Mulți [C]Ani [D7]să tră[G]iți!
+[D]La Mulți [G]Ani [D7]să tră[G]iți!
+[D]La Mulți [G]Ani [D7]să tră[G]iți!
 ```
 
 în engleză
@@ -19485,74 +19484,42 @@ Dar nu-mi mai [C]pasă
 etc...(fade ouț)
 ```
 
-#### Nunta (I)
+#### Nunta
 
-**Phoenix** · Sursa: Caiet Christian Adventure, p. 112 · Caiet cabană RO, p. 76 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/nunta-456)
+**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Caiet Christian Adventure, p. 112 · Caiet cabană RO, p. 76 · Cărticica Karban, p. 129 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/nunta-456)
 
-**Chitară:** A5 x02220 · G5 320003 · C5 x32010 · F5 133211 · D5 xx0232 · F#5 244322
+**Chitară:** A x02220 · G 320003 · C x32010 · F 133211 · D xx0232 · F# 244322
 
-**Ukulele:** A5 2100 · G5 0232 · C5 0003 · F5 2010 · D5 2220 · F#5 3121
+**Ukulele:** A 2100 · G 0232 · C 0003 · F 2010 · D 2220 · F# 3121
 
 ```text
-A5       G5  C5
-Bine-i mirelui
-F5             G5         A5
-Că nu-i nime-n lume ca mireasa lui
-A5      G5  C5
-Uită-te la ea
-F5          G5            A5
-Ruptă e din cer și mândră ca o stea
-A5          G5 C5  F5   G5     A5
-Și ce-o mai juca, șa la lai la la lai
-A5          G5 C5   F5   G5     A5
-Și ce-o mai cânta, șa la lai la la lai
+[A]Bine-i [G]mire[C]lui
+[F]Că nu-i nime-n [G]lume ca mi[A]reasa lui
+[A]Uită-[G]te la [C]ea
+[F]Ruptă e din [G]cer și mândră [A]ca o stea
+
+[A]Și ce-om [G]mai ju[C]ca,
+[F]șai lalala[G]lai la la [A]lalalai la
+[A]Și ce-om [G]mai cân[C]ta
+[F]șai lalala[G]lai la la [A]lalalai la
 
 Refren:
- A5       D5   C5  A5
-Ce-o mai rupe la opinci
-A5         D5      F#5
-Și-om face gropi adânci
-A5    D5    C5  A5
-Dară nu ne vom opri
-A5      D5      F#5
-Până în zori de zi
+[A]Ce-o mai [D]rupe [C]la o[A]pinci
+[A]Și-om face [D]gropi a[F#]dânci
+[A]Dară [D]nu ne [C]vom o[A]pri
+[A]Până în [D]zori de [F#]zi
 
-Nașii mirelui
-Le dau fragă, grână câmpului la la
-Iară nașii ei
-Roua norilor și florile de tei
-Și ce-o mai juca, șa la lai la la lai
-Și ce-o mai cânta, șa la lai la la lai
+[A]Nașii [G]mire[C]lui
+[F]Le dau fraga, [G]grână câmpu[A]lui la la
+[A]Iară [G]nașii [C]ei
+[F]Roua nori[G]lor și flori[A]le de tei
+
+[A]Și ce-om [G]mai ju[C]ca,
+[F]șai lalala[G]lai la la [A]lalalai la
+[A]Și ce-om [G]mai cân[C]ta
+[F]șai lalala[G]lai la la [A]lalalai la
 
 Refren
-```
-
-#### Nunta (II)
-
-**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 129
-
-**Chitară:** Am x02210 · C x32010 · F 133211 · G 320003
-
-**Ukulele:** Am 2000 · C 0003 · F 2010 · G 0232
-
-```text
-[Am]Bine-i mire[C]lui
-[F]Că nu-i nimeni-n lume [G]ca mireasa lui
-[Am]Uita-te la [C]ea
-[F]Ruptă e din cer și [G]mândra ca o stea.
-Refren:
-[Am]Mai, ce-om [C]mai juca
-[F]Lai, la, lai, [G]la, la, lai
-[Am]Și ce-om [C]mai cânta,
-[F]Lai, la, lai, [G]la, la, lai,
-[Am]Ce-om mai [C]rupe [F]la op[G]inci
-[Am]Și-om fa[C]ce [F]gropi adâ[G]nci
-[Am]Dară [C]nu ne [F]vom op[G]ri
-[Am]Până în [C]zori [F]de [G]zi.
-[Am]Nașii mire[C]lui,
-[F]Le duc fragă, grână [G]câmpului, la, la
-[Am]Iară nașii [C]ei
-[F]Roua norilor și [G]florile de tei.
 ```
 
 #### Oameni
@@ -32489,7 +32456,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni](#ploaia-care-va-veni), [Proverbe](#proverbe), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan](#strada-popa-nan), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
-- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta (I)](#nunta-i), [Nunta (II)](#nunta-ii), [Ochi negri, ochi de țigan](#ochi-negri-ochi-de-țigan), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
+- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta](#nunta), [Ochi negri, ochi de țigan](#ochi-negri-ochi-de-țigan), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Canarul](#canarul)
 - **Pink Floyd** — [Another Brick in the Wall](#another-brick-in-the-wall), [Wish You Were Here](#wish-you-were-here)
 - **Poesis (Pasărea Colibri)** — [Cântec șoptit](#cântec-șoptit)

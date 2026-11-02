@@ -57,6 +57,7 @@
 - De-ar fi mândra-n deal la cruce [C]
 - Frumoasă vecina noastră [C]
 - Inimă de țigancă [C]
+- La Mulți Ani! [C]
 - Mi-a zis mama că mi-o da [C]
 - Omul bun și pomul copt [C]
 - Șatra [Dm]
@@ -146,6 +147,8 @@
 - Dacă pleci [F]
 - Dragă Otee [Am]
 - Fata din vis [C]
+- La fereastra ta [Dm]
+- Nunta [A]
 - Ochi negri, ochi de țigan [Dm]
 
 - Alunelul [C]
