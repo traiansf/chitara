@@ -2707,9 +2707,9 @@ Pe-acest pământ de nori umbrit.
 
 **Dorel Moldovan** · Sursa: Caiet cabană RO, p. 18 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cantece-de-munte/din-copilarie-4448)
 
-**Chitară:** C x32010 · F 133211 · G 320003
+**Chitară:** C x32010 · F 133211 · G 320003 · G7 320001
 
-**Ukulele:** C 0003 · F 2010 · G 0232
+**Ukulele:** C 0003 · F 2010 · G 0232 · G7 0212
 
 ```text
 1.
@@ -17783,71 +17783,58 @@ Notă: Măsura 2/4.
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432
 
 ```text
-C              G
-Am doar optișpe’ani,
-      C               F
-Sunt nebun iubesc și nu am bani!
-C                    G
-Nimeni nu-mi stă în drum,
-C                         F
-Am șoseaua mea doar cu-n singur
-sens
-C              G
-Mă va duce undeva…
+1.
+[C]Am doar optișpe’[G]ani,
+Sunt ne[C]bun iubesc și [F]nu am bani!
+[C]Nimeni nu-mi stă în [G]drum,
+Am șo[C]seaua mea doar cu-n [F]singur sens
+Mă va [C]duce unde[G]va…
 
-Bacu l-am luat ușor,
-Am copiat la mate și la sport.
-Școala s-a terminat,
-Libertate frate, poate facultate, și viață
-de noapte
+[C]Bacu l-am luat u[G]șor,
+Am copi[C]at la mate [F]și la sport.
+[C]Școala s-a termi[G]nat,
+Liber[C]tate frate, poate [F]facultate,
+și via[C]ță de noap[G]te
 
 Refren:
+Visele [C]mele se împli[G]nesc
+Cât bat din [Em]palme sau cât [F]clipesc!
+Respir iu[C]bire, mănânc iu[G]bire,
+Vă dau la [Em]toți și vă molip[F]sesc.
 
-C
-Visele mele
-          G
-Se împlinesc
-            Em               F
-Cât bat din palme sau cât clipesc!
-Respir iubire
-Mănânc iubire,
-Vă dau la toți și vă molipsesc.
-Nimic în lume
-Nu ma oprește
-Să urlu tare sunt fericit!!!
-Nu-mi strigați ce să fac,
-Fiindcă timpu-i un ac
-Iară noi suntem ața din el!
+Nimic în [C]lume nu mă o[G]prește
+Să urlu [Em]tare sunt feri[F]cit!!!
+Nu-mi stri[C]gați ce să fac,
+Fiindcă [G]timpu-i un ac
+Iară [Em]noi suntem ața din [F]el!
 
-Ziua când te-am văzut
-Inima mi s-a urcat în gât,
-Și n-a mai coborât…
-Bate-acolo sus iar când te sărut,
-cinci bătăi
-în plus pe minut.
+2.
+[C]Ziua când te-am vă[G]zut
+Ini[C]ma mi s-a ur[F]cat în gât,
+[C]Și n-a mai cobo[G]rât…
+Bate-a[C]colo sus iar când [F]te sărut,
+cinci bă[C]tăi în plus pe mi[G]nut.
 
-Nu mai vreau altceva,
-Ochii verzi și părul tău mi-ajung.
-Stai nu te mai mișca!
-Asta-i poza noastră, 28
-februaurie, la metrou la gară
-ne iubiiiiimm!
+[C]Nu mai vreau altce[G]va,
+Ochii [C]verzi și părul [F]tău mi-ajung.
+[C]Stai nu te mai miș[G]ca!
+Asta-i [C]poza noastră, 2[F]8 februarie,
+la me[C]trou la gară ne iu[G]biiiiimm!
 
 Refren
 
-Numai pentru noi doi,
-Timpul să se-oprească într-o
-joi…
-Și să îl păcălim,
-Să-i dăm drumul din nou și să o
-ia din loc doar când o fi
-să ne despărțim!
+3.
+[C]Numai pentru noi [G]doi,
+Timpul [C]să se-oprească [F]într-o joi…
+[C]Și să îl păcă[G]lim,
+Să-i dăm [C]drumul din nou și să o [F]ia din loc
+doar când [C]o fi să ne despăr[G]țim!
 
-Lume cât te iubesc!
-Suflletul mi-e bombă explodez!
-Vise în mii de părți,
-Vi le fac cadou, împliniți-le voi ,
-Visul meu îl trăiesc chiar acum
+[C]Lume cât te iu[G]besc!
+Sufle[C]tul mi-e bombă [F]explodez!
+[C]Vise în mii de [G]părți,
+Vi le [C]fac cadou, împli[F]niți-le voi ,
+Visul [C]meu îl trăiesc chiar [G]acum
 
 Refren x2
 ```
@@ -17861,24 +17848,26 @@ Refren x2
 **Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100 · D# 0331 · Cm 0333 · G# 5343 · A# 3211
 
 ```text
-În [D]liniștea mea, mă [Bm]întreb de-aș putea
-Să te [G]simt aproape [A]din nou
-Îmi [D]revin amintiri, gânduri [Bm]ce vor veni
-Să-mi [G]aducă în suflet [A]un gol
-Îmi [D]lipsește curajul de a [Bm]spune ce simt
-[G]Nimic nu s-a [A]schimbat
-[D]Sentimente pierdute le-am [Bm]reîntâlnit
-De [G]atunci eu le-am [A]aflat
-Am nevoie de ti[D]ne[Bm]=[G] [A]
-Azi [D]încerc să m-ascund, încerc să [Bm]nu uit
-Mă [G]gândesc la tine mereu [A]
-Totu'-[D]mi pare tăcut, totu'-mi pare [Bm]pierdut
-De[G]vine tot  mai greu [A]
+În [D]liniștea mea, mă în[Bm]treb de-aș putea
+Să te [G]simt aproape din [A]nou
+Îmi re[D]vin amintiri, gânduri [Bm]ce vor veni
+Să-mi a[G]ducă în suflet un [A]gol
+Îmi lip[D]sește curajul de-a [Bm]spune ce simt
+Ni[G]mic nu s-a schim[A]bat
+Senti[D]mente pierdute le-am [Bm]reîntâlnit
+De [G]acum eu le-am a[A]flat
+Am nevoie de [D]ti[Bm]ne  [G]   [A]  [D]  [Bm]  [G]   [A]
+
+Azi în[D]cerc să m-ascund, în[Bm]cerc să nu uit
+Mă gân[G]desc la tine me[A]reu
+Totu'-mi [D]pare tăcut, totu'-mi [Bm]pare pierdut
+De[G]vine tot  mai [A]greu
+
 Refren:
-Am nevoie de ti[D]ne[Bm]=când [G]mă trezesc [A]
-Am nevoie de ti[D]ne[Bm]=să [G]pot să visez  [A]
-Am nevoie de ti[D#]ne[Cm]=să [G#]mă asculți [A#]
-Am nevoie de ti[D]ne[Cm]=să [G#]nu mă uiți [A#]
+Am nevoie de [D]ti[Bm]ne când [G]mă trezesc  [A]
+Am nevoie de [D]ti[Bm]ne să [G]pot să visez  [A]
+Am nevoie de [D#]ti[Cm]ne să [G#]mă asculți  [A#]
+Am nevoie de [D#]ti[Cm]ne să [G#]nu mă uiți  [A#]
 ```
 
 Solo riff:
@@ -17896,6 +17885,8 @@ G||-----2--2/4--2-2--0-----------------4--9/10-9-7--5--9/10-9-7-5-----||
 D||-----------------------4-------------------------------------------||
 A||-------------------------------------------------------------------||
 E||-------------------------------------------------------------------||
+
+Refren
 ```
 
 #### Aproape de voi
@@ -17907,38 +17898,30 @@ E||-------------------------------------------------------------------||
 **Ukulele:** Am 2000 · Dm 2210 · E 4442 · C 0003 · G 0232
 
 ```text
-    Am         Dm       E
-În seara asta vreau să beau
-   Am             Dm     E
-Să uit de-orice nevoi
-   Am            Dm    E
-Să sparg paharul și să zic
-       Am   E       Am
-Sunt acum, aici, cu voi . . .
+În [Am]seara ^asta [Dm]vreau să [E]beau
+Să [Am]uit de-ori^ce ne[Dm]voi  [E]
+Să [Am]sparg pa^harul [Dm]și să [E]zic
+Sunt a[Am]cum, a[E]ici, cu [Am]voi . . .  ^
 
-Nu știu cât timp mi-a mai rămas
-Dar vreau să mi-l petrec
-Cu voi care mi-a ți fost alături
-La bine și la greu
+Nu [Am]știu cât ^timp mi-a [Dm]mai ră[E]mas
+Dar [Am]vreau să ^mi-l pe[Dm]trec  [E]
+Cu [Am]voi ca^re mi-ați [Dm]fost a[E]lături
+La [Am]bine [E]și la [Am]greu  ^
 
 Refren:
-              C      G
-Și de-o fi și eu să mor
-                Dm    Am
-Nu vreau să vă întristați
-               C    G
-Să cântați și să jucați
-        C   G
-Până-n zori . . .
+Și de-o fi și [C]eu să [G]mor
+Nu vreau să vă [Dm]întris[Am]tați
+Să cântați și [C]să ju[G]cați
+Până-n [C]zo[G]ori . . .
 
-Și dacă din când în când
-O să mă priviți în gând
-Voi fi aproape de voi . . .
+Și dacă din [C]când în [G]când
+O să mă pri[Dm]viți în [Am]gând
+Voi [C]fi a[G]proape de [Am]voi . . .  ^
 
-Închin paharul și vă spun
-Îi mulțumesc Celui de Sus
-Că mi va dat prieteni buni
-Și nu-s singur pe acest drum . . .
+În[Am]chin pa^harul [Dm]și vă [E]spun
+Îi [Am]mulțu^mesc Ce[Dm]lui de [E]Sus
+Că [Am]mi v-a ^dat pri[Dm]eteni [E]buni
+Și nu-s [Am]singur [E]pe acest [Am]drum . . .  ^
 
 Refren x2
 ```
@@ -18004,46 +17987,35 @@ Ce ți-a dat Dumnezeu
 
 **Cargo** · Sursa: Caiet Christian Adventure, p. 22 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/cargo/astazi-si-maine-146)
 
-**Chitară:** Dm xx0231 · E 022100 · Am x02210 · C x32010 · G 320003
+**Chitară:** Dm xx0231 · E 022100 · Am x02210 · C x32010 · G 320003 · E7 020100
 
-**Ukulele:** Dm 2210 · E 4442 · Am 2000 · C 0003 · G 0232
+**Ukulele:** Dm 2210 · E 4442 · Am 2000 · C 0003 · G 0232 · E7 1202
 
 ```text
-Dm     E    Am
-Locul unde zilele
-Dm           E      Am
-Se-ntalnesc cu nopțile
-Dm     E       Am
-Unde mor și visele
-Dm     E       Am
-Unde gândul nu mai e
+[Dm]  Locul [E]unde zile[Am]le  ^
+[Dm]  Se-ntâl[E]nesc cu nopți[Am]le  ^
+[Dm]  Unde [E]mor și vise[Am]le  ^
+[Dm]  Unde [E]gândul nu mai [Am]e  ^
 
 Refren:
-C      G       Am
-Mergem departe înspre nori
- Dm
-Trecem prin moarte
-C       G              E
-Ca să reanstem în alt loc
-Să ne cunoaștem
-C           G         Am
-Și când de drum vom obosi
-           Dm
-Fi-vom departe
-C            G
-Iubirea-n tine o voi găsi
-E
-Ș-om adormi
+[C]  Mergem de[G]parte înspre [Am]nori
+Trecem prin [Dm]moarte
+[C]  Ca să re[G]naștem în alt [E]loc
+Să ne cu[E7]noaștem
+[C]  Și când de [G]drum vom obo[Am]si
+Fi-vom de[Dm]parte
+[C]  Iubirea-n [G]tine o voi gă[E]si
+Și-om [E7]adormi
 
-Locul unde zilele
-Se-ntalnesc cu nopțile
-Unde mor și visele
-Unde gândul nu mai e
+[Dm]  Locul [E]unde zile[Am]le  ^
+[Dm]  Se-ntâl[E]nesc cu nopți[Am]le  ^
+[Dm]  Unde [E]mor și vise[Am]le  ^
+[Dm]  Unde [E]gândul nu mai [Am]e  ^
 
-Unde-i dar nu e nimic
-Unde totul este un cântec
-Pentru veacul ce-a trecut
-Tot ce-a fost s-a petrecut
+[Dm] Unde-i [E]da nu e nici [Am]nu  ^
+[Dm] Unde [E]totul este [Am]un cân^tec
+[Dm] Pentru [E]veacul ce-a tre[Am]cut  ^
+[Dm] Tot ce-a [E]fost s-a petre[Am]cut  ^
 
 Refren
 ```
@@ -18127,39 +18099,26 @@ Unde te duci? Când o să vii?/ x2
 **Ukulele:** Am 2000 · Em 0432 · F 2010 · Dm 2210 · G 0232 · Fm 1013 · C 0003 · Eb 0331
 
 ```text
- Am                    Em
-Cât am fost de singur, tu nu ai știut
-        F                   Dm         G
-Ți-ai ferit mereu privirea, de la Început
-Am            Em
-Anii trec, și viața merge iar
-    F                    Fm                      Am
-Te caut zi și noapte, te caut, dar știu că e-n zadar
+[Am]  Cât am ^fost de singur, [Em]tu nu ai ști^ut
+Ți-ai fe[F]rit mereu pri^virea, [Dm]de la înce[G]put
+[Am]  Anii ^trec, și [Em]viața merge ^iar
+Te [F]caut zi și ^noapte, te [Fm]caut, dar ^știu că e-n za[Am]dar  ^
 
-Baby știu acum că mergi să întalnești
-Un străin ce te va duce, la casa din povești
-Ce noroc, ce mare nenoroc
-   F             G          C
-Că timpul stinge totul, dar focul naște foc
-F          G          C
-Mai dă-i o zi din viața ta,
-F                    G
-Acelui om care-ți spunea
+[Am]  Baby ^știu acum că [Em]mergi să întâl^nești
+Un stră[F]in ce te va ^duce, la [Dm]casa din po[G]vești
+[Am]  Ce no^roc, ce [Em]mare neno^roc
+Că [F]timpul stinge [G]totul, dar [C]focul naște ^foc
+[F]  Mai dă-i o [G]zi din viața [C]ta,  ^
+[F]  Acelui ^om care-ți spu[G]nea  ^
 
 Refren:
-C     G           Am
-Baby, baby, baby, tu vei fi a mea
-        F        Am      Dm          G
-Ca un răsarit de soare, după noaptea grea
-C     G           Am
-Baby, baby, baby, tu vei fi a mea
-        F             Fm                         C
-Tu ești unica iubire, unica iubire, chiar și ultima...
+[C]  Baby, [G]baby, baby, [Am]tu vei fi a ^mea
+Ca un [F]răsarit de [Am]soare, [Dm]după noaptea [G]grea
+[C]  Baby, [G]baby, baby, [Am]tu vei fi a ^mea
+Tu ești [F]unica iu^bire, [Fm]unica iu^bire, chiar și ulti[C]ma...  ^
 
-            Eb                             F
-Bridge: E toamnă-n viața mea, totul este scrum
-    Eb                                 F
-Știam că vei pleca dar lasă-mă să-ți spun
+Bridge: E [Eb]toamnă-n viața mea, ^totul este [F]scrum  ^
+Ști[Eb]am că vei pleca dar ^lasă-mă să-ți [F]spun  ^
 
 Refren x4
 ```
@@ -18173,41 +18132,28 @@ Refren x4
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · E7 1202 · C 0003
 
 ```text
-Am                    G          Am
-Când eram băiat acasă tare bine mai era
-                     G         Am
-Aveam o gagică grasă care mă iubea
-Dm             Am           Dm         Am
-Dar când am plecat în lume ursitoarea m-a mințit
-Dm             Am        Dm     F   E7
-C-o s-ajung un barosan bogat și fericit
+[Am]Când eram bă^iat acasă [G]tare bine [Am]mai era
+[Am]Aveam o ga^gică grasă [G]care mă iu[Am]bea
+[Dm]Dar când am ple[Am]cat în lume [Dm]ursitoarea [Am]m-a mințit
+[Dm]C-o s-ajung un [Am]barosan bo[Dm]gat și [F]feri[E7]cit  ^
 
 Refren:
-       Am    E7        Am
-Însă bănuțul nu s-a arătat
-       C     G             C
-Și fericirea iute s-a stricat
-       C           Dm       E7 Am
-Așa că beau, beau, golesc paharele
-         F     E7        Am
-Cu pretenarii și cu fetele.
+Însă bă[Am]nuțul [E7]nu s-a ară[Am]tat  ^
+Și feri[C]cirea [G]iute s-a stri[C]cat  ^
+/Așa că [C]beau, (beau) [Dm]golesc pa[E7]hare[Am]le
+Cu prete[F]narii [E7]și cu fete[Am]le.  ^  / x2
 
-Ce-mi plăcea s-o facem lată, asta-mi era boala
-Unde n-ajungeam vreodată, asta era școala
-N-am nici bani, n-am nici mașină și de datorii sunt full
-Am o gașcă și-o chitară și-asta mi-e destul
+[Am]Ce-mi plăcea s-o ^facem lată, [G]asta-mi era [Am]boala
+[Am]Unde n-ajun^geam vreodată, [G]asta era [Am]școala
+[Dm]N-am nici bani, n-am [Am]nici mașină [Dm]și de dato[Am]rii sunt full
+[Dm]Am o gașcă [Am]și-o chitară [Dm]și-asta [F]mi-e des[E7]tul  ^
 
-Refren:
-Însă bănuțul nu s-a arătat
-Și fericirea iute s-a stricat
-/Așa că beau, beau, golesc paharele
-Cu pretenarii și cu fetele/ x3
+Refren
 
-Refren:
-Însă banuțul nu s-a arătat
-Și fericirea iute s-a stricat
-Așa că beau, beau, și-mi bag picioarele
-În tot ce ține de tranziție
+Însă bă[Am]nuțul [E7]nu s-a ară[Am]tat  ^
+Și feri[C]cirea [G]iute s-a stri[C]cat  ^
+Așa că [C]beau, (beau) [Dm]și-mi bag pi[E7]ciore[Am]le
+În tot ce [F]ține [E7]de tranziți[Am]e.
 ```
 
 #### Ca o stea
@@ -18339,26 +18285,30 @@ E fum și este scrum și simt că-nebunesc
 Compact
 
 1.
-   C     G     F       G
-În seara asta mare
-Cu toții vom cânta
-Va fi o sărbătoare
-Ce n-o putem uita.
+[C]  În [G]seara asta [F]mare  [G]
+[C]  Cu [G]toții vom cân[F]ta[G]a
+[C]  Va [G]fi o sărbă[F]toare  [G]
+[C]  Ce [G]n-o putem ui[F]ta[G]a
 
 R:
-E , e, e, e ...
+[C]  Ee[G]e, ee[F]e e[G]e
+[C]  Ee[G]e, ee[F]e e[G]e
+
 2.
-S-aprindă fiecare
-Scânteia ce va da
-Speranța pentru mâine
-Puterea de-a visa.
+[C]  S-a[G]prindă fie[F]care  [G]
+[C]  Scân[G]teia ce va [F]da[G]a
+[C]  Spe[G]ranța pentru [F]mâine  [G]
+[C]  Pu[G]terea de-a vi[F]sa[G]a.
 
 3.
-   D       A         G         A
-Ai nevoie de-un prieten
-Pe care cu adevărat
-SĂ-l simți aproape de tine
-Când viața greu te va-ncerca.
+[D]  Ai ne[A]voie de-un [G]prieten  [A]
+Pe [D]care [A]cu adevă[G]ra[A]at
+Să-l [D]simți a[A]proape de [G]tine  [A]
+Când [D]viața [A]greu te va-ncer[G]ca[A]a.
+
+R:
+[D]  Ee[A]e, ee[G]e e[A]e
+[D]  Ee[A]e, ee[G]e e[A]e
 ```
 
 #### Casuta din pădure
@@ -18370,38 +18320,37 @@ muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
 **Ukulele:** D 2220 · A7 0100 · G 0232
 
 ```text
-[D]În pădurea cu alune,
-[A7]Aveau casa [D]doi pitici.
-[D]Vine pupaza și spune:
-[A7]Vreți să stau și [D]eu aici?
-[G]Pu-pu-pu, pu-pu-pu,
-[A7]Vreți să stau și [D]eu aici?
-[G]Pu-pu-pu, pu-pu-pu,
-[A7]Vreți să stau și [D]eu aici?
-[D]A venit și o broscuta,
-[A7]Hop-hop-hop să[D]rind mereu.
-[D]"Dac-aveți loc în casuta,
-[A7]M-am gândit să [D]stau și eu."
-[G]Oac, oac, oac, oac oac, oac,
-[A7]M-am gândit să [D]stau și eu!
-[G]Oac, oac, oac, oac oac, oac,
-[A7]M-am gândit să [D]stau și eu!
-[D]Șoricelul striga-ndată:
-[A7]"Iată și eu [D]am venit.
-[D]Casa voastră e curată.
-[A7]Noroc, bine [D]v-am găsit!"
-[G]Chit, chit, chit, chit, chit, chit,
-[A7]Noroc, bine [D]v-am găsit!
-[G]Chit, chit, chit, chit, chit, chit,
-[A7]Noroc, bine [D]v-am găsit!
-[D]Și-n casuta cea draguta
-[A7]Stau vreo cinci pri[D]eteni mici.
-[D]Șoricelul și-o broscuta,
-[A7]Pupaza și [D]doi pitici.
-[G]Tra-la-la, tra-la-la,
-[A7]Stau vreo cinci pri[D]eteni mici.
-[G]Tra-la-la, tra-la-la,
-[A7]Stau vreo cinci pri[D]eteni mici.
+[D]În pă^durea ^cu a^lune,
+[A7]Aveau ^casă ^doi pi[D]tici.
+[D]Vine ^pupă^za și ^spune:
+"[A7]Vreau să ^stau și ^eu a[D]ici."
+
+/"[G]Pu-pu-^pu, [D]pu-pu-^pu,
+[A7]Vreau să ^stau și ^eu a[D]ici!"/ x2
+
+[D]Iată ^vine ^și-o bros^cuță,
+[A7]Țop-țop-^țop să^rind me[D]reu.
+"[D]Dacă ^e loc ^în că^suță,
+[A7]Tare-aș ^vrea să ^stau și [D]eu."
+
+/[G]Țop, țop, ^țop, [D]țop, țop, ^țop
+"[A7]Tare-aș ^vrea să ^stau și [D]eu."/ x2
+
+[D]Șori^celul ^strigă-n^dată:
+"[A7]Iată ^și eu ^am ve[D]nit.
+[D]Casa ^voastră ^e cu^rată.
+[A7]Noroc, ^bine ^v-am gă[D]sit!"
+
+/"[G]Chiț, chiț, chiț, [D]chiț, chiț, chiț,
+[A7]Noroc, ^bine ^v-am gă[D]sit!"/ x2
+
+[D]Și-n că^suța ^cea dră^guță
+[A7]Stau vreo ^cinci pri^eteni [D]mici.
+[D]Șori^celul ^și-o bros^cuță,
+[A7]Pupă^za și ^doi pi[D]tici.
+
+/[G]Tra-la-^la, [D]tra-la-^la,
+[A7]Stau vreo ^cinci pri^eteni [D]mici./ x2
 ```
 
 Notă: Măsura 2/4.

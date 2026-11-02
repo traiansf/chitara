@@ -135,3 +135,11 @@
 - Vinovații fără vină [G]
 - Vis de primăvară [C]
 - Vremuri [C]
+
+- Am doar 18 ani [C]
+- Am nevoie de tine [C]
+- Aproape de voi [Dm]
+- Astăzi și mâine [Gm]
+- Baby [Am]
+- Cântec pentru prieteni [C]
+- Casuta din pădure [C]
