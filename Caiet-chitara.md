@@ -20058,7 +20058,7 @@ Refren
 ```text
 [G]Dacă în ochii ^tăi
 [C]Astăzi atât de ^goi
-[Am]  Aș pu[(G)]tea să mai re[D]văd  ^
+[Am]Aș pu[(G)]tea să mai re[D]văd  ^
 [G]Zilele ce-au tre^cut
 [C]Nopțile de de^mult
 [Am]  Anii [(G)]ce ușor s-au [D]scurs  ^
@@ -20068,13 +20068,13 @@ Refren
 
 [A]Serile de-altă^dat`
 [D]Banca pe care am ^stat
-[Bm]  Ne aș[(A)]teaptă și a[E]cum  ^
+[Bm]Ne aș[(A)]teaptă și a[E]cum  ^
 [A]Părul să ți-l a^ting
-[D]În brațe să te cu^prind
-[Bm]  Și să [(A)]uit, să uit de[E]mine  ^
+În [D]brațe să te cu^prind
+[Bm]  Și să [(A)]uit, să uit de [E]mine  ^
 
-[D]  Cine [A]oare[E]te va înso^ți
-[D]  În a[A]cest sfârșit de[E]zi^i
+[D]  Cine [A]oare [E]te va înso^ți
+[D]  În a[A]cest sfârșit de [E]zi^i
 
 Refren:
 [A]Singur te caut în [E7]noapte, [A]unde ești?  ([D]unde ești)
@@ -20087,7 +20087,7 @@ Când [C]toate aveau un ^rost
 [Am]  Cât de [(G)]singuri suntem [D]azi  ^
 [G]Poate peste un ^timp
 Vom [C]încerca zâm^bind
-[Am]  Să ne [(G)]amintim din[D]nou  ^
+[Am]  Să ne [(G)]amintim din [D]nou  ^
 
 [C]  Nicio[G]dată [D]nu te voi ui^ta
 [C]  Cheamă-[G]mă oricând vei [D]vrea^a
