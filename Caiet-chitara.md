@@ -31,10 +31,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (34 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (278 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (277 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (71 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (70 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -495,8 +495,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Strada ta](#strada-ta)
 - [Strunga](#strunga)
 - [Supărat](#supărat)
-- [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i)
-- [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii)
+- [Te întreb pe tine soare](#te-întreb-pe-tine-soare)
 - [Te voi aștepta](#te-voi-aștepta)
 - [Tigano](#tigano)
 - [Timișoara](#timișoara)
@@ -20321,35 +20320,39 @@ Notă: Acordurile `D` `C` și `E` `D` de la refren se fac cu câte 2 bătăi.
 **Ukulele:** Em 0432 · G 0232 · F 2010 · Dm 2210
 
 ```text
-[Em]În pă[G]durea [F]de la [Dm]strungă, [Em]hei
-[Em]Sunt de [G]cei cu [F]pusca [Dm]lungă, [Em]hei
-[Em]Care [G]dau chio[F]râș la [Dm]pungă, [Em]hei
+[Em]În pă[G]durea [F]de la [Dm]strungă, [Em]hei  ^  ^  ^
+[Em]Sunt de [G]cei cu [F]pușca [Dm]lungă, [Em]hei  ^
+[Em]Care [G]dau chio[F]râș la [Dm]pungă, [Em]hei  ^  ^  ^
 
-[Em]Sunt de [G]cei ce-m[F]pusca-n [Em]lună
+[Em]Sunt de [G]cei ce-m[F]pușca-n [Em]lună
 [Em]Care [G]noaptea-n [F]frunze [Em]sună
-[Em]Feciori [G]de le[F]le ne[Em]bună.
-[Em]Feciori [G]de le[F]le ne[Em]bună.
+/[Em]Feciori [G]de le[F]le ne[Em]bună ^ / x2
 
-[Em]Dă-te-n [G]lături, [F]mai creș[Dm]tine, [Em]mai
-[Em]Dacă [G]vrei să [F]treci cu [Dm]bine, [Em]mai
-[Em]Să ră[G]mâi cu [F]viata-n [Dm]tine[Em]
+[Em]Dă-te-n [G]laturi, [F]măi creș[Dm]tine, [Em]măi  ^  ^  ^
+[Em]Dacă [G]vrei să [F]treci cu [Dm]bine, [Em]măi  ^  ^  ^
+[Em]Să ră[G]mâi cu [F]viața-n [Dm]tine, [Em]măi  ^  ^  ^
 
 [Em]Opt voi[G]nici cu [F]spete [Em]late
-[Em]Și cu [G]mâneci [F]suflec[Em]ate
-[Em]Stau cu [G]puști[F]le-ncă[Em]rcate.
-[Em]Stau cu [G]puști[F]le-ncă[Em]rcate.
+[Em]Și cu [G]mâneci [F]sufle[Em]ate
+/[Em]Stau cu [G]puști[F]le-ncăr[Em]cate. ^ /  x2
 
-[Em]Ale[G]lei cio[F]coi, bo[Dm]gate, [Em]hei
-[Em]Ici vei [G]trece [F]din păc[Dm]ate, [Em]hei
-[Em]Să-ți a[G]runc doi [F]glonți în [Dm]spate[Em]
+[Em]Ole[G]leu cio[F]coi, bo[Dm]gate, [Em]hei  ^  ^  ^
+[Em]Ici de-i [G]trece [F]din pă[Dm]cate, [Em]hei  ^  ^  ^
+[Em]Să ți-a[G]runc doi [F]glonți în [Dm]spate, [Em]hei  ^  ^  ^
 
-[Em]Că mi-e [G]pusca [F]hultu[Em]ită,
+[Em]Că mi-e [G]pușca [F]hultu[Em]ită,
 [Em]Și mi-e [G]ghioaga [F]țintu[Em]ită
-[Em]Și mi-e [G]inima-[F]ncolț[Em]ită.
+/[Em]Și mi-e [G]ini[F]ma-ncol[Em]țită.  ^/ x2
 
-[Em]În pă[G]durea [F]de la [Dm]strungă, [Em]hei
-[Em]Ce slu[G]juște [F]pusca [Dm]lungă, [Em]hei
-[Em]Fără [G]luptă [F]fără [Dm]pungă, [Em]hei
+Solo
+
+[Em]Că mi-e [G]pușca [F]hultu[Em]ită,
+[Em]Și mi-e [G]ghioaga [F]țintu[Em]ită
+/[Em]Și mi-e [G]ini[F]ma-ncol[Em]țită.  ^/ x2
+
+[Em]În pă[G]durea [F]de la [Dm]strungă, [Em]hei (hei)  ^ ^  ^
+[Em]Ce slu[G]jește [F]pușca [Dm]lungă, [Em]hei (hei)  ^  ^  ^
+[Em]Fără [G]luptă [F]fără [Dm]pungă, /[Em]hei (hei)/ x8
 
 ```
 
@@ -20362,27 +20365,37 @@ Notă: Acordurile `D` `C` și `E` `D` de la refren se fac cu câte 2 bătăi.
 **Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
-[A]Supărat, [D]supărat sunt [E]Doamne iarăși [A]supărat
-[D]Mult venin este [E]în jur multa [A]minciuna
-[D]Iar se-adună [E]norii a fur[A]tuna.
-[A]Supărat, [D]supărat sunt [E]Doamne iarăși [A]supărat
-[D]Toți mă-ntreaba [E]cum îmi merge [A]ce-i cu mine
-[D]Parc-ar fi loc [E]totuși de mai [A]bine.
+1.
+[A]Supărat,  ^ [D]supărat sunt [E]Doamne iarăși [A]supărat  ^
+[D]Mult venin este [E]în jur mul[A]tă minciună  ^
+[D]Prea se-adună [E]norii a fur[A]tună  ^
+
+2.
+[A]Supărat,  ^ [D]supărat sunt [E]Doamne iarăși [A]supărat  ^
+[D]Toți mă-ntreabă [E]cum îmi merge [A]ce-i cu mine  ^
+[D]Parc-ar fi loc [E]totuși de mai [A]bine.  ^
+
 Refren:
-În [D]viața mea nu-s [E]toate chiar la [A]locul lor
-[D]Dar ceva nu [E]pot uita [A]ușor
-În [D]viața mea nu-s [E]toate chiar la [A]locul lor
-[D]=[No chord]Dintre-atâtea rele bune [E]=[No chord]sunt doar trecător prin
-lume. [A]
-[A]Supărat, [D]supărat sunt [E]Doamne iarăși [A]supărat
-[D]Puțini oamenii [E]în care [A]am crezut,
-[D]Repede și [E]ieftin m-au [A]vândut.
+În [D]viața mea nu-s [E]toate chiar la [A]locul lor  ^
+[D]Dar ceva nu [E]pot uita [A]ușor   ^
+În [D]viața mea nu-s [E]toate chiar la [A]locul lor  ^
+[D]=[No chord]Printre-atâtea rele bune
+[E]=[No chord]sunt doar trecător prin lume.
+
+3.
+[A]Supărat,  ^ [D]supărat sunt [E]Doamne iarăși [A]supărat  ^
+[D]Puțini oame[E]nii în care [A]am crezut,  ^
+[D]Repede și [E]ieftin m-au [A]vândut.  ^
+
+Refren
+Strofa 3
+[D]Repede și [E]ieftin m-au [A]vândut.  ^
 ```
 
 Notă: Ciupitură de genul:
 
 ```tab
-A                         D                         E                         A
+     A                         D                         E                         A
 E||-----0----0-----0-----0--|-----2----2-----2-----2--|-----0----0-----0-----0--|-----0----0-----0-----0--||
 B||-----2----2-----2-----2--|-----3----3-----3-----3--|-----0----0-----0-----0--|-----2----2-----2-----2--||
 G||-----2----2-----2-----2--|-----2----2-----2-----2--|-----1----1-----1-----1--|-----2----2-----2-----2--||
@@ -20391,9 +20404,9 @@ A||--0----------------0-----|-------------0-----------|-------------2-----------
 E||-------------------------|-------------------------|--0----------------0-----|-------------------------||
 ```
 
-#### Te întreb pe tine soare (I)
+#### Te întreb pe tine soare
 
-**Phoenix** · Sursa: Caiet cabană RO, p. 82 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/te-intreb-pe-tine-soare-642)
+**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Caiet cabană RO, p. 82 · Cărticica Karban, p. 120 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/phoenix/te-intreb-pe-tine-soare-642)
 
 **Chitară:** G 320003 · A x02220 · C x32010 · D xx0232
 
@@ -20403,81 +20416,34 @@ E||-------------------------|-------------------------|--0----------------0-----
 Phoenix
 
 1.
-    G
-Dimineața-mi strică somnul,
-Visurile mi le pradă
-   A
-Ca să-mi lase viața fadă
-Ornicul îmi bate gongul
-  C           G          D
-Și-mi aduce aminte c-ai plecat.
+/[G]Dimineața-mi ^strică somnul,/ x2
+/[G]Visurile ^mi le pradă/ x2
+[A]Ca să-mi lase ^viața fadă
+[A]Ornicul îmi ^bate gongul
+/[C]Și-mi aduce-a[G]minte c-ai ple[D]cat.  ^ /  x2
 
 2.
-Toate-mi par în jur străine
-Lumea-i rece fără tine
-Amintiri de-un gând atinse
-Îmi trezesc dureri aprinse
-Și-mi aduc aminte c-ai plecat.
+/[G]Toate-mi par în ^jur străine/ x2
+/[G]Lumea-i rece ^fără tine/ x2
+[A]Amintiri de-un ^gând atinse
+[A]Îmi trezesc du^reri aprinse
+/[C]Și-mi aduc a[G]minte c-ai ple[D]cat.  ^ / x2
 
 R:
-   C               G
-Te întreb pe tine soare:
-    D              G
-"Dragoste murit-a oare?"
-Te întreb pe tine soare:
-"Dragostea murit-a oare?"
+/[C]  Te în^treb pe tine [G]soare:  ^
+[D]  "Dragos^tea murit-a [G]oare?"  ^ / x2
 
 4.
-Împreună ne-înțelegem
-Ne unește aceași soartă
-O stricăm și iar o dregem
-Mai din joacă, mai din ceartă
-Dar mi-aduc aminte c-ai plecat.
+/[G]Împreună ^ne-înțelegem/ x2
+/[G]Ne unește a^ceași soartă/ x2
+[A]O stricăm și ^iar o dregem
+[A]Mai din joacă, ^mai din ceartă
+/[C]Dar mi-aduc aminte c-ai plecat./ x2
 
 R:
-Te întreb pe tine soare:
-"MĂ vezi tu pe mine oare?"
+/[C]  Te în^treb pe tine [G]soare:  ^
+"[D]  Mă vezi ^tu pe mine [G]oare?" ^  / x2
 ```
-
-#### Te întreb pe tine soare (II)
-
-**Phoenix** · muzica/versuri: Nicolae Covaci/Victor Cârcu · Sursa: Cărticica Karban, p. 120
-
-**Chitară:** G 320003 · G7/4 3x0011 · G7 320001 · A x02220 · A7/4 x02030 · A7 x02020 · C x32010 · D xx0232
-
-**Ukulele:** G 0232 · G7/4 0015 · G7 0212 · A 2100 · A7/4 0200 · A7 0100 · C 0003 · D 2220
-
-```text
-[G]Dimineata-mi [G7/4]strică [G7]somnul,
-[G]Visurile [G7/4]mi-le [G7]prada
-[A]Ca să-mi lase [A7/4]viata [A7]fadă,
-[A]Ornicul îmi [A7/4]bate [A7]gongul
-[C]Și mi-aduce [G]aminte c-ai ple[D]cat.
-[G]Toate-mi par în [G7/4]jur stră[G7]ine,
-[G]Lumea-i rece [G7/4]fără [G7]tine
-[A]Amintiri de-un [A7/4]gând a[A7]tinse,
-[A]Îmi trezesc [A7/4]dureri a[A7]prinse
-[C]Și mi-aduc [G]aminte c-ai ple[D]cat,
-[C]Și mi-aduc [G]aminte c-ai ple[D]cat,
-Refren:
-[A]Te în[C]treb pe tine [G]soare:
-[D]"Dragos[C]tea murit-a [G]oare?"
-[A]Te în[C]treb pe tine [G]soare:
-[D]"Dragos[C]tea murit-a [G]oare?"
-[G]Împreună [G7/4]ne-nțe[G7]legem,
-[G]Ne unește a[G7/4]ceiași [G7]soarta.
-[A]O stricăm și [A7/4]iar o [A7]dregem,
-[A]Mai din joacă, [A7/4]mai din [A7]ceartă
-[C]Dar mi-aduc [G]aminte c-ai ple[D]cat,
-[C]Și mi-aduc [G]aminte c-ai ple[D]cat.
-Refren 2X:
-[A]Te în[C]treb pe tine [G]soare:
-[D]"Mă vezi [C]tu pe mine [G]oare?"
-[A]Te în[C]treb pe tine [G]soare:
-[D]"Mă vezi [C]tu pe mine [G]oare?"
-```
-
-Notă: În original, `G`, `A` și variantele lor cu 7 se prind barate (`G` 355433, `A` 577655); la refren se pot folosi `G` și `A` în poziția 1. Primul și al treilea vers al strofelor se repetă, cu aceleași acorduri, de a doua voce.
 
 #### Te voi aștepta
 
@@ -32304,7 +32270,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Pasărea Colibri** — [2000 de ani](#2000-de-ani), [Alcool](#alcool), [Alo! Ei a mea!](#alo-ei-a-mea), [Boxerul](#boxerul), [Canadiana](#canadiana), [Ce de lupi se înconjoară](#ce-de-lupi-se-înconjoară), [Ceasornicarul (I)](#ceasornicarul-i), [Cu tine în gând](#cu-tine-în-gând), [Dintr-o cafea (I)](#dintr-o-cafea-i), [Întoarcere la orient (I)](#întoarcere-la-orient-i), [Mr. Tambourine Man (Pasărea Colibri)](#mr-tambourine-man-pasărea-colibri), [Nu-i nimic, asta e!](#nu-i-nimic-asta-e), [Oameni buni](#oameni-buni), [Oprește-mă la tine](#oprește-mă-la-tine), [Pe corso (I)](#pe-corso-i), [Ploaia care va veni](#ploaia-care-va-veni), [Proverbe](#proverbe), [Sfârșitul nu-i aici](#sfârșitul-nu-i-aici), [Strada Popa Nan](#strada-popa-nan), [Toți suntem puțin luați](#toți-suntem-puțin-luați), [Vânare de vânt](#vânare-de-vânt), [Viata complicată](#viata-complicată), [Viața la țară (I)](#viața-la-țară-i)
 - **Paula Seling** — [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
 - **Phabaj (Hop hop hop)** — [Phabaj (Hop hop hop)](#phabaj-hop-hop-hop)
-- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta](#nunta), [Ochi negri, ochi de țigan](#ochi-negri-ochi-de-țigan), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i), [Te întreb pe tine soare (II)](#te-întreb-pe-tine-soare-ii), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
+- **Phoenix** — [Andri Popa](#andri-popa), [În umbra marelui URSS](#în-umbra-marelui-urss), [Mugur de fluier](#mugur-de-fluier), [Nebunul cu ochi închiși](#nebunul-cu-ochi-închiși), [Vremuri](#vremuri), [Dansul codrilor](#dansul-codrilor), [Fluier în cer](#fluier-în-cer), [Hăituit](#hăituit), [Jocul](#jocul), [Mama, mama](#mama-mama), [Muzică și muzichia](#muzică-și-muzichia), [Nunta](#nunta), [Ochi negri, ochi de țigan](#ochi-negri-ochi-de-țigan), [Primavara - Paparuga](#primavara---paparuga), [Singură](#singură), [Strunga](#strunga), [Te întreb pe tine soare](#te-întreb-pe-tine-soare), [Timișoara](#timișoara), [Vara](#vara), [Zori de zi](#zori-de-zi)
 - **Phoenix/Pasărea Colibri** — [Canarul](#canarul)
 - **Pink Floyd** — [Another Brick in the Wall](#another-brick-in-the-wall), [Wish You Were Here](#wish-you-were-here)
 - **Poesis (Pasărea Colibri)** — [Cântec șoptit](#cântec-șoptit)

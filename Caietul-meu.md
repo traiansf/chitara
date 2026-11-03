@@ -155,7 +155,10 @@
 - Pseudofabulă [C]
 - Singur în noapte [C]
 - Spune-mi cine ești [Am]
-- Strada ta [G]
+- Strada ta [C]
+- Strunga [Em]
+- Supărat [C]
+- Te întreb pe tine soare [C]
 
 - Alunelul [C]
 - Cucul [C]
