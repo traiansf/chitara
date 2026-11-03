@@ -152,6 +152,7 @@
 - Ochi negri, ochi de țigan [Dm]
 - Ploaia (Cargo) [Dm]
 - Prietenii [C]
+- Pseudofabula [C]
 
 - Alunelul [C]
 - Cucul [C]

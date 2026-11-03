@@ -31,10 +31,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (34 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (281 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (280 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (74 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (73 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -488,8 +488,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Pseudofabula](#pseudofabula)
 - [Roșu aprins](#roșu-aprins)
 - [Să nu-mi iei niciodată dragostea](#să-nu-mi-iei-niciodată-dragostea)
-- [Singur în noapte (I)](#singur-în-noapte-i)
-- [Singur în noapte (II)](#singur-în-noapte-ii)
+- [Singur în noapte](#singur-în-noapte)
 - [Singură](#singură)
 - [Spune ce vrei](#spune-ce-vrei)
 - [Spune-mi cine ești (I)](#spune-mi-cine-ești-i)
@@ -19901,72 +19900,57 @@ F G C F G Em F
 
 **Ukulele:** G 0232 · Am 2000 · F 2010 · Dm 2210 · C 0003
 
+Bridge și Refren se repetă după fiecare strofă numerotată.
+
 ```text
-C G Am riff C
-[C]  Într-o nu știu care seară
-G Am riff C
-Într-o nu știu care vară
-         G           Am
-Într-un nu știu care sat
-       F            Dm
-Sub un nu știu care pat
-        F           G
-Sub un nu știu care pat
+Intro:
+[C]  Într-o [G]nu știu care [Am]seară  [F][G]
+[C]  Într-o [G]nu știu care [Am]vară  [F][G]
+[C]  Într-un [G]nu știu care [Am]sat
+Sub un [F]nu știu care [Dm]pat
+Sub un [F]nu știu care [G]pat  ^
 
-Mititel cât un cercel
-Stă pitit un șoricel
-Tremurând bietul de el
-Fiidcă-aflase dintr-o carte
-Fiidcă-aflase dintr-o carte
+1.
+[C]  Miti[G]tel cât un cer[Am]cel  [F][G]
+[C]  Stă pi[G]tit un șori[Am]cel  [F][G]
+[C]  Tremu[G]rând bietul de [Am]el
 
-Refren x2:
+Bridge:
+Fiindcă-a[F]flase dintr-o [Dm]carte
+Fiindcă-a[F]flase dintr-o [G]carte  ^
 
-C
-Că-ntr-o nu știu care seară
-          F
-Într-o nu știu care vară
-         Dm
-Într-un nu știu care sat
-        G
-Sub un nu știu care pat
+Refren:
+/Că-ntr-o [C]nu știu care ^seară
+Într-o [F]nu știu care ^vară
+Într-un [Dm]nu știu care ^sat
+Sub un [G]nu știu care ^pat/ x2
 
-Nici prea mare, dar nici mică
-Stă pitită o pisică
-Tremurând și ea de frică
-/Fiidcă-aflase dintr-o carte/ x2
+2.
+[C]  Nici prea [G]mare, dar nici [Am]mică  [F][G]
+[C]  Stă pi[G]tită o pi[Am]sică  [F][G]
+[C]  Tremu[G]rând și ea de [Am]frică
 
-Refren x2
+3.
+[C]  Termi[G]nând de ros un [Am]os  [F][G]
+[C]  Șade-un [G]câine zdrență[Am]ros  [F][G]
+[C]  Tremu[G]rând și el fri[Am]cos
 
-Terminând de ros un os
-Șade-un câine zdrențăros
-Tremurând și el fricos
-Fiidcă-aflase dintr-o carte
-Fiidcă-aflase dintr-o carte
+4.
+[C]  Fără [G]vreun dinte [Am]ros  [F][G]
+[C]  Șade-un [G]lup foarte ner[Am]vos  [F][G]
+[C]  Tremu[G]rând și el vâr[Am]tos
 
-Refren x2
+5.
+[C]  Cu pie[G]dica puștii [Am]trasă  [F][G]
+[C]  Șade [G]o vânăto[Am]reasă  [F][G]
+[C]  Tremu[G]rând cu tot cu [Am]casă
 
-Fără vreun dinte ros
-Șade-un lup foarte nervos
-Tremurând și el vârtos
-Fiidcă-aflase dintr-o carte
-Fiidcă-aflase dintr-o carte
-
-Refren x2
-
-Cu piedica puștii trasă
-Șade o vânătoreasă
-Tremurând cu tot cu casă
-Fiidcă-aflase dintr-o carte
-Fiidcă-aflase dintr-o carte
-
-Refren x2
-
-Mititel cât un cercel, aaa...
-Stă pitit un șoricel
-Mititel cât un cercel
-Stă pitit un șoricel
-F            G  C
-Stă pitit un șoricel
+Outro:
+[C]  Miti[G]tel cât un cer[Am]cel, [F]a[G]a[C]a
+Stă pi[G]tit un șori[Am]cel, [F]a[G]a[C]a
+Miti[G]tel cât un ce[Am]rcel
+Stă [F]pitit un șori[Dm]cel
+Stă pi[F]tit un [G]șori[C]cel
 ```
 
 #### Roșu aprins
@@ -20063,92 +20047,51 @@ Dar să [Em]nu-mi iei [C]nicio[D]dată [G]dragostea
 Refren
 ```
 
-#### Singur în noapte (I)
+#### Singur în noapte
 
-**Compact** · Sursa: Caiet cabană RO, p. 97 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/singur-in-noapte-11271)
-
-**Chitară:** C x32010 · F 133211 · Dm xx0231 · G 320003 · D xx0232 · A7 x02020 · B7 x21202 · E 022100 · Em 022000 · A x02220
-
-**Ukulele:** C 0003 · F 2010 · Dm 2210 · G 0232 · D 2220 · A7 0100 · B7 2322 · E 4442 · Em 0432 · A 2100
-
-```text
-Compact
-1.
-   C                 F
-Dacă în ochii tăi, astăzi atât de goi
-    Dm            G
-AȘ putea să mai revăd
-       C               F
-Zilele ce-au trecut, nopțile de demult
-      Dm           G
-Anii ce ușor s-au scurs
-    F     C   G                F    C              G
-Niciodată nu te voi uita, cheamă-mă oricând vei vrea.
-
-D A7 / B7 E G
-R:
-Singur te caut în noapte, unde ești?
-Singur pe strada pustie rătăcesc.
-
-2.
-  D                   G
-Serile de-altădat, banca pe care-am stat
-   Em            A
-Ne așteaptă și acum
-   D                    G
-PĂrul să ți-l ating, în brațe să te cuprind
-    Em               A
-Și să uit, să uit de mine
- G      D     A           G   D            A
-Cine oare te va însoți în acest sfârșit de zi?
-
-3.
-Ce fericiți am fost când toate aveau un rost
-Cât de singuri suntem azi
-Poate peste un timp vom încerca zâmbind
-SĂ ne amintim din nou
-Niciodată nu te voi uita
-Cheamă-mă oricând vei vrea.
-```
-
-#### Singur în noapte (II)
-
-**Compact** · muzica/versuri: Adrian Ordean?/??? · Sursa: Cărticica Karban, p. 58
+**Compact** · muzica/versuri: Adrian Ordean · Sursa: Caiet cabană RO, p. 97 · Cărticica Karban, p. 58 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/singur-in-noapte-11271)
 
 **Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232
 
 **Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220
 
 ```text
-[G]Dacă în ochii tăi
-[C]Astăzi atât de goi
-[Am]Aș putea să mai re[D]văd
-[G]Zilele ce-au trecut
-[C]Nopțile de demult
-[Am]Anii ce ușor s-au[D]scurs
-[C]Niciodata[D]nu te voi uita
-[C]Cheamă-mă oricând vei[D]vrea
-[G]Serile de-altădat`
-[C]Banca pe care am stat
-[Am]Ne așteaptă și a[D]cum
-[G]Părul să ți-l ating
-[C]În brațe să te cuprind
-[Am]Și să uit, să uit de[D]mine
-[C]Cine oare[D]te va însoți
-[C]În acest sfârșit de[D]zi
+[G]Dacă în ochii ^tăi
+[C]Astăzi atât de ^goi
+[Am]  Aș pu^tea să mai re[D]văd  ^
+[G]Zilele ce-au tre^cut
+[C]Nopțile de de^mult
+[Am]  Anii ^ce ușor s-au [D]scurs  ^
+
+[C]  Nicio[G]dată [D]nu te voi ui^ta
+[C]  Cheamă-[G]mă oricând vei [D]vrea^a
+
+[A]Serile de-altă^dat`
+[D]Banca pe care am ^stat
+[Bm]  Ne aș^teaptă și a[C]cum  ^
+[A]Părul să ți-l a^ting
+[D]În brațe să te cu^prind
+[Bm]  Și să ^uit, să uit de[C]mine  ^
+
+[D]  Cine [A]oare[E]te va înso^ți
+[D]  În a[A]cest sfârșit de[E]zi^i
+
 Refren:
-[G]Singur te caut în noapte
-[C]Unde ești?  (Vocea a două:Unde ești?)
-[G]Singur pe strada pus[D]tie
-Rătă[C]cesc  (Vocea a două:Rătă[D]cesc)
-[G]Ce fericiți am fost
-[C]Când toate aveau un rost
-[Am]Cât de singuri santem[D]azi
-[G]Poate peste un timp
-[C]Vom încerca zâmbind
-[Am]Să ne amintim din[D]nou
-[C]Niciodata[D]nu te voi uita
-[C]Cheamă-mă oricând vei[D]vrea
+[D]Singur te caut în [A7]noapte, [D]unde ești?  ([G]unde ești)
+[D]Singur pe strada pus[A7]tie rătă[D]cesc.  [G]
+[D]Singur te caut în [A7]noapte, [D]unde ești?  ([G]unde ești)
+[Bm]Singur pe strada pus[A7]tie rătă[D]cesc.  [G]
+
+[G]Ce fericiți am ^fost
+Când [C]toate aveau un ^rost
+[Am]  Cât de ^singuri suntem [D]azi  ^
+[G]Poate peste un ^timp
+Vom [C]încerca zâm^bind
+[Am]  Să ne ^amintim din[D]nou  ^
+
+[C]  Nicio[G]dată [D]nu te voi ui^ta
+[C]  Cheamă-[G]mă oricând vei [D]vrea^a
+
 Refren
 ```
 
@@ -32380,7 +32323,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Cătălin Crișan** — [Dacă pleci](#dacă-pleci)
 - **CCR** — [Have You Ever Seen the Rain](#have-you-ever-seen-the-rain), [Proud Mary](#proud-mary)
 - **Celelalte Cuvinte** — [Dacă vrei](#dacă-vrei)
-- **Compact** — [Cântec pentru prieteni](#cântec-pentru-prieteni), [Fata din vis](#fata-din-vis), [Îmi pare rău](#îmi-pare-rău), [Singur în noapte (I)](#singur-în-noapte-i), [Singur în noapte (II)](#singur-în-noapte-ii), [Un alt început](#un-alt-început)
+- **Compact** — [Cântec pentru prieteni](#cântec-pentru-prieteni), [Fata din vis](#fata-din-vis), [Îmi pare rău](#îmi-pare-rău), [Singur în noapte](#singur-în-noapte), [Un alt început](#un-alt-început)
 - **Conexiuni** — [Mai rămâi puțin](#mai-rămâi-puțin), [Tu](#tu)
 - **Contrapunct** — [Pat de flori](#pat-de-flori)
 - **Costică David** — [Cine nu iubește muntele](#cine-nu-iubește-muntele), [Dor de munți](#dor-de-munți), [Trenul dragostei](#trenul-dragostei)
