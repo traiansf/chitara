@@ -20078,9 +20078,9 @@ Refren
 
 Refren:
 [A]Singur te caut în [E7]noapte, [A]unde ești?  ([D]unde ești)
-[A]Singur pe strada pus[E7]tie rătă[A]cesc.  [D]
+[A]Singur pe strada pus[E7]tie rătă[A]cesc.  [E7]
 [A]Singur te caut în [E7]noapte, [A]unde ești?  ([D]unde ești)
-[F#m]Singur pe strada pus[E7]tie rătă[A]cesc.  [D]
+[F#m]Singur pe strada pus[E7]tie rătă[A]cesc.  [E7]
 
 [G]Ce fericiți am ^fost
 Când [C]toate aveau un ^rost
@@ -20278,11 +20278,11 @@ Spune-mi dacă voi afla
 
 #### Spune-mi cine ești (II)
 
-**Semnal M** · muzica/versuri: Semnal M/??? · Sursa: Cărticica Karban, p. 143
+**Semnal M** · Sursa: Caiet Christian Adventure, p. 142 · Cărticica Karban, p. 143 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/spune-mi-cine-esti-1407)
 
-**Chitară:** Em 022000 · B7 x21202 · G 320003 · Am x02210 · C x32010 · Bm x24432 · E7 020100 · D xx0232
+**Chitară:** Em 022000 · B7 x21202 · G 320003 · Am x02210 · C x32010 · Bm x24432 · E7 020100 · D xx0232 · A x02220 · C#m x46654 · F#7 242322 · E 022100
 
-**Ukulele:** Em 0432 · B7 2322 · G 0232 · Am 2000 · C 0003 · Bm 4222 · E7 1202 · D 2220
+**Ukulele:** Em 0432 · B7 2322 · G 0232 · Am 2000 · C 0003 · Bm 4222 · E7 1202 · D 2220 · A 2100 · C#m 1104 · F#7 3424 · E 4442
 
 Intro
 
@@ -20302,29 +20302,54 @@ Intro
 ```
 
 ```text
-[Em]Tu stai singură la geam
-Și [B7]afară plouă
-Îți [G]cuprinzi tâmplele calde
-Cu [Am]mâinile amândouă
-Și aștepți în noaptea grea
-Un gând [Em]bun de undeva
-Să-ți [C]aprindă-n ochii negrii prima [B7]stea
-[Em]Glasul ploii îmi șoptește acum
-Un [B7]cântec trist
-[G]Tu nu știi că eu te-aștept
-Tu nu știi [Am]că exist
-Dar speranta-mi va purta
-Pașii [Em]cu puterea să
-[C]Către locul unde [B7]e fereastra [Em]ta
+1.
+Tu stai [Em]singură la ^geam
+Și a[B7]fară plouă  ^
+Îți cu[G]prinzi tâmplele ^calde
+Cu [Am]mâinile amân^două
+Și aș[Am]tepți în noaptea ^grea
+Un gând [Em]bun de unde^va
+Să-ți [C]aprindă-n ochii ^negrii prima [B7]stea
+
+2.
+Glasul [Em]ploii îți șop^tește acum
+Un [B7]cântec trist  ^
+Tu nu [G]știi că eu te-as^cult
+Tu nu știi [Am]că exist  ^
+Dar spe[Am]ranța-mi va pur^ta
+Pașii [Em]cu puterea ^sa
+Către [C]norul unde [B7]e fereastra [Em]ta  ^
+
 Refren:
 Spune-mi cine [G]ești
-Spune-mi ce [Bm]dorești
-Spune-mi dacă [E7]mă iubești
-Spune-mi dacă [Am]vei veni într-o [D]zi în calea [G]mea  [D]
+Spune-mi ce do[Bm]rești
+Spune-mi dacă [E7]mă iubești  ^
+Spune-mi dacă [Am]vei veni într-o [D]zi în calea [G]mea[D]a
 Spune-mi cine [G]ești
-Spune-mi ce [Bm]gândești
-Spune-mi dacă [E7]voi afla
-Într-o bună [Am]zi și drumul [D]spre inima [G]ta
+Spune-mi ce gân[Bm]dești
+Spune-mi dacă [E7]voi afla  ^
+Într-o bună [Am]zi și drumul [D]spre inima [G]ta  ^
+
+Intro
+
+Strofa 2
+
+Strofa 1
+
+Refren
+
+Intro
+
+Refren (translatat)
+Spune-mi cine [A]ești
+Spune-mi ce do[C#m]rești
+Spune-mi dacă [F#7]mă iubești  ^
+Spune-mi dacă [Bm]vei veni într-o [E]zi în calea [A]mea[E]a
+Spune-mi cine [A]ești
+Spune-mi ce gân[C#m]dești
+Spune-mi dacă [F#7]voi afla  ^
+/Într-o [Bm]bună zi și [E]drumul/ x2
+Într-o bună [Bm]zi și drumul [E]spre inima [A]ta  ^
 ```
 
 Notă: La refren, o chitară ține armonia, cealaltă intro-ul.

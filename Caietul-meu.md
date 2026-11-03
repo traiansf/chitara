@@ -154,6 +154,7 @@
 - Prietenii [C]
 - Pseudofabulă [C]
 - Singur în noapte [C]
+- Spune-mi cine ești (II) [Am]
 
 - Alunelul [C]
 - Cucul [C]
