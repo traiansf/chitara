@@ -31,10 +31,10 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (34 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (280 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (278 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
-- [II.2 — Ne-folk](#ii2--ne-folk) (73 cântece)
+- [II.2 — Ne-folk](#ii2--ne-folk) (71 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
@@ -491,10 +491,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Singur în noapte](#singur-în-noapte)
 - [Singură](#singură)
 - [Spune ce vrei](#spune-ce-vrei)
-- [Spune-mi cine ești (I)](#spune-mi-cine-ești-i)
-- [Spune-mi cine ești (II)](#spune-mi-cine-ești-ii)
-- [Strada ta (I)](#strada-ta-i)
-- [Strada ta (II)](#strada-ta-ii)
+- [Spune-mi cine ești](#spune-mi-cine-ești)
+- [Strada ta](#strada-ta)
 - [Strunga](#strunga)
 - [Supărat](#supărat)
 - [Te întreb pe tine soare (I)](#te-întreb-pe-tine-soare-i)
@@ -20193,90 +20191,7 @@ Refren 2X
 
 Notă: Pentru tonalitatea originală, capo în poziția a 2-a; acordurile sunt date numai pentru puriști. Riff-ul din intro se repetă pe tot parcursul cântecului.
 
-#### Spune-mi cine ești (I)
-
-**Semnal M** · Sursa: Caiet Christian Adventure, p. 142 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/spune-mi-cine-esti-1407)
-
-**Chitară:** Am x02210 · E7 020100 · C x32010 · D xx0232 · Dm xx0231 · F 133211 · Em 022000 · A x02220 · G 320003 · Fm 133111 · B x24442
-
-**Ukulele:** Am 2000 · E7 1202 · C 0003 · D 2220 · Dm 2210 · F 2010 · Em 0432 · A 2100 · G 0232 · Fm 1013 · B 4322
-
-```text
-Am                      E7
-Tu stai singură la geam și afară plouă
-       C                       D
-Îți cuprinzi tâmplele calde cu mâinile-
-amândouă
-     Dm                             Am
-Și aștepți în noaptea grea, un gând bun d
-undeva
-       F              E7
-Să-ți aprindă-n ochii negri prima stea
-
-Glasul ploii îți șoptește-acum un cântec
-trist
-Tu nu știi că eu te-aștept, tu nu știi că exi
-Dar speranța-mi va purta pașii cu puterea
-sa
-      F          E7          Am
-Către norul unde e fereastra ta
-
-Refren:
-               C
-Spune-mi cine ești
-             Em
-Spune-mi ce dorești
-               A
-Spune-mi dacă mă iubești
-               Dm             G
-Spune-mi dacă vei veni-ntr-o zi în
-C     G
-calea mea-aa
-
-Spune-mi cine ești
-Spune-mi ce gândești
-Spune-mi dacă voi afla
-            Dm           G          C
-Într-o bună zi și drumul spre inima ta
-
-Glasul ploii îți șoptește-acum un
-cântec trist
-Tu nu știi că eu te-ascult, tu nu știi
-că exist
-e
-Dar speranța-mi va purta pașii cu
-puterea sa
-Către norul unde e fereastra ta
-
-Tu stai singură la geam și afară
-plouă
-Îți cuprinzi tâmplele calde cu
-st
-mâinile-amândouă
-Și aștepți în noaptea grea, un gând
-bun de undeva
-Să-ți aprindă-n ochii negri prima
-stea
-
-Refren +
-               D
-Spune-mi cine ești
-               Fm
-Spune-mi ce dorești
-               B
-Spune-mi dacă mă iubești
-              Em             A
-Spune-mi dacă vei veni-ntr-o zi în
- D         A
-calea mea-aa
-
-Spune-mi cine ești
-Spune-mi ce gândești
-Spune-mi dacă voi afla
-/Într-o bună zi și drumul/ spre inima ta
-```
-
-#### Spune-mi cine ești (II)
+#### Spune-mi cine ești
 
 **Semnal M** · Sursa: Caiet Christian Adventure, p. 142 · Cărticica Karban, p. 143 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/semnal-m/spune-mi-cine-esti-1407)
 
@@ -20309,7 +20224,7 @@ Tu stai [Em]singură la ^geam
 Cu [Am]mâinile amân^două
 Și aș[Am]tepți în noaptea ^grea
 Un gând [Em]bun de unde^va
-Să-ți [C]aprindă-n ochii ^negrii prima [B7]stea
+Să-ți a[C]prindă-n ochii ^negrii prima [B7]stea  ^
 
 2.
 Glasul [Em]ploii îți șop^tește acum
@@ -20354,75 +20269,45 @@ Spune-mi dacă [F#7]voi afla  ^
 
 Notă: La refren, o chitară ține armonia, cealaltă intro-ul.
 
-#### Strada ta (I)
+#### Strada ta
 
-**Iris** · Sursa: Caiet cabană RO, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/strada-ta-610)
-
-**Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220
-
-**Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100
-
-```text
-Iris
-1.
-G     D      C      D
-Ieri am trecut pe strada ta
-Și soarele se tot juca
-Când apărea când dispărea
-Din calea norilor fugea.
-
-R:
-     Em      C        Em  C         D
-Doar o privire, atâta așteptam
-     Em        C           A
-Doar o privire mai speram.
-R2:
- G             D     C
-Te voi aștepta
-Voi veni pe strada ta
-Te aștept mereu
-                D
-FĂră tine mi-e greu.
-
-2.
-Ai apărut la geam târziu
-Ce oră era nici nu mai știu
-O clipă doar tu m-ai zărit
-Și te-am strigat dar n-ai venit.
-```
-
-#### Strada ta (II)
-
-**Iris** · muzica/versuri: Cristian Minculescu/Cristian Minculescu · Sursa: Cărticica Karban, p. 89
+**Iris** · muzica/versuri: Cristian Minculescu/Cristian Minculescu · Sursa: Cărticica Karban, p. 89 · Caiet cabană RO, p. 77 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/iris/strada-ta-610)
 
 **Chitară:** G 320003 · D xx0232 · C x32010 · Em 022000 · A x02220 · E 022100
 
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432 · A 2100 · E 4442
 
 ```text
-[G]Ieri am tre[D]cut pe strada[C]ta [D]
-[G]Și soare[D]le se tot ju[C]ca [D]
-[G]Când apă[D]rea când dispă[C]rea [D]
-[G]Din calea[D]norilor fu[C]gea [D]
+[G]  Ieri am tre[D]cut pe strada [C]ta [D]
+[G]  Și soare[D]le se tot ju[C]ca [D]
+[G]  Când apă[D]rea când dispă[C]rea [D]
+[G]  Din calea [D]norilor fu[C]gea  [D]
+
 Bridge:
-[Em]Doar o pri[C]vire,[Em]atât aștep[D]tăm
-[Em]Doar o pri[C]vire mai spe[D]ram
-[G]Ai apă[D]rut la geam târ[C]ziu [D]
-[G]Ce ora e[D]ra nici nu mai[C]stiu [D]
-[G]O clipa[D]doar tu mai ză[C]rit [D]
-[G]Eu te-am stri[D]gat,dar n-ai au[C]zit [D]
-Bridge:
-[Em]Doar o pri[C]vire,[Em]atat aștep[D]tăm
-[Em]Doar o pri[C]vire mai spe[D]ram
+[Em]  Doar o pri[C]vire,  [Em]  atâta aștep[D]tam
+[Em]  Doar o pri[C]vire mai spe[D]ram  ^
+
+[G]  Ai apă[D]rut la geam târ[C]ziu  [D]
+[G]  Ce oră e[D]ra nici nu mai [C]știu  [D]
+[G]  O clipă [D]doar tu m-ai ză[C]rit  [D]
+[G]  Și te-am stri[D]gat, dar n-ai ve[C]nit  [D]
+
+Bridge
+
 Refren:
-[D]Te voi[G]astepta [D] [C]
-[C]Voi veni pe[G]strada ta [D] [C]
+[D]Te voi [G]aștepta [D] [C]
+[C]Voi veni pe [G]strada ta [D] [C]
 [C]Te aș[G]tept mereu [D] [C]
-[C]Fără tine mi-e[D]greu.
-[D]Te voi[A]astepta [E] [D]
-[D]Voi veni pe[A]strada ta [E] [D]
-[D]Te aș[A]tept mereu [E] [D]
-[D]Fără tine mi-e[E]greu.
+Fără [C]tine mi-e[D]greu.  ^
+
+[D]Te voi[A]aștepta [E] [D]
+Voi veni pe[A]strada ta [E] [D]
+Te aș[A]tept mereu [E] [D]
+Fără [D]tine mi-e[E]greu.  ^
+
+Bridge
+
+Refren x2
 ```
 
 Notă: Acordurile `D` `C` și `E` `D` de la refren se fac cu câte 2 bătăi.
@@ -32383,7 +32268,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Holograf** — [Ești așa frumoasă](#ești-așa-frumoasă), [Ochii tăi (I)](#ochii-tăi-i), [Ochii tăi (II)](#ochii-tăi-ii), [Să nu-mi iei niciodată dragostea](#să-nu-mi-iei-niciodată-dragostea), [Vine o zi](#vine-o-zi), [Vreau o minune!](#vreau-o-minune)
 - **Horia Stoicanu** — [Sala pașilor pierduți](#sala-pașilor-pierduți)
 - **Ion Cioroiu** — [M-a ținut mama acasă](#m-a-ținut-mama-acasă)
-- **Iris** — [Baby](#baby), [Strada ta (I)](#strada-ta-i), [Strada ta (II)](#strada-ta-ii), [Vis pierdut](#vis-pierdut)
+- **Iris** — [Baby](#baby), [Strada ta](#strada-ta), [Vis pierdut](#vis-pierdut)
 - **John Denver** — [Country Roads](#country-roads)
 - **John Lennon** — [Give Peace a Chance](#give-peace-a-chance), [Imagine](#imagine)
 - **José Feliciano** — [Feliz Navidad](#feliz-navidad)
@@ -32442,7 +32327,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Roșu și negru** — [Pseudofabulă](#pseudofabulă)
 - **Roza Vânturilor** — [Numai noi](#numai-noi)
 - **Scorpions** — [Holiday](#holiday), [Still Loving You](#still-loving-you), [Wind of Change](#wind-of-change)
-- **Semnal M** — [La fereastra ta](#la-fereastra-ta), [Spune-mi cine ești (I)](#spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#spune-mi-cine-ești-ii)
+- **Semnal M** — [La fereastra ta](#la-fereastra-ta), [Spune-mi cine ești](#spune-mi-cine-ești)
 - **Sentiment** — [Nu te mai iubesc](#nu-te-mai-iubesc)
 - **Simon & Garfunkel** — [Bye Bye Love](#bye-bye-love), [El Condor Pasa](#el-condor-pasa), [Mrs. Robinson](#mrs-robinson), [The Sound of Silence](#the-sound-of-silence)
 - **Skid Row** — [I Remember](#i-remember)
