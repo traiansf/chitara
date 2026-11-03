@@ -19896,9 +19896,9 @@ F G C F G Em F
 
 **Roșu și negru** · Sursa: Caiet Christian Adventure, p. 132
 
-**Chitară:** G 320003 · Am x02210 · F 133211 · Dm xx0231 · C x32010
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Dm xx0231
 
-**Ukulele:** G 0232 · Am 2000 · F 2010 · Dm 2210 · C 0003
+**Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Dm 2210
 
 Bridge și Refren se repetă după fiecare strofă numerotată.
 
@@ -20051,43 +20051,43 @@ Refren
 
 **Compact** · muzica/versuri: Adrian Ordean · Sursa: Caiet cabană RO, p. 97 · Cărticica Karban, p. 58 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/compact/singur-in-noapte-11271)
 
-**Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232
+**Chitară:** G 320003 · C x32010 · Am x02210 · D xx0232 · A x02220 · Bm x24432 · E 022100 · E7 020100 · F#m 244222
 
-**Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220
+**Ukulele:** G 0232 · C 0003 · Am 2000 · D 2220 · A 2100 · Bm 4222 · E 4442 · E7 1202 · F#m 2120
 
 ```text
 [G]Dacă în ochii ^tăi
 [C]Astăzi atât de ^goi
-[Am]  Aș pu^tea să mai re[D]văd  ^
+[Am]  Aș pu[(G)]tea să mai re[D]văd  ^
 [G]Zilele ce-au tre^cut
 [C]Nopțile de de^mult
-[Am]  Anii ^ce ușor s-au [D]scurs  ^
+[Am]  Anii [(G)]ce ușor s-au [D]scurs  ^
 
 [C]  Nicio[G]dată [D]nu te voi ui^ta
 [C]  Cheamă-[G]mă oricând vei [D]vrea^a
 
 [A]Serile de-altă^dat`
 [D]Banca pe care am ^stat
-[Bm]  Ne aș^teaptă și a[C]cum  ^
+[Bm]  Ne aș[(A)]teaptă și a[E]cum  ^
 [A]Părul să ți-l a^ting
 [D]În brațe să te cu^prind
-[Bm]  Și să ^uit, să uit de[C]mine  ^
+[Bm]  Și să [(A)]uit, să uit de[E]mine  ^
 
 [D]  Cine [A]oare[E]te va înso^ți
 [D]  În a[A]cest sfârșit de[E]zi^i
 
 Refren:
-[D]Singur te caut în [A7]noapte, [D]unde ești?  ([G]unde ești)
-[D]Singur pe strada pus[A7]tie rătă[D]cesc.  [G]
-[D]Singur te caut în [A7]noapte, [D]unde ești?  ([G]unde ești)
-[Bm]Singur pe strada pus[A7]tie rătă[D]cesc.  [G]
+[A]Singur te caut în [E7]noapte, [A]unde ești?  ([D]unde ești)
+[A]Singur pe strada pus[E7]tie rătă[A]cesc.  [D]
+[A]Singur te caut în [E7]noapte, [A]unde ești?  ([D]unde ești)
+[F#m]Singur pe strada pus[E7]tie rătă[A]cesc.  [D]
 
 [G]Ce fericiți am ^fost
 Când [C]toate aveau un ^rost
-[Am]  Cât de ^singuri suntem [D]azi  ^
+[Am]  Cât de [(G)]singuri suntem [D]azi  ^
 [G]Poate peste un ^timp
 Vom [C]încerca zâm^bind
-[Am]  Să ne ^amintim din[D]nou  ^
+[Am]  Să ne [(G)]amintim din[D]nou  ^
 
 [C]  Nicio[G]dată [D]nu te voi ui^ta
 [C]  Cheamă-[G]mă oricând vei [D]vrea^a
