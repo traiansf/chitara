@@ -159,6 +159,7 @@
 - Strunga [Em]
 - Supărat [C]
 - Te întreb pe tine soare [C]
+- Țigano [Dm]
 
 - Alunelul [C]
 - Cucul [C]

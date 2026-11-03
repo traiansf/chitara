@@ -497,7 +497,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Supărat](#supărat)
 - [Te întreb pe tine soare](#te-întreb-pe-tine-soare)
 - [Te voi aștepta](#te-voi-aștepta)
-- [Tigano](#tigano)
+- [Țigano](#țigano)
 - [Timișoara](#timișoara)
 - [Trece vremea](#trece-vremea)
 - [Un alt început](#un-alt-început)
@@ -20467,7 +20467,7 @@ Refren:
 Refren 3X
 ```
 
-#### Tigano
+#### Țigano
 
 **Bosquito** · muzica/versuri: Bosquito/Bosquito · Sursa: Cărticica Karban, p. 54
 
@@ -20476,28 +20476,38 @@ Refren 3X
 **Ukulele:** Dm 2210 · Gm 0231 · C 0003 · Bb 3211 · A 2100
 
 ```text
-[Dm]Fulgera noaptea când ai [Gm]dispărut
-[C]Rătăceam, nu știam ce-i [Bb]de făcut
-[Dm]Peste vai, peste lunci [Gm]plouă mereu
-[C]Și de-atunci plouă și-n su[Bb]fletul meu
-Și-aș [Gm]vrea să pot [C]uita
-Sin[Gm]gurătatea [C]mea [A]
+[Dm]Fulgera-n ^noaptea când ai [Gm]dispărut  ^
+[C]Rătăceam, ^nu știam ce-i [Bb]de făcut  ^
+[Dm]Peste văi, ^peste lunci plo[Gm]ua mereu  ^
+[C]Și de-atunci ^plouă și-n su[Bb]fletul meu
+Și-aș [Gm]vrea să ^pot ui[C]ta  ^
+Sin[Gm]gură^tatea [C]mea ^  [A]  ^
+
 Refren:
-[Dm]Aaaaa....[Gm]cât îmi e de [A]dor
-[Dm]Aaaaa....[Gm]am să te o[A]mor
-[Dm]Aaaaa....și-[Gm]am să ard în [A]iad
-Pentru [Dm]tine
-[Dm]Ne iubeam, eram singuri pe [Gm]pământ
-[C]Ne sorbeam buzele cu [Bb]gust de vânt
-[Dm]Ne scaldam prin pâraie-n [Gm]zori de zi
-[C]Adormeam sub mesteceni [Bb]argintii
-Eram [Gm]un singur [C]glas
-Și-[Gm]acum ce-a mai ră[C]mas...[A]
+[Dm]Aa^ai [Gm]cât îmi e de [A]dor
+[Dm]Aa^ai [Gm]am să te o[A]mor
+[Dm]Aa^ai [Gm]și-am să ard în [A]iad  ^
+Pentru [Dm]tine  ^  [Gm]  [A]
+
+[Dm]Ne iubeam, ^eram singuri pe [Gm]pământ  ^
+[C]Ne sorbeam ^buzele cu [Bb]gust de vânt  ^
+[Dm]Ne scaldam ^prin pâraie-n [Gm]zori de zi  ^
+[C]Adormeam ^sub mesteceni [Bb]argintii  ^
+E[Gm]ram un ^singur [C]glas  ^
+Și-a[Gm]cum ce-a ^mai ră[C]mas...^ [A]  ^
+
 Refren
-Strofa:Nai nai nai na na na na na nai nai nai...etc.
-Eram [Gm]un singur [C]glas
-Și-[Gm]acum ce-a mai ră[C]mas...[A]
+
+Strofa:
+/[Dm]Nai nai nai ^na na nai na [Gm]nai nai nai  ^
+[C]Nai nai nai ^na na nai na [Bb]nai nai nai  ^ / x2
+
+E[Gm]ram un ^singur [C]glas  ^
+Și-a[Gm]cum ce-a ^mai ră[C]mas...^ [A]  ^
+
 Refren
+
+Pentru [Dm]tine  ^  [Gm]  [A]
 ```
 
 #### Timișoara
@@ -32186,7 +32196,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Ben E. King** — [Stand by Me](#stand-by-me)
 - **Bmby** — [Doi ochi căprui](#doi-ochi-căprui)
 - **Bob Dylan** — [Don't Think Twice, It's Alright](#dont-think-twice-its-alright), [Knockin' on Heaven's Door](#knockin-on-heavens-door), [Mr. Tambourine Man (Bob Dylan)](#mr-tambourine-man-bob-dylan)
-- **Bosquito** — [Bosquito](#bosquito), [Tigano](#tigano)
+- **Bosquito** — [Bosquito](#bosquito), [Țigano](#țigano)
 - **Brenda Lee** — [Rocking Around the Christmas Tree](#rocking-around-the-christmas-tree)
 - **Buru (Adrian Burnichi)** — [Sunt sărac](#sunt-sărac)
 - **CALEnDAR** — [Un munte așternut](#un-munte-așternut)
