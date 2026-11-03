@@ -485,7 +485,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Poveste](#poveste)
 - [Prietenii](#prietenii)
 - [Primavara - Paparuga](#primavara---paparuga)
-- [Pseudofabula](#pseudofabula)
+- [Pseudofabulă](#pseudofabulă)
 - [Roșu aprins](#roșu-aprins)
 - [Să nu-mi iei niciodată dragostea](#să-nu-mi-iei-niciodată-dragostea)
 - [Singur în noapte](#singur-în-noapte)
@@ -19892,7 +19892,7 @@ F G C F G Em F
 [C]Locu' [Am]să să [G]moaie
 ```
 
-#### Pseudofabula
+#### Pseudofabulă
 
 **Roșu și negru** · Sursa: Caiet Christian Adventure, p. 132
 
@@ -32414,7 +32414,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Rolling Stones** — [Angie](#angie)
 - **Romane Gila** — [Țigăncușa](#țigăncușa)
 - **Ronnie Harwood** — [You Drive Me Crazy](#you-drive-me-crazy)
-- **Roșu și negru** — [Pseudofabula](#pseudofabula)
+- **Roșu și negru** — [Pseudofabulă](#pseudofabulă)
 - **Roza Vânturilor** — [Numai noi](#numai-noi)
 - **Scorpions** — [Holiday](#holiday), [Still Loving You](#still-loving-you), [Wind of Change](#wind-of-change)
 - **Semnal M** — [La fereastra ta](#la-fereastra-ta), [Spune-mi cine ești (I)](#spune-mi-cine-ești-i), [Spune-mi cine ești (II)](#spune-mi-cine-ești-ii)
