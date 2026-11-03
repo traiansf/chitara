@@ -150,6 +150,8 @@
 - La fereastra ta [Dm]
 - Nunta [A]
 - Ochi negri, ochi de țigan [Dm]
+- Ploaia (Cargo) [Dm]
+- Prietenii [C]
 
 - Alunelul [C]
 - Cucul [C]

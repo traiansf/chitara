@@ -19725,45 +19725,37 @@ Notă: În unele locuri transcrierea poate fi inexactă. Alternativ: la strofe `
 **Ukulele:** Dm 2210 · Am 2000 · B 4322 · E 4442 · G 0232 · C 0003
 
 ```text
-     Dm                    Am
-Dacă pleci, ușa nu o mai închide
-        Dm                   Am
-Sper să treci poate mâine pe aici
-     Dm
-Te petrec și mă uit la tine
-Am
-Parcă pierd ceva din mine
- B           E
-Zău, îmi e greu
+1.
+Dacă [Dm]pleci, ușa ^nu o mai în[Am]chide  ^
+Sper să [Dm]treci poate ^mâine pe a[Am]ici  ^
+Te pe[Dm]trec și mă ^uit la tine
+[Am]  Parcă pierd ce^va din mine
+[B]Zău, ^  îmi e [E]greu  ^
 
-Refren:
- Am                      Dm
-Poate dacă ploaia s-ar opri
-       G               C    E
-Și din cer n-o să mai cadă lacrimi
- Am         Dm            G
-Stele-ar răsări, tu ai veni
+Refren1:
+Poate dacă [Am]ploaia s-ar o[Dm]pri
+Și din [G]cer n-o să mai [C]cadă [E]lacrimi
+[Am]Stele-ar răsă[Dm]ri, tu ai ve[G]ni  ^
 
-Supărat sunt Doamne iar
-Stau în cârciumă să-mi 'nec amarul
-Beau și te aștept până la zi
+Supă[Am]rat sunt Doamne [Dm]iar
+Stau în [G]cârciumă să-mi [C]'nec a[E]marul
+[Am]Beau și te aș[Dm]tept până la [G]zi  ^
 
-       Dm     G
-Plouă încet, încet
-            Dm   G Am
-Plouă și-mi este dor
-         Dm      G        Am
-De ochii tăi căprui îmi e dor
+Refren2:
+Plouă în[Dm]cet, în[G]cet
+Plouă și-mi [Dm]es[(G)]te [Am]dor
+De ochii [Dm]tăi că[G]prui îmi e [Am]dor  ^
 
-Refren2: Plouă încet, încet
-Plouă și-mi este dor
-De ochii tăi să mor îmi e dor
+Plouă în[Dm]cet, în[G]cet
+Plouă și-mi [Dm]es[(G)]te [Am]dor
+De ochii [Dm]tăi să [G]mor îmi e [Am]dor  ^
 
-Te aștept să te-ntorci din nou la mine
-Chipul tău și de ochii tăi mi-e dor
-Poza ta din sertar o scot
-Nu mă uit la ea nu pot
-Zău, îmi e greu
+2.
+Te aș[Dm]tept să te-n^torci din nou la [Am]mine  ^
+Chipul [Dm]tău și de ^ochii tăi mi-e [Am]dor  ^
+Poza [Dm]ta din ser^tar o scot
+[Am]  Nu mă uit la ^ea nu pot
+[B]Zău,  ^  îmi e [E]greu  ^
 
 Refren1 x2 + Refren2
 ```
@@ -19836,26 +19828,29 @@ C                     Dm                       G7                     C
 ```
 
 ```text
-[C]Prietenii îi vreau în [Dm]jurul meu
-[G7]M-am săturat de vorbe multe [C]și de sânul tău
-[C]Prietenii îi vreau ni[Dm]mic mai mult
-[G7]Să stam seara muți și beți ca-ntr-un [C]imens sărut
+[C]Prietenii îi ^vreau în jurul [Dm]meu  ^
+M-am sătu[G7]rat de vorbe ^multe și de [C]sânul tău  ^
+[C]Prietenii îi ^vreau nimic mai [Dm]mult  ^
+Să stăm [G7]seara muți și ^beți ca-ntr-un i[C]mens sărut  ^
+
 Refren:
-[C]Nu-mi pasă de nimic, [Dm]de nimic...
-Sunt [G7]fericit, nu-mi pasă [C]de nimic.
-[C]Nu-mi pasă de nimic, [Dm]de nimic...
-Sunt [G7]fericit, nu-mi pasă [C]de nimic.
-[C]Nu-mi pasă ca iubita [Dm]m-a-nselat
-[G7]Nu-mi pasă ca iubitul ei acum [C]nu-i un bărbat
-[C]Prietenii și VODKA sunt [Dm]aici, ți-am spus
-[G7]Restul nu contează stam și [C]plângem în apus
-Refren 2X
+/Nu-mi pasă [C]de nimic,  ^ [Dm]de nimic...  ^
+Sunt [G7]fericit, ^  nu-mi pasă [C]de nimic  ^/ x2
+
+Nu-mi [C]pasă că iu^bita m-a-nșe[Dm]lat  ^
+Nu-mi pasă [G7]că iubitul ^ei acum nu-i [C]un bărbat  ^
+[C]Prietenii și ^VODKA sunt [Dm]aici, ți-am ^spus
+Restul [G7]nu contează ^stăm și plângem [C]un apus  ^
+
+Refren 2x
+
 Solo
-[C]Soarele se scurge-ncet în [Dm]mare
-[G7]Tipul s-a oprit și viata [C]nu mă mai doare
-[C]Nu mă-interesează cine, [Dm]cum ...și ce
-[G7]Totul se dărâmă-n jur dar noi nu ne-n[C]trebam de ce
-Refren 2X
+[C]Soarele se ^scurge-ncet în [Dm]mare  ^
+Timpul [G7]s-a oprit și ^viața nu mă mai [C]doare  ^
+[C]Nu mă-intere^sează cine, [Dm]cum și ce  ^
+Totul [G7]se dărâmă-n ^jur dar noi nu [C]ne-ntrebăm de ^ce
+
+Refren 2x
 ```
 
 #### Primavara - Paparuga
@@ -19908,7 +19903,7 @@ F G C F G Em F
 
 ```text
 C G Am riff C
-Într-o nu știu care seară
+[C]  Într-o nu știu care seară
 G Am riff C
 Într-o nu știu care vară
          G           Am
