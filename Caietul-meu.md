@@ -160,12 +160,16 @@
 - Supărat [C]
 - Te întreb pe tine soare [C]
 - Țigano [Dm]
+- Vis pierdut [Am]
 
 - Alunelul [C]
 - Cucul [C]
 - Cucule pasăre grasă [C]
 - În pădurea cu alune [C]
+- Numărătoare [C]
 - Podul de piatră [C]
 - Țăranul e pe câmp [F]
 - Un elefant... [C]
 - Zece membri de partid [C]
+
+- Angie [Am]

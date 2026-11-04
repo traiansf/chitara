@@ -31,11 +31,11 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (34 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (277 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (278 cântece)
 
 - [II.1 — Folk](#ii1--folk) (199 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (70 cântece)
-- [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (8 cântece)
+- [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (9 cântece)
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
 
@@ -515,6 +515,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Cucule pasăre grasă](#cucule-pasăre-grasă)
 - [Iepuraș coconaș](#iepuraș-coconaș)
 - [În pădurea cu alune](#în-pădurea-cu-alune)
+- [Numărătoare](#numărătoare)
 - [Podul de piatră](#podul-de-piatră)
 - [Țăranul e pe câmp](#țăranul-e-pe-câmp)
 - [Un elefant...](#un-elefant)
@@ -20944,8 +20945,8 @@ Sursa: Cărticica Karban, p. 255
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
-/[D]Alunelu, alunelu, [G]hai la [D]joc!
-[D]Să ne fie, să ne fie [A]cu no[D]roc!/ x2
+/[D]Alunelu, ^alunelu, [G]hai la [D]joc!
+[D]Să ne fie, ^să ne fie [A]cu no[D]roc!/ x2
 
 Refren:
 [D]Cine-n [G]hora [A]o să [D]joace
@@ -20953,8 +20954,8 @@ Refren:
 [D]Cine [G]n-o ju[A]ca de [D]fel
 [D]Să ră[G]mână [A]miti[D]tel.
 
-/[D]Alunelu, alunelu, [G]sus săl[D]tați!
-[D]Și la dreapta și la stângă, [A]haideți [D]frați./ x2
+/[D]Alunelu, ^alunelu, [G]sus săl[D]tați!
+[D]Și la dreapta ^și la stânga, [A]haideți [D]frați./ x2
 
 Refren
 ```
@@ -21013,17 +21014,17 @@ muzica/versuri: după I. D. Chirescu · Sursa: Cărticica Karban, p. 258
 **Ukulele:** C 0003 · G 0232 · F 2010
 
 ```text
-/[C]Cucule pa[G]săre grasă, [C]cuc, (cu-cu)/ x2
+/[C]Cucule pa[G]săre grasă, [C]cuc, (^cu-cu)/ x2
 /[F]Ce tot cânți la [C]noi pe leasă,
-[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
+[F]Cuculeană [G]lugojeană, [C]cuc. (^cu-cu)/ x2
 
-/[C]Ori ți-i foame [G]ori ți-i sete, [C]cuc, (cu-cu)/ x2
+/[C]Ori ți-i foame [G]ori ți-i sete, [C]cuc, (^cu-cu)/ x2
 /[F]Ori ți-i dor de [C]codrul verde,
-[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
+[F]Cuculeană [G]lugojeană, [C]cuc. (^cu-cu)/ x2
 
-/[C]Nu mi-i foame [G]nici mi-i sete, [C]cuc, (cu-cu)/ x2
+/[C]Nu mi-i foame [G]nici mi-i sete, [C]cuc, (^cu-cu)/ x2
 /[F]Ci mi-i dor de [C]codrul verde,
-[F]Cuculeană [G]lugojeană, [C]cuc. (cu-cu)/ x2
+[F]Cuculeană [G]lugojeană, [C]cuc. (^cu-cu)/ x2
 ```
 
 Notă: Măsura 3/4.
@@ -21041,8 +21042,9 @@ muzica/versuri: după Al. Voevidca · Sursa: Cărticica Karban, p. 259
 [C]A fu[F]git pe[G]ste i[C]maș
 [C]Și s-a [G]dus [C]colo [G]sus.
 [F]Sub o [C]tufa [G]s-a as[C]cuns.
+
 [C]Dar Co[G]dau, [C]câine [G]rău,
-[C]L-a stâr[F]nit din [G]cuibul [C]sau
+[C]L-a stâr[F]nit din [G]cuibul [C]său
 [C]Și-a ple[G]cat [C]supă[G]rat,
 [F]În cel [C]codru-[G]ntune[C]cat.
 ```
@@ -21093,6 +21095,82 @@ muzica/versuri: I. Nicorescu · Sursa: Cărticica Karban, p. 256
 
 Notă: Măsura 2/4.
 
+#### Numărătoare
+
+**Anonim** · Sursa: [cantecedecopii.com](https://www.cantecedecopii.com/numaratoarea-una-este-luna-karaoke/)
+
+**Chitară:** C x32010 · G7 320001 · F 133211
+
+**Ukulele:** C 0003 · G7 0212 · F 2010
+
+```text
+[C]Hai să zicem ^una,
+[G7]una este [C]luna
+
+[C]Hai să zicem ^una,
+[C]să se facă ^două
+[F]două mâini co[C]pilul are
+[G7]una este [C]luna
+
+[C]Hai să zicem ^două,
+[C]să se facă ^trei
+[F]trei crai vin din [C]depărtare
+[G7]două mâini co[C]pilul are
+[G7]una este [C]luna
+
+[C]Hai să zicem ^trei,
+[C]să se facă ^patru
+[F]patru boi la [C]plug se mână
+[G7]trei crai vin din [C]depărtare
+[F]două mâini co[C]pilul are
+[G7]una este [C]luna
+
+[C]Hai să zicem ^patru,
+[C]să se facă ^cinci
+[F]cinci sunt dege[C]te la mână
+[G7]patru boi la [C]plug se mână
+[F]trei crai vin din [C]depărtare
+[G7]două mâini co[C]pilul are
+[G7]una este [C]luna
+
+[C]Hai să zicem ^cinci,
+[C]să se facă ^șase
+[F]șase zile [C]lucrătoare
+...
+[F]două mâini co[C]pilul are
+[G7]una este [C]luna
+
+[C]Hai să zicem ^șase,
+[C]să se facă ^șapte
+[F]șapte zile-n [C]săptămână
+...
+[G7]două mâini co[C]pilul are
+[G7]una este [C]luna
+
+[C]Hai să zicem ^șapte,
+[C]să se facă ^opt
+[F]câte opt la [C]joc voinicii
+...
+[F]două mâini co[C]pilul are
+[G7]una este [C]luna
+
+[C]Hai să zicem ^opt,
+[C]să se facă ^nouă
+[F]nouă martie [C]Mucenicii
+...
+[G7]două mâini co[C]pilul are
+[G7]una este [C]luna
+
+[C]Hai să zicem ^nouă,
+[C]să se facă ^zece
+[F]zece nota [C]la purtare
+[G7]cel cuminte [C]sigur are
+[F]nouă martie [C]Mucenicii
+...
+[G7]două mâini co[C]pilul are
+[G7]una este [C]luna
+```
+
 #### Podul de piatră
 
 muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
@@ -21109,7 +21187,7 @@ muzica/versuri: Gr. Teodosiu · Sursa: Cărticica Karban, p. 259
 
 [C]Să stăm la ^gânduri, [G]a chib[C]zui,
 [C]Din ce a^nume [G]îl vom zi[C]di:
-[F]Din cara[C]mida, [G]din lemn cio[C]plit,
+[F]Din cara[C]midă, [G]din lemn cio[C]plit,
 [F]Din fier cu [C]nituri [G]sau din gra[C]nit?
 ```
 
@@ -21246,46 +21324,48 @@ Piu divertnete ancor sara.
 **Ukulele:** Am 2000 · E7 1202 · G 0232 · F 2010 · C 0003 · Dm 2210
 
 ```text
-Am   E7   G        F          C
-Angie, Angie, when will those clouds all disappear?
-Am   E7   G       F         C
-Angie, Angie, where will it lead us from here?
-     G              Dm       Am
-With no loving in our souls and no money in our coats
-C     F        G
-You can't say we're satisfied
-  Am   E7   G      F      C
-But Angie, Angie, you can't say we never tried
+[Am]Angie,  ^  [E7]An^gie,
+[G]  when will those [F]clouds all disa[C]ppear?  ^
+[Am]Angie,  ^  [E7]An^gie,
+[G]  where will it [F]lead us from [C]here?  ^
 
-Angie, you're beautiful, but ain't it time we said good-bye?
-Angie, I still love you, remember all those nights we cried?
-All the dreams we held so close seemed to all go up in smoke
-Let me whisper in your ear:
-Angie, Angie, where will it lead us from here?
+With no [G]loving in our ^souls
+and no [Dm]money in our [Am]coats
+[C]  You can't [F]say we're satis[G]fied  ^
+But [Am]Angie,  ^  [E7]An^gie,
+[G]  you can't [F]say we never [C]tried  ^
 
-  G                  Dm          Am
-Oh, Angie, don't you weep, all your kisses still taste sweet
-C        F        G
-I hate that sadness in your eyes
-  Am   E7    G     F            C
-But Angie, Angie, ain't it time we said good-bye?
-     G                Dm      Am
-With no loving in our souls and no money in our coats
-C     F        G
-You can't say we're satisfied
+[Am]Angie,  ^  you're [E7]beautiful,  ^
+[G]  but ain't it [F]time we said good-[C]bye?  ^
+[Am]Angie, ^  I still [E7]love you,  ^
+[G]  remember [F]all those nights we [C]cried?  ^
+All the [G]dreams we held so ^close
+seemed to [Dm]all go up in [Am]smoke  ^
+[C]  Let me [F]whisper in your [G]ear:  ^
+[Am]Angie,  ^  [E7]An^gie,
+[G]  where will it [F]lead us from [C]here?  ^
 
-  Dm                 Am
-But Angie, I still love you, baby
-Dm                Am
-Ev'rywhere I look I see your eyes
-Dm                Am
-There ain't a woman that comes close to you
-C    F     G
-Come on Baby, dry your eyes
-  Am   E7    G     F        C
-But Angie, Angie, ain't it good to be alive?
-Am   E7   G      F        C   Dm C
-Angie, Angie, they can't say we never tried
+Solo
+
+Oh, [G]Angie, don't you ^weep,
+all your [Dm]kisses still taste [Am]sweet
+[C]  I hate that [F]sadness in your [G]eyes  ^
+But [Am]Angie,  ^  [E7]An^gie,
+[G]  ain't it [F]time we said good-[C]bye?  ^
+
+With no [G]loving in our ^souls
+and no [Dm]money in our [Am]coats
+[C]  You can't [F]say we're satis[G]fied  ^
+
+But [Dm]Angie, ^I still love you, [Am]baby  ^
+[Dm]Ev'rywhere I look ^  I see your [Am]eyes  ^
+[Dm]There ain't a ^woman that comes [Am]close to you  ^
+[C]  Come on [F]Baby, dry your [G]eyes
+
+But [Am]Angie,  ^  [E7]An^gie,
+[G]  ain't it [F]good to be a[C]live?
+[Am]Angie,  ^  [E7]An^gie,
+[G]  they can't [F]say we never [C]tr[Dm][C]ied
 ```
 
 #### Anna Marie
@@ -32193,7 +32273,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Alexandru Zărnescu / Adrian Păunescu** — [Ultima zi](#ultima-zi)
 - **Anda Călugăreanu** — [Tăcut](#tăcut), [Verde crud (I)](#verde-crud-i), [Verde crud (II)](#verde-crud-ii)
 - **Andrei Mureșan / Anton Pann / popular (Din sânul maicii mele)** — [Deșteaptă-te române](#deșteaptă-te-române)
-- **Anonim** — [Amintiri din Făgăraș](#amintiri-din-făgăraș), [Bătrânul refugiu](#bătrânul-refugiu), [Cabana Mălăiești](#cabana-mălăiești), [Colo-n vale](#colo-n-vale), [Copilul munților](#copilul-munților), [Delirul](#delirul), [Dor de ducă (Anonim)](#dor-de-ducă-anonim), [Dor de munții mei](#dor-de-munții-mei), [Fata din Caraiman](#fata-din-caraiman), [Imnul ghizilor](#imnul-ghizilor), [Imnul prieteniei](#imnul-prieteniei), [Legenda Craiului](#legenda-craiului), [Libertate-n vârf de munți](#libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#mi-e-dragă-pădurea), [Păpușa](#păpușa), [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman), [Prieteni buni](#prieteni-buni), [Rămas bun cabanei](#rămas-bun-cabanei), [Seara de mai](#seara-de-mai), [Carolina](#carolina), [Hai, mândruțo!](#hai-mândruțo), [Ne-am cunoscut în troleibuz](#ne-am-cunoscut-în-troleibuz), [Un kil de rom](#un-kil-de-rom), [Bat la poarta ta](#bat-la-poarta-ta)
+- **Anonim** — [Amintiri din Făgăraș](#amintiri-din-făgăraș), [Bătrânul refugiu](#bătrânul-refugiu), [Cabana Mălăiești](#cabana-mălăiești), [Colo-n vale](#colo-n-vale), [Copilul munților](#copilul-munților), [Delirul](#delirul), [Dor de ducă (Anonim)](#dor-de-ducă-anonim), [Dor de munții mei](#dor-de-munții-mei), [Fata din Caraiman](#fata-din-caraiman), [Imnul ghizilor](#imnul-ghizilor), [Imnul prieteniei](#imnul-prieteniei), [Legenda Craiului](#legenda-craiului), [Libertate-n vârf de munți](#libertate-n-vârf-de-munți), [Mi-e dragă pădurea](#mi-e-dragă-pădurea), [Păpușa](#păpușa), [Pasiune (de a fi munțoman)](#pasiune-de-a-fi-munțoman), [Prieteni buni](#prieteni-buni), [Rămas bun cabanei](#rămas-bun-cabanei), [Seara de mai](#seara-de-mai), [Carolina](#carolina), [Hai, mândruțo!](#hai-mândruțo), [Ne-am cunoscut în troleibuz](#ne-am-cunoscut-în-troleibuz), [Un kil de rom](#un-kil-de-rom), [Bat la poarta ta](#bat-la-poarta-ta), [Numărătoare](#numărătoare)
 - **Anotimpul 5** — [Dacă n-ai amintiri](#dacă-n-ai-amintiri)
 - **Aurelian Andreescu** — [Dorul](#dorul), [Oameni](#oameni)
 - **Autentic** — [Trec țiganii](#trec-țiganii)
