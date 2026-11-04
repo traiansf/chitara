@@ -39,7 +39,9 @@ def rebuild_chord_line(line, shift):
     return buf
 
 
-INLINE_CHORD_RE = re.compile(r"\[\(?[A-G][^\]]*\]")  # [Am], or [(Am)] if optional
+# [Am], [(Am)] if optional, or a marker (make_pdf.INLINE_MARK)
+INLINE_CHORD_RE = re.compile(
+    r"\[\(?[A-G][^\]]*\]|\[(?i:no chords?|n\.c\.|nc|riff(?: [^\]]*)?|solo)\]")
 
 
 def transform_block(lines):

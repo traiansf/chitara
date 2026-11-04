@@ -106,8 +106,27 @@ def is_chord_line(ln):
 # an inline chord, [Am] — or [(Am)] for an optional one (play it or not),
 # whose label keeps the parentheses so it floats above the lyric as "(Am)"
 INLINE_CHORD = r"\[(\([A-G][^\]]*\)|[A-G][^\]]*)\]"
-INLINE_CHORD_RE = re.compile(INLINE_CHORD + r"|\^")
+# an inline marker that floats above the lyric like a chord but isn't one:
+# nothing to transpose, no fingering. Spelled any of these ways, in any case;
+# a riff may carry its own name: [Riff 3 + Turnaround]
+INLINE_MARK = r"\[(?i:(no chords?|n\.c\.|nc|riff(?: [^\]]*)?|solo))\]"
+INLINE_CHORD_RE = re.compile(INLINE_CHORD + "|" + INLINE_MARK + r"|\^")
+INLINE_MARK_RE = re.compile(INLINE_MARK)
 MIN_LABEL_GAP = 1  # whole characters of breathing room between adjacent floats
+
+
+def mark_label(text):
+    """What a marker's source text floats as: every no-chord spelling reads
+    "N.C.", a bare riff "riff"; a named riff and a solo stay as written."""
+    low = text.lower()
+    if low.startswith("n"):
+        return "N.C."
+    return "riff" if low == "riff" else text
+
+
+def is_mark(label):
+    """True if an inline token's label is a marker (INLINE_MARK), not a chord."""
+    return INLINE_MARK_RE.fullmatch(f"[{label}]") is not None
 
 
 def split_optional(label):
@@ -126,7 +145,12 @@ def inline_tokens(ln):
     tokens, col, i = [], 0, 0
     for m in INLINE_CHORD_RE.finditer(ln):
         col += m.start() - i
-        label = m.group(1) if m.group(1) is not None else "/"
+        if m.group(1) is not None:
+            label = m.group(1)
+        elif m.group(2) is not None:
+            label = mark_label(m.group(2))
+        else:
+            label = "/"
         tokens.append((col, label))
         i = m.end()
     return tokens
@@ -165,9 +189,10 @@ def layout_floating(tokens, min_gap=MIN_LABEL_GAP):
 
 def has_inline_chords(body):
     """True if any non-chord-line in this song body carries a real [Chord]
-    bracket — i.e. the song uses Karban-style inline notation rather than
-    (or in addition to) chords-above-lyrics."""
-    return any(is_text(ln) and not is_chord_line(ln) and REAL_CHORD_RE.search(ln)
+    bracket or a marker — i.e. the song uses Karban-style inline notation
+    rather than (or in addition to) chords-above-lyrics."""
+    return any(is_text(ln) and not is_chord_line(ln)
+               and (REAL_CHORD_RE.search(ln) or INLINE_MARK_RE.search(ln))
                for ln in body)
 
 

@@ -11706,14 +11706,17 @@ Intro:Solo
 [G7]Acoperă-mi inima [Cmaj7]cu ceva
 [Fmaj7]Cu umbra unui [Dm/B]copac sau mai bine
 [E7]Sau mai bine cu [E+5]umbra [Am]ta [B6sus4+5/E]
+
 [Solo]A venit a venit [Dm7]toamna
 [G7]Acoperă-mi inima [Cmaj7]cu ceva
 [Fmaj7]Cu umbra unui [Dm/B]copac sau mai bine
 [E7]Sau mai bine cu [E+5]umbra [Am]ta [B6sus4+5/E]
+
 [Am]Mă tem ca n-am să te mai [Dm7]văd uneori
-[G7]C-au să-ți crească aripi ascuțite [Cmaj7]pân¶ la nori
+[G7]C-au să-ți crească aripi ascuțite [Cmaj7]pân' la nori
 [Fmaj7]C-ai să te-ascunzi într-un [Dm/B]ochi străin
-[E7]Și el o să se-nchidă c-o frun[E+5]za de [Am]pelin
+[E7]Și el o să se-nchidă c-o frun[E+5]ză de [Am]pelin
+
 [Am]Și-atunci m-apropii de [Dm7]pietre și tac
 [G7]Iau cuvintele și le [Cmaj7]înec în mare
 [Fmaj7]Șuier luna și-o răsar și-o [Dm/B]prefac
@@ -20469,7 +20472,7 @@ Refren 3X
 
 #### Țigano
 
-**Bosquito** · muzica/versuri: Bosquito/Bosquito · Sursa: Cărticica Karban, p. 54
+**Bosquito** · Sursa: Cărticica Karban, p. 54
 
 **Chitară:** Dm xx0231 · Gm 355333 · C x32010 · Bb x13331 · A x02220
 
@@ -20489,7 +20492,7 @@ Refren:
 [Dm]Aa^ai [Gm]și-am să ard în [A]iad  ^
 Pentru [Dm]tine  ^  [Gm]  [A]
 
-[Dm]Ne iubeam, ^eram singuri pe [Gm]pământ  ^
+[Dm]Ne iubeam, ^eram singuri [Gm]pe pământ  ^
 [C]Ne sorbeam ^buzele cu [Bb]gust de vânt  ^
 [Dm]Ne scaldam ^prin pâraie-n [Gm]zori de zi  ^
 [C]Adormeam ^sub mesteceni [Bb]argintii  ^
@@ -20637,23 +20640,28 @@ E tot ce ne-a ră[A]mas...
 **Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222
 
 ```text
-[D]Strada pe care ai [G]stat [A]păstrează și [D]acum
+[D]Strada pe care ai [G]stat păs[A]trează și a[D]cum
 [D]Locuri prin care-altă[G]dat' cu [A]tine am tre[D]cut
-[D]Când ploaia în parc ne [G]prindea și [A]totul era liniș[D]tit
-[D]Trăiam clipe care-aș fi [G]vrut să [A]n-aibă un sfâr[D]șit.
+Când [D]ploaia în parc ne prin[G]dea și [A]totul era liniș[D]tit
+Tră[D]iam clipe care-aș fi [G]vrut să [A]n-aibă vreun sfâr[D]șit.
+
+Sunt [D]zile în care mă-n[G]treb ce [A]te-ar putea o[D]pri
+Să [D]fiu tot eu a[G]cela pe [A]care-l vei do[D]ri
+Sunt [D]singur de-a[G]tâta vreme, [A]singur și de [D]mult
+[D]La ușa mea nici nu [G]mai țin minte de [A]când nu ai bă[D]tut.
+
 Refren:
-[G]Un altul desi[A]gur te [D]va iubi mai [G]mult ^=[Bm]=[A]
-[A]Va fi un [G]alt înce[D]put
-[G]Nu știu desi[A]gur ce [D]ți-ai dori mai [G]mult ^=[Bm]=[A]
-[A]Poate un [G]alt înce[D]put.
-[D]Acuma mi-e greu să mai [G]cred că [A]tot ce s-a-ntâm[D]plat
-[D]Mai poate fi măcar o [G]dată mai [A]poate fi adevă[D]rat
-[D]În clipa-n care-ai să [G]pleci ce [A]rost ar mai [D]avea
-[D]Încearcă din nou să [G]speri ni[A]mic nu s-a schim[D]bat.
-[D]Sunt clipe în care mă-n[G]treb ce [A]te-ar putea [D]opri
-[D]Să fiu tot eu a[G]cela pe [A]care-l vei [D]dori
-[D]Sunt singur de-atâta [G]vreme, [A]singur și de [D]mult
-[D]La usa mea nici nu [G]mai țin minte de [A]când nu ai bă[D]tut.
+[G]  altul de[A]sigur te [D]va iubi mai [G]mult [G]=[Bm]=[A]
+[A]  Va fi un [G]alt înce[D]put  ^
+[G]  Nu știu de[A]sigur ce [D]ți-ai dorit mai [G]mult [G]=[Bm]=[A]
+[A]  Poate un [G]alt înce[D]put.
+
+A[D]cuma mi-e greu să mai [G]cred că [A]tot ce s-a-ntâm[D]plat
+Mai [D]poate fi măcar o [G]dată mai [A]poate fi adevă[D]rat
+În [D]clipa-n care-am să [G]plec ce [A]rost ar mai a[D]vea
+Prin  [D]față din nou să-ți [G]trec ni[A]mic nu s-a schim[D]bat.
+
+Refren x2
 ```
 
 Notă: La refren, `G` `Bm` `A` se execută cu câte o lovitură pe acord.
@@ -20768,32 +20776,30 @@ Oare când va fi...
 **Ukulele:** Am 2000 · G 0232 · Dm 2210 · F 2010 · C 0003
 
 ```text
-Am             G
-Când mă uit la mine cel ce-a fost
-Am         G
-Am ieșit rebelul fără rost
-Dm            Am
-Nu am trăit decât pentru o zi
-Dm              Am
-Nu m-am mirat a fi
+[Am]  Când mă ^uit la [G]mine cel ce-a ^fost
+[Am]  Am ie^șit re[G]belul fără ^rost
+[Dm]  Nu am tră^it de[Am]cât pentru o ^zi
+[Dm]  Nu m-am mi^rat a [Am]fi  ^
 
-Am pierdut și nici că am știut
-Zile-au fost un joc neîntrerupt
-Nu am știut decât să uit mereu
-Că mâine voi fi tot eu
+[Am]  Am pier^dut și [G]nici că am ști^ut
+[Am]  Zile-au ^fost un [G]joc neîntre^rupt
+[Dm]  Nu am ști^ut de[Am]cât să uit me^reu
+[Dm]  Că mâine voi ^fi tot [Am]eu  ^
 
-Refren x2:
-F         G               C             Am
-Tot ce-am vrut a fost ca timpul să mai stea
-F      G              Am
-Nu mai mult ca viața mea
-Nu îmi pare rău de anii ce-au trecut
-Ei mi-au dat ce n-am avut
+Refren:
+[F]  Tot ce-am [G]vrut a fost ca [C]timpul să mai [Am]stea
+[F]  Nu mai [G]mult ca viața [Am]mea  ^
+[F]  Nu îmi [G]pare rău de [C]anii ce-au tre[Am]cut
+Ei mi-au [F]dat ce [G]n-am a[Am]vut
 
-Tot ce-am vrut a fost ca timpul să mai stea
-Nu mai mult ca viața mea
-Nu îmi pare rău de anii ce-au trecut
-Toți plecam ca un vis pierdut...
+Solo
+
+Refren
+
+[F]  Tot ce-am [G]vrut a fost ca [C]timpul să mai [Am]stea
+[F]  Nu mai [G]mult ca viața [Am]mea  ^
+[F]  Nu îmi [G]pare rău de [C]anii ce-au tre[Am]cut  [no chords]
+Toți ple[F]căm [G]ca un vis pier[Am]dut...
 ```
 
 #### Voi pluti

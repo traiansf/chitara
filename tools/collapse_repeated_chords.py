@@ -41,8 +41,11 @@ CHORD_RE = re.compile(
 SKIP_TOKENS = {"FC", "FCG", "[fill]", "/"}
 # [Am], or [(Am)] for an optional chord: one is never collapsed into "^"
 # nor is it a repeat of the plain chord before it, but it still stands
-# between two plain ones, so [D]..[(G)]..[D] keeps its second [D]
-INLINE_RE = re.compile(r"\[(\([A-G][^\]]*\)|[A-G][^\]]*)\]")
+# between two plain ones, so [D]..[(G)]..[D] keeps its second [D]. The same
+# goes for a marker (make_pdf.INLINE_MARK): [D]..[N.C.]..[D] keeps its [D]
+INLINE_RE = re.compile(
+    r"\[(\([A-G][^\]]*\)|[A-G][^\]]*"
+    r"|(?i:no chords?|n\.c\.|nc|riff(?: [^\]]*)?|solo))\]")
 
 
 def line_is_chords(line):
@@ -60,7 +63,7 @@ def collapse_line(line):
         out.append(gap)
         stripped.append(gap)
         chord = m.group(1)
-        repeat = chord == prev_chord and not chord.startswith("(")
+        repeat = chord == prev_chord and chord[0] in "ABCDEFG"
         out.append("^" if repeat else m.group(0))
         n += repeat
         prev_chord, last_end = chord, m.end()

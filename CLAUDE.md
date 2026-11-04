@@ -260,6 +260,13 @@ Ce face fiecare grup:
   parantezele le desenează `site.css`, clasa `.ch.opt`). Intră în
   rândurile de digitații și nu devine niciodată `^`; nici acordul de după
   el nu se comprimă în `^` peste el (`[D]…[(G)]…[D]` rămâne așa).
+- Tot în notația inline există marcaje care nu sunt acorduri, dar plutesc
+  deasupra versului ca ele (fără să conteze literele mari; `INLINE_MARK`
+  din `make_pdf.py`): `[no chord]`, `[no chords]`, `[N.C.]` sau `[NC]` apar
+  ca `N.C.`, `[riff]` apare ca `riff`, iar un riff cu nume
+  (`[Riff 3 + Turnaround]`) și `[Solo]` apar cum sunt scrise. Nu se transpun, nu
+  intră în rândurile de digitații și nu au tooltip pe site. Nici ele nu devin
+  `^` și nici acordul de după ele nu se comprimă peste ele.
 - Blocurile ` ```tab ` se randează separat, mereu monospațiat și fără
   rupere de rând — și în cântecele cu font proporțional: în PDF își
   micșorează doar propriul font cât să încapă în coloană, pe site se

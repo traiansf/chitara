@@ -49,6 +49,8 @@ pre {
    are drawn here, around whatever name chords.js writes in */
 .ch.opt::before { content: "("; }
 .ch.opt::after { content: ")"; }
+/* a marker floated like a chord (N.C., riff): no fingering tooltip to offer */
+.ch.mark { cursor: default; }
 /* a chord named in a note: looks like one, has the fingering tooltip,
    and is transposed like any other chord */
 .fingering[data-chord] { cursor: help; }

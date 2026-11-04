@@ -73,7 +73,11 @@ def inline_chord_span(label, attrs="", cls=""):
     chord even for an optional one ("(G)", see make_pdf.split_optional),
     so transposing and the fingering tooltip treat it like any other;
     its "opt" class has site.css draw the parentheses around whatever
-    name chords.js writes into it."""
+    name chords.js writes into it. A marker (make_pdf.is_mark) gets no
+    data-chord: chords.js leaves it alone and it has no fingering tooltip."""
+    if make_pdf.is_mark(label):
+        classes = " ".join(c for c in ("ch mark", cls) if c)
+        return f'<span class="{classes}"{attrs}>{html.escape(label, quote=False)}</span>'
     chord, optional = make_pdf.split_optional(label)
     classes = " ".join(c for c in ("ch", "opt" if optional else "", cls) if c)
     attr = html.escape(chord, quote=True)
@@ -180,7 +184,7 @@ def render_pre_interactive(body_lines):
                 lyric.append(" " * spaces_before)
             pos = m.end()
             style = f'style="left:{left}ch"'
-            if m.group(1) is not None:
+            if label != "/":
                 floats.append(inline_chord_span(label, f" {style}", "float"))
             else:
                 floats.append(f'<span class="rep float" {style}>/</span>')
