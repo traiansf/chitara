@@ -526,7 +526,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Angie](#angie)
 - [Anna Marie](#anna-marie)
 - [Another Brick in the Wall](#another-brick-in-the-wall)
-- [Blowing in the Wind](#blowing-in-the-wind)
+- [Blowin' in the Wind](#blowin-in-the-wind)
 - [Bye Bye Love](#bye-bye-love)
 - [Chant Des Adieux](#chant-des-adieux)
 - [Country Roads](#country-roads)
@@ -21365,7 +21365,7 @@ But [Dm]Angie, ^I still love you, [Am]baby  ^
 But [Am]Angie,  ^  [E7]An^gie,
 [G]  ain't it [F]good to be a[C]live?
 [Am]Angie,  ^  [E7]An^gie,
-[G]  they can't [F]say we never [C]tr[Dm][C]ied
+[G]  they can't [F]say we never [C]tri[Dm]i[C]ied
 ```
 
 #### Anna Marie
@@ -21415,57 +21415,68 @@ As I loved my Anna Marie.
 
 ```text
    Dm
-We don't need no education
-We don't need no thought control
-No dark sarcasm in the classroom
-Teacher leave us kids alone !
+[Dm]We don't need no ^education  ^   ^
+[Dm]We don't need no ^thought control  ^   ^
+No [Dm]dark sarcasm ^in the classroom  ^  ^
+[Dm]Teacher leave them ^kids alone!  [G]  ^
 
- G                     Dm
-Hey teacher leave us kids alone
-  F                  C                Dm
-All in all you're just another brick in the wall
-All in all you're just another brick in the wall.
+[G]  Hey ^teacher leave them kids a[Dm]lone  ^
+[F]  All in all it's just a[C]nother brick in the [Dm]wall
+[F]  All in all you're just a[C]nother brick in the [Dm]wall
 ```
 
-#### Blowing in the Wind
+#### Blowin' in the Wind
 
-Sursa: Caiet cabană EN, p. 30
+**Bob Dylan** · Sursa: Caiet cabană EN, p. 30
 
-**Chitară:** C x32010 · F 133211 · G 320003 · Am x02210
+**Chitară:** C x32010 · F 133211 · G7 320001 · Am x02210
 
-**Ukulele:** C 0003 · F 2010 · G 0232 · Am 2000
+**Ukulele:** C 0003 · F 2010 · G7 0212 · Am 2000
 
 ```text
-Bob Dylan
 1.
-    C      F        G       Am
-How many roads must a man walk down
-     C          F       G
-before you can call him a man ?
-Yes n how many seas must a white dove sail
-before she sleeps in the sand?
-Yes n how many times must the cannon
-balls fly before they're forever banned?
+[C]How many [F]roads
+must a [G7]man walk [C]down
+be[C]fore you [F]call him a [G7]man?  ^
+
+Yes 'n' [C]how many [F]seas
+must a [G7]white dove [C]sail
+be[C]fore she [F]sleeps in the [G7]sand?  ^
+
+Yes 'n' [C]how many [F]times
+must the [G7]cannonballs [C]fly
+be[C]fore they're [F]forever [G7]banned?  ^
+
 R:
-    F         G       C         Am
-The answer my friend is blowing in the
-wind
-       F       G         C
-the answer is blowing in the wind
+The [F]answer my [G7]friend
+is [C]blowin' in the [Am]wind
+the [F]answer is [G7]blowin' in the [C]wind  ^
+
 2.
-How many times must a man look up
-before he can see the sky?
-Yes n how many ears must one man have
-before he can hear people cry ?
-Yes n how many deaths will it take till he know
-that too many people have died?
+[C]How many [F]years
+can a [G7]mountain e[C]xist
+be[C]fore it's [F]washed to the [G7]sea?  ^
+
+Yes 'n' [C]how many [F]years
+can some [G7]people e[C]xist
+be[C]fore they're al[F]lowed to be [G7]free?  ^
+
+Yes 'n' [C]how many [F]times
+can a [G7]man turn his [C]head
+pre[C]tending he [F]just doesn't [G7]see?  ^
+
 3.
-How many years can a mountain exist
-before its washed to the sea?
-Yes n how many years can some people exist
-before they're allowed to be free?
-Yes n how many times can a man turn his head
-pretending he just didn't see?
+[C]How many [F]times
+must a [G7]man look [C]up
+be[C]fore he can [F]see the [G7]sky?  ^
+
+Yes 'n' [C]how many [F]ears
+must [G7]one man [C]have
+be[C]fore he can [F]hear people [G7]cry?  ^
+
+Yes 'n' [C]how many [F]deaths
+will it [G7]take till he [C]knows
+that [C]too many [F]people have [G7]died?  ^
 ```
 
 #### Bye Bye Love
@@ -32281,7 +32292,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Beatles** — [Girl](#girl), [Hey Jude](#hey-jude), [I Want to Hold Your Hand](#i-want-to-hold-your-hand), [Let It Be](#let-it-be), [Michelle](#michelle), [Ticket to Ride](#ticket-to-ride), [Twist and Shout](#twist-and-shout), [With a Little Help from My Friends](#with-a-little-help-from-my-friends), [Yellow Submarine](#yellow-submarine), [Yesterday](#yesterday)
 - **Ben E. King** — [Stand by Me](#stand-by-me)
 - **Bmby** — [Doi ochi căprui](#doi-ochi-căprui)
-- **Bob Dylan** — [Don't Think Twice, It's Alright](#dont-think-twice-its-alright), [Knockin' on Heaven's Door](#knockin-on-heavens-door), [Mr. Tambourine Man (Bob Dylan)](#mr-tambourine-man-bob-dylan)
+- **Bob Dylan** — [Blowin' in the Wind](#blowin-in-the-wind), [Don't Think Twice, It's Alright](#dont-think-twice-its-alright), [Knockin' on Heaven's Door](#knockin-on-heavens-door), [Mr. Tambourine Man (Bob Dylan)](#mr-tambourine-man-bob-dylan)
 - **Bosquito** — [Bosquito](#bosquito), [Țigano](#țigano)
 - **Brenda Lee** — [Rocking Around the Christmas Tree](#rocking-around-the-christmas-tree)
 - **Buru (Adrian Burnichi)** — [Sunt sărac](#sunt-sărac)
