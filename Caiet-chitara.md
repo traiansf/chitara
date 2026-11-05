@@ -37,7 +37,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [II.2 — Ne-folk](#ii2--ne-folk) (70 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (9 cântece)
 
-**[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (94 cântece)
+**[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (93 cântece)
 
 **[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (115 cântece)
 
@@ -531,7 +531,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Bye Bye Love](#bye-bye-love)
 - [Chant Des Adieux](#chant-des-adieux)
 - [Don't Cry (I)](#dont-cry-i)
-- [Don't Cry (II)](#dont-cry-ii)
 - [Don't Think Twice, It's Alright](#dont-think-twice-its-alright)
 - [Dove Troveremo Tutto Il Pane](#dove-troveremo-tutto-il-pane)
 - [Dream a Little Dream](#dream-a-little-dream)
@@ -21608,145 +21607,57 @@ Saura nous revoir.
 
 #### Don't Cry (I)
 
-**Guns'n'roses** · Sursa: Caiet Christian Adventure, p. 192 · Caiet cabană EN, p. 56
+**Guns'n'roses** · Sursa: Caiet Christian Adventure, p. 192, p. 193 · Caiet cabană EN, p. 56
 
 **Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · G/B x20003 · F 133211 · E 022100
 
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · G/B 0232 · F 2010 · E 4442
 
 ```text
-Am       Dm
-Talk to me softly
-G             C   G/B
-There's something in your eyes
-Am         Dm
-Don't hang your head in sorrow
-G        C  G/B
-And please don't cry
-Am       Dm
-I know how you feel inside I've
-G          C    G/B
-I've been there before
-Am      Dm
-Somethin' is changin' inside you
-G      C    G/B
-And don't you know
+[Am]  Talk to me [Dm]softly
+[G]  There's something in your [C]eyes[G/B]
+[Am]  Don't hang your [Dm]head in sorrow
+[G]  And please don't [C]cry[G/B]
+[Am]  I know how you [Dm]feel inside I've
+[G]  I've been there be[C]fore[G/B]
+[Am]  Somethin' is [Dm]changin' inside you
+[G]  And don't you [C]know[G/B]
 
 CHORUS:
+[F]  Don't you [G]cry to[Am]night I still ^love you baby
+[F]  Don't you [G]cry to[Am]night  ^
+[F]  Don't you [G]cry to[C]night
+there's a [G/B]heaven a[Am]bove you [G]baby
+[F]  Don't you [G]cry to[Am]night  ^
 
-F     G   Am
-Don't you cry tonight I still love you
-baby
-F     G   Am
-Don't you cry tonight
-F     G   C         G/B   Am       G
-Don't you cry tonight there's a
-heaven above you baby
-F      G    Am
-And don't you cry tonight
+[Am]  Give me a [Dm]whisper
+[G]  And give me a [C]sigh[G/B]
+[Am]  Give me a [Dm]kiss before you
+[G]  Tell me good[C]bye[G/B]
+[Am]  Don't you [Dm]take it so hard now
+[G]And please don't take it so [C]bad[G/B]
+[Am] I'll still be [Dm]thinkin' of you
+[G]And the times we [C]had... [G/B]Baby
 
-Give me a whisper
-And give me a sigh
-Give me a kiss before you
-Tell me goodbye
-Don't you take it so hard now
-And please don't take it so bad
-
-I'll still be thinkin' of you
-And the times we had... Baby
 And CHORUS
 
-And please remember
-That I never lied
-And please remember
-How I felt inside now honey
-You gotta make it your own way
-But you'll be alright now sugar
-You'll feel better tomorrow
-Come the morning light now baby
+[Am]  And please re[Dm]member
+[G]  That I never [C]lied[G/B]
+[Am]  And please re[Dm]member
+[G]  How I felt in[C]side now [G/B]honey
+[Am]  You gotta [Dm]make it your own way
+[G]  But you'll be al[C]right now [G/B]sugar
+[Am]  You'll feel [Dm]better tomorrow
+[Am]  Come the morning [C]light now [G/B]baby
 
-And don't you cry tonight
-F      G    Am
-And don't you cry tonight
-F      G    C         G/B   Am       G
-And don't you cry tonight there's a
-heaven above you baby
-F      G
-And don't you cry
-F       G
-Don't you ever cry
-F     G   E
-Don't you cry tonight
-   F
-Baby maybe someday
-F     G
-Don't you cry
-F         G
-Don't you ever cry
-F     G   C
-Don't you cry tonight
-
-CHORUS
-```
-
-#### Don't Cry (II)
-
-variantă a cântecului „Don't Cry” · Sursa: Caiet Christian Adventure, p. 193 (unde apare greșit intitulat „Dust in the Wind”, atribuit Kansas)
-
-**Chitară:** Am x02210 · Dm xx0231 · G 320003 · C x32010 · F 133211
-
-**Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · F 2010
-
-```text
-Am         Dm
-Talk to me softly there's
-G            C
-somethin' in your eye
-Am           Dm
-Don't hang your head in sorrow
-G           C
-and please don't cry
-
-I know how you feel inside I've
-I've been there before
-Something is changing inside you
-and don't you know
-
-CHORUS:
-
- F          G       Am
-Don't you cry tonight
-          Am
-I still love you baby
-   F       G     Am
-Don't you(G)cry(Am)tonight
-   F        G
-Don't you cry tonight
-                         Am
-there's a heaven above you baby
-
-    F             G  Am
-And don't you cry tonight
-
-Give me a whisper
-and give me a sigh
-Give me a kiss before you
-tell me goodbye
-Don't you take it so hard now
-and please don't take it so bad
-I'll still be thinking of you
-and the times we had, baby
-
-CHORUS
-
-And please remember
-that i never lied
-Oh, and please remember
-how i felt inside, now honey
-You gotta make it your own way
-but you'll be alright, now sugar
-you'll fell better tomorrow
-in the morning light now baby
+CHORUS (with ending)
+[F]  And don't you [G]cry
+[F]  Don't you ever [G]cry
+[F]  Don't you [G]cry to[E]night
+Baby [E]maybe someday
+[F]  Don't you [G]cry
+[F]  Don't you ever [G]cry
+[F]  Don't you [G]cry to[C]night
 
 CHORUS
 ```
@@ -24773,9 +24684,9 @@ Solo Dios, basta.
 ```text
 1.
 [C]  ^  Almost [C]heaven, ^  West [G]Virginia,
-[G]  Blue Ridge [Am]Mountains, ^  Shenandoah [F]River.
-[F]  Life is [C]old there, ^  older than the [G]trees,
-[G]  Younger than the [F]mountains, ^  blowing like a [C]breeze.  ^
+[G]  Blue Ridge [Am]Mountains, ^Shenandoah [F]River.
+[F]  Life is [C]old there, ^older than the [G]trees,
+[G]Younger than the [F]mountains, ^blowing like a [C]breeze.  ^
 
 R:
   Country [C]road, ^  take me [G]home
@@ -24792,7 +24703,7 @@ R:
 3.
 [C]  I hear her [G]voice, in the [Am]morning hours she ^calls me,
 The [F]radio re[C]minds me of my [G]home far a^way.
-And [C]driving down the [Bb]road I get  [F]feeling
+And [C]driving down the [Bb]road I get a [F]feeling
 That I [C]should have been home [G]yesterday, ^  yester^day.  ^
 ```
 
