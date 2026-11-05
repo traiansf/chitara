@@ -177,5 +177,4 @@
 - Blowin' in the Wind [C]
 - Bye Bye Love [F]
 - Take Me Home, Country Roads [C]
-
-
+- Don't Think Twice, It's Alright [C]

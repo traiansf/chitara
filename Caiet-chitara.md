@@ -21666,56 +21666,50 @@ CHORUS
 
 **Bob Dylan** · Sursa: Caiet cabană EN, p. 28
 
-**Chitară:** G 320003 · D xx0232 · Em 022000 · C x32010 · Am x02210
+**Chitară:** G 320003 · D xx0232 · Em 022000 · C x32010 · Am x02210 · G7 320001
 
-**Ukulele:** G 0232 · D 2220 · Em 0432 · C 0003 · Am 2000
+**Ukulele:** G 0232 · D 2220 · Em 0432 · C 0003 · Am 2000 · G7 0212
 
 ```text
 1.
-It [G]ain't no use to [D]sit and wonder [Em]why, babe  ^
+It [G]ain't no use to [D]sit and wonder [Em]why, ^babe
 [C]  It don't ^matter any[D]how  ^
-    G                  D         Em
-And it ain't no use to sit and wonder why, babe
-     Am            D
-If you don't know by now.
-  G
-When the rooster crows at the break of dawn
-  C              Em
-Look out your window and I'll be gone
- G           D    Em       C
-You're the reason I'm travellin' on
-  G         D           G
-Don't think twice, it's alright.
+An'it [G]ain't no use to [D]sit and wonder [Em]why, ^babe
+[Am]  If you don't ^know by [D]now.  ^
+When the [G]rooster ^crows at the [(G7)]break of ^dawn
+Look [C]out your ^window and [Em]I'll be ^gone
+[G]You're the [D]reason I'm [Em]travellin' [C]on
+[G]Don't think [D]twice, it's al[G]right.  ^
 
 2.
-It ain't no use in turnin' on you light, babe
-A light I never knowed
-It ain't no use in turnin' on your light, babe
-I'm on the dark side of the road
-Still I wish there were something you would do or say
-To try and make me change my mind and stay
-We never did too much talkin' anyway
-So don't think twice, it's alright.
+It [G]ain't no use in [D]turnin' on your [Em]light, ^babe
+[C]  That light ^I never [D]knowed  ^
+An'it [G]ain't no use in [D]turnin' on your [Em]light, ^babe
+[Am]  I'm on the ^dark side of the [D]road.  ^
+Still I [G]wish there ^were something you would [(G7)]do or ^say
+To [C]try and ^make me change my [Em]mind and ^stay
+[G]We never [D]did too much [Em]talkin' any[C]way
+So [G]don't think [D]twice, it's al[G]right.  ^
+
+4.
+It [G]ain't no use in [D]callin' out my [Em]name, ^gal
+[C]  Like you ^never did be[D]fore  ^
+It [G]ain't no use in [D]callin' out my [Em]name, ^gal
+[Am]  I can't ^hear you any[D]more.  ^
+I'm a-[G]thinkin' and a-^wonderin' all the [(G7)]way down the ^road
+I [C]once loved a ^woman, a [Em]child I am ^told
+I [G]gave her my [D]heart but she [Em]wanted my [C]soul
+But [G]don't think [D]twice, it's al[G]right.  ^
 
 3.
-I'm walkin' down that long lonesome road, babe
-Where I'm bound, I can't tell
-Goodbye is too good a word, gal
-So I'll just say, fare thee well.
-I'm not sayin' you treated me unkind
-You could have done better but I don't mind
-You just kind of wasted my precious time
-But don't think twice, it's alright.
-4.
-It ain't no use in callin' out my name, gal
-Like you never done before
-It ain't no use in callin' out my name, gal
-I can't hear you anymore
-
-I'm a-thinkin' and a-wonderin' all the way down the road
-I once loved a woman, a child I am told
-I'd give her my heart but she wanted my soul
-But don't think twice, it's alright.
+I'm [G]walkin' down that [D]long, lonesome [Em]road, ^babe
+[C]  Where I'm ^bound, I can't [D]tell  ^
+[G]Goodbye is [D]too good a [Em]word, ^gal
+[Am]  So I'll just ^say, fare thee [D]well.  ^
+[G]I'm not ^sayin' you treated [(G7)]me un^kind
+You [C]could have done ^better but [Em]I don't ^mind
+You [G]just kind of [D]wasted [Em]my precious [C]time
+But [G]don't think [D]twice, it's al[G]right.  ^
 ```
 
 #### Dove Troveremo Tutto Il Pane
