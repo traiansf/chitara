@@ -14074,39 +14074,39 @@ Trimite-mi vesti, aș[F]tept un semn din par[C]tea ta
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · D7 2223 · G7 0212 · C7 0001 · G/B 0232
 
 ```text
-Hei! Și [C]la ce bun să-[G]ntrebi de ce, iu[Am]bito,
-[F]  dacă n-ai af[(C)]lat de[G]ja?
-Hei! Și [C]la ce bun să-[G]ntrebi de ce, iu[Am]bito?
-[D7]  Acum tot n-ar [(G)]mai con[G7]ta.
-Când co[C]coșii tai vor cân[(C7)]ta în zori
-Pe [F]geam te uită, eu sînt [(D7)]călător.
+Hei! Și [C]la ce bun să-[G]ntrebi de ce, iu[Am]bito,  ^
+[F]  dacă ^n-ai af[(C)]lat de[G]ja?  ^
+Hei! Și [C]la ce bun să-[G]ntrebi de ce, iu[Am]bito?  ^
+[D7]  Acum ^tot n-ar [(G)]mai con[G7]ta.  ^
+Când co[C]coșii ^tăi vor cân[(C7)]ta în ^zori
+Pe [F]geam te ^uită, eu sînt [(D7)]călă^tor.
 [C]Tu ești de [G/B]vină că mă [Am]pierd din nou în [F]nori.
-Dar [C]nu-i ni[G]mic, asta [C]e!
+Dar [C]nu-i ni[G]mic, asta [C]e!  ^
 
-Hei! Și [C]la ce bun s-[G]aprinzi acum lu[Am]mina,
-[F]  cea de care [(C)]n-am af[G]lat?
-Hei! Și [C]la ce bun s-[G]aprinzi acum lu[Am]mina?
-[D7]  Drumul meu e-n[(G)]tune[G7]cat.
-Dar do[C]ream cumplit să fi gă[(C7)]sit ceva de spus
-[F]O vorbă bună ce-na[(D7)]poi m-ar fi adus.
+Hei! Și [C]la ce bun s-[G]aprinzi acum lu[Am]mina,  ^
+[F]  cea de ^care [(C)]n-am af[G]lat?  ^
+Hei! Și [C]la ce bun s-[G]aprinzi acum lu[Am]mina?  ^
+[D7]  Drumul ^meu e-n[(G)]tune[G7]cat.  ^
+Dar do[C]ream cum^plit să fi gă[(C7)]sit ceva de ^spus
+O [F]vorbă ^bună ce-na[(D7)]poi m-ar fi a^dus.
 [C]Timp de vorbe mul[G/B]te pentru [Am]noi n-a fost de-[F]ajuns.
-Dar [C]nu-i ni[G]mic, asta [C]e!
+Dar [C]nu-i ni[G]mic, asta [C]e!  ^
 
-Hei! Și [C]la ce bun să [G]mă mai strigi pe [Am]nume,
-[F]  cum nu te-am mai [(C)]au[G]zit?
-Hei! Și [C]la ce bun să [G]mă mai strigi pe [Am]nume?
-[D7]Nu te-aud, am [(G)]asur[G7]zit.
-Dar mă [C]tot frământ și mă gân[(C7)]desc pe calea mea
-Iu[F]beam o femeie, "biet co[(D7)]pil" îmi spunea
+Hei! Și [C]la ce bun să [G]mă mai strigi pe [Am]nume,  ^
+[F]  cum nu ^te-am mai [(C)]au[G]zit?  ^
+Hei! Și [C]la ce bun să [G]mă mai strigi pe [Am]nume?  ^
+[D7]  Nu te-^aud, am [(G)]asur[G7]zit.  ^
+Dar mă [C]tot fră^mânt și mă gân[(C7)]desc pe calea ^mea
+Iu[F]beam o fe^meie, "biet co[(D7)]pil" îmi spu^nea
 Ei [C]inima i-am [G/B]dat, dar ea su[Am]fletu-mi do[F]rea.
 Dar [C]nu-i ni[G]mic, asta [C]e!
 
-[C]Și [G]deci, deci a[Am]dio!
-Unde [F]plec? păi [(C)]nu prea [G]știu,
-Dar [C]pe cu[G]rând nu-i bun iu[Am]bito, nu!
+[C]  Și [G]deci, deci a[Am]dio!  ^
+Unde [F]plec? ^  păi [(C)]nu prea [G]știu,  ^
+Dar [C]pe cu[G]rând nu-i bun iu[Am]bito, ^nu!
 [D7]  Un adio [(G)]e mai [G7]viu.
-Nu, [C]nu-i timp acum de vreun [(C7)]vag reproș,
-Pu[F]teai tu multe, dar [(D7)]ce folos?
+Nu, [C]nu-i timp a^cum de vreun [(C7)]vag re^proș,
+Pu[F]teai tu ^multe, dar [(D7)]ce fo^los?
 [C]Tu mi-ai chelt[G/B]uit anii [Am]mei cei mai fru[F]moși.
 Dar [C]nu-i ni[G]mic, asta [C]e!
 Dar [C]nu-i ni[G]mic, asta [C]e!
