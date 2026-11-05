@@ -147,6 +147,7 @@
 - Dacă pleci [F]
 - Dragă Otee [Am]
 - Fata din vis [C]
+- Hai acasă [C]
 - La fereastra ta [Dm]
 - Nunta [A]
 - Ochi negri, ochi de țigan [Dm]
@@ -175,6 +176,6 @@
 - Angie [Am]
 - Blowin' in the Wind [C]
 - Bye Bye Love [F]
-- Country Roads [C]
+- Take Me Home, Country Roads [C]
 
 

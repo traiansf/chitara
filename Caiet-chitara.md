@@ -31,9 +31,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
 - [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (34 cântece)
 
-**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (278 cântece)
+**[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (279 cântece)
 
-- [II.1 — Folk](#ii1--folk) (199 cântece)
+- [II.1 — Folk](#ii1--folk) (200 cântece)
 - [II.2 — Ne-folk](#ii2--ne-folk) (70 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (9 cântece)
 
@@ -317,6 +317,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Gara](#gara)
 - [Glosă](#glosă)
 - [Grasă](#grasă)
+- [Hai Acasă](#hai-acasă)
 - [Hanul lui Manuc](#hanul-lui-manuc)
 - [Hei trenule](#hei-trenule)
 - [Iertările](#iertările)
@@ -529,7 +530,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Blowin' in the Wind](#blowin-in-the-wind)
 - [Bye Bye Love](#bye-bye-love)
 - [Chant Des Adieux](#chant-des-adieux)
-- [Country Roads](#country-roads)
 - [Don't Cry (I)](#dont-cry-i)
 - [Don't Cry (II)](#dont-cry-ii)
 - [Don't Think Twice, It's Alright](#dont-think-twice-its-alright)
@@ -597,6 +597,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Still Loving You](#still-loving-you)
 - [Sweet Memories](#sweet-memories)
 - [Taizé](#taizé)
+- [Take Me Home, Country Roads](#take-me-home-country-roads)
 - [Tears in Heaven](#tears-in-heaven)
 - [The Caravan of Love](#the-caravan-of-love)
 - [The Islander](#the-islander)
@@ -12326,6 +12327,43 @@ A         E
 -|---------|-0-0-0---|
 ```
 
+#### Hai Acasă
+
+**Gil Dobrică** · muzica/versuri: John Denver (Take me Home, Country Roads)/Gil Dobrică · Sursa: [radiovacanta.ro](https://www.radiovacanta.ro/muzica-radio-vacanta/gil-dobrica-hai-acasa-9313.html)
+
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Bb x13331
+
+**Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Bb 3211
+
+```text
+[C]  ^  Hai a[C]casă, ^  hai cu [G]mine.
+[G]  Hai cu [Am]mine ^să pornim la [F]drum.
+[F]  Ne aş[C]teaptă ^casa noastră [G]dragă,
+[G]  Iarba [F]verde ^şi poteci de [C]drum.  ^
+
+Refren:
+Munţi şi [C]văi, (munţi şi ^văi)
+Mori de [G]vânt, (mori de ^vânt)
+Râuri [Am]repezi, (râuri ^repezi),
+trecă[F]tori...  ^
+Ne aş[C]teaptă, (ne aş^teaptă)
+Mama, [G]tata, (mama, ^tata)
+Prieteni [F]vechi, (prieteni ^vechi)
+Fraţi si su[C]rori, (fraţi si su^rori)
+
+[C]  Ascult a[G]desea glasul [Am]dulce ce mă ^cheamă
+[F]Casa părin[C]tească să-mi re[G]văd mai cu^rând
+[C]Şi să mângâi [Bb]părul alb al [F]mamei voi ve[C]ni
+Dragii [G]mei, ^  dragii ^mei  ^
+
+[C]  Amin^tiri [Am]  dragi îmi re^vin
+[G]Din copilă^ria [F]anilor tre[C]cuţi
+[C]De bătrâni la ^şcoală, [Am]lanuri au^rii
+[G]De vecini la ^coasă [F]şi fete zglo[C]bii.  ^
+
+Refren x3
+```
+
 #### Hanul lui Manuc
 
 **Mircea Vintilă/Pasărea Colibri** · muzica/versuri: Mircea Vintilă/Adrian Păunescu · Sursa: Cărticica Karban, p. 169
@@ -21568,40 +21606,6 @@ Car Dieu qui nous voit tous ensamble
 Saura nous revoir.
 ```
 
-#### Country Roads
-
-**John Denver** · Sursa: Caiet cabană EN, p. 33
-
-**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Bb x13331
-
-**Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Bb 3211
-
-```text
-1.
-[C]  ^  Almost [C]heaven, ^  West [G]Virginia,
-[G]  Blue Ridge [Am]Mountains, ^  Shenandoah [F]River.
-[F]  Life is [C]old there, ^  older than the [G]trees,
-[G]  Younger than the [F]mountains, ^  blowing like a [C]breeze.  ^
-
-R:
-  Country [C]road, ^  take me [G]home
-[G]  To the [Am]place ^  I be[F]long,
-[F]  West Vir[C]ginia, ^  mountain [G]momma,
-[G]  Take me [F]home, ^  country [C]road.  ^
-
-2.
-[C]  All my ^mem'ries  [Am]  gather ^'round her,
-[G]  Miner's ^lady, [F]stranger to blue [C]water.
-[C]  Dark and ^dusty, [Am]painted on the ^sky,
-[G]Misty taste of ^moonshine, [F]tear-drop in my [C]eye.  ^
-
-3.
-[C]  I hear her [G]voice, in the [Am]morning hours she ^calls me,
-The [F]radio re[C]minds me of my [G]home far a^way.
-And [C]driving down the [Bb]road I get  [F]feeling
-That I [C]should have been home [G]yesterday, ^  yester^day.  ^
-```
-
 #### Don't Cry (I)
 
 **Guns'n'roses** · Sursa: Caiet Christian Adventure, p. 192 · Caiet cabană EN, p. 56
@@ -24756,6 +24760,40 @@ Nada te turbe, nada te spanta
 Chen a Dios tiene nada le falta
 Nada te turbe, nada te spanta
 Solo Dios, basta.
+```
+
+#### Take Me Home, Country Roads
+
+**John Denver** · Sursa: Caiet cabană EN, p. 33
+
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211 · Bb x13331
+
+**Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Bb 3211
+
+```text
+1.
+[C]  ^  Almost [C]heaven, ^  West [G]Virginia,
+[G]  Blue Ridge [Am]Mountains, ^  Shenandoah [F]River.
+[F]  Life is [C]old there, ^  older than the [G]trees,
+[G]  Younger than the [F]mountains, ^  blowing like a [C]breeze.  ^
+
+R:
+  Country [C]road, ^  take me [G]home
+[G]  To the [Am]place ^  I be[F]long,
+[F]  West Vir[C]ginia, ^  mountain [G]momma,
+[G]  Take me [F]home, ^  country [C]road.  ^
+
+2.
+[C]  All my ^mem'ries  [Am]  gather ^'round her,
+[G]  Miner's ^lady, [F]stranger to blue [C]water.
+[C]  Dark and ^dusty, [Am]painted on the ^sky,
+[G]Misty taste of ^moonshine, [F]tear-drop in my [C]eye.  ^
+
+3.
+[C]  I hear her [G]voice, in the [Am]morning hours she ^calls me,
+The [F]radio re[C]minds me of my [G]home far a^way.
+And [C]driving down the [Bb]road I get  [F]feeling
+That I [C]should have been home [G]yesterday, ^  yester^day.  ^
 ```
 
 #### Tears in Heaven
@@ -32331,6 +32369,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Focul viu** — [Focuri vii](#focuri-vii)
 - **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#ordinea-de-zi)
 - **Gh. Gheorghiu** — [Unde dragoste nu e, nimic nu e](#unde-dragoste-nu-e-nimic-nu-e)
+- **Gil Dobrică** — [Hai Acasă](#hai-acasă)
 - **Guns'n'roses** — [Don't Cry (I)](#dont-cry-i)
 - **Gun’n’Roses** — [Patience](#patience)
 - **Hara** — [Departe](#departe)
@@ -32338,7 +32377,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Horia Stoicanu** — [Sala pașilor pierduți](#sala-pașilor-pierduți)
 - **Ion Cioroiu** — [M-a ținut mama acasă](#m-a-ținut-mama-acasă)
 - **Iris** — [Baby](#baby), [Strada ta](#strada-ta), [Vis pierdut](#vis-pierdut)
-- **John Denver** — [Country Roads](#country-roads)
+- **John Denver** — [Take Me Home, Country Roads](#take-me-home-country-roads)
 - **John Lennon** — [Give Peace a Chance](#give-peace-a-chance), [Imagine](#imagine)
 - **José Feliciano** — [Feliz Navidad](#feliz-navidad)
 - **Karma** — [Ai venit](#ai-venit), [Alții mama nu mai face](#alții-mama-nu-mai-face), [Amintiri](#amintiri), [Bunica](#bunica), [Călător](#călător), [În loc de bun rămas](#în-loc-de-bun-rămas), [Lacrimi și surâs](#lacrimi-și-surâs), [Mă întorc și pașii-s grei](#mă-întorc-și-pașii-s-grei), [Muntele alb](#muntele-alb), [Colindă tristă (I)](#colindă-tristă-i), [Colindă tristă (II)](#colindă-tristă-ii)
