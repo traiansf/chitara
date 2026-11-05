@@ -21483,35 +21483,41 @@ that [C]too many [F]people have [G7]died?  ^
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 6
 
-**Chitară:** F 133211 · C x32010 · G 320003
+**Chitară:** F 133211 · C x32010 · G 320003 · G7 320001
 
-**Ukulele:** F 2010 · C 0003 · G 0232
+**Ukulele:** F 2010 · C 0003 · G 0232 · G7 0212
 
 ```text
 R:
-  F      C      F        C
-Bye bye, love, bye bye, happiness.
- F        C                G     C
-Hello, loneliness, I think I'm gonna cry.
-Bye bye, love, bye bye, sweet caress.
-Hello, emptiness, I feel like I could die.
-    C       G        C
-Bye bye, my love, good-bye.
+[F]  Bye bye, [C]love,
+[F]  bye bye, [C]happiness.
+[F]  Hello, [C]loneliness,
+I [C]think I'm [G]gonna [C]cry.
+[F]  Bye bye, [C]love,
+[F]  bye bye, [C]sweet caress.
+[F]  Hello, [C]emptiness,
+I [C]feel like [G]I could [C]die.
+Bye [C]bye, my [G]love, good-[C]bye.
+
 1.
-G              C
-There goes my baby, with someone new.
-           G              C
-She sure looks happy, I sure am blue.
-           F               G
-She was my baby 'till he stepped in.
-                        C
-Good-bye, to romance that might have been.
+[C]  There goes my [G]baby,
+[G]  with someone [C]new.
+[C]  She sure looks [G]happy,
+[G]  I sure am [C]blue.
+[C]  She was my [F]baby
+[F]  'till he stepped [G]in.
+[G]  Good-bye, to [G7]romance
+[G7]  that might have [C]been.  ^
 
 2.
-I'm through with romance, I'm through with love.
-I'm through with counting the stars above,
-And here's the reason that I'm so free:
-My lovin' baby is through with me.
+[C]  I'm through with [G]romance,
+[G]  I'm through with [C]love.
+[C]  I'm through with [G]counting
+[G]  the stars [C]above,
+[C]  And here's the [F]reason
+[F]  that I'm so [G]free:
+[G]  My lovin' [G7]baby
+[G7]  is through with [C]me.  ^
 ```
 
 #### Chant Des Adieux
@@ -21572,38 +21578,28 @@ Saura nous revoir.
 
 ```text
 1.
-Almost heaven, West Virginia,
-Blue Ridge Mountains, Shenandoah River.
-Life is old there, older than the trees,
-Younger than the mountains, blowing like a breeze.
+[C]  ^  Almost [C]heaven, ^  West [G]Virginia,
+[G]  Blue Ridge [Am]Mountains, ^  Shenandoah [F]River.
+[F]  Life is [C]old there, ^  older than the [G]trees,
+[G]  Younger than the [F]mountains, ^  blowing like a [C]breeze.  ^
 
 R:
-        C           G
-Country road, take me home
-   Am        F
-To the place I belong,
- C              G
-West Virginia, mountain momma,
-     F         C
-Take me home, country road.
+  Country [C]road, ^  take me [G]home
+[G]  To the [Am]place ^  I be[F]long,
+[F]  West Vir[C]ginia, ^  mountain [G]momma,
+[G]  Take me [F]home, ^  country [C]road.  ^
 
 2.
-       C          Am
-All my mem'ries gather 'round her,
-   G             F         C
-Miner's lady, stranger to blue water.
- C               Am
-Dark and dusty, painted on the sky,
-   G                 F            C
-Misty taste of moonshine, tear-drop in my eye.
-  C      G             Am
-I hear her voice, in the morning hours she calls me,
-      F       C            G
-The radio reminds me of my home far away.
-    C              Bb               F
-And driving down the road I get the feeling
-        C                 G
-That I should have been home yesterday, yesterday.
+[C]  All my ^mem'ries  [Am]  gather ^'round her,
+[G]  Miner's ^lady, [F]stranger to blue [C]water.
+[C]  Dark and ^dusty, [Am]painted on the ^sky,
+[G]Misty taste of ^moonshine, [F]tear-drop in my [C]eye.  ^
+
+3.
+[C]  I hear her [G]voice, in the [Am]morning hours she ^calls me,
+The [F]radio re[C]minds me of my [G]home far a^way.
+And [C]driving down the [Bb]road I get  [F]feeling
+That I [C]should have been home [G]yesterday, ^  yester^day.  ^
 ```
 
 #### Don't Cry (I)

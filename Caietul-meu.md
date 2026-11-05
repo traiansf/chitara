@@ -174,4 +174,7 @@
 
 - Angie [Am]
 - Blowin' in the Wind [C]
+- Bye Bye Love [F]
+- Country Roads [C]
+
 
