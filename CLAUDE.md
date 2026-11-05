@@ -170,6 +170,9 @@ Ce face fiecare grup:
   transpuse; `dedup_songs.py` și `karban_dedup.py` grupează repetările. Două
   variante se contopesc doar dacă au aceeași succesiune în aceeași tonalitate;
   altfel rămân alături, numerotate `(I)`, `(II)`, `(III)`.
+  Când dintr-un set de variante numerotate rămâne una singură (după o ștergere
+  sau o contopire), aceea se redenumește fără numeral: `Titlu (I)` → `Titlu`,
+  atât în caiet, cât și în cheia din `tools/categorii.json`.
 - **tipărire** — `make_pdf.py` construiește PDF-ul cu Chrome headless,
   micșorând fontul până când fiecare cântec încape pe o pagină, iar cele lungi
   trec pe două coloane.

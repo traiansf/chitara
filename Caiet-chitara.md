@@ -530,7 +530,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Blowin' in the Wind](#blowin-in-the-wind)
 - [Bye Bye Love](#bye-bye-love)
 - [Chant Des Adieux](#chant-des-adieux)
-- [Don't Cry (I)](#dont-cry-i)
+- [Don't Cry](#dont-cry)
 - [Don't Think Twice, It's Alright](#dont-think-twice-its-alright)
 - [Dove Troveremo Tutto Il Pane](#dove-troveremo-tutto-il-pane)
 - [Dream a Little Dream](#dream-a-little-dream)
@@ -21605,7 +21605,7 @@ Car Dieu qui nous voit tous ensamble
 Saura nous revoir.
 ```
 
-#### Don't Cry (I)
+#### Don't Cry
 
 **Guns'n'roses** · Sursa: Caiet Christian Adventure, p. 192, p. 193 · Caiet cabană EN, p. 56
 
@@ -21672,10 +21672,8 @@ CHORUS
 
 ```text
 1.
-   G               D         Em
-It ain't no use to sit and wonder why, babe
-   C             D
-It don't matter anyhow
+It [G]ain't no use to [D]sit and wonder [Em]why, babe  ^
+[C]  It don't ^matter any[D]how  ^
     G                  D         Em
 And it ain't no use to sit and wonder why, babe
      Am            D
@@ -32281,7 +32279,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **George Nicolescu/Gil Dobrica** — [Ordinea de zi](#ordinea-de-zi)
 - **Gh. Gheorghiu** — [Unde dragoste nu e, nimic nu e](#unde-dragoste-nu-e-nimic-nu-e)
 - **Gil Dobrică** — [Hai Acasă](#hai-acasă)
-- **Guns'n'roses** — [Don't Cry (I)](#dont-cry-i)
+- **Guns'n'roses** — [Don't Cry](#dont-cry)
 - **Gun’n’Roses** — [Patience](#patience)
 - **Hara** — [Departe](#departe)
 - **Holograf** — [Ești așa frumoasă](#ești-așa-frumoasă), [Ochii tăi (I)](#ochii-tăi-i), [Ochii tăi (II)](#ochii-tăi-ii), [Să nu-mi iei niciodată dragostea](#să-nu-mi-iei-niciodată-dragostea), [Vine o zi](#vine-o-zi), [Vreau o minune!](#vreau-o-minune)
