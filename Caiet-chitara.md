@@ -22031,7 +22031,7 @@ just re[C]lax and take it [Am]easy
 You're still [G]young that's your [Em]fault,
 there's so [Am]much you have to [D/G]know
 Find a [G]girl, settle [D]down,
-if you want [C]to, you can [Am]marry
+if you [C]want to, you can [Am]marry
 Look at [G]me, I am [Em]old,
 but I'm [Am]happy.  [D/G]
 
@@ -22043,7 +22043,7 @@ something [Am]going on  [D/G].
 But take your [G]time, think a [D]lot,
 think of [C]everything you've [Am]got
 For you’ll [G]still be here to[Em]morrow
-but your [D]dreams may not.
+but your [D]dreams may not.  ^
 
 3.
 How can [G]I try to ex[Bm]plain?
@@ -22094,7 +22094,7 @@ Nos ha[F]bebit [C]hu.[G]u.[C]mus!
 [C]Vita nostra [F]brevis est, [G]brevi fini[C]etur,
 [C]Vita nostra [F]brevis est, [G]brevi fini[C]etur,
 [G]Venit mors ve[C]loci[G]ter,
-Răpit nos a[G]troci[C]ter,
+Răpit nos a[C]troci[G]ter,
 [C]Nemi[F]ni [C]parc[E7]e.e[Am]tur.
 Nemi[F]ni [C]parce.[G]e.[C]tur.
 [C]Ubi sunt qui [F]ante nos [G]in mundo fu[C]ere?
@@ -22109,8 +22109,8 @@ Hos și [F]vis [C]vid.[G]e.[C]re.
 Vivant membra [C]quae[G]libet,
 [C]Semper sint [F]in [C]flo.[E7]o.[Am]re!
 Semper sint [F]in [C]flo.[G]o.[C]re!
-[C]Vivant omnes [F]virgines [G]faciles, formosa[C]e,
-[C]Vivant omnes [F]virgines [G]faciles, formosa[C]e,
+[C]Vivant omnes [F]virgines [G]faciles, for[C]mosae,
+[C]Vivant omnes [F]virgines [G]faciles, for[C]mosae,
 [G]Vivant et mu[C]lie[G]res,
 Tenerae, a[C]mabi[G]les,
 [C]Bona[F]e, la[C]bori[E7]osa[Am]e!
@@ -22207,37 +22207,30 @@ Is dangerous to everyone.
 
 ```text
 1.
-     Em          B7            Em    E7
-Is there anybody going to listen to my story
-  Am          D             G     B
-All about the girl who came to stay
-She's the kind of girl you want so much it makes you sorry
-Still you don't regret a single day.
+Is there [Em]anybody [B7]going to listen [Em]to my [E7]story
+[Am]All about the [D]girl who came to [G]stay  [B]
+She's the [Em]kind of girl you [B7]want so much it [Em]makes you [E7]sorry
+[Am]Still you don't re[D]gret a single [G]day.  [B]
 
 R:
- G  Bm    Am   D
-Ah girl, girl, girl
+Ah /[G]gi[Bm]irl  [Am]  [D]  / x2
 
 2.
-When I think of all the times I've tried so hard to leave her
-She will turn to me and start to cry
-And she promises the earth to me and I believe her
-After all this time I don't know why.
+When I [Em]think of all the [B7]times I've tried so [Em]hard to [E7]leave her
+[Am]She will turn to [D]me and start to [G]cry  [B]
+And she [Em]promises the [B7]earth to me and [Em]I be[E7]lieve her
+[Am]After all this [D]time I don't know [G]why.  [B]
 
-   Am                            E
-She's the kind of girl who puts you down when friends are there
-           Am       E
-You feel a fool, fool
-   Am                            E
-When you say she's looking good she acts as if it's understood
-      Am
-She’s cool, cool…
+[Am]She's the kind of ^girl who puts you [E]down when friends are ^there
+You feel a [Am]fool, ^fool  [E]  ^
+[Am]When you say she's ^looking good she [E]acts as if it's ^understood
+She’s [Am]cool, ^cool…  [E]  ^
 
 3.
-Was she told when she was young that pain would lead to pleasure?
-Did she understand it when they said
-That a man must break his back to earn his day of leisure?
-Will she still believe it when he's dead?
+Was she [Em]told when she was [B7]young that pain would [Em]lead to [E7]pleasure?
+[Am]Did she unders[D]tand it when they [G]said  [B]
+That a [Em]man must break his [B7]back to earn his [Em]day of [E7]leisure?
+[Am]Will she still be[D]lieve it when he's [G]dead?  [B]
 ```
 
 #### Give Peace a Chance
@@ -22279,36 +22272,25 @@ Norman Mailer, Alan Ginsberg, Hare Krishna, Hare, Hare Krishna.
 **Ukulele:** C 0003 · G 0232 · F 2010 · Em 0432 · Am 2000
 
 ```text
-C
-Someone told me long ago
-                      G
-There's a calm before the storm, I know
-                   C
-And it's been coming for some time
+[C]  Someone told me ^long ago
+[C]  There's a calm be^fore the storm, I [G]know
+And [G]it's been coming [C]for some time  ^
 
-When it's over, so they say
-It'll rain a sunny day, I know
-Shining down like water
+[C]  When it's over, ^so they say
+[C]  It'll rain a ^sunny day, I [G]know
+[G]Shining down like [C]water  ^
 
-        F        G
-CHORUS: I wanna know
-      C  Em    Am
-Have you ever seen the rain
-F     G
-I wanna know
-     C   Em    Am
-Have you ever seen the rain
-F   G        C
-Coming down on a sunny day
+CHORUS: /[F]  I wanna [G]know
+Have you [C]ever [Em]seen the [Am]rain/ x2
+[F]  Coming [G]down on a sunny [C]day  ^
 
-Yesterday and days before
-Sun is cold and rain is hard, I know
-Been that way for all my time
-'Til forever on it goes
-                       G
-Thru the circle fast and slow, I know
-                C  C
-And it can't stop, I wonder
+[C]  Yesterday and ^days before
+[C]  Sun is cold and ^rain is hard, I [G]know
+[G]Been that way for [C]all my time  ^
+
+[C]  'Til forever ^on it goes
+[C]  Thru the circle ^fast and slow, I [G]know
+[G]And it can't stop, I [C]wonder  ^
 
 CHORUS
 ```
@@ -22322,14 +22304,11 @@ CHORUS
 **Ukulele:** F 2010 · C 0003 · C7 0001 · C7sus4 0011 · Bb 3211 · Fmaj7 2413 · F7 2313 · Bb/A 3211 · Gm 0231 · Gm7 0211 · C/E 0003 · F6 2213 · Csus4 0013 · CaddG 0003 · Eb 0331
 
 ```text
- F       C
-Hey Jude don't make it bad
+Hey [F]Jude ^  don't make it [C]bad  ^
   F  C7 C7sus4  C7   F
-take a sad song and make it better
- Bb             F
-Remember to let her into your heart
-         C       F
-and then you can start to make it better
+take a [C7]sad [C7sus4]song [C7]  and make it [F]better  ^
+Re[Bb]member to ^let her into your [F]heart
+[F]  and then you can [C]start ^  to make it [F]better
 
 Hey Jude dont be afraid
 you were made to go out and get her
@@ -22456,54 +22435,69 @@ To the island many miles away from home.
 **Ukulele:** Bm 4222 · F# 3121 · A 2100 · E 4442 · G 0232 · D 2220 · Em 0432
 
 ```text
-Bm                    F#
-On a dark desert highway, cool wind in my hair
-A                   E
-Warm smell of colitas, rising up through the air
-G                     D
-Up ahead in the distance, I saw a shimering light
-Em
-My head grew heavy and my sight grew
-       F#
-dim, I had to stop for the night
+[Bm]  On a dark desert ^highway,
+[F#]  cool wind in my ^hair
+[A]  Warm smell of ^colitas,
+[E]  rising up through the ^air
+[G]  Up ahead in the ^distance,
+[D]  I saw a shimering ^light
+[Em]  My head grew heavy and my ^sight grew dim,
+[F#]  I had to stop for the ^night
 
-There she stood in the doorway, I heard the mission bell
-And I was thinking to myself: this could be heaven or this could be hell
-Then she lit up a candle and she showed me the way
-There were voices down the corridor; I thought I heard them say:
+[Bm]  There she stood in the ^doorway,
+[F#]  I heard the mission ^bell
+[A]And I was thinking ^to myself:
+this could be [E]heaven or this could be ^hell
+[G]  Then she lit up a ^candle
+[D]  and she showed me the ^way
+[Em]There were voices down ^the corridor;
+[F#]  I thought I heard them ^say:
 
 CHORUS:
- G                     D
-“Welcome to the Hotel California
-F#                    Bm
-Such a lovely place (such a lovely place),
-such a lovely face
-G                           D
-Plenty of room at the Hotel California
-Em                                    F#
-Any time of year (any time of year), you can find it here"
+[G]“Welcome to the ^Hotel Cali[D]fornia  ^
+Such a [F#]lovely place (such a ^lovely place),
+such a [Bm]lovely face  ^
+[G]Plenty of room at the ^Hotel Cali[D]fornia  ^
+Any [Em]time of year (any ^time of year),
+you can [F#]find it here"  ^
 
-Her mind is Tiffany twisted, she got the Mercedes Benz
-She got a lot of pretty, pretty boys, that she calls friends
-How they dance in the courtyard, sweet summer sweat
-Some dance to remember, some dance to forget
+[Bm]  Her mind is Tiffany ^twisted,
+[F#]  she got the Mercedes ^Benz
+[A]  She got a lot of pretty, ^pretty boys,
+[E]  that she calls ^friends
+[G]  How they dance in the ^courtyard,
+[D]  sweet summer ^sweat
+[Em]  Some dance to re^member,
+[F#]  some dance to for^get
 
-So I called up the captain, "Please bring me my wine", He said
-"We haven't had that spirit here since nineteen sixty-nine"
-And still those voices are calling from far away
-Wake you up in the middle of the night, just to hear them say:
+[Bm]  So I called up the ^captain,
+[F#]  "Please bring me my ^wine", He said
+"We [A]haven't had that ^spirit here
+since [E]nineteen sixty-^nine"
+[G]  And still those ^voices are calling
+from [D]far a^way
+[Em]  Wake you up in the ^middle of the night,
+[F#]  just to hear them ^say:
 
 CHORUS
 
-Mirrors on the ceiling, [the pink champagne on ice, and she said
-"We are all just prisoners here, of our own device"
-And in the master's chambers, they gathered for the feast
-They stab it with their steely knives but they just can't kill the beast
+[Bm]  Mirrors on the ^ceiling,
+[F#]  the pink champagne on ^ice, and she said
+[A]"We are all just ^prisoners here,
+[E]  of our own de^vice"
+[G]  And in the master's ^chambers,
+[D]  they gathered for the ^feast
+[Em]They stab it with their ^steely knives
+but they [F#]just can't kill the ^beast
 
-Last thing I remember, I was running for the door
-I had to find the passage back to the place I was before
-"Relax," said the night man, "We are programmed to receive
-You can check out any time you like, butyou can never leave"
+[Bm]  Last thing I re^member,
+I was [F#]running for the ^door
+[A]  I had to find the ^passage back
+to the [E]place I was be^fore
+"Re[G]lax," said the ^night man,
+"We are [D]programmed to re^ceive
+[Em]  You can check out any ^time you like,
+but [F#]you can never ^leave"
 
 CHORUS
 ```

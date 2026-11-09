@@ -181,3 +181,6 @@
 - El Condor Pasa [Am]
 - Eleanor Rigby [Am]
 - Father to Son [C]
+- Girl [Dm]
+- Have You Ever Seen the Rain [C]
+- Hotel California [Dm]
