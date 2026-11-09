@@ -178,3 +178,6 @@
 - Bye Bye Love [F]
 - Take Me Home, Country Roads [C]
 - Don't Think Twice, It's Alright [C]
+- El Condor Pasa [Am]
+- Eleanor Rigby [Am]
+- Father to Son [C]

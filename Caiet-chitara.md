@@ -12335,7 +12335,7 @@ A         E
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Bb 3211
 
 ```text
-[C]  ^  Hai a[C]casă, ^  hai cu [G]mine.
+[C]  ^  Hai a^casă, ^  hai cu [G]mine.
 [G]  Hai cu [Am]mine ^să pornim la [F]drum.
 [F]  Ne aş[C]teaptă ^casa noastră [G]dragă,
 [G]  Iarba [F]verde ^şi poteci de [C]drum.  ^
@@ -20689,9 +20689,9 @@ Sunt [D]singur de-a[G]tâta vreme, [A]singur și de [D]mult
 [D]La ușa mea nici nu [G]mai țin minte de [A]când nu ai bă[D]tut.
 
 Refren:
-[G]  altul de[A]sigur te [D]va iubi mai [G]mult [G]=[Bm]=[A]
+[G]  altul de[A]sigur te [D]va iubi mai [G]mult ^=[Bm]=[A]
 [A]  Va fi un [G]alt înce[D]put  ^
-[G]  Nu știu de[A]sigur ce [D]ți-ai dorit mai [G]mult [G]=[Bm]=[A]
+[G]  Nu știu de[A]sigur ce [D]ți-ai dorit mai [G]mult ^=[Bm]=[A]
 [A]  Poate un [G]alt înce[D]put.
 
 A[D]cuma mi-e greu să mai [G]cred că [A]tot ce s-a-ntâm[D]plat
@@ -21787,73 +21787,76 @@ Dream a little dream of me.
 
 ```text
 1.
-     Em                    G
-I'd rather be a sparrow than a snail
-    D7  G       D7   G            Em
-Yes I would, if I could, I surely would.
-I'd rather be a hammer than a nail
-Yes I would, if I only could, I surely would.
+I'd [Em]rather be a ^sparrow than a [G]snail
+[D7]  Yes I [G]would,
+[D7]  if I [G]could,
+[G]  I surely [Em]would.  ^  ^  ^
+I'd [Em]rather be a ^hammer than a [G]nail
+[D7]  Yes I [G]would,
+[D7]  if I only [G]could,
+[G]  I surely [Em]would.  ^  ^  ^
 
 R:
- C
-Away, I'd rather sail away
-        G          D7       G
-Like a swan that's here and gone.
-A man gets tied up to the ground
-He gives the world its saddest sound.
-        Em
-Its saddest sound
+A[C]way, I'd ^rather sail a^way  ^
+Like a [G]swan [D7]  that's here and [G]gone.  ^
+A [C]man gets ^tied up to the ^ground  ^
+He gives the [G]world [D7]  its saddest [C]sound.  ^
+Its saddest [Em]sound  ^  ^  ^
 
 2.
-I'd rather be a forest than a street
-Yes I would, if I could, I surely would.
-I'd rather feel the earth beneath my feet
-Yes I would, if I only could, I surely would.
+I'd [Em]rather be a ^forest than a [G]street
+[D7]  Yes I [G]would,
+[D7]  if I [G]could,
+[G]  I surely [Em]would.  ^  ^  ^
+I'd [Em]rather feel the ^earth beneath my [G]feet
+[D7]  Yes I [G]would,
+[D7]  if I only [G]could,
+[G]  I surely [Em]would.  ^  ^  ^
 ```
 
 #### Eleanor Rigby
 
-Sursa: Caiet cabană EN, p. 15
+**Beatles** · Sursa: Caiet cabană EN, p. 15
 
 **Chitară:** F 133211 · Am x02210 · Am7 x02010 · Am6 x02212 · F7 131211
 
 **Ukulele:** F 2010 · Am 2000 · Am7 0000 · Am6 2423 · F7 2313
 
 ```text
-Beatles
-    F                   Am
-Ah, look at all the lonely people
-Ah, look at all the lonely people !
+Refren 1:
+/[F]Ah, look at ^all the lonely [Am]people  ^/ x2
 
 1.
-   Am
-Eleanor Rigby picks up the rice in the church
-                F            Am
-Where a wedding has been, lives in a dream
-Waits at the window, wearing the face
-That she keeps in a jar by the door, who is it for?
+[Am]Eleanor Rigby ^picks up the rice
+in the [Am]church where a wedding has [F]been,
+[F]  lives in a [Am]dream  ^
+[Am]Waits at the window, ^wearing the face
+That she [Am]keeps in a jar by the [F]door,
+[F]  who is it [Am]for?  ^
 
-Am7   Am6   F7  Am
-R:
-All the lonely people, where do they all come
-from?
-All the lonely people, where do they all belong?
+Refren 2:
+[Am7]All the lonely [Am6]people, where [F7]do they all come [Am]from?
+[Am7]All the lonely [Am6]people, where [F7]do they all be[Am]long?
 
 2.
-Father McKenzie, writing the words of a sermon
-That no one will hear, no one comes near
-Look at him working, darning his socks in the night
-When there's nobody there, what does he care?
+[Am]Father McKenzie, ^writing the words
+of a [Am]sermon that no one will [F]hear,
+[F]  no one comes [Am]near  ^
+[Am]Look at him working, ^darning his socks
+in the [Am]night when there's nobody [F]there,
+[F]  what does he [Am]care?  ^
 
-R:
-Ah look at all the lonely people
-Ah look at all the lonely people !
+Refren 2 + 1
 
 3.
-Eleanor Rigby died in the church and was buried
-Along with her name, nobody came
-Father McKenzie, wiping the dirt from his hands
-As he walks from the grave, no one was saved.
+[Am]Eleanor Rigby ^died in the church
+and was [Am]buried along with her [F]name,
+[F]  nobody [Am]came  ^
+[Am]Father McKenzie, ^wiping the dirt
+from his [Am]hands as he walks from the [F]grave,
+[F]  no one was [Am]saved  ^
+
+Refren 2 (Refren 1 ca vocea a II-a)
 ```
 
 #### Every Breath You Take
@@ -21865,80 +21868,73 @@ As he walks from the grave, no one was saved.
 **Ukulele:** G 0232 · Em 0432 · C 0003 · Dsus4 0230 · D7sus4 2233 · D 2220 · C/A# 0003 · Am7 0000 · A7 0100 · D# 0331 · F 2010 · D7sus2 2203
 
 ```text
-          G
+                 G
 Every breath you take
-        Em
+               Em
 Every move you make
-           C          Dsus4
-Every bond you break, every step y
+               C                     Dsus4
+Every bond you break, every step you take
                Em
 I'll be watching you
 
-  D7sus4  G
-Every single day
-        Em
+      D7sus4  G
+Every single  day
+               Em
 Every word you say
-           C           D
-Every game you play, every night y
-          Dsus4   G
+               C                     D
+Every game you play, every night you stay
+        Dsus4    G
 I'll be watching you
 
-        C   C/A#
+          C   C/A#
 Oh, can't you see
-    Am7  G
+       Am7    G
 You belong to me
-        A7
+                  A7
 How my poor heart aches
-            D
+                    D
 With every step you take
-  D7sus4 G
+      D7sus4   G
 Every move you make
-        Em
+              Em
 Every vow you break
-            C           D
-Every smile you fake, every claim y
-stake
+                C                     D
+Every smile you fake, every claim you stake
          Dsus4   Em
 I'll be watching you
 
-  D#
-Since you've gone I've been lost without
-a trace
+D#
+Since you've gone I've been lost without a trace
 F
 I dream at night, I can only see your face
-ou take
 D#
 I look around, but it's you I can't replace
 F
-I feel so cold, and I long for your
-embrace
-D#                     G
+I feel so cold, and I long for your embrace
+D#                       G
 I keep crying baby, baby please,
 
-ou stay      C C/A#
+          C   C/A#
 Oh, can't you see
-    Am7    G
+       Am7    G
 You belong to me
-        A7
+                  A7
 How my poor heart aches
-            D
+                    D
 With every step you take
-  D7sus4 G
+      D7sus4   G
 Every move you make
-        Em
+              Em
 Every vow you break
-            C            D
-Every smile you fake, every claim you
-stake
-          Dsus4  Em
+                C                     D
+Every smile you fake, every claim you stake
+        Dsus4    Em
 I'll be watching you
-ou             C D
-Every move you make, every step you
-take
-          Dsus4  Em
+               C                    D
+Every move you make, every step you take
+        Dsus4    Em
 I'll be watching you
-Em
-      D7sus2 G
+        D7sus2   G
 I'll be watching you
 ```
 
@@ -22024,45 +22020,60 @@ B5 A5 G5
 
 **Cat Stevens** · Sursa: Caiet cabană EN, p. 39
 
-**Chitară:** G 320003 · D xx0232 · C x32010 · Am x02210 · Em 022000 · D/G 3x0232
+**Chitară:** G 320003 · D xx0232 · C x32010 · Am x02210 · Em 022000 · D/G 3x0232 · Bm x24432
 
-**Ukulele:** G 0232 · D 2220 · C 0003 · Am 2000 · Em 0432 · D/G 2220
+**Ukulele:** G 0232 · D 2220 · C 0003 · Am 2000 · Em 0432 · D/G 2220 · Bm 4222
 
 ```text
 1.
-      G                 D         C            Am
-It's not time to make a change, just relax and take it easy
-       G                  Em               Am             D/G
-You're still young that's your fault, there's so much you have to know
-Find a girl, settle down, if you want to, you can marry
-Look at me, I am old, but I'm happy.
+It's not [G]time to make a [D]change,
+just re[C]lax and take it [Am]easy
+You're still [G]young that's your [Em]fault,
+there's so [Am]much you have to [D/G]know
+Find a [G]girl, settle [D]down,
+if you want [C]to, you can [Am]marry
+Look at [G]me, I am [Em]old,
+but I'm [Am]happy.  [D/G]
 
 2.
-I was once like you are now, and I know that its not easy
-to be calm, when you've found something going on.
-But take your time, think a lot, think of everything you've got
-For you’ll still be here tomorrow but your dreams may not.
+I was [G]once like you are [D]now,
+and I [C]know that it's not [Am]easy
+to be [G]calm, when you've [Em]found
+something [Am]going on  [D/G].
+But take your [G]time, think a [D]lot,
+think of [C]everything you've [Am]got
+For you’ll [G]still be here to[Em]morrow
+but your [D]dreams may not.
 
 3.
-How can I try to explain?when I do he turns away again
-it's always been the same, same old story
-From the moment I could talk I was ordered to listen
-now there's a way and I know I have to go away
-and I know I have to go.
+How can [G]I try to ex[Bm]plain?
+when I [C]do he turns a[Am]way again
+it's [G]always been the [Em]same, same old [Am]story  [D]
+From the [G]moment I could [Bm]talk
+I was [C]ordered to [Am]listen
+now there's a [G]way
+and I [Em]know that I [D]have to go a[G]way
+I [D]know I [C]have to go.  [G]  [C]  [G] [C]
 
 4.
-It's not time to make a change, just sit down and take it
-slowly
-You're still young, that's your fault, there's so much you have
-Find a girl, settle down, if you want to you can marry
-Look at me, I am old, but I'm happy.
+It's not [G]time to make a [D]change,
+just sit [C]down and take it [Am]slowly
+You're still [G]young, that's your [Em]fault,
+there's so [Am]much you have to [D]go through
+Find a [G]girl, settle [D]down,
+if you [C]want to you can [Am]marry
+Look at [G]me, I am [Em]old,
+but I'm [Am]happy.  [D]
 
 5.
-All the times that I cried, keeping all the things I knew inside
-It's hard, but it's harder to ignore it.
-If they were right, I'd agree, but it's them they know, not me
-Now there's a way, and I know that I have to go away.
-I know I have to go.
+All the [G]times that I have [Bm]cried,
+keeping [C]all the things I [Am]knew inside
+It's [G]hard, but it's [Em]harder to ig[Am]nore it. [D]
+If they were [G]right, I'd a[Bm]gree,
+but it's [C]them they know, not [Am]me
+Now there's a [G]way,
+and I [Em]know that I [D]have to go a[G]way.
+I [D]know I [C]have to go [G]
 ```
 
 #### Gaudeamus igitur
@@ -24675,7 +24686,7 @@ Solo Dios, basta.
 
 ```text
 1.
-[C]  ^  Almost [C]heaven, ^  West [G]Virginia,
+[C]  ^  Almost ^heaven, ^  West [G]Virginia,
 [G]  Blue Ridge [Am]Mountains, ^Shenandoah [F]River.
 [F]  Life is [C]old there, ^older than the [G]trees,
 [G]Younger than the [F]mountains, ^blowing like a [C]breeze.  ^
@@ -32226,7 +32237,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Aurelian Andreescu** — [Dorul](#dorul), [Oameni](#oameni)
 - **Autentic** — [Trec țiganii](#trec-țiganii)
 - **Axa** — [Imnul Bucegilor](#imnul-bucegilor)
-- **Beatles** — [Girl](#girl), [Hey Jude](#hey-jude), [I Want to Hold Your Hand](#i-want-to-hold-your-hand), [Let It Be](#let-it-be), [Michelle](#michelle), [Ticket to Ride](#ticket-to-ride), [Twist and Shout](#twist-and-shout), [With a Little Help from My Friends](#with-a-little-help-from-my-friends), [Yellow Submarine](#yellow-submarine), [Yesterday](#yesterday)
+- **Beatles** — [Eleanor Rigby](#eleanor-rigby), [Girl](#girl), [Hey Jude](#hey-jude), [I Want to Hold Your Hand](#i-want-to-hold-your-hand), [Let It Be](#let-it-be), [Michelle](#michelle), [Ticket to Ride](#ticket-to-ride), [Twist and Shout](#twist-and-shout), [With a Little Help from My Friends](#with-a-little-help-from-my-friends), [Yellow Submarine](#yellow-submarine), [Yesterday](#yesterday)
 - **Ben E. King** — [Stand by Me](#stand-by-me)
 - **Bmby** — [Doi ochi căprui](#doi-ochi-căprui)
 - **Bob Dylan** — [Blowin' in the Wind](#blowin-in-the-wind), [Don't Think Twice, It's Alright](#dont-think-twice-its-alright), [Knockin' on Heaven's Door](#knockin-on-heavens-door), [Mr. Tambourine Man (Bob Dylan)](#mr-tambourine-man-bob-dylan)
