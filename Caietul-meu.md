@@ -194,3 +194,4 @@
 - Mr. Tambourine Man (Bob Dylan) [F]
 - My Bonnie Is Over the Ocean [C]
 - No Woman, No Cry [C]
+- Nothing Else Matters [Am]

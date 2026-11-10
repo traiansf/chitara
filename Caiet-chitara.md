@@ -23391,9 +23391,9 @@ My Michelle.
 
 **Bob Dylan** · Sursa: Cărticica Karban, p. 106 · Caiet cabană EN, p. 27
 
-**Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000 · Asus4 x02230 · Dsus4 xx0233 · Dsus2 xx0230
+**Chitară:** G 320003 · A x02220 · D xx0232 · Asus4 x02230 · Dsus2 xx0230
 
-**Ukulele:** G 0232 · A 2100 · D 2220 · Em 0432 · Asus4 2200 · Dsus4 0230 · Dsus2 2200
+**Ukulele:** G 0232 · A 2100 · D 2220 · Asus4 2200 · Dsus2 2200
 
 ```text
 Refren:
@@ -23495,9 +23495,9 @@ Joltin' Joe has left and gone away, hey hey hey.
 
 Sursa: Caiet cabană EN, p. 54
 
-**Chitară:** D xx0232 · G 320003 · A7 x02020 · B7 x21202 · E7 020100 · D7 xx0212 · A x02220
+**Chitară:** D xx0232 · G 320003 · E 022100 · A x02220 · A7 x02020 · Em 022000 · Em7 020000
 
-**Ukulele:** D 2220 · G 0232 · A7 0100 · B7 2322 · E7 1202 · D7 2223 · A 2100
+**Ukulele:** D 2220 · G 0232 · E 4442 · A 2100 · A7 0100 · Em 0432 · Em7 0202
 
 ```text
 1.
@@ -23572,6 +23572,10 @@ Et garde-la toute la vie, la vie, la vie.
 
 Sursa: Caiet cabană EN, p. 71
 
+**Chitară:** C x32010 · G 320003 · Am x02210 · F 133211
+
+**Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010
+
 ```text
 Refren:
 [C]  No [G]woman no cry [Am] [F]
@@ -23617,62 +23621,33 @@ Refren x2
 
 **Metallica** · Sursa: Caiet Christian Adventure, p. 196
 
-**Chitară:** Em 022000 · D xx0232 · C x32010 · G 320003 · B x24442 · A x02220
+**Chitară:** Em 022000 · Em7 020000 · D xx0232 · Dsus4 xx0233 · C x32010 · Cadd9 x32030 · G 320003 · B7 x21202 · A x02220 · Dsus2 xx0230
 
-**Ukulele:** Em 0432 · D 2220 · C 0003 · G 0232 · B 4322 · A 2100
+**Ukulele:** Em 0432 · Em7 0202 · D 2220 · Dsus4 0230 · C 0003 · Cadd9 0203 · G 0232 · B7 2322 · A 2100 · Dsus2 2200
 
 ```text
 VERSE 1:
-
-Em D C
-So close no matter how far
-
-Em D C
-
-Couldn't be much more from the
-heart
-
-Em D C
-
-Forever trusting who we are
-
-G B Em
-
-And nothing else matters
+[Em]  So [Em7]close no matter [D]how [Dsus4] far  [C][Cadd9]
+[Em]  Couldn't [Em7]be much more [D]from the [Dsus4]heart  [C][Cadd9]
+[Em]  Forever [Em7]trusting [D]who we [Dsus4]are  [C][Cadd9]
+[G]  And [B7]nothing else [Em]matters  ^
 
 VERSE2:
-
-Never opened myself this way
-
-Life is ours, we live it our way
-
-All these words I don't just say
-
-And nothing else matters
+[Em]  Never [Em7]opened my[D]self this [Dsus4]way  [C][Cadd9]
+[Em]  Life is [Em7]ours, we live it [D]our [Dsus4]way  [C][Cadd9]
+[Em]  All these [Em7]words I don't [D]just [Dsus4]say  [C][Cadd9]
+[G]  And [B7]nothing else [Em]matters  ^
 
 VERSE3:
+[Em]  Trust I [Em7]seek and I [D]find in [Dsus4]you  [C][Cadd9]
+[Em]  Every [Em7]day for us [D]something [Dsus4]new  [C][Cadd9]
+[Em]  Open [Em7]mind for a [D]different [Dsus4]view  [C][Cadd9]
+[G]  And [B7]nothing else [Em]matters  ^
 
-Trust I seek and find in you
-
-Every day for us something new
-
-Open mind for a different view
-
-And nothing else matters
-
-CHORUS:
-
-C A D C
-
-Never cared for what they do
-
-A D C
-
-Never cared for what they know
-
-A D Em
-
-But I know
+CHORUS 1:
+[C][A][D]  Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]do[A][D]
+Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]know[A][D]
+But I [Em]know  ^  ^  ^
 
 VERSE 1
 
@@ -23680,25 +23655,12 @@ CHORUS
 
 VERSE 2 + VERSE 3
 
-C A D C
-
-Never cared for what they say
-
-A D C
-
-Never cared for what they play
-
-A D C
-
-Never cared for what they do
-
-A D C
-
-Never cared for what they know
-
-A D Em
-
-But I know
+CHORUS 2:
+[C][A][D]  Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]say[A][D]
+Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]play[A][D]
+Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]do[A][D]
+Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]know[A][D]
+But I [Em]know  ^  ^  ^
 
 VERSE 1
 ```
