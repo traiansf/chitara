@@ -22512,38 +22512,34 @@ CHORUS
 
 ```text
 1.
-   Am       C       D     F
-There is a house in New Orleans,
-   Am       C       E
-They call “The Rising Sun”
-       Am       C         D        F
-And It's been the ruin of many a poor boy
-  Am       E         Am
-And God, I know, I'm one.
+There [Am]is a [C]house in [D]New Or[F]leans,
+They [Am]call “The [C]Rising [E]Sun”  ^
+And It's [Am]been the [C]ruin of [D]many a poor [F]boy
+And [Am]God, I [E]know, I'm [Am]one.
 
 2.
-My mother was a tailor
-She sewed my new blue jeans
-My father was a gambling man
-Down in New Orleans.
+My [Am]mother [C]was a [D]tailor  [F]
+She [Am]sewed my [C]new blue [E]jeans  ^
+My [Am]father [C]was a [D]gambling [F]man
+[Am]Down in [E]New Or[Am]leans.
 
 3.
-And the only things a gambler needs
-Is a suitcase and a trunk
-And the only time he's satisfied
-Is when he's all a-drunk.
+And the [Am]only [C]things a [D]gambler [F]needs
+Is a [Am]suitcase [C]and a [E]trunk  ^
+And the [Am]only [C]time [D]he's satis[F]fied
+Is [Am]when he's [E]all a-[Am]drunk.
 
 4.
-I've got one foot on the platform
-The other foot on the train
-I'm going back to New Orleans
-To wear the ball and chain.
+I've [Am]got one [C]foot on the [D]platform  [F]
+The [Am]other [C]foot on the [E]train  ^
+I'm [Am]going [C]back to [D]New Or[F]leans
+To [Am]wear the [E]ball and [Am]chain.
 
 5.
-So mothers, tell your children
-Not to do what I have done
-Spend your life in sin and misery
-In the house of the Rising Sun.
+So [Am]mothers, [C]tell your [D]children  [F]
+Not to [Am]do what [C]I have [E]done  ^
+[Am]Spend your [C]life in [D]sin and mise[F]ry
+In the [Am]house of the [E]Rising [Am]Sun.
 ```
 
 #### I Remember
@@ -22657,49 +22653,51 @@ I want I want I want I want to break free....
 
 **Beatles** · Sursa: Caiet cabană EN, p. 19
 
-**Chitară:** C x32010 · G 320003 · Am x02210 · E 022100 · F 133211 · Dm xx0231
+**Chitară:** C x32010 · G 320003 · Am x02210 · E 022100 · E7 020100 · F 133211 · Gm7 353333 · Dm xx0231
 
-**Ukulele:** C 0003 · G 0232 · Am 2000 · E 4442 · F 2010 · Dm 2210
+**Ukulele:** C 0003 · G 0232 · Am 2000 · E 4442 · E7 1202 · F 2010 · Gm7 0211 · Dm 2210
 
 ```text
-1.
-     C                 G
-Oh yeah, I'll tell you something
-    Am             E
-I think you'll understand
-When I say that something
+Oh yeah, [C]I'll tell you [G]something
+[Am]  I think you'll under[E]stand
+When [C]I say that [G]something
+[Am]  I wanna hold your [E7]hand
 
-R:
-   F     G      C
-I wanna hold your hand
-I wanna hold your hand.
+Refren 1:
+[F]  I wanna [G]hold your [C]ha[Am]and
+[F]  I wanna [G]hold your [C]hand.
 
-2.
-Oh please say to me
-You'll let me be your man
-And please say to me
+Oh [C]please say to [G]me
+[Am]  You'll let me be your [E]man
+And [C]please say to [G]me
+[Am]  You'll let me hold your [E7]hand
 
-R:
-You'll let me hold your hand
-Now let me hold your hand
-I wanna hold your hand.
-    Dm      G             C     Dm
-And when I touch you I feel happy inside
-     Dm      G         C
-It's such a feeling that my love I can't hide
-   F     G
-I can't hide, I can't hide…
-3.
-Yeah you got that something
-I think you'll understand
-When I say that something
-I wanna hold your hand
+Refren 2:
+[F]  Now let me [G]hold your [C]ha[Am]and
+[F]  I wanna [G]hold your [C]hand.
 
-And when I touch you
-I feel happy inside
-It's such a feeling
-That my love I can't hide
-I can't hide, I can't hide.
+Bridge:
+[Gm7]  And when I [C]touch you I feel [F]happy in[Dm]side
+[Gm7]  It's such a [C]feeling that my [F]love /^I can't [G]hide/ x3
+
+Yeah [C]you got that [G]something
+[Am]  I think you'll under[E]stand
+When [C]I say that [G]something
+[Am]  I wanna hold your [E7]hand
+
+Refren 1
+
+Bridge
+
+Yeah [C]you got that [G]something
+[Am]  I think you'll under[E]stand
+When [C]I feel that [G]something
+[Am]  I wanna hold your [E7]hand
+
+Outro:
+[F]  I wanna [G]hold your [C]ha[Am]and
+[F]  I wanna [G]hold your [E7]hand.
+[F]  I wanna [G]hold your [F]haaaaa[C]and
 ```
 
 #### If I Had a Hammer
@@ -22799,42 +22797,48 @@ Look what they done to my song.
 
 **John Lennon** · Sursa: Caiet cabană EN, p. 5
 
-**Chitară:** G 320003 · C x32010 · Em 022000 · Am x02210 · D xx0232 · B x24442
+**Chitară:** G 320003 · Gmaj7 320002 · C x32010 · Em 022000 · Am7 x02010 · C/G 332010 · D xx0232 · G/D 320003 · D7 xx0212 · B x24442 · B7 x21202
 
-**Ukulele:** G 0232 · C 0003 · Em 0432 · Am 2000 · D 2220 · B 4322
+**Ukulele:** G 0232 · Gmaj7 0222 · C 0003 · Em 0432 · Am7 0000 · C/G 0003 · D 2220 · G/D 0232 · D7 2223 · B 4322 · B7 2322
 
 ```text
 1.
-   G               C
-Imagine there's no heaven
-It's easy if you try
-No hell below us
-Above us only sky
-  Em         Am        D
-Imagine all the people living for today.
+[G]  Imagine there's [Gmaj7]no [C]heaven
+[G]  It's easy if [Gmaj7]you [C]try
+[G]  No hell [Gmaj7]be[C]low us
+[G]  Above us on[Gmaj7]ly [C]sky
+
+Bridge 1:
+[C]  Imagine [Em]all the [Am7]people [C/G]
+[D]living for [G/D]to[D7]day a-hah.
 
 2.
-Imagine there's no countries
-It isn't hard to do
-No greed or hunger
-And no religion too
-Imagine all the people
-Living life in peace.
+[G]  Imagine there's [Gmaj7]no [C]countries
+[G]  It isn't hard [Gmaj7]to [C]do
+[G]  Nothing to kill or [Gmaj7]die [C]for
+[G]  And no reli[Gmaj7]gion [C]too
 
-R:
-  C      D      G    B
-You may say I'm a dreamer
-But I'm not the only one
-I hope someday you'll join us
-And the world will live as one.
+Bridge 2:
+[C]  Imagine [Em]all the [Am7]people  [C/G]
+[D]Living life [G/D]in [D7]peace, you-^hou-hou-ou-ou
+
+Refren:
+[C]  You may [D]say I'm a [G]drea[Gmaj7]mer[B][B7]
+[C]  But I'm [D]not the only [G]one[Gmaj7][B][B7]
+[C]  I hope some[D]day you'll [G]join [Gmaj7]us[B][B7]
+[C]  And the [D]world will [G]be as one ^
 
 3.
-Imagine no possessions
-I wonder if you can
-Nothing to kill or die for
-A brotherhood of man
-Imagine all the people
-Sharing all the world.
+[G]  Imagine no [Gmaj7]pos[C]sessions
+[G]  I wonder if [Gmaj7]you [C]can
+[G]  No need for greed [Gmaj7]or [C]hunger
+[G]  A brotherhood [Gmaj7]of [C]man
+
+Bridge 3:
+[C]  Imagine [Em]all the [Am7]people  [C/G]
+[D]  Sharing [G/D]all the [D7]world, you-^hou-hou-ou-ou
+
+Refren
 ```
 
 #### In the Army
@@ -22920,34 +22924,33 @@ Notă: Prima strofă se repetă cu ritm mărit.
 
 ```text
 1.
-   C    G            Dm
-Mama take this badge off of me
-I can't use it any-more
-It's getting dark, too dark for me to see
-I feel I'm knockin' on heaven's door...
+[C]  Mama [G]take this badge off of [Dm]me  ^
+[C]  I can't [G]use it any[Dm]more  ^
+[C]  It's getting [G]dark, too dark for me to [Dm]see  ^
+[C]  I feel like I'm [G]knockin' on heaven's [Dm]door...  ^
 
-R:
- C          G              Dm
-Knock, knock, knockin' on heaven's door
-Hey, hey, hey, hey,.
-Knock, knock, knockin' on heaven's door
-Just like so many times before...
+Refren:
+/[C]  Knock, knock, [G]knockin' on heaven's [Dm]door/ x4
+([C]  Just like so [G]many times be[Dm]fore... ^)
 
 2.
-Mama put my guns in the ground
-I can't shoot them any-more
-That long black cloud is comin' down
-I feel I'm knockin' on heaven's door...
+[C]  Mama [G]put my guns in the [Dm]ground  ^
+[C]  I can't [G]shoot them any[Dm]more  ^
+[C]  That long black [G]cloud is comin' [Dm]down  ^
+[C]  I feel like I'm [G]knockin' on heaven's [Dm]door...  ^
+
+Refren
 
 3.
-Mama wipe the blood out of my face,
-I just can’t see through it any more
-That lonely feeling is hard to trace
+[C]  Mama [G]wipe the blood out of my [Dm]face,  ^
+[C]  I just can’t [G]see through it any[Dm]more  ^
+[C]  That long black [G]feeling is hard to [Dm]trace  ^
+[C]  I feel I'm [G]knockin' on heaven's [Dm]door...  ^
 ```
 
 #### La Bamba
 
-Sursa: Caiet cabană EN, p. 67
+**Ritchie Valens**  Sursa: Caiet cabană EN, p. 67
 
 **Chitară:** C x32010 · F 133211 · G 320003
 
@@ -22955,33 +22958,32 @@ Sursa: Caiet cabană EN, p. 67
 
 ```text
 1.
-            C     F       G
-Para bailar la Bamba
-Para bailar la Bamba se necesita
-Una poca de gracia
-Una poca de gracia para mi para ti
-Y ’ arriba y ’ arriba
-Y ’ arriba y ’ arriba por ti sere
-Por ti sere por ti sere.
+[N.C.]Para bailar la [C]Bamba  [F]
+[G]  Para [F]bailar la [C]Bamba se [F]nece[G]sita
+Una [F]poca de [C]gracia  [F]
+[G]  Una [F]poca de [C]gracia para [F]mi para [G]ti
+Y ’ a[F]rriba y ’ a[C]rriba  [F]
+[G]  Y ’ a[F]rriba y ’ a[C]rriba por [F]ti se[G]re
+Por [F]ti se[C]re por [F]ti se[G]re.
 
 2.
-Yo no soy marinero
-Yo no soy marinero soy capitan
-Soy capitan soy capitan.
+[N.C.]  Yo no soy mari[C]nero  [F]
+[G]  Yo no [F]soy mari[C]nero soy [F]capi[G]tan
+Soy [F]capi[C]tan soy [F]capi[G]tan.
 
 R:
- C  F     G
-Bamba la Bamba
-Bamba la Bamba.
+/[C]Bam[F]ba la [G]Bamba[F]/ x2
+
+Strofa 1
 
 3.
-Para subir al cielo
-Para subir al cielo se necesita
-Una escalera larga
-Una escalera larga y otra cosita
-Y ’ arriba y ’ arriba
-Y ’ arriba y ’ arriba por ti sere
-Por ti sere por ti sere.
+[N.C.]  Para subir al [C]cielo  [F]
+[G]  Para su[F]bir al [C]cielo se [F]nece[G]sita
+Una e[F]scalera [C]grande  [F]
+[G]  Una e[F]scalera [C]larga y [F]otra chi[G]quita
+Y ’ a[F]rriba y ’ a[C]rriba  [F]
+[G]  Y ’ a[F]rriba y ’ a[C]rriba por [F]ti se[G]re
+Por [F]ti se[C]re por [F]ti se[G]re.
 ```
 
 #### La Canzone Del Sole
@@ -23116,201 +23118,174 @@ tous les oiseaux du point du jour, chantent l'armour
 **Ukulele:** C 0003 · G 0232 · Am 2000 · F 2010 · Dm 2210
 
 ```text
-          C      G                      Am           F
-When I find myself in times of trouble, Mother Mary comes to me
-C                 G       F         C  Dm    C
-Speaking words of wisdom, let it be
+When I [C]find myself in [G]times of trouble,
+[Am]Mother Mary [F]comes to me
+[C]Speaking words of [G]wisdom, let it [F]be  [C][Dm][C]
 
-And in my hour of darkness, She is standing right in front of me
-Speaking words of wisdom, Let it be
+And [C]in my hour of [G]darkness,
+She is [Am]standing right in [F]front of me
+[C]Speaking words of [G]wisdom, Let it [F]be [C][Dm][C]
 
-         Am         G         F          C
-Chorus: Let it be, let it be, let it be, let it be
- C                G              F          C   Dm    C
-Whisper words of wisdom, let it be
+Chorus 1:
+Let it [Am]be, let it [G]be, let it [F]be, let it [C]be
+[C]Whisper words of [G]wisdom, let it [F]be  [C][Dm][C]
 
-And when the broken hearted people, Living in the world agree
-There will be an answer, let it be
+And [C]when the broken [G]hearted people,
+[Am]Living in the [F]world agree
+[C]There will be an [G]answer, let it [F]be  [C][Dm][C]
 
-But though they may be parted, There is still a chance that they may see
-There will be an answer, let it be
+But [C]though they may be [G]parted,
+There is [Am]still a chance that [F]they will see
+[C]There will be an [G]answer, let it [F]be  [C][Dm][C]
 
-CHORUS: Let it be, let it be, let it be, let it be |
-There will be an answer, let it be |
-Let it be, let it be, let it be, let it be
-Whisper words of wisdom, let it be
+CHORUS 2:
+Let it [Am]be, let it [G]be, let it [F]be, let it [C]be
+[C]There will be an [G]answer, let it [F]be  [C][Dm][C]
+
+Chorus 1
 
 LEAD
 
-Let it be, let it be, let it be, let it be
-Whisper words of wisdom, let it be
+Chorus 1
 
-And when the night is cloudy,
-There is still a light that shines on me
-Shine on till tomorrow, let it be
+And [C]when the night is [G]cloudy,
+There is [Am]still a light that [F]shines on me
+[C]Shine on till to[G]morrow, let it [F]be  [C][Dm][C]
 
-I wake up to the sound of music, Mother Mary comes to me
-Speaking words of wisdom, let it be
+I [C]wake up to the [G]sound of music,
+[Am]Mother Mary [F]comes to me
+[C]Speaking words of [G]wisdom, let it [F]be  [C][Dm][C]
+
+Chorus 2 x2 + 1
 ```
 
 #### Living Next Door to Alice
 
 **Smokie** · Sursa: Caiet Christian Adventure, p. 204
 
-**Chitară:** A x02220 · D xx0232 · E 022100 · E7 020100
+**Chitară:** A x02220 · D xx0232 · E 022100
 
-**Ukulele:** A 2100 · D 2220 · E 4442 · E7 1202
+**Ukulele:** A 2100 · D 2220 · E 4442
 
 ```text
-A                  D
-Sally called and she got the word.
-                 E   A    E
-She said I suppose you've heard, about alice.
-   A
-When I rushed to the window, and I looked outside
-D                E
-I could hardly believe my eyes.
-                      A      E
-And the big limosine pulled up, in alices drive.
+[A]  Sally called when she ^got the word.
+[D]  She said I sup^pose you've heard, [E]  ^ about [A]Alice.  [E]
+When I [A]rushed to the window, and I ^looked outside
+[D]  I could hardly be^lieve my eyes.
+And the [E]big limousine rolled ^up, into [A]Alice's drive.  [E]
 
 CHORUS:
-    A
-Oh, I dont know why she's leavin,
-or where she's gunna go
-  D
-I guess she's got her reaons
-but I just dont wanna know
-      E                      A  E
-cause for 24 years i've been living next door to alice
-A
-24 years just waiting for the chance
-D
-to tell her how I feel and maybe get a second glance
-    E            E7         A   E
-Now I gotta get used to not livin next door to alice
+Oh, I [A]don't know why she's leavin, or ^where she's gonna go
+I [D]guess she's got her reasons but I ^just dont wanna know
+cause for [E]24 years i've been ^living next door to [A]Alice  [E]
+[A]24 years just ^waiting for the chance
+to [D]tell her how I feel and maybe ^get a second glance
+Now [E]I gotta get used to not [D]livin next door to [A]Alice  [E]
 
-We walked together, two kids in the park
-We inscribed our initials deep in the bark me and alice
-As she walks to the door with her head held high
-just for a moment I caught her eye
-As the limosine pulls out, of alices drive
+[A]  We grew up together, ^  two kids in the park
+[D]  We carved our initials ^  deep in the bark [E]  ^  me and [A]Alice  [E]
+Now she [A]walks to the door with her ^head held high
+[D]  just for a moment ^  I caught her eye
+As the [E]big limousine pulls ^slowly out, of [A]Alice's drive  [E]
 
 CHORUS
 
-And sally called back and asked how i felt
-And she said I know how to help, get over alice
-She said, now alice is gone, but im still here
-you know i've been waiting for 24 years
-And the big limosine dissapeared.
-Go to chorus. repeat untill fade.
+Then [A]Sally called back and ^asked how I felt
+[D]  And she said I ^know how to help, [E]  ^  get over [A]Alice  [E]
+She said, now [A]Alice is gone, but ^I'm still here
+[D]you know i've been waiting for ^24 years
+[E][N.C.]  And the big limousine dissapeared.
+
+CHORUS
+
+No, I'll [E][N.C.] never get used to not [D][N.C.]livin next door to [A][N.C.]Alice
+
 ```
 
 #### Losing My Religion
 
-Sursa: Caiet cabană EN, p. 34
+**R.E.M.** · Sursa: Caiet cabană EN, p. 34
 
-**Chitară:** Em 022000 · Am x02210 · Dm xx0231 · G 320003 · F 133211
+**Chitară:** G 320003 · Am x02210 · Em 022000 · Dm xx0231 · F 133211
 
-**Ukulele:** Em 0432 · Am 2000 · Dm 2210 · G 0232 · F 2010
+**Ukulele:** G 0232 · Am 2000 · Em 0432 · Dm 2210 · F 2010
 
 ```text
-R.E.M.
 
 1.
-  Em      Am
-Oh, life it's bigger,
- Em
-It's bigger than you,
-        Am
-And you’re not me,
-                   Em
-The lengths that I will go to,
-                 Am
-The distance in your eyes,
-   Em              Dm
-Oh no I've said to much,
-          G
-I've said it all.
+[G]  Oh, [Am]life it's ^bigger,
+[Em]  It's bigger than ^you,
+And you’re [Am]not me,
+The [Am]lengths that I will [Em]go to,
+The [Em]distance in your [Am]eyes,   ^
+[Em]  Oh no I've ^said to [Dm]much,
+[Dm]  I've said it [G]all.
 
-That's me in the corner,
-that's me in the spotlight
-losing my religion,
-Trying to keep up with you,
-and I don't know if I can do it,
-Oh no I've said too much,
-I haven't said enough,
+[G]  That's me in the [Am]corner,
+[Am]  that's me in the [Em]spotlight
+[Em]losing my re[Am]ligion,
+[Am]  Trying to [Em]keep up with ^you,
+and I [Am]don't know if I can ^do it,
+[Em]  Oh no I've ^said too [Dm]much,
+I [Dm]haven't said e[G]nough,
 
-R:
-    F                    Am
-I thought that I heard you laughing,
-    F                  Am
-I thought that I heard you sing,
-    F       G            Am
-I think I thought I saw you try.
+Bridge:
+I [G]thought that I heard you [F]laughing,
+I [Dm]thought that I [G]heard you [Am]sing,
+[Am]I [F]think I thought I [Dm]saw [G]you [Am]try.  [G]
 
 2.
-Every whisper, every waking hour
-I'm choosing my confessions,
-Trying to keep an eye on you,
-like a hurt lost and blinded fool,
-Oh no I've said too much,
-I said it all.
-Consider this,
-consider this the hint of this century,
-consider this the slip
-It brought me to my knees,
-what if all these fantasies
-coming flailing around
-And now I've said to much,
-R:
-I thought that I heard you laughing,
-I thought that I heard you sing,
-I think I thought I saw you try,
-F        Am
-That was just a dream,
-      F         G           Am          G
-That was just a dream, just a dream, just a dream…
+Every [Am]whisper, ^every waking [Em]hour
+I'm [Em]choosing my con[Am]fessions,
+[Am]  Trying to [Em]keep an eye on ^you,
+like a [Am]hurt, lost, and blinded ^fool,
+[Em]  Oh no I've ^said too [Dm]much,
+[Dm]  I said it [G]all.
+
+[G]  Consider [Am]this,  con^sider this
+the [Em]hint of this centu^ry,
+consider [Am]this: the ^slip
+It [Em]brought me to my ^knees,
+[Am] what if all these ^fantasies
+Come [Em] flailing a^round
+And now I've [Dm]said  ^  to [G]much,
+
+Bridge
+
+But [F]That was just a [Dm]dream,[G]
+[Am]Try, cry, ^why, try
+[F]That was just a dream, [Dm]  [G]just a [Am]dream, just a [G]dream  dre[Am]am
 ```
 
 #### Love Me Tender
 
 **Elvis Presley** · Sursa: Caiet cabană EN, p. 50
 
-**Chitară:** C x32010 · D xx0232 · G7 320001 · A7 x02020
+**Chitară:** C x32010 · D7 xx0212 · G7 320001 · E7 020100 · Am x02210 · C7 x32310 · F 133211 · Fm 133111 · Em 022000 · A7 x02020
 
-**Ukulele:** C 0003 · D 2220 · G7 0212 · A7 0100
+**Ukulele:** C 0003 · D7 2223 · G7 0212 · E7 1202 · Am 2000 · C7 0001 · F 2010 · Fm 1013 · Em 0432 · A7 0100
 
 ```text
-1.
-C          D
-Love me tender love me sweet,
-    G7       C
-Never let me go
-     C           D
-You have made my life complete
-    G7       C
-And I love you so.
-C E A7m
-R:
-Love me tender, love me true
-F7+ F7- + C
-All my dreams fulfiled
-A7     D
-For my darling I love you,
-  G7       C
-And I always will.
+[C]Love me ^tender [D7]love me ^sweet,
+[G7]Never ^let me [C]go  ^
+[C]You have ^made my [D7]life com^plete
+[G7]And I ^love you [C]so.  ^
 
-2.
-Love me tender, love me long
-Take me to your heart,
-For it’s there that I belong
-And we’ll never part.
+Refren:
+[C]Love me [E7]tender, [Am]love me [C7]true
+[F]All my [Fm]dreams ful[C]fill  ^
+[Em]For my [A7]darling [D7]I love ^you,
+[G7]And I ^always [C]will.  ^
 
-3.
-Love me tender, love me dear
-Tell my you are mine
-I’ll be your through all the years
-Till the end of time.
+[C]Love me ^tender, [D7]love me ^long
+[G7]Take me ^to your [C]heart,  ^
+[C]For it’s ^there that [D7]I be^long
+[G7]And we’ll ^never [C]part.  ^
+
+[C]Love me ^tender, [D7]love me ^dear
+[G7]Tell me ^you are [C]mine  ^
+[C]I’ll be ^yours through [D7]all the ^years
+[G7]Till the ^end of [C]time.  ^
 ```
 
 #### Love of My Life
@@ -23414,46 +23389,58 @@ My Michelle.
 
 #### Mr. Tambourine Man (Bob Dylan)
 
-**Bob Dylan** · Sursa: Caiet cabană EN, p. 27 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/mr-tambourine-man-1904)
+**Bob Dylan** · Sursa: Cărticica Karban, p. 106 · Caiet cabană EN, p. 27
 
-**Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000
+**Chitară:** G 320003 · A x02220 · D xx0232 · Em 022000 · Asus4 x02230 · Dsus4 xx0233 · Dsus2 xx0230
 
-**Ukulele:** G 0232 · A 2100 · D 2220 · Em 0432
+**Ukulele:** G 0232 · A 2100 · D 2220 · Em 0432 · Asus4 2200 · Dsus4 0230 · Dsus2 2200
 
 ```text
-Bob Dylan
-R:
-     G         A
-Hey! Mister Tambourine man
-       D            G
-Play a song for me
-         D
-I’m not sleepy
-        G                       Em         A
-And there’s no place I’m goin’ to
+Refren:
+[G]Hey! Mr. [A]Tambourine Man, [D]play a song for [G]me
+I’m not [D]sleepy and there [G]is no place I’m [A]going to [Asus4]=[A]
+[G]Hey! Mr. [A]Tambourine Man, [D]play a song for [G]me
+In the [D]jingle jangle [G]morning I’ll come fol[A]lowin’ [D]you [Dsus2]=[D]
 
-Hey! Mister Tambourine man
-Play a song for me
-In the jingle jungle morning
-I’ll come followin’ you
+[A]Though I [G]know that evenin’s [A]empire has re[D]turned into [G]sand
+[D]Vanished from my [G]hand
+Left me [D]blindly here to [G]stand but still not [A]sleeping [Asus4]=[A]
+My [G]weariness a[A]mazes me, I’m [D]branded on my [G]feet
+I [D]have no one to [G]meet
+And the [D]ancient empty [G]street’s too dead for [A]dreaming [Asus4]=[A]
 
-1.
-         G          A
-Though I know every empire
-          D           G
-Has returning into sand
-      D        G
-Vanished from my hand
-     D        G
-Left me blindly here
-                        Em    A
-To stand but still not sleeping
+Refren
 
-My warriness amazes me
-I’m branded on my feet
-I have no one to meet
-And the ancient empty
-Streets too dead for dream in.
+[G]Take me on a [A]trip upon your [D]magic swirlin’ [G]ship
+My [D]senses have been [G]stripped, my [D]hands can’t feel to [G]grip
+My [D]toes too numb to [G]step
+Wait [D]only for my [G]boot heels to be [A]wanderin’ [Asus4]=[A]
+I’m [G]ready to go [A]anywhere, I’m [D]ready for to [G]fade
+In[D]to my own pa[G]rade, cast your [D]dancing spell my [G]way
+I promise to go [A]under it [Asus4]=[A]
+
+Refren
+
+Though you [G]might hear laughin’, [A]spinnin’, swingin’ [D]madly across the [G]sun
+It’s not [D]aimed at any[G]one, it’s just [D]escapin’ on the [G]run
+And but [D]for the sky there [G]are no fences [A]facin’ [Asus4]=[A]
+And [G]if you hear vague [A]traces of [D]skippin’ reels of [G]rhyme
+To your [D]tambourine in [G]time, it’s just a [D]ragged clown be[G]hind
+I wouldn’t [D]pay it any [G]mind
+It’s just a [D]shadow you’re [G]seein’ that he’s [A]chasing [Asus4]=[A]
+
+Refren
+
+Then [G]take me disap[A]pearin’ through the [D]smoke rings of my [G]mind
+Down the [D]foggy ruins of [G]time, far [D]past the frozen [G]leaves
+The [D]haunted, frightened [G]trees, out [D]to the windy [G]beach
+Far [D]from the twisted [G]reach of crazy [A]sorrow [Asus4]=[A]
+Yes, to [G]dance beneath the [A]diamond sky with [D]one hand waving [G]free
+Silhou[D]etted by the [G]sea, circled [D]by the circus [G]sands
+With all [D]memory and [G]fate driven [D]deep beneath the [G]waves
+Let me for[D]get about to[G]day until to[A]morrow [Asus4]=[A]
+
+Refren
 ```
 
 #### Mrs. Robinson
@@ -23514,33 +23501,27 @@ Sursa: Caiet cabană EN, p. 54
 
 ```text
 1.
-    D        G        D   A7
-My bonnie is over the ocean,
-     D       B7     E7   A7
-My bonnie is over the sea,
-     D       G         D  A7
-My bonnie is over the ocean,
-       G         A7        D
-O, bring back my bonnie to me.
+My [D]bonnie is [G]over the [D]o^cean,
+My [D]bonnie is [E]over the [A]sea,  [A7]
+My [D]bonnie is [G]over the [D]o^cean,
+O, [G]bring back my [A7]bonnie to [D]me.  ^
 R:
-D D7   G      E7
-Bring back, bring back,
-     A                    D
-O bring back my bonnie to me, to me
-Bring back, bring back
-O bring back my bonnie to me.
+[D]Bring ^back, [G]bring [Em]back,
+O [A7]bring back my ^bonnie to [D]me, to ^me
+[D]Bring ^back, [G]bring [Em7]back,
+O [A7]bring back my ^bonnie to [D]me  ^
 
 2.
-Last night as I lay on my pillow,
-Last night as I lay on my bed,
-Last night as I lay on my pillow,
-I dreamed that my bonnie was dead.
+Last [D]night as I [G]lay on my [D]pil^low,
+Last [D]night as I [E]lay on my [A]bed,  [A7]
+Last [D]night as I [G]lay on my [D]pil^low,
+I [G]dreamed that my [A7]bonnie was [D]dead.  ^
 
 3.
-The winds have blown over the ocean,
-The winds have blown over the sea,
-The winds have blown over the ocean,
-And brought back my bonnie to me.
+The [D]winds have [G]blown over the [D]o^cean,
+The [D]winds have [E]blown over the [A]sea,  [A7]
+The [D]winds have [G]blown over the [D]o^cean,
+And [G]brought back my [A7]bonnie to [D]me.  ^
 ```
 
 #### Ne Sent-Tu Pas Claque Tes Doigts
@@ -23592,21 +23573,44 @@ Et garde-la toute la vie, la vie, la vie.
 Sursa: Caiet cabană EN, p. 71
 
 ```text
-R:
-No woman no cry
-No woman no cry
+Refren:
+[C]  No [G]woman no cry [Am] [F]
+[C]  No [F]woman no cry [C]  [G]
 
 1.
-Cause, cause I remember when we used to sit
-In the government yard in French Town
-Observing the hypocrites, yeah
-Mingle with the good people we met.
+Said said
+[C] said I re[G]member [Am]when we used to [F]sit
+[C]  In the govern[G]ment yard in [Am]trenchtown  [F]
+[C]  Oba Obs[G]erving the [Am]hypocrites, [F]yeah
+As [C]they would mingle with the [G]good people we [Am]met.  [F]
 
 2.
-Good friends we have, oh, good friends we lost
-Along the way
-In this great future you can’t forget your past
-So cry your tears I say yeah
+[C]  Good friends we [G]had, oh, [Am]  good friends we [F]lost
+[C]  A[G]long the [Am]way  [F]
+[C]  In this bright [G]future you [Am]can’t forget your [F]past
+[C]  So dry your [G]tears I [Am]say [F]yeah
+
+Refren
+[C]  Here little [G]darlin' [Am]don't shed no [F]tears
+[C]  No [F]woman no cry [C]  [G]
+
+Said said
+[C] said I re[G]member [Am]when we used to [F]sit
+[C]  In the govern[G]ment yard in [Am]trenchtown  [F]
+[C]  And then [G]Georgie would [Am]make a fire [F]light
+as it was [C]log wood [G]burning through the [Am]night  [F]
+[C]  Then we would [G]cook [Am]  corn meal por[F]rigde
+[C]  of which I'd [G]share with [Am]you  [F]yeah
+[C]  my feet [G]is my only car[Am]riage  and [F]so
+[C]I've go to [G]push on [Am]through  but while I'm [F]gone
+
+Bridge:
+/[C]  Ev'ry thing's gonna [G]be alright
+[Am]Ev'ry thing's gonna [F]be alright/ x4
+
+Refren x2
+[C]  Here little [G]darlin' [Am]don't shed no [F]tears
+[C]  No [F]woman no cry [C]
 ```
 
 #### Nothing Else Matters
