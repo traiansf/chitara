@@ -37,12 +37,12 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [II.2 — Ne-folk](#ii2--ne-folk) (70 cântece)
 - [II.3 — Cântece de copii și de grădiniță](#ii3--cântece-de-copii-și-de-grădiniță) (9 cântece)
 
-**[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (93 cântece)
+**[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (92 cântece)
 
-**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (115 cântece)
+**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (116 cântece)
 
 - [IV.1 — Colinde românești](#iv1--colinde-românești) (56 cântece)
-- [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (10 cântece)
+- [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (11 cântece)
 - [IV.3 — Cântece de iarnă românești](#iv3--cântece-de-iarnă-românești) (22 cântece)
 - [IV.4 — Cântece de iarnă internaționale](#iv4--cântece-de-iarnă-internaționale) (27 cântece)
 
@@ -590,7 +590,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Santiano](#santiano)
 - [Seasons in the Sun](#seasons-in-the-sun)
 - [She’ll Be Coming Round the Mountain](#shell-be-coming-round-the-mountain)
-- [Silent Night](#silent-night)
 - [Stairway to Heaven](#stairway-to-heaven)
 - [Stand by Me](#stand-by-me)
 - [Still Loving You](#still-loving-you)
@@ -686,6 +685,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Kling, Glöckchen, klingelingeling](#kling-glöckchen-klingelingeling)
 - [O Come Little Children](#o-come-little-children)
 - [Sainte Nuit](#sainte-nuit)
+- [Silent Night](#silent-night)
 - [Stille Nacht, heilige Nacht](#stille-nacht-heilige-nacht)
 - [The Little Drummer Boy](#the-little-drummer-boy)
 
@@ -23360,34 +23360,34 @@ oh  [E7]mamy [Am]blue
 Je [Am]suis parti un soir d’é^té (oh mamy)
 Sans [Am]dire un mot sans t’embra^sser (oh mamy)
 Sans [G]un grand sur le ^passé (oh mamy ...)
-le [Am]passé  ^  (... blue)
+le [Am]passé (... blue)  ^
 
-Des [Am]que j’ai franchi la fronti^ere
-Le [Am]vent soufflait plus fort qu’^hier
-Quand [G]j’étais pres de toi ma ^mere.
-oh, ma [Am]mere  ^
+Des [Am]que j’ai franchi la fronti^ere (oh mamy)
+Le [Am]vent soufflait plus fort qu’^hier (oh mamy)
+Quand [G]j’étais pres de toi ma ^mere (oh mamy...)
+oh, ma [Am]mere (... blue)  ^
 
 2.
-Et [Am]aujourd’hui je te re^viens
-Et [Am]j’ai refait tout le che^min
-Qui [G]m’avais entraîné si ^loin.
-si [Am]loin  ^
+Et [Am]aujourd’hui je te re^viens (oh mamy)
+Et [Am]j’ai refait tout le che^min (oh mamy)
+Qui [G]m’avais entraîné si ^loin (oh mamy...)
+si [Am]loin (... blue)  ^
 
-Tu [Am]n’es plus la pour me sou^rire
-Me [Am]réchauffer me recu^illir
-Et [G]je n’ai plus qu’a repar^tir
-repar[Am]tir
+Tu [Am]n’es plus la pour me sou^rire (oh mamy)
+Me [Am]réchauffer me recu^illir (oh mamy)
+Et [G]je n’ai plus qu’a repar^tir (oh mamy...)
+repar[Am]tir (... blue)  ^
 
 3.
-La [Am]maison a fermé ses ^yeux
-Le [Am]chat et les chiens sont très vi^eux__
-Et [G]ils viennent me dire adi^eu,
-adi[Am]eu
+La [Am]maison a fermé ses ^yeux (oh mamy)
+Le [Am]chat et les chiens sont très vi^eux (oh mamy)
+Et [G]ils viennent me dire adi^eu (oh mamy...)
+adi[Am]eu (... blue)  ^
 
-Je [Am]ne reviendrais plus ja^mais
-Dans [Am]ce village que j'ai^mais
-Où [G]tu reposes à tout ja^mais,
-désor[Am]mais
+Je [Am]ne reviendrais plus ja^mais (oh mamy)
+Dans [Am]ce village que j'ai^mais (oh mamy)
+Où [G]tu reposes à tout ja^mais (oh mamy...),
+désor[Am]mais (... blue)  ^
 
 ```
 
@@ -23854,7 +23854,7 @@ La sfârșit
 
 #### Oh, Susanna
 
-Sursa: Caiet cabană EN, p. 54
+**Stephen Foster** · Sursa: Caiet cabană EN, p. 54
 
 **Chitară:** D xx0232 · A x02220 · G 320003
 
@@ -23862,78 +23862,106 @@ Sursa: Caiet cabană EN, p. 54
 
 ```text
 1.
-          D
-I’ve come from Alabama
-                  A
-With my banjo on my knee,
-          D
-I’m going to Louisiana,
-           A      D
-My Susanna for to see.
+I [D]come from Ala^bama
+with a [D]banjo on my [A]knee,
+I’m [D]going to Louisi^ana,
+my [A]true love for to [D]see
+It [D]rained all night the ^day I left,
+the [D]weather it was [A]dry
+The [D]sun so hot I ^froze to death;
+Su[A]sanna, don’t you [D]cry.
+
 R:
-  G
-Oh, Susanna!
-      D           A
-Oh, don’t you cry for me,
-       D
-For I came from Alabama
-               A    D
-With my banjo on my knee.
+[G]Oh, Su^sanna,
+Oh [D]don’t you cry for [A]me
+Cos’ I [D]come from Ala^bama
+With my [A]banjo on my [D]knee.
+
 2.
-I had a dram the other night
-When everything was still,
-I thought I saw Susanna come
-Descending down the hill.
+I [D]had a dream the ^other night
+when [D]everything was [A]still,
+I [D]thought I saw Su^sanna
+a-[A]coming up the [D]hill,
+A [D]buck wheat cake was ^in her mouth,
+a [D]tear was in her [A]eye,
+I [D]said I’m coming ^from the south,
+Su[A]sanna don’t you [D]cry.
 
 3.
-The red, red rose was in her hand
-The tear was in her eye
-I said: “I came from Dixie Land
-Susanna, don’t you cry.”
+I [D]soon will be in ^New Orleans
+and [D]then I’ll look a[A]round
+And [D]when I find Su^sanna,
+I'll [A]fall upon the [D]ground
+But [D]if I do not ^find her,
+this ^man will surely [A]die
+And [D]when I’m dead and ^buried,
+Su[A]sanna don’t you [D]cry.
 ```
 
 #### Patience
 
 **Gun’n’Roses** · Sursa: Caiet cabană EN, p. 58
 
-**Chitară:** F 133211 · C x32010 · D xx0232 · G 320003 · Am x02210
+**Chitară:** F 133211 · C x32010 · D xx0232 · G 320003 · Am x02210 · A# x13331
 
-**Ukulele:** F 2010 · C 0003 · D 2220 · G 0232 · Am 2000
+**Ukulele:** F 2010 · C 0003 · D 2220 · G 0232 · Am 2000 · A# 3211
 
 ```text
 1.
-F                          C
-I shead a tear ‘cause I’m missing you I’m still alright to smile
-     D                     G
-Girl I think about you every day now
-It was a time when I wasn’t sure but you set my mind there is
-There is no doubt you’re in my mind now.
+[F]  Shed a tear ‘cause I’m ^missing you
+[C]  I’m still alright to ^smile
+[D]  Girl I think a^bout you every [G]day now  ^
+[F]  Was a time when I ^wasn’t sure
+But you [C]  set my mind at ^ease
+[D]  There is no doubt ^you’re in my [G]heart now.  ^
+
 R:
-F      C              F           Am
-Said woman take it slow and we’ll work itself out fine
-     F         C             G
-All we need is just a little patientce
-Said sugar make it slow and we came together fine
-All we need is just a little patience.
+[F]  Said woman [C]take it slow
+It'll [F]work itself out [Am]fine
+[F]All we need is [C]just a little [G]patience  ^
+[F]  Said sugar [C]make it slow
+and it'll [F]come together [Am]fine
+[F]All we need is [C]just a little [G]patience.  ^
 
 2.
-I set here on the stairs ‘cause I’d rather be alone
-I can’t have you right now I’ll wait you
-Sometimes I kick some tears but I can’t speed all the time
-Do you know love’s one more thing to consider.
+[F]  I sit here ^on the stairs
+‘cause I’d [C]rather be a^lone
+If [D]I can’t have you ^right now
+I’ll [G]wait, dear  ^
+[F]  Sometimes I ^get so tense
+but I [C]can’t speed up the ^time
+[D]  Do you know love’s ^one more thing to con[G]sider.  ^
 
 R:
-Said woman take it slow the thing we need just fine
-You and I just use a little patience
-Said sugar take the time ‘cause the lights are shining bright
-You and I’ve got what it takes to make it
-We won’t fake it, never make it, ‘cause I can’t take it.
+[F]  Said woman [C]take it slow
+and [F]things will be just [Am]fine
+[F]You and I'll just [C]use a little [G]patience  ^
+[F]  Said sugar [C]take the time
+‘cause the [F]lights are shining [Am]bright
+[F]You and I’ve got [C]what it takes to [G]make it  ^
+We [G]won’t fake it,  ^
+Ahh, [G]I'll never break it,  ^
+‘cause I [G]can’t take it.  ^
 
-           F      C
-Fine: I’ve been walking the streets at night just trying to get it right
-It’s hard to see with so many around no I don’t like being
-Stuck in the crowd and the streets don’t change but baby the
-Name I ain’t got time for the game ‘cause I need you.
+Solo
+
+Bridge:
+[C]  Need a little [G]patience  ^Yeaaaa[C]ah
+[C]  Just a little [G]patience  ^yeaaaa[C]ah
+
+Fine:
+
+[G]  I’ve been walking the ^streets at night
+[C]  just trying to ^get it right
+[G]  It’s hard to see with so ^many around
+You [C]know I don’t like being ^stuck in the crowd
+and the [G]streets don’t change but ^maybe the names
+[C]  I ain’t got ^time for the game
+‘cause I [G]need you.
+[G]Yeah yeah, well I [C]need you
+[C]Ooooh, I [A#]need you
+[A#]Woh, I [C]need you
+[C]Ooooh, this [G]time[C]  [G]
 ```
 
 #### People Are Strange
@@ -23945,28 +23973,22 @@ Name I ain’t got time for the game ‘cause I need you.
 **Ukulele:** Em 0432 · Am 2000 · B7 2322 · G 0232
 
 ```text
-Em         Am       Em
-People are strange when you're a stranger,
-Am      Em  B7     Em
-Faces look ugly when you're alone.
-Women seem wicked when you're unwanted,
-Streets are uneven when you're down.
+VERSE:
+[Em]People are strange [Am]when you're a [Em]stranger,
+[Am]Faces look [Em]ugly [B7]when you're a[Em]lone.
+[Em]Women seem wicked [Am]when you're un[Em]wanted,
+[Am]Streets are un[Em]even [B7]  when you're [Em]down.
 
-        B7
-CHORUS: When you're strange
+CHORUS:
+[Em]When you're [B7]strange
 G          B7
-Faces come out of the rain.
-When you're strange
-No one remembers your name
-When you're strange x3,
+[G]Faces come out of the [B7]rain.
+When you're [B7]strange
+[G]No one remembers your [B7]name
+/When you're [B7]strange/ x3,
 All right, yeah!
 
-Em         Am       Em
-People are strange when you're a stranger,
-Am      Em  B7     Em
-Faces look ugly when you're alone.
-Women seem wicked when you're unwanted,
-Streets are uneven when you're down.
+VERSE
 
 CHORUS X2
 ```
@@ -24034,35 +24056,33 @@ La palma de la mano.
 **Ukulele:** D 2220 · A 2100 · Bm 4222
 
 ```text
-D
-Left a good job in the city
-Workin' for the man ev'ry night and day
-And I never lost one minute of sleepin'
-Worryin' 'bout the way things might have been
 
-         A
-CHORUS: Big wheel keep on turnin'
-Bm
-Proud Mary keep on burnin'
-D
-Rollin', rollin', rollin' on the river
+[D]Left a good job in the ^city
+[D]Workin' for the man ev'ry ^night and day
+[D]And I never lost one ^minute of sleepin'
+[D]Worryin' 'bout the way things ^might have been
 
-Cleaned a lot of plates in Memphis
-Pumped a lot of pain down in New Orleans
-But I never saw the good side of the city
-'Til I hitched a ride on a river boat queen
+CHORUS:
+[A]Big wheel keep on ^turnin'
+[Bm]Proud Mary keep on ^burnin'
+[D]Rollin', ^rollin', ^rollin' on the ri^ver
+
+[D]Cleaned a lot of plates in ^Memphis
+[D]Pumped a lot of pane down in ^New Orleans
+[D]But I never saw the ^good side of the city
+[D]'Til I hitched a ride on a ^river boat queen
 
 CHORUS
 
-If you come down to the river
-Bet you gonna find some people who live
-You don't have to worry 'cause you have [if you got] no
+[D]If you come down to the ^river
+[D]Bet you gonna find some ^people who live
+[D]You don't have to worry ^'cause you have no
 money
-People on the river are happy to give
+[D]People on the river are ^happy to give
 
-CHORUS: Big wheel keep on turnin'
-Proud Mary keep on burnin'
-/Rollin', rollin', rollin' on the river/ x3
+CHORUS
+
+/[D]Rollin', ^rollin', ^rollin' on the river^  / x2
 ```
 
 #### Road to Nowhere
@@ -24167,35 +24187,41 @@ And I wrote back to you.
 
 #### Sailing
 
-Sursa: Caiet cabană EN, p. 41
+**Rod Stewart** · Sursa: Caiet cabană EN, p. 41
 
-**Chitară:** G 320003 · C x32010 · Am x02210 · F 133211 · Dm xx0231
+**Chitară:** G 320003 · C x32010 · Am x02210 · F 133211 · D7 xx0212 · Dm xx0231
 
-**Ukulele:** G 0232 · C 0003 · Am 2000 · F 2010 · Dm 2210
+**Ukulele:** G 0232 · C 0003 · Am 2000 · F 2010 · D7 2223 · Dm 2210
 
 ```text
 Rod Stewart
 1.
-G     C            Am
-I am sailing, I am sailing
-      F             C
-Home again, ‘cross the sea…
-      Dm             Am
-I am sailing, stormy weathers
-      Dm              C
-To be with you, to be free…
+[G]  I am [C]sailing, ^  I am [Am]sailing
+[Am]  Home a[F]gain,  ^  ‘cross the [C]sea…
+[C]  I am [D7]sailing, ^  stormy [Am]waters
+[Am]  To be [Dm]near you,  ^  to be [C]free…
 
 2.
-I am flying, I am flying
-Like a bird, ‘cross the sea
-I am flying passing high clouds
-To be with you, to be free.
+[G]  I am [C]flying, ^  I am [Am]flying
+[Am]  Like a [F]bird,  ^  ‘cross the [C]sky
+[C]  I am [D7]flying ^  passing [Am]high clouds
+[Am]  To be [Dm]near you, ^  to be free.
 
 3.
-Can you hear me? Can you hear me?
-Through the dark night far away
-I am dying forever trying
-To be with you, to be free.
+[G]  Can you [C]hear me? ^  Can you [Am]hear me?
+[Am]  Through the [F]dark night ^  far a[C]way
+[C]  I am [D7]dying  ^  forever [Am]trying
+[Am]  To be [Dm]with you, ^  who can [C]say
+
+4.
+[G]  We are [C]sailing, ^  we are [Am]sailing
+[Am]  Home a[F]gain,  ^  ‘cross the [C]sea…
+[C]  we are [D7]sailing, ^  stormy [Am]waters
+[Am]  To be [Dm]near you,  ^  to be [C]free…
+
+Outro:
+/[G]  Oh Lord, to be [Dm]near you,  ^  to be [C]free…/  x2
+
 ```
 
 #### Santiano
@@ -24244,7 +24270,7 @@ A son doigt je pousserai l’anneau.
 
 #### Seasons in the Sun
 
-Sursa: Caiet cabană EN, p. 26
+**Terry Jacks** · Sursa: Caiet cabană EN, p. 26
 
 **Chitară:** C x32010 · Dm xx0231 · G7 320001 · G 320003
 
@@ -24252,49 +24278,68 @@ Sursa: Caiet cabană EN, p. 26
 
 ```text
 1.
-         C
-Good bye to you my trusted friend,
-                              Dm
-we`ve known each other since we were nine or ten;
-                          C
-together we climbed hills and trees,
-                    Dm             G7              C
-learned of love A B C; skinned our harts and skinned our
-knees.
+[C]  Good bye to ^you my trusted ^friend,  ^
+[C]  we`ve known each ^other since we were [Dm]nine or ^ten;
+[Dm]  together ^we climbed hills and [C]trees,
+learned of [C]love and AB[Dm]Cs;
+skinned our [G7]hearts and skinned our [C]knees.
 
-Good bye my friend it's hard to die,
-when all the birds are singing in the sky
-now that the spring is in the air
-pretty girls are every where, think of me and I`ll be there.
-R:
-   C                         Dm
-We had joy, we had fun, we had seasons in the
-sun,
-                G                           C
-but the hills that we climb were just seasons out of
-time.
+Good bye my [C]friend it's hard to ^die,  ^
+[C]  when all the ^birds are singing [Dm]in the ^sky
+[Dm]  now that the ^spring is in the [C]air
+pretty [C]girls are every[Dm]where,
+think of [G7]me and I`ll be [C]there.
+
+Refren1:
+We had [C]joy, we had ^fun,
+we had [Dm]seasons in the ^sun,
+but the [G]hills that we ^climbed
+were just [G]seasons out of [C]time.
+
 2.
-Goodbye papa please pray for me,
-I was the black sheep of the family,'
-you tried to teach me right from wrong,
-too much wine and too much song,wonder how I got
-along.
-Good-bye papa it's hard to die,
-when all the birds are singing in the sky,
-now that the spring is in the air,
-little children everywhere ,when you see them I'll be there.
-R:
+[C]  Goodbye pa^pa please pray for ^me,  ^
+[C]  I was the ^black sheep of the [Dm]fami^ly,'
+[Dm]  you tried to ^teach me right from [C]wrong,
+too much [C]wine and too much [Dm]song, wonder [G7]how I got a[C]long.
+
+Good-bye pa[C]pa it's hard to ^die,  ^
+[C]  when all the ^birds are singing [Dm]in the ^sky,
+[Dm]  now that the ^spring is in the [C]air,
+little [C]children every[Dm]where, when you [G7]see them I'll be [C]there.
+
+Refren2 x2:
+We had [C]joy, we had ^fun,
+we had [Dm]seasons in the ^sun,
+but the [G]wine and the ^song
+like the [G]seasons have all [C]gone.
+
 3.
-Goodbye Michelle my little one,
-you gave me love and helped me find the sun,
-and every time thatI was down,
-you always come around and get my feet back on the
-ground,
-Goodbye Michelle it's hard to die,
-when all the birds are singing in the sky,
-now that the spring is in the air,
-whit the flowers everywhere,
-I wish that we could both be there.
+[C]  Goodbye Mi^chelle my little ^one,  ^
+[C]  you gave me ^love and helped me [Dm]find the ^sun,
+[Dm]  and every ^time that I was [C]down,
+you would [C]always come a[Dm]round
+and get my [G7]feet back on the [C]ground,
+
+[C]  Goodbye Mi^chelle it's hard to ^die,  ^
+[C]  when all the ^birds are singing [Dm]in the ^sky,
+[Dm]  now that the ^spring is in the [C]air,
+with the [C]flowers every[Dm]where,
+I wish that [G7]we could both be [C]there.
+
+Refren3 x2:
+We had [C]joy, we had ^fun,
+we had [Dm]seasons in the ^sun,
+but the [G]stars we could ^reach
+were just [G]starfish on the [C]beach.
+
+Refren2
+
+Outro:
+All our [C]lives, we had ^fun,
+we had [Dm]seasons in the ^sun,
+but the [G]hills that we ^climbed
+were just [G]seasons out of [C]time.
+
 ```
 
 #### She’ll Be Coming Round the Mountain
@@ -24326,42 +24371,6 @@ Oh, we’ll all go out to meet her when she comes…
 5.
 Oh, we’ll all have chicken and dumpling when she
 comes…
-```
-
-#### Silent Night
-
-Sursa: Caiet cabană EN, p. 51
-
-**Chitară:** G 320003 · D xx0232 · D7 xx0212 · G7 320001 · C x32010
-
-**Ukulele:** G 0232 · D 2220 · D7 2223 · G7 0212 · C 0003
-
-```text
-1.
-G
-Silent night! Holy night!
-  D      D7    G      G7
-All is calm, all is bright
-  C               G     G7
-Round yon Virgin Mother and Child
-  C              G
-Holy Infant so tender and mild
-    D      D7     G      D7 G
-Sleep in heavenly peace… (x2)
-
-2.
-Silent night! Holy night!,
-Shepherds quake at the sight,
-Glories stream from Heaven afar,
-Heavenly hosts sing Alleluia;
-Christ the Savior is born;
-
-3.
-Silent night, Holy night,
-Son of God, love's pure light.
-Radiant beams from The holy face,
-with the dawn of Redeeming grace,
-Jesus, Lord, at Thy birth;
 ```
 
 #### Stairway to Heaven
@@ -24459,29 +24468,25 @@ And she s buying a stairway to heaven.
 
 ```text
 1.
-C
-When the night has come
-        Am
-And the land is dark
-        F         G            C
-And the moon is the only light we'll see
-No, I won't be afraid,
-No, I won't be afraid
-Just as long as you stand, stand by me.
+When the [C]night has ^come
+[Am]  And the land is ^dark
+And the [F]moon is the [G]only light we'll [C]see  ^
+No, I [C]won't be a^fraid,
+No, I [Am]won't be a^fraid
+Just as [F]long as you [G]stand, stand by [C]me.
+
 R:
-C
-So, darling, darling, stand by me,
-     Am              F       G
-Oh, stand by me, oh, stand now,
-   C
-Stand by me, stand by me.
+So, [C]darling, darling, ^stand by ^me,
+Oh, [Am]stand by ^me, oh, [F]stand now,
+[G]Stand by me, [C]stand by me.  ^
+
 2.
-If the sky that we look upon
-Should tumble and fall
-Or the mountain should crumble in the sea,
-I won't cry, I won't cry,
-No, I won't shed a tear
-Just as long as you stand, stand by me.
+If the [C]sky that we look u^pon
+[Am]  Should tumble and ^fall
+Or the [F]mountain should [G]crumble in the [C]sea,  ^
+I won't [C]cry, I won't ^cry,
+No, I [Am]won't shed a ^tear
+Just as [F]long as you [G]stand, stand by [C]me.  ^
 ```
 
 #### Still Loving You
@@ -29387,6 +29392,42 @@ E|--------3------------------3---------------|
 
 Pentru altă armonizare, vezi și transcrierea melodiei în germană.
 
+#### Silent Night
+
+Sursa: Caiet cabană EN, p. 51
+
+**Chitară:** G 320003 · D xx0232 · D7 xx0212 · G7 320001 · C x32010
+
+**Ukulele:** G 0232 · D 2220 · D7 2223 · G7 0212 · C 0003
+
+```text
+1.
+G
+Silent night! Holy night!
+  D      D7    G      G7
+All is calm, all is bright
+  C               G     G7
+Round yon Virgin Mother and Child
+  C              G
+Holy Infant so tender and mild
+    D      D7     G      D7 G
+Sleep in heavenly peace… (x2)
+
+2.
+Silent night! Holy night!,
+Shepherds quake at the sight,
+Glories stream from Heaven afar,
+Heavenly hosts sing Alleluia;
+Christ the Savior is born;
+
+3.
+Silent night, Holy night,
+Son of God, love's pure light.
+Radiant beams from The holy face,
+with the dawn of Redeeming grace,
+Jesus, Lord, at Thy birth;
+```
+
 #### Stille Nacht, heilige Nacht
 
 muzica/versuri: Joseph Mohr/Franz Gruber · Sursa: Colinde Karban, p. 88
@@ -32298,6 +32339,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **ROA** — [Deku](#deku)
 - **RoA** — [Un lup](#un-lup)
 - **Roa** — [Vara sufletului meu](#vara-sufletului-meu)
+- **Rod Stewart** — [Sailing](#sailing)
 - **Rolling Stones** — [Angie](#angie)
 - **Romane Gila** — [Țigăncușa](#țigăncușa)
 - **Ronnie Harwood** — [You Drive Me Crazy](#you-drive-me-crazy)
@@ -32318,6 +32360,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#mi-e-dor-de-ochii-tăi), [Poveste](#poveste)
 - **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul (I)](#cerul-și-pământul-i), [Cerul și pământul (II)](#cerul-și-pământul-ii), [Cerul și pământul (III)](#cerul-și-pământul-iii), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine (I)](#deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#deschide-ușa-creștine-ii), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr (I)](#flori-de-măr-i), [Flori de măr (II)](#flori-de-măr-ii), [Florile dalbe (I)](#florile-dalbe-i), [Florile dalbe (II)](#florile-dalbe-ii), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
 - **Ștefan Hrușcă / Adrian Păunescu** — [Tu Ardeal](#tu-ardeal)
+- **Stephen Foster** — [Oh, Susanna](#oh-susanna)
 - **Stigma** — [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
 - **Stroe și Vasilache** — [Du-mă acasă măi tramvai](#du-mă-acasă-măi-tramvai)
 - **Supa & Maria** — [Tropa trop](#tropa-trop)
@@ -32325,6 +32368,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Taking Heads** — [Road to Nowhere](#road-to-nowhere)
 - **Tanita Tikaram** — [Twist in My Sobriety](#twist-in-my-sobriety)
 - **Tatiana Stepa** — [Colindul gutuii (I)](#colindul-gutuii-i), [Colindul gutuii (II)](#colindul-gutuii-ii), [În întâmpinarea Crăciunului](#în-întâmpinarea-crăciunului)
+- **Terry Jacks** — [Seasons in the Sun](#seasons-in-the-sun)
 - **The Animals** — [House of the Rising Sun](#house-of-the-rising-sun)
 - **The doors** — [People Are Strange](#people-are-strange)
 - **The eagles** — [Hotel California](#hotel-california)
