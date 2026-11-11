@@ -567,6 +567,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Losing My Religion](#losing-my-religion)
 - [Love Me Tender](#love-me-tender)
 - [Love of My Life](#love-of-my-life)
+- [Mamy Blue](#mamy-blue)
 - [Michelle](#michelle)
 - [Mr. Tambourine Man (Bob Dylan)](#mr-tambourine-man-bob-dylan)
 - [Mrs. Robinson](#mrs-robinson)
@@ -577,7 +578,6 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Nowhere Man](#nowhere-man)
 - [Ob-La-Di, Ob-La-Da](#ob-la-di-ob-la-da)
 - [Oh, Carol!](#oh-carol)
-- [Oh, Mammy](#oh-mammy)
 - [Oh, Susanna](#oh-susanna)
 - [Patience](#patience)
 - [People Are Strange](#people-are-strange)
@@ -23337,6 +23337,60 @@ F#m
 Love of my life...
 ```
 
+#### Mamy Blue
+
+**Nicoletta** · muzica/versuri: Hubert Giraud · Sursa: Caiet cabană EN, p. 72
+
+**Chitară:** Am x02210 · Dm xx0231 · E7 020100 · G 320003
+
+**Ukulele:** Am 2000 · Dm 2210 · E7 1202 · G 0232
+
+```text
+Refren:
+[Am]  Oh mamy,   ^  Oh mamy,mamy [Dm]blue
+oh  [E7]mamy [Am]blue  (Oh, mamy, mamy)
+[Am]  Oh mamy,   ^  Oh mamy,mamy [Dm]blue
+oh  [E7]mamy [Am]blue  (Oh, mamy, mamy blue)
+[Am]  Oh mamy,   ^  Oh mamy,mamy [Dm]blue
+oh  [E7]mamy [Am]blue  (Où es-tu mamy?)
+[Am]  Oh mamy,   ^  Oh mamy,mamy [Dm]blue
+oh  [E7]mamy [Am]blue
+
+1.
+Je [Am]suis parti un soir d’é^té (oh mamy)
+Sans [Am]dire un mot sans t’embra^sser (oh mamy)
+Sans [G]un grand sur le ^passé (oh mamy ...)
+le [Am]passé  ^  (... blue)
+
+Des [Am]que j’ai franchi la fronti^ere
+Le [Am]vent soufflait plus fort qu’^hier
+Quand [G]j’étais pres de toi ma ^mere.
+oh, ma [Am]mere  ^
+
+2.
+Et [Am]aujourd’hui je te re^viens
+Et [Am]j’ai refait tout le che^min
+Qui [G]m’avais entraîné si ^loin.
+si [Am]loin  ^
+
+Tu [Am]n’es plus la pour me sou^rire
+Me [Am]réchauffer me recu^illir
+Et [G]je n’ai plus qu’a repar^tir
+repar[Am]tir
+
+3.
+La [Am]maison a fermé ses ^yeux
+Le [Am]chat et les chiens sont très vi^eux__
+Et [G]ils viennent me dire adi^eu,
+adi[Am]eu
+
+Je [Am]ne reviendrais plus ja^mais
+Dans [Am]ce village que j'ai^mais
+Où [G]tu reposes à tout ja^mais,
+désor[Am]mais
+
+```
+
 #### Michelle
 
 **Beatles** · Sursa: Caiet cabană EN, p. 17
@@ -23667,197 +23721,135 @@ VERSE 1
 
 #### Nowhere Man
 
-Sursa: Caiet cabană EN, p. 9
+Beatles · Sursa: Caiet cabană EN, p. 9
 
-**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · Em 022000
+**Chitară:** C x32010 · G 320003 · F 133211 · Dm xx0231 · Fm 133111 · Em 022000 · G7 320001
 
-**Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · Em 0432
+**Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · Fm 1013 · Em 0432 · G7 0212
 
 ```text
-Beatles
 1.
-  C         G
-He's a real Nowhere Man
-    F            C
-Sitting in his Nowhere Land
-Dm  F C
-Making all his Nowhere plans for nobody.
-
-Doesn't have a point of view
-Knows not where he's going to
-Isn't he a bit like you and me?
-Em  F
-R:
-Nowhere Man please listen
-Em  F
-You don't know what you're missing
-Em  F Dm  G
-Nowhere Man the world is at your command.
+[C]He's a real [G]Nowhere Man
+[F]Sitting in his [C]Nowhere Land
+[Dm]Making all his [Fm]Nowhere plans for [C]nobody.  ^
 
 2.
-He's as blind as he can be
-Just sees what he wants to see
-Nowhere Man can you see me at all?
+[C]Doesn't have a [G]point of view
+[F]Knows not where he's [C]going to
+[Dm]Isn't he a [Fm]bit like you and [C]me?  ^
 
-R:
-Nowhere Man don't worry
-Take your time don't hurry
-Leave it all till somebody else lends you a hand.
+Refren 1:
+Nowhere [Em]Man please [F]listen
+You don't [Em]know what you're [F]missing
+Nowhere [Em]Man the [F]world is [Dm]at your command.  [G7]
 
 3.
-Doesn't have a point of view
-Knows not where he's going to
-Isn't he a bit like you and me?
+[C]He's as blind as [G]he can be
+[F]Just sees what he [C]wants to see
+[Dm]Nowhere Man can [Fm]you see me at [C]all?  ^
 
-R:
-Nowhere Man please listen
-You don't know what you're missing
-Nowhere Man the world is at your command.
-4.
-He's a real Nowhere Man
-Sitting in his Nowhere Land
-Making all his Nowhere plans for nobody.
+Refren 2:
+Nowhere [Em]Man don't [F]worry
+Take your [Em]time don't [F]hurry
+Leave it [Em]all till [F]somebody else [Dm]lends you a hand.  [G7]
+
+Strofa 2
+
+Refren 1
+
+Strofa 1
+/[Dm]Making all his [Fm]Nowhere plans for [C]nobody./ x2
 ```
 
 #### Ob-La-Di, Ob-La-Da
 
-Sursa: Caiet cabană EN, p. 10
+Beatles · Sursa: Caiet cabană EN, p. 10
 
-**Chitară:** G 320003 · D7 xx0212 · C x32010 · Bm x24432 · Em 022000 · D xx0232
+**Chitară:** G 320003 · D xx0232 · D7 xx0212 · G7 320001 · C x32010 · Em7 020000 · Em 022000
 
-**Ukulele:** G 0232 · D7 2223 · C 0003 · Bm 4222 · Em 0432 · D 2220
+**Ukulele:** G 0232 · D 2220 · D7 2223 · G7 0212 · C 0003 · Em7 0202 · Em 0432
 
 ```text
-Beatles
-1.
-   G                     D7
-Desmond has a barrow in the market place
-                     G
-Molly is a singer in a band
-                      C
-Desmond says to Molly "Girl I like your face!"
-          G            D7             G
-And Molly says this as she takes him by the hand.
-R:
-Bm Em  G        D7       G
-Obladi Oblada life goes on bra, lala how the life
-goes onl
+[G]Desmond has a ^barrow in the [D]market ^place
+[D7]Molly is a ^singer in a [G]band  ^
+[G7]Desmond says to ^Molly "Girl I [C]like your ^face!"
+And Molly [G]says this as [D7]she takes him by the [G]hand.  ^
 
-2.
-Desmond takes a trolley to the jewelers stores
-Buys a twenty carat golden ring
-Takes it back to Molly waiting at the door
-And as he gives it to her she begins to singl
+Refren:
+/Obla[G]di Obla^da life goes [D]on [Em7]bra,
+[G]lala how [D]their life goes on[G]  ^/ x2
 
-R:
-   C                                      G
-In a couple of years they have built a home sweet
-home
-   C
-With a couple of kids running in the yard
-     G               D
-Of Desmond and Molly Jones.
+[G]Desmond takes a ^trolley to the [D]jewelers ^stores
+[D7]Buys a twenty ^carat golden [G]ring  ^
+[G7]Takes it back to ^Molly waiting [C]at the ^door
+And as he [G]gives it to her [D7]she begins to [G]sing  ^
 
-3.
-Happy ever after in the market place
-Desmond lets the children lend a hand
-Molly stays at home and does her pretty face
-And in the evening she still sings it with the band.
+Refren
 
-4.
-Happy ever after in the market place
-Molly lets the children lend a hand
-Desmond stays at home and does his pretty face
-And in the evening she's a singer with the band.
-And if you want some fun take Obladi-Blada !
+Bridge:
+[C]  In a couple of years they have ^built a home sweet [G]home  ^
+[C]  With a couple of kids running ^in the yard
+Of [G]Desmond and Molly [D]Jones.  (Desmond and Molly)
+
+[G]Happy ever ^after in the [D]market ^place
+[D7]Desmond lets the ^children lend a [G]hand  ^
+[G7]Molly stays at ^home and does her [C]pretty ^face
+And in the [G]evening she still [D7]sings it with the [G]band.  ^
+
+Refren
+
+Bridge
+
+[G]Happy ever ^after in the [D]market ^place
+[D7]Molly lets the ^children lend a [G]hand  ^
+[G7]Desmond stays at ^home and does her [C]pretty ^face
+And in the [G]evening she'a a [D7]singer with the [G]band.  ^
+
+Outro:
+Obla[G]di Obla^da life goes [D]on [Em7]bra,
+[G]lala how [D]their life goes on[G]  ^
+Obla[G]di Obla^da life goes [D]on [Em7]bra,
+[G]lala how [D]their life goes [Em]on
+[Em]  And if you ^want some fun take [D]Obladi-Bla[G]da! ^
+
 ```
 
 #### Oh, Carol!
 
 **Neil Sedaka** · Sursa: Caiet Christian Adventure, p. 197 · Caiet cabană EN, p. 31
 
-**Chitară:** A x02220 · F#m 244222 · Bm x24432 · E 022100
+**Chitară:** E 022100 · A x02220 · F#m 244222 · Bm x24432 · Dm xx0231
 
-**Ukulele:** A 2100 · F#m 2120 · Bm 4222 · E 4442
+**Ukulele:** E 4442 · A 2100 · F#m 2120 · Bm 4222 · Dm 2210
 
 ```text
-A
-Oh Carol!
-           F#m
-I am but a fool
-             Bm
-Darling i love you
-                     E
-Though you treat me cruel
-     A
-You hurt me
-                F#m
-Snd you make me cry
-                 Bm      E
-But if you leave me
-              A
-I will surely die
+[E]  Oh [A]Carol!
+[A]  I am but a [F#m]fool
+[F#m]  Darling I [Bm]love you,
+[Bm]  though you treat me [E]cruel
 
-                                A
-Darling, there will never be anoth
-            F#m
-'cause i love you so
-             Bm
-Don't ever leave me
-                  E
-Say you'll never go
+[E]  You [A]hurt me
+[A] and you make me [F#m]cry
+[F#m]  But if you [Bm]leave me
+[E]  I will surely [A]die
 
-                               A
-I will always treat you as my sweet
-Heart
-                 F#m
-No matter what you do
+[E]Darling, there will never be a[A]nother
+[A]  'cause i love you [F#m]so
+[F#m]  Don't ever [Bm]leave me
+[Bm]  Say you'll never [E]go
 
-      Bm       E
-Oh! Soriya
-                    A
-I'm so in love with you
-
-Darling, there will never be
-another
-'cause i love you so
-Don't ever leave me
-Say you'll never go
-er
-I will always treat you as my
-Sweet heart
-No matter what you do
-Oh! Carol!
-I'm so in love with you
+[E]I will always want you for my [A]sweet heart
+[A]  No matter what you [F#m]do
+[F#m]  Oh! [Bm]Carol
+[E]  I'm so in love with [A]you
 ```
 
-#### Oh, Mammy
+Se repetă totul, prima strofă recitată
 
-Sursa: Caiet cabană EN, p. 72
+La sfârșit
 
-```text
-R:
-Oh Mammy.
-Oh Mammy Mammy blue
-Oh Mammy blue
-Ou es tu ?
-Ou es tu Mammy blue?
-Oh Mammy blue.
-1.
-Je suis parti un soir d’ete
-Sans dire un mot sans t’embraser
-Sans un grand sur le passe.
-Des que j’ai fronchi la frontiere
-Le vent soufflant plus fort qu’hier
-Quand j’etais pres de toi ma mere.
-
-2.
-Et aujourd’hui ou je reviens
-Ou j’ai refait tout le chemin
-Oui m’avait entraîne si loin.
-Tu n’es plus la pour me sourire
-Me rechauffer me recuillir
-Et je n’ai plus qu’a repartir.
+```
+[E]  I'm so in love with [A]you[Dm]u[A]u
 ```
 
 #### Oh, Susanna
@@ -32278,6 +32270,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Necunoscut** — [M-am dus să tai un copac](#m-am-dus-să-tai-un-copac)
 - **Neil Sedaka** — [Oh, Carol!](#oh-carol)
 - **Nelu Lazăr** — [Pădure de argint](#pădure-de-argint)
+- **Nicoletta** — [Mamy Blue](#mamy-blue)
 - **Nicu Alifantis** — [Balada blondelor iubiri](#balada-blondelor-iubiri), [Emoție de toamnă (I)](#emoție-de-toamnă-i), [Emoție de toamnă (II)](#emoție-de-toamnă-ii), [Piața Romană nr.9](#piața-romană-nr9), [Ploaie în luna lui marte](#ploaie-în-luna-lui-marte), [Rar](#rar), [Umbra (I)](#umbra-i), [Umbra (II)](#umbra-ii), [Umbra (III)](#umbra-iii), [Decembre (I)](#decembre-i), [Decembre (II)](#decembre-ii), [Decembre (III)](#decembre-iii)
 - **Nicu Alifantis și Aura Urziceanu** — [Aproape liniște](#aproape-liniște)
 - **Nightwish** — [The Islander](#the-islander)
@@ -32298,8 +32291,10 @@ Notă: Măsura 4/4, ritm de swing.
 - **populara?/traditonal?** — [Caravanele](#caravanele), [Inimă de țigancă](#inimă-de-țigancă), [Șatra](#șatra)
 - **Pro Musica** — [Dintre sute de catarge](#dintre-sute-de-catarge), [Glosă](#glosă), [Și dacă (I)](#și-dacă-i), [Și dacă (II)](#și-dacă-ii)
 - **Queen** — [I Want to Break Free](#i-want-to-break-free), [Love of My Life](#love-of-my-life)
+- **R.E.M.** — [Losing My Religion](#losing-my-religion)
 - **Radu Ilie** — [Și-am iubit o ardeleancă](#și-am-iubit-o-ardeleancă)
 - **Radu Pietreanu** — [Toamna la Șuior](#toamna-la-șuior)
+- **Ritchie Valens** — [La Bamba](#la-bamba)
 - **ROA** — [Deku](#deku)
 - **RoA** — [Un lup](#un-lup)
 - **Roa** — [Vara sufletului meu](#vara-sufletului-meu)
