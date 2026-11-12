@@ -24910,7 +24910,7 @@ That the Red Maiden loved you the best.
 
 **Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · C/B x32010
 
-**Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010
+**Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010 · C/B 0003
 
 ```text
 1.
@@ -24962,9 +24962,9 @@ and [C]whisper'd in the [G]sounds of [Am]silence."
 
 **Beatles** · Sursa: Caiet cabană EN, p. 18
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · F7 131211
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · A#maj7 x13231 · F7 131211
 
-**Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · Bb 3211
+**Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · A#maj7 3210 · F7 2313
 
 ```text
 1.
@@ -25006,6 +25006,8 @@ CHORUS
 Sursa: Caiet cabană EN, p. 70
 
 **Chitară:** C x32010 · Am x02210 · Dm7 xx0211 · G7 320001 · C7 x32310 · F 133211 · G 320003 · Dm xx0231
+
+**Ukulele:** C 0003 · Am 2000 · Dm7 2213 · G7 0212 · C7 0001 · F 2010 · G 0232 · Dm 2210
 
 ```text
 1.
@@ -25100,7 +25102,7 @@ baby).
 
 **Chitară:** Am x02210 · Dm7 xx0211 · E 022100
 
-**Ukulele:** Am 2000 · F 2010 · G 0232 · E 4442 · Dm 2210
+**Ukulele:** Am 2000 · Dm7 2213 · E 4442
 
 ```text
 1.
@@ -25159,7 +25161,7 @@ CHORUS x2
 
 **Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · D7 xx0212 · Bm x24432 · G7 320001
 
-**Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · D7 2223
+**Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · D7 2223 · Bm 4222 · G7 0212
 
 ```text
 VERSE:
@@ -25274,7 +25276,7 @@ When the revelation comes.
 
 **Chitară:** C x32010 · Dm xx0231 · Am x02210 · G 320003 · F 133211 · E7 020100
 
-**Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · Em 0432 · E7 1202
+**Ukulele:** C 0003 · Dm 2210 · Am 2000 · G 0232 · F 2010 · E7 1202
 
 ```text
 1.
@@ -25371,7 +25373,7 @@ What have we [C]found
 
 **Chitară:** G 320003 · D xx0232 · Am x02210 · D7 xx0212 · F 133211 · C x32010 · Em 022000 · A x02220 · D# xx1343
 
-**Ukulele:** G 0232 · D 2220 · Am 2000 · D7 2223 · F 2010 · C 0003 · Em 0432 · A 2100
+**Ukulele:** G 0232 · D 2220 · Am 2000 · D7 2223 · F 2010 · C 0003 · Em 0432 · A 2100 · D# 0331
 
 ```text
 1.

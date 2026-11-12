@@ -45,7 +45,7 @@ FINGERINGS = {
     # major sevenths
     "Cmaj7": "x32000", "Dmaj7": "xx0222", "Emaj7": "021100",
     "Fmaj7": "xx3210", "Gmaj7": "320002", "Amaj7": "x02120",
-    "Bmaj7": "x24342",
+    "Bmaj7": "x24342", "A#maj7": "x13231",
     # suspended
     "Csus4": "x33011", "Dsus4": "xx0233", "Esus4": "022200",
     "Fsus4": "133311", "F#sus4": "244422", "Gsus4": "330013",
