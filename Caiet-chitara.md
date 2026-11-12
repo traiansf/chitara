@@ -24908,161 +24908,159 @@ That the Red Maiden loved you the best.
 
 **Simon & Garfunkel** · Sursa: Caiet cabană EN, p. 20
 
-**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211
+**Chitară:** Am x02210 · G 320003 · C x32010 · F 133211 · C/B x32010
 
 **Ukulele:** Am 2000 · G 0232 · C 0003 · F 2010
 
 ```text
 1.
-     Am                G
-Hello, darkness my old friend,
-                       Am
-I've come to talk with you again.
- C               F      C
-Because a vision softly creeping
-                 F       C
-Left it's seed while I was sleeping,
-        F                       C
-And the vision that was planted in my brain
-    Am               G       Am
-Still remains within the sound of silence.
+[Am]  Hello, darkness my old [G]friend,
+[G]  I've come to talk with you a[Am]gain.
+[(C)]  Because a vision soft[F]ly cree[C]ping
+[C]  Left its seeds while I [F]was slee[C]ping,
+And the [F]vision that was ^planted in my [C]brain
+[C]  Still remains[C/B]  [Am]
+[C]  Within the [G]sound of [Am]silence.
+
 2.
-In restless dreams I walked alone,
-Narrow streets of cobble stone.
-'Neath the halo of a street lamp,
-I turned my collar to the cold and damp,
-When my eyes were stabbed by the flash of a neon light
-That split the night and touched the sounds of silence.
+[Am]  In restless dreams I walked a[G]lone,
+[G]  Narrow streets of cobble [Am]stone.
+[(C)]  'Neath the halo of [F]a street [C]lamp,
+[C]  I turned my collar to the [F]cold and [C]damp,
+When my [F]eyes were stabbed by the ^flash of a neon [C]light
+[C]  That split the night[C/B]  [Am]
+[C]  And touched the [G]sound of [Am]silence.
+
 3.
-And in the naked light I saw
-ten thousand people maybe more
-people talking without speaking
-people hearing without listening
-people writing songs that voices never share
-no one dare, disturb the sound of silence.
+[Am]  And in the naked light I [G]saw
+[G]  ten thousand people maybe [Am]more
+[(C)]  people talking with[F]out speak[C]ing
+[C]  people hearing with[F]out listen[C]ing
+[C]  people writing [F]songs that ^voices never [C]share
+[C]  And no one dare,[C/B]  [Am]
+[C]  disturb the [G]sound of [Am]silence.
+
 4.
-Fools said I you do not know,
-silence like a cancer grows,
-hear my words that I might teach you
-take my arms that I might reach you
-but my words, like silent raindrops fell...
-and echoed the will of silence.
+[Am]  Fools said I you do not [G]know,
+[G]  silence like a cancer [Am]grows,
+[(C)]  hear my words that I [F]might teach [C]you
+[C]  take my arms that I [F]might reach [C]you
+[C]  but my [F]words, like ^silent raindrops [C]fell...    [C/B]  [Am]
+and [C]echoed in the [G]wells of [Am]silence.
+
 5.
-And the people bowed and prayed,
-to the neon god they made
-And the sign flashed out its warning
-in the words that it was forming
-And the sign said, "The words of the prophets
-are written on the subway walls, and tenement halls
-and whisper the sound of silence."
+[Am]  And the people bowed and [G]prayed,
+[G]  to the neon god they [Am]made
+[(C)]  And the sign flashed out [F]its warn[C]ing
+[C]  in the words that it [F]was form[C]ing
+[C]  And the sign said, "The [F]words of the prophets are ^written on the subway [C]walls,
+[C]   and tenement halls[C/B]  [Am]
+and [C]whisper'd in the [G]sounds of [Am]silence."
 ```
 
 #### Ticket to Ride
 
 **Beatles** · Sursa: Caiet cabană EN, p. 18
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · Bb x13331
+**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · F7 131211
 
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · Bb 3211
 
 ```text
 1.
-    C
-I think I'm gonna be sad, I think it's today yeah
-                           Dm              G
-The girl that's driving me mad is going away.
+I [C]think I'm gonna be ^sad, I think it's ^today ^yeah
+The [C]girl that's driving me ^mad is going [Dm]away  [G]
 
-R:
-      Am         F
-She's got a ticket to ride,
-   Am              Bb
-She's got a ticket to ri-hi-hide,
-      Am            G           C
-She's got a ticket to ride but she don't care.
+CHORUS:
+[Am]She's got a ticket to [F]ride,
+[Am]She's got a ticket to [A#maj7]ri-hi-hide,
+[Am]She's got a ticket to [G]ride but she don't [C]care.  ^
+
 2.
-She said that living with me was bringing her down yeah
-She would never be free when I was around.
+She [C]said that living with ^me was bringing her ^down ^yeah
+[C]She would never be ^free when I was a[Dm]round.  [G]
 
-R:
-   F
-I don't know why she's ridin' so high
-                                    G
-She ought to think twice, she ought to do right
-by me
-Before she gets to saying good-bye
-She ought to think twice, she ought to do right
-by me.
+CHORUS
 
-3.
-I think I'm gonna be sad, I think it's today yeah
-The girl that's driving me mad is going away
-Ah she's got a ticket to ride, she's got a ticket to ride
-She's got a ticket to ride but she don't care.
+BRIDGE:
+I [F7]don't know why she's ridin' so ^high
+She ought to [F7]think twice, she ought to do right by [G]me  ^
+Be[F7]fore she gets to saying good-^bye
+She ought to [F7]think twice, she ought to do right by [G]me.  ^
 
-4.
-She said that living with me was bringing her down yeah
-She would never be free when I was around
-Ah she's got a ticket to ride, she's got a ticket to ride
-She's got a ticket to ride but she don't care.
+VERSE 1
 
-My baby don't care, my baby don't care...
+CHORUS
+
+BRIDGE
+
+VERSE 2
+
+CHORUS
+
+/My baby don't [C]care/ x2
 ```
 
 #### Tous Les Garcons Et Les Filles
 
 Sursa: Caiet cabană EN, p. 70
 
+**Chitară:** C x32010 · Am x02210 · Dm7 xx0211 · G7 320001 · C7 x32310 · F 133211 · G 320003 · Dm xx0231
+
 ```text
 1.
-Tous les garcons et les filles de mon age
-Se promenent dans la rue deux par deux
-Tous les garcons et les filles de mon age
-Savent bien ce que c’est etre hereux.
+[C]Tous les garcons et les [Am]filles de mon age
+Se pro[Dm7]menent dans la rue deux par [G7]deux
+[C]Tous les garcons et les [Am]filles de mon age
+Savent [Dm7]bien ce que c’est qu'etre he[G7]reux.
 
-R:
-Et les yeux dans les yeux
-Et la main dans la main
-Ils s’en vont amoureux
-Sans peur du lendemain.
+CHORUS 1:
+Et les [C]yeux dans les [Am]yeux
+Et la [Dm7]main dans la [G7]main
+Ils s’en [C]vont amou[Am]reux
+Sans peur [Dm7]du lende[G7]main.
 
-Oui mais mois je vais seule
-Dans les rues l’ame en peine’
-Oui mais mois je vais seule
-Car personne ne m’aime.
+Oui mais [C]mois je vais [Am]seule
+Dans les [Dm7]rues l’ame en [G7]peine’
+Oui mais [C]mois je vais [Am]seule
+Car per[Dm7]son[G7]ne ne [C]m’aime.  [(C7)]
 
-Mes jours comme mes nuits
-Sont en tout point pareils
-Sans joie et pleins d’ennui
-Personne ne murmure
-Je t’aime a mon oreille.
+BRIDGE:
+[F]Mes jours ^comme mes [C]nuits  (C7)
+[F]Sont en ^tout point pa[G]reils  ^
+[F]Sans joie ^et pleins d’en[C]nuis  [(C7)]
+[F]Personne ne ^murmure "Je ^t’aime" [Dm]a mon o[G7]reille.  ^
 
 2.
-Tous les garcons et les filles de mon age
-Font ensamble des projets d’avenir
-Tous les garcons et les filles de mon age
-Savent bien ce que s’aimer veut dire.
-R:
-...........
-Sans joie et pleins d’ennui
-Oh quand donc pour moi
-Brillera le soleil.
+[C]Tous les garcons et les [Am]filles de mon age
+Font en[Dm7]samble des projets d’ave[G7]nir
+[C]Tous les garcons et les [Am]filles de mon age
+Savent [Dm7]tres bien ce que s’aimer veut [G7]dire.
+
+CHORUS 1
+
+BRIDGE:
+[F]Mes jours ^comme mes [C]nuits  (C7)
+[F]Sont en ^tout point pa[G]reils  ^
+[F]Sans joie ^et pleins d’en[C]nuis  [(C7)]
+[F]Oh quand donc ^pour moi ^brille[Dm]ra le so[G7]leil.
 
 3.
-Comme les garcons et les filles de mon age
-J’connaîtrai bientot ce qu’est l’amour
-Comme les garcons et les filles de mon age
-Je me demande quand viendra le jour.
+[C]Comme les garcons et les [Am]filles de mon age
+J’con[Dm7]naîtrai bientot ce qu’est l’a[G7]mour
+[C]Comme les garcons et les [Am]filles de mon age
+Je me [Dm7]demande quand viendra le [G7]jour.
 
-R:
-Ou les yeux dans les yeux
-Ou la main dans la main
-J’aurai le coeur hereux
-Sans peur de landemain
+CHORUS 2:
+Ou les [C]yeux dans ses [Am]yeux
+et la [Dm7]main dans sa [G7]main
+J’aurai [C]le coeur he[Am]reux
+Sans [Dm7]peur de lande[G7]main
 
-Le jour ou je n’aurai plus
-De tout l’ame en peine
-Le jour ou moi aussi
-J’aurai quelqu’un qui m’aime.
+Le jour [C]ou je n’au[Am]rai
+plus de [Dm7]tout l’ame en [G7]peine
+Le jour [C]ou moi au[Am]ssi
+J’aurai [Dm7]quel[G7]qu’un qui [C]m’aime.
 ```
 
 #### Twist and Shout
@@ -25100,103 +25098,92 @@ baby).
 
 **Tanita Tikaram** · Sursa: Caiet cabană EN, p. 43
 
-**Chitară:** Am x02210 · F 133211 · G 320003 · E 022100 · Dm xx0231
+**Chitară:** Am x02210 · Dm7 xx0211 · E 022100
 
 **Ukulele:** Am 2000 · F 2010 · G 0232 · E 4442 · Dm 2210
 
 ```text
 1.
-Am        F
-All God's children need travelling shoes
-  G                      Am
-Drive your problems from here,
-Am  F
-All good people read good books
-    G             Am
-Now your conscience is clear,
-    Am
+[Am]   All God's children need [Dm7]travelling shoes
+[E]  Drive your problems from [Am]here,
+[Am]  All good people read...  [Dm7]  good books
+[E]  Now your conscience is [Am]clear,
 I hear you talk girl
-    G             Am
-Now your conscience is clear.
+[E]  Now your conscience is [Am]clear.  ^
 
-In the morning when I wipe my brow
-Wipe the miles away
-I like to think I can be so willed
-And never do what you say
+[Am]  In the morning when I [Dm7]wipe my brow
+[E]  Wipe the miles a[Am]way
+[Am]  I like to think I can [Dm7]be so willed
+[E]  And never do what you [Am]say
 I'll never hear you
-And never do what you say.
+[E]  And never do what you [Am]say.  ^
 
-R:
- E                      Am
-Look my eyes are just holograms
-      E                 Am
-Look your love has drawn red from my hands
-      Dm               Am
-From my hands you know you'll never be
-        E           Am
-More than twist in my sobriety (x3)
+CHORUS:
+Look my [E]eyes are just holo[Am]grams
+Look your [E]love has drawn red from my [Am]hands
+From my [Dm7]hands you know you'll never [Am]be
+More than [E]twist in my sobrie[Am]ty (x3)
 
 2.
-We've just poked a little empty pie
-For the fun that people had at night
-Late at night don't need hostility
-The timid smile and pause to free.
+[Am]  We've just poked a little  [Dm7]...empty pie
+[E]  For the fun that people [Am]had at night
+[Am]  Late at night don't need hos[Dm7]tility
+[E]  The timid smile and [Am]pause to free.
 
-I don't care about their different thoughts
-Different thoughts are good for me
-Up in arms and chaste and whole
-All God's children took their toll.
+[Am]  I don't care about their [Dm7]...different thoughts
+[E]  Different thoughts are [Am]good for me
+[Am]  Up in arms and [Dm7]chaste and whole
+[E]  All God's children [Am]took their toll.
 
-R
+CHORUS
 
-Cup of tea, takes time to think, yeah
-Time to risk a life, a life, a life
-Sweet and handsome
-Soft and porky
-You pig out 'til you've seen the light
-Pig out 'til you've seen the light
+BRIDGE:
+[Am]   Cup of tea, takes [Dm7]time to think, yeah
+[Am]   Time to risk a [Dm7]life, a life, a life
+[Am]  Sweet and handsome  [Dm7]... soft and porky
+You [E]pig out 'til you've seen the [Am]light
+[E]Pig out 'til you've seen the [Am]light
 
-Half the people read the papers
-Read them good and well
-Pretty people, nervous people
-People have got to sell
-News you have to sell
+[Am]  Half the people [Dm7]...read the papers
+[E]  Read them good and [Am]well
+[Am]  Pretty people, [Dm7]...nervous people
+[E]People have got to [Am]sell
+[E]News you have to [Am]sell
 
-R
+CHORUS x2
 ```
 
 #### Unchained Melody
 
 **The Righteous Brothers** · Sursa: Caiet cabană EN, p. 30
 
-**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · D7 xx0212
+**Chitară:** G 320003 · Em 022000 · C x32010 · D xx0232 · D7 xx0212 · Bm x24432 · G7 320001
 
 **Ukulele:** G 0232 · Em 0432 · C 0003 · D 2220 · D7 2223
 
 ```text
-1.
- G   Em          C
-Oh, my love, my darling,
-      D       D7       G
-I’ve hungered for your touch,
-   Em           D   D7
-Along lonely times.
-And time rolls by so slowly,
-And time can do so much.
-Are you still mine?
-R:
-    G       D
-I need your love.
-   Em       D
-I need your love.
-      C        D     G
-God speed your love to me.
-   C       D        C        D
-Lonely rivers flow to the sea, to the sea.
- C           D7       G
-To the open arms of the sea.
-Lonely rivers sigh wait for me, wait for me.
-I'll be coming home.Wait for me.
+VERSE:
+[G]Oh,^ my [Em]love, ^ my [C]darling,
+[C]  I’ve [D]hungered [D7]for your [G]touch,
+[G]  A [Em]long  ^  lonely [D]time.  ^  [D7]  ^
+And [G]time ^  rolls [Em]by  ^  so [C]slowly,
+[C]  And [D]time can [D7]do so [G]much.
+[G]  Are [Em]you  ^  still [D]mine?  ^  [D7]  ^
+
+CHORUS:
+I [G]ne^ed your [D]love.  ^
+I [Em]ne^ed your [Bm]love.  ^
+God [C]spe^ed your [D]love ^  to [G]me.  [G7]
+
+BRIDGE:
+[C]Lonely rivers [D]flow to the [C]sea, to the [D]sea.
+[C]To the open [D7]arms of the [G]sea.  [G7]
+[C]Lonely rivers [D]sigh wait for [C]me, wait for [D]me.
+[C]I'll be coming [D7]home.Wait for [G]me.  ^
+
+VERSE
+
+CHORUS
 ```
 
 #### What's Up
@@ -25208,68 +25195,47 @@ I'll be coming home.Wait for me.
 **Ukulele:** G 0232 · Am 2000 · C 0003
 
 ```text
-G
-Twenty Five years and my life is still
-Am                       C
-Trying to get up that great big hill of hope
-       G
-For a destination
+[G]  Twenty Five years and my ^life is still
+[Am]Trying to get up that ^great big hill of [C]hope
+[C]  For a desti[G]nation  ^
 
-I realized quickly when I knew that I should
-That the world was made of this
-brotherhood of man
-For whatever that means
+I [G]realized quickly when I ^knew that I should
+That the [Am]world was made of this
+[Am]brotherhood of [C]man
+[C]  For whatever that [G]means  ^
+
+PRE-CHORUS:
+And So I [G]cry sometimes when I'm ^lying in bed
+Just to [Am]get it all out what's ^in my head
+and I,[C]  I am feeling  ^  a little pe[G]culiar.
+
+So I [G]wake in the morning and I ^step outside
+And I [Am]take a deep breath and I ^get real high
+and I [C]Scream at the top of my ^lungs: WHAT'S GOIN [G]ON?
 
 CHORUS:
+/And I said [G]Heye^yeee [Am]yeyeye
+I said [C]Hey  ^ Whats going [G]on?/ x2
 
-G
-And So I cry sometimes when I'm lying in
-bed
-Am
-Just to get it all out
-             C                 G
-Whats in my head and I, I am feeling a
-little peculiar.
+INTERLUDE x2:
+[G]Ooh, [Am]Ooh [C]Ooh  [G]Ooh
 
-So I wake in the morning and I step
-outside
-And I take a deep breath and I get real
-high and
-I Scream at the top of my lungs WHATS
-GOIN ON?
+And I [G]try, ^oh my God do I [Am]try
+I [Am]try all the [C]time, ^  in this insti[G]tution  ^
+And I [G]pray, ^oh my God do I [Am]pray
+I [Am]pray every single [C]day
+[C]  For a revo[G]lution  ^
 
-G
-And I said Heyeyeyeyey
-Am
-Heyeyey
-     C       G
-I said Hey Whats going on?
-G
-And I said Heyeyeyeyey
-Am
-Heyeyey
-     C       G
-I said Hey Whats going on?
+PRE-CHORUS
 
-G  Am  C  G
-Ooh, Ooh Ooh
-       G                  Am
-And I try, oh my god do I try
-            C                 G
-I try all the time, in this institution
-       G                   Am
-And I pray, oh my god do I pray
-                     C
-I pray every single day
-          G
-For a revolution
+CHORUS x2
 
-CHORUS
+INTERLUDE
 
-Twenty-five years and my life is still
-Trying to get up that great big hill of
-hope
-For a destination
+OUTRO:
+[G]  Twenty Five years and my ^life is still
+[Am]Trying to get up that ^great big hill of [C]hope
+[C]  For a desti[G]nation  ^
 ```
 
 #### When the Saints
@@ -25306,82 +25272,60 @@ When the revelation comes.
 
 **Scorpions** · Sursa: Caiet Christian Adventure, p. 203 · Caiet cabană EN, p. 40
 
-**Chitară:** C x32010 · Dm xx0231 · G 320003 · Am x02210 · F 133211 · Em 022000 · E7 020100
+**Chitară:** C x32010 · Dm xx0231 · Am x02210 · G 320003 · F 133211 · E7 020100
 
 **Ukulele:** C 0003 · Dm 2210 · G 0232 · Am 2000 · F 2010 · Em 0432 · E7 1202
 
 ```text
-C            Dm
-I follow the Moskva
-         C
-Down to Gorky Park
-Dm* Am* G* C!
-Listening to the wind of change
+1.
+I [C]follow the Mosk[Dm]va
+[Dm]Down to Gorky [C]Park
+[C]Listening to the [Dm]wind of [Am]cha[G]ange  [C]
 
-An August summer night
-Soldiers passing by
-Listening to the wind of change
+2.
+An [C]August summer [Dm]night
+[Dm]Soldiers passing [C]by
+[C]Listening to the [Dm]wind of [Am]cha[G]ange  [C]
 
-The world is closing in
-Did you ever think
-That we could be so close, like
-brothers
+3.
+The [C]world is closing [Dm]in
+[Dm]Did you ever [C]think
+[C]That we could be so [Dm]close, like [Am]bro[G]thers  [C]
 
-The future's in the air
-I can feel it everywhere
-Blowing with the wind of change
+4.
+The [C]future's in the [Dm]air
+I can [Dm]feel it every[C]where
+[C]Blowing with the [Dm]wind of [Am]cha[G]ange  ^
 
-CHORUS:
+CHORUS 1:
+[C]Take [G]me to the [Dm]magic of the [G]moment
+On a [C]glory [G]night
+Where the [Dm]children of [G]tomorrow dream a[Am]way
+[F]  In the wind of [G]change  (wind of ^change)
 
-  C   G     Dm       G
-Take me to the magic of the mom
-     C   G
-On a glory night
-       Dm        G       Am
-Where the children of tomorrow d
-away
-   F         G
-In the wind of change
+[C]Walking down the [Dm]street
+[Dm]Distant memo[C]ries
+Are [C]buried in the [Dm]past for[Am]e[G]ver  [C]
 
-Walking down the street
-Distant memories
-Are buried in the past forever
+VERSE 1
 
-I follow the Moskva
-Down to Gorky Park
+CHORUS 2:
+[C]Take [G]me to the [Dm]magic of the [G]moment
+On a [C]glory [G]night
+Where the [Dm]children of [G]tomorrow share their [Am]dreams
+[F]  With you and [G]me  (you and ^me)
 
-Listening to the wind of change
+CHORUS 1
 
-CHORUS1:
+BRIDGE:
+The [Am]wind of change blows [G]straight
+In[G]to the face of [Am]time
+Like a [Am]stormwind that will [G]ring
+ The freedom [G]bell for peace of [C]mind
+[C] Let your balalaika [Dm]sing
+What my [Dm]guitar wants to [E7]say  ^
 
-Take me to the magic of the moment
-On a glory night
-Where the children of tomorrow share
-their dreams
-With you and me
-
-CHORUS2:
-
-Take me to the magic of the moment
-On a glory night
-Where the children of tomorrow
-dream away
-In the wind of change
-
-Am             G
-The wind of change blows straight
-              Am
-Into the face of time
-                                G
-ent            Like a stormwind that will ring
-                   Am
-The freedom bell for peace of mind
-                         C
-ream        Let your balalaika sing
-               Em    E7
-What my guitar wants to say
-
-CHORUS1+CHORUS2
+CHORUS 2 + CHORUS 1
 ```
 
 #### Wish You Were Here
@@ -25394,99 +25338,79 @@ CHORUS1+CHORUS2
 
 ```text
 1.
-C           D
-So, so you think you can tell,
-          Am                 G
-heaven from hell? Blue skies from pain?
-                   D
-Can you tell a green field,
-                C
-from a cold steel rail?
-             Am
-A smile from a veil?
+[C]   So,  ^  so you think you can [D]tell,
+[D]  heaven from [Am]hell?
+[Am] Blue skies from [G]pain?
+[G]  Can you tell a green [D]field,
+[D]  from a cold steel [C]rail?
+[C]  A smile from a [Am]veil?
+[Am]  Do you think you can [G]tell?
 
 2.
-                  G
-Do you think you can tell?
-                 C
-Did they get you to trade,
-              D
-your heroes for ghosts?
-              Am
-Hot ashes for trees?
-              G
-Hot air for a cool breeze?
-                  D
-Cold comfort for change
-               C
-And did you exchange,
-                   Am
-a walk-on part in the war,
-                     G
-for a lead role in a cage...
+[G]  Did they get you to [C]trade,
+[C]  your heroes for [D]ghosts?
+[D]  Hot ashes for [Am]trees?
+[Am]  Hot air for a [G]cool breeze?
+[G]  Cold comfort for [D]change
+[D]  And did you ex[C]change,
+a [C]walk-on part in the [Am]war,
+for a [Am]lead role in a [G]cage...
 
 R:
-  C                      D
-How I wish, how I wish you were here!
-         Am
-We're just two lost souls
-                 G
-Swimming in a fishbowl, year after year
-   D
-Running over the same old ground,
-   C
-What have we found
-                 Am                 G
-The same old fears?…Wish you were here
+[C]  How I wish, ^  how I wish you were [D]here!
+[D]  We're just [Am]two lost souls
+Swim[Am]ming in a fishbowl, [G]  year after ^year
+[D]  Running over the ^same old ground,
+What have we [C]found
+[C]  The same old [Am]fears?  ^… Wish you were [G]here  ^
 ```
 
 #### With a Little Help from My Friends
 
 **Beatles** · Sursa: Caiet cabană EN, p. 11
 
-**Chitară:** G 320003 · D xx0232 · Am x02210 · D7 xx0212 · F 133211 · C x32010 · Em 022000 · A x02220
+**Chitară:** G 320003 · D xx0232 · Am x02210 · D7 xx0212 · F 133211 · C x32010 · Em 022000 · A x02220 · D# xx1343
 
 **Ukulele:** G 0232 · D 2220 · Am 2000 · D7 2223 · F 2010 · C 0003 · Em 0432 · A 2100
 
 ```text
 1.
- G             D     Am
-What would you think if I sang out of tune?
-                D7        G
-Would you stand up and walk out on me?
-Lend me your ears and I'll sing you a song
-And I'll try not to sing out of key.
+[G]What would you [D]think if I [Am]sang out of ^tune?
+Would you [Am]stand up and [D7]walk out on [G]me?  ^
+[G]Lend me your [D]ears and I'll [Am]sing you a ^song
+And I'll [Am]try not to [D7]sing out of [G]key.  ^
 
-R1:
-     F       C            G
-Oh I get by with a little help from my friends
-I get high with a little help from my friends
-I'm gonna try with a little help from my friends.
+CHORUS:
+Oh I get [F]by with a little [C]help from my [G]friends  ^
+I get [F]high with a little [C]help from my [G]friends  ^
+I'm gonna [C]try with a little ^help from my [G]friends.  ^
 
 2.
-What do I do when my love is away?
-Does it worry you to be alone?
-How do I feel by the end of the day?
-Are you sad because you're on your own?
+[G]What do I [D]do when my [Am]love is a^way?
+Does it [Am]worry you to [D7]be a[G]lone?  ^
+[G]How do I [D]feel by the [Am]end of the ^day?
+Are you [Am]sad because you're [D7]on your [G]own?
 
-R2:
-    Em      A        G       F     C
-Do you need anybody? I need somebody to
-love
-Could it be anybody? I want somebody to love.
+CHORUS
+
+BRIDGE:
+Do you [Em]need ^any[A]body? ^  I [G]need some[F]body to [C]love
+Could it [Em]be ^any[A]body? ^  I [G]want some[F]body to [C]love.
 
 3.
-Would you believe in a love at first sight?
-Yes I'm certain that it happens all the time
-What do you see when you turn out the light?
-I can't tell you but I know it's mine.
-R1:
-R2:
-Oh I get by with a little help from my friends
-I'm gonna try with a little help from my friends
-Oh I get high with a little help from my friends
-Yes I get by with a little help from my friends
-With a little help from my friends.
+[G]Would you be[D]lieve in a [Am]love at first ^sight?
+Yes I'm [Am]certain that it [D7]happens all the [G]time  ^
+[G]What do you [D]see when you [Am]turn out the ^light?
+I can't [Am]tell you but I [D7]know it's [G]mine.
+
+CHORUS
+
+BRIDGE
+
+CHORUS
+CODA:
+Yes I get [F]by with a little ^help from my [C]friends
+With a little [C]help from my [D#]frie[F]e[G]ends.
 ```
 
 #### Wonderful Tonight
@@ -25498,53 +25422,36 @@ With a little help from my friends.
 **Ukulele:** G 0232 · D 2220 · C 0003 · Em 0432
 
 ```text
-G                 D
-It’s late in the evening
-C                     D
-She’s wondering what clothes to we
-G               D
-She puts on her make up
-C               D
-And brushes her long blonde hair
-C            D
-And then she asks me
-G      D     Em
-Do I look alright?
-          C      D        G
-And I say yes, you look wonderful to
+[G]  It’s late in the [D]evening
+[C]  She’s wondering what [D]clothes to we
+[G]  She puts on her [D]makeup
+[C]  And brushes her [D]long blonde hair
+[C]  And then she [D]asks me
+[G]  Do I [(D)]look al[Em]right?
+And I say [C]yes, you look [D]wonderful to[G]night
 
-We go a party
-And everyone turns to see
-This beautiful lady
-Is walking around with me
-And then she asks me
-Do you feel alright?
-And I say yes, I feel wonderful tonig
+[G]  We go a [D]party
+[C]  And everyone [D]turns to see
+[G]  This beautiful [D]lady
+[C]  Is walking a[D]round with me
+[C]  And then she [D]asks me
+[G]  Do you [(D)]feel al[Em]right?
+And I say [C]yes, I feel [D]wonderful to[G]night
 
-D       C
-I feel wonderful
-                  D       G      D      Em
-ar            Because I see the love light in your eyes
-        C    D
-And the wonder of it all
-            C      D
-Is that you just don’t realize
-       G
-How much I love you
+[D]  I feel [C]wonderful
+Be[D]cause I see the [G]love light [(D)]in your [Em]eyes
+And the [C]wonder of it [D]all
+Is that [C]you just don’t [D]realize
+How much I [G]love you
 
-It’s time to go home now
-And I’ve got an aching head
-night
-So I give her the car keys
-And she helps me to bed
-And then I tell her
-As I turn out the light
-         C          D       G
-I say my darling, you were wonderful
-tonight
-              Em     C         D       G
-ht            Oh my darling, you were wonderful
-tonight
+[G]  It’s time to go [D]home now
+[C]  And I’ve got an [D]aching head
+[G]  So I give her the [D]car keys
+[C]  And she helps me to [D]bed
+[C]  And then I [D]tell her
+[G]  As I [D]turn out the [Em]light
+I say my [C]darling, you were [D]wonderful to[G]night
+[D]  [Em] Oh my [C]darling, you were [D]wonderful to[G]night
 ```
 
 #### Yellow Submarine
