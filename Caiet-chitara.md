@@ -9517,40 +9517,40 @@ Mai încearcă să trăiești atât cât mai poți.
 **Ukulele:** Em 0432 · B 4322 · G 0232 · Am 2000 · Adim7 2323 · Adim/F# 2323 · C 0003 · B7 2322
 
 ```text
-[Em]Norii-s de-[B]argint și zboară de[Em]parte
-[G]Cerul e [B]'nalt, tăiat în cleș[Em]tar
-[Am]Noaptea e-o per[Adim7]dea, și-n [Adim/F#]fereastra mea[Em]
-Doar [C]umbre care-[B]ncet [Em]dispar.
+[Em]  Norii-s de-[B]argint și zboară de[Em]parte  ^
+[G]  Cerul e [B]'nalt, tăiat în cleș[Em]tar  ^
+[Am]  Noaptea e-o per[Adim7]dea, și-n [Adim/F#]fereastra mea[Em]
+Doar [C]umbre care-[B]ncet [Em]dispar.  ^
 
-[Em]Când nu ești [B]aici, mi-e camera [Em]goală
-[G]E timpul [B]leneș, mult prea [Em]lung
-[Am]Deloc nu mi-e [Adim7]somn și-n [Adim/F#]loc să adorm[Em]
-Încerc, [C]cu gândul, [B]să te-a[Em]jung
+[Em]  Când nu ești [B]aici, mi-e camera [Em]goală  ^
+[G]  E timpul [B]leneș, mult prea [Em]lung  ^
+[Am]  Deloc nu mi-e [Adim7]somn și-n [Adim/F#]loc să adorm[Em]
+În[C]cerc, cu [B]gândul, să te-a[Em]jung  ^
 
 Bridge
-Se [C]înseninează, [B]cerul, de[Em]parte
-Ceata [C]dispare, [B]ruptă în fâ[Em]șii
+Se înseni[C]nează, [B]cerul, de[Em]parte  ^
+Ceata [C]dispare, [B]ruptă în fâ[Em]șii  ^
 Străzile-s [C]pustii, [B]dacă tu
-[Em]Dacă tu nu vii
+Dacă [Em]tu nu vii  ^
 Degeaba-[C]ncepe, [B]începe o nouă [B7]zi.
 
 Refren:
-[Am]Nu te-ndepar[Em]ta
+[Am]  Nu te-ndepar[Em]ta
 Nu mă mai [B]lasă
 Singur să te-aș[Em]tept
-[Am]Nu te răzgân[Em]di
+[Am]  Nu te răzgân[Em]di
 Nu mă oco[B]li
 Nu mai fu[Em]gi
 
-[Em]Și e liniște [B]iar aprope de [Em]mine
-[G]Prea triste [B]visele îmi [Em]sunt
-[Am]De ce nu ești [Adim7]aici să-ți pot [Adim/F#]vorbi, să-mi poți [Em]vorbi
-S-a[C]propii [B]cerul de pă[Em]mânt
+[Em]  Și e liniște [B]iar aprope de [Em]mine  ^
+[G]  Prea triste [B]visele îmi [Em]sunt  ^
+[Am]  De ce nu ești [Adim7]aici să-ți pot [Adim/F#]vorbi, să-mi poți [Em]vorbi
+S-a[C]propii [B]cerul de pă[Em]mânt  ^
 
-[Em]Și e liniște [B]iar, prea aproape de [Em]mine
-[G]De ce n-a[B]uzi chemarea [Em]mea
-[Am]Te strig [Adim7]mereu, te [Adim/F#]strig în gând[Em]
-Și inima [C]mea, e ca un [B]ceas [Em]bătând.
+[Em]  Și e liniște [B]iar, prea aproape de [Em]mine  ^
+[G]  De ce n-a[B]uzi chemarea [Em]mea  ^
+[Am]  Te strig [Adim7]mereu, te [Adim/F#]strig în gând[Em]
+Și inima [C]mea, e ca un [B]ceas [Em]bătând.  ^
 
 Bridge
 Refren
@@ -9981,12 +9981,12 @@ Caii sunt un ideal.
 [F]Poate-ai [G]ador[C]mit.
 
 Refren:
-[C]Deseară să nu m-[F]aștepți
-[G]Deseară n-am să [C]vin
+De[C]seară să nu m-[F]aștepți
+De[G]seară n-am să [C]vin
 [C]Pentru două [F]vorbe
 [G]  La o cană cu [C]vin
 
-[C]Deseară să [F]nu m-aștepți
+De[C]seară să [F]nu m-aștepți
 O, [G]nu, n-am să [C]vin
 [C]Pentr-un "Bună [F]seara"
 A[G]tât, și-o cană cu [C]vin.
@@ -10128,8 +10128,6 @@ Refren Xn
 **Ukulele:** Am 2000 · E 4442 · G 0232 · C 0003
 
 ```text
-Ducu Bertzi
-
 1.
 [Am]Și-așa-mi vine [E]câteodată, [Am]doru[G]le,
 [C]Și-așa-mi vine [G]câteodată
@@ -10930,14 +10928,13 @@ tine în gând
 
 #### Dacă ai ghici
 
-**Mircea Baniciu/Pasărea Colibri** · Versuri Mira Hristo · Sursa: Caiet cabană RO, p. 137 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/daca-ai-ghici-1453)
+**Mircea Baniciu/Pasărea Colibri** · Versuri Mira Hristofor · Sursa: Caiet cabană RO, p. 137 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/pasarea-colibri/daca-ai-ghici-1453)
 
 **Chitară:** C x32010 · Em 022000 · Am x02210 · G 320003 · F 133211
 
 **Ukulele:** C 0003 · Em 0432 · Am 2000 · G 0232 · F 2010
 
 ```text
-Mircea Baniciu, Mira Hristofor
 R:
 Dacă ai ghi[C]ci
 Tot ce-ți pot do[Em]ri
@@ -11675,20 +11672,20 @@ Notă: Ritmul și „timing”-ul sunt importante; după primul vers prinde bine
 **Ukulele:** Am 2000 · Dm 2210 · G 0232 · C 0003 · E7 1202 · G7 0212
 
 ```text
-/[Am]A venit, a venit [Dm]toamna
-[G]Acoperă-mi inima [C]cu ceva
-[Am]Cu umbra unui co[Dm]pac sau mai bine
-[E7]Sau mai bine cu [Am]umbra ta./ x2
+/[Am]  A venit, a venit [Dm]toamna
+[G]  Acoperă-mi inima cu ce[C]va
+[Am]  Cu umbra unui co[Dm]pac sau mai bine
+[E7]  Sau mai bine cu [Am]umbra ta./ x2
 
-[Am]Mă tem ca n-am să te mai [Dm]văd uneori
-[G7]Că au să-mi crească aripi ascu[C]țite până la nori.
-[Am]Că-i să te-ascunzi într-un [Dm]ochi străin
-[E7]Și el o să se-chida cu o [Am]frunza de pelin.
+Mă [Am]tem ca n-am să te mai [Dm]văd uneori
+[G7]  Că au să-mi crească aripi ascuțite [C]pân' la nori.
+[Am]  C-ai să te-ascunzi într-un [Dm]ochi străin
+[E7]  Și el o să se-chida cu o [Am]frunză de pelin.
 
-[Am]Și-atunci m-apropii de [Dm]pietre și tac
-[G7]Iau cuvintele și le-nec în [C]mare
-[Am]Șuier luna și-o ră[Dm]sar și-o prefac
-[E7]Într-o dragoste [Am]mare.
+Și-a[Am]tunci m-apropii de [Dm]pietre și tac
+[G7]  Iau cuvintele și le-nec în [C]mare
+[Am]  Șuier luna și-o ră[Dm]sar și-o prefac
+[E7]  Într-o dragoste [Am]mare.
 ```
 
 Notă: Strofele se repetă o dată, în aceeași ordine.
@@ -11863,14 +11860,14 @@ Notă: Pentru tonalitatea originală, capo în poziția a 2-a.
 **Ukulele:** C 0003 · Em 0432 · Am 2000 · F 2010 · G7 0212
 
 ```text
-[C] Nisipul [Em]fin a [Am]oftat      [F]
+[C]  Nisipul [Em]fin a [Am]oftat      [F]
 Zâmbește-n [C]el o urmă [G7]de pă[C]cat [G7]
-[C] E semn c-[Em]aici în [Am]zadar   [F]
+[C]  E semn c-[Em]aici în [Am]zadar   [F]
 Își cheamă [C]luna lupii [G7]la al[C]tar[G7]
 
-[C] Strop de [Em]vină îngro[Am]pat   [F]
+[C]  Strop de [Em]vină îngro[Am]pat   [F]
 Ciorchini de [C]sare fața [G7]i-au spă[C]lat [G7]
-[C] Cristale [Em]reci țes în [Am]fum [F]
+[C]  Cristale [Em]reci țes în [Am]fum [F]
 Coperta-n [C]aur pe-un [G7]sicriu de [C]scrum.  [G7]
 
 Refren(x2):
@@ -12621,30 +12618,30 @@ Notă: Partea cea mai grea e schimbarea tonalității, din `A` în `E`, la refre
 
 [C][Am][G][Em][C][D7][G]
 
-[G]Las' lumea să [C]disprețuiască
-[Am]ascunsa [D7]taină [G]dintre noi,
-/[C]Prejude[Am]cata [G]omenească[Em]
-a[C]runce-n [D7]cale-ți [G]cu noroi./ x2
+[G]  Las' lumea ^să dis[C]prețuiască  ^
+[Am]  ascunsa [D7]taină [G]dintre noi,  ^
+/[C]  Prejude[Am]cata [G]omenească  [Em]
+[C]  arunce-n [D7]cale-ți [G]cu noroi.  ^  / x2
 
-[G]În fata ido[C]lilor lumii
-[Am]nu-plec ge[D7]nunchi, nu [G]cerșesc.
-/[C]La fel cu [Am]tine [G]gândul nu mi-i[Em]
-ni[C]ci să iu[D7]besc, nici să u[G]răsc./ x2
+[G]  În fața ^ido[C]lilor lumii  ^
+[Am]  nu-plec ge[D7]nunchii, [G]nu cerșesc.
+/[C]  La fel cu [Am]tine [G]gândul nu mi-i[Em]
+[C]  nici să iu[D7]besc, nici [G]să urăsc.  ^  / x2
 
-[G]M-afund fără să [C]caut rostul
-[Am]în chefuri, [D7]nici voios, nici [G]trist.
-/[C]Vorbesc cu pros[Am]tul, [G]cu neprostul[Em],
-[C]doar pentru [D7]sufletu-mi [G]exist./ x2
+[G]   M-afund fă^ră să [C]caut rostul  ^
+[Am]  în chefuri, [D7]nici vo[G]ios, nici trist.  ^
+/[C]  Vorbesc cu [Am]prostul, [G]cu neprostul[Em],
+[C]  doar pentru [D7]sufle[G]tu-mi exist.  ^  / x2
 
-[G]În larma lumii ne-[C]ntâlnirăm,
-[Am]o zi ca [D7]orice al[G]tă zi,
-/[C]Fără de bu[Am]curii, iu[G]bire,
-[Em]fără tris[C]teți [D7]ne-om des[G]părți./ x2
+[G]  În larma ^lumii [C]ne-ntâlnirăm,  ^
+[Am]  o zi ca [D7]orice [G]altă zi,  ^
+/[C]  Fără de [Am]bucu[G]rii, iubire,[Em]
+[C]  fără tris[D7]teți ne-om [G]despărți.  ^  / x2
 
-[G]Și prețuim în [C]viața toată
-[Am]doar oame[D7]nii, a[G]tâta tot,
-/[C]Nu ne-om [Am]minți noi nici[G]odată,
-[Em]nici al[C]ții a [D7]ne min[G]ți nu pot./ x2
+[G]  Și prețu^im în [C]viața toată  ^
+[Am]  doar oame[D7]nii, a[G]tâta tot,  ^
+/[C]  Nu ne-om min[Am]ți noi [G]niciodată,[Em]
+[C]  nici alții a [D7]ne min[G]ți nu pot.   ^  / x2
 ```
 
 Notă: Arpegiu simplu, ca mai jos. Pentru o variantă mai interesantă, se poate cânta un „bass-run” la mijlocul versurilor: între `C` și `Am` (primul vers al strofei), respectiv `G` și `Em` (celelalte două versuri):
@@ -13330,7 +13327,7 @@ Lu[C]mină, [E]viață, ade[Am]vă^ăr.
 
 5.
 A[C]tinge-l lu^mină so[Am]la^ră
-[C]Nu-l lă[E]sa să [Am]moa&ră
+[C]Nu-l lă[E]sa să [Am]moa^ră
 Fă[C]cându-l [E]floare de [Am]mă^ăr
 Lu[C]mină, [E]viață, ade[Am]vă^ăr.
 ```
@@ -13757,7 +13754,7 @@ Refren
 În [D]simțuri sunt flă[G]mând, dacă mâ[D]inile apu[G]când, pi[D]cioarele căl[G]când,
 Doar [D]ghetele aș[G]tept să [Em]mă mai [A]poarte. [Asus4]=[A]
 Sunt [G]gata să plec [A]unde vrei sunt [D]gata să m-a[G]fund în [D]fală mea de [G]plumb,
-Dan[D]sul meu de e pro[G]fund, mă [Em]va purta de[A]parte. [Asus4]=[A]
+Dansul [D]meu de e pro[G]fund, mă [Em]va purta de[A]parte. [Asus4]=[A]
 
 Refren
 
@@ -14889,34 +14886,54 @@ Că te-n^torci pe pat de [C]flori.  ^/ x2
 Ducu Bertzi
 
 1.
-Pe [G]cine și [D]câte cărări las în [C]urmă nu-mi [D]pasă
-Trec [G]singur prin [D]lume de[C]și câteodată m-a[D]pasă
-Sunt [G]vesel chiar [D]dacă știu bine că [C]drumul se în[D]fundă
-Voi [G]merge spre [D]zare și [C]n-are decât să se as[D]cundă.  ^
+Pe [G]cine și [D]câte cărări
+las în [C]urmă nu-mi [D]pasă
+Trec [G]singur prin [D]lume
+de[C]și câteodată m-a[D]pasă
+Sunt [G]vesel chiar [D]dacă știu bine
+că [C]drumul se în[D]fundă
+Voi [G]merge spre [D]zare
+și [C]n-are decât să se as[D]cundă.  ^
 
 R:
-Cânt [C]fără să-mi [D]pese că-i [G]cineva să m-as[C]culte
-[G]  Îmi place doar [D]toamna când [C]umblu prin frunzele [D]multe
-Vi[G]sez o iu[D]bire ce [C]n-a fost și [D]nu e
-De[G]și tot mai [D]rece și [C]singur că[D]rarea mă [G]suie.
+Cânt [C]fără să-mi [D]pese
+că-i [G]cineva să m-as[C]culte
+[G]  Îmi place doar [D]toamna
+când [C]umblu prin frunzele [D]multe
+Vi[G]sez o iu[D]bire
+ce [C]n-a fost și [D]nu e
+De[G]și tot mai [D]rece
+și [C]singur că[D]rarea mă [G]suie.  ^
 
 2.
-Din [G]cărți nu ră[D]mân cu ni[C]mic nu mă-n[D]vață
-De[G]cât frumu[D]sețea pă[C]durilor câte-o po[D]vață
-Mi-e [G]sufletul [D]pajiște, [C]inima luncă și [D]vie
-Tris[G]tețile [D]toate din [C]lume mi-s scumpe, să [D]vie.  ^
+Din [G]cărți nu ră[D]mân
+cu ni[C]mic nu mă-n[D]vață
+De[G]cât frumu[D]sețea
+pă[C]durilor câte-o po[D]vață
+Mi-e [G]sufletul [D]pajiște,
+[C]inima luncă și [D]vie
+Tris[G]tețile [D]toate
+din [C]lume mi-s scumpe, să [D]vie.  ^
 
 3.
-Când [G]beau din în[D]tinderi și [C]gust din încinse iz[D]voare
-Ni[G]mic nu mă-m[D]bată mai [C]mult decât umeda [D]zare
-De [G]oameni mi-e [D]drag când de[C]parte de ei știu că [D]unde
-Și [G]unde o [D]mână în[C]vinsă de febră se-as[D]cunde.  ^
+Când [G]beau din în[D]tinderi
+și [C]gust din încinse iz[D]voare
+Ni[G]mic nu mă-m[D]bată
+mai [C]mult decât umeda [D]zare
+De [G]oameni mi-e [D]drag
+când de[C]parte de ei știu că [D]unde
+Și [G]unde o [D]mână
+în[C]vinsă de febră se-as[D]cunde.  ^
 
 4.
-Dar [G]nu-i nici lu[D]mină și [C]nu-i nici durere pre-a[D]proape
-De-a[G]ceea m-a[D]șez lângă [C]țărmul cu vise și [D]ape
-De-a[G]ceea pe [D]cine și câte că[C]rări las în urmă nu-mi [D]pasă
-Și-mi [G]plac numai [D]mie și [C]numai cu florile-n [D]cască.  ^
+Dar [G]nu-i nici lu[D]mină
+și [C]nu-i nici durere pre-a[D]proape
+De-a[G]ceea m-a[D]șez
+lângă [C]țărmul cu vise și [D]ape
+De-a[G]ceea pe [D]cine
+și câte că[C]rări las în urmă nu-mi [D]pasă
+Și-mi [G]plac numai [D]mie
+și [C]numai cu florile-n [D]cască.  ^
 ```
 
 #### Pe corso (I)
@@ -15040,9 +15057,9 @@ Amice, privește
 
 ```text
 [G]  Atunci când [C]ai [D]  promis ca [G]vii,
-[G]  Mi-am pus că[D]mașa de ny[G]lon,
+[G]  Mi-am pus că[D]mașa de ny[G]lon,  ^
 [G]  Aceea [C]cu [D]  pasvan[G]terii,
-[G]  Și-n suflet [D]încă un zor[G]zon
+[G]  Și-n suflet [D]încă un zor[G]zon  ^
 
 Refren:
 Mă [G]lustruisem, mă [D]lustruisem
@@ -16014,38 +16031,38 @@ Care mă doare când ninge.
 **Ukulele:** G 0232 · Em 0432 · Am 2000 · D7 2223 · D 2220 · B7 2322
 
 ```text
-[G]Iubito câtă lume între noi
-[Em]Numărători de ploi din doi în doi
-[G]Și dintr-un nor de dor necunoscut
-[Em]Câte zăpezi pe buze ne-au crescut
-[Am]Ascultă-mă și lasă-mă [D7]să strig
-[G]Mi-e frică de-ntâmplare și [Em]mi-e frig
-[Am]Și nu mai vreau să știu pân-[D7]la sfârșit
-[G]cine-a iubit fru[D]mos, cine-a [Em]greșit.
-[G]Cine-a iubit, [B7]cine-a gre[Em]șit.
+Iu[G]bito câtă lume între ^noi
+Nu[Em]mărători de ploi din doi în ^doi
+Și [G]dintr-un nor de dor necunos^cut
+Câ[Em]te zăpezi pe buze ne-au cres^cut
+As[Am]cultă-mă și lasă-mă să [D7]strig
+Mi-e [G]frică de-ntâmplare și mi-e [Em]frig
+Și [Am]nu mai vreau să știu pân-la sfâr[D7]șit
+ci[G]ne-a iubit fru[D]mos, cine-a gre[Em]șit.
+Ci[G]ne-a iubit, ci[B7]ne-a gre[Em]șit.
 
-[G]Cine-a făcut în noapte primul pas
-[Em]Cine-a plecat din joc, cine-a rămas
-[G]Cine și-a smuls pereții rând pe rând
-[Em]Cine s-a-ntors mereu cu ziua-n gând
-[Am]Cine-a pierdut și cine-a [D7]câștigat
-[G]De toate mântuit s-a [Em]dezlegat
-[Am]Cine-a crezut mai mult în [D7]celălalt
-[G]Sub cerul prea [D]străin sau prea [Em]înalt,
-[G]Sub cerul prea [B7]străin și-[Em]nalt.
+Ci[G]ne-a făcut în noapte primul ^pas
+Ci[Em]ne-a plecat din joc, cine-a ră^mas
+Ci[G]ne și-a smuls pereții rând pe ^rând
+Ci[Em]ne s-a-ntors mereu cu ziua-n ^gând
+Ci[Am]ne-a pierdut și cine-a câști[D7]gat
+De [G]toate mântuit s-a dezle[Em]gat
+Ci[Am]ne-a crezut mai mult în celă[D7]lalt
+Sub [G]cerul prea stră[D]in sau prea î[Em]nalt,
+Sub [G]cerul prea stră[B7]in și-[Em]nalt.
 
-[G]Iubito, câtă lume-i între noi
-[Em]Numărători de ploi din doi în doi
-[G]Și dintr-un nor de dor necunoscut
-[Em]Câte zăpezi pe buze ne-au crescut
-[Am]N-am să uit cum sună [D7]glasul tău
-[G]Decat tăcerea ce-mi va [Em]fi mai rău
-[Am]Și tu să poți sub stele [D7]înnopta
-[G]Când nu mai [D]știu ce-nseamnă [Em]umbra ta
-[G]Nu știu ce-nseamnă [B7]umbra [Em]ta.
+Iu[G]bito, câtă lume-i între ^noi
+Nu[Em]mărători de ploi din doi în ^doi
+Și [G]dintr-un nor de dor necunos^cut
+Câ[Em]te zăpezi pe buze ne-au cres^cut
+[Am]N-am să uit cum sună glasul [D7]tău
+De[G]cât tăcerea ce-mi va fi mai [Em]rău
+Și [Am]tu să poți sub stele înnop[D7]ta
+Când [G]nu mai știu ce-n[D]seamnă umbra [Em]ta
+Nu [G]știu ce-nseamnă [B7]umbra [Em]ta.
 
-[Em]Numărători de ploi din doi în doi...
-[G]Iubito câtă lume între noi...
+Nu[Em]mărători de ploi din doi în ^doi...
+Iu[G]bito câtă lume între ^noi...
 ```
 
 #### Sfârșitul nu-i aici
@@ -16173,7 +16190,7 @@ Refren 1:
 [Dm]Unde să te [(Am)]caut [E]să te găsesc [(Am)]iar
 
 Refren 2:
-[Am]Și de-ar fi [E]când va fi [Am]iar duminică-n[Dm]tr-o zi
+[Am]Și de-ar fi [E]când va fi [Am]iar dumini[Dm]că-ntr-o zi
 [Am]Tu să te gân^dești la [E]mine  ^
 [Am]Nopți la rând [E]port în gând [Am]chipul tău și [Dm]ora când
 [Am]Am să mă în[E]torc la [Am]tine  ^
@@ -16202,40 +16219,40 @@ Refren 1 + /Refren 2/ x2
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
-În Popa [C]Nan stă un bărbos bă[F]trân și foto[C]graf
-Puștii [F]de pe stradă spun că [G]este-un [C]zeu.  ^
-Știe [C]chiar de ești om [F]bun sau [C]rău
-După [F]chipul, după [G]chipul [C]tău.  ^
+În Popa [C]Nan stă un băr^bos bă[F]trân și foto[C]graf
+Puștii [F]de pe stradă ^spun că [G]este-un [C]zeu.  ^
+Știe [C]chiar de ^ești om [F]bun sau [C]rău
+După [F]chipul, ^după [G]chipul [C]tău.  ^
 
-Sub o [C]streașină-i statuia [F]unei fete [C]gri
-Spriji[F]nind un coș cu struguri [G]de ci[C]ment  ^
-Jos în [C]casă stau trei [F]fete [C]vii
-Cu com[F]portamentul ... [G]inde[C]cent.
+Sub o [C]streașină-i sta^tuia [F]unei fete [C]gri
+Spriji[F]nind un coș cu ^struguri [G]de ci[C]ment  ^
+Jos în [C]casă ^stau trei [F]fete [C]vii
+Cu com[F]portamentul ^... [G]inde[C]cent.
 
-Refren x2:
-Popa [F]Nan i-o stradă-n[G]spre Hala Tra[C]ian  ^
-De la [F]Foișor pâ[G]nă-n Piața Vi[C]tan.  ^
+Refren:
+/Popa [F]Nan i-o stradă-n[G]spre Hala Tra[C]ian  ^
+De la [F]Foișor pâ[G]nă-n Piața Vi[C]tan.  ^  / x2
 
-La un [C]colț i-o florăreasă [F]ce vă vinde [C]flori
-Mereu [F]plânge din nimic și-a[G]re păr [C]creț.  ^
-Când râde [C]rar, numai la [F]sărbă[C]tori
-Toate [F]florile nu [G]mai au [C]preț  ^
+La un [C]colț i-o floră^reasă [F]ce vă vinde [C]flori
+Mereu [F]plânge din ni^mic și-a[G]re păr [C]creț.  ^
+Când râde [C]rar, nu^mai la [F]sărbă[C]tori
+Toate [F]florile ^...nu [G]mai au [C]preț  ^
+
+Refren
+
+În Popa [C]Nan i-o frize^rie [F]fără muște[C]rii
+Pensio[F]narii stau în ^pragu-i [G]la tai[C]fas,  ^
+Iar fri[C]zerul ^gras și [F]chel dă [C]glas
+Unor [F]melodii  ^...[G]de che[C]flii...  ^
+
+Refren
+
+Zilnic [C]trece un poș^taș, cu [F]ochii de ca[C]fea
+Toate [F]fetele-l ci^tesc și-i [G]scriu ve[C]deri,  ^
+Numai [C]fata ^lui ce [F]sta în carti[C]er
+Nu e [F]nicăieri, ^...[G]nică[C]ieri.  ^
 
 Refren x2
-
-În Popa [C]Nan i-o frizerie [F]fără muște[C]rii
-Pensio[F]narii stau în pragu-i [G]la tai[C]fas,  ^
-Iar fri[C]zerul gras și [F]chel dă [C]glas
-Unor [F]melodii... [G]de che[C]flii...  ^
-
-Refren x2
-
-Zilnic [C]trece un poștaș, cu [F]ochii de ca[C]fea
-Toate [F]fetele-l citesc și-i [G]scriu ve[C]deri,  ^
-Numai [C]fata lui ce [F]sta în carti[C]er
-Nu e [F]nicăieri, [G]nică[C]ieri.  ^
-
-Refren x4
 ```
 
 #### Suflet fără chei
@@ -16248,34 +16265,53 @@ Refren x4
 
 ```text
 1.
-[Am]Trece toamna, ^iarna, vara [E]și în inimi ^urcă seara
-[F]Vântul cântă ^în neștire [E]peste glezna ^ta subțire
-[Dm]Palma mea în ^rugăciune [C]peste sânii ^tăi apune
-[Dm]Și visez că ^ești aieve ^vas de aur [E]plin cu seve
-[F]Când de fapt ești ^amintire, [C]tu și glezna ^ta subțire
-[Dm]Mâna vai, pe ^strune-mi moare [E]și pe tine ^nu te doare.
+[Am]Trece toamna, ^iarna, vara
+[E]  și în inimi ^urcă seara
+[F]Vântul cântă ^în neștire
+[E]peste glezna ^ta subțire
+[Dm]Palma mea în ^rugăciune
+[C]peste sânii ^tăi apune
+[Dm]Și visez că ^ești aieve
+[Dm]vas de aur [E]plin cu seve
+[F]Când de fapt ești ^amintire,
+[C]tu și glezna ^ta subțire
+[Dm]Mâna vai, pe ^strune-mi moare
+[E]  și pe tine ^nu te doare.
 
 Refren:
 [Dm]Hei, [E]suflet fără [Am]chei  ^
-[F]  Fără porți și ^fără ziduri, [E]lași în urmă ^numai riduri.
+[F]  Fără porți și ^fără ziduri,
+[E]  lași în urmă ^numai riduri.
 
 2.
-[Am]Trupul tău cu ^gust de miere [E]luminează-n ^încăpere
-[F]Din alt timp din ^altă viață [E]care se des^tramă-n ceață
-[Dm]Doar la mine ^în cuvinte [C]doarme coapsa ^ta fierbinte
-[Dm]Doar în cântec ^te mai am, ^măr aprins lu[E]cind în ram
-[F]Și mi-e dor și ^mi-e pustiu [C]și mă-ntreb da^că sunt viu
-[Dm]Mâna vai, pe ^strune-mi moare [E]și pe tine ^nu te doare.
+[Am]Trupul tău cu ^gust de miere
+[E]  luminează-n ^încăpere
+[F]Din alt timp din ^altă viață
+[E]care se des^tramă-n ceață
+[Dm]Doar la mine ^în cuvinte
+[C]doarme coapsa ^ta fierbinte
+[Dm]Doar în cântec ^te mai am,
+[Dm]măr aprins lu[E]cind în ram
+[F]Și mi-e dor și ^mi-e pustiu
+[C]și mă-ntreb da^că sunt viu
+[Dm]Mâna vai, pe ^strune-mi moare
+[E]  și pe tine ^nu te doare.
 
 Refren x 2
 
 3.
-[Am]Vine vara, ^iarna vine, [E]numai tu nu ^vii la mine
-[F]Trupul tău ca ^o văpaie [E]nu-mi mai intră ^în odaie
-[Dm]Steaua-mi bate ^în fereastră [C]unde-i umbra ^ta albastră
-[Dm]Unde-s pașii ^tăi cei dragi, ^sânii miro[E]sind a fragi
-[F]Și mi-e frig ^și mi-e amar [C]și mă chinui ^în zadar
-[Dm]Mâna vai, pe ^strune-mi moare [E]și pe tine ^nu te doare.
+[Am]Vine vara, ^iarna vine,
+[E]  numai tu nu ^vii la mine
+[F]Trupul tău ca ^o văpaie
+[E]nu-mi mai intră ^în odaie
+[Dm]Steaua-mi bate ^în fereastră
+[C]unde-i umbra ^ta albastră
+[Dm]Unde-s pașii ^tăi cei dragi,
+[Dm]sânii miro[E]sind a fragi
+[F]Și mi-e frig ^și mi-e amar
+[C]și mă chinui ^în zadar
+[Dm]Mâna vai, pe ^strune-mi moare
+[E]  și pe tine ^nu te doare.
 ```
 
 #### Tăcut
@@ -16828,7 +16864,7 @@ Un târziu zadarnic happy end.
 
 #### Umbra (I)
 
-**Nicu Alifantis** · Sursa: Caiet cabană RO, p. 121 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/umbra-283)
+**Nicu Alifantis** · versuri: Adrian Păunescu · Sursa: Caiet cabană RO, p. 121 · [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/nicu-alifantis/umbra-283)
 
 **Chitară:** Am x02210 · E 022100 · C x32010 · Dm xx0231
 
@@ -17288,7 +17324,7 @@ Refren engleza:
 The [F]answer, my [G7]friend, is [C]blowin' in the [Am]wind,
 The [F]answer is [G7]blowin' in the [C]wind.  ^
 
-Câte [C]drumuri un [F]om ar a[G7]ea de fă[C]cut,
+Câte [C]drumuri un [F]om ar a[G7]vea de fă[C]cut,
 Pân'ca [C]ei să-l con[F]sidere [G7]om?  ^
 Câte [C]mări pescă[F]rușii mai [G7]au de bă[C]tut,
 Pân-a[C]jung pe ni[F]sip pentru [G7]somn?  ^
@@ -17363,7 +17399,7 @@ Refren
 [A7]  De-un gard cu [Dm]spini [(D)]
 
 [Dm]  Dar vara ce ne-a logo[Gm]dit
-[C]  Cununi de flori îm[C7]purpu[F]rat
+[C]  Cununi de flori îm[(C7)]purpu[F]rat
 [Dm]  Ori n-a plecat, ori n-a [Gm]venit
 [A7]  Cu-adevă[Dm]rat [D]
 ```
@@ -18140,12 +18176,14 @@ Fi-vom de[Dm]parte
 [Dm]  Unde [E]mor și vise[Am]le  ^
 [Dm]  Unde [E]gândul nu mai [Am]e  ^
 
-[Dm] Unde-i [E]da nu e nici [Am]nu  ^
-[Dm] Unde [E]totul este [Am]un cân^tec
-[Dm] Pentru [E]veacul ce-a tre[Am]cut  ^
-[Dm] Tot ce-a [E]fost s-a petre[Am]cut  ^
+[Dm]  Unde-i [E]da nu e nici [Am]nu  ^
+[Dm]  Unde [E]totul este [Am]un ^cântec
+[Dm]  Pentru [E]veacuri ce-au tre[Am]cut  ^
+[Dm]  Tot ce-a [E]fost s-a petre[Am]cut  ^
 
 Refren
+
+/[Dm]  lai la [E]lai la la la [Am]lai  ^/ x4
 ```
 
 #### Atât de fragedă
@@ -20240,68 +20278,47 @@ Notă: Pentru tonalitatea originală, capo în poziția a 2-a; acordurile sunt d
 **Ukulele:** Em 0432 · B7 2322 · G 0232 · Am 2000 · C 0003 · Bm 4222 · E7 1202 · D 2220 · A 2100 · C#m 1104 · F#7 3424 · E 4442
 
 Intro
-
 ```tab
-|-7-7--8-10-10---7-7--8-10-10---7-7--8-10-10--10h13---12--|
-|-8-8-10-12-12---8-8-10-12-12---8-8-10-12-12--12------12--|
-|---------------------------------------------------------|
-|---------------------------------------------------------|
-|---------------------------------------------------------|
-|---------------------------------------------------------|
-|-10---8--7---0--0---0------7--5--7--|
-|-12--10--9--10--9--10------8--7--8--|
-|------------------------------------|
-|------------------------------------|
-|------------------------------------|
-|------------------------------------|
+|-7-7--8-10-10---7-7--8-10-10---7-7--8-10-10--10h13---12-10---8--7---0--0---0------7--5--7--|
+|-8-8-10-12-12---8-8-10-12-12---8-8-10-12-12--12------12-12--10--9--10--9--10------8--7--8--|
+|-------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------|
 ```
 
 ```text
 1.
-Tu stai [Em]singură la ^geam
-Și a[B7]fară plouă  ^
-Îți cu[G]prinzi tâmplele ^calde
-Cu [Am]mâinile amân^două
-Și aș[Am]tepți în noaptea ^grea
-Un gând [Em]bun de unde^va
+Tu stai [Em]singură la ^geam Și a[B7]fară plouă  ^
+Îți cu[G]prinzi tâmplele ^calde Cu [Am]mâinile amân^două
+Și aș[Am]tepți în noaptea ^grea Un gând [Em]bun de unde^va
 Să-ți a[C]prindă-n ochii ^negrii prima [B7]stea  ^
 
 2.
-Glasul [Em]ploii îți șop^tește acum
-Un [B7]cântec trist  ^
-Tu nu [G]știi că eu te-as^cult
-Tu nu știi [Am]că exist  ^
-Dar spe[Am]ranța-mi va pur^ta
-Pașii [Em]cu puterea ^sa
+Glasul [Em]ploii îți șop^tește acum Un [B7]cântec trist  ^
+Tu nu [G]știi că eu te-as^cult Tu nu știi [Am]că exist  ^
+Dar spe[Am]ranța-mi va pur^ta Pașii [Em]cu puterea ^sa
 Către [C]norul unde [B7]e fereastra [Em]ta  ^
 
 Refren:
-Spune-mi cine [G]ești
-Spune-mi ce do[Bm]rești
+Spune-mi cine [G]ești Spune-mi ce do[Bm]rești
 Spune-mi dacă [E7]mă iubești  ^
 Spune-mi dacă [Am]vei veni într-o [D]zi în calea [G]mea[D]a
-Spune-mi cine [G]ești
-Spune-mi ce gân[Bm]dești
+Spune-mi cine [G]ești Spune-mi ce gân[Bm]dești
 Spune-mi dacă [E7]voi afla  ^
 Într-o bună [Am]zi și drumul [D]spre inima [G]ta  ^
 
 Intro
-
 Strofa 2
-
 Strofa 1
-
 Refren
-
 Intro
 
 Refren (translatat)
-Spune-mi cine [A]ești
-Spune-mi ce do[C#m]rești
+Spune-mi cine [A]ești Spune-mi ce do[C#m]rești
 Spune-mi dacă [F#7]mă iubești  ^
 Spune-mi dacă [Bm]vei veni într-o [E]zi în calea [A]mea[E]a
-Spune-mi cine [A]ești
-Spune-mi ce gân[C#m]dești
+Spune-mi cine [A]ești Spune-mi ce gân[C#m]dești
 Spune-mi dacă [F#7]voi afla  ^
 /Într-o [Bm]bună zi și [E]drumul/ x2
 Într-o bună [Bm]zi și drumul [E]spre inima [A]ta  ^
@@ -20479,7 +20496,7 @@ R:
 /[G]Ne unește a^ceași soartă/ x2
 [A]O stricăm și ^iar o dregem
 [A]Mai din joacă, ^mai din ceartă
-/[C]Dar mi-aduc aminte c-ai plecat./ x2
+/[C]Dar mi-aduc a[G]minte c-ai ple[D]cat./ x2
 
 R:
 /[C]  Te în^treb pe tine [G]soare:  ^
@@ -21141,65 +21158,54 @@ Notă: Măsura 2/4.
 **Ukulele:** C 0003 · G7 0212 · F 2010
 
 ```text
-[C]Hai să zicem ^una,
-[G7]una este [C]luna
+[C]Hai să zicem ^una, [G7]una este [C]luna
 
-[C]Hai să zicem ^una,
-[C]să se facă ^două
-[F]două mâini co[C]pilul are
-[G7]una este [C]luna
+[C]Hai să zicem ^una, ^să se facă ^două
+[F]două mâini co[C]pilul are [G7]una este [C]luna
 
-[C]Hai să zicem ^două,
-[C]să se facă ^trei
+[C]Hai să zicem ^două, ^să se facă ^trei
 [F]trei crai vin din [C]depărtare
 [G7]două mâini co[C]pilul are
 [G7]una este [C]luna
 
-[C]Hai să zicem ^trei,
-[C]să se facă ^patru
+[C]Hai să zicem ^trei, ^să se facă ^patru
 [F]patru boi la [C]plug se mână
 [G7]trei crai vin din [C]depărtare
 [F]două mâini co[C]pilul are
 [G7]una este [C]luna
 
-[C]Hai să zicem ^patru,
-[C]să se facă ^cinci
+[C]Hai să zicem ^patru, ^să se facă ^cinci
 [F]cinci sunt dege[C]te la mână
 [G7]patru boi la [C]plug se mână
 [F]trei crai vin din [C]depărtare
 [G7]două mâini co[C]pilul are
 [G7]una este [C]luna
 
-[C]Hai să zicem ^cinci,
-[C]să se facă ^șase
+[C]Hai să zicem ^cinci, ^să se facă ^șase
 [F]șase zile [C]lucrătoare
 ...
 [F]două mâini co[C]pilul are
 [G7]una este [C]luna
 
-[C]Hai să zicem ^șase,
-[C]să se facă ^șapte
+[C]Hai să zicem ^șase, ^să se facă ^șapte
 [F]șapte zile-n [C]săptămână
 ...
 [G7]două mâini co[C]pilul are
 [G7]una este [C]luna
 
-[C]Hai să zicem ^șapte,
-[C]să se facă ^opt
+[C]Hai să zicem ^șapte, ^să se facă ^opt
 [F]câte opt la [C]joc voinicii
 ...
 [F]două mâini co[C]pilul are
 [G7]una este [C]luna
 
-[C]Hai să zicem ^opt,
-[C]să se facă ^nouă
+[C]Hai să zicem ^opt, ^să se facă ^nouă
 [F]nouă martie [C]Mucenicii
 ...
 [G7]două mâini co[C]pilul are
 [G7]una este [C]luna
 
-[C]Hai să zicem ^nouă,
-[C]să se facă ^zece
+[C]Hai să zicem ^nouă, ^să se facă ^zece
 [F]zece nota [C]la purtare
 [G7]cel cuminte [C]sigur are
 [F]nouă martie [C]Mucenicii
@@ -21287,16 +21293,12 @@ muzica/versuri: ?/? · Sursa: Cărticica Karban, p. 261
 [D]Un ele^fant ^se legă^na
 [D]Pe o ^pânză de pă[A7]ian^jen
 [A7]Și fiindcă ^ea ^nu se ru^pea
-[A7]A mai che^mat un ele[D]fant.
-
-Un, [D]Doi
+[A7]A mai che^mat un ele[D]fant  ^doi
 
 [D]Doi ele^fanți ^se legă^nau
 [D]Pe o ^pânză de pă[A7]ian^jen
 [A7]Și fiindcă ^ea ^nu se ru^pea
-[A7]Au mai che^mat un ele[D]fant.
-
-Un, [D]Doi, ^Trei
+[A7]Au mai che^mat un ele[D]fant  ^trei
 ```
 
 ș.a.m.d. până la 10 elefanți...
@@ -21305,9 +21307,7 @@ Un, [D]Doi, ^Trei
 [D]Zece ele^fanți ^se legă^nau
 [D]Pe o ^pânză de pă[A7]ian^jen
 [A7]Și pentru ^că ^pânza s-a ^rupt
-[A7]Toți ele^fanții au că[D]zut.
-
-[D]Buf!
+[A7]Toți ele^fanții au că[D]zut  ^Buf!
 ```
 
 ---
