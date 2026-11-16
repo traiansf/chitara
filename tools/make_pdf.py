@@ -1603,12 +1603,23 @@ def chrome_binary():
 
 
 def run_chrome(html_path, pdf_path):
+    """Print html_path to pdf_path. Chrome exits 0 even when it can't
+    write the PDF (on Windows, a file open in a viewer is locked), which
+    would leave verify() re-reading the stale previous PDF pass after pass;
+    removing it first turns that into a clear error."""
+    try:
+        Path(pdf_path).unlink(missing_ok=True)
+    except PermissionError:
+        sys.exit(f"nu pot rescrie {pdf_path}: e deschis în alt program? "
+                 "închide-l și reîncearcă")
     subprocess.run(
         [chrome_binary(), "--headless", "--disable-gpu", "--no-sandbox",
          "--disable-dev-shm-usage", "--no-pdf-header-footer",
          "--generate-pdf-document-outline",
          f"--print-to-pdf={pdf_path}", str(html_path)],
         check=True, capture_output=True, timeout=300)
+    if not Path(pdf_path).exists():
+        sys.exit(f"Chrome n-a scris {pdf_path}")
 
 
 def calibrate(workdir):
