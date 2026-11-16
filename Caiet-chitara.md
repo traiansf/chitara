@@ -23681,40 +23681,51 @@ Refren x2
 
 ```text
 VERSE 1:
-[Em]  So [Em7]close no matter [D]how [Dsus4] far  [C][Cadd9]
-[Em]  Couldn't [Em7]be much more [D]from the [Dsus4]heart  [C][Cadd9]
-[Em]  Forever [Em7]trusting [D]who we [Dsus4]are  [C][Cadd9]
+[Em]  So [Em7]close
+no matter [D]how [Dsus4]fa[C]ar[Cadd9]
+[Em]  Couldn't [Em7]be much more
+[D]from the [Dsus4]hea[C]art[Cadd9]
+[Em]  Forever [Em7]trusting
+[D]who we [Dsus4]a[C]are[Cadd9]
 [G]  And [B7]nothing else [Em]matters  ^
 
 VERSE2:
-[Em]  Never [Em7]opened my[D]self this [Dsus4]way  [C][Cadd9]
-[Em]  Life is [Em7]ours, we live it [D]our [Dsus4]way  [C][Cadd9]
-[Em]  All these [Em7]words I don't [D]just [Dsus4]say  [C][Cadd9]
+[Em]  Never [Em7]opened
+my[D]self this [Dsus4]wa[C]ay[Cadd9]
+[Em]  Life is [Em7]ours,
+we live it [D]our [Dsus4]wa[C]ay[Cadd9]
+[Em]  All these [Em7]words
+I don't [D]just [Dsus4]sa[C]ay[Cadd9]
 [G]  And [B7]nothing else [Em]matters  ^
 
 VERSE3:
-[Em]  Trust I [Em7]seek and I [D]find in [Dsus4]you  [C][Cadd9]
-[Em]  Every [Em7]day for us [D]something [Dsus4]new  [C][Cadd9]
-[Em]  Open [Em7]mind for a [D]different [Dsus4]view  [C][Cadd9]
+[Em]  Trust I [Em7]seek
+and I [D]find in [Dsus4]you[C]u[Cadd9]
+[Em]  Every [Em7]day
+for us [D]something [Dsus4]ne[C]w[Cadd9]
+[Em]  Open [Em7]mind
+for a [D]different [Dsus4]vie[C]w[Cadd9]
 [G]  And [B7]nothing else [Em]matters  ^
 
 CHORUS 1:
-[C][A][D]  Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]do[A][D]
-Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]know[A][D]
-But I [Em]know  ^  ^  ^
+[C][A][D]  Never [Dsus4]cared
+[D]for [Dsus2]what [D]they [C]do[A]o
+[D]  Never [Dsus4]cared
+[D]for [Dsus2]what [D]they [C]kno[A]ow
+[D]  But I [Em]know  ^  ^  ^
 
-VERSE 1
-
-CHORUS
-
-VERSE 2 + VERSE 3
+VERSE 1 + CHORUS + VERSE 2 + VERSE 3
 
 CHORUS 2:
-[C][A][D]  Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]say[A][D]
-Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]play[A][D]
-Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]do[A][D]
-Never [Dsus4]cared [D]for [Dsus2]what [D]they [C]know[A][D]
-But I [Em]know  ^  ^  ^
+[C][A][D]  Never [Dsus4]cared
+[D]for [Dsus2]what [D]they [C]sa[A]ay
+[D]  Never [Dsus4]cared
+[D]for [Dsus2]what [D]they [C]pla[A]ay
+[D]  Never [Dsus4]cared
+[D]for [Dsus2]what [D]they [C]do[A]o
+[D]  Never [Dsus4]cared
+[D]for [Dsus2]what [D]they [C]kno[A]ow
+[D]  But I [Em]know  ^  ^  ^
 
 VERSE 1
 ```
@@ -23731,34 +23742,40 @@ Beatles · Sursa: Caiet cabană EN, p. 9
 1.
 [C]He's a real [G]Nowhere Man
 [F]Sitting in his [C]Nowhere Land
-[Dm]Making all his [Fm]Nowhere plans for [C]nobody.  ^
+[Dm]Making all his [Fm]Nowhere plans
+for [C]nobody.  ^
 
 2.
 [C]Doesn't have a [G]point of view
 [F]Knows not where he's [C]going to
-[Dm]Isn't he a [Fm]bit like you and [C]me?  ^
+[Dm]Isn't he a [Fm]bit like you
+and [C]me?  ^
 
 Refren 1:
 Nowhere [Em]Man please [F]listen
 You don't [Em]know what you're [F]missing
-Nowhere [Em]Man the [F]world is [Dm]at your command.  [G7]
+Nowhere [Em]Man the [F]world
+is [Dm]at your command.  [G7]
 
 3.
 [C]He's as blind as [G]he can be
 [F]Just sees what he [C]wants to see
-[Dm]Nowhere Man can [Fm]you see me at [C]all?  ^
+[Dm]Nowhere Man can [Fm]you see me
+at [C]all?  ^
 
 Refren 2:
 Nowhere [Em]Man don't [F]worry
 Take your [Em]time don't [F]hurry
-Leave it [Em]all till [F]somebody else [Dm]lends you a hand.  [G7]
+Leave it [Em]all till [F]somebody else
+[Dm]lends you a hand.  [G7]
 
 Strofa 2
 
 Refren 1
 
 Strofa 1
-/[Dm]Making all his [Fm]Nowhere plans for [C]nobody./ x2
+/[Dm]Making all his [Fm]Nowhere plans
+for [C]nobody.  ^  / x2
 ```
 
 #### Ob-La-Di, Ob-La-Da
@@ -23773,7 +23790,8 @@ Beatles · Sursa: Caiet cabană EN, p. 10
 [G]Desmond has a ^barrow in the [D]market ^place
 [D7]Molly is a ^singer in a [G]band  ^
 [G7]Desmond says to ^Molly "Girl I [C]like your ^face!"
-And Molly [G]says this as [D7]she takes him by the [G]hand.  ^
+And Molly [G]says this as [D7]she takes him
+by the [G]hand.  ^
 
 Refren:
 /Obla[G]di Obla^da life goes [D]on [Em7]bra,
@@ -23782,19 +23800,23 @@ Refren:
 [G]Desmond takes a ^trolley to the [D]jewelers ^stores
 [D7]Buys a twenty ^carat golden [G]ring  ^
 [G7]Takes it back to ^Molly waiting [C]at the ^door
-And as he [G]gives it to her [D7]she begins to [G]sing  ^
+And as he [G]gives it to her [D7]she begins
+to [G]sing  ^
 
 Refren
 
 Bridge:
-[C]  In a couple of years they have ^built a home sweet [G]home  ^
+[C]  In a couple of years they have ^built a home
+sweet [G]home  ^
 [C]  With a couple of kids running ^in the yard
-Of [G]Desmond and Molly [D]Jones.  (Desmond and Molly)
+Of [G]Desmond and Molly [D]Jones.
+(Desmond and Molly)
 
 [G]Happy ever ^after in the [D]market ^place
 [D7]Desmond lets the ^children lend a [G]hand  ^
 [G7]Molly stays at ^home and does her [C]pretty ^face
-And in the [G]evening she still [D7]sings it with the [G]band.  ^
+And in the [G]evening she still [D7]sings it
+with the [G]band.  ^
 
 Refren
 
@@ -23803,14 +23825,16 @@ Bridge
 [G]Happy ever ^after in the [D]market ^place
 [D7]Molly lets the ^children lend a [G]hand  ^
 [G7]Desmond stays at ^home and does her [C]pretty ^face
-And in the [G]evening she'a a [D7]singer with the [G]band.  ^
+And in the [G]evening she'a a [D7]singer
+with the [G]band.  ^
 
 Outro:
 Obla[G]di Obla^da life goes [D]on [Em7]bra,
 [G]lala how [D]their life goes on[G]  ^
 Obla[G]di Obla^da life goes [D]on [Em7]bra,
 [G]lala how [D]their life goes [Em]on
-[Em]  And if you ^want some fun take [D]Obladi-Bla[G]da! ^
+[Em]  And if you ^want some fun
+[Em]  take [D]Obladi-Bla[G]da! ^
 
 ```
 
@@ -23829,7 +23853,7 @@ Obla[G]di Obla^da life goes [D]on [Em7]bra,
 [Bm]  though you treat me [E]cruel
 
 [E]  You [A]hurt me
-[A] and you make me [F#m]cry
+[A]  and you make me [F#m]cry
 [F#m]  But if you [Bm]leave me
 [E]  I will surely [A]die
 
@@ -23893,7 +23917,7 @@ and [D]then I’ll look a[A]round
 And [D]when I find Su^sanna,
 I'll [A]fall upon the [D]ground
 But [D]if I do not ^find her,
-this ^man will surely [A]die
+this [D]man will surely [A]die
 And [D]when I’m dead and ^buried,
 Su[A]sanna don’t you [D]cry.
 ```
@@ -23981,7 +24005,6 @@ VERSE:
 
 CHORUS:
 [Em]When you're [B7]strange
-G          B7
 [G]Faces come out of the [B7]rain.
 When you're [B7]strange
 [G]No one remembers your [B7]name
@@ -24065,7 +24088,7 @@ La palma de la mano.
 CHORUS:
 [A]Big wheel keep on ^turnin'
 [Bm]Proud Mary keep on ^burnin'
-[D]Rollin', ^rollin', ^rollin' on the ri^ver
+[D]Rollin', ^rollin', ^rollin' on the river^
 
 [D]Cleaned a lot of plates in ^Memphis
 [D]Pumped a lot of pane down in ^New Orleans
@@ -24194,7 +24217,6 @@ And I wrote back to you.
 **Ukulele:** G 0232 · C 0003 · Am 2000 · F 2010 · D7 2223 · Dm 2210
 
 ```text
-Rod Stewart
 1.
 [G]  I am [C]sailing, ^  I am [Am]sailing
 [Am]  Home a[F]gain,  ^  ‘cross the [C]sea…
@@ -24205,7 +24227,7 @@ Rod Stewart
 [G]  I am [C]flying, ^  I am [Am]flying
 [Am]  Like a [F]bird,  ^  ‘cross the [C]sky
 [C]  I am [D7]flying ^  passing [Am]high clouds
-[Am]  To be [Dm]near you, ^  to be free.
+[Am]  To be [Dm]near you, ^  to be [C]free.
 
 3.
 [G]  Can you [C]hear me? ^  Can you [Am]hear me?
@@ -25057,7 +25079,7 @@ CHORUS 2:
 Ou les [C]yeux dans ses [Am]yeux
 et la [Dm7]main dans sa [G7]main
 J’aurai [C]le coeur he[Am]reux
-Sans [Dm7]peur de lande[G7]main
+Sans peur [Dm7]de lande[G7]main
 
 Le jour [C]ou je n’au[Am]rai
 plus de [Dm7]tout l’ame en [G7]peine
@@ -25124,7 +25146,7 @@ CHORUS:
 Look my [E]eyes are just holo[Am]grams
 Look your [E]love has drawn red from my [Am]hands
 From my [Dm7]hands you know you'll never [Am]be
-More than [E]twist in my sobrie[Am]ty (x3)
+/More than [E]twist in my sobrie[Am]ty/ x3
 
 2.
 [Am]  We've just poked a little  [Dm7]...empty pie
@@ -25165,17 +25187,17 @@ CHORUS x2
 
 ```text
 VERSE:
-[G]Oh,^ my [Em]love, ^ my [C]darling,
+[G]Oh,  ^  my [Em]love,  ^  my [C]darling,
 [C]  I’ve [D]hungered [D7]for your [G]touch,
-[G]  A [Em]long  ^  lonely [D]time.  ^  [D7]  ^
-And [G]time ^  rolls [Em]by  ^  so [C]slowly,
+[G]  A [Em]long  ^  lonely [D]ti^ime  [D7]  ^
+And [G]time  ^  rolls [Em]by  ^  so [C]slowly,
 [C]  And [D]time can [D7]do so [G]much.
-[G]  Are [Em]you  ^  still [D]mine?  ^  [D7]  ^
+[G]  Are [Em]you  ^  still [D]mi^i[D7]i^ine?
 
 CHORUS:
 I [G]ne^ed your [D]love.  ^
 I [Em]ne^ed your [Bm]love.  ^
-God [C]spe^ed your [D]love ^  to [G]me.  [G7]
+God [C]spe^ed your [D]love  ^  to [G]me^e.  [G7]  ^
 
 BRIDGE:
 [C]Lonely rivers [D]flow to the [C]sea, to the [D]sea.
@@ -25391,13 +25413,13 @@ I'm gonna [C]try with a little ^help from my [G]friends.  ^
 [G]What do I [D]do when my [Am]love is a^way?
 Does it [Am]worry you to [D7]be a[G]lone?  ^
 [G]How do I [D]feel by the [Am]end of the ^day?
-Are you [Am]sad because you're [D7]on your [G]own?
+Are you [Am]sad because you're [D7]on your [G]own?  ^
 
 CHORUS
 
 BRIDGE:
-Do you [Em]need ^any[A]body? ^  I [G]need some[F]body to [C]love
-Could it [Em]be ^any[A]body? ^  I [G]want some[F]body to [C]love.
+Do you [Em]need ^any[A]body? ^  I [G]need some[F]body to [C]love  ^
+Could it [Em]be ^any[A]body? ^  I [G]want some[F]body to [C]love.  ^
 
 3.
 [G]Would you be[D]lieve in a [Am]love at first ^sight?
@@ -25425,7 +25447,7 @@ With a little [C]help from my [D#]frie[F]e[G]ends.
 
 ```text
 [G]  It’s late in the [D]evening
-[C]  She’s wondering what [D]clothes to we
+[C]  She’s wondering what [D]clothes to wear
 [G]  She puts on her [D]makeup
 [C]  And brushes her [D]long blonde hair
 [C]  And then she [D]asks me
@@ -25440,11 +25462,11 @@ And I say [C]yes, you look [D]wonderful to[G]night
 [G]  Do you [(D)]feel al[Em]right?
 And I say [C]yes, I feel [D]wonderful to[G]night
 
-[D]  I feel [C]wonderful
+[G]  I feel [C]wonderful
 Be[D]cause I see the [G]love light [(D)]in your [Em]eyes
 And the [C]wonder of it [D]all
 Is that [C]you just don’t [D]realize
-How much I [G]love you
+How much I [G]love you  ^
 
 [G]  It’s time to go [D]home now
 [C]  And I’ve got an [D]aching head
@@ -25452,8 +25474,8 @@ How much I [G]love you
 [C]  And she helps me to [D]bed
 [C]  And then I [D]tell her
 [G]  As I [D]turn out the [Em]light
-I say my [C]darling, you were [D]wonderful to[G]night
-[D]  [Em] Oh my [C]darling, you were [D]wonderful to[G]night
+I say my [C]darling, you were [D]wonderful to[G]night[D]
+[Em] Oh my [C]darling, you were [D]wonderful to[G]night
 ```
 
 #### Yellow Submarine

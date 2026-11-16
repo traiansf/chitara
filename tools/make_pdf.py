@@ -1047,8 +1047,25 @@ def render_prop_row(tokens, lyric):
         cls = "pf-r" if label == "/" else "pf-c"
         pieces.append(f'<span class="pf-a"><span class="{cls}">'
                       f'{html.escape(label, quote=False)}</span></span>')
-    pieces.append(html.escape(keep_multispace(lyric[pos:], prev_label), quote=False))
+    tail = keep_multispace(lyric[pos:], prev_label)
+    pieces.append(html.escape(tail, quote=False))
+    pieces.append(" " * trailing_pad(prev_label, tail))
     return "".join(pieces)
+
+
+def trailing_pad(label, tail):
+    """How many nbsp to append after a row's text so its last floated
+    label doesn't overhang the line's end: a chord on the final syllable
+    (`fa[C]ar[Cadd9]`) is wider than the little or no text after it, and
+    neither Chrome's line breaking nor wrap_count_prop() would otherwise
+    see it, so the row would seem to fit its column while the chord
+    spilled into the gap, or into the next column. nbsp, so the padding
+    wraps together with the last word."""
+    if not label:
+        return 0
+    bold, reg = _prop_fonts()
+    over = bold.text_length(label, 1) - reg.text_length(tail, 1)
+    return max(0, int(-(-over // reg.text_length(" ", 1))))
 
 
 
@@ -1147,13 +1164,15 @@ def prop_row_plain(tokens, lyric):
     — lyric with measured_spacing()'s nbsp padding applied, for wrap-width
     measurement in fs_fit_prop()."""
     layout = measured_spacing(tokens, lyric)
-    pieces, pos = [], 0
-    for (col, _), (spaces_before, _label) in zip(tokens, layout):
+    pieces, pos, prev_label = [], 0, None
+    for (col, _), (spaces_before, label) in zip(tokens, layout):
         pieces.append(lyric[pos:col])
         if spaces_before:
             pieces.append(" " * spaces_before)
-        pos = col
+        pos, prev_label = col, label
     pieces.append(lyric[pos:])
+    pieces.append(" " * trailing_pad(
+        prev_label, keep_multispace(lyric[pos:], prev_label)))
     return "".join(pieces)
 
 
