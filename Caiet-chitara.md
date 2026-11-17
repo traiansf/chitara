@@ -621,7 +621,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Afară ninge liniștit](#afară-ninge-liniștit)
 - [Aseară pe-nserate](#aseară-pe-nserate)
 - [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă)
-- [Când fost-a micuț prunc Isus](#când-fost-a-micuț-prunc-isus)
+- [Când fost-a prunc micuț Isus](#când-fost-a-prunc-micuț-isus)
 - [Ce-ați văzut păstori](#ce-ați-văzut-păstori)
 - [Cerul și pământul (I)](#cerul-și-pământul-i)
 - [Cerul și pământul (II)](#cerul-și-pământul-ii)
@@ -25614,59 +25614,30 @@ You drive me crazy.
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional/G. Coșbuc · Sursa: Colinde Karban, p. 19
 
-**Chitară:** G 320003 · C x32010 · D xx0232
+**Chitară:** G 320003 · C x32010 · D xx0232 · D7 xx0212
 
 **Ukulele:** G 0232 · C 0003 · D 2220
 
 ```text
-G                C
-Afară ninge liniștit
-C              D
-Și-n casă arde focul,
-C                G
-Iar noi pe lângă mama strânși
-D               G
-De mult uitarăm jocul.
-C                G
-Iar noi pe lângă mama strânși
-D               G
-De mult uitarăm jocul.
-G                   C
-E noapte, patul e făcut,
-C              D
-Dar cine să se culce,
-C                  G
-Când mama spune de Isus
-D                G
-Cu glas duios și dulce.
-C                  G
-Când mama spune de Isus
-D                G
-Cu glas duios și dulce.
-G                       C
-Cum s-a născut Isus Cristos
-C             D
-În ieslea cea săracă,
-C              G
-Cum boii peste El suflau
-D          G
-Căldură ca să-i facă.
-C              G
-Cum boii peste El suflau
-D          G
-Căldură ca să-i facă.
-G                      C
-Cum au venit la ieslea Lui
-C              D
-Păstorii de la stână
-C                  G
-Și îngerii din cer cântând
-D                  G
-Cu flori de măr în mână.
-C                  G
-Și îngerii din cer cântând
-D                  G
-Cu flori de măr în mână.
+[G]  Afară ^ninge [C]liniș[G]tit
+[G]  Și-n casă [C]arde [D]focul,
+/[D]  Iar noi pe [C]lângă [G]mama strânși
+[G]  De mult ui[D7]tarăm [G]jocul./ x2
+
+[G]  E noapte, ^patul [C]e fă[G]cut,
+[G]  Dar cine [C]să se [D]culce,
+/[D]  Când mama [C]spune [G]de Isus
+[G]  Cu glas du[D7]ios și [G]dulce./ x2
+
+[G]  Cum s-a năs^cut I[C]sus Cris[G]tos
+[G]  În ieslea [C]cea să[D]racă,
+/[D]  Cum boii [C]peste [G]El suflau
+[G]  Căldură [D7]ca să-i [G]facă./ x2
+
+[G]  Cum au ve^nit la [C]ieslea [G]Lui
+[G]  Păstorii [C]de la [D]stână
+/[D]  Și înge[C]rii din [G]cer cântând
+[G]  Cu flori de [D7]măr în [G]mână./ x2
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -25680,57 +25651,62 @@ A|--------3----------------------------------|
 E|-------------------------------------------|
 ```
 
-Exemplificată pentru `C`. Versurile sunt ale poeziei „Colindătorii” de G. Coșbuc.
+Exemplificată pentru `C`. Versurile sunt prelucrări ale poeziei „Colindătorii” de G. Coșbuc.
 
 #### Aseară pe-nserate
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 20
 
-**Chitară:** Fm 133111 · Bbm x13321 · C x32010
+**Chitară:** Fm 133111 · Bbm x13321 · C# x43121 · C7 x32310
 
 **Ukulele:** Fm 1013 · Bbm 3111 · C 0003
 
 ```text
-Fm        Bbm
-Aseară pe-nserate
-  C        C
-Fecioara Maria
-   Bbm       Fm
-În Viflaim cetate
-  C        Fm
-Călătorind sosea.
-Fm          Bbm
-Și fiind obosită
-  C         C
-Sălaș își căuta,
-   Bbm         Fm
-Și-n Viflaimul mare
-  C            Fm
-Nimenea n-o primea.
-Fm              Bbm
-Atunci Sfânta Fecioară
-    C         C
-Din Viflaim ieșea,
-   Bbm             Fm
-Și-n câmp într-o poiată,
- C       Fm
-Acolo s-așeza.
-Fm           Bbm
-Și între dobitoace
-   C         C
-Pe fânul cel uscat
-   Bbm         Fm
-Născut-a Preacurata
-   C      Fm
-Un mare Împărat.
-Fm            Bbm
-Fiul începe-a plânge
-  C        C
-Maria-l mângâia
-   Bbm         Fm
-O, nu plănge Iisuse
-   C            Fm
-Că tu cunoști lumea
+
+[Fm]  Aseară ^pe-nse[Bbm]rate
+[Bbm]  Fecioara [C#]Mari[C7]a
+[C7]  În Vifla[Bbm]im ce[Fm]tate
+[Fm]  Călăto[C7]rind so[Fm]sea.
+
+[Fm]  Și fiind ^obo[Bbm]sită
+[Bbm]  Sălaș își [C#]cău[C7]ta,
+[C7]  În Vifla[Bbm]imul [Fm]mare
+[Fm]  Nimenea [C7]n-o pri[Fm]mea.
+
+[Fm]  Atunci Sfân^ta Fe[Bbm]cioară
+[Bbm]  Din Vifla[C#]im ie[C7]șea,
+[C7]  Și-n câmp în[Bbm]tr-o po[Fm]iată,
+[Fm]  Acolo [C7]s-așe[Fm]za.
+
+[Fm]  Și între ^dobi[Bbm]toace
+[Bbm]  Pe fânul [C#]cel us[C7]cat
+[C7]  Născut-a [Bbm]Preacu[Fm]rata
+[Fm]  Un mare [C7]Împă[Fm]rat.
+
+[Fm]  Fiul în^cepe-a [Bbm]plânge
+[Bbm]  Maria-l [C#]mângâ[C7]ia
+[C7]  O, nu plăn[Bbm]ge Ii[Fm]suse
+[Fm]  Că tu cu[C7]noști lu[Fm]mea
+
+[Fm]  Că lumea ^asta [Bbm]mare
+[Bbm]  Prin Tine [C#]s-a zi[C7]dit
+[C7]  Prin Tine [Bbm]și prin [Fm]Tatăl
+[Fm]  Prin Dumne[C7]zeu cel [Fm]Sfânt
+
+[Fm]  Se-aude ^lin spre [Bbm]seară
+[Bbm]  A clopo[C#]telor [C7]cânt
+[C7]  Căci vine, [Bbm]vine, [Fm]iară
+[Fm]  Isus pe-a[C7]cest pă[Fm]mânt
+
+[Fm]  El vine-n ^haină [Bbm]albă
+[Bbm]  De îngeri [C#]ascul[C7]tat
+[C7]  Să spele [Bbm]lumea-n[Fm]treagă
+[Fm]  De rău și [C7]de pă[Fm]cat
+
+[Fm]  De-atunci în ^orice [Bbm]casă
+[Bbm]  Se-aud co[C#]lindă[C7]tori
+/[C7]  Colinda [Bbm]lor du[Fm]ioasă
+[Fm]  Răsună [C7]până-n [Fm]zori/ x3
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -25811,7 +25787,7 @@ E|--------0-----0-----0-----0---|
 
 Exemplificat pentru `E`.
 
-#### Când fost-a micuț prunc Isus
+#### Când fost-a prunc micuț Isus
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 22
 
@@ -25820,43 +25796,20 @@ Exemplificat pentru `E`.
 **Ukulele:** D 2220 · G 0232 · A 2100
 
 ```text
-Intro D
-            D           G
-Când fost-a prunc micuț Isus
-      D              A
-În grădiniță el și-a pus
-         G             D
-Un trandafir cu gând curat
-          A           D   D
-Să poartă flori încununat
-         G             D
-Un trandafir cu gând curat
-          A           D   D
-Să poartă flori încununat
-         D            G
-Când trandafirul înflorea
-      D              A
-Aiude prunci se năpusteau
-       G         D
-Asupra trandafirilor,
-          A           D   D
-Rupând de zor podoaba lor
-       G         D
-Asupra trandafirilor,
-          A           D   D
-Rupând de zor podoaba lor
-            D             G
-Mai vrei să porți cunună, vrei,
-         D          A
-Strigară ceata de iudei
-             G            D  D
-Și în loc de trandafir curat
-         A          D
-Cu spine l-au încoronat.
-             G            D  D
-Și în loc de trandafir curat
-         A          D
-Cu spine l-au încoronat.
+[D]  Când fost-a ^prunc micuț I[G]sus
+[G]  În grădi[D]ni^ță el și-a [A]pus  ^
+/Un tranda[G]fir  ^  cu gând cu[D]rat
+[D]  Să-i poarte [A]flori  ^  de-ncunu[D]nat  ^  / x2
+
+[D]  Când tranda^firul înflo[G]rea
+[G]  Ai Iudei [D]prunci  ^  se năpus[A]teau  ^
+/Asupra [G]tran^dafiri[D]lor,
+[D]  Rupând de [A]zor  ^  podoaba [D]lor  ^  / x2
+
+[D]  Mai vrei să ^porți cunună, [G]vrei,
+[G]  Strigară [D]cea^ta  de iu[A]dei  ^
+/Și în loc de [G]tran^dafir cu[D]rat
+[D]  Cu spine [A]l-au  ^  încoro[D]nat.  ^  / x2
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -25876,49 +25829,38 @@ E|--------------------------------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 23
 
-**Chitară:** Am x02210 · E 022100 · F 133211 · Em 022000 · C x32010 · Dm xx0231 · G 320003
+**Chitară:** Am x02210 · E7 020100 · F 133211 · C x32010 · Dm xx0231 · G 320003
 
 **Ukulele:** Am 2000 · E 4442 · F 2010 · Em 0432 · C 0003 · Dm 2210 · G 0232
 
 Transcriere: Drăgușin Daniel.
 
 ```text
-Am     E     Am
-Ce-ați văzut păstori,
- F      Em     Am
-Sculați până-n zori
-C
-Am văzut pe prunc Iisus-ul,
-C
-Prunc Iisus din cer venitul
-Dm       G
-Fiu dumnezeiesc,
-         E
-Fiu dumnezeiesc.
-Am E     Am
-Ce palat avea,
-F     Em    Am
-Unde Domnul sta
-C
-Peșteră străină rece,
-C
-Peșteră de dobitoace
-Dm       G
-Palatu-i era,
-    E
-Palatu-i era.
-Am E       Am
-Ce-avea de-așternut,
-F      Em   Am
-Micul Domn născut
-C
-Ieselea era culcușul,
-C
-Fân și paie așternutul
-Dm      G
-Micului Iisus,
-        E
-Micului Iisus.
+[Am]Ce-ați vă[E7]zut păs[Am]tori,
+[F]Sculați [E7]până-n [Am]zori  ^
+[C]Am vă^zut pe ^nou năs^cutul,
+[C]Prunc Ii^sus din ^cer ve^nitul
+[Dm]Fiu Dum^neze[G]iesc,  ^
+[G]Fiu Dum[F]neze[E7]iesc.  ^
+
+[Am]Ce pa[E7]lat e[Am]ra,
+[F]Unde [E7]Domnul [Am]sta  ^
+[C]Pește^ră stră^ină ^rece,
+[C]Pește^ră de ^dobi^toace
+[Dm]Pala^tul e[G]ra,  ^
+[G]Pala^tul e[E7]ra.  ^
+
+[Am]Ce-avea [E7]de-așter[Am]nut,
+[F]Pruncul [E7]nou năs[Am]cut  ^
+[C]Ieslea ^îi e^ra cul^cușul,
+[C]Fân și ^paie ^așter^nutul
+[Dm]Micu^lui Ii[G]sus,  ^
+[G]Micu^lui Ii[E7]sus.  ^
+
+
+
+
+
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -32289,7 +32231,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Ștefan Banică** — [S-o facem lată](#s-o-facem-lată)
 - **Ștefan Banica jr.** — [Asta-s eu](#asta-s-eu)
 - **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#mi-e-dor-de-ochii-tăi), [Poveste](#poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a micuț prunc Isus](#când-fost-a-micuț-prunc-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul (I)](#cerul-și-pământul-i), [Cerul și pământul (II)](#cerul-și-pământul-ii), [Cerul și pământul (III)](#cerul-și-pământul-iii), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine (I)](#deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#deschide-ușa-creștine-ii), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr (I)](#flori-de-măr-i), [Flori de măr (II)](#flori-de-măr-ii), [Florile dalbe (I)](#florile-dalbe-i), [Florile dalbe (II)](#florile-dalbe-ii), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a prunc micuț Isus](#când-fost-a-prunc-micuț-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul (I)](#cerul-și-pământul-i), [Cerul și pământul (II)](#cerul-și-pământul-ii), [Cerul și pământul (III)](#cerul-și-pământul-iii), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine (I)](#deschide-ușa-creștine-i), [Deschide ușa, creștine (II)](#deschide-ușa-creștine-ii), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr (I)](#flori-de-măr-i), [Flori de măr (II)](#flori-de-măr-ii), [Florile dalbe (I)](#florile-dalbe-i), [Florile dalbe (II)](#florile-dalbe-ii), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
 - **Ștefan Hrușcă / Adrian Păunescu** — [Tu Ardeal](#tu-ardeal)
 - **Stephen Foster** — [Oh, Susanna](#oh-susanna)
 - **Stigma** — [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
