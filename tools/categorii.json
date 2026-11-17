@@ -347,18 +347,6 @@
   "motiv": "baladă din codru",
   "sectiune": "I.1"
  },
- "Cerul și pământul (I) || Caiet cabană RO, p. 117": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
- "Cerul și pământul (II) || Cărticica Karban, p. 77": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
- "Cerul și pământul (III) || Colinde Karban, p. 24": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
  "Chant Des Adieux || Caiet cabană EN, p. 65": {
   "motiv": "repertoriu internațional",
   "sectiune": "III"
@@ -417,7 +405,7 @@
  },
  "Colindul pușcăriașului || Colinde Karban, p. 112": {
   "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
+  "sectiune": "I.4"
  },
  "Colindă tristă (I) || Caiet cabană RO, p. 115": {
   "motiv": "colind / cântec de iarnă",
@@ -655,14 +643,6 @@
   "motiv": "colind / cântec de iarnă",
   "sectiune": "IV.1"
  },
- "Deschide ușa, creștine (I) || Caiet cabană RO, p. 114": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
- "Deschide ușa, creștine (II) || Colinde Karban, p. 30": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
  "Deșteaptă-te române || Caiet Christian Adventure, p. 58": {
   "motiv": "imn național",
   "sectiune": "I.3"
@@ -896,14 +876,6 @@
   "sectiune": "IV.1"
  },
  "Flori de măr (II) || Colinde Karban, p. 32": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
- "Florile dalbe (I) || Caiet cabană RO, p. 116": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
- "Florile dalbe (II) || Colinde Karban, p. 33": {
   "motiv": "colind / cântec de iarnă",
   "sectiune": "IV.1"
  },
@@ -1523,14 +1495,6 @@
   "motiv": "dragoste",
   "sectiune": "I.1"
  },
- "Noapte sfântă (I) || Cărticica Karban, p. 219": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
- "Noapte sfântă (II) || Colinde Karban, p. 11": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
  "Nopți || Caiet cabană RO, p. 95": {
   "motiv": "război",
   "sectiune": "II.1"
@@ -1606,14 +1570,6 @@
  "O nouă viață || Caiet Christian Adventure, p. 120": {
   "motiv": "ce-nseamnă un munte",
   "sectiune": "I.1"
- },
- "O, brad frumos! (I) || Cărticica Karban, p. 221": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
- },
- "O, brad frumos! (II) || Colinde Karban, p. 12": {
-  "motiv": "colind / cântec de iarnă",
-  "sectiune": "IV.1"
  },
  "O, ce veste minunată! (I) || Colinde Karban, p. 40": {
   "motiv": "colind / cântec de iarnă",
@@ -2638,5 +2594,25 @@
  "Țăranul e pe câmp || Cărticica Karban, p. 260": {
   "motiv": "joc de copii",
   "sectiune": "II.3"
+ },
+ "Cerul și pământul || Cărticica Karban, p. 77": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
+ },
+ "Deschide ușa, creștine || Colinde Karban, p. 30": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
+ },
+ "Florile dalbe || Caiet cabană RO, p. 116": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
+ },
+ "Noapte sfântă || Colinde Karban, p. 11": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
+ },
+ "O, brad frumos! || Colinde Karban, p. 12": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
  }
 }
