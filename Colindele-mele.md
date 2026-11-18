@@ -19,3 +19,6 @@
 - Ostașii luminii colindă [Am]
 - Pe cununa munților [C]
 - Pe podele de nuiele [C]
+- Pe strada din Viflaim [C]
+- Pom înrămuratu [C]
+- Seara serilor [Dm]

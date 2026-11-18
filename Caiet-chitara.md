@@ -27926,68 +27926,41 @@ E|--------------------------------------------|
 **Ukulele:** E 4442 · A 2100 · B 4322
 
 ```text
-E               E
-Pe strada din Viflaim
-  A        E
-Mere maica cu Iosîm
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                E
-Când din Viflaim să iasă,
-   A           E
-Să opriră la o casă,
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                E
-Lângă poart-un tânăr stă
-   A             E
-Și pe dânșii-i întrebă
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                 E
-De unde veniți drumeți?
-   A             E
-Tocmai de la Nazaret
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E             E
-Fie-ți milă tânăr bun
-   A             E
-Și nu ne lăsa pe drum
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                  E
-Că afară-i frig și noapte
-   A                E
-Maica Sfântă nu mai poate
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E             E
-Tânărul fiind milos
-     A          E
-Le răspunse bucuros
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E             E
-Nu departe de imaș
-    A            E
-Are tata miei în grajd
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                E
-Iosif și Maica s-au dus
-   A              E
-Și la grajde i-au ajuns
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E                 E
-Și l-au născut pe Iisus
-   A              E
-Și l-au născut pe Iisus
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
-E     A             B          E
-Iisus s-a născut în sara de Crăciun.
+[E]  Pe stra^da din Vifla^i^im
+[E]Mere [A]Maica [E]cu Iosî^îv
+
+Refren
+Ii[E]sus [A]s-a năs[E]cut
+în [B]sara de Cră[E]ciu^un.
+
+[E]  Când din ^Viflaim să ^iasă^ă,
+[E]Să o[A]priră [E]la o ca^să,
+
+[E]  Lângă ^poart-un tânăr ^stă^ă
+[E]Și pe [A]dânșii-i [E]întrebă^ă
+
+[E]  De un^de veniți dru^me^eți?
+[E]Tocmai [A]de la [E]Nazare^et
+
+[E]  Fie-ți ^milă tânăr ^bu^un
+[E]Și nu [A]ne lă[E]sa pe dru^um
+
+[E]  Că a^fară-i frig și ^noapte^e
+[E]Maica [A]Sfântă [E]nu mai poa^ate
+
+[E]  Tână^rul fiind mi^lo^os
+[E]Le răs[A]punse [E]bucuro^os
+
+[E]  Nu de^parte de i^ma^aș
+[E]Are [A]tata [E]miei în gra^ajd
+
+[E]  Iosif ^și Maica s-au ^du^us
+[E]Și la [A]grajde [E]au aju^uns
+
+[E]  Și l-au ^născut pe Ii^su^us
+[E]Și l-au [A]născut [E]pe Iisu^us
+
+Refren x2
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -28014,104 +27987,93 @@ E|--------0-------------------------0---------------------|
 **Ukulele:** F 2010 · Bb 3211 · C 0003
 
 ```text
-F               Bb
-Pom înrămuratu, pom înrămuratu,
-C            F     C            F
-De poame-ncărcatu, de poame-ncărcatu.
-F                   Bb
-Vântu-și trăgănară, vântu-și trăgănară,
-C         F        C      F
-Poamele picară, poamele picară.
-F                   Bb
-Prunci le culesară, prunci le culesară,
-C          F       C       F
-Și le primesară și le primesară.
-F              Bb
-La ușă de Rai, la ușă de Rai
-C          F        C       F
-La fete de crai, la fete de crai.
-F                      Bb
-Luna-n drum le-o stat, luna-n drum le-o stat,
-C           F          C           F
-Frumos i-o-ntrăbat, frumos i-o-ntrăbat:
-F                   Bb
-De unde le-adușeți, de unde le-adușeți,
-C         F          C        F
-Înapoi le dușeți, înapoi le dușeți.
-F                   Bb
-De la sfântu soare, de la sfântu soare,
-C          F         C      F
-C-o mare rugare, c-o mare rugare.
-F                     Bb
-În coate și-n gerute, în coate și-n gerute,
-C              F             C          F
-În cel vârf de munte, în cel vârf de munte.
+[F]Pom înrămu^ratu
+[Bb]pom înrămu^ratu,
+/[C]De poame-ncăr[F]catu/ x2
+
+[F]Vântu-și trăgă^nară
+[Bb]vântu-și trăgă^nară,
+/[C]Poamele chi[F]cară/ x2
+
+[F]Prunci le cule^sară,
+[Bb]prunci le cule^sară,
+/[C]Și le trime[F]sară/ x2
+
+[F]La ușă de ^Raiu,
+[Bb]la ușă de ^Raiu
+/[C]La fete de [F]craiu/ x2
+
+[F]Luna-n drum le-o ^statu,
+[Bb]luna-n drum le-o ^statu,
+/[C]Frumos le-o-ntră[F]batu/ x2
+
+[F]De unde le-a^dușeți
+[Bb]de unde le-a^dușeți,
+/[C]Înapoi le [F]dușeți/ x2
+
+[F]De la sfântu ^soare,
+[Bb]de la sfântu ^soare,
+/[C]C-o mare ru[F]gare,/ x2
+
+În [F]coate și-n jă^runte,
+în [Bb]coate și-n jă^runte,
+/[C]În cel vârf de [F]munte/ x2
 ```
 
 Notă: Măsura 4/4. Bătaie:
 
-```
-E         1     1     1         1     1     1                1     1     1         1     1     1
-B         1     1     1         1     1     1                3     3     3         3     3     3
-G         2     2     2         2     2     2                3     3     3         3     3     3
-D         3     3     3         3     3     3                3     3     3         3     3     3
-A         3     3     3         3     3     3                1     1     1         1     1     1
-E         1     1     1         1     1     1                1     1     1         1     1     1
+```tab
+E|--------1-----1-----1---------1-----1-----1----------------1-----1-----1---------1-----1-----1---|
+B|--------1-----1-----1---------1-----1-----1----------------3-----3-----3---------3-----3-----3---|
+G|--------2-----2-----2---------2-----2-----2----------------3-----3-----3---------3-----3-----3---|
+D|--------3-----3-----3---------3-----3-----3----------------3-----3-----3---------3-----3-----3---|
+A|--------3-----3-----3---------3-----3-----3----------------1-----1-----1---------1-----1-----1---|
+E|--------1-----1-----1---------1-----1-----1----------------1-----1-----1---------1-----1-----1---|
           | _ _ |     |         | _ _ |     |                | _ _ |     |         | _ _ |     |
+          F                                                  Bb
 ```
 
 #### Seara serilor
 
 **Ducu Bertzi** · muzica/versuri: Ducu Bertzi/Gheorghe Țărnea · Sursa: Colinde Karban, p. 95
 
-**Chitară:** Dm xx0231 · A x02220
+**Chitară:** A x02220 · Dm xx0231
 
-**Ukulele:** Dm 2210 · A 2100
+**Ukulele:** A 2100 · Dm 2210
+
+Intro: `A` `Dm` `A` `Dm`
 
 ```text
-Intro A Dm A Dm
-Dm     A         Dm
-Asta-i seara serilor
-A                Dm
-Cu-nfloritul merilor
-Dm    A         Dm
-Cu trecutul vadului
-A             Dm
-Și gătitul bradului
-       A        Dm
-Cu cititul stelelor
-A                Dm
-Și-alungatul relelor
-Dm       A           Dm
-Fă-ți de grijă gazdă bună
-A                   Dm
-Sa-mpletești altă cunună
-Dm    A          Dm
-Din firuț de măieran
-A                Dm
-Să-ți ajungă înc-un an
-Dm       A         Dm
-Drumul-i spre Isus Hristos
-A               Dm
-Rămâi gazdă sănătos
-Dm       A          Dm
-Rămâi gazdă bun creștin
-A                  Dm
-Lângă pâine, lângă vin
-Dm    A             Dm
-Și cu tot belșugu-n casă
-A               Dm
-După firea ta miloasă
-Dm   A           Dm
-Și curat și primenit
-A                    Dm
-Mulțămim că ne-ai primit
-Dm    A              Dm
-Și cu drag ne-ai ospătat
-A                    Dm
-Din ce Dumnezeu ți-o dat
-Dm     A         Dm
-Asta-i seara serilor
+[Dm]Asta-i [A]seara seri[Dm]lor
+[A]Cu-nfloritul meri[Dm]lor  ^
+
+[Dm]Cu tre[A]cutul vadu[Dm]lui
+[A]Și gătitul bradu[Dm]lui  ^
+
+[Dm]Cu ci[A]titul stele[Dm]lor
+[A]Și-alungatul rele[Dm]lor  ^
+
+[Dm]Fă-ți de [A]grijă gazdă [Dm]bună
+[A]Să-mpletești altă cu[Dm]nună  ^
+
+[Dm]Din fi[A]ruț de măie[Dm]ran
+[A]Să-ți ajungă înc-un [Dm]an  ^
+
+[Dm]Drumul [A]spre Isus Hris[Dm]tos
+[A]Rămâi gazdă sănă[Dm]tos  ^
+
+[Dm]Rămâi [A]gazdă bun creș[Dm]tin
+[A]Lângă pâine, lângă [Dm]vin  ^
+
+[Dm]Și cu [A]tot belșugu-n [Dm]casă
+[A]După firea ta mi[Dm]loasă  ^
+
+[Dm]Și cu[A]rat și prime[Dm]nit
+[A]Mulțămim că ne-ai pri[Dm]mit  ^
+
+[Dm]Și cu [A]drag ne-ai ospă[Dm]tat
+[A]Din ce Dumnezeu ți-o [Dm]dat  ^
+[Dm]Asta-i [A]seara seri[Dm]lor  ^
 ```
 
 Notă: Măsura 4/4. Ciupitură:
