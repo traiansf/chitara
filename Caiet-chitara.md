@@ -39,9 +39,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (92 cântece)
 
-**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (109 cântece)
+**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (108 cântece)
 
-- [IV.1 — Colinde românești](#iv1--colinde-românești) (49 cântece)
+- [IV.1 — Colinde românești](#iv1--colinde-românești) (48 cântece)
 - [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (11 cântece)
 - [IV.3 — Cântece de iarnă românești](#iv3--cântece-de-iarnă-românești) (22 cântece)
 - [IV.4 — Cântece de iarnă internaționale](#iv4--cântece-de-iarnă-internaționale) (27 cântece)
@@ -638,8 +638,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Deschide ușa, creștine](#deschide-ușa-creștine)
 - [Drumul magilor](#drumul-magilor)
 - [Ferice-i ferice](#ferice-i-ferice)
-- [Flori de măr (I)](#flori-de-măr-i)
-- [Flori de măr (II)](#flori-de-măr-ii)
+- [Flori de măr](#flori-de-măr)
 - [Florile dalbe](#florile-dalbe)
 - [Iarăși flori dalbe](#iarăși-flori-dalbe)
 - [Junelu-i tinerelu](#junelu-i-tinerelu)
@@ -653,8 +652,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [O, brad frumos!](#o-brad-frumos)
 - [O, ce veste minunată! (I)](#o-ce-veste-minunată-i)
 - [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii)
-- [Ostașii luminii colindă (I)](#ostașii-luminii-colindă-i)
-- [Ostașii luminii colindă (II)](#ostașii-luminii-colindă-ii)
+- [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii)
+- [Ostașii luminii colindă](#ostașii-luminii-colindă)
 - [Pe cununa munților](#pe-cununa-munților)
 - [Pe podele de nuiele](#pe-podele-de-nuiele)
 - [Pe strada din Viflaim](#pe-strada-din-viflaim)
@@ -26458,80 +26457,39 @@ Exemplificat pentru `A`.
 Intro: `G`
 
 ```text
-G          G  D       D
-Dalbu-i dealu de ce-i dalbu
-Am         Am  G       G
-Dalbu-i dealu  de ce-i dalbu
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G     G
-Mare-i sara de Crăciun.
-G            G  D     D
-Dalbu-i dalb de dalbe flori
-Am      Am  G    G
-Și dălbuțu  de miori
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G     G
-Mare-i sara de Crăciun.
-G      G  D    D
-Mână mamă cele oi
-Am      Am G      G
-Că se vede nor de ploi
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G     G
-Mare-i sara de Crăciun.
-G     G    D      D
-Acela nu-i nor de ploaie
-Am       Am G      G
-Că-s pețito rii de floare
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G     G
-Mare-i sara de Crăciun.
-G        G  D      D
-Vin la mine cer pă tine
-G        G  D      D
-Vin la mine cer pă tine
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G     G
-Mare-i sara de Crăciun.
-G        G   D      D
-Pă de-asupra ce mai cer
-Am        Am   G       G
-Zăstra ta ș-un plug de sier
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G     G
-Mare-i sara de Crăciun.
-G         G  D     D
-Nouă coți de pânză moi
-Am     Am  G      G
-Și amboru  dintre oi
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G     G
-Mare-i sara de Crăciun.
-G           G  D      D
-I-amborul-i un bou frumos
-Am        Am G       G
-De trimăs pă holdă-n jos
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G     G
-Mare-i sara de Crăciun.
-G         G D    D
-După grâu după săcară
-Am         Am G    G
-După flori dă primăvară
-D   D    G    G
-Mărie sântă Mărie
-G        D  D     G
-Mare-i sara de Crăciun.
-G        D  D     G     G
-Mare-i sara de Crăciun.
+[G]Dalbu-i dea^lu [D]de ce-i ^dalbu
+[Am]Dalbu-i dea^lu [G]de ce-i ^dalbu
+
+Refren:
+[D]Mări^e Sân[G]tă Mă^rie
+[G]  Mare-i [D]sara ^de Cră[G]ciun.  ^
+
+[G]Da' nu-i dalb ^de [D]dalbe ^flori
+[Am]Ci dălbu^țu-i [G]de mi^ori
+
+[G]Mână ma^mă [D]cele ^oi
+[Am]Că se ve^de [G]nor de ^ploi
+
+[G]Acela ^nu-i [D]nor de ^ploaie
+[Am]Că-s peți^to[G]rii tăi, ^floare
+
+[G]Vin la mi^ne [D]cer pă ^tine
+[Am]Vin la mi^ne [G]cer pă ^tine
+
+[G]Pă de-a^supra [D]ce mai ^cer
+[Am]Zăstrea ta ^ș-un [G]plug de ^șier
+
+[G]Nouă coți ^de [D]pânză ^moi
+[Am]Și iambu^ru [G]dintre ^boi
+
+[G]Iamburu-i ^un [D]bou fru^mos
+[Am]De trimăs ^pă [G]holdă-n ^jos
+
+[G]După grâu ^du[D]pă să^cară
+[Am]După flori ^dă [G]primă^vară
+
+Outro:
+[G]  Mare-i [D]sara ^de Cră[G]ciun.  ^
 ```
 
 Notă: În original, cu un semiton mai jos. Măsura 4/4. Ciupitură:
@@ -26888,110 +26846,54 @@ A|--------3---------3---------3--|
 E|--------1---------1---------1--|
 ```
 
-#### Flori de măr (I)
+#### Flori de măr
 
-**Ștefan Hrușcă** · Sursa: Cărticica Karban, p. 87
+**Ștefan Hrușcă** · Sursa: Cărticica Karban, p. 87 · Colinde Karban, p. 32
 
 **Chitară:** G 320003 · D xx0232 · D7 xx0212 · C x32010
 
 **Ukulele:** G 0232 · D 2220 · D7 2223 · C 0003
 
 ```text
-[G]Am venit aici la [D]voi, am venit aici la [G]voi
-Cum e datina la [D]noi, cum e datina la [G]noi
-[G]Sculați gazde [D7]nu dur[G]miți, [C]vremea e să [D7]vă tre[G]ziți
-[G]Sculați gazde [D7]nu dur[G]miți, [C]vremea e să [D7]vă tre[G]ziți
-[G]Casa să vi-o mătu[D7]rați, [C]flori [D7]de [G]măr
-[G]Masa să vi-o încăr[D7]cați, [C]flori [D7]de [G]măr.
-[G]Casa să vi-o mătu[D7]rați, [C]flori [D7]de [G]măr
-[G]Masa să vi-o încăr[D7]cați, [C]flori [D7]de [G]măr.
-[G]Noi umblăm a [D7]colin[G]da, [C]di l-o casă [D7]la al[G]ta
-[G]Noi umblăm a [D7]colin[G]da, [C]di l-o casă [D7]la al[G]ta
-[G]Și venim cu Domnul [D7]bun, [C]flori [D7]de [G]măr
-[G]Că e sara de Cră[D7]ciun, [C]flori [D7]de [G]măr.
-[G]Și venim cu Domnul [D7]bun, [C]flori [D7]de [G]măr
-[G]Că e sara de Cră[D7]ciun, [C]flori [D7]de [G]măr.
-[G]Și la anul [D7]om zi[G]ni, [C]numai dacă [D7]ni-ți [G]pofti
-[G]Și la anul [D7]om zi[G]ni, [C]numai dacă [D7]ni-ți [G]pofti
-[G]Și mai multe vom [D7]ura, [C]flori [D7]de [G]măr
-[G]Un pocut dacă ni-ți [D7]da, [C]flori [D7]de [G]măr
-[G]Și mai multe vom [D7]ura, [C]flori [D7]de [G]măr
-[G]Un pocut dacă ni-ți [D7]da, [C]flori [D7]de [G]măr
-[G]Și colinda nu-i mai [D]multa, și colinda nu-i mai [G]multa
-Să trăiască cine-as[D]cultă, să trăiască cine-as[G]cultă
-[G]Și colinda-i atâ[D]ta, și colinda-i atâ[G]ta
-Cine-ascultă să tră[D]ia, cine-ascultă să tră[G]ia.
-```
+Intro:
+[G]  Am venit aici la [D]voi,
+am venit aici la [G]voi  ^
+[G]  Cum e datina la [D]noi,
+cum e datina la [G]noi  ^
 
-#### Flori de măr (II)
+/[G]Sculați ^gazde [D7]nu dur[G]miți,
+[C]vremea e să [D7]vă tre[G]ziți  ^  / x2
 
-**Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 32
+/[G]Casa să vi-o ^mătu[D7]rați,
+[C]flori [D7]de [G]măr
+[G]Masa să vi-o ^încăr[D7]cați,
+[C]flori [D7]de [G]măr./ x2
 
-**Chitară:** G 320003 · D xx0232
+/[G]Noi um^blăm a [D7]colin[G]da,
+[C]di l-o casă [D7]la al[G]ta  ^  / x2
 
-**Ukulele:** G 0232 · D 2220
+/[G]Și venim cu ^Domnul [D7]bun,
+[C]flori [D7]de [G]măr
+[G]Că e sara ^de Cră[D7]ciun,
+[C]flori [D7]de [G]măr./ x2
 
-```text
-G                G                     D
-Am venit aici la voi, am venit aici la voi
-                G                    D
-Cum e datina la noi, cum e datina la noi
-G       G     G     G
-Sculați gazde nu durmiți,
-D           D     G    G
-Vremea e să vă treziți
-G       G     G     G
-Sculați gazde nu durmiți,
-D           D     G    G
-Vremea e să vă treziți
-G            G         D        G
-Casa să vi-o măturați, flori de măr,
-G            G          D        G     G
-Masa să vi-o încărcați, flori de măr.
-G            G         D        G
-Casa să vi-o măturați, flori de măr,
-G            G          D        G     G
-Masa să vi-o încărcați, flori de măr.
-G   G        G    G
-Noi umblăm a colinda,
-D           D    G   G
-Di l-o casă la alta
-G            D    G
-Noi umblăm a colinda,
-D           D    G   G
-Di l-o casă la alta
-G           G           D        G
-Și venim cu Domnul bun, flori de măr,
-G            G        D        G     G
-Că e sara de Crăciun, flori de măr.
-G           G           D        G
-Și venim cu Domnul bun, flori de măr,
-G            G        D        G     G
-Că e sara de Crăciun, flori de măr.
-G     G    G    G
-Și la anul om zini,
-D          D     G     G
-Numai dacă ni-ți pofti
-G     G    G    G
-Și la anul om zini,
-D          D     G     G
-Numai dacă ni-ți pofti
-G            G        D        G
-Și mai multe vom ura, flori de măr,
-G             G         D        G     G
-Un pocuț dacă ni-ți da, flori de măr.
-G            G        D        G
-Și mai multe vom ura, flori de măr,
-G             G         D        G     G
-Un pocuț dacă ni-ți da, flori de măr.
-G                   G                          D
-Și colinda nu-i mai multă, și colinda nu-i mai multă
-                   G                         D
-Să trăiască cine-ascultă, să trăiască cine-ascultă
-G               G                   D
-Și colinda-i atâta, și colinda-i atâta
-                   G                      D
-Cine-ascultă să trăia, cine-ascultă să trăia.
+/[G]Și la ^anul [D7]om zi[G]ni,
+[C]numai dacă [D7]ni-ți pof[G]ti/  x2
+
+/[G]Și mai multe ^vom u[D7]ra,
+[C]flori [D7]de [G]măr
+[G]Un pocuț da^că ni-ți [D7]da,
+[C]flori [D7]de [G]măr/ x2
+
+Outro:
+[G]  Și colinda nu-i mai [D]multă,
+și colinda nu-i mai [G]multă  ^
+[G]  Să trăiască cine-as[D]cultă,
+să trăiască cine-as[G]cultă  ^
+[G]  Și colinda-i atâ[D]ta,
+și colinda-i atâ[G]ta  ^
+[G]  Cine-ascultă să tră[D]ia,
+cine-ascultă să tră[G]ia.
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -27273,74 +27175,45 @@ Sunt arătate și trecerile `G`–`Am` (și invers) din versurile 2 și 3 ale fi
 
 **Ukulele:** A 2100 · E 4442 · D 2220
 
+Intro: `A` `A`
+
 ```text
-Intro A A
-A       A            A
-În sara de Crăciun venim
-        E           A    A
-La Viflaim, la Viflaim
-A          A              A
-Pe pruncul sfânt să-l preamărim
-        E           A    A
-La Viflaim, la Viflaim
-A          A          A
-Că-n iesle s-o născut Hristos
-        D           E    E
-La Viflaim, la Viflaim
-A        A        A
-Să-i fie lumii de folos
-        E   E       A    A
-La Viflaim, la Viflaim
-A         A             A
-Când prorocirea s-o-mplinit
-        E           A    A
-La Viflaim, la Viflaim
-A         A              A
-Un fiu pe toți ne-o mântuit
-        E           A    A
-La Viflaim, la Viflaim
-A      A               A
-Și de atunci creștinii sunt
-        D           E    E
-La Viflaim, la Viflaim
-A      A              A
-Întâmpinați de Domnul Sfânt
-        E   E       A    A
-La Viflaim, la Viflaim
-A          A          A
-Păstori cu turme pământești
-        E           A    A
-La Viflaim, la Viflaim
-A        A       A
-Ne-arată căile cerești
-        E           A    A
-La Viflaim, la Viflaim
-A         A        A
-Noi cu grăbire alergăm
-        D           E    E
-La Viflaim, la Viflaim
-A         A         A
-Și maicii sale ne rugăm
-        E   E       A    A
-La Viflaim, la Viflaim
-A        A        A
-Să apere de orice rău
-        E           A    A
-La Viflaim, la Viflaim
-A        A             A
-Pământul tot prin fiul său
-        E           A    A
-La Viflaim, la Viflaim
-A        A             A
-În seara de Crăciun frumos
-        D           E    E
-La Viflaim, la Viflaim
-A           A            A
-S-a fost născut Isus Hristos
-        E   E       A    A
-La Viflaim, la Viflaim
-        E   E       A    A
-La Viflaim, la Viflaim
+[A]  În sara ^de Crăciun ve^nim
+La Vifla[E]im, la Vifla[A]im  ^
+[A]  Pe Pruncul ^Sfânt să-l preamă^rim
+La Vifla[E]im, la Vifla[A]im  ^
+[A]  Că-n iesle ^s-o născut Hris^tos
+La Vifla[D]im, la Vifla[E]im  ^
+[A]  Să-i fie ^lumii de fo^los
+La Vifla[E]im, ^la Vifla[A]im  ^
+
+[A]  Când proro^cirea s-o-mpli^nit
+La Vifla[E]im, la Vifla[A]im  ^
+[A]  Un fiu pe ^toți ne-o mântu^it
+La Vifla[E]im, la Vifla[A]im  ^
+[A]  Și de a^tunci creștinii ^sunt
+La Vifla[D]im, la Vifla[E]im  ^
+[A]  Întâmpi^nați de Domnul ^Sfânt
+La Vifla[E]im, ^la Vifla[A]im  ^
+
+[A]  Păstori cu ^turme pămân^tești
+La Vifla[E]im, la Vifla[A]im  ^
+[A]  Ne-arată ^căile ce^rești
+La Vifla[E]im, la Vifla[A]im  ^
+[A]  Noi cu gră^bire aler^găm
+La Vifla[D]im, la Vifla[E]im  ^
+[A]  Și Maicii ^Sale ne ru^găm
+La Vifla[E]im, ^la Vifla[A]im  ^
+
+[A]  Să apere ^de orice ^rău
+La Vifla[E]im, la Vifla[A]im  ^
+[A]  Pământul ^tot prin Fiul ^Său
+La Vifla[E]im, la Vifla[A]im  ^
+[A]  În seara ^de Crăciun fru^mos
+La Vifla[D]im, la Vifla[E]im  ^
+[A]  S-a fost năs^cut Isus Hris^tos
+La Vifla[E]im, ^la Vifla[A]im  ^
+La Vifla[E]im, ^la Vifla[A]im  ^
 ```
 
 ```tab
@@ -27717,8 +27590,6 @@ Turmă [C]ca [F]el nimeni [C]n-a[G]re  ^
 [G]Cu credin^ță ta[C]re.  ^  /  x2
 ```
 
-Notă: Ultimele trei versuri din fiecare strofă se repetă. Transcriere: Drăgușin Daniel.
-
 #### O, ce veste minunată! (II)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 41
@@ -27795,115 +27666,88 @@ E|--------------------------------------------------|
 
 Exemplificat pentru `C`.
 
-#### Ostașii luminii colindă (I)
+#### O, ce veste minunată! (III)
 
-**Doi și Jumătate** · Sursa: Caiet cabană RO, p. 116
+**tradițional** · Sursa: Madrigal
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000
+**Chitară:** F 133211 · G 320003 · C x32010
 
-**Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432
+**Ukulele:** F 2010 · G 0232 · C 0003
+
+Notă: `F` + `G` și `G` + `C` din părțile care e repetă se cântă pe o singura măsură
 
 ```text
-1.
-Am              G          Dm        Am
-Larg deschideți poarta sufletelor noastre
-   C               Em       Dm         Am
-N-am venit să cerem, ci-am venit să dăm.
+[G]  O ce [C]veste [F]minu[C]na[G]tă
+[G]  În Bet[C]leem [F]ni se-a[C]ra[G]tă
+/[C]Astăzi [F]S-a năs[G]cut
+[C]Cel făr' [G]de-nce[C]put
+[G]Cum au zis pro^ro[C]cii  ^  /  x2
 
-R:
-G   C            G       Dm         Am
-Dalbe și iar dalbe flori adevărate
-      C           Em     Dm          Am            G
-Ca și vestea bună ce v-o colindăm
-Dalbe și iar dalbe flori adevărate
-Dalbe și iar dalbe florile de măr.
-2.
-Dincolo de munții vieții și-ai himerei
-Le-am cules azi noapte florile de măr
-Le-am cules din munții unde veșnic merii
-Roditori de aur sunt într-adevăr.
+[G]  Că la [C]Betle[F]em Ma[C]ri[G]a
+[G]  Săvâr[C]şind că[F]lăto[C]ri[G]a
+/[C]Într-un [F]mic să[G]laş
+[C]Lâng-a[G]cel o[C]raş
+[G]A născut pre ^Mesi[C]a.  ^  / x2
 
-3.
-Florile pe care le-am cules azi noapte
-Vor rodi în brazda sufletelor toate
-Merele de aur, merele visate
-De colindătorii veacurilor toate.
+[G]  Pe Fi[C]ul în [F]al său [C]nu[G]me
+[G]  Tatăl [C]L-a tri[F]mis în [C]lu[G]me
+/[C]Să se [F]nas[G]că
+[C]Şi să [G]creas[C]că
+[G]Să ne mântu^ias[C]că.  ^  / x2
 ```
 
-#### Ostașii luminii colindă (II)
+#### Ostașii luminii colindă
 
-**Doi și Jumătate** · muzica/versuri: Doi și Jumătate/Elena Farago · Sursa: Colinde Karban, p. 92
+**Doi și Jumătate** · versuri: Elena Farago · Sursa: Colinde Karban, p. 92 · Caiet cabană RO, p. 116
 
-**Chitară:** Am x02210 · G 320003 · Dm xx0231 · C x32010 · Em 022000
+**Chitară:** Am x02210 · G 320003 · E7 020100 · C x32010
 
-**Ukulele:** Am 2000 · G 0232 · Dm 2210 · C 0003 · Em 0432
+**Ukulele:** Am 2000 · G 0232 · E7 1202 · C 0003
 
 ```text
-Am              G
-Larg deschideți poarta
-Dm         Am
-Sufletelor toate
-C             Em
-N-am venit să cerem,
-Dm             Am
-Ci-am venit să dăm.
-Am              G
-Larg deschideți poarta
-Dm         Am
-Sufletelor toate
-C             Em
-N-am venit să cerem,
-Dm             Am
-Ci-am venit să dăm.
+[Am]Larg des^chideți [G]poarta
+[G]Sufle[E7]telor [Am]toate
+[C]N-am ve[G]nit să [C]cerem,
+[G]Ci-am ve[E7]nit să [Am]dăm.  ^
+
+[Am]Larg des^chideți [G]poarta
+[G]Sufle[E7]telor [Am]toate
+[C]N-am ve[G]nit să [C]cerem,
+[G]Ci-am ve[E7]nit să [Am]dăm.  [G]
+
 Refren:
-G     C      G
-Dalbe și iar dalbe
-Dm     Dm  Am
-Flori adevărate
-C     Em     Am
-Ca și vestea bună
-Dm     Em   Am   Am
-Ce v-o colindăm
-G     C      G
-Dalbe și iar dalbe
-Dm     Dm  Am
-Flori adevărate
-C     Em     Am
-Dalbe și iar dalbe
-Dm   Em    Am   Am
-Florile de măr.
-Am         G
-Dincolo de munții
-Dm             Am
-Vieții și-ai himerei
-C               Em
-Le-am cules azi noapte
-Dm         Am
-Florile de măr
-Am              G
-Le-am cules din munții
-Dm          Am
-Unde veșnic merii
-C           Em
-Roditori de aur
-Dm           Am
-Sunt într-adevăr.
-Am         G
-Florile pe care
-Dm              Am
-Le-am cules azi noapte
-C           Em
-Vor rodi în brazda
-Dm         Am
-Sufletelor toate
-Am        G
-Merele de aur,
-Dm       Am
-Merele visate
-C         Em
-De colindătorii
-Dm         Am
-Veacurilor toate.
+[C]Dalbe ^și iar [G]dalbe
+[C]Flori a[G]devă[Am]rate
+[C]Ca și ^vestea [Am]bună
+[G]Ce v-o [E7]colin[Am]dăm  [G]
+[G][C]Dalbe ^și iar [G]dalbe
+[C]Flori a[G]devă[Am]rate
+[C]Dalbe ^și iar [G]dalbe
+[G]Flori[E7]le de [Am]măr.  ^
+
+[Am]Dinco^lo de [G]munții
+[G]Vieții [E7]și-ai hi[Am]merei
+[C]Le-am cu[G]les azi [C]noapte
+[G]Flori[E7]le de [Am]măr  ^
+
+[Am]Le-am cu^les din [G]munții
+[G]Unde [E7]veșnic [Am]merii
+[C]Rodi[G]tori de [C]aur
+[G]Sunt în[E7]tr-ade[Am]văr.  [G]
+
+Refren
+
+[Am]Florile pe [G]care
+[G]Le-am cu[E7]les azi [Am]noapte
+[C]Vor ro[G]di în [C]brazda
+[G]Sufle[E7]telor [Am]toate  ^
+
+[Am]Mere^le de [G]aur,
+[G]Mere[E7]le vi[Am]sate
+[C]De co[G]lindă[C]torii
+[G]Veacu[E7]rilor [Am]toate  [G]
+
+Refren
 ```
 
 ```tab
@@ -27939,84 +27783,57 @@ Exemplificat pentru `G` urmat de `C`.
 **Ukulele:** F 2010 · C 0003 · Bb 3211
 
 ```text
-F            C     F
-Sus în Raiul sfinților
-F                Bb   C
-Oi linu-i lin și rujmalin
-F         C    F
-Pe cununa munților.
-F            C    F
-Este-o dalbă mânăstire
-F                Bb   C
-Oi linu-i lin și rujmalin
-F            C    F
-Cu scaun de odihnire.
-F        C    F
-Da acolo cine șede
-F                Bb   C
-Oi linu-i lin și rujmalin
-F        C    F
-Da acolo cine șede
-F          C     F
-Șede, șede Maica Sfântă
-F                Bb   C
-Oi linu-i lin și rujmalin
-F            C       F
-Nici nu râde nici nu cântă.
-F              C      F
-Cu-n pahar sfințit în mână
-F                Bb   C
-Oi linu-i lin și rujmalin
-F           C     F
-Tot închină și suspină.
-F
-Vine Fiul și-o întreabă
-F                Bb   C
-Oi linu-i lin și rujmalin
-F             C    F
-Ce suspini măicuță dragă?
-F           C     F
-Da eu cum n-oi suspina
-F                Bb   C
-Oi linu-i lin și rujmalin
-F               C       F
-Când văd cât de rea-i lumea.
-F             C   F
-Și văd puntea Raiului
-F                Bb   C
-Oi linu-i lin și rujmalin
-F         C   F
-Ca firuțu părului.
-F             C      F
-Și-acela-i crăpat în patru
-F                Bb   C
-Oi linu-i lin și rujmalin
-F            C    F
-Cele patru-n alte patru.
-F           C    F
-Cele opt în alte opt
-F                Bb   C
-Oi linu-i lin și rujmalin
-F           C    F
-Cele opt în alte opt.
-F           C       F
-Nime-n lume n-o pot trece
-F                Bb   C
-Oi linu-i lin și rujmalin
-F           C       F
-Nime-n lume n-o pot trece
-F            C    F
-Numai trei fete fecioare
-F                Bb   C
-Oi linu-i lin și rujmalin
-F            C    F
-Ele-or trece în picioare.
-F             C     F
-Că le-o fo credință mare
-F                Bb   C
-Oi linu-i lin și rujmalin
-F             C     F
-Că le-o fo credință mare
+[F]Sus în Raiul [C]sfinți[F]lor
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Pe cununa [C]munți[F]lor.
+
+[F]Este-o dalbă [C]mânăs[F]tire
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Cu scaun de o[C]dihni[F]re.
+
+[F]Da acolo [C]cine [F]șede
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Da acolo [C]cine [F]șede
+
+[F]Șede, șede [C]Maica [F]Sfântă
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Nici nu râde [C]nici nu [F]cântă.
+
+[F]Cu-n pahar sfin[C]țit în [F]mână
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Tot închină [C]și sus[F]pină.
+
+[F]Vine Fiul [C]și-o întrea[F]bă
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Ce suspini măi[C]cuță [F]dragă?
+
+[F]Da eu cum [C]n-oi sus[F]pina
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Când văd cât de [C]rea-i lu[F]mea.
+
+[F]Și văd puntea [C]Raiu[F]lui
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Ca firuțu [C]păru[F]lui.
+
+[F]Și-acela-i cră[C]pat în [F]patru
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Cele patru-n [C]alte [F]patru.
+
+[F]Cele opt în [C]alte [F]opt
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Cele opt în [C]alte [F]opt.
+
+[F]Nime-n lume [C]n-o pot [F]trece
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Nime-n lume [C]n-o pot [F]trece
+
+[F]Numai trei fe[C]te fe[F]cioare
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Ele-or trece [C]în pi[F]cioare.
+
+[F]Că le-o fo cre[C]dință [F]mare
+[F]Oi linu-i lin și [Bb]rujma[C]lin
+[F]Că le-o fo cre[C]dință [F]mare
 ```
 
 ```tab
@@ -28035,12 +27852,12 @@ Exemplificat pentru primul vers (`F`).
 
 **Ducu Bertzi** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 13
 
-**Chitară:** D xx0232 · G 320003 · A x02220 · Bm x24432
+**Chitară:** D xx0232 · Bm x24432 · G 320003 · A x02220
 
-**Ukulele:** D 2220 · G 0232 · A 2100 · Bm 4222
+**Ukulele:** D 2220 · Bm 4222 · G 0232 · A 2100
 
+Urarea se recită pe cadența: `D` `D` `Bm` `G` `D` `A` `A`.
 ```text
-Urarea se recită pe cadența:D D Bm G D A A.
 Casa în care am intrat
 E de binecuvântat
 După legea creștinească
@@ -28051,62 +27868,41 @@ Mesele să-i fie-ntinse
 Să trăiți în sănătate
 Și-n unire și-n cinstire
 Că ne-ați dat adăpostire.
-D         D
-Pe podele de nuiele
-G           D        A   A
-Duc copii-n palme stele
-Bm         D
-Să le lase pe la case
-A         D         D   D
-Unde-s gazdele miloase
-D        D
-Și cu dragoste creștină
-G           D         A   A
-Duc copii-n pumni lumină
-Bm             D
-Drumu-i greu zăpada-i mare
-A         D      D   D
-Vin copii pe cărare
-D           D
-Să tot taie neaua-n două
-G           D      A   A
-Duc copii-n gene rouă
-Bm           D
-Și tot cântă din colinde
-A          D          D   D
-Până gerul nu i-o prinde
-D           D
-Până vremea nu le-o trece
-G             D      A   A
-Pe poteci sub luna rece
-Bm           D
-Prin fuioare de ninsoare
-A           D         D   D
-Duc copii-n suflet soare
-D            D
-Să-l împartă cu iubire
-G             D      A   A
-Ca un leac de împlinire
-Bm          D
-De tot răul care-ngheață
-A            D         D   D
-Duc copiii-n cântec viață
-D            D
-Și-n cuvinte daruri sfinte
-G          D        A   A
-De la Dumnezeu-părinte
-Bm             D
-Toți le poartă să le-mpartă
-A              D            D   D
-De Crăciun din poartă-n poartă
-D            D
-De la poartă până-n casă
-G         D      A   A
-Dâre de lumină lasă
-Bm          D
-Să rămâna-n casă toate
-A            D        D   D
-La mulți ani cu sănătate!
+
+[D]Pe podele ^de nuiele
+[G]Duc copii-n [D]palme ste[A]le  ^
+[Bm]Să le lase [D]pe la case
+[A]Unde-s gaz[D]dele miloa^se  ^
+
+[D]Și cu dra^goste creștină
+[G]Duc copii-n [D]pumni lumi[A]nă  ^
+[Bm]Drumu-i greu ză[D]pada-i mare
+[A]Vin copii [D]pe căra^re  ^
+
+[D]Să tot taie ^neaua-n două
+[G]Duc copii-n [D]gene ro[A]uă  ^
+[Bm]Și tot cântă [D]din colinde
+[A]Până gerul [D]nu i-o prin^de  ^
+
+[D]Până vremea ^nu le-o trece
+[G]Pe poteci sub [D]luna re[A]ce  ^
+[Bm]Prin fuioare [D]de ninsoare
+[A]Duc copii-n [D]suflet soa^re  ^
+
+[D]Să-l împartă ^cu iubire
+[G]Ca un leac de [D]împlini[A]re  ^
+[Bm]De tot răul [D]care-ngheață
+[A]Duc copiii-n [D]cântec via^ță  ^
+
+[D]Și-n cuvinte ^daruri sfinte
+[G]De la Dumne[D]zeu-părin[A]te  ^
+[Bm]Toți le poartă [D]să le-mpartă
+[A]De Crăciun din [D]poartă-n poar^tă  ^
+
+[D]De la poartă ^până-n casă
+[G]Dâre de lu[D]mină la[A]să  ^
+[Bm]Să rămâna-n [D]casă toate
+[A]La mulți ani [D]cu sănăta^te!  ^
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -32557,7 +32353,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Darwin** — [Omagiul unui alpinist](#omagiul-unui-alpinist)
 - **Direcția 5** — [Am nevoie de tine](#am-nevoie-de-tine), [Obsesia](#obsesia), [Spune ce vrei](#spune-ce-vrei), [Te voi aștepta](#te-voi-aștepta), [Voi pluti](#voi-pluti)
 - **Direcția 5 & Paula Seling** — [Lângă mine](#lângă-mine)
-- **Doi și Jumătate** — [Ostașii luminii colindă (I)](#ostașii-luminii-colindă-i), [Ostașii luminii colindă (II)](#ostașii-luminii-colindă-ii)
+- **Doi și Jumătate** — [Ostașii luminii colindă](#ostașii-luminii-colindă)
 - **Dorel Moldovan** — [Iarăși pe drum](#iarăși-pe-drum)
 - **Doru Stănculescu** — [Hai dihai](#hai-dihai), [Fără petale](#fără-petale)
 - **Dragoș Bălan** — [Dragoste în fân (I)](#dragoste-în-fân-i), [Nunta pe Caraiman (II)](#nunta-pe-caraiman-ii)
@@ -32655,7 +32451,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Ștefan Banică** — [S-o facem lată](#s-o-facem-lată)
 - **Ștefan Banica jr.** — [Asta-s eu](#asta-s-eu)
 - **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#mi-e-dor-de-ochii-tăi), [Poveste](#poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a prunc micuț Isus](#când-fost-a-prunc-micuț-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul](#cerul-și-pământul), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine](#deschide-ușa-creștine), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr (I)](#flori-de-măr-i), [Flori de măr (II)](#flori-de-măr-ii), [Florile dalbe](#florile-dalbe), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a prunc micuț Isus](#când-fost-a-prunc-micuț-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul](#cerul-și-pământul), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Corindăm, corindăm (II)](#corindăm-corindăm-ii), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine](#deschide-ușa-creștine), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr](#flori-de-măr), [Florile dalbe](#florile-dalbe), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Zăurel de zăurel](#zăurel-de-zăurel), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
 - **Ștefan Hrușcă / Adrian Păunescu** — [Tu Ardeal](#tu-ardeal)
 - **Stephen Foster** — [Oh, Susanna](#oh-susanna)
 - **Stigma** — [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
@@ -32676,7 +32472,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Timpuri Noi** — [Mistrețul galben](#mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#munții-mei)
 - **Tradițional** — [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă](#noapte-sfântă), [O, brad frumos!](#o-brad-frumos)
-- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Moș Crăciun (I)](#moș-crăciun-i)
+- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Moș Crăciun (I)](#moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#suzana)
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
