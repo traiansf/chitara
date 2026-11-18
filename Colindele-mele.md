@@ -22,3 +22,4 @@
 - Pe strada din Viflaim [C]
 - Pom înrămuratu [C]
 - Seara serilor [Dm]
+- Sus boieri nu mai dormiți [Dm]

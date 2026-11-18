@@ -28097,70 +28097,38 @@ E|--------------------------------------------------------|
 **Ukulele:** Em 0432 · D 2220 · Bm 4222
 
 ```text
-Em    Em      D      Em
-Sus boieri nu mai dormiți
-D       D        Em    Em
-Florile dalbe de măr.
-Em Em    D       Em
-Vremea e să vă gătiți
-D       Bm       Em    Em
-Florile dalbe de măr.
-D    D       Em  Em
-Casa să vi-o măturați
-D       D        Em    Em
-Florile dalbe de măr.
-D    D       Em   Em
-Masa să vi-o încărcați
-D       Bm       Em    Em
-Florile dalbe de măr.
-Em     Em     D        Em
-Astăzi s-a născut Christos
-D       D        Em    Em
-Florile dalbe de măr.
-Em     Em      D   Em
-Domnul cel prealuminos
-D       Bm       Em    Em
-Florile dalbe de măr.
-D      D      Em        Em
-S-a născut un Domn prea bun
-D       D        Em    Em
-Florile dalbe de măr.
-D    D     Em     Em
-În lăcașul lui Crăciun
-D       Bm       Em    Em
-Florile dalbe de măr.
-Em     Em     D      Em
-S-așteptăm pe Domnul sfânt
-D       D        Em    Em
-Florile dalbe de măr.
-Em    Em  D    Em
-Ca să vie pe Pământ
-D       Bm       Em    Em
-Florile dalbe de măr.
-D      D      Em  Em
-Că-i feciorul cerului
-D       D        Em    Em
-Florile dalbe de măr.
-D     D     Em   Em
-Și Domnul pământului
-D       Bm       Em    Em
-Florile dalbe de măr.
-D      D      Em  Em
-Că-i feciorul cerului
-D       D        Em    Em
-Florile dalbe de măr.
-D     D     Em   Em
-Și Domnul pământului
-D       Bm       Em    Em
-Florile dalbe de măr.
-D       Bm       Em    Em
-Florile dalbe de măr.
-D       Bm       Em    Em
-Florile dalbe de măr.
-D       Bm       Em    Em
-Florile dalbe de măr.
-D       Bm       Em    Em
-Florile dalbe de măr.
+[Em]Sus bo^ieri nu [D]mai dor[Em]miți
+[D]Florile ^dalbe de [Em]măr.  ^
+[Em]Vremea ^e să [D]vă gă[Em]tiți
+[D]Florile [Bm]dalbe de [Em]măr.  ^
+
+[D]Casa ^să vi-o [Em]mătu^rați
+[D]Florile ^dalbe de [Em]măr.  ^
+[D]Masa ^să vi-o [Em]încăr^cați
+[D]Florile [Bm]dalbe de [Em]măr.  ^
+
+[Em]Astăzi ^s-a năs[D]cut Hris[Em]tos
+[D]Florile ^dalbe de [Em]măr.  ^
+[Em]Domnul ^cel prea[D]lumi[Em]nos
+[D]Florile [Bm]dalbe de [Em]măr.  ^
+
+[D]S-a năs^cut un [Em]Domn prea ^bun
+[D]Florile ^dalbe de [Em]măr.  ^
+[D]În lă^cașul [Em]lui Cră^ciun
+[D]Florile [Bm]dalbe de [Em]măr.  ^
+
+[Em]S-aștep^tăm pe [D]Domnul [Em]Sfânt
+[D]Florile ^dalbe de [Em]măr.  ^
+[Em]Ca să ^vie [D]pe Pă[Em]mânt
+[D]Florile [Bm]dalbe de [Em]măr.  ^
+
+/[D]Că-i fe^ciorul [Em]ceru^lui
+[D]Florile ^dalbe de [Em]măr.  ^
+[D]Și Dom^nul pă[Em]mântu^lui
+[D]Florile [Bm]dalbe de [Em]măr.  ^  / x2
+
+Outro:
+/[D]Florile [Bm]dalbe de [Em]măr.  ^  / x4
 fade out
 ```
 
@@ -28187,56 +28155,38 @@ Exemplificată pentru primul vers. În original, capo în poziția 1.
 
 **Ukulele:** F 2010 · Bb 3211 · C 0003
 
+Intro: `F` `Bb` `F` `C` `F`
+
 ```text
-Intro: F Bb F C F
-F                    Bb
-Sus sus sus pe lângă lună
-        F            C
-Sus sus sus pe lângă lună
-       Bb       F
-Mândru arde o lumină
-       C        F
-Mândru arde o lumină.
-F                 Bb
-Nici aceea nu-i lumină
-      F           C
-Nici aceea nu-i lumină
-        Bb       F
-Că-i un scaun de odihnă
-        C        F
-Că-i un scaun de odihnă.
-F                Bb
-Da pe scaun cine șede
-      F          C
-Da pe scaun cine șede
-     Bb          F
-Șede Maica Preacurată
-       C           F
-C-un fiuț micuț în brațe.
-F                 Bb
-Fiul zbiară și nu tace
-     F            C
-Fiul zbiară și nu tace
-     Bb            F
-Măicuța n-are ce-i face
-     C             F
-Măicuța n-are ce-i face.
-F                Bb
-Taci fiule nu zbiera
-     F           C
-Taci fiule nu zbiera
-     Bb          F
-Că mama ție ți-o da
-    C            F
-Că mama ție ți-o da.
-F               Bb
-Două mere, două pere
-     F         C
-Două mere,două pere
-      Bb             F
-Să te joci în Rai cu ele
-      C              F
-Să te joci în Rai cu ele.
+[F]Sus sus sus pe lângă [Bb]lună
+Sus sus [F]sus pe lângă [C]lună
+Mândru [Bb]arde o lu[F]mină
+Mândru [C]arde o lu[F]mină.
+
+[F]Nici aceea nu-i lu[Bb]mină
+Nici a[F]ceea nu-i lu[C]mină
+Că-i un [Bb]scaun de [F]odihnă
+Că-i un [C]scaun de [F]odihnă.
+
+[F]Da pe scaun cine [Bb]șede
+Da pe [F]scaun cine [C]șede
+Șede [Bb]Maica Preacu[F]rată
+C-un fi[C]uț micuț în [F]brațe.
+
+[F]Fiul zbiară și nu [Bb]tace
+Fiul [F]zbiară și nu [C]tace
+Măicu[Bb]ța n-are ce-i [F]face
+Măicu[C]ța n-are ce-i [F]face.
+
+[F]Taci fiule nu zbie[Bb]ra
+Taci [F]fiule nu zbie[C]ra
+Că ma[Bb]ma ție ți-o [F]da
+Că ma[C]ma ție ți-o [F]da.
+
+[F]Două mere, două [Bb]pere
+Două [F]mere, două [C]pere
+Să te [Bb]joci în Rai cu [F]ele
+Să te [C]joci în Rai cu [F]ele.
 ```
 
 Notă: Măsura 4/4. Ciupitură:
