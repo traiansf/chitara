@@ -25921,6 +25921,9 @@ Transcriere: Drăgușin Daniel.
 [C]Vese^le cân^tări doi^niră
 [Dm]Domnu^lui Ii[G]sus  ^
 [G]Domnu[F]lui Ii[E7]sus  ^
+
+[Am]Ce-ați vă[E7]zut păs[Am]tori,
+[F]Sculați [E7]până-n [Am]zori.  ^
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -26102,6 +26105,12 @@ Refren:
 
 [F]  Că și-n ^cer aveți pă^rin^te
 [Bb]  Că și-n ^cer aveți pă[C]rinte  ^
+
+[F]  După ^ce răul vă ^ba^te
+[Bb]  După ^ce răul vă [C]bate  ^
+
+[F]  Vi-ți ^întoarce la drep^ta^te.
+[Bb]  Vi-ți ^întoarce la drep[C]tate.  ^
 
 [Bb]  Raiule ^gradină [F]ver^de
 [C]  Maica ^Sfântă-n tine [F]șede  ^
@@ -26317,6 +26326,18 @@ Refren:
 [C]Dumne[G]zeu a[C]devă[F]rat
 
 [C]Soare-n [F]raze [C]lumi[F]nat
+
+[C]El vă [G]zice [C]să tră[F]iți
+
+[C]Întru mulți [F]ani [C]feri[F]ciți
+
+[C]Și co[G]linda [C]nu-i mai [F]multă
+
+[C]Să tră[F]ia ci[C]ne-o as[F]cultă
+
+[C]Și co[G]linda-i [C]atâ[F]ta
+
+[C]Cine as[F]cultă [C]să tră[F]ia
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -26434,8 +26455,9 @@ Exemplificat pentru `A`.
 
 **Ukulele:** G 0232 · D 2220 · Am 2000
 
+Intro: `G`
+
 ```text
-Intro G
 G          G  D       D
 Dalbu-i dealu de ce-i dalbu
 Am         Am  G       G
@@ -26474,6 +26496,40 @@ G        G  D      D
 Vin la mine cer pă tine
 D   D    G    G
 Mărie sântă Mărie
+G        D  D     G     G
+Mare-i sara de Crăciun.
+G        G   D      D
+Pă de-asupra ce mai cer
+Am        Am   G       G
+Zăstra ta ș-un plug de sier
+D   D    G    G
+Mărie sântă Mărie
+G        D  D     G     G
+Mare-i sara de Crăciun.
+G         G  D     D
+Nouă coți de pânză moi
+Am     Am  G      G
+Și amboru  dintre oi
+D   D    G    G
+Mărie sântă Mărie
+G        D  D     G     G
+Mare-i sara de Crăciun.
+G           G  D      D
+I-amborul-i un bou frumos
+Am        Am G       G
+De trimăs pă holdă-n jos
+D   D    G    G
+Mărie sântă Mărie
+G        D  D     G     G
+Mare-i sara de Crăciun.
+G         G D    D
+După grâu după săcară
+Am         Am G    G
+După flori dă primăvară
+D   D    G    G
+Mărie sântă Mărie
+G        D  D     G
+Mare-i sara de Crăciun.
 G        D  D     G     G
 Mare-i sara de Crăciun.
 ```
@@ -26528,7 +26584,39 @@ G       G  G    G
 Să să vadă pă fereastră,
 G          G       G          G
 Corinde le corind, corinde le corind.
+G       G  G     G
+Dacă nu ne deschideți
+G         G    G    G
+Pă pereți crească bureți,
+G          G       G          G
+Corinde le corind, corinde le corind.
+G       G  G   G
+În obloace copitoance,
+G       G  G   G
+În obloace copitoance,
+G          G       G          G
+Corinde le corind, corinde le corind.
+G      G  G        G
+Dacă însă ni-ți primire
+G        G   G    G
+Viața vi s-o primenire,
+G          G       G          G
+Corinde le corind, corinde le corind.
+G          G  G   G
+Să fiți gazde sănătoși,
+G         G   G        G
+Să trăiți ani mulți frumoși!
+G          G       G          G
+Corinde le corind, corinde le corind.
+G       G  G       G
+Și colinda ne-o plătiți,
+G       G     G   G
+Să fiți gazde fericiți!
+G          G       G          G
+Corinde le corind, corinde le corind.
 ```
+
+Notă: Măsura 4/4. Se cântă numai din `G`, în poziția 1 sau 3, cu o bătaie ca a tobelor:
 
 ```tab
 E|-----------------------------------------------|
@@ -26741,6 +26829,52 @@ Fm        Bbm  Bbm
 Ferice-i, ferice,
 Bbm          Fm
 Da’ cine-i ferice?
+Fm             Fm
+Ori vi-i iarba croștioasă,
+Fm           Fm
+Ori vi-i apa gloștioroasă?
+Fm        Bbm  Bbm
+Ferice-i, ferice,
+Bbm          Fm
+Da’ cine-i ferice?
+Fm            Fm
+Nu ni-i iarba croștioasă,
+Fm       Fm
+Nici apa gloștioroasă,
+Fm        Bbm  Bbm
+Ferice-i, ferice,
+Bbm          Fm
+Da’ cine-i ferice?
+Fm          Fm
+Ci-am auzît că ni-i vinde,
+Fm          Fm
+Ci-am auzît că ni-i vinde,
+Fm        Bbm  Bbm
+Ferice-i, ferice,
+Bbm          Fm
+Da’ cine-i ferice?
+Fm            Fm
+D-apăi cum io să vă vându,
+Fm            Fm
+D-apăi cum io să vă vându,
+Fm        Bbm  Bbm
+Ferice-i, ferice,
+Bbm          Fm
+Da’ cine-i ferice?
+Fm              Fm
+Că de când stau după voi,
+Fm           Fm
+M-o bătut multele ploi,
+Fm        Bbm  Bbm
+Ferice-i, ferice,
+Bbm          Fm
+Da’ cine-i ferice?
+Fm        Bbm  Bbm
+Ferice-i, ferice,
+Bbm          Fm
+Da’ cine-i ferice?
+Fm          Fm
+De-un bouar bătrân...
 ```
 
 Notă: În original, cu un semiton mai sus. Măsura 4/4. Ritm:
@@ -26834,6 +26968,30 @@ G           G           D        G
 Și venim cu Domnul bun, flori de măr,
 G            G        D        G     G
 Că e sara de Crăciun, flori de măr.
+G     G    G    G
+Și la anul om zini,
+D          D     G     G
+Numai dacă ni-ți pofti
+G     G    G    G
+Și la anul om zini,
+D          D     G     G
+Numai dacă ni-ți pofti
+G            G        D        G
+Și mai multe vom ura, flori de măr,
+G             G         D        G     G
+Un pocuț dacă ni-ți da, flori de măr.
+G            G        D        G
+Și mai multe vom ura, flori de măr,
+G             G         D        G     G
+Un pocuț dacă ni-ți da, flori de măr.
+G                   G                          D
+Și colinda nu-i mai multă, și colinda nu-i mai multă
+                   G                         D
+Să trăiască cine-ascultă, să trăiască cine-ascultă
+G               G                   D
+Și colinda-i atâta, și colinda-i atâta
+                   G                      D
+Cine-ascultă să trăia, cine-ascultă să trăia.
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -27149,6 +27307,40 @@ A      A              A
 Întâmpinați de Domnul Sfânt
         E   E       A    A
 La Viflaim, la Viflaim
+A          A          A
+Păstori cu turme pământești
+        E           A    A
+La Viflaim, la Viflaim
+A        A       A
+Ne-arată căile cerești
+        E           A    A
+La Viflaim, la Viflaim
+A         A        A
+Noi cu grăbire alergăm
+        D           E    E
+La Viflaim, la Viflaim
+A         A         A
+Și maicii sale ne rugăm
+        E   E       A    A
+La Viflaim, la Viflaim
+A        A        A
+Să apere de orice rău
+        E           A    A
+La Viflaim, la Viflaim
+A        A             A
+Pământul tot prin fiul său
+        E           A    A
+La Viflaim, la Viflaim
+A        A             A
+În seara de Crăciun frumos
+        D           E    E
+La Viflaim, la Viflaim
+A           A            A
+S-a fost născut Isus Hristos
+        E   E       A    A
+La Viflaim, la Viflaim
+        E   E       A    A
+La Viflaim, la Viflaim
 ```
 
 ```tab
@@ -27244,6 +27436,38 @@ Holda n-am gătat
 Că s-o arătat
        B  Em   Em     Em
 Că s-o arătat
+        Em  Am
+Stea la răsărit
+        Em  B
+Stea la răsărit
+       Am   Em
+Mândră de argint
+       B    Em     Em     Em
+Mândră de argint.
+       Em    Am
+Steaua cum lucea
+       Em    B
+Steaua cum lucea
+      Am    Em
+Holda se pleca
+      B     Em   Em     Em
+Holda se pleca.
+      Em   Am
+Holda gălbioară
+      Em   B
+Holda gălbioară
+        Am   Em
+Cu spic de secară
+        B    Em     Em     Em
+Cu spic de secară.
+      Em    Am
+Holda lângă râu
+      Em    B
+Holda lângă râu
+        Am      Em
+Cu spic greu de grâu
+        B       Em    Em      Em
+Cu spic greu de grâu
 ```
 
 Notă: Măsura 3/4. Ciupitură:
@@ -27525,7 +27749,39 @@ C         F
 Îngerul venea
 G           F C
 Pe-o rază curată.)
+C              F   G
+Că la Vifleem, Maria,
+C             F   G
+Săvârșind călătoria,
+C           F
+În sărac lăcaș
+C          F
+Din acel oraș
+G          F   C
+S-a născut Mesia.
+C               F   G
+Pe fiul cel din vecie
+C                   F G
+Ce l-a trimis Tatăl mie
+C        F
+Să se nască
+C          F
+Și să crească,
+G          F  C
+Să ne mântuiască.
+C                F G
+E Iisus păstorul mare,
+C                  F  G
+Turmă ca el nimeni n-are.
+C         F
+Noi îl lăudăm,
+C           F
+Lui ne închinăm,
+G           F C
+Cu credință tare.
 ```
+
+Notă: Variantă simplă, pentru începători. Măsura 4/4. Acompaniament:
 
 ```tab
 E|-------------------------------0------------------|
@@ -27536,6 +27792,8 @@ A|---------3----------------------------------------|
 E|--------------------------------------------------|
            |          |          |         |
 ```
+
+Exemplificat pentru `C`.
 
 #### Ostașii luminii colindă (I)
 
@@ -27614,6 +27872,38 @@ C     Em     Am
 Dalbe și iar dalbe
 Dm   Em    Am   Am
 Florile de măr.
+Am         G
+Dincolo de munții
+Dm             Am
+Vieții și-ai himerei
+C               Em
+Le-am cules azi noapte
+Dm         Am
+Florile de măr
+Am              G
+Le-am cules din munții
+Dm          Am
+Unde veșnic merii
+C           Em
+Roditori de aur
+Dm           Am
+Sunt într-adevăr.
+Am         G
+Florile pe care
+Dm              Am
+Le-am cules azi noapte
+C           Em
+Vor rodi în brazda
+Dm         Am
+Sufletelor toate
+Am        G
+Merele de aur,
+Dm       Am
+Merele visate
+C         Em
+De colindătorii
+Dm         Am
+Veacurilor toate.
 ```
 
 ```tab
@@ -27691,6 +27981,42 @@ F                Bb   C
 Oi linu-i lin și rujmalin
 F               C       F
 Când văd cât de rea-i lumea.
+F             C   F
+Și văd puntea Raiului
+F                Bb   C
+Oi linu-i lin și rujmalin
+F         C   F
+Ca firuțu părului.
+F             C      F
+Și-acela-i crăpat în patru
+F                Bb   C
+Oi linu-i lin și rujmalin
+F            C    F
+Cele patru-n alte patru.
+F           C    F
+Cele opt în alte opt
+F                Bb   C
+Oi linu-i lin și rujmalin
+F           C    F
+Cele opt în alte opt.
+F           C       F
+Nime-n lume n-o pot trece
+F                Bb   C
+Oi linu-i lin și rujmalin
+F           C       F
+Nime-n lume n-o pot trece
+F            C    F
+Numai trei fete fecioare
+F                Bb   C
+Oi linu-i lin și rujmalin
+F            C    F
+Ele-or trece în picioare.
+F             C     F
+Că le-o fo credință mare
+F                Bb   C
+Oi linu-i lin și rujmalin
+F             C     F
+Că le-o fo credință mare
 ```
 
 ```tab
@@ -27749,6 +28075,38 @@ Bm           D
 Și tot cântă din colinde
 A          D          D   D
 Până gerul nu i-o prinde
+D           D
+Până vremea nu le-o trece
+G             D      A   A
+Pe poteci sub luna rece
+Bm           D
+Prin fuioare de ninsoare
+A           D         D   D
+Duc copii-n suflet soare
+D            D
+Să-l împartă cu iubire
+G             D      A   A
+Ca un leac de împlinire
+Bm          D
+De tot răul care-ngheață
+A            D         D   D
+Duc copiii-n cântec viață
+D            D
+Și-n cuvinte daruri sfinte
+G          D        A   A
+De la Dumnezeu-părinte
+Bm             D
+Toți le poartă să le-mpartă
+A              D            D   D
+De Crăciun din poartă-n poartă
+D            D
+De la poartă până-n casă
+G         D      A   A
+Dâre de lumină lasă
+Bm          D
+Să rămâna-n casă toate
+A            D        D   D
+La mulți ani cu sănătate!
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -27800,6 +28158,38 @@ E             E
 Fie-ți milă tânăr bun
    A             E
 Și nu ne lăsa pe drum
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E                  E
+Că afară-i frig și noapte
+   A                E
+Maica Sfântă nu mai poate
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E             E
+Tânărul fiind milos
+     A          E
+Le răspunse bucuros
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E             E
+Nu departe de imaș
+    A            E
+Are tata miei în grajd
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E                E
+Iosif și Maica s-au dus
+   A              E
+Și la grajde i-au ajuns
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
+E                 E
+Și l-au născut pe Iisus
+   A              E
+Și l-au născut pe Iisus
+E     A             B          E
+Iisus s-a născut în sara de Crăciun.
 E     A             B          E
 Iisus s-a născut în sara de Crăciun.
 ```
@@ -27981,6 +28371,39 @@ D    D     Em     Em
 În lăcașul lui Crăciun
 D       Bm       Em    Em
 Florile dalbe de măr.
+Em     Em     D      Em
+S-așteptăm pe Domnul sfânt
+D       D        Em    Em
+Florile dalbe de măr.
+Em    Em  D    Em
+Ca să vie pe Pământ
+D       Bm       Em    Em
+Florile dalbe de măr.
+D      D      Em  Em
+Că-i feciorul cerului
+D       D        Em    Em
+Florile dalbe de măr.
+D     D     Em   Em
+Și Domnul pământului
+D       Bm       Em    Em
+Florile dalbe de măr.
+D      D      Em  Em
+Că-i feciorul cerului
+D       D        Em    Em
+Florile dalbe de măr.
+D     D     Em   Em
+Și Domnul pământului
+D       Bm       Em    Em
+Florile dalbe de măr.
+D       Bm       Em    Em
+Florile dalbe de măr.
+D       Bm       Em    Em
+Florile dalbe de măr.
+D       Bm       Em    Em
+Florile dalbe de măr.
+D       Bm       Em    Em
+Florile dalbe de măr.
+fade out
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -28113,6 +28536,38 @@ Fm      Bbm    Fm     Bbm
 Și-am venit să ne-nchinăm
 Bbm    Fm       C  Fm
 Pe Hristos să-L lăudăm.
+Fm      Bbm      Fm Bbm
+Mergeți și-l mai căutați
+Bbm    Fm   Fm   C
+Prin cetate întrebați
+Fm     Bbm    Fm    Bbm
+De se-ntâmplă să-L aflați
+Bbm   Fm    C       Fm
+Lumii de știre să-i dați
+Fm    Bbm    Fm    Bbm
+Lumea să se-nchine Lui
+Bbm   Fm   Fm   C
+Ca la Fiul Domnului
+Fm    Bbm    Fm  Bbm
+Ca la Domnul cerului
+Bbm   Fm    C   Fm
+Și-mpăratul raiului
+Fm      Bbm    Fm  Bbm
+Și să-I puneți dinainte
+Bbm Fm   Fm    C
+Darurile cele sfinte
+Fm  Bbm    Fm   Bbm
+Aur smirnă și tămâie
+Bbm   Fm    C   Fm
+Ca la mare-mpărăție.
+Fm     Bbm   Fm     Bbm
+Și de-acum până-n vecie
+Bbm  Fm   Fm     C
+Mila Domnului să fie
+Fm   Bbm  Fm    Bbm
+Să fie precum a fost
+Bbm   Fm    C       Fm
+La nașterea lui Hristos.
 ```
 
 Notă: Măsura 3/4. Ciupitură:
@@ -28129,12 +28584,12 @@ E|-------------------------------------------|
 La intro și între strofe se face:
 
 ```tab
-E|----------------------------------0h------1----------------|
-B|---------------------1-------------------------------------|
-G|--------------1------------1-------------------------------|
-D|--------3--------------------------------------------------|
-A|--------------------------------------------------------3--|
-E|-----------------------------------------------------------|
+E|------------------------------------0h------1-----------------------------------1p------0---|
+B|----------------------1-------------------------------------------1-------------------------|
+G|---------------1-------------1-----------------------------0-------------0------------------|
+D|--------3-----------------------------------------------------------------------------------|
+A|----------------------------------------------------3---------------------------------------|
+E|--------------------------------------------------------------------------------------------|
 ```
 
 #### Trei păstori
@@ -28314,6 +28769,36 @@ F     C     F       Gm
 Vezi Iroade ce-ai făcut
 Dm     Gm     A     Dm
 Dacă-n Isus n-ai crezut.
+Dm   Dm       Dm  A
+Mare oaste-ai ridicat,
+F    C        F   Gm
+Mare oaste-ai ridicat
+Dm     Gm          A    Dm
+Mii de prunci mici ai tăiat.
+Dm     Dm       Dm     A
+Mii de prunci patrusprezece,
+F      C        F      Gm
+Mii de prunci patrusprezece
+Dm    Gm     A     Dm
+I-a tăiat cu sânge rece.
+Dm  Dm     Dm   A
+Pe Isus nu l-ai aflat,
+F   C      F    Gm
+Pe Isus nu l-ai aflat
+Dm    Gm        A  Dm
+Tatăl Sfânt l-o apărat
+Dm     Dm       Dm A
+Și l-o dus până-n Egipt,
+F      C        F  Gm
+Și l-o dus până-n Egipt
+Dm    Gm  A   Dm
+Până Irod a murit.
+Dm    Dm        Dm  A
+Și de-acum până-n vecie,
+F     C         C   Gm
+Și de-acum până-n vecie
+Dm   Gm   A      Dm
+Mila Domnului să fie.
 ```
 
 Notă: Între strofe se cântă `Dm` `Gm` `A` `Dm`. Măsura 4/4. Ciupitură:
@@ -29044,6 +29529,52 @@ So to honour Him
 Pa rup a pum pum
 A       D
 When we come
+D
+Baby Jesus
+   A         D
+Pa rup a pum pum
+A
+I am a poor boy too
+   A         D
+Pa rup a pum pum
+A         D
+I have no gifts to bring
+G  D         A
+Pa rup a pum pum
+       D
+That’s fit to give our King
+G  D         G
+Pa rup a pum pum
+          D              A
+Rup a pum pum, rup a pum pum
+D
+Shall I play for you
+Pa rup a pum pum
+A     D
+On my drum?
+D
+Mary nodded
+   A         D
+Pa rup a pum pum
+A
+The ox and lamb kept time
+   A         D
+Pa rup a pum pum
+            D
+I played my best for Him
+G  D         G
+Pa rup a pum pum
+          D              A
+Rup a pum pum, rup a pum pum
+D
+Then He smiled at me
+Pa rup a pum pum
+A         D
+Me and my drum
+A         D
+Me and my drum
+A         D
+Rup a pum pum.
 ```
 
 Notă: Măsura 4/4. Ritm:
@@ -29526,6 +30057,46 @@ C            G
 Clănțăne și-nghit rebuturi
 G              G
 Ding ding ding ding ding ding
+G            D
+Iar părinții se îmbată
+C              G
+Sorb cu zgomot din pocale
+G         D
+Sfâșie cu dinții lacomi
+C          G
+Bucăți din foste animale
+G              D
+Și se simt mai buni și veseli
+C           G
+Pentru că e sărbătoare
+G         D
+Fericirea lor depinde
+C                   G
+Ding ding ding doar de mâncare
+G              G
+Ding ding ding ding ding ding
+G
+Ding ding ding
+G             D
+Moș Crăciun c-un sac de daruri
+C            G
+Trecea-ngândurat pe afară
+G         D
+O familie de sărmani
+C            G
+L-a răpit și îl prepară
+G           D
+Iar acum cu bucurie
+C           G
+Vă anunț: lumea-i mai bună
+G              D
+Suntem toți în farfurie
+C                   G
+Ding ding ding ding poftă bună!
+C                   G
+Ding ding ding ding poftă bună!
+C                   G
+Ding ding ding ding poftă bună!
 ```
 
 ```tab
@@ -29573,6 +30144,38 @@ Dm  Am     G       C
 Fie timpul rău sau bun,
 Dm      Am        E      Am
 Va veni și la noi Moș Crăciun
+Am                 Dm
+Măcar să lăsăm o nădejde
+E                  Am
+Sărmanilor nostrii copii,
+G                   C
+Când mântuitorul se naște
+G             C        E
+Ne naștem noi orice-ar fi.
+Dm                       Am
+De-ar fi să plătim și în rate
+G                   C
+Venirea lui printre noi,
+Dm                    Am
+De-am vinde și ultima pâine
+F                    E
+Și tot nu l-am da înapoi.
+Am                Dm
+Sălbatici și fără iubire
+E                      Am
+Ne-am stinge în timpul nebun,
+G                 C
+Așa că în vremuri păgâne
+C                    C     E
+Rămâne cu noi Moș Crăciun.
+Dm                   Am
+E vremea iertării și păcii
+G                     C
+Se naște un prunc neînfrânt,
+Dm                        Am
+Și-o scară de lacrimi se-ntinde
+F                 E
+Acum între cer și pământ.
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -29869,6 +30472,34 @@ F
 Stau mâhnit ca un gonit de rele
 Dm
 Reîntors la vechiul lui cămin
+C
+Cușma mi-o frământ fără cuvinte
+Dm
+Sufletul prin gânduri mi-l deșir
+F
+De bunicii mei mi-aduc aminte
+Dm
+Și de-nzapezitul cimitir
+C
+Toți vom fi acolo...poți să semeni
+Dm
+Viața ta cu râs și cu tumult
+F
+Pentru asta trag așa spre oameni
+Dm
+Și-i iubesc pe toți atât de mult
+C                      F
+Pentru asta inima mi-i moartă
+Dm                        G
+Când privesc al anilor prăpăd
+F                         C
+Vechea casă c-un dulău la poartă
+Dm                         G
+Parcă știu că n-am s-o mai revăd
+F                         C
+Vechea casă c-un dulău la poartă
+F             G              C
+Parcă știu că n-am s-o mai revăd
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -30032,6 +30663,32 @@ Dm                   E
 Findca nu știu ce-am greșit.
 Am     Am Em
 Noapte bună.
+Intro
+Strofa 1
+Strofa 2
+Am                  Em
+Nu-ți pot spune-n cuvinte
+Am            G
+Gândul meu de copil cuminte
+C                      Dm
+Părăsit, uitat într-un ungher
+Dm                     Em
+Trist, între pământ și cer
+Refren 2
+C                  Dm
+Genele-mi se-nchid lacrimi strivind
+Dm             E
+În ecouri de colind.
+Am              Em
+Poate-n anul ce vine
+Am                  G
+N-ai să uiți ca și-acum de mine
+C                          Dm
+Și-ai să vii așa darnic și bun
+Dm                      Em
+Cum te știm toți Moș Crăciun.
+Em     Am
+Moș Crăciun.
 ```
 
 Notă: Măsura 4/4. Ciupitură:
@@ -31028,6 +31685,58 @@ Em      A      D       Bm
 Must be Santa, must be Santa
 Em      A            D
 Must be Santa, Santa Claus
+D                  A
+Who very soon will come our way
+A                    D
+Santa very soon will come our way
+D                     A
+Eight little reindeer pull his sleigh
+A                       D
+Santa’s little reindeer pull his sleigh
+D
+Reindeer sleigh, come our way
+D
+HO HO HO, cherry nose
+D
+Cap on head, suit that’s red
+D
+Special night, beard that’s white
+Em      A      D       Bm
+Must be Santa, must be Santa
+Em      A            D
+Must be Santa, Santa Claus
+D               A
+Dasher, Dancer, Prancer, Vixen,
+A             D
+Comet, Cupid, Donner and Blitzen
+D               A
+Dasher, Dancer, Prancer, Vixen,
+A             D
+Comet, Cupid, Donner and Blitzen
+D
+Reindeer sleigh, come our way
+D
+HO HO HO, cherry nose
+D
+Cap on head, suit that’s red
+D
+Special night, beard that’s white
+Em      A      D       Bm
+Must be Santa, must be Santa
+Em      A            D
+Must be Santa, Santa Claus
+```
+
+Notă: Ca bătaie se poate folosi modelul:
+
+```tab
+E|---------------2---2-----------2---2--|
+B|---------------3---3-----------3---3--|
+G|--------2------2---2----2------2---2--|
+D|--------0------0---0----0------0---0--|
+A|--------0---------------0-------------|
+E|--------------------------------------|
+          |      |___|    |      |___|
 ```
 
 #### O Christmas Tree
@@ -31070,6 +31779,36 @@ Gleaming in the Christmas night.
 D                 A D
 O Christmas tree, O Christmas tree,
 Of all the trees most lovely.
+D                 A  D
+O Christmas tree, O  Christmas tree,
+     Em                A    D
+Your leaves will teach me also,
+D                 A  D
+O Christmas tree, O  Christmas tree,
+     Em     B    Em    A    D
+Your leaves will teach me also,
+          G            A
+That hope and love and faithfulness
+                    D
+Are precious things I can possess.
+D                 A  D
+O Christmas tree, O  Christmas tree,
+Your leaves will teach me also.
+D                 A  D
+O Christmas tree, O  Christmas tree,
+    Em         A        D
+How lovely are your branches.
+D                 A  D
+O Christmas tree, O  Christmas tree,
+    Em  B   Em  A        D
+How lovely  are your branches.
+          G             A
+In summer sun or winter snow
+                    D
+A coat of green you always show.
+D                 A  D
+O Christmas tree, O  Christmas tree,
+How lovely are your branches.
 ```
 
 Dacă trecerea `Em`–`B7`–`Em` pare prea complicată, se poate înlocui cu `Em`.
@@ -31388,9 +32127,9 @@ Exemplificată pentru `G`. `Cm` e opțional și se potrivește mai bine la varia
 
 muzica/versuri: Lewie Jona/Lewie Jona · Sursa: Colinde Karban, p. 68
 
-**Chitară:** D xx0232 · A x02220
+**Chitară:** D xx0232 · A x02220 · C x32010 · G 320003
 
-**Ukulele:** D 2220 · A 2100
+**Ukulele:** D 2220 · A 2100 · C 0003 · G 0232
 
 ```text
 D                  A
@@ -31421,6 +32160,40 @@ A                D
 Wish I could be dancing now
 A                   D
 in the arms of the girl I love
+Refren:
+A
+Dub a dub a dum dum, dub a dub a dum
+      D
+Dub a dum dum dub a dub, dub a dub a dum
+A
+Dub a dub a dum dum, dub a dub a dum
+      D
+Dub a dum dum dub a dub, dub a dub a dum
+C                      G          D
+Wish I was at home for Christmas
+D                         A
+Bang! That’s another bomb on another town
+D               A
+While Luzar and Jim have tea
+D              A
+If I get home, live to tell the tale
+D                A
+I’ll run for all presidencies
+   D             A
+If I get elected I’ll stop
+D               A     D
+I will stop the cavalry
+Refren
+A               D
+Wish I could be dancing now
+       A           D
+in the arms of the girl I love
+A            D
+Mary Bradley waits at home
+A                    D
+She has been waiting 2 years long
+C                      G          D
+Wish I was at home for Christmas
 ```
 
 Notă: Măsura 4/4. Brushing:
