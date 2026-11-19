@@ -28158,35 +28158,35 @@ Exemplificată pentru primul vers. În original, capo în poziția 1.
 Intro: `F` `Bb` `F` `C` `F`
 
 ```text
-[F]Sus sus sus pe lângă [Bb]lună
-Sus sus [F]sus pe lângă [C]lună
-Mândru [Bb]arde o lu[F]mină
-Mândru [C]arde o lu[F]mină.
+[F]  Sus sus ^sus pă ^  lângă [Bb]lună
+[Bb]  Sus sus [F]sus pă ^  lângă [C]lună
+[C]  Mândru [Bb]arde ^  o lu[F]mină
+[F]  Mândru [C]arde ^  o lu[F]mină
 
-[F]Nici aceea nu-i lu[Bb]mină
-Nici a[F]ceea nu-i lu[C]mină
-Că-i un [Bb]scaun de [F]odihnă
-Că-i un [C]scaun de [F]odihnă.
+[F]  Nici a^ceea  ^  nu-i lu[Bb]mină
+[Bb]  Nici a[F]ceea  ^  nu-i lu[C]mină
+[C]  Că-i un [Bb]scaun  ^  de ho[F]dină
+[F]  Că-i un [C]scaun   ^  de ho[F]dină.
 
-[F]Da pe scaun cine [Bb]șede
-Da pe [F]scaun cine [C]șede
-Șede [Bb]Maica Preacu[F]rată
-C-un fi[C]uț micuț în [F]brațe.
+[F]  Da pe ^scaun  ^  cine [Bb]șede
+[Bb]  Da pe [F]scaun  ^  cine [C]șede
+[C]  Șede [Bb]Maica  ^  Precu[F]rată
+[F]  C-un fi[C]uț mi^cuț în [F]brață.
 
-[F]Fiul zbiară și nu [Bb]tace
-Fiul [F]zbiară și nu [C]tace
-Măicu[Bb]ța n-are ce-i [F]face
-Măicu[C]ța n-are ce-i [F]face.
+[F]  Fiul ^zbiară  ^  și nu [Bb]tace
+[Bb]  Fiul [F]zbiară  ^  și nu [C]tace
+[C]  Măicu[Bb]ța n-a^re ce-i [F]face
+[F]  Măicu[C]ța n-a^re ce-i [F]face.
 
-[F]Taci fiule nu zbie[Bb]ra
-Taci [F]fiule nu zbie[C]ra
-Că ma[Bb]ma ție ți-o [F]da
-Că ma[C]ma ție ți-o [F]da.
+[F]  Taci Fi^ule  ^  nu zbie[Bb]ra
+[Bb]  Taci [F]Fiule  ^  nu zbie[C]ra
+[C]  Că ma[Bb]ma ți^e ți-a [F]da
+[F]  Că ma[C]ma ți^e ți-a [F]da.
 
-[F]Două mere, două [Bb]pere
-Două [F]mere, două [C]pere
-Să te [Bb]joci în Rai cu [F]ele
-Să te [C]joci în Rai cu [F]ele.
+[F]  Două ^mere,  ^  două [Bb]pere
+[Bb]  Două [F]mere,  ^  două [C]pere
+[C]  Să te [Bb]joci în  ^  Rai cu [F]ele
+[F]  Să te [C]joci în  ^  Rai cu [F]ele.
 ```
 
 Notă: Măsura 4/4. Ciupitură:
