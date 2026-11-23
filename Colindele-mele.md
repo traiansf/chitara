@@ -24,3 +24,5 @@
 - Seara serilor [Dm]
 - Sus boieri nu mai dormiți [Dm]
 - Sus sus sus pe lângă lună [C]
+- Trei crai [Dm]
+- Trei păstori [C]

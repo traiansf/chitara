@@ -28206,76 +28206,52 @@ E|--------1-----------------------------------------------|
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 46
 
-**Chitară:** Fm 133111 · Bbm x13321 · C x32010
+**Chitară:** Fm 133111 · C x32010 · Bbm x13321
 
-**Ukulele:** Fm 1013 · Bbm 3111 · C 0003
+**Ukulele:** Fm 1013 · C 0003 · Bbm 3111
+
+Intro: `Fm` `Fm` `C` `C`
 
 ```text
-Intro Fm Fm C C
-Fm        Bbm   Fm  Bbm
-Trei crai de la răsărit
-Bbm    Fm      Fm  C
-Cu steaua-au călătorit
-Fm         Bbm  Fm    Bbm
-Și-au mers după cum citim
-Bbm  Fm   C   Fm
-Până la Ierusalim.
-Fm    Bbm    Fm  Bbm
-Și-acolo dac-au ajuns
-Bbm    Fm       Fm  C
-Steaua lor li s-a ascuns,
-Fm    Bbm    Fm Bbm
-Și-ncepură a căuta
-Bbm   Fm   C      Fm
-Pe la case-a întreba.
-Fm      Bbm    Fm     Bbm
-N-ați văzut și n-ați aflat
-Bbm  Fm      Fm  C
-Unde pruncul împărat
-Fm   Bbm   Fm   Bbm
-Păstorul noroadelor
-Bbm   Fm    C    Fm
-Și stăpânul roadelor.
-Fm   Bbm    Fm     Bbm
-Care astăzi s-a născut
-Bbm    Fm       Fm   C
-Că noi steaua i-am văzut
-Fm      Bbm    Fm     Bbm
-Și-am venit să ne-nchinăm
-Bbm    Fm       C  Fm
-Pe Hristos să-L lăudăm.
-Fm      Bbm      Fm Bbm
-Mergeți și-l mai căutați
-Bbm    Fm   Fm   C
-Prin cetate întrebați
-Fm     Bbm    Fm    Bbm
-De se-ntâmplă să-L aflați
-Bbm   Fm    C       Fm
-Lumii de știre să-i dați
-Fm    Bbm    Fm    Bbm
-Lumea să se-nchine Lui
-Bbm   Fm   Fm   C
-Ca la Fiul Domnului
-Fm    Bbm    Fm  Bbm
-Ca la Domnul cerului
-Bbm   Fm    C   Fm
-Și-mpăratul raiului
-Fm      Bbm    Fm  Bbm
-Și să-I puneți dinainte
-Bbm Fm   Fm    C
-Darurile cele sfinte
-Fm  Bbm    Fm   Bbm
-Aur smirnă și tămâie
-Bbm   Fm    C   Fm
-Ca la mare-mpărăție.
-Fm     Bbm   Fm     Bbm
-Și de-acum până-n vecie
-Bbm  Fm   Fm     C
-Mila Domnului să fie
-Fm   Bbm  Fm    Bbm
-Să fie precum a fost
-Bbm   Fm    C       Fm
-La nașterea lui Hristos.
+[Fm]Trei crai [Bbm]de la [Fm]răsă[Bbm]rit
+[Bbm]Cu stea[Fm]ua-au că^lăto[C]rit
+[Fm]Și-au mers [Bbm]după [Fm]cum ci[Bbm]tim
+[Bbm]Până [Fm]la Ie[C]rusa[Fm]lim.
+
+[Fm]Și-aco[Bbm]lo da[Fm]c-au a[Bbm]juns
+[Bbm]Steaua [Fm]lor li ^s-a as[C]cuns,
+[Fm]Și-nce[Bbm]pură a [Fm]cău[Bbm]ta
+[Bbm]Pe la [Fm]case-a [C]între[Fm]ba.
+
+[Fm]N-ați vă[Bbm]zut și [Fm]n-ați a[Bbm]flat
+[Bbm]Unde [Fm]pruncul ^împă[C]rat
+[Fm]Păsto[Bbm]rul no[Fm]roade[Bbm]lor
+[Bbm]Și stă[Fm]pânul [C]roade[Fm]lor.
+
+[Fm]Care [Bbm]astăzi [Fm]s-a năs[Bbm]cut
+[Bbm]Că noi [Fm]steaua ^i-am vă[C]zut
+[Fm]Și-am ve[Bbm]nit să [Fm]ne-nchi[Bbm]năm
+[Bbm]Pe Hris[Fm]tos să-L [C]lău[Fm]dăm.
+
+[Fm]Mergeți [Bbm]și-l mai [Fm]cău[Bbm]tați
+[Bbm]Prin ce[Fm]tate ^între[C]bați
+[Fm]De se-n[Bbm]tâmplă [Fm]să-L a[Bbm]flați
+[Bbm]Lumii [Fm]de ști[C]re să-i [Fm]dați
+
+[Fm]Lumea [Bbm]să se-n[Fm]chine [Bbm]Lui
+[Bbm]Ca la [Fm]Fiul ^Domnu[C]lui
+[Fm]Ca la [Bbm]Domnul [Fm]ceru[Bbm]lui
+[Bbm]Și-mpă[Fm]ratul [C]raiu[Fm]lui
+
+[Fm]Și să-I [Bbm]puneți [Fm]dina[Bbm]inte
+[Bbm]Daru[Fm]rile ^cele [C]sfinte
+[Fm]Aur [Bbm]smirnă [Fm]și tă[Bbm]mâie
+[Bbm]Ca la [Fm]mare-m[C]pără[Fm]ție.
+
+[Fm]Și de-a[Bbm]cum pâ[Fm]nă-n ve[Bbm]cie
+[Bbm]Mila [Fm]Domnu^lui să [C]fie
+[Fm]Să fi[Bbm]e pre[Fm]cum a [Bbm]fost
+[Bbm]La naș[Fm]terea [C]lui Hris[Fm]tos.
 ```
 
 Notă: Măsura 3/4. Ciupitură:
@@ -28309,46 +28285,30 @@ E|------------------------------------------------------------------------------
 **Ukulele:** C 0003 · G 0232
 
 ```text
-C
-Trei păstori se întâlniră,
-        G            C
-Trei păstori se întâlniră,
-     G                 C
-Raza soarelui, floarea soarelui
-    G          C
-Și asă se sfătuiră.
-C
-Haideți fraților, să mergem,
-        G               C
-Haideți fraților, să mergem
-     G                 C
-Raza soarelui, floarea soarelui
-     G           C
-Floricele să culegem.
-C
-Și să facem o cunună,
-      G         C
-Și să facem o cunună
-     G                 C
-Raza soarelui, floarea soarelui
-        G           C
-S-o-mpletim cu voie bună.
-C
-Și s-o ducem lui Hristos,
-       G             C
-Și s-o ducem lui Hristos
-     G                 C
-Raza soarelui, floarea soarelui
-      G        C
-Să ne fie de folos.
-C
-Nouă și la neamul nost’
-     G            C
-Nouă și la neamul nost’
-     G                 C
-Raza soarelui, floarea soarelui
-      G             C
-De nașterea lui Cristos.
+[C]  Trei păs^tori se ^întâlniră,
+[G]Trei păstori ^se întâl[C]niră,
+/[C]  Raza [G]soare^lui, floarea [C]soare^lui
+Și a[G]șa se ^sfătui[C]ră./ x2
+
+[C]  Haideți ^frați^lor, să mergem,
+[G]Haideți fra^ților, să [C]mergem
+/[C]  Raza [G]soare^lui, floarea [C]soare^lui
+Flori[G]cele ^să cule[C]gem./ x2
+
+[C]  Și să ^facem ^o cunună,
+[G]Și să fa^cem o cu[C]nună
+/[C]  Raza [G]soare^lui, floarea [C]soare^lui
+S-o-mple[G]tim cu ^voie bu[C]nă./ x2
+
+[C]  Și s-o ^ducem ^lui Hristos,
+[G]Și s-o du^cem lui Hris[C]tos
+/[C]  Raza [G]soare^lui, floarea [C]soare^lui
+Să ne [G]fie ^de folo[C]os./ x2
+
+[C]  Nouă ^și la ^neamul nost’
+[G]Nouă și ^la neamul [C]nost’
+/[C]  Raza [G]soare^lui, floarea [C]soare^lui
+De naș[G]terea ^lui Cristo[C]os./ x2
 ```
 
 Notă: Măsura 4/4. Ciupitură cu bass alternativ:
