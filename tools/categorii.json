@@ -343,6 +343,10 @@
   "motiv": "folk",
   "sectiune": "II.1"
  },
+ "Cel făr' de-nceput || [Marius Andrei Dorneanu](https://www.youtube.com/watch?v=wOlemVlFxmE)": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
+ },
  "Cerbul || Caiet Christian Adventure, p. 45": {
   "motiv": "baladă din codru",
   "sectiune": "I.1"
@@ -447,11 +451,11 @@
   "motiv": "dragoste",
   "sectiune": "II.1"
  },
- "Corindăm, corindăm (I) || Colinde Karban, p. 14": {
+ "Seara de Crăciun || Colinde Karban, p. 14": {
   "motiv": "colind / cântec de iarnă",
   "sectiune": "IV.1"
  },
- "Corindăm, corindăm (II) || Colinde Karban, p. 50": {
+ "Zoriori de ziuă || Colinde Karban, p. 50": {
   "motiv": "colind / cântec de iarnă",
   "sectiune": "IV.1"
  },
@@ -690,6 +694,10 @@
  "Don't Think Twice, It's Alright || Caiet cabană EN, p. 28": {
   "motiv": "repertoriu internațional",
   "sectiune": "III"
+ },
+ "Domn Domn să-nălțăm || Colinde Ascor": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
  },
  "Dona, dona (I) || Caiet cabană RO, p. 145": {
   "motiv": "adaptare, baladă",
@@ -1171,6 +1179,10 @@
   "motiv": "urare aniversară",
   "sectiune": "I.4"
  },
+ "La poartă la Ștefan-Vodă || Colinde Ascor": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
+ },
  "La Viflaim, la Viflaim || Colinde Karban, p. 36": {
   "motiv": "colind / cântec de iarnă",
   "sectiune": "IV.1"
@@ -1318,6 +1330,10 @@
  "Mama, mama || Cărticica Karban, p. 124": {
   "motiv": "Phoenix",
   "sectiune": "II.2"
+ },
+ "Mare iarnă o picatu || Colinde Ascor": {
+  "motiv": "colind / cântec de iarnă",
+  "sectiune": "IV.1"
  },
  "Marea || Caiet cabană RO, p. 153": {
   "motiv": "folk, marea",
@@ -2491,7 +2507,7 @@
   "motiv": "colind / cântec de iarnă",
   "sectiune": "IV.3"
  },
- "Zăurel de zăurel || Colinde Karban, p. 49": {
+ "Ziurel de ziurel || Colinde Karban, p. 49": {
   "motiv": "colind / cântec de iarnă",
   "sectiune": "IV.1"
  },
