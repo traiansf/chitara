@@ -39,9 +39,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (92 cântece)
 
-**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (112 cântece)
+**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (116 cântece)
 
-- [IV.1 — Colinde românești](#iv1--colinde-românești) (52 cântece)
+- [IV.1 — Colinde românești](#iv1--colinde-românești) (56 cântece)
 - [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (11 cântece)
 - [IV.3 — Cântece de iarnă românești](#iv3--cântece-de-iarnă-românești) (22 cântece)
 - [IV.4 — Cântece de iarnă internaționale](#iv4--cântece-de-iarnă-internaționale) (27 cântece)
@@ -637,6 +637,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Deschide ușa, creștine](#deschide-ușa-creștine)
 - [Domn Domn să-nălțăm](#domn-domn-să-nălțăm)
 - [Drumul magilor](#drumul-magilor)
+- [Dumnezeu Preasfântul](#dumnezeu-preasfântul)
 - [Ferice-i ferice](#ferice-i-ferice)
 - [Flori de măr](#flori-de-măr)
 - [Florile dalbe](#florile-dalbe)
@@ -651,6 +652,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Măruț mărgăritar](#măruț-mărgăritar)
 - [Noapte de vis](#noapte-de-vis)
 - [Noapte sfântă](#noapte-sfântă)
+- [Noi în seara de Crăciun](#noi-în-seara-de-crăciun)
+- [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit)
 - [O, brad frumos!](#o-brad-frumos)
 - [O, ce veste minunată! (I)](#o-ce-veste-minunată-i)
 - [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii)
@@ -667,6 +670,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Trei crai](#trei-crai)
 - [Trei păstori](#trei-păstori)
 - [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit)
+- [Veniți cu toții](#veniți-cu-toții)
 - [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem)
 - [Vine marea](#vine-marea)
 - [Ziurel de ziurel](#ziurel-de-ziurel)
@@ -26706,6 +26710,36 @@ E|---------------------------------------------------|
           |         | _ _ |     | _ _ |     | _ _ |
 ```
 
+#### Dumnezeu Preasfântul
+
+**colind bizantin** · Sursa: [Marius Andrei Dorneanu](https://www.youtube.com/watch?v=EDDmAD7Yvtg)
+
+**Chitară:** Am x02210 · G 320003 · C x32010 · Dm xx0231
+
+**Ukulele:** Am 2000 · G 0232 · C 0003 · Dm 2210
+
+```text
+[Am]Dumne^zeu Prea^sfântul  ^
+[G]Colin^dând pă[Am]mântul  ^
+A [C]vrut să [Dm]nu mai [Am]fie  ^
+[G]Potop ^și ur[Am]gie.  ^
+
+[Am]El fă^cu lu^mină  ^
+[G]Blândă ^și se[Am]nină  ^
+Și [C]își tri[Dm]mise [Am]Fiul  ^
+[G]S-alun^ge pus[Am]tiul.  ^
+
+[Am]Fiul ^se-ntru^pează  ^
+[G]Lumea ^lumi[Am]nează  ^
+[C]Fecioa[Dm]ra Ma[Am]ria  ^
+[G]Naște ^pe Me[Am]sia.  ^
+
+[Am]Dumne^zeu Prea ^Bunul  ^
+[G]Ne-a tri^mis Cră[Am]ciunul ^
+Cu [C]har și [Dm]bucu[Am]rie  ^
+[G]Și a^ici să [Am]fie.  ^
+```
+
 #### Ferice-i ferice
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 31
@@ -27560,6 +27594,67 @@ E|--------3------------------3---------------|
 [F]Pe Me^sia cel [C]mult aștep^tat.
 /[G]Heru[G7]vimi cântă [C]lui I[Am]sus:
 [C]"Mărire-n[G]tru cele de [C]sus!"  ^  / x2
+```
+
+#### Noi în seara de Crăciun
+
+**tradițional**
+
+**Chitară:** Am x02210 · E 022100 · C x32010 · G 320003 · Dm xx0231
+
+**Ukulele:** Am 2000 · E 4442 · C 0003 · G 0232 · Dm 2210
+
+```text
+[Am]  Noi în ^seara [E]de Cră[Am]ciun
+[Am]  Noi în ^seara [C]de Cră[G]ciun
+[Dm]Lăudăm ^pe [Am]Cel Prea^bun
+[C]Bun ești, [G]Doamne, [Am]bun.  ^
+
+[Am]  Colin^dăm co[E]lind du[Am]ios
+[Am]  Colin^dăm co[C]lind du[G]ios
+[Dm]Domnu^lui Ii[Am]sus Hris^tos.
+[C]Bun ești, [G]Doamne, [Am]bun.  ^
+
+[Am]  Noi um^blăm să [E]împli[Am]nim
+[Am]  Noi umb^lăm să [C]împli[G]nim
+[Dm]Obi^ceiul [Am]din bă^trâni.
+[C]Bun ești, [G]Doamne, [Am]bun.  ^
+
+[Am]  Obi^cei de [E]colin[Am]dat,
+[Am]  Obi^cei de [C]colin[Am]dat,
+[Dm]Pe la ^case [Am]de u^rat.
+[C]Bun ești, [G]Doamne, [Am]bun.  ^
+[C]Bun ești, [G]Doamne, [Am]bun.  ^
+```
+
+#### Nouă azi ne-a răsărit
+
+**tradițional** · Sursa: Colinde Ascor
+
+**Chitară:** A x02220 · D xx0232 · G 320003
+
+**Ukulele:** A 2100 · D 2220 · G 0232
+
+```text
+[A]  Nouă [D]azi ne-a [G]răsă[D]rit  ^
+[D]Domnul Ii[G]sus Hris[A]tos
+[A]  Mesi[D]a cel [G]mult do[D]rit  ^
+[D]Domnul Ii[A]sus Hris[D]tos
+
+[A]  Din fe[D]cioară [G]s-a năs[D]cut  ^
+[D]Domnul Ii[G]sus Hris[A]tos
+[A]  Și cu [D]lapte [G]s-a cres[D]cut  ^
+[D]Domnul Ii[A]sus Hris[D]tos
+
+[A]  Cu scu[D]tece [G]s-a-nfă[D]șat  ^
+[D]Domnul Ii[G]sus Hris[A]tos
+[A]  Și în [D]brațe [G]s-a pur[D]tat  ^
+[D]Domnul Ii[A]sus Hris[D]tos
+
+[A]  Cum e [D]robul [G]s-a sme[D]rit  ^
+[D]Domnul Ii[G]sus Hris[A]tos
+[A]  Și pe [D]noi ne-a [G]mântu[D]it  ^
+[D]Domnul Ii[A]sus Hris[D]tos
 ```
 
 #### O, brad frumos!
@@ -28493,6 +28588,41 @@ D|-------------------0--------------------0---|
 A|--------------------------------------------|
 E|--------------------------------------------|
           |          |         |          |
+```
+
+#### Veniți cu toții
+
+**colind bizantin** · Sursa: [Marius-Andrei Dorneanu](https://www.youtube.com/watch?v=0pwGv9L9WRU)
+
+**Chitară:** Am x02210 · C x32010 · G 320003 · Dm xx0231 · E 022100
+
+**Ukulele:** Am 2000 · C 0003 · G 0232 · Dm 2210 · E 4442
+
+```text
+[Am]Veniți cu ^toții [C]dimpreu[G]nă
+[Dm]Să ne fa[Am]cem [E]voie bu[Am]nă
+/[Dm]Să ne bucu[G]răm de Dom[C]nul
+[Am]Și să stri[G]găm [E]cu tot o[Am]mul./ x2
+
+[Am]Că ne e ^Domn și [C]mântuin[G]ță
+[Dm]Și să stri[Am]găm [E]cu credin[Am]ță
+/[Dm]Lui din hota[G]rele toa[C]te
+[Am]I se închi[G]nă [E]țări și gloa[Am]te./ x2
+
+[Am]Că marea ^cu va[C]luri înal[G]te
+[Dm]De-a Lui [Am]mână [E]sunt lucra[Am]te
+/[Dm]De El sunt fă[G]cuți și mun[C]ții
+[Am]Și brazii [G]mari și [E]mărun[Am]ții./ x2
+
+[Am]El a ^făcut [C]tot pămân[G]tul
+[Dm]Singur nu[Am]mai [E]cu Cuvân[Am]tul
+/[Dm]Și nouă ne [G]este Dom[C]nul.
+[Am]Împărat [G]pes[E]te tot o[Am]mul./ x2
+
+[Am]Iar câți ^în El [C]nu crezu[G]ră
+[Dm]Ispi[Am]tiră [E]și văzu[Am]ră
+/[Dm]Părăsiți de [G]Domnul fu[C]ră
+[Am]Căzând în [G]dreap[E]ta Lui [Am]mână./ x2
 ```
 
 #### Veniți păstori în Viflaiem
@@ -32342,7 +32472,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Cătălin Crișan** — [Dacă pleci](#dacă-pleci)
 - **CCR** — [Have You Ever Seen the Rain](#have-you-ever-seen-the-rain), [Proud Mary](#proud-mary)
 - **Celelalte Cuvinte** — [Dacă vrei](#dacă-vrei)
-- **colind bizantin** — [Cel făr' de-nceput](#cel-făr-de-nceput)
+- **colind bizantin** — [Cel făr' de-nceput](#cel-făr-de-nceput), [Dumnezeu Preasfântul](#dumnezeu-preasfântul), [Veniți cu toții](#veniți-cu-toții)
 - **Compact** — [Cântec pentru prieteni](#cântec-pentru-prieteni), [Fata din vis](#fata-din-vis), [Îmi pare rău](#îmi-pare-rău), [Singur în noapte](#singur-în-noapte), [Un alt început](#un-alt-început)
 - **Conexiuni** — [Mai rămâi puțin](#mai-rămâi-puțin), [Tu](#tu)
 - **Contrapunct** — [Pat de flori](#pat-de-flori)
@@ -32475,7 +32605,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Timpuri Noi** — [Mistrețul galben](#mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#munții-mei)
 - **Tradițional** — [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă](#noapte-sfântă), [O, brad frumos!](#o-brad-frumos)
-- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Moș Crăciun (I)](#moș-crăciun-i)
+- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Moș Crăciun (I)](#moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#suzana)
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
