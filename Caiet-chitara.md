@@ -39,9 +39,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (92 cântece)
 
-**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (117 cântece)
+**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (121 cântece)
 
-- [IV.1 — Colinde românești](#iv1--colinde-românești) (57 cântece)
+- [IV.1 — Colinde românești](#iv1--colinde-românești) (61 cântece)
 - [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (11 cântece)
 - [IV.3 — Cântece de iarnă românești](#iv3--cântece-de-iarnă-românești) (22 cântece)
 - [IV.4 — Cântece de iarnă internaționale](#iv4--cântece-de-iarnă-internaționale) (27 cântece)
@@ -635,6 +635,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Dalbu-i dealu](#dalbu-i-dealu)
 - [Deschide nană ușile](#deschide-nană-ușile)
 - [Deschide ușa, creștine](#deschide-ușa-creștine)
+- [Doi boieri bătrâniu](#doi-boieri-bătrâniu)
 - [Domn Domn să-nălțăm](#domn-domn-să-nălțăm)
 - [Drumul magilor](#drumul-magilor)
 - [Dumnezeu Preasfântul](#dumnezeu-preasfântul)
@@ -642,7 +643,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Flori de măr](#flori-de-măr)
 - [Florile dalbe](#florile-dalbe)
 - [Iarăși flori dalbe](#iarăși-flori-dalbe)
+- [Jos în Țara Românească](#jos-în-țara-românească)
 - [Junelu-i tinerelu](#junelu-i-tinerelu)
+- [La Betleem colo-n jos](#la-betleem-colo-n-jos)
 - [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua)
 - [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă)
 - [La tătă casa-i lumină](#la-tătă-casa-i-lumină)
@@ -671,6 +674,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Trei crai](#trei-crai)
 - [Trei păstori](#trei-păstori)
 - [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit)
+- [Velerim și Veler, Doamne](#velerim-și-veler-doamne)
 - [Veniți cu toții](#veniți-cu-toții)
 - [Veniți păstori în Viflaiem](#veniți-păstori-în-viflaiem)
 - [Vine marea](#vine-marea)
@@ -26605,6 +26609,56 @@ E|--------3-----3-----3-----3---|
 
 Semnele “ ” = lovire de sus în jos; bătăile de jos în sus se accentuează.
 
+#### Doi boieri bătrâniu
+
+**tradițional** · Sursa: Colinde Ascor
+
+**Chitară:** Em 022000 · D xx0232 · G 320003 · C x32010
+
+**Ukulele:** Em 0432 · D 2220 · G 0232 · C 0003
+
+```text
+[Em]Doi boieri bă[D]trâniu
+[G]Doi boieri bă[D]trâniu
+[C]Pe cum s-o ru[D]gatu
+[C]Pe cum s-o ru[Em]gatu.
+
+[Em]Dumnezeu le-o [D]datu
+[G]Dumnezeu le-o [D]datu
+[C]Casă lângă [D]drumu
+[C]Casă lângă [Em]drumu.
+
+[Em]Lângă casă-i [D]masă
+[G]Lângă casă-i [D]masă
+[C]Masă gălbi[D]oară
+[C]Lumina de [Em]ceară.
+
+[Em]Și-un pom răsă[D]ditu
+[G]Cu mere de-ar[D]gintu
+[C]Vântu trăgă[D]na,
+[C]Merele pt'i[Em]ca.
+
+[Em]Îngeri le strân[D]gea,
+[G]Și le trimi[D]tea
+[C]Pe ușă de [D]rai
+[C]La fete de [Em]crai.
+
+[Em]D-undi măr lo[D]ve,
+[G]Masa-mi trântu[D]ie,
+[C]În cer s'au[D]ze
+[C]În cer s'au[Em]ze.
+
+[Em]Maica le strân[D]ge
+[G]Și le trime[D]te
+[C]Pi-un șiuț di-a [D]ie
+[C]Pi-un șiuț di-a [Em]ie.
+
+[Em]La ușă di [D]rai
+[G]La fete di [D]crai
+[C]Drag Domnul din [D]cer
+[C]Drag Domnul din [Em]cer.
+```
+
 #### Domn Domn să-nălțăm
 
 **tradițional** · Sursa: Colinde Ascor
@@ -27043,6 +27097,45 @@ E|--------3---------3---------3--|
           | _ _ _ _ |         |
 ```
 
+#### Jos în Țara Românească
+
+**tradițional** · Sursa: Colinde Ascor
+
+**Chitară:** Am x02210 · C x32010 · G 320003
+
+**Ukulele:** Am 2000 · C 0003 · G 0232
+
+```text
+[Am]Jos în Ța^ra [C]Româ[Am]nească
+[G]Jos în Ța^ra [C]Româ[Am]nească
+
+Refren:
+[Am]Negura, ^negura
+[C]Dâmbra, dobra, ^eli[G]bra
+Foaie [G]verde-a ^iede[Am]ra  ^
+
+[Am]Este-o gră^di[C]nă dom[Am]nească
+[G]Este-o gră^di[C]nă dom[Am]nească
+
+[Am]Da' domnu-^so [C]Iuo[Am]nașu
+[G]Da' domnu-^so [C]Iuo[Am]nașu
+
+[Am]S-o făcut ^că[C]lugă[Am]rașu
+[G]S-o făcut ^că[C]lugă[Am]rașu
+
+[Am]La coli^di[C]ie' la [Am]Blaju
+[G]La coli^di[C]ie' la [Am]Blaju
+
+[Am]Și doamna ^sa [C]Iuo[Am]niță
+[G]Și doamna ^sa [C]Iuo[Am]niță
+
+[Am]S-o făcut ^că[C]lugă[Am]riță
+[G]S-o făcut ^că[C]lugă[Am]riță
+
+[Am]La colid'^ie [C]la Bis[Am]triță
+[G]La colid'^ie [C]la Bis[Am]triță
+```
+
 #### Junelu-i tinerelu
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 35
@@ -27115,6 +27208,41 @@ A|--------3-----3-----3---------3------------3------------------3-----3-----3---
 E|--------1-----1-----1---------3------------1------------------1-----1-----1---------x------------1--------|
           | _ _ |     | _       |            | _ _ |            | _ _ |     | _       |            | _ _ |
           F                     C            F                                        B
+```
+
+#### La Betleem colo-n jos
+
+**tradițional** · Sursa: Colinde Ascor
+
+**Chitară:** Am x02210 · G 320003 · C x32010
+
+**Ukulele:** Am 2000 · G 0232 · C 0003
+
+```text
+[Am]La Bet^leem ^colo-n ^jos
+[G]Cerul ^arde ^lumi[Am]nos
+[Am]Preacu[C]rata
+[G]Naște ^astăzi ^pe Hris[Am]tos.  ^
+
+[Am]Naște-n ^ieslea ^boi^lor
+[G]Pe-mpă^ratul ^tutu[Am]ror
+[Am]Preacu[C]rata
+[G]Stă și ^plânge-n^ceti[Am]șor.  ^
+
+[Am]N-are ^scutec ^de-nfă^șat
+[G]Nici hăi^nuțe ^de-mbră[Am]cat
+[Am]Preacu[C]rata
+[G]Pentru ^pruncul ^de-mpă[Am]rat.  ^
+
+[Am]Nu mai ^plânge, ^Maica ^mea
+[G]Scute^cele ^noi ți-om [Am]da
+[Am]Preacu[C]rata
+[G]Pruncul ^Sfânt de-i ^înfă[Am]șa.  ^
+
+[Am]Ceru-i ^scutec ^lumi^nos
+[G]Dragos^tea-i veș^mânt fru[Am]mos
+[Am]Preacu[C]rata
+[G]Pentru ^mire^le Hris[Am]tos.  ^
 ```
 
 #### La căsuța unde-i neaua
@@ -28626,6 +28754,46 @@ D|-------------------0--------------------0---|
 A|--------------------------------------------|
 E|--------------------------------------------|
           |          |         |          |
+```
+
+#### Velerim și Veler, Doamne
+
+**tradițional** · Sursa: Colinde Ascor
+
+**Chitară:** Am x02210 · C x32010 · G 320003
+
+**Ukulele:** Am 2000 · C 0003 · G 0232
+
+```text
+[Am]După ^dealul ^cel mai [C]mare
+[C]Vele[G]rim și ^Veler, [Am]Doamne
+[Am]Răsă^rit-a ^mândrul [C]soare
+[C]Vele[G]rim și ^Veler, ^Doam[Am]ne
+
+[Am]Mândru ^soare ^nu e[C]ra
+[C]Vele[G]rim și ^Veler, [Am]Doamne
+[Am]Ci e^ra o ^mânăs[C]tire
+[C]Vele[G]rim și ^Veler, ^Doam[Am]ne
+
+[Am]Cu pă^reții ^de-ală[C]mâie
+[C]Vele[G]rim și ^Veler, [Am]Doamne
+[Am]Și cu ^ușa ^de tă[C]mâie
+[C]Vele[G]rim și ^Veler, ^Doam[Am]ne
+
+[Am]Dar în^tr-însa ^cine [C]șade
+[C]Vele[G]rim și ^Veler, [Am]Doamne
+[Am]Moș Cră^ciun cu ^Moș A[C]jun
+[C]Vele[G]rim și ^Veler, ^Doam[Am]ne
+
+[Am]Cu bar^ba de ^ibri[C]șin
+[C]Vele[G]rim și ^Veler, [Am]Doamne
+[Am]Și mus^tăți^le de [C]fân
+[C]Vele[G]rim și ^Veler, ^Doam[Am]ne
+
+[Am]Ce ne-a^duce ^Moș Cră[C]ciun
+[C]Vele[G]rim și ^Veler, [Am]Doamne
+[Am]Tot ce ^e fru^mos și [C]bun
+[C]Vele[G]rim și ^Veler, ^Doam[Am]ne
 ```
 
 #### Veniți cu toții
@@ -32643,7 +32811,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Timpuri Noi** — [Mistrețul galben](#mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#munții-mei)
 - **Tradițional** — [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă](#noapte-sfântă), [O, brad frumos!](#o-brad-frumos)
-- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Moș Crăciun (I)](#moș-crăciun-i)
+- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Doi boieri bătrâniu](#doi-boieri-bătrâniu), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [Jos în Țara Românească](#jos-în-țara-românească), [La Betleem colo-n jos](#la-betleem-colo-n-jos), [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Velerim și Veler, Doamne](#velerim-și-veler-doamne), [Moș Crăciun (I)](#moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#suzana)
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
