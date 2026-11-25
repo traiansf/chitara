@@ -39,9 +39,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (92 cântece)
 
-**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (116 cântece)
+**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (117 cântece)
 
-- [IV.1 — Colinde românești](#iv1--colinde-românești) (56 cântece)
+- [IV.1 — Colinde românești](#iv1--colinde-românești) (57 cântece)
 - [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (11 cântece)
 - [IV.3 — Cântece de iarnă românești](#iv3--cântece-de-iarnă-românești) (22 cântece)
 - [IV.4 — Cântece de iarnă internaționale](#iv4--cântece-de-iarnă-internaționale) (27 cântece)
@@ -643,6 +643,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Florile dalbe](#florile-dalbe)
 - [Iarăși flori dalbe](#iarăși-flori-dalbe)
 - [Junelu-i tinerelu](#junelu-i-tinerelu)
+- [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua)
 - [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă)
 - [La tătă casa-i lumină](#la-tătă-casa-i-lumină)
 - [La Viflaim, la Viflaim](#la-viflaim-la-viflaim)
@@ -27116,6 +27117,43 @@ E|--------1-----1-----1---------3------------1------------------1-----1-----1---
           F                     C            F                                        B
 ```
 
+#### La căsuța unde-i neaua
+
+**tradițional** · versuri: Traian Dorz · muzică: Nicolae Moldoveanu · Sursa: [WikiSource](https://ro.wikisource.org/wiki/La_c%C4%83su%C8%9Ba_unde-i_neaua)
+
+**Chitară:** C x32010 · G 320003 · Dm xx0231 · F 133211
+
+**Ukulele:** C 0003 · G 0232 · Dm 2210 · F 2010
+
+Măsura: 3/4
+
+```text
+[C]La căsuța ^unde-i [G]neaua până-n ^tin[C]dă,  ^
+[C]Vine Fiul ^dulce, [G]singur, și ^colin[C]dă.  ^
+
+Refren:
+[C]Leru-i, [G]Doamne, [C]ler,  ^  ^Eu cu [G]drag din [C]cer  ^
+[C]Vin pe [Dm]orice [G]ger  ^  [C]lângă ^cel stin[G]gher,  ^
+[G]Leru-i, [F]Doamne, [C]ler...  ^
+
+[C]Lângă geamul ^unde [G]lampa nu se-a^prin[C]de  ^
+[C]Vine Fiul ^dulce, [G]singur, să ^colin[C]de.  ^
+
+[C]Lângă ușa ^unde [G]nimeni nu se-o^preș[C]te,  ^
+[C]Vine Fiul ^dulce, [G]singur, și gră^ie[C]ște.  ^
+
+[C]Lângă vatra ^rece, [G]unde nu-i o ^ra[C]ză,  ^
+[C]Vine Fiul ^dulce, [G]singur, și Se-a^șa[C]ză.  ^
+
+[C]Lângă plânsul ^singur [G]fără liniș^ti[C]re  ^
+[C]Vine Fiul ^dulce – [G]șoaptă de iu^bi[C]re.  ^
+
+[C]Lângă dorul ^singur [G]fără sărbă^toa[C]re,  ^
+[C]Vine Fiul ^dulce - [G]har și-mbrăți^șa[C]re.  ^
+
+Refren
+```
+
 #### La poartă la Ștefan-Vodă
 
 **tradițional** · Sursa: Colinde Ascor
@@ -28599,29 +28637,29 @@ E|--------------------------------------------|
 **Ukulele:** Am 2000 · C 0003 · G 0232 · Dm 2210 · E 4442
 
 ```text
-[Am]Veniți cu ^toții [C]dimpreu[G]nă
+[Am]  Veniți cu ^toții [C]dimpreu^u[G]nă
 [Dm]Să ne fa[Am]cem [E]voie bu[Am]nă
-/[Dm]Să ne bucu[G]răm de Dom[C]nul
+/[Dm]Să ne bu^cu[G]răm de Dom[C]nul
 [Am]Și să stri[G]găm [E]cu tot o[Am]mul./ x2
 
-[Am]Că ne e ^Domn și [C]mântuin[G]ță
+[Am]  Că ne e ^Domn și [C]mântui^in[G]ță
 [Dm]Și să stri[Am]găm [E]cu credin[Am]ță
-/[Dm]Lui din hota[G]rele toa[C]te
+/[Dm]Lui din ho^ta[G]rele toa[C]te
 [Am]I se închi[G]nă [E]țări și gloa[Am]te./ x2
 
-[Am]Că marea ^cu va[C]luri înal[G]te
+[Am]  Că marea ^cu va[C]luri îna^al[G]te
 [Dm]De-a Lui [Am]mână [E]sunt lucra[Am]te
-/[Dm]De El sunt fă[G]cuți și mun[C]ții
+/[Dm]De El sunt ^fă[G]cuți și mun[C]ții
 [Am]Și brazii [G]mari și [E]mărun[Am]ții./ x2
 
-[Am]El a ^făcut [C]tot pămân[G]tul
+[Am]  El a fă^cut [C]  tot pămâ^ân[G]tul
 [Dm]Singur nu[Am]mai [E]cu Cuvân[Am]tul
-/[Dm]Și nouă ne [G]este Dom[C]nul.
+/[Dm]Și nouă ^ne [G]este Dom[C]nul.
 [Am]Împărat [G]pes[E]te tot o[Am]mul./ x2
 
-[Am]Iar câți ^în El [C]nu crezu[G]ră
+[Am]  Iar câți în ^El [C]nu crezu^u[G]ră
 [Dm]Ispi[Am]tiră [E]și văzu[Am]ră
-/[Dm]Părăsiți de [G]Domnul fu[C]ră
+/[Dm]Părăsiți ^de [G]Domnul fu[C]ră
 [Am]Căzând în [G]dreap[E]ta Lui [Am]mână./ x2
 ```
 
@@ -32605,7 +32643,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Timpuri Noi** — [Mistrețul galben](#mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#munții-mei)
 - **Tradițional** — [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă](#noapte-sfântă), [O, brad frumos!](#o-brad-frumos)
-- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Moș Crăciun (I)](#moș-crăciun-i)
+- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Moș Crăciun (I)](#moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#suzana)
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
