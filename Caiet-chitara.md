@@ -39,9 +39,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (92 cântece)
 
-**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (126 cântece)
+**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (127 cântece)
 
-- [IV.1 — Colinde românești](#iv1--colinde-românești) (66 cântece)
+- [IV.1 — Colinde românești](#iv1--colinde-românești) (67 cântece)
 - [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (11 cântece)
 - [IV.3 — Cântece de iarnă românești](#iv3--cântece-de-iarnă-românești) (22 cântece)
 - [IV.4 — Cântece de iarnă internaționale](#iv4--cântece-de-iarnă-internaționale) (27 cântece)
@@ -677,7 +677,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Steaua sus răsare (II)](#steaua-sus-răsare-ii)
 - [Sus boieri nu mai dormiți](#sus-boieri-nu-mai-dormiți)
 - [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună)
-- [Trei crai](#trei-crai)
+- [Trei crai (I)](#trei-crai-i)
+- [Trei crai (II)](#trei-crai-ii)
 - [Trei păstori](#trei-păstori)
 - [Un creștin s-a-nvrednicit](#un-creștin-s-a-nvrednicit)
 - [Velerim și Veler, Doamne](#velerim-și-veler-doamne)
@@ -28749,7 +28750,7 @@ E|--------1-----------------------------------------------|
           F
 ```
 
-#### Trei crai
+#### Trei crai (I)
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 46
 
@@ -28821,6 +28822,36 @@ G|---------------1-------------1-----------------------------0-------------0----
 D|--------3-----------------------------------------------------------------------------------|
 A|----------------------------------------------------3---------------------------------------|
 E|--------------------------------------------------------------------------------------------|
+```
+
+#### Trei crai (II)
+
+**tradițional** · Sursa: Colinde ASCOR
+
+**Chitară:** Dm xx0231 · C x32010 · Gm 355333 · F 133211
+
+**Ukulele:** Dm 2210 · C 0003 · Gm 0231 · F 2010
+
+```text
+[Dm]  Trei crai ^de la ^răsă[C]rit
+[C]Spre stea [Gm]au că[Dm]lăto^rit
+[F]  Și-au mers ^după [Dm]cum ci[C]tim
+[C]Până [Gm]la Ie[Dm]rusa^lim.
+
+[C]  Aco^lo când ^au a[F]juns
+[F]Steaua [C]lor li [Dm]s-a as^cuns
+Și le-a [Dm]fost a [C]se plim[Dm]ba
+[C]Prin o^raș a [Dm]între^ba
+
+[Dm]  Unde ^s-a năs^cut zi[C]când
+[C]Un crai [Gm]mare [Dm]de cu^rând
+[F]  Și-au mers ^până [Dm]au stă[C]tut
+[C]Und-e[Gm]ra prun[Dm]cul năs^cut
+
+[C]  Și cu ^toți s-au ^bucu[F]rat
+[F]Pe Hris[C]tos da[Dm]c-au a^flat
+Cu da[Dm]ruri s-au [C]închi[Dm]nat
+[C]Ca la ^un ma[Dm]re-mpă^rat.
 ```
 
 #### Trei păstori
@@ -32962,7 +32993,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Ștefan Banică** — [S-o facem lată](#s-o-facem-lată)
 - **Ștefan Banica jr.** — [Asta-s eu](#asta-s-eu)
 - **Ștefan Banica Jr.** — [Mi-e dor de ochii tăi](#mi-e-dor-de-ochii-tăi), [Poveste](#poveste)
-- **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a prunc micuț Isus](#când-fost-a-prunc-micuț-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul](#cerul-și-pământul), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine](#deschide-ușa-creștine), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr](#flori-de-măr), [Florile dalbe](#florile-dalbe), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai](#trei-crai), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Ziurel de ziurel](#ziurel-de-ziurel), [Zoriori de ziuă](#zoriori-de-ziuă), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
+- **Ștefan Hrușcă** — [Întoarcerea țăranului](#întoarcerea-țăranului), [Copacul îndrăgostit](#copacul-îndrăgostit), [Fostele iubiri](#fostele-iubiri), [Frunza (I)](#frunza-i), [Frunza (II)](#frunza-ii), [La nunta ta](#la-nunta-ta), [Rugă pentru părinți (I)](#rugă-pentru-părinți-i), [Rugă pentru părinți (II)](#rugă-pentru-părinți-ii), [Urare pentru îndrăgostiți](#urare-pentru-îndrăgostiți), [Vara promisă](#vara-promisă), [Afară ninge liniștit](#afară-ninge-liniștit), [Aseară pe-nserate](#aseară-pe-nserate), [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă), [Când fost-a prunc micuț Isus](#când-fost-a-prunc-micuț-isus), [Ce-ați văzut păstori](#ce-ați-văzut-păstori), [Cerul și pământul](#cerul-și-pământul), [Coborât-o coborât](#coborât-o-coborât), [Colindul cerbului](#colindul-cerbului), [Creștinilor, noi astăzi](#creștinilor-noi-astăzi), [Dalbu-i dealu](#dalbu-i-dealu), [Deschide nană ușile](#deschide-nană-ușile), [Deschide ușa, creștine](#deschide-ușa-creștine), [Ferice-i ferice](#ferice-i-ferice), [Flori de măr](#flori-de-măr), [Florile dalbe](#florile-dalbe), [Iarăși flori dalbe](#iarăși-flori-dalbe), [Junelu-i tinerelu](#junelu-i-tinerelu), [La Viflaim, la Viflaim](#la-viflaim-la-viflaim), [Linu-i lin](#linu-i-lin), [Mă luai luai](#mă-luai-luai), [Măruț mărgăritar](#măruț-mărgăritar), [O, ce veste minunată! (I)](#o-ce-veste-minunată-i), [O, ce veste minunată! (II)](#o-ce-veste-minunată-ii), [Pe cununa munților](#pe-cununa-munților), [Pe strada din Viflaim](#pe-strada-din-viflaim), [Pom înrămuratu](#pom-înrămuratu), [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună), [Trei crai (I)](#trei-crai-i), [Trei păstori](#trei-păstori), [Vine marea](#vine-marea), [Ziurel de ziurel](#ziurel-de-ziurel), [Zoriori de ziuă](#zoriori-de-ziuă), [Ninge iar (II)](#ninge-iar-ii), [Ninge iar (III)](#ninge-iar-iii), [Steaguri albe](#steaguri-albe)
 - **Ștefan Hrușcă / Adrian Păunescu** — [Tu Ardeal](#tu-ardeal)
 - **Stephen Foster** — [Oh, Susanna](#oh-susanna)
 - **Stigma** — [Jumătate tu, jumătate eu](#jumătate-tu-jumătate-eu)
@@ -32983,7 +33014,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Timpuri Noi** — [Mistrețul galben](#mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#munții-mei)
 - **Tradițional** — [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă](#noapte-sfântă), [O, brad frumos!](#o-brad-frumos)
-- **tradițional** — [La mulți ani cu sănătate](#la-mulți-ani-cu-sănătate), [La Mulți Ani!](#la-mulți-ani), [Astăzi s-a născut Hristos](#astăzi-s-a-născut-hristos), [Colindița](#colindița), [Doi boieri bătrâniu](#doi-boieri-bătrâniu), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [Iată, vin colindători](#iată-vin-colindători), [Jos în Țara Românească](#jos-în-țara-românească), [La Betleem colo-n jos](#la-betleem-colo-n-jos), [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Steaua sus răsare (I)](#steaua-sus-răsare-i), [Steaua sus răsare (II)](#steaua-sus-răsare-ii), [Velerim și Veler, Doamne](#velerim-și-veler-doamne), [Moș Crăciun (I)](#moș-crăciun-i)
+- **tradițional** — [La mulți ani cu sănătate](#la-mulți-ani-cu-sănătate), [La Mulți Ani!](#la-mulți-ani), [Astăzi s-a născut Hristos](#astăzi-s-a-născut-hristos), [Colindița](#colindița), [Doi boieri bătrâniu](#doi-boieri-bătrâniu), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [Iată, vin colindători](#iată-vin-colindători), [Jos în Țara Românească](#jos-în-țara-românească), [La Betleem colo-n jos](#la-betleem-colo-n-jos), [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Steaua sus răsare (I)](#steaua-sus-răsare-i), [Steaua sus răsare (II)](#steaua-sus-răsare-ii), [Trei crai (II)](#trei-crai-ii), [Velerim și Veler, Doamne](#velerim-și-veler-doamne), [Moș Crăciun (I)](#moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#suzana)
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
