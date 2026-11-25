@@ -24,12 +24,12 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 ## Cuprins
 
-**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (174 cântece)
+**[Partea I — Cântece de cabană](#partea-i--cântece-de-cabană)** (175 cântece)
 
 - [I.1 — De munte, de drum și de dor](#i1--de-munte-de-drum-și-de-dor) (104 cântece)
 - [I.2 — Populare și lăutărești](#i2--populare-și-lăutărești) (18 cântece)
 - [I.3 — Naționaliste și de dor de țară](#i3--naționaliste-și-de-dor-de-țară) (17 cântece)
-- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (35 cântece)
+- [I.4 — Studențești și de chef](#i4--studențești-și-de-chef) (36 cântece)
 
 **[Partea a II-a — Repertoriu românesc](#partea-a-ii-a--repertoriu-românesc)** (279 cântece)
 
@@ -39,9 +39,9 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 
 **[Partea a III-a — Repertoriu internațional](#partea-a-iii-a--repertoriu-internațional)** (92 cântece)
 
-**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (121 cântece)
+**[Partea a IV-a — Colinde și cântece de iarnă](#partea-a-iv-a--colinde-și-cântece-de-iarnă)** (126 cântece)
 
-- [IV.1 — Colinde românești](#iv1--colinde-românești) (61 cântece)
+- [IV.1 — Colinde românești](#iv1--colinde-românești) (66 cântece)
 - [IV.2 — Colinde internaționale](#iv2--colinde-internaționale) (11 cântece)
 - [IV.3 — Cântece de iarnă românești](#iv3--cântece-de-iarnă-românești) (22 cântece)
 - [IV.4 — Cântece de iarnă internaționale](#iv4--cântece-de-iarnă-internaționale) (27 cântece)
@@ -221,6 +221,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Hora bețivilor](#hora-bețivilor)
 - [În pădurea verde](#în-pădurea-verde)
 - [Jean frizerul](#jean-frizerul)
+- [La mulți ani cu sănătate](#la-mulți-ani-cu-sănătate)
 - [La Mulți Ani!](#la-mulți-ani)
 - [M-am dus să tai un copac](#m-am-dus-să-tai-un-copac)
 - [Ne-am cunoscut în troleibuz](#ne-am-cunoscut-în-troleibuz)
@@ -622,6 +623,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Afară ninge liniștit](#afară-ninge-liniștit)
 - [Aseară pe-nserate](#aseară-pe-nserate)
 - [Asta-i fata cea frumoasă](#asta-i-fata-cea-frumoasă)
+- [Astăzi s-a născut Hristos](#astăzi-s-a-născut-hristos)
 - [Când fost-a prunc micuț Isus](#când-fost-a-prunc-micuț-isus)
 - [Ce-ați văzut păstori](#ce-ați-văzut-păstori)
 - [Cel făr' de-nceput](#cel-făr-de-nceput)
@@ -630,6 +632,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Coborât-o coborât](#coborât-o-coborât)
 - [Colindăm, colindăm iarna (I)](#colindăm-colindăm-iarna-i)
 - [Colindăm, colindăm iarna (II)](#colindăm-colindăm-iarna-ii)
+- [Colindița](#colindița)
 - [Colindul cerbului](#colindul-cerbului)
 - [Creștinilor, noi astăzi](#creștinilor-noi-astăzi)
 - [Dalbu-i dealu](#dalbu-i-dealu)
@@ -643,6 +646,7 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Flori de măr](#flori-de-măr)
 - [Florile dalbe](#florile-dalbe)
 - [Iarăși flori dalbe](#iarăși-flori-dalbe)
+- [Iată, vin colindători](#iată-vin-colindători)
 - [Jos în Țara Românească](#jos-în-țara-românească)
 - [Junelu-i tinerelu](#junelu-i-tinerelu)
 - [La Betleem colo-n jos](#la-betleem-colo-n-jos)
@@ -669,6 +673,8 @@ Cântecele artiștilor din acest caiet care există și pe tabulaturi.ro au link
 - [Pom înrămuratu](#pom-înrămuratu)
 - [Seara de Crăciun](#seara-de-crăciun)
 - [Seara serilor](#seara-serilor)
+- [Steaua sus răsare (I)](#steaua-sus-răsare-i)
+- [Steaua sus răsare (II)](#steaua-sus-răsare-ii)
 - [Sus boieri nu mai dormiți](#sus-boieri-nu-mai-dormiți)
 - [Sus sus sus pe lângă lună](#sus-sus-sus-pe-lângă-lună)
 - [Trei crai](#trei-crai)
@@ -8313,6 +8319,29 @@ Plangeau și caii de la [D]dricu,
 Plângea și ultimu [G]calicu.
 ```
 
+#### La mulți ani cu sănătate
+
+**tradițional** · Sursa: Cărticica Karban, p. 198
+
+**Chitară:** D xx0232 · G 320003 · D7 xx0212
+
+**Ukulele:** D 2220 · G 0232 · D7 2223
+
+măsură 3/4
+
+```text
+[D]La Mulți [G]Ani cu [D7]sănă[G]tate
+[D]Să vă dea [G]Domnul [D7]tot ce do[G]riți
+[D]Zile se[G]nine [D7]și feri[G]cire
+/[D]La Mulți [G]Ani [D7]să tră[G]iți!/ x2
+
+[D]Vă fie [G]viața [D7]numai lu[G]mină
+[D]Ca în lu[G]mină [D7]să dăinu[G]iți
+[D]Zile se[G]nine [D7]și feri[G]cire
+[D]La Mulți [G]Ani [D7]să tră[G]iți!
+[D]La Mulți [G]Ani [D7]feri[G]ciți!
+```
+
 #### La Mulți Ani!
 
 **tradițional** · Sursa: Cărticica Karban, p. 198
@@ -8331,15 +8360,6 @@ Plângea și ultimu [G]calicu.
 "Io[G]nel" să ^trăiască
 "Io[G]nel" să ^trăiască
 [D]La [D7]mulți [G]ani!
-```
-
-măsură 3/4
-```text
-[D]La Mulți [G]Ani cu [D7]sănă[G]tate
-[D]Să vă dea [G]Domnul [D7]tot ce [G]doriți
-[D]Zile se[G]nine [D7]și feri[G]cire
-[D]La Mulți [G]Ani [D7]să tră[G]iți!
-[D]La Mulți [G]Ani [D7]să tră[G]iți!
 ```
 
 în engleză
@@ -25850,6 +25870,34 @@ E|--------0-----0-----0-----0---|
 
 Exemplificat pentru `E`.
 
+#### Astăzi s-a născut Hristos
+
+**tradițional**
+
+**Chitară:** C x32010 · G 320003 · F 133211
+
+**Ukulele:** C 0003 · G 0232 · F 2010
+
+```text
+[C]Astăzi ^s-a năs^cut Hris[G]tos
+[C]Mesi^a chip ^lumi[G]nos
+
+Refren:
+[F]Lău[C]dați [F]și cân[C]tați,
+[F]Și vă [G]bucu[C]rați! ^
+
+[C]Miti^tel în^fășe[G]țel,
+[C]În scu^tec de ^bumbă[G]cel
+
+[C]Vântul ^bate, ^nu-L răz[G]bate,
+[C]Neaua ^ninge, ^nu-L a[G]tinge
+
+[C]Și de-a^cum pâ^nă-n ve[G]cie
+[C]Mila ^Domnu^lui să [G]fie
+
+Outro: refren
+```
+
 #### Când fost-a prunc micuț Isus
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 22
@@ -26288,6 +26336,36 @@ A|--------3----------------------------------|
 E|-------------------------------------------|
 ```
 
+#### Colindița
+
+**tradițional** · Sursa: Colinde ASCOR
+
+**Chitară:** C x32010 · G 320003
+
+**Ukulele:** C 0003 · G 0232
+
+```text
+[C]Colin^dița ^nu-i mai ^multă
+[C]Să tră[G]iască ^cine-as[C]cultă
+[C]Sus la ^ceruri ^o-năl^țăm
+[C]Și la [G]gazde ^o-nchi[C]năm
+
+[C]O-nchi[G]năm cu ^vese^lie
+[G]Și cu ^mare ^bucu[C]rie
+[G]C-am a^juns sea^ra de-a^jun
+[G]A bă[C]trânu^lui [G]Cră[C]ciun
+
+[C]Sus, mai ^sus v-am ^înăl^țat
+[C]Ce-am ști[G]ut noi ^v-am cân[C]tat
+[C]Să ră^mâneți ^sănă^toși
+[C]Sănă[G]toși și ^bucu[C]roși
+
+[C]C-am a[G]juns zi^ua cea ^sfântă
+[G]Când co^linde^le se [C]cântă
+[G]Sărbă^toarea ^lui Hris^tos
+[G]Să vă [C]fie ^de [G]fo[C]los.
+```
+
 #### Colindul cerbului
 
 **Ștefan Hrușcă** · muzica/versuri: tradițional · Sursa: Colinde Karban, p. 26
@@ -26611,7 +26689,7 @@ Semnele “ ” = lovire de sus în jos; bătăile de jos în sus se accentueaz�
 
 #### Doi boieri bătrâniu
 
-**tradițional** · Sursa: Colinde Ascor
+**tradițional** · Sursa: Colinde ASCOR
 
 **Chitară:** Em 022000 · D xx0232 · G 320003 · C x32010
 
@@ -26661,7 +26739,7 @@ Semnele “ ” = lovire de sus în jos; bătăile de jos în sus se accentueaz�
 
 #### Domn Domn să-nălțăm
 
-**tradițional** · Sursa: Colinde Ascor
+**tradițional** · Sursa: Colinde ASCOR
 
 **Chitară:** C x32010 · G 320003
 
@@ -27097,9 +27175,34 @@ E|--------3---------3---------3--|
           | _ _ _ _ |         |
 ```
 
+#### Iată, vin colindători
+
+**tradițional** · Sursa: Madrigal
+
+**Chitară:** Am x02210 · F 133211 · E 022100 · C x32010
+
+**Ukulele:** Am 2000 · F 2010 · E 4442 · C 0003
+
+```text
+[Am]Iată ^vin co[F]lin[E]dă[Am]tori,
+[C]Florile [Am]dalbe,
+[Am]Noaptea ^pe la [F]cân[E]tă[Am]tori,
+[E]Florile [Am]dalbe.
+
+[Am]Și ei ^vin me[F]reu, [E]me[Am]reu,
+[C]Florile [Am]dalbe,
+[Am]Și-l a^duc pe [F]Dum[E]ne[Am]zeu,
+[E]Florile [Am]dalbe.
+
+[Am]Dumne^zeu a[F]de[E]vă[Am]rat,
+[C]Florile [Am]dalbe,
+[Am]Soare-n ^raze [F]lu[E]mi[Am]nat.
+/[E]Florile [Am]dalbe/ x2
+```
+
 #### Jos în Țara Românească
 
-**tradițional** · Sursa: Colinde Ascor
+**tradițional** · Sursa: Colinde ASCOR
 
 **Chitară:** Am x02210 · C x32010 · G 320003
 
@@ -27212,7 +27315,7 @@ E|--------1-----1-----1---------3------------1------------------1-----1-----1---
 
 #### La Betleem colo-n jos
 
-**tradițional** · Sursa: Colinde Ascor
+**tradițional** · Sursa: Colinde ASCOR
 
 **Chitară:** Am x02210 · G 320003 · C x32010
 
@@ -27284,7 +27387,7 @@ Refren
 
 #### La poartă la Ștefan-Vodă
 
-**tradițional** · Sursa: Colinde Ascor
+**tradițional** · Sursa: Colinde ASCOR
 
 **Chitară:** Am x02210 · Dm xx0231 · C x32010 · G 320003
 
@@ -27568,7 +27671,7 @@ E|--------0----------------------------------|
 
 #### Mare iarnă o picatu
 
-**tradițional** · Sursa: Colinde Ascor
+**tradițional** · Sursa: Colinde ASCOR
 
 **Chitară:** C x32010 · F 133211 · G 320003
 
@@ -27795,7 +27898,7 @@ E|--------3------------------3---------------|
 
 #### Nouă azi ne-a răsărit
 
-**tradițional** · Sursa: Colinde Ascor
+**tradițional** · Sursa: Colinde ASCOR
 
 **Chitară:** A x02220 · D xx0232 · G 320003
 
@@ -28447,6 +28550,91 @@ E|--------------------------------------------------------|
           | _ _ |      | _ _  |    | _ _  |      |_ _  |
 ```
 
+#### Steaua sus răsare (I)
+
+**tradițional** · Sursa: [tabulaturi.ro](https://www.tabulaturi.ro/acorduri/colinde/steaua-sus-rasare-colind-9890)
+
+**Chitară:** Am x02210 · Dm xx0231 · E 022100
+
+**Ukulele:** Am 2000 · Dm 2210 · E 4442
+
+```text
+[Am]Steaua sus ră^sare
+[Am]Ca o taină ^mare
+[Dm]Steaua strălu[Am]cește
+/[E]Și lumii ves[Am]tește./ x2
+
+[Am]Că astăzi cu^rata
+[Am]Prea nevino^vata
+[Dm]Fecioara Ma[Am]ria
+/[E]Naște pe Me[Am]sia./ x2
+
+[Am]Magii cum ză^riră
+[Am]Steaua și por^niră
+[Dm]Mergând după [Am]rază
+/[E]Pe Hristos să-L [Am]vază./ x2
+
+[Am]Și dacă por^niră
+[Am]Îndată-L gă^siră
+[Dm]La dânsul in[Am]trară
+/[E]Și i se închi[Am]nară./ x2
+
+[Am]Cu daruri gă^tite,
+[Am]Lui Hristos me^nite,
+[Dm]Luând fie[Am]care
+/[E]Bucurie [Am]mare./ x2
+
+[Am]Care bucu^rie
+[Am]Și aici să ^fie,
+[Dm]De la tine[Am]rețe
+/[E]Pân' la bătrâ[Am]nețe./ x2
+```
+
+#### Steaua sus răsare (II)
+
+**tradițional** · Sursa: Madrigal
+
+**Chitară:** C x32010 · F 133211 · G 320003
+
+**Ukulele:** C 0003 · F 2010 · G 0232
+
+```text
+[C]Steaua sus ră^sare
+[C]Ca o taină ^mare
+[F]Steaua strălu[C]cește
+[G]Și lumii ves[C]tește.
+
+[C]Că astăzi cu^rata
+[C]Prea nevino^vata
+[F]Fecioara Ma[C]ria
+[G]Naște pe Me[C]sia.
+
+[C]Magii cum ză^riră
+[C]Steaua și por^niră
+[F]Mergând după [C]rază
+[G]Pe Hristos să-L [C]vază.
+
+[C]Și dacă por^niră
+[C]Îndată-L gă^siră
+[F]La dânsul in[C]trară
+[G]Și i se închi[C]nară.
+
+[C]Cu daruri gă^tite,
+[C]Lui Hristos me^nite,
+[F]Luând fie[C]care
+[G]Bucurie [C]mare.
+
+[C]Care bucu^rie
+[C]Și aici să ^fie,
+[F]De la tine[C]rețe
+[G]Pân' la bătrâ[C]nețe.
+
+Outro:
+[F]De la tine[C]rețe
+[G]Pân' la bătrâ[C]nețe.
+
+```
+
 #### Sus boieri nu mai dormiți
 
 **Maria Gheorghiu** · Sursa: Colinde Karban, p. 17
@@ -28758,7 +28946,7 @@ E|--------------------------------------------|
 
 #### Velerim și Veler, Doamne
 
-**tradițional** · Sursa: Colinde Ascor
+**tradițional** · Sursa: Colinde ASCOR
 
 **Chitară:** Am x02210 · C x32010 · G 320003
 
@@ -30364,39 +30552,23 @@ muzica/versuri: D.G. Kiriac/tradițional · Sursa: Colinde Karban, p. 9
 **Ukulele:** G 0232 · D 2220 · C 0003
 
 ```text
-G      D       C     G
-Moș Crăciun cu plete dalbe
-D   G      D      G
-A sosit de prin nămeți,
-G   D    C      G
-Și aduce daruri multe
-D    G    D    G
-La fetițe și băieți.
+[G]Moș Cră[D]ciun cu [C]plete [G]dalbe
+[G]A [D]so[G]sit de [D]prin nă[G]meți,
+[G]Și a[D]duce [C]daruri [G]multe
+[G]La [D]fe[G]tițe [D]și bă[G]ieți.
+
 Refren:
-G      C     G      C
-Moș Crăciun, Moș Crăciun!
-G       C  D       G
-Ești un om atât de bun!
-G      C     G      C
-Moș Crăciun, Moș Crăciun!
-G       C  D       G
-Ești un om atât de bun!
-G     D        C    G
-Din bătrâni se povestește
-D         G    D    G
-Că-n toți anii negreșit,
-G      D       C      G
-Moș Crăciun cu drag sosește,
-D    G    D      G
-Niciodată n-a lipsit.
-G      D      C      G
-Moș Crăciune, Moș Crăciune
-D   G        D    G
-Încotro vrei s-o apuci?
-G        D     C    G
-Ți-aș cânta florile dalbe
-D      G      D     G
-Dac-aș ști că nu te duci.
+[G]Moș Cră[C]ciun, [G]Moș [D]Cră[G]ciun! [D][G]
+
+[G]Din bă[D]trâni se [C]poves[G]tește
+[G]Că-n [D]toți [G]anii [D]negre[G]șit,
+[G]Moș Cră[D]ciun cu [C]drag so[G]sește,
+[G]Ni[D]cio[G]dată [D]n-a lip[G]sit.
+
+[G]Moș Cră[D]ciune, [C]Moș Cră[G]ciune
+[G]În[D]co[G]tro vrei [D]s-o a[G]puci?
+[G]Ți-aș cân[D]ta flo[C]rile [G]dalbe
+[G]Da[D]c-aș [G]ști că [D]nu te [G]duci.
 ```
 
 Notă: Măsura 2/4. Bătaie:
@@ -32811,7 +32983,7 @@ Notă: Măsura 4/4, ritm de swing.
 - **Timpuri Noi** — [Mistrețul galben](#mistrețul-galben)
 - **Titus Constantin** — [Munții mei](#munții-mei)
 - **Tradițional** — [Mi-a zis mama că mi-o da](#mi-a-zis-mama-că-mi-o-da), [Ciobănaș cu trei sute de oi](#ciobănaș-cu-trei-sute-de-oi), [Noapte sfântă](#noapte-sfântă), [O, brad frumos!](#o-brad-frumos)
-- **tradițional** — [La Mulți Ani!](#la-mulți-ani), [Doi boieri bătrâniu](#doi-boieri-bătrâniu), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [Jos în Țara Românească](#jos-în-țara-românească), [La Betleem colo-n jos](#la-betleem-colo-n-jos), [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Velerim și Veler, Doamne](#velerim-și-veler-doamne), [Moș Crăciun (I)](#moș-crăciun-i)
+- **tradițional** — [La mulți ani cu sănătate](#la-mulți-ani-cu-sănătate), [La Mulți Ani!](#la-mulți-ani), [Astăzi s-a născut Hristos](#astăzi-s-a-născut-hristos), [Colindița](#colindița), [Doi boieri bătrâniu](#doi-boieri-bătrâniu), [Domn Domn să-nălțăm](#domn-domn-să-nălțăm), [Iată, vin colindători](#iată-vin-colindători), [Jos în Țara Românească](#jos-în-țara-românească), [La Betleem colo-n jos](#la-betleem-colo-n-jos), [La căsuța unde-i neaua](#la-căsuța-unde-i-neaua), [La poartă la Ștefan-Vodă](#la-poartă-la-ștefan-vodă), [Mare iarnă o picatu](#mare-iarnă-o-picatu), [Noi în seara de Crăciun](#noi-în-seara-de-crăciun), [Nouă azi ne-a răsărit](#nouă-azi-ne-a-răsărit), [O, ce veste minunată! (III)](#o-ce-veste-minunată-iii), [Steaua sus răsare (I)](#steaua-sus-răsare-i), [Steaua sus răsare (II)](#steaua-sus-răsare-ii), [Velerim și Veler, Doamne](#velerim-și-veler-doamne), [Moș Crăciun (I)](#moș-crăciun-i)
 - **tradus de la Stephen Foster** — [Suzana](#suzana)
 - **Trini Lopez** — [If I Had a Hammer](#if-i-had-a-hammer)
 - **Unde** — [Tron în Apuseni (Unde)](#tron-în-apuseni-unde), [Cântec în noapte](#cântec-în-noapte)
