@@ -204,3 +204,8 @@
 - Wish You Were Here [F]
 - With a Little Help from My Friends [G]
 - Wonderful Tonight [G]
+
+- Must Be Santa [C]
+- Santa Claus Is Coming To Town [C]
+- Rudolph The Red Nosed Reindeer [C]
+- Twinkle, Twinkle Little Star [C]

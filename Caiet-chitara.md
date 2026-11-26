@@ -29763,31 +29763,26 @@ Sursa: Caiet cabană EN, p. 51
 **Ukulele:** G 0232 · D 2220 · D7 2223 · G7 0212 · C 0003
 
 ```text
-1.
-G
-Silent night! Holy night!
-  D      D7    G      G7
-All is calm, all is bright
-  C               G     G7
-Round yon Virgin Mother and Child
-  C              G
-Holy Infant so tender and mild
-    D      D7     G      D7 G
-Sleep in heavenly peace… (x2)
+[G]Silent ^night, ^holy ^night!
+[D]All is [D7]calm, [G]all is [G7]bright
+[C]Round yon ^Virgin [G]Mother and [G7]Child
+[C]Holy ^Infant so [G]tender and ^mild
+[D]Sleep in [D7]heavenly [G]pea[G7]ace
+[G]Sleep in [D7]heavenly [G]peace  ^
 
-2.
-Silent night! Holy night!,
-Shepherds quake at the sight,
-Glories stream from Heaven afar,
-Heavenly hosts sing Alleluia;
-Christ the Savior is born;
+[G]Silent ^night, ^holy ^night!
+[D]Shepherds [D7]quake [G]at the [G7]sight,
+[C]Glories ^stream from [G]Heaven a[G7]far,
+[C]Heavenly ^hosts sing [G]Allelu^ia;
+[D]Christ the [D7]Savior is [G]bo[G7]orn;
+[G]Christ the [D7]Savior is [G]born  ^
 
-3.
-Silent night, Holy night,
-Son of God, love's pure light.
-Radiant beams from The holy face,
-with the dawn of Redeeming grace,
-Jesus, Lord, at Thy birth;
+[G]Silent ^night, ^holy ^night!
+[D]Son of [D7]God, [G]love's pure [G7]light
+[C]Radiant ^beams from [G]Thy holy [G7]face,
+[C]with the ^dawn of [G]redeeming ^grace,
+[D]Jesus, [D7]Lord, at Thy [G]bi[G7]irth;
+[G]Jesus, [D7]Lord, at Thy [G]birth  ^
 ```
 
 #### Stille Nacht, heilige Nacht
@@ -31285,37 +31280,21 @@ Exemplificat pentru `D`. Semnele “ ” = lovire de sus în jos; celelalte băt
 
 **José Feliciano** · Sursa: Colinde Karban, p. 90
 
-**Chitară:** D xx0232 · Em 022000 · A x02220 · G 320003 · Bm x24432 · Em7 020000
+**Chitară:** D xx0232 · G 320003 · A7 x02020 · Em 022000 · A x02220 · Bm x24432 · Em7 020000
 
-**Ukulele:** D 2220 · Em 0432 · A 2100 · G 0232 · Bm 4222 · Em7 0202
+**Ukulele:** D 2220 · G 0232 · A7 0100 · Em 0432 · A 2100 · Bm 4222 · Em7 0202
+
+Intro: `D` `G` `A7` `D` `D` `G` `A7` `D`
 
 ```text
-Intro: D G A7 D D G A7 D
 Refren:
-D         Em  A         D
-Feliz Navidad feliz Navidad
-          G            A           D
-Feliz Navidad prospero Ano y Felicidad.
-          Em  A         D
-Feliz Navidad feliz Navidad
-          G            A           D
-Feliz Navidad prospero Ano y Felicidad.
-                   G
-I wanna wish you a Merry Christmas
-A                  D
-I wanna wish you a Merry Christmas
-Bm                 G
-I wanna wish you a Merry Christmas
-         A            D
-From the bottom of my heart.
-                   G
-I wanna wish you a Merry Christmas
-A                  D
-I wanna wish you a Merry Christmas
-Bm                 G
-I wanna wish you a Merry Christmas
-         A            D
-From the bottom of my heart.
+/[D]  Feliz Navi[Em]dad [A]  Feliz Navi[D]dad
+[D]  Feliz Navi[G]dad prospero [A]Ano y Felici[D]dad!/ x2
+
+/[D]  I wanna wish you a [G]Merry Christmas
+[A]  I wanna wish you a [D]Merry Christmas
+[Bm]  I wanna wish you a [G]Merry Christmas
+From the [A]bottom of my [D]heart./ x2
 ```
 
 Notă: Măsura 4/4. Fiecare acord ține o măsură. Bătaie:
@@ -31972,96 +31951,60 @@ Sursa: Colinde Karban, p. 62
 **Ukulele:** D 2220 · A 2100 · Em 0432 · Bm 4222
 
 ```text
-D                        A
-Who’s got a beard that’s long and white
-A                          D
-Santa’s got a beard that’s long and white
-D                     A
-Who comes around on a special night
-A                       D
-Santa comes around on a special night
-A                       D
-Santa comes around on a special night
-D
-Special Night, beard that’s white
-Em      A      D       Bm
-Must be Santa, must be Santa
-Em      A            D
-Must be Santa, Santa Claus
-D                     A
-Who wears boots and a suit of red
-A                       D
-Santa wears boots and a suit of red
-D                    A
-Who wears a long cap on his head
-A                      D
-Santa wears a long cap on his head
-D
-Cap on head, suit that’s red
-D
-Special night, beard that’s white
-Em      A      D       Bm
-Must be Santa, must be Santa
-Em      A            D
-Must be Santa, Santa Claus
-D                   A
-Who’s got a big red cherry nose
-A                     D
-Santa’s got a big red cherry nose
-D                   A
-Who laughs this way HO HO HO
-A                     D
-Santa laughs this way HO HO HO
-D
-HO HO HO, cherry nose
-D
-Cap on head, suit that’s red
-D
-Special night, beard that’s white
-Em      A      D       Bm
-Must be Santa, must be Santa
-Em      A            D
-Must be Santa, Santa Claus
-D                  A
-Who very soon will come our way
-A                    D
-Santa very soon will come our way
-D                     A
-Eight little reindeer pull his sleigh
-A                       D
-Santa’s little reindeer pull his sleigh
-D
-Reindeer sleigh, come our way
-D
-HO HO HO, cherry nose
-D
-Cap on head, suit that’s red
-D
-Special night, beard that’s white
-Em      A      D       Bm
-Must be Santa, must be Santa
-Em      A            D
-Must be Santa, Santa Claus
-D               A
-Dasher, Dancer, Prancer, Vixen,
-A             D
-Comet, Cupid, Donner and Blitzen
-D               A
-Dasher, Dancer, Prancer, Vixen,
-A             D
-Comet, Cupid, Donner and Blitzen
-D
-Reindeer sleigh, come our way
-D
-HO HO HO, cherry nose
-D
-Cap on head, suit that’s red
-D
-Special night, beard that’s white
-Em      A      D       Bm
-Must be Santa, must be Santa
-Em      A            D
-Must be Santa, Santa Claus
+[D]Who’s got a beard that’s [A]long and white
+[A]Santa’s got a beard that’s [D]long and white
+[D]Who comes around on a [A]special night
+[A]Santa comes around on a [D]special night
+[A]Santa comes around on a [D]special night
+
+[D]Special Night, beard that’s white
+[Em]Must be [A]Santa, [D]must be [Bm]Santa
+[Em]Must be [A]Santa, Santa [D]Claus
+
+[D]Who wears boots and a [A]suit of red
+[A]Santa wears boots and a [D]suit of red
+[D]Who wears a long cap [A]on his head
+[A]Santa wears a long cap [D]on his head
+
+[D]Cap on head, suit that’s red
+[D]Special night, beard that’s white
+[Em]Must be [A]Santa, [D]must be [Bm]Santa
+[Em]Must be [A]Santa, Santa [D]Claus
+
+[D]Who’s got a big red [A]cherry nose
+[A]Santa’s got a big red [D]cherry nose
+[D]Who laughs this way [A]HO HO HO
+[A]Santa laughs this way [D]HO HO HO
+
+[D]HO HO HO, cherry nose
+[D]Cap on head, suit that’s red
+[D]Special night, beard that’s white
+[Em]Must be [A]Santa, [D]must be [Bm]Santa
+[Em]Must be [A]Santa, Santa [D]Claus
+
+[D]Who very soon will [A]come our way
+[A]Santa very soon will [D]come our way
+[D]Eight little reindeer [A]pull his sleigh
+[A]Santa’s little reindeer [D]pull his sleigh
+
+[D]Reindeer sleigh, come our way
+[D]HO HO HO, cherry nose
+[D]Cap on head, suit that’s red
+[D]Special night, beard that’s white
+[Em]Must be [A]Santa, [D]must be [Bm]Santa
+[Em]Must be [A]Santa, Santa [D]Claus
+
+[D]Dasher, Dancer, [A]Prancer, Vixen,
+[A]Comet, Cupid, [D]Donner and Blitzen
+[D]Dasher, Dancer, [A]Prancer, Vixen,
+[A]Comet, Cupid, [D]Donner and Blitzen
+
+[D]Reindeer sleigh, come our way
+[D]HO HO HO, cherry nose
+[D]Cap on head, suit that’s red
+[D]Special night, beard that’s white
+[Em]Must be [A]Santa, [D]must be [Bm]Santa
+[Em]Must be [A]Santa, Santa [D]Claus
 ```
 
 Notă: Ca bătaie se poate folosi modelul:
@@ -32353,35 +32296,23 @@ muzica/versuri: Johnny Marks 1949 · Sursa: Colinde Karban, p. 66
 **Ukulele:** C 0003 · G 0232 · F 2010 · Dm 2210 · D 2220 · C7 0001 · G7 0212
 
 ```text
-C                     C
-Rudolph the red-nosed reindeer,
-C                G
-Had a very shiny nose,
-G               G
-And if you ever saw it,
-G                     C
-You would even say it glows.
-C                C
-All of the other reindeer,
-C                          G
-Used to laugh and call him names,
-G                   G
-They never let poor Rudolph,
-G                    C      C
-Join in any reindeer games.
-Bridge:
-F              C              Dm    G       C
-Then one foggy Christmas Eve, Santa came to say,
-G                                  D                  G
-“Rudolph with your nose so bright, won’t you guide my sleigh tonight?”
-C                     C
-Then how the reindeer loved him,
-C                        G
-As they shouted out with glee,
-G
-“Rudolph the red-nosed reindeer,
-                       C
-You’ll go down in history.”
+[C]Rudolph the red-nosed ^reindeer (reindeer),
+[C]Had a very shiny [G]nose (Like a light bulb!),
+[G]And if you ever ^saw it (saw it),
+[G]You would even say it [C]glows (like a flashlight!).
+
+[C]All of the other ^reindeer (reindeer),
+[C]Used to laugh and call him [G]names (Like Pinocchio!),
+[G]They never let poor ^Rudolph (Rudolph),
+[G]Join in any reindeer [C]games (like Monopoly!).
+
+Bridge (x2):
+[F]Then one foggy [C]Christmas Eve, [Dm]Santa [G]came to [C]say (Ho, Ho, Ho),
+[G]“Rudolph with your ^nose so bright, [D]won’t you guide my [G]sleigh tonight?”
+[C]Then how the reindeer ^loved him (loved him),
+[C]As they shouted out with [G]glee (yipee),
+[G]“Rudolph the red-nosed ^reindeer (reindeer),
+[G]You’ll go down in histo[C]ry.” (like Columbus)
 ```
 
 Notă: Măsura 4/4. Fiecare măsură e notată cu acordul de început; excepții: `C`–`C7` și `Dm`–`G7`, cu câte o jumătate de măsură pe acord. „Pop-strum”:
@@ -32409,27 +32340,19 @@ muzica/versuri: J. Fred Coots/Haven Gillespie · Sursa: Colinde Karban, p. 67
 **Ukulele:** G 0232 · C 0003 · Cm 0333 · Em 0432 · Am 2000 · D 2220 · A 2100 · Ddim 1212
 
 ```text
-    G                     C          Cm   G
-You better watch out, you better not cry, better not pout,
-    C           Cm   G     Em       Am     D  G
-I’m telling you why: Santa Claus is coming to town.
-     G                 C           Cm     G
-He’s making a list and checking it twice, gonna find out
-      C           Cm    G     Em       Am     D  G
-who’s naughty and nice. Santa Claus is coming to town.
+You [G]better watch out, you [C]better not [Cm]cry, [G]better not pout,
+I’m [C]telling you [Cm]why: [G]Santa [Em]Claus is [Am]coming [D]to [G]town.
+He’s [G]making a list and [C]checking it [Cm]twice, [G]gonna find out
+who’s [C]naughty and [Cm]nice. [G]Santa [Em]Claus is [Am]coming [D]to [G]town.
+
 Refren:
-   G                    C
-He sees you when you’re sleeping.
-   G                   C
-He knows when you’re awake.
-   A                    D      Ddim
-He knows if you’ve been bad or good,
-      Em       A        D     D
-so be good for goodness sake! oh!
-    G                     C          Cm   G
-You better watch out, you better not cry, better not pout,
-    C           Cm   G     Em       Am     D  G
-I’m telling you why: Santa Claus is coming to town.
+He [G]sees you when you’re [C]sleeping.
+He [G]knows when you’re a[C]wake.
+He [A]knows if you’ve been [D]bad or [Ddim]good,
+so be [Em]good for [A]goodness [D]sake! ^oh!
+
+You [G]better watch out, you [C]better not [Cm]cry, [G]better not pout,
+I’m [C]telling you [Cm]why: [G]Santa [Em]Claus is [Am]coming [D]to [G]town.
 ```
 
 Notă: Măsura 4/4. Brushing:
@@ -32645,18 +32568,12 @@ Sursa: Colinde Karban, p. 71
 **Ukulele:** C 0003 · F 2010 · G 0232
 
 ```text
-C        C       F      C
-Twinkle, twinkle little star.
-F     C      G        C
-How I wonder what you are.
-C   F        C        G
-Up above the world so high,
-C      F       C      G
-Like a diamond in the sky.
-C        C       F      C
-Twinkle, twinkle little star.
-F     C      G        C
-How I wonder what you are.
+[C]Twinkle, ^twinkle [F]little [C]star.
+[F]How I [C]wonder [G]what you [C]are.
+[C]Up a[F]bove the [C]world so [G]high,
+[C]Like a [F]diamond [C]in the [G]sky.
+[C]Twinkle, ^twinkle [F]little [C]star.
+[F]How I [C]wonder [G]what you [C]are.
 ```
 
 Notă: Măsura 2/2. Bătaie simplă:
